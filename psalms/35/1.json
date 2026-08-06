@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Von Dawid. Führe ⟨den⟩ Rechtsstreit, JHWH, ⟨gegen⟩ ⟨את⟩ meine Widersacher, kämpfe ⟨gegen⟩ ⟨את⟩ meine Kämpfer.",
+  "tokens": [
+    {
+      "surface": "לְדָוִ֨ד",
+      "gloss": "Von Dawid"
+    },
+    {
+      "surface": "רִיבָ֣ה",
+      "gloss": "Führe ⟨den⟩ Rechtsstreit"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Widersacher"
+    },
+    {
+      "surface": "יְרִיבַ֑י",
+      "gloss": "meine Widersacher"
+    },
+    {
+      "surface": "לְ֝חַ֗ם",
+      "gloss": "kämpfe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Kämpfer"
+    },
+    {
+      "surface": "לֹֽחֲמָֽי",
+      "gloss": "meine Kämpfer"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:23.470874215Z",
+  "model": "glm-5.2"
+}

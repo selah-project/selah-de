@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 73,
+  "translation": "Mit deinem Rat leitest du mich, und danach nimmst du mich ⟨auf⟩ in Herrlichkeit.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Mit deinem Rat"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "leitest du mich"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "und danach"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "in Herrlichkeit"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "nimmst du mich ⟨auf⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:03.031551226Z",
+  "model": "glm-5.2"
+}

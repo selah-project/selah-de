@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Wenn er sie erschlug, dann fragten sie nach ihm, und sie kehrten um und suchten früh ⟨den⟩ El.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "er sie erschlug"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "dann fragten sie nach ihm"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "und sie kehrten um"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "und suchten früh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨den⟩ El"
+    }
+  ],
+  "timestamp": "2026-08-06T19:51:22.825587930Z",
+  "model": "glm-5.2"
+}

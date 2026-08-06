@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und Israel liebte ⟨את⟩ Josef mehr als alle ⟨seine⟩ Söhne, denn ein Sohn des Alters war er ihm. Und er machte ihm ein Ärmelgewand.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Und Israel"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liebte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mehr als alle"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "⟨seine⟩ Söhne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ein Sohn"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "des Alters"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "war er"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "Und ⟨er⟩ machte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ein Ärmelgewand"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "⟨–⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T20:02:09.330449545Z",
+  "model": "glm-5.2"
+}

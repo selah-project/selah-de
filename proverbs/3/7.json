@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Sei nicht weise in deinen Augen: fürchte ⟨את⟩ JHWH, und weiche vom Bösen!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "Sei"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "weise"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in deinen Augen"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fürchte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "und weiche"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "vom Bösen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:08:44.226853925Z",
+  "model": "glm-5.2"
+}

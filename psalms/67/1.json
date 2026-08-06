@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 67,
+  "translation": "Dem Chorleiter, auf Saitenspiel. Ein Mismor, ein Schir.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "auf Saitenspiel"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mismor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ein Schir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:05.306682518Z",
+  "model": "glm-5.2"
+}

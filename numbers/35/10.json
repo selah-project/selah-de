@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "„Rede zu den Söhnen Jisraels und sag zu ihnen: Wenn ihr ⟨den⟩ Jordan überquert, ins Land Kenaan —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Rede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "und sag"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "überquert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ins Land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-06T08:27:13.046973919Z",
+  "model": "glm-5.2"
+}

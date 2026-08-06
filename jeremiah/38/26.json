@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 38:26",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "dann sollst du zu ihnen sagen: ‚Ich ließ meine Bitte vor dem König zu Fall kommen, ⟨damit⟩ er mich nicht zurückbringen lässt ins Haus Jehonatans, um dort zu sterben.‘",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "dann sollst du sagen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "ich ließ zu Fall kommen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "meine Bitte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "er mich zurückbringen lässt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ins Haus"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatans"
+    },
+    {
+      "surface": "למות",
+      "gloss": "um zu sterben"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-06T03:37:10.568694772Z",
+  "model": "glm-5.2"
+}

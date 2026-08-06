@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Er irrt umher — wo ⟨gibt es⟩ Brot? Er weiß, dass bereit ⟨steht⟩ in seiner Hand ein Tag der Finsternis.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "Er irrt umher"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "⟨wegen⟩ Brot"
+    },
+    {
+      "surface": "איה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Er weiß"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "bereit ⟨steht⟩"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in seiner Hand"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ein Tag"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "der Finsternis"
+    }
+  ],
+  "timestamp": "2026-08-06T04:34:10.436060121Z",
+  "model": "glm-5.2"
+}

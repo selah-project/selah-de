@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Ihre Burg sei verwüstet, in ihren Zelten sei kein Wohnender.",
+  "tokens": [
+    {
+      "surface": "תְּהִי",
+      "gloss": "sei"
+    },
+    {
+      "surface": "טִֽירָתָ֥ם",
+      "gloss": "ihre Burg"
+    },
+    {
+      "surface": "נְשַׁמָּ֑ה",
+      "gloss": "verwüstet"
+    },
+    {
+      "surface": "בְּאָהֳלֵיהֶ֗ם",
+      "gloss": "in ihren Zelten"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יְהִ֥י",
+      "gloss": "sei"
+    },
+    {
+      "surface": "יֹשֵֽׁב",
+      "gloss": "ein Wohnender"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:17.846011121Z",
+  "model": "glm-5.2"
+}

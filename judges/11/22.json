@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und sie nahmen ⟨את⟩ das ganze Gebiet des Emori in Besitz, vom Arnon bis zum Jabok, und von der Wüste bis zum Jordan.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Und sie nahmen in Besitz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Gebiet des Emori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "Gebiet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "des Emori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "vom Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Jabok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "und von der"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "Wüste"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    }
+  ],
+  "timestamp": "2026-08-05T21:03:56.132823231Z",
+  "model": "glm-5.2"
+}

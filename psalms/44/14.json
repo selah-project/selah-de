@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Du machst uns zur Schmach für unsere Nachbarn, zum Spott und zum Hohn für die Ringsum.",
+  "tokens": [
+    {
+      "surface": "תְּשִׂימֵ֣נוּ",
+      "gloss": "Du machst uns"
+    },
+    {
+      "surface": "חֶ֭רְפָּה",
+      "gloss": "zur Schmach"
+    },
+    {
+      "surface": "לִשְׁכֵנֵ֑ינוּ",
+      "gloss": "für unsere Nachbarn"
+    },
+    {
+      "surface": "לַ֥עַג",
+      "gloss": "zum Spott"
+    },
+    {
+      "surface": "וָ֝קֶ֗לֶס",
+      "gloss": "und zum Hohn"
+    },
+    {
+      "surface": "לִסְבִיבוֹתֵֽינוּ",
+      "gloss": "für die Ringsum"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:21.392534777Z",
+  "model": "glm-5.2"
+}

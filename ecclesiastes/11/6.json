@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Am Morgen säe ⟨את⟩ deinen Samen, und am Abend lass deine Hand nicht ruhen, denn du weißt nicht, ob dieses oder jenes gelingt, und wenn beide gleichermaßen gut sind.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "säe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Samen"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "deinen Samen"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "und am Abend"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "lass ruhen"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "du nicht"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "weißt"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ob"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "gelingt"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "זה",
+      "gloss": "jenes"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "beide"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "gleichermaßen"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "gut sind"
+    }
+  ],
+  "timestamp": "2026-08-06T09:29:10.416165261Z",
+  "model": "glm-5.2"
+}

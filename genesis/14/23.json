@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "„Wenn ⟨von⟩ einem Faden bis zu einem Schuhriemen, und wenn ich nehme von allem, was dein ist, und du nicht sagen sollst: Ich selbst habe Awram reich gemacht ⟨את⟩ Awram.“",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "von einem Faden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "einem Schuhriemen"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "⟨eines⟩ Schuhs"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ich nehme"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "von allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dein ist"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sagen sollst"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich selbst"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "habe reich gemacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    }
+  ],
+  "timestamp": "2026-08-05T19:56:12.340530507Z",
+  "model": "glm-5.2"
+}

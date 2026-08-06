@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Und Josef sprach: „Gebt euer Vieh, und ich werde euch ⟨Brot⟩ geben für euer Vieh, wenn das Silber zu Ende ist.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Gebt"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "euer Vieh"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "und ich werde … geben"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "für euer Vieh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "zu Ende ist"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "das Silber"
+    }
+  ],
+  "timestamp": "2026-08-05T17:42:44.857178556Z",
+  "model": "glm-5.2"
+}

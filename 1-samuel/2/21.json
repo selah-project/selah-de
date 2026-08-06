@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Denn JHWH gedachte ⟨an⟩ ⟨את⟩ Channa, und sie wurde schwanger und gebar drei Söhne und zwei Töchter. Und der Junge, Schmuël, wuchs heran bei JHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "gedachte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Channa"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channa"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "und sie wurde schwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "und sie gebar"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drei"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "und zwei"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Töchter"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "und ⟨er⟩ wuchs heran"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "der Junge"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T21:07:50.863303009Z",
+  "model": "glm-5.2"
+}

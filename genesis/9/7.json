@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ihr, seid fruchtbar und mehrt euch, wimmelt auf der Erde und mehrt euch auf ihr.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "und ihr"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "seid fruchtbar"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "und mehrt euch"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "wimmelt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "und mehrt euch"
+    },
+    {
+      "surface": "בה",
+      "gloss": "auf ihr"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:18.689093356Z",
+  "model": "glm-5.2"
+}

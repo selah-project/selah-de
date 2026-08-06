@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und du sollst ⟨את⟩ das Gebot und ⟨את⟩ die Satzungen und ⟨את⟩ die Rechtsbestimmungen bewahren, die ich dir heute gebiete, zu tun.",
+  "tokens": [
+    {
+      "surface": "וְשָׁמַרְתָּ֨",
+      "gloss": "und du sollst bewahren"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Gebot"
+    },
+    {
+      "surface": "הַמִּצְוָ֜ה",
+      "gloss": "das Gebot"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Satzungen"
+    },
+    {
+      "surface": "הַחֻקִּ֣ים",
+      "gloss": "die Satzungen"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Rechtsbestimmungen"
+    },
+    {
+      "surface": "הַמִּשְׁפָּטִ֗ים",
+      "gloss": "die Rechtsbestimmungen"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אָנֹכִ֧י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מְצַוְּךָ֛",
+      "gloss": "dir gebiete"
+    },
+    {
+      "surface": "הַיּ֖וֹם",
+      "gloss": "heute"
+    },
+    {
+      "surface": "לַעֲשׂוֹתָֽם",
+      "gloss": "zu tun"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:16.639506462Z",
+  "model": "glm-5.2"
+}

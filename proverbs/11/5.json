@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Die Zedek des Lauteren richtet seinen Weg gerade, und durch seine Rücksichtslosigkeit fällt der Rascha.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "Die Zedek"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "des Lauteren"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "richtet gerade"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "seinen Weg"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "und durch seine Rücksichtslosigkeit"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "fällt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "der Rascha"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:38.334449586Z",
+  "model": "glm-5.2"
+}

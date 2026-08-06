@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "⟨את⟩ das Fett esst ihr, und ⟨את⟩ die Wolle kleidet ihr euch, das Gemästete schlachtet ihr, die Herde weidet ihr nicht.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Fett"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "das Fett"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "esst ihr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Wolle"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "die Wolle"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "kleidet ihr euch"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "das Gemästete"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "schlachtet ihr"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "die Herde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "weidet ihr"
+    }
+  ],
+  "timestamp": "2026-08-05T22:26:40.075753829Z",
+  "model": "glm-5.2"
+}

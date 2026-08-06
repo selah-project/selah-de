@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich freue mich über dein Wort wie einer, der reiche Beute findet.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Ich freue mich"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dein Wort"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "wie einer, der findet"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Beute"
+    },
+    {
+      "surface": "רב",
+      "gloss": "reiche"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:53.193265335Z",
+  "model": "glm-5.2"
+}

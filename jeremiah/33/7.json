@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und ich wende die Gefangenschaft von Jehuda und ⟨את⟩ die Gefangenschaft von Jisraël und baue sie ⟨auf⟩ wie am Anfang.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Und ich wende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Gefangenschaft"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "die Gefangenschaft"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Gefangenschaft"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "die Gefangenschaft"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisraël"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "und baue sie ⟨auf⟩"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "wie am Anfang"
+    }
+  ],
+  "timestamp": "2026-08-05T22:08:30.863345649Z",
+  "model": "glm-5.2"
+}

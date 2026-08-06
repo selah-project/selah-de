@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "Gesegnet seid ihr von JHWH, dem Macher des Himmels und der Erde.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "gesegnet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "seid ihr"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dem Macher"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "und ⟨der⟩ Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:43.418188287Z",
+  "model": "glm-5.2"
+}

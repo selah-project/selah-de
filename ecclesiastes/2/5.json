@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Ich machte mir Gärten und Paradiese und pflanzte in sie Bäume ⟨von⟩ jeder ⟨Art⟩ Frucht.",
+  "tokens": [
+    {
+      "surface": "עָשִׂ֣יתִי",
+      "gloss": "machte"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "גַּנּ֖וֹת",
+      "gloss": "Gärten"
+    },
+    {
+      "surface": "וּפַרְדֵּסִ֑ים",
+      "gloss": "und Paradiese"
+    },
+    {
+      "surface": "וְנָטַ֥עְתִּי",
+      "gloss": "und pflanzte"
+    },
+    {
+      "surface": "בָהֶ֖ם",
+      "gloss": "in sie"
+    },
+    {
+      "surface": "עֵ֥ץ",
+      "gloss": "Bäume"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "פֶּֽרִי",
+      "gloss": "Frucht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:40.481732873Z",
+  "model": "glm-5.2"
+}

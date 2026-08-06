@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Die Bestimmungen JHWHs sind richtig, sie erfreuen das Herz; das Gebot JHWHs ist lauter, es erleuchtet die Augen.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Die Bestimmungen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sind richtig"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "sie erfreuen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "das Gebot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ist lauter"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "es erleuchtet"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "die Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:14.578627491Z",
+  "model": "glm-5.2"
+}

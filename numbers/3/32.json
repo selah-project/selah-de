@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 3:32",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ⟨der⟩ Fürst der Fürsten der Lewi ⟨war⟩ Elasar, Sohn Aharons, des Kohen — ⟨die⟩ Aufsicht über die Wächter der Obhut des Heiligen.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "Und ⟨der⟩ Fürst"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "der Fürsten"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "der Lewi"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "des Kohen"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "⟨die⟩ Aufsicht"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "über die Wächter"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "der Obhut"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "des Heiligen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:31:55.153625048Z",
+  "model": "glm-5.2"
+}

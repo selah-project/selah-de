@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 83,
+  "translation": "Denn siehe, deine Feinde toben, und die dich hassen, ⟨sie⟩ haben ⟨das⟩ Haupt erhoben.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "deine Feinde"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "toben"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "und die dich hassen"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "haben erhoben"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨das⟩ Haupt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:56.370325454Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und beschneidet ⟨את⟩ die Vorhaut eures Herzens, und verhärtet euren Nacken nicht mehr!",
+  "tokens": [
+    {
+      "surface": "וּמַלְתֶּם",
+      "gloss": "und beschneidet"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "die Vorhaut eures Herzens"
+    },
+    {
+      "surface": "עָרְלַת",
+      "gloss": "die Vorhaut"
+    },
+    {
+      "surface": "לְבַבְכֶם",
+      "gloss": "eures Herzens"
+    },
+    {
+      "surface": "וְעָרְפְּכֶם",
+      "gloss": "euren Nacken"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַקְשׁוּ",
+      "gloss": "verhärtet"
+    },
+    {
+      "surface": "עֽוֹד",
+      "gloss": "mehr"
+    }
+  ],
+  "timestamp": "2026-08-06T05:27:39.175210298Z",
+  "model": "glm-5.2"
+}

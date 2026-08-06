@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Er sandte von der Höhe, er nahm mich, er zog mich aus gewaltigen Wassern.",
+  "tokens": [
+    {
+      "surface": "יִשְׁלַ֣ח",
+      "gloss": "Er sandte"
+    },
+    {
+      "surface": "מִ֭מָּרוֹם",
+      "gloss": "von der Höhe"
+    },
+    {
+      "surface": "יִקָּחֵ֑נִי",
+      "gloss": "er nahm mich"
+    },
+    {
+      "surface": "יַֽ֝מְשֵׁ֗נִי",
+      "gloss": "er zog mich"
+    },
+    {
+      "surface": "מִמַּ֥יִם",
+      "gloss": "aus Wassern"
+    },
+    {
+      "surface": "רַבִּֽים",
+      "gloss": "gewaltigen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:28.912729325Z",
+  "model": "glm-5.2"
+}

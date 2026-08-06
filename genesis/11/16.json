@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Ewer lebte vierunddreißig Jahre und zeugte ⟨את⟩ Peleg.",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִי",
+      "gloss": "und lebte"
+    },
+    {
+      "surface": "עֵ֕בֶר",
+      "gloss": "Ewer"
+    },
+    {
+      "surface": "אַרְבַּ֥ע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁ֖ים",
+      "gloss": "und dreißig"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "וַיּ֖וֹלֶד",
+      "gloss": "und zeugte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פָּֽלֶג",
+      "gloss": "Peleg"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:47.159028084Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Reiss mich heraus ⟨von⟩ Blutschuld, Elohim, Elohim meiner Rettung, ⟨dann⟩ wird meine Zunge jubeln ⟨über⟩ deine Zedaka.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "reiss mich heraus"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "⟨von⟩ Blutschuld"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "meiner Rettung"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "wird jubeln"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "meine Zunge"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "deine Zedaka"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:27.006741857Z",
+  "model": "glm-5.2"
+}

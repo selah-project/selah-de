@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Du sollst nicht pflügen mit einem Rind und ⟨mit⟩ einem Esel zusammen.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַחֲרֹ֥שׁ",
+      "gloss": "sollst du pflügen"
+    },
+    {
+      "surface": "בְּשׁוֹר",
+      "gloss": "mit einem Rind"
+    },
+    {
+      "surface": "וּבַחֲמֹ֖ר",
+      "gloss": "und ⟨mit⟩ einem Esel"
+    },
+    {
+      "surface": "יַחְדָּֽו",
+      "gloss": "zusammen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:12.867177190Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und ⟨es⟩ soll ⟨sein⟩ der Schabbat der Erde euch zur Speise: für dich und für deinen Knecht und für deine Magd und für deinen Lohnarbeiter und für deinen Beisassen, ⟨den⟩ Fremdling ⟨bei⟩ dir.",
+  "tokens": [
+    {
+      "surface": "וְ֠הָיְתָה",
+      "gloss": "Und soll sein"
+    },
+    {
+      "surface": "שַׁבַּ֨ת",
+      "gloss": "der Schabbat"
+    },
+    {
+      "surface": "הָאָ֤רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "לָכֶם֙",
+      "gloss": "euch"
+    },
+    {
+      "surface": "לְאָכְלָ֔ה",
+      "gloss": "zur Speise"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "für dich"
+    },
+    {
+      "surface": "וּלְעַבְדְּךָ֣",
+      "gloss": "und für deinen Knecht"
+    },
+    {
+      "surface": "וְלַאֲמָתֶ֑ךָ",
+      "gloss": "und für deine Magd"
+    },
+    {
+      "surface": "וְלִשְׂכִֽירְךָ֙",
+      "gloss": "und für deinen Lohnarbeiter"
+    },
+    {
+      "surface": "וּלְתוֹשָׁ֣בְךָ֔",
+      "gloss": "und für deinen Beisassen"
+    },
+    {
+      "surface": "הַגָּרִ֖ים",
+      "gloss": "den Fremdling"
+    },
+    {
+      "surface": "עִמָּֽךְ",
+      "gloss": "bei dir"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:32.025677165Z",
+  "model": "glm-5.2"
+}

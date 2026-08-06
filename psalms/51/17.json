@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Adonai, ⟨meine⟩ Lippen öffne, und mein Mund wird deinen Ruhm kundtun.",
+  "tokens": [
+    {
+      "surface": "אֲ֭דֹנָי",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שְׂפָתַ֣י",
+      "gloss": "meine Lippen"
+    },
+    {
+      "surface": "תִּפְתָּ֑ח",
+      "gloss": "öffne"
+    },
+    {
+      "surface": "וּ֝פִ֗י",
+      "gloss": "und mein Mund"
+    },
+    {
+      "surface": "יַגִּ֥יד",
+      "gloss": "wird kundtun"
+    },
+    {
+      "surface": "תְּהִלָּתֶֽךָ",
+      "gloss": "deinen Ruhm"
+    }
+  ],
+  "timestamp": "2026-08-06T19:51:23.967507508Z",
+  "model": "glm-5.2"
+}

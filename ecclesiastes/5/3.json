@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Wenn du ein Gelübde gelobst Elohim, zögere nicht, es zu erfüllen, denn ⟨es gibt⟩ kein Gefallen an Toren; ⟨את⟩ was du gelobst, erfülle!",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "du gelobst"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ein Gelübde"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "zögere"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "es zu erfüllen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kein"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Gefallen"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "an Toren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "was du gelobst"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "du gelobst"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "erfülle"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:06.810456092Z",
+  "model": "glm-5.2"
+}

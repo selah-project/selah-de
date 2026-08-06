@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Chiram zog aus von Tzor, um ⟨את⟩ die Städte zu sehen, die Schelomo ihm gegeben hatte. Und sie gefielen ihm nicht.",
+  "tokens": [
+    {
+      "surface": "וַיֵּצֵ֤א",
+      "gloss": "Und er zog aus"
+    },
+    {
+      "surface": "חִירָם֙",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מִצֹּ֔ר",
+      "gloss": "von Tzor"
+    },
+    {
+      "surface": "לִרְאוֹת֙",
+      "gloss": "um zu sehen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Städte"
+    },
+    {
+      "surface": "הֶ֣עָרִ֔ים",
+      "gloss": "die Städte"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נָתַן",
+      "gloss": "gegeben hatte"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "שְׁלֹמֹ֑ה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יָשְׁר֖וּ",
+      "gloss": "gefielen"
+    },
+    {
+      "surface": "בְּעֵינָֽיו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T01:24:50.059498380Z",
+  "model": "glm-5.2"
+}

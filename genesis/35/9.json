@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und Elohim erschien Jaakow noch einmal, bei seinem Kommen aus Paddan-Aram, und ⟨er⟩ segnete ⟨את⟩ ihn.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "und erschien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "noch einmal"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "bei seinem Kommen"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "aus Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "und segnete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T20:05:50.315093824Z",
+  "model": "glm-5.2"
+}

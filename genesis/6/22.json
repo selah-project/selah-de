@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Noach machte ⟨es⟩; nach allem, was Elohim ⟨את⟩ ihm geboten hatte, so machte er ⟨es⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und ⟨er⟩ machte"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nach allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn (Noach)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "machte er"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:14.702476586Z",
+  "model": "glm-5.2"
+}

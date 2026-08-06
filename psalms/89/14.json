@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Dein ⟨ist⟩ der Arm ⟨zusammen⟩ mit Macht; stark ⟨ist⟩ deine Hand, erhoben ⟨ist⟩ deine Rechte.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "Arm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zusammen mit"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "Macht"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "stark"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "erhoben"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "deine Rechte"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:07.143371851Z",
+  "model": "glm-5.2"
+}

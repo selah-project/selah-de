@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "an einem Tag, in allen Provinzen des Königs Achaschwerosch, am dreizehnten ⟨Tag⟩ des zwölften Monats — das ist der Monat Adar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "an einem Tag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in allen"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "Provinzen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achaschwerosch"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "am drei"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehnten"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "das ist"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "der Monat"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    }
+  ],
+  "timestamp": "2026-08-06T04:44:30.808659472Z",
+  "model": "glm-5.2"
+}

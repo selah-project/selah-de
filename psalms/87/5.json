@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 87,
+  "translation": "Und von Zizjon wird ⟨man⟩ sagen: „Ein Mann, und wieder ein Mann wurde in ihr geboren",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "und von Zizjon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wird ⟨man⟩ sagen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "und wieder ein Mann"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wurde geboren"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in ihr"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und er"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "wird sie gründen"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "der Höchste"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:07.699818898Z",
+  "model": "glm-5.2"
+}

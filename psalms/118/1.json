@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Dankt JHWH, denn ⟨er ist⟩ gut, denn für immer ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Dankt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:35.829762374Z",
+  "model": "glm-5.2"
+}

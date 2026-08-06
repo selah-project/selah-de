@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und die Raben brachten ihm Brot und Fleisch am Morgen und Brot und Fleisch am Abend, und aus dem Bach trank er.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "Und die Raben"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "brachten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "und Fleisch"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "und Brot"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "und Fleisch"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "am Abend"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "und aus"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "dem Bach"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "trank er"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:55.218378430Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 61,
+  "translation": "Vom Ende der Erde zu dir rufe ich, wenn ⟨sich⟩ mein Herz verschleiert, zum Felsen, der höher ist als ich, leite mich.",
+  "tokens": [
+    {
+      "surface": "מִקְצֵ֤ה",
+      "gloss": "vom Ende"
+    },
+    {
+      "surface": "הָאָ֨רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "אֵלֶ֣יךָ",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "אֶ֭קְרָא",
+      "gloss": "rufe ich"
+    },
+    {
+      "surface": "בַּעֲטֹ֣ף",
+      "gloss": "wenn ⟨sich⟩ verschleiert"
+    },
+    {
+      "surface": "לִבִּ֑י",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "בְּצוּר",
+      "gloss": "zum Felsen"
+    },
+    {
+      "surface": "יָר֖וּם",
+      "gloss": "der höher ist"
+    },
+    {
+      "surface": "מִמֶּ֣נִּי",
+      "gloss": "als ich"
+    },
+    {
+      "surface": "תַנְחֵֽנִי",
+      "gloss": "leite mich"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:29.349268763Z",
+  "model": "glm-5.2"
+}

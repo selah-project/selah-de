@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Es ende sich doch ⟨das⟩ Böse der Frevler, aber ⟨du⟩ festige ⟨den⟩ Gerechten. Und ⟨der⟩ die Herzen prüft, ⟨auch⟩ die Nieren — Elohim, der Gerechte.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "es ende sich"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "aber festige"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Gerechten"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "und ⟨der⟩ prüft"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "⟨auch⟩ die Nieren"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "der Gerechte"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:17.927194183Z",
+  "model": "glm-5.2"
+}

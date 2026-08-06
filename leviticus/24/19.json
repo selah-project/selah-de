@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und ⟨wenn⟩ ein Mann einen Makel in seinem Mitmenschen gibt: wie er getan hat, so soll ihm getan werden.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Und ein Mann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨wenn⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "מום",
+      "gloss": "einen Makel"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "in seinem Mitmenschen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er getan hat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "soll getan werden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:44.839530929Z",
+  "model": "glm-5.2"
+}

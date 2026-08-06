@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Er selbst schlug ⟨את⟩ Edom im Salztal, zehntausend, und ergriff ⟨את⟩ den Felsen im Krieg, und er nannte ⟨את⟩ seinen Namen Joktëel, bis zu diesem Tag.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Er selbst"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "im Tal"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Salz"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "und ergriff"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Felsen"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "den Felsen"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "im Krieg"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er nannte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Namen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Joktëel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "diesem Tag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    }
+  ],
+  "timestamp": "2026-08-06T08:49:04.091060047Z",
+  "model": "glm-5.2"
+}

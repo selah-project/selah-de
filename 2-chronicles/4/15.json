@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "⟨את⟩ das ⟨eine⟩ Meer, und ⟨את⟩ die zwölf Rinder darunter.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Meer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eins"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Rinder"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "die Rinder"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "darunter"
+    }
+  ],
+  "timestamp": "2026-08-06T09:35:35.270811435Z",
+  "model": "glm-5.2"
+}

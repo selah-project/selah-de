@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Du gibst ihnen — sie sammeln, du tust deine Hand auf — sie sättigen sich an Gutem.",
+  "tokens": [
+    {
+      "surface": "תִּתֵּן",
+      "gloss": "du gibst"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "יִלְקֹטוּן",
+      "gloss": "sie sammeln"
+    },
+    {
+      "surface": "תִּפְתַּח",
+      "gloss": "du tust auf"
+    },
+    {
+      "surface": "יָדְךָ",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "יִשְׂבְּעוּן",
+      "gloss": "sie sättigen sich"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "an Gutem"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:42.741783537Z",
+  "model": "glm-5.2"
+}

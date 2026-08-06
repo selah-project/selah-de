@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "Dem, der die Himmel macht mit Einsicht — ja, für ewig ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Dem, der … macht"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die Himmel"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "mit Einsicht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:33.457895891Z",
+  "model": "glm-5.2"
+}

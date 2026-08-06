@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Das Tun eines Gerechten ⟨führt⟩ zum Leben, der Ertrag eines Frevlers ⟨führt⟩ zur Sünde.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "Das Tun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "eines Gerechten"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "zum Leben"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "der Ertrag"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "eines Frevlers"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "zur Sünde"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:17.098315581Z",
+  "model": "glm-5.2"
+}

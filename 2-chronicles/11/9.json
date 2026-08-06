@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und ⟨את⟩ Adorajim und ⟨את⟩ Lachisch und ⟨את⟩ Aseka",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adorajim"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adorajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lachisch"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lachisch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aseka"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Aseka"
+    }
+  ],
+  "timestamp": "2026-08-06T07:25:47.682317777Z",
+  "model": "glm-5.2"
+}

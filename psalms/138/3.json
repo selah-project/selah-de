@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 138,
+  "translation": "Am Tag, da ich rief, da antwortetest du mir, du machst mir Mut in meiner Nefesch ⟨mit⟩ Stärke.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "da ich rief"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "da antwortetest du mir"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "du machst mir Mut"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "in meiner Nefesch"
+    },
+    {
+      "surface": "עז",
+      "gloss": "Stärke"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:30.790813223Z",
+  "model": "glm-5.2"
+}

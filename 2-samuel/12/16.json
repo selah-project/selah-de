@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und Dawid suchte ⟨את⟩ die Elohim wegen des Knaben, und Dawid hielt ein Fasten, und er kam und übernachtete und lag zur Erde.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "und suchte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "des Knaben"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "und hielt ein Fasten"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צום",
+      "gloss": "Fasten"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "und kam"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "und übernachtete"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "und lag"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T22:38:58.061335523Z",
+  "model": "glm-5.2"
+}

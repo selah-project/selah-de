@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und Awimelech gebot ⟨את⟩ dem ganzen Volk und sagte: „Wer diesen Mann oder seine Frau antastet — dem Tod soll er getötet werden.“",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Und er gebot"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem ganzen Volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "der Antastende"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "an ⟨diesem⟩ Mann"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "und an seiner Frau"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dem Tod"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "soll er getötet werden"
+    }
+  ],
+  "timestamp": "2026-08-06T00:07:17.481213479Z",
+  "model": "glm-5.2"
+}

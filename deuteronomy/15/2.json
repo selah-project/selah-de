@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und dies ⟨ist⟩ die Sache der Schmita: Jeder Eigentümer einer Darlehnshand, die er seinem Nächsten geliehen hat, soll ⟨sie⟩ loslassen — er soll ⟨von⟩ seinem Nächsten und ⟨von⟩ seinem Bruder nicht eintreiben, ⟨denn⟩ ⟨es ist⟩ Schmita für JHWH gerufen worden.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "der Schmita"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "soll loslassen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Jeder"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Eigentümer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "einer Darlehens-"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "er geliehen hat"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "seinem Nächsten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "soll eintreiben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Nächsten"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "seinen Nächsten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seinen Bruder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seinen Bruder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gerufen worden ist"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "Schmita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:32.001703313Z",
+  "model": "glm-5.2"
+}

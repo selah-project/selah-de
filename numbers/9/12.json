@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Sie sollen nichts davon bis zum Morgen übrig lassen, und keinen Knochen sollen sie daran zerbrechen; nach der ganzen Ordnung des Pesach sollen sie ⟨es⟩ machen.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "יַשְׁאִ֤ירוּ",
+      "gloss": "sollen sie übrig lassen"
+    },
+    {
+      "surface": "מִמֶּ֨נּוּ֙",
+      "gloss": "davon"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בֹּ֔קֶר",
+      "gloss": "zum Morgen"
+    },
+    {
+      "surface": "וְעֶ֖צֶם",
+      "gloss": "und keinen Knochen"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִשְׁבְּרוּ",
+      "gloss": "sollen sie zerbrechen"
+    },
+    {
+      "surface": "ב֑וֹ",
+      "gloss": "daran"
+    },
+    {
+      "surface": "כְּכָל",
+      "gloss": "nach der ganzen"
+    },
+    {
+      "surface": "חֻקַּ֥ת",
+      "gloss": "Ordnung"
+    },
+    {
+      "surface": "הַפֶּ֖סַח",
+      "gloss": "des Pesach"
+    },
+    {
+      "surface": "יַעֲשׂ֥וּ",
+      "gloss": "sollen sie machen"
+    },
+    {
+      "surface": "אֹתֽוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ihn (das Pesach)"
+    }
+  ],
+  "timestamp": "2026-08-06T00:33:36.855168148Z",
+  "model": "glm-5.2"
+}

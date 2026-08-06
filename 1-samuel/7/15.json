@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und Schmuël richtete ⟨את⟩ Jisra'el alle Tage seines Lebens.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "und richtete"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "seines Lebens"
+    }
+  ],
+  "timestamp": "2026-08-06T01:04:37.170739338Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Dawid wollte ⟨die⟩ Lade JHWHs ⟨את⟩ nicht zu sich in die Stadt Dawids bringen, sondern Dawid lenkte sie um zum Haus Oved-Edoms, des Gatiters.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "wollte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "bringen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu sich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Lade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "und lenkte sie um"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zum Haus"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoms"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "des Gatiters"
+    }
+  ],
+  "timestamp": "2026-08-06T02:50:19.590934339Z",
+  "model": "glm-5.2"
+}

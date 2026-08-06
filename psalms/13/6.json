@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Ich aber, ich habe vertraut auf dein Chessed, jauchzen wird mein Herz in deiner Rettung. Ich will singen für JHWH, denn er hat an mir reich gehandelt.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֤י",
+      "gloss": "ich aber"
+    },
+    {
+      "surface": "בְּחַסְדְּךָ֣",
+      "gloss": "auf dein Chessed"
+    },
+    {
+      "surface": "בָטַחְתִּי֮",
+      "gloss": "ich habe vertraut"
+    },
+    {
+      "surface": "יָ֤גֵ֥ל",
+      "gloss": "jauchzen wird"
+    },
+    {
+      "surface": "לִבִּ֗י",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "בִּֽישׁוּעָ֫תֶ֥ךָ",
+      "gloss": "in deiner Rettung"
+    },
+    {
+      "surface": "אָשִׁ֥ירָה",
+      "gloss": "ich will singen"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גָמַ֣ל",
+      "gloss": "er hat … gehandelt"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "an mir (reich)"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:32.763647723Z",
+  "model": "glm-5.2"
+}

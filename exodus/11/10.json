@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Mosche und Aharon taten ⟨את⟩ all diese Zeichen vor Paro. Und JHWH stärkte ⟨את⟩ das Herz Paros, und er sandte ⟨את⟩ die Söhne Jisraels nicht aus seinem Land.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Und Mosche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "taten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all diese Zeichen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "diese Zeichen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "und ⟨er⟩ stärkte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Herz Paros"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paros"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sandte ⟨er⟩ aus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "aus seinem Land"
+    }
+  ],
+  "timestamp": "2026-08-06T05:15:10.016909453Z",
+  "model": "glm-5.2"
+}

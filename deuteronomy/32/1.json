@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Horcht auf, ihr Himmel, und ich will reden, und ⟨die⟩ Erde höre die Worte meines Mundes!",
+  "tokens": [
+    {
+      "surface": "הַאֲזִ֥ינוּ",
+      "gloss": "Horcht auf"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "ihr Himmel"
+    },
+    {
+      "surface": "וַאֲדַבֵּ֑רָה",
+      "gloss": "und ich will reden"
+    },
+    {
+      "surface": "וְתִשְׁמַ֥ע",
+      "gloss": "und ⟨sie⟩ höre"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "אִמְרֵי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "פִֽי",
+      "gloss": "meines Mundes"
+    }
+  ],
+  "timestamp": "2026-08-06T09:54:58.323053081Z",
+  "model": "glm-5.2"
+}

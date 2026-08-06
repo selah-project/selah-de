@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Für den Chorleiter, für die Söhne Korachs, ein Mismor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für den Chorleiter"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "für die Söhne"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachs"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ein Mismor"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:06.729898356Z",
+  "model": "glm-5.2"
+}

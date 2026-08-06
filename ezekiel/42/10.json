@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "In der Breite der Mauer des Hofes, ⟨auf dem⟩ Weg nach Osten, ⟨vor⟩ das Angesicht der Absonderung und ⟨vor⟩ das Angesicht des Gebäudes — Räume.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "in der Breite"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "der Mauer"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "des Hofes"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Weg"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "nach Osten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dem Angesicht"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "der Absonderung"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dem Angesicht"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "des Gebäudes"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "Räume"
+    }
+  ],
+  "timestamp": "2026-08-06T06:28:20.054091350Z",
+  "model": "glm-5.2"
+}

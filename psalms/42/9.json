@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Am Tag wird JHWH sein Chessed gebieten, und bei Nacht ⟨ist⟩ sein Lied bei mir — ein Gebet zu El meines Lebens.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Am Tag"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "wird … gebieten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "und bei Nacht"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "⟨sein⟩ Lied"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bei mir"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ein Gebet"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "zu El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "meines Lebens"
+    }
+  ],
+  "timestamp": "2026-08-06T15:22:33.964169440Z",
+  "model": "glm-5.2"
+}

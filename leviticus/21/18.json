@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Denn jeder Mann, an dem ein Makel ist, soll nicht herantreten: ein blinder Mann oder ein lahmer oder ein ⟨mit eingesunkener Nase⟩ oder ein ⟨mit überzähligem Körperteil⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "an dem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "an ihm"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ein Makel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "soll herantreten"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein ⟨Mann⟩"
+    },
+    {
+      "surface": "עור",
+      "gloss": "blinder"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ein lahmer"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ein ⟨mit eingesunkener Nase⟩"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "ein ⟨mit überzähligem Körperteil⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:07.911837375Z",
+  "model": "glm-5.2"
+}

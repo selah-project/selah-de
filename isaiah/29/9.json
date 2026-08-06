@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Zögert und staunt; betäubt euch und ⟨werdet⟩ blind! ⟨Man⟩ ⟨ist⟩ betrunken, und nicht von Wein; ⟨man⟩ taumelt, und nicht von Rauschtrank.",
+  "tokens": [
+    {
+      "surface": "הִתְמַהְמְה֣וּ",
+      "gloss": "Zögert"
+    },
+    {
+      "surface": "וּתְמָ֔הוּ",
+      "gloss": "und staunt"
+    },
+    {
+      "surface": "הִשְׁתַּֽעַשְׁע֖וּ",
+      "gloss": "betäubt euch"
+    },
+    {
+      "surface": "וָשֹׁ֑עוּ",
+      "gloss": "und ⟨werdet⟩ blind"
+    },
+    {
+      "surface": "שָֽׁכְר֣וּ",
+      "gloss": "⟨Man⟩ ⟨ist⟩ betrunken"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יַ֔יִן",
+      "gloss": "von Wein"
+    },
+    {
+      "surface": "נָע֖וּ",
+      "gloss": "⟨man⟩ taumelt"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "שֵׁכָֽר",
+      "gloss": "von Rauschtrank"
+    }
+  ],
+  "timestamp": "2026-08-06T01:44:48.780748405Z",
+  "model": "glm-5.2"
+}

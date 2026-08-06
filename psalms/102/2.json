@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "JHWH, höre mein Gebet, und mein Schreien zu dir ⟨möge⟩ kommen.",
+  "tokens": [
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שִׁמְעָה",
+      "gloss": "höre"
+    },
+    {
+      "surface": "תְּפִלָּתִי",
+      "gloss": "mein Gebet"
+    },
+    {
+      "surface": "וְשַׁוְעָתִי",
+      "gloss": "und mein Schreien"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "תָבוֹא",
+      "gloss": "⟨möge⟩ kommen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:58.884044381Z",
+  "model": "glm-5.2"
+}

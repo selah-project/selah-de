@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und ⟨er⟩ leitete sie in Sicherheit, und sie fürchteten sich nicht, und ⟨את⟩ ihre Feinde bedeckte das Meer.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Und ⟨er⟩ leitete"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "in Sicherheit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "sie fürchteten sich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Feinde"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ihre Feinde"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "bedeckte"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:39.190059075Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und er hob ⟨את⟩ das Gewand Elijas empor, das ihm gefallen war, und kehrte um und stellte sich an das Ufer des Jardens.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֨רֶם֙",
+      "gloss": "und hob empor"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Gewand"
+    },
+    {
+      "surface": "אַדֶּ֣רֶת",
+      "gloss": "das Gewand"
+    },
+    {
+      "surface": "אֵלִיָּ֔הוּ",
+      "gloss": "Elijas"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נָפְלָ֖ה",
+      "gloss": "gefallen war"
+    },
+    {
+      "surface": "מֵעָלָ֑יו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "וַיָּ֥שָׁב",
+      "gloss": "und kehrte um"
+    },
+    {
+      "surface": "וַֽיַּעֲמֹ֖ד",
+      "gloss": "und stellte sich"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "an"
+    },
+    {
+      "surface": "שְׂפַ֥ת",
+      "gloss": "das Ufer"
+    },
+    {
+      "surface": "הַיַּרְדֵּֽן",
+      "gloss": "des Jardens"
+    }
+  ],
+  "timestamp": "2026-08-05T21:35:01.773133806Z",
+  "model": "glm-5.2"
+}

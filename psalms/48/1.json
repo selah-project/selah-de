@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Lied, Musikstück für die Söhne Korachs.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Musikstück"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "für die Söhne"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachs"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:17.510357125Z",
+  "model": "glm-5.2"
+}

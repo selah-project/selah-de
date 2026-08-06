@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Siehe doch, ich habe meinen Mund geöffnet, meine Zunge redet in meinem Gaumen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "ich habe geöffnet"
+    },
+    {
+      "surface": "פי",
+      "gloss": "meinen Mund"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "redet"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "meine Zunge"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "in meinem Gaumen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:23:13.842820138Z",
+  "model": "glm-5.2"
+}

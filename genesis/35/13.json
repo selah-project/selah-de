@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und Elohim stieg auf von ihm, an dem Ort, wo er mit ihm geredet hatte.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Und stieg auf"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "an dem Ort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "er geredet hatte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mit ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T17:38:16.279528413Z",
+  "model": "glm-5.2"
+}

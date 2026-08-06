@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Ein Gerechter kennt das Recht der Geringen; ein Frevler versteht keine Erkenntnis.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "kennt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Ein Gerechter"
+    },
+    {
+      "surface": "דין",
+      "gloss": "das Recht"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "der Geringen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ein Frevler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "versteht"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Erkenntnis"
+    }
+  ],
+  "timestamp": "2026-08-06T04:31:29.130640233Z",
+  "model": "glm-5.2"
+}

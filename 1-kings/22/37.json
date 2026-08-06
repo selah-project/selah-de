@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und der König starb, und ⟨man⟩ brachte ⟨ihn⟩ nach Schomron, und sie begruben ⟨את⟩ den König in Schomron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Und der König starb"
+    },
+    {
+      "surface": "המלך",
+      "gloss": ""
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "und ⟨man⟩ brachte ⟨ihn⟩ nach"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Schomron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "und sie begruben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den König"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Schomron"
+    }
+  ],
+  "timestamp": "2026-08-06T01:30:10.184216222Z",
+  "model": "glm-5.2"
+}

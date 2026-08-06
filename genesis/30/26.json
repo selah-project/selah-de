@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Gib ⟨mir⟩ ⟨את⟩ meine Frauen und ⟨את⟩ meine Kinder, für die ich dir gedient habe mit ihnen, dass ich gehe; denn du weißt ⟨את⟩ meinen Dienst, den ich dir geleistet habe.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Gib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Frauen"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "meine Frauen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "meine Kinder"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "meine Kinder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "für die"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ich gedient habe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨bei⟩ dir"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "mit ihnen"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dass ich gehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "weißt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Dienst"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "meinen Dienst"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ich dir geleistet habe"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:56.909457395Z",
+  "model": "glm-5.2"
+}

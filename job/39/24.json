@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 39:24",
+  "book": "job",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Mit Getöse und Toben verschlingt er ⟨die⟩ Erde, und er hält nicht ⟨an⟩, denn ⟨es ist⟩ ⟨der⟩ Klang ⟨des⟩ Schofar.",
+  "tokens": [
+    {
+      "surface": "ברעש",
+      "gloss": "Mit Getöse"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "und Toben"
+    },
+    {
+      "surface": "יגמא",
+      "gloss": "verschlingt er"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "hält ⟨an⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Klang"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "Schofar"
+    }
+  ],
+  "timestamp": "2026-08-05T23:24:25.767042750Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Daher sprich: Siehe, ich gebe ihm ⟨את⟩ meinen Brit, Schalom.",
+  "tokens": [
+    {
+      "surface": "לָכֵ֖ן",
+      "gloss": "Daher"
+    },
+    {
+      "surface": "אֱמֹ֑ר",
+      "gloss": "sprich"
+    },
+    {
+      "surface": "הִנְנִ֨י",
+      "gloss": "Siehe, ich"
+    },
+    {
+      "surface": "נֹתֵ֥ן",
+      "gloss": "gebe"
+    },
+    {
+      "surface": "ל֛וֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Brit"
+    },
+    {
+      "surface": "בְּרִיתִ֖י",
+      "gloss": "meinen Brit"
+    },
+    {
+      "surface": "שָׁלֽוֹם",
+      "gloss": "Schalom"
+    }
+  ],
+  "timestamp": "2026-08-06T05:25:27.952469196Z",
+  "model": "glm-5.2"
+}

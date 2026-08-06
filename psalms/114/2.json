@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 114,
+  "translation": "Da wurde Jehuda ⟨zu⟩ seinem Heiligtum, Jisrael ⟨zu⟩ seinen Herrschafts­gebieten.",
+  "tokens": [
+    {
+      "surface": "הָיְתָ֣ה",
+      "gloss": "da wurde"
+    },
+    {
+      "surface": "יְהוּדָ֣ה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לְקָדְשׁ֑וֹ",
+      "gloss": "⟨zu⟩ seinem Heiligtum"
+    },
+    {
+      "surface": "יִ֝שְׂרָאֵ֗ל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מַמְשְׁלוֹתָֽיו",
+      "gloss": "⟨zu⟩ seinen Herrschafts­gebieten"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:34.494057769Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Eine Traube Henna ist mein Geliebter mir, in den Weinbergen von En-Gedi.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "Eine Traube"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "Henna"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mein Geliebter"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "in den Weinbergen"
+    },
+    {
+      "surface": "עין",
+      "gloss": "von En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-05T23:25:48.932365549Z",
+  "model": "glm-5.2"
+}

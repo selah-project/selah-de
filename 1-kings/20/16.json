@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und sie zogen am Mittag aus. Ben-Hadad aber trank sich betrunken in den Sukkot (Hütten), er und die Könige, die zweiunddreißig Könige, die ihm ⟨beistanden⟩ ⟨את⟩⟨ihn⟩.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "und sie zogen aus"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "am Mittag"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "und Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "trank"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "betrunken"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "in den Sukkot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "und die Könige"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dreißig"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "undzwei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "die beistanden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩⟨ihn⟩",
+      "marks": "ihn (Ben-Hadad)"
+    }
+  ],
+  "timestamp": "2026-08-06T08:46:23.722392335Z",
+  "model": "glm-5.2"
+}

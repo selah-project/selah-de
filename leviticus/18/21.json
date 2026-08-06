@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ⟨von⟩ deiner Nachkommenschaft sollst du nicht geben, ⟨sie⟩ durchs Feuer gehen zu lassen für den Moloch, und du sollst nicht entweihen ⟨את⟩ den Namen deines Elohim. Ich ⟨bin⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "und ⟨von⟩ deiner Nachkommenschaft"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sollst du geben"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "durchgehen zu lassen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "für den Moloch"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "sollst du entweihen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Namen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Namen"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deines Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:24.902477426Z",
+  "model": "glm-5.2"
+}

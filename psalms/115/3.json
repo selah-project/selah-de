@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "Unser Elohim ⟨ist⟩ im Himmel — alles, was er wollte, hat er getan.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Unser Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "im Himmel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "er wollte"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hat er getan"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:36.042710937Z",
+  "model": "glm-5.2"
+}

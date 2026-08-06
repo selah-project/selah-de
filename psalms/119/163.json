@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Lüge hasse ich, ⟨und⟩ ich verabscheue ⟨sie⟩; deine Tora liebe ich.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Lüge"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "hasse ich"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "⟨und⟩ ich verabscheue"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "deine Tora"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "liebe ich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:53.193385130Z",
+  "model": "glm-5.2"
+}

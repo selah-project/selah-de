@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Erbebt und sündigt nicht! Sprecht in ⟨eurem⟩ Herzen, auf ⟨eurem⟩ Lager, und ⟨seid⟩ still. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזוּ",
+      "gloss": "Erbebt"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תחטאוּ",
+      "gloss": "sündigt"
+    },
+    {
+      "surface": "אמרוּ",
+      "gloss": "Sprecht"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "in ⟨eurem⟩ Herzen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "⟨eurem⟩ Lager"
+    },
+    {
+      "surface": "ודמוּ",
+      "gloss": "und ⟨seid⟩ still"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:46.385280129Z",
+  "model": "glm-5.2"
+}

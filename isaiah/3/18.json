@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "An jenem Tag wird Adonai ⟨את⟩ den Schmuck der Fußspangen entfernen, und der Ketten und der Mondsichelschmucke",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "An ⟨dem⟩ Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "wird entfernen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Schmuck der Fußspangen"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "den Schmuck"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "der Fußspangen"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "und der Ketten"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "und der Mondsichelschmucke"
+    }
+  ],
+  "timestamp": "2026-08-05T21:43:12.054450725Z",
+  "model": "glm-5.2"
+}

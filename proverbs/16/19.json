@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Besser ⟨ein⟩ niedriger Geist mit ⟨den⟩ Elenden als ⟨das⟩ Verteilen von Beute mit ⟨den⟩ Hochmütigen.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "niedriger"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Geist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Elenden"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "Elenden"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "als ⟨das⟩ Verteilen"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "von Beute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Hochmütigen"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "Hochmütigen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:56:07.818756037Z",
+  "model": "glm-5.2"
+}

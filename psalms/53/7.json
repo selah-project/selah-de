@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 53,
+  "translation": "Wer gibt aus Zijon die Rettungen Jisraels? Bei der Rückkehr Elohims ⟨von⟩ der Gefangenschaft seines Volques — ja, Jaakow soll jauchzen, Jisraël soll sich freuen.",
+  "tokens": [
+    {
+      "surface": "מִ֥י",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "יִתֵּ֣ן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "מִצִּיּוֹן֮",
+      "gloss": "aus Zijon"
+    },
+    {
+      "surface": "יְשֻׁע֪וֹת",
+      "gloss": "die Rettungen"
+    },
+    {
+      "surface": "יִשְׂרָ֫אֵ֥ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "בְּשׁ֣וּב",
+      "gloss": "Bei der Rückkehr"
+    },
+    {
+      "surface": "אֱ֭לֹהִים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "שְׁב֣וּת",
+      "gloss": "Gefangenschaft"
+    },
+    {
+      "surface": "עַמּ֑וֹ",
+      "gloss": "seines Volkes"
+    },
+    {
+      "surface": "יָגֵ֥ל",
+      "gloss": "soll jauchzen"
+    },
+    {
+      "surface": "יַ֝עֲקֹ֗ב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "יִשְׂמַ֥ח",
+      "gloss": "soll sich freuen"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:41.603533151Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Und ich werde seine Nachkommenschaft für immer ⟨ein⟩setzen und seinen Thron wie die Tage des Himmels.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "und ich werde … setzen"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "seine Nachkommenschaft"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "und seinen Thron"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "wie die Tage"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "des Himmels"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:36.314039316Z",
+  "model": "glm-5.2"
+}

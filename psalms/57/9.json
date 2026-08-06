@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 57,
+  "translation": "Wach auf, meine Herrlichkeit, wach auf, Nawel und Kinor! Ich will wecken den Schachar.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Wach auf"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "meine Herrlichkeit"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "wach auf"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "Nawel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "und Kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ich will wecken"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "den Schachar"
+    }
+  ],
+  "timestamp": "2026-08-06T06:43:59.789848697Z",
+  "model": "glm-5.2"
+}

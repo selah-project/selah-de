@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Awraham stellte ⟨את⟩ sieben Mutterschafe der Herde für sich allein ab.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Und da stellte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sieben Mutterschafe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "Mutterschafe"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "der Herde"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "für sich allein"
+    }
+  ],
+  "timestamp": "2026-08-06T05:08:27.870754714Z",
+  "model": "glm-5.2"
+}

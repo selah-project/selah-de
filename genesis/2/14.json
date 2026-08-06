@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und der Name des dritten Flusses ⟨ist⟩ Chidekel, der ⟨ist es⟩, der vor Aschur ⟨entlanggeht⟩. Und der vierte Fluss, der ⟨ist⟩ Perat.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Und der Name"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "des Flusses"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "des dritten"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "Chidekel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "der"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "der geht"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aschur"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "Und der Fluss"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "der vierte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "der"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-08-06T00:02:59.499107010Z",
+  "model": "glm-5.2"
+}

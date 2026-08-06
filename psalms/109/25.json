@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Und ich — ich bin ⟨eine⟩ Schmach für sie geworden; sie sehen mich, sie schütteln ⟨ihr⟩ Haupt.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bin … geworden"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "Schmach"
+    },
+    {
+      "surface": "להם",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "sie sehen mich"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "sie schütteln"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "⟨ihr⟩ Haupt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:14.661505351Z",
+  "model": "glm-5.2"
+}

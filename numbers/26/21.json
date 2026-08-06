@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und die Söhne von Perez ⟨waren⟩: von Chetzron ⟨die⟩ Sippe der Chet zroniter, von Chamul ⟨die⟩ Sippe der Chamuliter.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "und sie waren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "von Perez"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "von Chetzron"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "Sippe"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "der Chetzroniter"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "von Chamul"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "Sippe"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "der Chamuliter"
+    }
+  ],
+  "timestamp": "2026-08-06T00:38:19.953635989Z",
+  "model": "glm-5.2"
+}

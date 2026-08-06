@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "„Nur euch habe ich erkannt von allen Sippen des Erdbodens; darum werde ich euch heimsuchen ⟨wegen⟩ all eurer Schuld.“",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "habe ich erkannt"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "von allen"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "Sippen"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "des Erdbodens"
+    },
+    {
+      "surface": "על",
+      "gloss": "darum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "darum"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "werde ich heimsuchen"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all eurer Schuld"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "eurer Schuld"
+    }
+  ],
+  "timestamp": "2026-08-05T22:35:23.231397534Z",
+  "model": "glm-5.2"
+}

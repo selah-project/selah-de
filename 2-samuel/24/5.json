@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und sie zogen über ⟨את⟩ den Jardén und schlugen Lager auf in Aroër, zur Rechten der Stadt, die mitten im Bachlauf des Gad ⟨liegt⟩, und ⟨bis⟩ nach Jaäsér.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "und sie zogen über"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "den Jardén"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "und sie schlugen Lager auf"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "in Aroër"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "zur Rechten"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitten im"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "Bachlauf"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "des Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨bis⟩ nach"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaäsér"
+    }
+  ],
+  "timestamp": "2026-08-06T01:20:28.154069372Z",
+  "model": "glm-5.2"
+}

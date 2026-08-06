@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 99,
+  "translation": "JHWH ist König geworden — die Völker beben; ⟨er⟩, der auf den Kerubim thront — die Erde wankt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ist König geworden"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "beben"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "thront"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "auf den Kerubim"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "wankt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:08.308289232Z",
+  "model": "glm-5.2"
+}

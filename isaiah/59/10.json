@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Wir tasten wie Blinde ⟨entlang⟩ der Wand, und wie ohne Augen tasten wir; wir straucheln am Mittag wie in der Dämmerung, in Dumpfigkeiten wie Tote.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "wir tasten"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "wie Blinde"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "der Wand"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "und wie ohne"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "Augen"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "tasten wir"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "wir straucheln"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "am Mittag"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "wie in der Dämmerung"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "in Dumpfigkeiten"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "wie Tote"
+    }
+  ],
+  "timestamp": "2026-08-05T21:56:19.324019419Z",
+  "model": "glm-5.2"
+}

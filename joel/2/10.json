@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Vor seinem Angesicht erbebt die Erde, es beben die Himmel, Sonne und Mond verdunkeln sich, und die Sterre sammeln ⟨ihr⟩ Leuchten ⟨ein⟩.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "vor seinem Angesicht"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "erbebt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "es beben"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die Himmel"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Sonne"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "und Mond"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "verdunkeln sich"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "und die Sterne"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "sammeln ⟨ein⟩"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "⟨ihr⟩ Leuchten"
+    }
+  ],
+  "timestamp": "2026-08-06T03:59:55.362383068Z",
+  "model": "glm-5.2"
+}

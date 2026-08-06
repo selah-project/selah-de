@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Mosche stieg vom Berg hinab zu dem Volk, und er heiligte ⟨את⟩ das Volk, und sie wuschen ihre Kleider.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Und es stieg hinab"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dem Berg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "und er heiligte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "und sie wuschen"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ihre Kleider"
+    }
+  ],
+  "timestamp": "2026-08-06T00:17:20.396632163Z",
+  "model": "glm-5.2"
+}

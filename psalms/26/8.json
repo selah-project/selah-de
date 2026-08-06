@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "JHWH, ich liebe die Wohnstätte deines Hauses und den Ort der Wohnung deiner Herrlichkeit",
+  "tokens": [
+    {
+      "surface": "יְֽהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אָ֭הַבְתִּי",
+      "gloss": "ich liebe"
+    },
+    {
+      "surface": "מְע֣וֹן",
+      "gloss": "die Wohnstätte"
+    },
+    {
+      "surface": "בֵּיתֶ֑ךָ",
+      "gloss": "deines Hauses"
+    },
+    {
+      "surface": "וּ֝מְק֗וֹם",
+      "gloss": "und den Ort"
+    },
+    {
+      "surface": "מִשְׁכַּ֥ן",
+      "gloss": "der Wohnung"
+    },
+    {
+      "surface": "כְּבוֹדֶֽךָ",
+      "gloss": "deiner Herrlichkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:54.828697922Z",
+  "model": "glm-5.2"
+}

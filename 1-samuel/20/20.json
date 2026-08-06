@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ich, drei Pfeile zur Seite schieße ich, um mir ⟨sie⟩ zum Ziel zu schicken.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drei"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "Pfeile"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "zur Seite"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "schieße ich"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "zu schicken"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "zum Ziel"
+    }
+  ],
+  "timestamp": "2026-08-05T21:13:18.122277196Z",
+  "model": "glm-5.2"
+}

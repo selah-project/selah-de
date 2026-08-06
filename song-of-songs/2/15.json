@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Fangt uns die Füchse, die kleinen Füchse, die Weinberge verwüsten! Denn unsere Weinberge ⟨sind⟩ im Blühen.",
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "Fangt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "die Füchse"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "Füchse"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "die kleinen"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "die verwüsten"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "Weinberge"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "Denn unsere Weinberge"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "⟨sind⟩ im Blühen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:38:21.703071127Z",
+  "model": "glm-5.2"
+}

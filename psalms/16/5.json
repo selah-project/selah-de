@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "JHWH ⟨ist⟩ mein zugemessenes Anteil und mein Becher — du ⟨bist es⟩, der meinen Anteil erhält.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "zugemessenes"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "mein Anteil"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "und mein Becher"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "der erhält"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "meinen Anteil"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:52.560649273Z",
+  "model": "glm-5.2"
+}

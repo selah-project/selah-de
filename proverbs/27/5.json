@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Besser ⟨ist⟩ offene Zurechtweisung als verheimlichte Liebe.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "Zurechtweisung"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "offene"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "als Liebe"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "verheimlichte"
+    }
+  ],
+  "timestamp": "2026-08-05T23:14:47.122354805Z",
+  "model": "glm-5.2"
+}

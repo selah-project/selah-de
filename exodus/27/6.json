@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und du sollst Tragstangen für den Altar machen, Tragstangen ⟨aus⟩ Schittim-Holz, und du sollst ⟨את⟩ sie mit Kupfer überziehen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Und du sollst machen"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "Tragstangen"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "für den Altar"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "Tragstangen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "⟨aus⟩ Holz"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Schittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "und du sollst überziehen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Tragstangen)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "⟨mit⟩ Kupfer"
+    }
+  ],
+  "timestamp": "2026-08-06T02:06:33.691116520Z",
+  "model": "glm-5.2"
+}

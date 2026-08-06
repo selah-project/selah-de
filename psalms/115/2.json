@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "Warum sollten die Völker sagen: „Wo ist nun ⟨ihr⟩ Elohim?“",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sollten sagen"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Wo ist"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nun"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "⟨ihr⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T22:47:03.419733661Z",
+  "model": "glm-5.2"
+}

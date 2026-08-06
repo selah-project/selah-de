@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 7:23",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und er ging zu seiner Frau, und sie wurde schwanger und gebar ⟨einen⟩ Sohn, und er nannte ⟨את⟩ seinen Namen Beria, denn ⟨es war⟩ Unheil in seinem Haus gewesen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und er ging"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seiner Frau"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "und sie wurde schwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "und sie gebar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨einen⟩ Sohn"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er nannte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Namen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Beria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "gewesen war"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in seinem Haus"
+    }
+  ],
+  "timestamp": "2026-08-06T07:20:39.324904639Z",
+  "model": "glm-5.2"
+}

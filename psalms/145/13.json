@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Deine Königherrschaft ⟨ist⟩ eine Königherrschaft aller Zeitalter, und deine Herrschaft in jeder Generation und Generation.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Deine Königherrschaft"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "eine Königherrschaft"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "Zeitalter"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "und deine Herrschaft"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in jeder"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Generation"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "und Generation"
+    }
+  ],
+  "timestamp": "2026-08-06T15:24:53.566562989Z",
+  "model": "glm-5.2"
+}

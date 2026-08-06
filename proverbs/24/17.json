@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Wenn dein Feind fällt, freue dich nicht, und wenn er strauchelt, möge dein Herz sich nicht frohlocken,",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "Wenn [er] fällt"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dein Feind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "freue dich"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "und wenn er strauchelt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "möge sich frohlocken"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dein Herz"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:46.860533282Z",
+  "model": "glm-5.2"
+}

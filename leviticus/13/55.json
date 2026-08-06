@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 13:55",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und der Kohen sieht ⟨es⟩ nach dem Waschen ⟨את⟩ des N-Strichs, und siehe, der N-Strich hat ⟨את⟩ sein Aussehen nicht verändert, und der N-Strich hat sich nicht ausgebreitet — er ist unrein. Im Feuer sollst du es verbrennen. Es ist ein Eingesunkenes ⟨an⟩ seiner Glatze oder an seiner Wölbung.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Und sieht"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nach"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "dem Waschen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "des N-Strichs"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "des N-Strichs"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "hat verändert"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "der N-Strich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Aussehen"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "sein Aussehen"
+    },
+    {
+      "surface": "והנגע",
+      "gloss": "und der N-Strich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "hat sich ausgebreitet"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ist"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "sollst du es verbrennen"
+    },
+    {
+      "surface": "פחתת",
+      "gloss": "ein Eingesunkenes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es ist"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "an seiner Glatze"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "an seiner Wölbung"
+    }
+  ],
+  "timestamp": "2026-08-06T19:28:00.961510651Z",
+  "model": "glm-5.2"
+}

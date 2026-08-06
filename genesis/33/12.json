@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und ⟨er⟩ sagte: „Lasst uns aufbrechen und gehen, und ich will vor dir hergehen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "Lasst uns aufbrechen"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "und gehen"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "und ich will gehen"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "vor dir her"
+    }
+  ],
+  "timestamp": "2026-08-06T00:08:58.859475681Z",
+  "model": "glm-5.2"
+}

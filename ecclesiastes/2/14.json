@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Dem Weisen ⟨sind⟩ seine Augen im Kopf, und der Tor geht in der Finsternis. Und ich erkannte auch ich, dass ein einziges Geschick alle trifft — ⟨את⟩ alle.",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "dem Weisen"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "seine Augen"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "im Kopf"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "und der Tor"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "in der Finsternis"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "geht"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "und ich erkannte"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "dass ein Geschick"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ein einziges"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "trifft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alle"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:53.025350091Z",
+  "model": "glm-5.2"
+}

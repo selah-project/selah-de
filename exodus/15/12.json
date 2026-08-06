@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Du strecktest aus deine Rechte, die Erde verschlang sie.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "du strecktest aus"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "deine Rechte"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "sie verschlang sie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T08:18:45.525731985Z",
+  "model": "glm-5.2"
+}

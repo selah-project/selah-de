@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Denn Emet (Wahrheit) murmelt mein Gaumen, und ein Gräuel ⟨sind⟩ meinen Lippen Freveltat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Emet (Wahrheit)"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "murmelt"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "mein Gaumen"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "und ⟨ein⟩ Gräuel"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "meinen Lippen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Freveltat"
+    }
+  ],
+  "timestamp": "2026-08-05T23:09:37.531279315Z",
+  "model": "glm-5.2"
+}

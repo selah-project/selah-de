@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ihr sollt nicht schwören bei meinem Namen ⟨zum⟩ Lügen, und du sollst nicht entweihen ⟨את⟩ den Namen deines Elohim. Ich bin JHWH.",
+  "tokens": [
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "Und nicht"
+    },
+    {
+      "surface": "תִשָּׁבְע֥וּ",
+      "gloss": "sollt ihr schwören"
+    },
+    {
+      "surface": "בִשְׁמִ֖י",
+      "gloss": "bei meinem Namen"
+    },
+    {
+      "surface": "לַשָּׁ֑קֶר",
+      "gloss": "⟨zum⟩ Lügen"
+    },
+    {
+      "surface": "וְחִלַּלְתָּ֛",
+      "gloss": "und sollst du entweihen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Namen"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "den Namen"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "deines Elohim"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "bin JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:41.739193566Z",
+  "model": "glm-5.2"
+}

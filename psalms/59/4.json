@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Denn siehe, ⟨sie⟩ lauern auf meine Nefesch; Gewalttätige rotten sich gegen mich zusammen ⟨—⟩ nicht ⟨wegen⟩ meiner Auflehnung und nicht ⟨wegen⟩ meiner Verfehlung, JHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "⟨sie⟩ lauern"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "auf meine Nefesch"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "rotten sich zusammen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gegen mich"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "Gewalttätige"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "⟨wegen⟩ meiner Auflehnung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "⟨wegen⟩ meiner Verfehlung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T06:43:43.740186790Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Zerbrich ⟨את⟩ sie in Stücke und gieße Öl darauf ⟨—⟩ ein Mincha ⟨ist es⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Zerbrich"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "in Stücke"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "und gieße"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "Öl"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ein Mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist es"
+    }
+  ],
+  "timestamp": "2026-08-05T20:19:18.258898743Z",
+  "model": "glm-5.2"
+}

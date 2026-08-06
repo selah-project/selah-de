@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Die pflücken Maluech am Gesträuch, und ⟨die⟩ Wurzeln des Retam ⟨sind⟩ ihr Brot.",
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "Die pflücken"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "Maluech"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "Gesträuch"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "und ⟨die⟩ Wurzeln"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "des Retam"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "ihr Brot"
+    }
+  ],
+  "timestamp": "2026-08-05T23:22:33.885205800Z",
+  "model": "glm-5.2"
+}

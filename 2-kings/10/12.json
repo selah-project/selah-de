@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und er machte sich auf und kam und ging nach Schomron. Er ⟨war⟩ in Beit-Eked der Hirten auf dem Weg.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Und er machte sich auf"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und kam"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und ging"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "nach Schomron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Er"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in Beit-"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "der Hirten"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf dem Weg"
+    }
+  ],
+  "timestamp": "2026-08-05T21:37:06.203975589Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 79,
+  "translation": "Wir sind zur Schmach geworden für unsere Nachbarn, zum Spott und zum Hohn für unsere Umgebung.",
+  "tokens": [
+    {
+      "surface": "הָיִ֣ינוּ",
+      "gloss": "Wir sind geworden"
+    },
+    {
+      "surface": "חֶ֭רְפָּה",
+      "gloss": "zur Schmach"
+    },
+    {
+      "surface": "לִשְׁכֵנֵ֑ינוּ",
+      "gloss": "für unsere Nachbarn"
+    },
+    {
+      "surface": "לַ֥עַג",
+      "gloss": "zum Spott"
+    },
+    {
+      "surface": "וָ֝קֶ֗לֶס",
+      "gloss": "und zum Hohn"
+    },
+    {
+      "surface": "לִסְבִיבוֹתֵֽינוּ",
+      "gloss": "für unsere Umgebung"
+    }
+  ],
+  "timestamp": "2026-08-05T22:56:14.101194139Z",
+  "model": "glm-5.2"
+}

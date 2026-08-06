@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und JHWH sprach: Jehuda soll hinaufziehen. Siehe, ich habe ⟨את⟩ das Land in seine Hand gegeben.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "soll hinaufziehen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ich habe gegeben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in seine Hand"
+    }
+  ],
+  "timestamp": "2026-08-05T20:58:45.853423203Z",
+  "model": "glm-5.2"
+}

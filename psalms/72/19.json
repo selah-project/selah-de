@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Und gesegnet ⟨ist⟩ der Name seiner Herrlichkeit für immer, und ⟨es⟩ erfülle ⟨seine⟩ Herrlichkeit ⟨את⟩ die ganze Erde — Amen und Amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "und gesegnet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der Name"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "seiner Herrlichkeit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "und ⟨es⟩ erfülle"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "⟨seine⟩ Herrlichkeit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Erde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "und Amen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:08.210910791Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "den Handwerkern und den Bauleuten und den Mauerern, und um Holz und behauene Steine zu kaufen, um ⟨את⟩ das Haus zu festigen.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "den Handwerkern"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "und den Bauleuten"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "und den Mauerern"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "und um zu kaufen"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "Holz"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "und Steine von"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "Behauensein"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "um zu festigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    }
+  ],
+  "timestamp": "2026-08-06T05:56:41.494371954Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "JHWH kommt zum Gericht mit den Ältesten seines Volkes und seinen Fürsten — und ⟨ihr⟩, ⟨ihr⟩ habt den Weinberg abgeweidet, die Beute des Armen ⟨ist⟩ in euren Häusern.",
+  "tokens": [
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בְּמִשְׁפָּ֣ט",
+      "gloss": "zum Gericht"
+    },
+    {
+      "surface": "יָב֔וֹא",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "זִקְנֵ֥י",
+      "gloss": "den Ältesten"
+    },
+    {
+      "surface": "עַמּ֖וֹ",
+      "gloss": "seines Volkes"
+    },
+    {
+      "surface": "וְשָׂרָ֑יו",
+      "gloss": "und seinen Fürsten"
+    },
+    {
+      "surface": "וְאַתֶּם֙",
+      "gloss": "und ⟨ihr⟩"
+    },
+    {
+      "surface": "בִּֽעַרְתֶּ֣ם",
+      "gloss": "habt abgeweidet"
+    },
+    {
+      "surface": "הַכֶּ֔רֶם",
+      "gloss": "den Weinberg"
+    },
+    {
+      "surface": "גְּזֵלַ֥ת",
+      "gloss": "die Beute"
+    },
+    {
+      "surface": "הֶֽעָנִ֖י",
+      "gloss": "des Armen"
+    },
+    {
+      "surface": "בְּבָתֵּיכֶֽם",
+      "gloss": "in euren Häusern"
+    }
+  ],
+  "timestamp": "2026-08-06T22:42:27.658641810Z",
+  "model": "glm-5.2"
+}

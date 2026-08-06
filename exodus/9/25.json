@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und das Hagel schlug in der ganzen Erde Mizrajim ⟨את⟩ alles, was auf dem Feld war, vom Menschen bis zum Vieh, und ⟨את⟩ alles Kraut des Feldes — das Hagel schlug es, und ⟨את⟩ jeden Baum des Feldes zerbrach es.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "und schlug"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "das Hagel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ⟨der⟩ ganzen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "auf dem Feld ⟨war⟩"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "vom Menschen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "Vieh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alles Kraut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "Kraut"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "schlug"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "das Hagel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "jeden Baum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "Baum"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "zerbrach"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:46.690956627Z",
+  "model": "glm-5.2"
+}

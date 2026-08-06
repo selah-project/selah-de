@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und JHWH wird hindurchgehen, um Mizrajim zu schlagen, und ⟨er⟩ wird ⟨את⟩ das Blut sehen an der Oberschwelle und an den beiden Türpfosten, und JHWH wird vorbeigehen an dem Eingang, und ⟨er⟩ wird dem Verderber nicht erlauben, in eure Häuser zu kommen, zu schlagen.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "Und wird hindurchgehen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "um zu schlagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mizrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "und wird sehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Blut"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "das Blut"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "der Oberschwelle"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und an"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "den beiden"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "Türpfosten"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "und wird vorbeigehen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "dem Eingang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wird er erlauben"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "der Verderber"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "zu kommen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "eure Häuser"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "zu schlagen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:15:54.742085827Z",
+  "model": "glm-5.2"
+}

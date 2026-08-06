@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Hat etwa ⟨einer von⟩ den Elohim der Völker jeweils ⟨את⟩ sein Land gerettet aus der Hand des Königs von Aschur?",
+  "tokens": [
+    {
+      "surface": "הַהַצֵּ֥ל",
+      "gloss": "Hat etwa gerettet"
+    },
+    {
+      "surface": "הִצִּ֛ילוּ",
+      "gloss": "sie haben gerettet"
+    },
+    {
+      "surface": "אֱלֹהֵ֥י",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "הַגּוֹיִ֖ם",
+      "gloss": "der Völker"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "jeweils"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sein Land"
+    },
+    {
+      "surface": "אַרְצ֑וֹ",
+      "gloss": "sein Land"
+    },
+    {
+      "surface": "מִיַּ֖ד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "אַשּֽׁוּר",
+      "gloss": "von Aschur"
+    }
+  ],
+  "timestamp": "2026-08-05T21:40:03.804425422Z",
+  "model": "glm-5.2"
+}

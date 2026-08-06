@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim rief ⟨der⟩ Trockenen ⟨den⟩ Namen: Erde, und der Sammlung der Wasser rief er ⟨den⟩ Namen: Meere. Und Elohim sah, dass es gut war.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und ⟨er⟩ rief"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "⟨der⟩ Trockenen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "und der Sammlung"
+    },
+    {
+      "surface": "המים",
+      "gloss": "der Wasser"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "rief ⟨er⟩"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Meere"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "und ⟨er⟩ sah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    }
+  ],
+  "timestamp": "2026-08-05T19:54:28.396687284Z",
+  "model": "glm-5.2"
+}

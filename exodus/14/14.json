@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "JHWH wird für euch kämpfen, und ihr werdet schweigen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "wird kämpfen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "und ihr"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "werdet schweigen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:44.981385724Z",
+  "model": "glm-5.2"
+}

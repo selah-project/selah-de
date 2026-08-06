@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und ⟨ich⟩ sagte in meinem Erschrecken: „Ich bin abgeschnitten vor deinen Augen\", doch du hörtest ⟨die⟩ Stimme meiner Flehen, in meinem Schreien zu dir.“",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Und ⟨ich⟩"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagte"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "in meinem Erschrecken"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "ich bin abgeschnitten"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "vor"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "deinen Augen"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "doch"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "du hörtest"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨die⟩ Stimme"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "meiner Flehen"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "in meinem Schreien"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    }
+  ],
+  "timestamp": "2026-08-06T22:46:51.405398058Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 99,
+  "translation": "In der Wolkensäule sprach ⟨er⟩ zu ihnen; sie bewahrten seine Zeugnisse und ⟨die⟩ Ordnung, die er ihnen gab.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "In der Säule"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "der Wolke"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "sie bewahrten"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "seine Zeugnisse"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "und ⟨die⟩ Ordnung"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "er gab"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:57.262870941Z",
+  "model": "glm-5.2"
+}

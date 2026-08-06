@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "In Mangel und Hunger entvölkert — die in die Dürre fliehen, ⟨nachts⟩ Verwüstung und Einöde.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "In Mangel"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "und Hunger"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "entvölkert"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "die fliehen"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "in die Dürre"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "⟨nachts⟩"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "Verwüstung"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "und Einöde"
+    }
+  ],
+  "timestamp": "2026-08-05T23:22:33.885085855Z",
+  "model": "glm-5.2"
+}

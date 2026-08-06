@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und als die Morgendämmerung aufstieg, drängten die Malachim Lot ⟨an⟩ und sagten: „Steh auf, nimm ⟨את⟩ deine Frau und ⟨את⟩ deine zwei Töchter, die sich vorfinden, damit du nicht weggefegt wirst in der Schuld der Stadt.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "Und als"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "die Morgendämmerung"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "aufstieg"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "drängten"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "die Malachim"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagten"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "קח",
+      "gloss": "nimm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Frau"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "deine Frau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "deine zwei Töchter"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "deine Töchter"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "die sich vorfinden"
+    },
+    {
+      "surface": "פן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "du weggefegt wirst"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "in der Schuld"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    }
+  ],
+  "timestamp": "2026-08-06T05:08:48.315251173Z",
+  "model": "glm-5.2"
+}

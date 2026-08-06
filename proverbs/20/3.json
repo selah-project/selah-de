@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Ehre ⟨für⟩ ⟨den⟩ Mann ⟨ist⟩ das Fernbleiben vom Streit, und jeder Tor lässt sich ⟨in⟩ ⟨Streit⟩ ein.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Ehre"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "für den Mann"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "das Fernbleiben"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "vom Streit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und jeder"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "Tor"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "lässt sich ein"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:10.602329013Z",
+  "model": "glm-5.2"
+}

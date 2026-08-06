@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Sie umringten mich wie Bienen, sie verlöschen wie Feuer ⟨aus⟩ Dornen — im Namen JHWHs, ⟨ja⟩ ich werde sie abwehren.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Sie umringten mich"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "wie Bienen"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "sie verlöschen"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "wie Feuer"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "⟨aus⟩ Dornen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "im Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ja⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ich werde sie abwehren"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:47.846997116Z",
+  "model": "glm-5.2"
+}

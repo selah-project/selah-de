@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 79,
+  "translation": "Es komme vor dein Angesicht das Schreien des Gefangenen — wie die Größe deines Arms: ⟨erhalte am Leben⟩ die Söhne des Todes.",
+  "tokens": [
+    {
+      "surface": "תָּ֤ב֣וֹא",
+      "gloss": "es komme"
+    },
+    {
+      "surface": "לְפָנֶיךָ֮",
+      "gloss": "vor dein Angesicht"
+    },
+    {
+      "surface": "אֶנְקַ֪ת",
+      "gloss": "das Schreien"
+    },
+    {
+      "surface": "אָ֫סִ֥יר",
+      "gloss": "des Gefangenen"
+    },
+    {
+      "surface": "כְּגֹ֥דֶל",
+      "gloss": "wie die Größe"
+    },
+    {
+      "surface": "זְרוֹעֲךָ֑",
+      "gloss": "deines Arms"
+    },
+    {
+      "surface": "ה֝וֹתֵ֗ר",
+      "gloss": "⟨erhalte am Leben⟩"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "תְמוּתָֽה",
+      "gloss": "des Todes"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:12.697004500Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Das Ganze geht an einen Ort: das Ganze kam aus dem Staub, und das Ganze kehrt zum Staub zurück.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "das Ganze"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "geht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "einen Ort"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eins"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "das Ganze"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "dem Staub"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "und das Ganze"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kehrt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "Staub"
+    }
+  ],
+  "timestamp": "2026-08-06T07:09:07.832815180Z",
+  "model": "glm-5.2"
+}

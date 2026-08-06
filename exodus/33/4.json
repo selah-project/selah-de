@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und das Volk hörte ⟨את⟩ das Wort, dieses böse ⟨Wort⟩, und sie trauerten, und keiner legte seinen Schmuck auf sich.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַ֣ע",
+      "gloss": "Und ⟨es⟩ hörte"
+    },
+    {
+      "surface": "הָעָ֗ם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Wort"
+    },
+    {
+      "surface": "הַדָּבָ֥ר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "הָרָ֛ע",
+      "gloss": "das böse"
+    },
+    {
+      "surface": "הַזֶּ֖ה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "וַיִּתְאַבָּ֑לוּ",
+      "gloss": "und sie trauerten"
+    },
+    {
+      "surface": "וְלֹ֛א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "שָׁ֛תוּ",
+      "gloss": "legte"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "עֶדְי֖וֹ",
+      "gloss": "seinen Schmuck"
+    },
+    {
+      "surface": "עָלָֽיו",
+      "gloss": "auf sich"
+    }
+  ],
+  "timestamp": "2026-08-06T00:21:10.911630096Z",
+  "model": "glm-5.2"
+}

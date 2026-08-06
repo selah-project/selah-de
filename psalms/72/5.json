@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Sie sollen dich fürchten ⟨zusammen⟩ mit der Sonne, und vor dem Mond, Generation — Generationen.",
+  "tokens": [
+    {
+      "surface": "יִֽירָא֥וּךָ",
+      "gloss": "sie sollen dich fürchten"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "שָׁ֑מֶשׁ",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "וְלִפְנֵ֥י",
+      "gloss": "und vor"
+    },
+    {
+      "surface": "יָ֝רֵ֗חַ",
+      "gloss": "dem Mond"
+    },
+    {
+      "surface": "דּ֣וֹר",
+      "gloss": "Generation"
+    },
+    {
+      "surface": "דּוֹרִֽים",
+      "gloss": "Generationen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:16:12.538681053Z",
+  "model": "glm-5.2"
+}

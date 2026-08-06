@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "Ihre Götzenbilder — Silber und Gold, ein Werk von Menschenhänden.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Ihre Götzenbilder"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "und Gold"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ein Werk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "von Händen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Menschen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:36.042894416Z",
+  "model": "glm-5.2"
+}

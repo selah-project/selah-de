@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Du wirst Emet geben Jaakow, Chessed Awraham, die du unseren Vätern geschworen hast vor Tagen der Urzeit.",
+  "tokens": [
+    {
+      "surface": "תִּתֵּ֤ן",
+      "gloss": "du wirst geben"
+    },
+    {
+      "surface": "אֱמֶת֙",
+      "gloss": "Emet"
+    },
+    {
+      "surface": "לְיַֽעֲקֹ֔ב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "חֶ֖סֶד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "לְאַבְרָהָ֑ם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נִשְׁבַּ֥עְתָּ",
+      "gloss": "du geschworen hast"
+    },
+    {
+      "surface": "לַאֲבֹתֵ֖ינוּ",
+      "gloss": "unseren Vätern"
+    },
+    {
+      "surface": "מִ֥ימֵי",
+      "gloss": "vor Tagen"
+    },
+    {
+      "surface": "קֶֽדֶם",
+      "gloss": "der Urzeit"
+    }
+  ],
+  "timestamp": "2026-08-06T04:03:26.837741182Z",
+  "model": "glm-5.2"
+}

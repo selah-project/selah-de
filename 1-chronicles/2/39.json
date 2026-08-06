@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Asarja zeugte ⟨את⟩ Chelez, und Chelez zeugte ⟨את⟩ Elasah.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Und Asarja"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelez"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Chelez"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "und Chelez"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasah"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasah"
+    }
+  ],
+  "timestamp": "2026-08-05T23:46:32.804039146Z",
+  "model": "glm-5.2"
+}

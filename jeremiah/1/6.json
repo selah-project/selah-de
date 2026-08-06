@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ich sagte: „Ach, Adonai, JHWH! Siehe, ⟨ich⟩ kann nicht sprechen, denn ⟨ich bin⟩ ein Junge, ich.“",
+  "tokens": [
+    {
+      "surface": "וָאֹמַ֗ר",
+      "gloss": "Und ich sagte"
+    },
+    {
+      "surface": "אֲהָהּ֙",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהֹוִ֔ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָדַ֖עְתִּי",
+      "gloss": "⟨ich kann⟩ sprechen"
+    },
+    {
+      "surface": "דַּבֵּ֑ר",
+      "gloss": "⟨kann nicht⟩"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נַ֖עַר",
+      "gloss": "ein Junge"
+    },
+    {
+      "surface": "אָנֹֽכִי",
+      "gloss": "ich"
+    }
+  ],
+  "timestamp": "2026-08-06T06:05:33.074622713Z",
+  "model": "glm-5.2"
+}

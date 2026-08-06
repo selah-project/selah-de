@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "JHWH behütet ⟨את⟩ alle, die ihn lieben, aber ⟨את⟩ alle Ruchlosen wird er vertilgen.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "behütet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle, die ihn lieben"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "die ihn lieben"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle Ruchlosen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "Ruchlosen"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "wird er vertilgen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:51.822973289Z",
+  "model": "glm-5.2"
+}

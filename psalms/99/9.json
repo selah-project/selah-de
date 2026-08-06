@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 99,
+  "translation": "Erhebt JHWH, unsern Elohim, und werft euch nieder vor ⟨seinem⟩ heiligen Berg, denn heilig ⟨ist⟩ JHWH, unser Elohim.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Erhebt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unsern Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "und werft euch nieder"
+    },
+    {
+      "surface": "להר",
+      "gloss": "vor ⟨seinem⟩ Berg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "seiner Heiligkeit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:31.455142631Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 4:11",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Ich stürzte unter euch um wie die Umstürzung ⟨durch⟩ Elohim, ⟨die⟩ ⟨bei⟩ Sedom und ⟨bei⟩ Amora geschah. ⟨Und⟩ ihr wurdet wie ein Brand, ⟨der⟩ dem Feuer entrissen ⟨ist⟩. ⟨Aber⟩ ihr seid nicht zu mir umgekehrt, Spruch JHWHs.",
+  "tokens": [
+    {
+      "surface": "הפכתי",
+      "gloss": "Ich stürzte um"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "unter euch"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "wie die Umstürzung"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨durch⟩ Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Amora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "ותהיו",
+      "gloss": "und ihr wurdet"
+    },
+    {
+      "surface": "כאוד",
+      "gloss": "wie ein Brand"
+    },
+    {
+      "surface": "מצל",
+      "gloss": "entrissen"
+    },
+    {
+      "surface": "משרפה",
+      "gloss": "dem Feuer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "seid ihr umgekehrt"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Spruch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-05T22:34:47.299625748Z",
+  "model": "glm-5.2"
+}

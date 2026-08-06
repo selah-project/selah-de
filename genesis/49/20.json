@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Von Ascher ⟨kommt⟩ fettes Brot, und er wird Leckerbissen des Königs geben.",
+  "tokens": [
+    {
+      "surface": "מֵאָשֵׁ֖ר",
+      "gloss": "Von Ascher"
+    },
+    {
+      "surface": "שְׁמֵנָ֣ה",
+      "gloss": "fettes"
+    },
+    {
+      "surface": "לַחְמ֑וֹ",
+      "gloss": "⟨kommt⟩ Brot"
+    },
+    {
+      "surface": "וְה֥וּא",
+      "gloss": "und er"
+    },
+    {
+      "surface": "יִתֵּ֖ן",
+      "gloss": "wird geben"
+    },
+    {
+      "surface": "מַֽעֲדַנֵּי",
+      "gloss": "Leckerbissen"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-05T20:04:34.146687389Z",
+  "model": "glm-5.2"
+}

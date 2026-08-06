@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Erforsche mich, El, und erkenne mein Herz; prüfe mich und erkenne meine Gedanken!",
+  "tokens": [
+    {
+      "surface": "חָקְרֵ֣נִי",
+      "gloss": "Erforsche mich"
+    },
+    {
+      "surface": "אֵ֭ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וְדַ֣ע",
+      "gloss": "und erkenne"
+    },
+    {
+      "surface": "לְבָבִ֑י",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "בְּחָנֵ֗נִי",
+      "gloss": "prüfe mich"
+    },
+    {
+      "surface": "וְדַ֣ע",
+      "gloss": "und erkenne"
+    },
+    {
+      "surface": "שַׂרְעַפָּֽי",
+      "gloss": "meine Gedanken"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:31.885086493Z",
+  "model": "glm-5.2"
+}

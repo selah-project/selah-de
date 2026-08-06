@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und JHWH sprach zu Mosche und zu Aharon und sagte:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    }
+  ],
+  "timestamp": "2026-08-06T02:01:18.306197887Z",
+  "model": "glm-5.2"
+}

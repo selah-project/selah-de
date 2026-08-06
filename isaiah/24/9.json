@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Mit Gesang trinken sie keinen Wein, bitter wird Rauschtrank ⟨für⟩ seine Trinker.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "mit Gesang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "trinken sie"
+    },
+    {
+      "surface": "יין",
+      "gloss": "Wein"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "bitter wird"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Rauschtrank"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "seinen Trinkern"
+    }
+  ],
+  "timestamp": "2026-08-06T03:14:46.498772422Z",
+  "model": "glm-5.2"
+}

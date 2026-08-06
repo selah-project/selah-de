@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 81,
+  "translation": "Und so ließ ich sie gehen in der Verstockung ihres Herzens, sie wandelten in ihren eigenen Ratschlüssen.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Und so ließ ich ihn gehen"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "in der Verstockung"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ihres Herzens"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "sie wandelten"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "in ihren eigenen Ratschlüssen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:09.750446913Z",
+  "model": "glm-5.2"
+}

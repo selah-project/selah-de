@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Jehoschua tat ihnen, wie JHWH zu ihm gesagt hatte: ⟨את⟩ ihre Pferde lähmte er, und ⟨את⟩ ihre Streitwagen verbrannte er im Feuer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und ⟨er⟩ tat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesagt hatte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Pferde"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ihre Pferde"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "lähmte er"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Streitwagen"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "ihre Streitwagen"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "verbrannte er"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    }
+  ],
+  "timestamp": "2026-08-06T02:30:41.468724465Z",
+  "model": "glm-5.2"
+}

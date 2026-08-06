@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und er machte Stangen aus Akazienholz und überzog ⟨את⟩ sie mit Gold.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und er machte"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "Stangen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "aus Holz"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Akazien"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "und überzog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "mit Gold"
+    }
+  ],
+  "timestamp": "2026-08-05T20:16:37.500034036Z",
+  "model": "glm-5.2"
+}

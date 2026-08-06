@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Er wird nicht schreien und nicht ⟨seine Stimme⟩ erheben und seine Stimme nicht draußen hörbar machen.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִצְעַק",
+      "gloss": "wird schreien"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יִשָּׂא",
+      "gloss": "wird erheben"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יַשְׁמִיעַ",
+      "gloss": "wird hörbar machen"
+    },
+    {
+      "surface": "בַּחוּץ",
+      "gloss": "draußen"
+    },
+    {
+      "surface": "קוֹלוֹ",
+      "gloss": "seine Stimme"
+    }
+  ],
+  "timestamp": "2026-08-06T03:18:29.214370293Z",
+  "model": "glm-5.2"
+}

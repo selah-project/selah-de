@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "Wie sie sollen ihre Macher werden — all ⟨diejenigen⟩, die auf sie vertrauen.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Wie sie"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sollen werden"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ihre Macher"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diejenigen, die"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertrauen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "auf sie"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:56.686825060Z",
+  "model": "glm-5.2"
+}

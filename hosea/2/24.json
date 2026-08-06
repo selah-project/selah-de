@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und die Erde wird ⟨את⟩ das Korn und ⟨את⟩ den Most und ⟨את⟩ das Öl antworten, und sie werden ⟨את⟩ Jisreel antworten.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "und die Erde"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "wird antworten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Korn"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "das Korn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Most"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "den Most"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Öl"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "das Öl"
+    },
+    {
+      "surface": "והם",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "werden antworten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreel"
+    }
+  ],
+  "timestamp": "2026-08-05T22:30:28.075634152Z",
+  "model": "glm-5.2"
+}

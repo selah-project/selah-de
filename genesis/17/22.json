@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und ⟨er⟩ beendete, mit ihm zu reden, und Elohim stieg von Awraham herauf.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "und ⟨er⟩ beendete"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "zu reden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und stieg herauf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    }
+  ],
+  "timestamp": "2026-08-05T17:31:55.136148318Z",
+  "model": "glm-5.2"
+}

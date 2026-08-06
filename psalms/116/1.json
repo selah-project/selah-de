@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Ich liebe, denn JHWH hört ⟨את⟩ meine Stimme, mein Flehen.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ich liebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hört"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Stimme"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "meine Stimme"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mein Flehen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:48.756608946Z",
+  "model": "glm-5.2"
+}

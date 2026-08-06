@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und nun, Bewohner von Jeruschalajim, und Mann von Jehuda, richtet doch zwischen mir und meinem Weinberg!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "von Jeruschalajim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "und Mann"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "richtet"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "zwischen mir"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "meinem Weinberg"
+    }
+  ],
+  "timestamp": "2026-08-06T01:39:41.223876198Z",
+  "model": "glm-5.2"
+}

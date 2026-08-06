@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 81,
+  "translation": "Erhebt ⟨ein⟩ Lied und gebt die Handpauke, die süße Leier mit dem Resonanzkasten!",
+  "tokens": [
+    {
+      "surface": "שְֽׂאוּ",
+      "gloss": "Erhebt"
+    },
+    {
+      "surface": "זִ֭מְרָה",
+      "gloss": "⟨ein⟩ Lied"
+    },
+    {
+      "surface": "וּתְנוּ",
+      "gloss": "und gebt"
+    },
+    {
+      "surface": "תֹ֑ף",
+      "gloss": "die Handpauke"
+    },
+    {
+      "surface": "כִּנּ֖וֹר",
+      "gloss": "die Leier"
+    },
+    {
+      "surface": "נָעִ֣ים",
+      "gloss": "süße"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "נָֽבֶל",
+      "gloss": "dem Resonanzkasten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:49.133970002Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "Segnet JHWH, all seine Werke, an allen Orten seiner Herrschaft! Segne, meine Nefesch, ⟨את⟩ JHWH!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Segnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "seine Werke"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "an allen"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "Orten"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "seiner Herrschaft"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Segne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:07.833304711Z",
+  "model": "glm-5.2"
+}

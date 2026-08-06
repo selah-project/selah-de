@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Du aber, JHWH, sei nicht fern! Meine Kraft, zur Hilfe mir, eile!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Du aber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sei nicht"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "fern"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "meine Kraft"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "zur Hilfe mir"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "eile"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:09.664691675Z",
+  "model": "glm-5.2"
+}

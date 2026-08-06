@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 18:15",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ⟨die⟩ Südseite ⟨war⟩ vom Ende von Kirjat-Jearim, und die Grenze ging nach Westen, und ging hinaus zur Quelle der Wasser von Neftoach.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "und ⟨die⟩ Seite"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "südwärts"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "vom Ende"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "von Kirjat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-Jearim"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "und ging hinaus"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "die Grenze"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "nach Westen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "und ging hinaus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "⟨der⟩ Quelle"
+    },
+    {
+      "surface": "מי",
+      "gloss": "der Wasser"
+    },
+    {
+      "surface": "נפתוח",
+      "gloss": "von Neftoach"
+    }
+  ],
+  "timestamp": "2026-08-06T15:43:22.622104712Z",
+  "model": "glm-5.2"
+}

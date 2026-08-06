@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Es werde gedacht die Schuld seiner Väter vor JHWH, und die Sünde seiner Mutter, sie werde nicht ausgelöscht.",
+  "tokens": [
+    {
+      "surface": "יִזָּכֵ֤ר",
+      "gloss": "es werde gedacht"
+    },
+    {
+      "surface": "עֲוֺ֣ן",
+      "gloss": "die Schuld"
+    },
+    {
+      "surface": "אֲ֭בֹתָיו",
+      "gloss": "seiner Väter"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְחַטַּ֥את",
+      "gloss": "und die Sünde"
+    },
+    {
+      "surface": "אִ֝מּ֗וֹ",
+      "gloss": "seiner Mutter"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּמָּֽח",
+      "gloss": "sie werde ausgelöscht"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:18.476276453Z",
+  "model": "glm-5.2"
+}

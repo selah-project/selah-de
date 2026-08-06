@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Dies ⟨sind⟩ die Namen der Söhne Esaws: Elifas, Sohn der Ada, der Frau Esaws; Reuël, Sohn der Baschmat, der Frau Esaws.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "die Namen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaws"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "der Ada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "der Frau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaws"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuël"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "der Baschmat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "der Frau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaws"
+    }
+  ],
+  "timestamp": "2026-08-05T17:38:46.645690191Z",
+  "model": "glm-5.2"
+}

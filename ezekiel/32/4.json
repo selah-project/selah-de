@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 32:4",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und ich werde dich hinwerfen auf die Erde, auf die Fläche des Feldes werde ich dich schleudern, und ich werde auf dich kommen lassen allen Vogel des Himmels, und ich werde sättigen von dir ⟨das⟩ Getier der ganzen Erde.",
+  "tokens": [
+    {
+      "surface": "וּנְטַשְׁתִּ֣יךָ",
+      "gloss": "Und ich werde dich hinwerfen"
+    },
+    {
+      "surface": "בָאָ֔רֶץ",
+      "gloss": "auf die Erde"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "die Fläche"
+    },
+    {
+      "surface": "הַשָּׂדֶ֖ה",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "אֲטִילֶ֑ךָ",
+      "gloss": "werde ich dich schleudern"
+    },
+    {
+      "surface": "וְהִשְׁכַּנְתִּ֤י",
+      "gloss": "und ich werde kommen lassen"
+    },
+    {
+      "surface": "עָלֶ֨יךָ֙",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "ע֣וֹף",
+      "gloss": "Vogel"
+    },
+    {
+      "surface": "הַשָּׁמַ֔יִם",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "וְהִשְׂבַּעְתִּ֥י",
+      "gloss": "und ich werde sättigen"
+    },
+    {
+      "surface": "מִמְּךָ֖",
+      "gloss": "von dir"
+    },
+    {
+      "surface": "חַיַּ֥ת",
+      "gloss": "Getier"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T19:49:20.656664759Z",
+  "model": "glm-5.2"
+}

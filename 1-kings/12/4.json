@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "„Dein Vater hat unser Joch schwer gemacht, und du — jetzt, mach leichter von der harten Arbeit deines Vaters und von seinem schweren Joch, das er auf uns gelegt hat, und wir werden dir dienen.“",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "dein Vater"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "hat schwer gemacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unser Joch"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "unser Joch"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jetzt"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "mach leichter"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "von der Arbeit"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "der harten"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "und von seinem Joch"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "dem schweren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "er gelegt hat"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "auf uns"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "und wir werden dir dienen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:29:40.237228689Z",
+  "model": "glm-5.2"
+}

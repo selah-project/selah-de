@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und Rechawam ging nach Schchem, denn nach Schchem war ganz Jisra'el gekommen, um ⟨ihn⟩ zum König zu machen.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "und ging"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechawam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Schchem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Schchem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekommen war"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "um zum König zu machen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨ihn⟩",
+      "marks": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-05T21:29:40.236817525Z",
+  "model": "glm-5.2"
+}

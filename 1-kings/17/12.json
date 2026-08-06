@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 17:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "⟨Sie⟩ sagte: „So wahr JHWH, dein Elohim, lebt — ich habe keinen Kuchen, sondern nur eine Handvoll Mehl im Krug und ein wenig Öl im Fläschchen. Und siehe, ich lese zwei Holzscheite zusammen, ⟨und⟩ dann gehe ich hinein und bereite es mir und meinem Sohn zu, ⟨und⟩ dann essen wir es und sterben.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "⟨Sie⟩ sagte"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lebt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ich habe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "Kuchen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nur"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "eine Handvoll"
+    },
+    {
+      "surface": "כף",
+      "gloss": "—"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "Mehl"
+    },
+    {
+      "surface": "בכד",
+      "gloss": "im Krug"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "und ein wenig"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "Öl"
+    },
+    {
+      "surface": "בצפחת",
+      "gloss": "im Fläschchen"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "Und siehe, ich"
+    },
+    {
+      "surface": "מקששת",
+      "gloss": "lese … zusammen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "Holzscheite"
+    },
+    {
+      "surface": "ובאתי",
+      "gloss": "gehe ich hinein"
+    },
+    {
+      "surface": "ועשיתיהו",
+      "gloss": "und bereite es zu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "und meinem Sohn"
+    },
+    {
+      "surface": "ואכלנהו",
+      "gloss": "essen wir es"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "und sterben"
+    }
+  ],
+  "timestamp": "2026-08-05T21:31:39.017656139Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Er sagt in seinem Herzen: „Ich werde nicht wanken, ⟨denn⟩ für Generation und Generation ⟨bleibe ich⟩ ohne Unheil.“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Er sagt"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in seinem Herzen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "werde ich wanken"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "für Generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "und Generation"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(Relativpartikel)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "in Unheil"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:10.369573914Z",
+  "model": "glm-5.2"
+}

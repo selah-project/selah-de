@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "obadiah 1:7",
+  "book": "obadiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Bis zur Grenze schickten ⟨sie⟩ dich fort, alle Männer deines Bundes; ⟨sie⟩ haben dich getäuscht, ⟨sie⟩ überwältigten dich. Die Männer deines Schaloms — ⟨dein⟩ Brot setzen ⟨sie⟩ als Falle unter dich; ⟨da ist⟩ kein Verstehen in ihm.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "zur Grenze"
+    },
+    {
+      "surface": "שלחוך",
+      "gloss": "schickten dich fort"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "deines Bundes"
+    },
+    {
+      "surface": "השיאוך",
+      "gloss": "⟨sie⟩ haben dich getäuscht"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "⟨sie⟩ überwältigten"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dich"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Die Männer"
+    },
+    {
+      "surface": "שלמך",
+      "gloss": "deines Schaloms"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "⟨dein⟩ Brot"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "setzen ⟨sie⟩"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "als Falle"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "unter dich"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨da ist⟩ kein"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "Verstehen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T22:36:32.134354517Z",
+  "model": "glm-5.2"
+}

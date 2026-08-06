@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und wenn ihr erntet ⟨את⟩ die Ernte eures Landes, sollst du nicht vollständig abernten den Rand deines Feldes bei deiner Ernte, und das Nachgelesene deiner Ernte sollst du nicht nachlesen — dem Armen und dem Fremdling sollst du sie lassen. Ich ⟨bin⟩ JHWH, euer Elohim.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "und wenn ihr erntet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ernte"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "Ernte"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "eures Landes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "sollst du vollständig abernten"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "den Rand"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "deines Feldes"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "bei deiner Ernte"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "und ⟨das⟩ Nachgelesene"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "deiner Ernte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "sollst du nachlesen"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "dem Armen"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "und dem Fremdling"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "sollst du lassen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:29:06.098701250Z",
+  "model": "glm-5.2"
+}

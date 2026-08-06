@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und der König sprach zu Joab: Siehe doch, ich habe ⟨את⟩ diese Sache getan. So geh, bring ⟨את⟩ den jungen Mann, ⟨את⟩ Abschalom, zurück.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ich habe getan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Sache"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨die⟩ Sache"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "so geh"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bring zurück"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den jungen Mann"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den jungen Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abschalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abschalom"
+    }
+  ],
+  "timestamp": "2026-08-06T01:16:39.578950882Z",
+  "model": "glm-5.2"
+}

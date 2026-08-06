@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Dann zieht ein Wind vorüber und geht ⟨weiter⟩ und wird schuldig — ⟨er⟩, dieser ⟨seine⟩ Macht ⟨gilt⟩ als Elohim.",
+  "tokens": [
+    {
+      "surface": "אָז",
+      "gloss": "dann"
+    },
+    {
+      "surface": "חָלַף",
+      "gloss": "zieht vorüber"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "Wind"
+    },
+    {
+      "surface": "וַיַּעֲבֹר",
+      "gloss": "und geht ⟨weiter⟩"
+    },
+    {
+      "surface": "וְאָשֵׁם",
+      "gloss": "und wird schuldig"
+    },
+    {
+      "surface": "זוּ",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "כֹּחוֹ",
+      "gloss": "seine Macht"
+    },
+    {
+      "surface": "לֵאלֹהִיו",
+      "gloss": "als Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T04:03:10.030355979Z",
+  "model": "glm-5.2"
+}

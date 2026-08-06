@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Sie ⟨sind es⟩, die umherirren ⟨um⟩ zu essen; und wenn sie nicht satt werden, ⟨dann⟩ verweilen ⟨sie⟩ ⟨die⟩ Nacht.",
+  "tokens": [
+    {
+      "surface": "הֵ֭מָּה",
+      "gloss": "Sie"
+    },
+    {
+      "surface": "יִנּוֹע֣וּן",
+      "gloss": "die umherirren"
+    },
+    {
+      "surface": "לֶאֱכֹ֑ל",
+      "gloss": "⟨um⟩ zu essen"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִשְׂבְּע֗וּ",
+      "gloss": "satt werden"
+    },
+    {
+      "surface": "וַיָּלִֽינוּ",
+      "gloss": "⟨dann⟩ verweilen ⟨sie⟩ ⟨die⟩ Nacht"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:21.915264402Z",
+  "model": "glm-5.2"
+}

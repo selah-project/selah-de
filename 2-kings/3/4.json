@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Mescha, der König von Mo'av, war ein Schafzüchter, und er erstattete dem König von Jisra'el hunderttausend Lämmer und hunderttausend Widder ⟨mit⟩ Wolle.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "und Mescha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "von Mo'av"
+    },
+    {
+      "surface": "היה",
+      "gloss": "war"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "ein Schafzüchter"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "und er erstattete"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "Lämmer"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "und hundert"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Widder"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "Wolle"
+    }
+  ],
+  "timestamp": "2026-08-05T21:33:52.741018646Z",
+  "model": "glm-5.2"
+}

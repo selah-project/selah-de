@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Sie mischten sich unter die Nationen und lernten ihre Taten.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "Sie mischten sich"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "unter die Nationen"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "und lernten"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ihre Taten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:54.771737509Z",
+  "model": "glm-5.2"
+}

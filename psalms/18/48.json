@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "der El, ⟨der⟩ mir Vergeltungen gibt, und ⟨der⟩ Völker unter mich niedertritt.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "der El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "⟨der⟩ gibt"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "Vergeltungen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "und niedertritt"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "unter mich"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:22.496628669Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Arnon wandte sich und sah ⟨את⟩ den Malach, und seine vier Söhne ⟨waren⟩ bei ihm, ⟨als sie sich versteckten⟩, und Arnon drosch Weizen.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Und wandte sich"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Malach"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "den Malach"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "und vier"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bei ihm"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "sich versteckend"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "und Arnon"
+    },
+    {
+      "surface": "דש",
+      "gloss": "drosch"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "Weizen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:56:50.617259939Z",
+  "model": "glm-5.2"
+}

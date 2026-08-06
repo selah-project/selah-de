@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und ⟨es⟩ war böse in den Augen der Elohim wegen dieser Sache, und er schlug ⟨את⟩ Jisra'el.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "und ⟨es⟩ war böse"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in den Augen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "der Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dieser Sache"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "und er schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-05T23:51:39.385276821Z",
+  "model": "glm-5.2"
+}

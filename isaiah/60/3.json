@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 60,
+  "translation": "Und Nationen werden zu deinem Licht gehen, und Könige zum Glanz deines Aufgangs.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Und … werden gehen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Nationen"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "zu deinem Licht"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "und Könige"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "zum Glanz"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "deines Aufgangs"
+    }
+  ],
+  "timestamp": "2026-08-06T03:22:11.828202289Z",
+  "model": "glm-5.2"
+}

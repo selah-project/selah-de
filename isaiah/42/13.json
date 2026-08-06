@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "JHWH zieht aus wie ein Held, wie ein Kriegsmann weckt er Eifer auf; er schreit, ja, er bellt, über seine Feinde hin erweist er sich als stark.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "wie ein Held"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "zieht aus"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "wie ein"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "Kriegsmann"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "weckt er auf"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "Eifer"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "er schreit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "er bellt"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "seine Feinde"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "erweist er sich als stark"
+    }
+  ],
+  "timestamp": "2026-08-06T15:11:59.695568093Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Amram nahm ⟨את⟩ Jokebed, seine Tante, sich zur Frau, und sie gebar ihm ⟨את⟩ Aharon und ⟨את⟩ Mosche. Und die Jahre des Lebens Amrams ⟨waren⟩ siebenunddreißig und hundert Jahre.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und nahm"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jokebed"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Jokebed"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "seine Tante"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sich"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "zur Frau"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "und sie gebar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "Und die Jahre"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "des Lebens"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amrams"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "und dreißig"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "und hundert"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    }
+  ],
+  "timestamp": "2026-08-05T20:06:54.030613891Z",
+  "model": "glm-5.2"
+}

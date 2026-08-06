@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Ich ⟨bin⟩ JHWH, euer Heiliger, der Schöpfer Jisraëls, euer König.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "euer Heiliger"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "der Schöpfer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraëls"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "euer König"
+    }
+  ],
+  "timestamp": "2026-08-06T01:49:38.944945553Z",
+  "model": "glm-5.2"
+}

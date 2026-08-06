@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Trauert, verwelkt die Erde; dahinsiecht, verwelkt ⟨die⟩ Welt; dahingesiekt ⟨ist⟩ die Höhe des Volkes der Erde.",
+  "tokens": [
+    {
+      "surface": "אָבְלָ֤ה",
+      "gloss": "trauert"
+    },
+    {
+      "surface": "נָֽבְלָה֙",
+      "gloss": "verwelkt"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "אֻמְלְלָ֥ה",
+      "gloss": "dahinsiecht"
+    },
+    {
+      "surface": "נָבְלָ֖ה",
+      "gloss": "verwelkt"
+    },
+    {
+      "surface": "תֵּבֵ֑ל",
+      "gloss": "die Welt"
+    },
+    {
+      "surface": "אֻמְלָ֖לוּ",
+      "gloss": "dahingesiekt"
+    },
+    {
+      "surface": "מְר֥וֹם",
+      "gloss": "die Höhe"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T05:58:56.299786123Z",
+  "model": "glm-5.2"
+}

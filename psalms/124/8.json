@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 124,
+  "translation": "Unsere Hilfe ⟨ist⟩ im Namen JHWHs, dem, der Himmel und Erde gemacht hat.",
+  "tokens": [
+    {
+      "surface": "עֶ֭זְרֵנוּ",
+      "gloss": "unsere Hilfe"
+    },
+    {
+      "surface": "בְּשֵׁ֣ם",
+      "gloss": "im Namen"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "עֹ֝שֵׂ֗ה",
+      "gloss": "dem, der gemacht hat"
+    },
+    {
+      "surface": "שָׁמַ֥יִם",
+      "gloss": "Himmel"
+    },
+    {
+      "surface": "וָאָֽרֶץ",
+      "gloss": "und Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:28.347475824Z",
+  "model": "glm-5.2"
+}

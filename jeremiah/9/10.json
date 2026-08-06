@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ich werde ⟨את⟩ Jeruschalajim zu Schutthaufen geben, ⟨zur⟩ Wohnung von Schakalen, und ⟨את⟩ die Städte Jehudas werde ich zur Wüste machen, ohne ⟨einen⟩ Bewohner.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Und ich werde geben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruschalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "zu Schutthaufen"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Wohnung"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "von Schakalen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Städte Jehudas"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "die Städte"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "werde ich machen"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "zur Wüste"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨einen⟩ Bewohner"
+    }
+  ],
+  "timestamp": "2026-08-06T03:28:41.471370573Z",
+  "model": "glm-5.2"
+}

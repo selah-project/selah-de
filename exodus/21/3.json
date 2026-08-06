@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Wenn er mit seinem Körper kommt, mit seinem Körper soll er hinausgehen. Wenn er ⟨der⟩ Herr einer Frau ist, dann soll seine Frau mit ihm hinausgehen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "mit seinem Körper"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "er kommt"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "mit seinem Körper"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soll er hinausgehen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "⟨der⟩ Herr"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "einer Frau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ist"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "dann soll hinausgehen"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seine Frau"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:27.124948947Z",
+  "model": "glm-5.2"
+}

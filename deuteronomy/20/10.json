@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Wenn du einer Stadt nahst, um gegen sie zu kämpfen, dann sollst du ihr Schalom anbieten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "du nahst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "einer"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "um zu kämpfen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "gegen sie"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "dann sollst du … rufen"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "Schalom"
+    }
+  ],
+  "timestamp": "2026-08-05T20:47:13.668796102Z",
+  "model": "glm-5.2"
+}

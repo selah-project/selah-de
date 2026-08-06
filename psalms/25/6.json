@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Gedenke deiner Racham, JHWH, und deiner Chassed, denn von Ewigkeit ⟨sind⟩ sie.",
+  "tokens": [
+    {
+      "surface": "זְכֹר",
+      "gloss": "Gedenke"
+    },
+    {
+      "surface": "רַחֲמֶיךָ",
+      "gloss": "deiner Racham"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וַחֲסָדֶיךָ",
+      "gloss": "und deiner Chassed"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מֵעוֹלָם",
+      "gloss": "von Ewigkeit"
+    },
+    {
+      "surface": "הֵמָּה",
+      "gloss": "⟨sind⟩ sie"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:30.237024558Z",
+  "model": "glm-5.2"
+}

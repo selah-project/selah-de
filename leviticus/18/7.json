@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Die Blöße deines Vaters und die Blöße deiner Mutter sollst du nicht entblößen — deine Mutter ⟨ist⟩ sie; ihre Blöße sollst du nicht entblößen.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Die Blöße"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "und die Blöße"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "deiner Mutter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "sollst du entblößen"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "Deine Mutter"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ist⟩ sie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "sollst du entblößen"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ihre Blöße"
+    }
+  ],
+  "timestamp": "2026-08-06T02:12:44.865438566Z",
+  "model": "glm-5.2"
+}

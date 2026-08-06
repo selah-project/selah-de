@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 67,
+  "translation": "Es sollen dich preisen die Völker, Elohim! Es sollen dich preisen die Völker, alle miteinander!",
+  "tokens": [
+    {
+      "surface": "יוֹד֖וּךָ",
+      "gloss": "Es sollen dich preisen"
+    },
+    {
+      "surface": "עַמִּ֥ים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "י֝וֹד֗וּךָ",
+      "gloss": "Es sollen dich preisen"
+    },
+    {
+      "surface": "עַמִּ֥ים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "כֻּלָּֽם",
+      "gloss": "alle miteinander"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:58.053774147Z",
+  "model": "glm-5.2"
+}

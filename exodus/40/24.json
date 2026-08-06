@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und er stellte ⟨את⟩ die Menora in das Zelt der Begegnung, gegenüber dem Tisch, auf die Seite des Mischkan, südwärts.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Und er stellte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "die Menora"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in ⟨das⟩ Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "dem Tisch"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "die Seite"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "des Mischkan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "südwärts"
+    }
+  ],
+  "timestamp": "2026-08-06T02:08:03.118326447Z",
+  "model": "glm-5.2"
+}

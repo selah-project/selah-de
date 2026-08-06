@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Er setzte ihn als Herrn über sein Haus und als Herrscher über all seinen Besitz.",
+  "tokens": [
+    {
+      "surface": "שָׂמוֹ",
+      "gloss": "Er setzte ihn"
+    },
+    {
+      "surface": "אָדוֹן",
+      "gloss": "als Herrn"
+    },
+    {
+      "surface": "לְבֵיתוֹ",
+      "gloss": "über sein Haus"
+    },
+    {
+      "surface": "וּמֹשֵׁל",
+      "gloss": "und als Herrscher"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "über all"
+    },
+    {
+      "surface": "קִנְיָנוֹ",
+      "gloss": "seinen Besitz"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:36.877843692Z",
+  "model": "glm-5.2"
+}

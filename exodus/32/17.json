@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und Jehoschua hörte ⟨את⟩ die Stimme des Volkes beim Rufen, und er sagte zu Mosche: „Stimme von Krieg ⟨im⟩ Lager!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Und er hörte"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stimme"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Stimme"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "beim Rufen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Stimme"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "von Krieg"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "im Lager"
+    }
+  ],
+  "timestamp": "2026-08-06T00:20:26.207422112Z",
+  "model": "glm-5.2"
+}

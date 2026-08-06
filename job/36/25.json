@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Jeder Mensch hat ⟨es⟩ geschaut, ein Sterblicher schaut von fern.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "hat geschaut"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨es⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ein Sterblicher"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "schaut"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "von fern"
+    }
+  ],
+  "timestamp": "2026-08-05T23:24:05.205783628Z",
+  "model": "glm-5.2"
+}

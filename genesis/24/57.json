@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Da sagten sie: „Lasst uns das Mädchen rufen und ⟨sie⟩ ⟨את⟩ ihren Mund befragen.“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Da sagten sie"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "Lasst uns rufen"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "das Mädchen"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "und befragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Mund"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ihren Mund"
+    }
+  ],
+  "timestamp": "2026-08-06T20:04:26.091661982Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Vergräbt ⟨ein⟩ Fauler seine Hand in der Schüssel — sogar zu seinem Mund bringt er sie nicht zurück.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "Vergräbt"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "⟨ein⟩ Fauler"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "in der Schüssel"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sogar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "seinem Mund"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "bringt er sie zurück"
+    }
+  ],
+  "timestamp": "2026-08-06T06:56:19.828599927Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und nach Osten wohnten ⟨sie⟩ bis zum Eintritt der Steppe, vom Fluss Perat ⟨an⟩, denn ihr Viehvermögen hatte sich vermehrt im Land Gilad.",
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "und nach Osten"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wohnten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "zum Eintritt"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "der Steppe"
+    },
+    {
+      "surface": "למן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "dem Fluss"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ihr Viehvermögen"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "hatte sich vermehrt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-06T19:56:19.593421330Z",
+  "model": "glm-5.2"
+}

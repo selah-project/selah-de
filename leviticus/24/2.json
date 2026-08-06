@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Befiehl ⟨את⟩ den Söhnen Jisraels, und sie sollen zu dir bringen Öl vom Olivenbaum, rein, gestoßen, für ⟨das⟩ Leuchten, um ⟨einen⟩ Leuchten-Docht beständig aufsteigen zu lassen:",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Befiehl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "und sie sollen nehmen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "Öl"
+    },
+    {
+      "surface": "זית",
+      "gloss": "Olivenbaum"
+    },
+    {
+      "surface": "זך",
+      "gloss": "rein"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "gestoßen"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "für das Leuchten"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "um aufsteigen zu lassen"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Leuchten-Docht"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständig"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:22.841210537Z",
+  "model": "glm-5.2"
+}

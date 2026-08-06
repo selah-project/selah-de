@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Taumeln, ⟨die⟩ Erde ⟨taumelt⟩ wie ⟨ein⟩ Trunkener, und ⟨sie⟩ schwankt hin und her wie eine Hütte, und schwer liegt auf ihr ihre Auflehnung, und sie fällt und wird nicht wieder aufstehen.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "Taumeln"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "⟨taumelt⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "wie ⟨ein⟩ Trunkener"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "und ⟨sie⟩ schwankt hin und her"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "wie eine Hütte"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "und schwer ⟨liegt⟩"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "auf ihr"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "ihre Auflehnung"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "und sie fällt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "wird wieder"
+    },
+    {
+      "surface": "קום",
+      "gloss": "aufstehen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:16:00.235448330Z",
+  "model": "glm-5.2"
+}

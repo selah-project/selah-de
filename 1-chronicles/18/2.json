@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und er schlug ⟨את⟩ Moaw, und die Moabiter wurden Knechte Dawids, Träger einer Gabe.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Und er schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moaw"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaw"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "und sie wurden"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "die Moabiter"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "Knechte"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "Träger"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "einer Gabe"
+    }
+  ],
+  "timestamp": "2026-08-06T19:55:25.582751591Z",
+  "model": "glm-5.2"
+}

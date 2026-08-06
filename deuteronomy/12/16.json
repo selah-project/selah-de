@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Nur das Blut sollt ihr nicht essen; auf die Erde sollt ihr es gießen wie Wasser.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nur"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "das Blut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sollt ihr essen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "sollt ihr es gießen"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "wie Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T00:43:27.508281788Z",
+  "model": "glm-5.2"
+}

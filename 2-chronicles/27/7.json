@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 27:7",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und das Übrige der Taten Jotams und all seine Kriege und seine Wege, siehe, ⟨sie sind⟩ geschrieben im Buch der Könige von Jisra'el und Jehudah.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "und das Übrige"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "der Taten"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotams"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "מלחמתיו",
+      "gloss": "seine Kriege"
+    },
+    {
+      "surface": "ודרכיו",
+      "gloss": "und seine Wege"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "geschrieben"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "dem Buch"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "der Könige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "und Jehudah"
+    }
+  ],
+  "timestamp": "2026-08-05T23:59:36.495486648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Ich erkenne, dass du alles vermagst, und kein Plan ist unerreichbar für dich.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ich erkenne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "du vermagst"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "ist unerreichbar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "für dich"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ein Plan"
+    }
+  ],
+  "timestamp": "2026-08-05T23:25:32.130914909Z",
+  "model": "glm-5.2"
+}

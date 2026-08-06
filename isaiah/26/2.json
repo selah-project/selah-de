@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Öffnet ⟨die⟩ Tore, dass ⟨ein⟩ Volk einziehe, ⟨ein⟩ gerechtes, das Treue bewahrt!",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Öffnet"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dass einziehe"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ein gerechtes"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "das bewahrt"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "Treue"
+    }
+  ],
+  "timestamp": "2026-08-06T10:11:30.269783166Z",
+  "model": "glm-5.2"
+}

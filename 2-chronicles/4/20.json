@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨את⟩ die Leuchter und ihre Lampen, um sie anzuzünden nach der Ordnung vor dem Debir, ⟨aus⟩ geläutertem Gold.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Leuchter"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "die Leuchter"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "und ihre Lampen"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "um sie anzuzünden"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "nach der Ordnung"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "dem Debir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "geläutertem"
+    }
+  ],
+  "timestamp": "2026-08-06T07:24:44.627724584Z",
+  "model": "glm-5.2"
+}

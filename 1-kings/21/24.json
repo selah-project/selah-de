@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Wer von Achab ⟨stirbt⟩ in der Stadt stirbt, ⟨den⟩ werden die Hunde fressen; und wer auf dem Feld ⟨stirbt⟩ stirbt, ⟨den⟩ werden die Vögel des Himmels fressen.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Wer ⟨stirbt⟩ stirbt"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "von Achab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "werden fressen"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "die Hunde"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "und wer ⟨stirbt⟩ stirbt"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "auf dem Feld"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "werden fressen"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "die Vögel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    }
+  ],
+  "timestamp": "2026-08-06T01:29:52.155616335Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 106:47",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Rette uns, JHWH, unser Elohim, und sammle uns aus den Völkern, um deinem heiligen Namen zu danken, um dich zu rühmen in deinem Lob!",
+  "tokens": [
+    {
+      "surface": "הושיענו",
+      "gloss": "Rette uns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "וקבצנו",
+      "gloss": "und sammle uns"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "den Völkern"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "um zu danken"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "deinem Namen"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "deinem heiligen ⟨Namen⟩"
+    },
+    {
+      "surface": "להשתבח",
+      "gloss": "um dich zu rühmen"
+    },
+    {
+      "surface": "בתהלתך",
+      "gloss": "in deinem Lob"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:15.599858266Z",
+  "model": "glm-5.2"
+}

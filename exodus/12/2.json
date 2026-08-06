@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "„Dieser Monat ist euch der Anfang der Monate, der erste ist er euch für die Monate des Jahres.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Dieser Monat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Anfang"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "der Monate"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "der erste"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist er"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "für die Monate"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "des Jahres"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:50.631281048Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Der Weg der Frevler ⟨ist⟩ wie das Dunkel; sie wissen nicht, woran sie straucheln.",
+  "tokens": [
+    {
+      "surface": "דֶּ֣רֶךְ",
+      "gloss": "Der Weg"
+    },
+    {
+      "surface": "רְ֭שָׁעִים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "כָּֽאֲפֵלָ֑ה",
+      "gloss": "wie das Dunkel"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָ֝דְע֗וּ",
+      "gloss": "sie wissen"
+    },
+    {
+      "surface": "בַּמֶּ֥ה",
+      "gloss": "woran"
+    },
+    {
+      "surface": "יִכָּשֵֽׁלוּ",
+      "gloss": "sie straucheln"
+    }
+  ],
+  "timestamp": "2026-08-05T23:08:23.111035160Z",
+  "model": "glm-5.2"
+}

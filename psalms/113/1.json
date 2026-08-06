@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 113,
+  "translation": "Lobt Jah! Lobt, ihr Knechte JHWHs, lobt ⟨את⟩ den Namen JHWHs!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ihr Knechte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lobt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Namen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:25.240511327Z",
+  "model": "glm-5.2"
+}

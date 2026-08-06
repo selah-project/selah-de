@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und der Bocksgaiß trage auf sich ⟨את⟩ alle ihre Verfehlungen in ein abgeschnittenes Land, und er sende ⟨את⟩ den Bocksgaiß in die Wüste.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "und er trage"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "der Bocksgaiß"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf sich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle ihre Verfehlungen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "ihre Verfehlungen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ein Land"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "abgeschnittenes"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "und er sende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Bocksgaiß"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "den Bocksgaiß"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die Wüste"
+    }
+  ],
+  "timestamp": "2026-08-05T20:24:30.772021296Z",
+  "model": "glm-5.2"
+}

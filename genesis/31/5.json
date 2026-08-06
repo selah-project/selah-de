@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und er sprach zu ihnen: „Seht, ich sehe ⟨את⟩ das Angesicht eures Vaters, dass es nicht zu mir ist wie gestern und vorgestern; aber der Elohim meines Vaters war mit mir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "להן",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "seht"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Angesicht"
+    },
+    {
+      "surface": "פני",
+      "gloss": "das Angesicht"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "eures Vaters"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "es nicht ist"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "wie gestern"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "und vorgestern"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "aber der Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meines Vaters"
+    },
+    {
+      "surface": "היה",
+      "gloss": "war"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mit mir"
+    }
+  ],
+  "timestamp": "2026-08-06T01:56:53.624319165Z",
+  "model": "glm-5.2"
+}

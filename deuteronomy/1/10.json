@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "JHWH, euer Elohim, hat euch gemehrt, und siehe, ihr seid heute wie die Sterne des Himmels an Menge.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "hat gemehrt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "und siehe, ihr"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "wie die Sterne"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "an Menge"
+    }
+  ],
+  "timestamp": "2026-08-05T20:41:47.032359913Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "JHWH wird ihn stützen auf dem Bett der Krankheit — sein ganzes Lager hast du in seiner Krankheit umgewandelt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "wird ihn stützen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "dem Bett"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "der Krankheit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sein ganzes"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "Lager"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "hast du umgewandelt"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "in seiner Krankheit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:28.257174651Z",
+  "model": "glm-5.2"
+}

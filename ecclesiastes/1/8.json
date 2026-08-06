@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Alle ⟨die⟩ Worte ⟨sind⟩ ermattend — ⟨es⟩ kann ⟨kein⟩ Mensch ⟨sie⟩ aussprechen; ⟨die⟩ Augen ⟨sind⟩ nicht satt zu sehen, und ⟨die⟩ Ohren ⟨sind⟩ nicht erfüllt zu hören.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨die⟩ Worte"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "⟨sind⟩ ermattend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "⟨es⟩ kann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨kein⟩ Mensch"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "⟨sie⟩ aussprechen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "⟨sind⟩ satt"
+    },
+    {
+      "surface": "עין",
+      "gloss": "⟨die⟩ Augen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "zu sehen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "⟨sind⟩ erfüllt"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "⟨die⟩ Ohren"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "zu hören"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:50.833332896Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Du sollst kein nichtiges Gerücht aufbringen. ⟨Du⟩ sollst deine Hand nicht zusammen mit ⟨einem⟩ Räscha legen, um ⟨ein⟩ Zeuge ⟨der⟩ Gewalt zu sein.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִשָּׂא",
+      "gloss": "sollst du aufbringen"
+    },
+    {
+      "surface": "שֵׁמַע",
+      "gloss": "Gerücht"
+    },
+    {
+      "surface": "שָׁוְא",
+      "gloss": "nichtiges"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תָּשֶׁת",
+      "gloss": "sollst du legen"
+    },
+    {
+      "surface": "יָדְךָ",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "zusammen mit"
+    },
+    {
+      "surface": "רָשָׁע",
+      "gloss": "einem Räscha"
+    },
+    {
+      "surface": "לִהְיֹת",
+      "gloss": "um zu sein"
+    },
+    {
+      "surface": "עֵד",
+      "gloss": "Zeuge"
+    },
+    {
+      "surface": "חָמָס",
+      "gloss": "Gewalt"
+    }
+  ],
+  "timestamp": "2026-08-06T14:51:43.232063716Z",
+  "model": "glm-5.2"
+}

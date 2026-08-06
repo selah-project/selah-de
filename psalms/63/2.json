@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 63,
+  "translation": "Elohim, mein El, ⟨du⟩ bist du. Nach dir suche ich, dich dürstet meine Nefesch, nach dir lechzt mein Fleisch, in einem Land, dürr und erschöpft ⟨und⟩ ohne Wasser.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֵלִי",
+      "gloss": "mein El"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אֲשַׁחֲרֶךָּ",
+      "gloss": "Nach dir suche ich"
+    },
+    {
+      "surface": "צָמְאָה",
+      "gloss": "dürstet"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "dich"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "כָּמַהּ",
+      "gloss": "lechzt"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "nach dir"
+    },
+    {
+      "surface": "בְשָׂרִי",
+      "gloss": "mein Fleisch"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "in einem Land"
+    },
+    {
+      "surface": "צִיָּה",
+      "gloss": "dürr"
+    },
+    {
+      "surface": "וְעָיֵף",
+      "gloss": "und erschöpft"
+    },
+    {
+      "surface": "בְּלִי",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "מָיִם",
+      "gloss": "Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:26.934113400Z",
+  "model": "glm-5.2"
+}

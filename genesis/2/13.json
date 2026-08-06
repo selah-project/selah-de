@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und der Name des zweiten Flusses ⟨ist⟩ Gichon, der ⟨ist es⟩, der ⟨את⟩ das ganze Land Kusch umfließt.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Und der Name"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "des Flusses"
+    },
+    {
+      "surface": "השני",
+      "gloss": "des zweiten"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "der"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "der umfließt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Land Kusch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:02:59.498878551Z",
+  "model": "glm-5.2"
+}

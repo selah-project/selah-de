@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Siehe, auf ⟨meine⟩ Handflächen habe ich dich eingraviert; ⟨deine⟩ Mauern sind beständig vor mir.",
+  "tokens": [
+    {
+      "surface": "הֵ֥ן",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כַּפַּ֖יִם",
+      "gloss": "⟨meine⟩ Handflächen"
+    },
+    {
+      "surface": "חַקֹּתִ֑יךָ",
+      "gloss": "habe ich dich eingraviert"
+    },
+    {
+      "surface": "חוֹמֹתַ֥יִךְ",
+      "gloss": "⟨deine⟩ Mauern"
+    },
+    {
+      "surface": "נֶגְדִּ֖י",
+      "gloss": "vor mir"
+    },
+    {
+      "surface": "תָּמִֽיד",
+      "gloss": "beständig"
+    }
+  ],
+  "timestamp": "2026-08-06T10:12:52.663956691Z",
+  "model": "glm-5.2"
+}

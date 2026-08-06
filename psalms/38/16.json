@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Denn auf dich, JHWH, habe ich geharrt. Du, du wirst antworten, Adonai, Elohai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "habe ich geharrt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "du wirst antworten"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mein Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:32.659815849Z",
+  "model": "glm-5.2"
+}

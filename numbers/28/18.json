@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Am ersten Tag ⟨ist⟩ eine heilige Einberufung; alle Arbeit des Dienstes sollt ihr nicht tun.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Am Tag"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "den ersten"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "Einberufung"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "Arbeit"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "des Dienstes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sollt ihr tun"
+    }
+  ],
+  "timestamp": "2026-08-06T00:38:56.470533738Z",
+  "model": "glm-5.2"
+}

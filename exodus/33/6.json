@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Da legten die Söhne Jisraels ⟨את⟩ ihren Schmuck ab vom Berg Chorew ⟨an⟩.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "Da legten … ab"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Schmuck"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ihren Schmuck"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "vom Berg"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Chorew"
+    }
+  ],
+  "timestamp": "2026-08-06T00:21:29.023541515Z",
+  "model": "glm-5.2"
+}

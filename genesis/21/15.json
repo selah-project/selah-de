@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Da ging das Wasser im Schlauch zu Ende, und sie warf ⟨את⟩ das Kind unter einen der Sträucher.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Und es ging zu Ende"
+    },
+    {
+      "surface": "המים",
+      "gloss": "das Wasser"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "dem Schlauch"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "und sie warf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "das Kind"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einen"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "der Sträucher"
+    }
+  ],
+  "timestamp": "2026-08-05T17:33:31.322619687Z",
+  "model": "glm-5.2"
+}

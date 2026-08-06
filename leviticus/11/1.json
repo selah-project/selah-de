@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und JHWH redete zu Mosche und zu Aharon, ⟨und sprach⟩ zu ihnen:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und ⟨er⟩ redete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und sprach⟩"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:19:20.569987028Z",
+  "model": "glm-5.2"
+}

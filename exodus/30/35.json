@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und du sollst ⟨את⟩ sie machen als Räucherwerk, eine Mischung, das Werk eines Mischers, eingesalzen, rein, heilig.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֤יתָ",
+      "gloss": "Und du sollst machen"
+    },
+    {
+      "surface": "אֹתָהּ֙",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Mischung)"
+    },
+    {
+      "surface": "קְטֹ֔רֶת",
+      "gloss": "als Räucherwerk"
+    },
+    {
+      "surface": "רֹ֖קַח",
+      "gloss": "eine Mischung"
+    },
+    {
+      "surface": "מַעֲשֵׂ֣ה",
+      "gloss": "das Werk"
+    },
+    {
+      "surface": "רוֹקֵ֑חַ",
+      "gloss": "eines Mischers"
+    },
+    {
+      "surface": "מְמֻלָּ֖ח",
+      "gloss": "eingesalzen"
+    },
+    {
+      "surface": "טָה֥וֹר",
+      "gloss": "rein"
+    },
+    {
+      "surface": "קֹֽדֶשׁ",
+      "gloss": "heilig"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:02.308861852Z",
+  "model": "glm-5.2"
+}

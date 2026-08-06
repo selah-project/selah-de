@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Eine Stimme auf den Höhen ⟨wird⟩ gehört, ⟨das⟩ Weinen ⟨und⟩ die Flehen der Söhne Jisra'els, denn sie haben ⟨את⟩ ihren Weg verbogen, haben ⟨את⟩ JHWH, ihren Elohim, vergessen.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Eine Stimme"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "den Höhen"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "⟨wird⟩ gehört"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "⟨das⟩ Weinen"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "die Flehen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "sie haben verbogen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Weg"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ihren Weg"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "haben vergessen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ihren Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T10:15:00.017624215Z",
+  "model": "glm-5.2"
+}

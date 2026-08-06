@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ⟨es⟩ wurde dem Joab berichtet: „Siehe, der König weint und trauert um Awischalom.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "und ⟨es⟩ wurde berichtet"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "dem Joab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "weint"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "und trauert"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Awischalom"
+    }
+  ],
+  "timestamp": "2026-08-05T21:22:15.205959208Z",
+  "model": "glm-5.2"
+}

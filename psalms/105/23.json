@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Und Jisra'el kam nach Mizrajim, und Jaakow weilte als Fremdling im Land von Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "und kam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nach Mizrajim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "und Jaakow"
+    },
+    {
+      "surface": "גר",
+      "gloss": "weilte als Fremdling"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "חם",
+      "gloss": "von Cham"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:25.059490594Z",
+  "model": "glm-5.2"
+}

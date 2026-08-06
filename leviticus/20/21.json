@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ein Mann, der die Frau seines Bruders nimmt — ⟨את⟩ die Frau seines Bruders —, ⟨das⟩ ist Unreinheit: ⟨er⟩ hat die Blöße seines Bruders aufgedeckt, kinderlos sollen sie sein.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "und ⟨ein⟩ Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nimmt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Frau seines Bruders"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seines Bruders"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "Unreinheit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨das⟩ ist"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "die Blöße"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seines Bruders"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "hat ⟨er⟩ aufgedeckt"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "kinderlos"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sollen sie sein"
+    }
+  ],
+  "timestamp": "2026-08-06T09:49:13.482973905Z",
+  "model": "glm-5.2"
+}

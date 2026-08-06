@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und er schlug jeden Erstgeborenen in Mizrajim, den Erstling ⟨ihrer⟩ Kraft in den Zelten von Cham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "und er schlug"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "Erstgeborenen"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mizrajim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "den Erstling"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "⟨ihrer⟩ Kraft"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "in den Zelten"
+    },
+    {
+      "surface": "חם",
+      "gloss": "von Cham"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:40.180766941Z",
+  "model": "glm-5.2"
+}

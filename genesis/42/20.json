@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und ⟨את⟩ euren jüngsten Bruder sollt ihr zu mir bringen, dann werden eure Worte glaubwürdig ⟨gemacht⟩, und ihr werdet nicht sterben.“ Und sie taten so.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "euren Bruder"
+    },
+    {
+      "surface": "אֲחִיכֶם",
+      "gloss": "euren Bruder"
+    },
+    {
+      "surface": "הַקָּטֹן",
+      "gloss": "den jüngsten"
+    },
+    {
+      "surface": "תָּבִיאוּ",
+      "gloss": "sollt ihr bringen"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "וְיֵאָמְנוּ",
+      "gloss": "und ⟨es⟩ werden ⟨sich⟩ ⟨als⟩ glaubwürdig ⟨erweisen⟩"
+    },
+    {
+      "surface": "דִּבְרֵיכֶם",
+      "gloss": "eure Worte"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תָּמֻתוּ",
+      "gloss": "ihr werdet sterben"
+    },
+    {
+      "surface": "וַיַּעֲשׂוּ",
+      "gloss": "und sie taten"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-08-05T20:03:03.860493404Z",
+  "model": "glm-5.2"
+}

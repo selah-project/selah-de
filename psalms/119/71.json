@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Gut ⟨ist es⟩ für mich, dass ich gebeugt worden bin, damit ich deine Ordnungen lerne.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Gut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "für mich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ich gebeugt worden bin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "ich lerne"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "deine Ordnungen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:07.071396486Z",
+  "model": "glm-5.2"
+}

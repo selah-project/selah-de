@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und du sollst nehmen ⟨את⟩ die Kleider und bekleiden ⟨את⟩ Aharon ⟨mit⟩ der Tunika und ⟨את⟩ das Gewand des Efod und ⟨את⟩ den Efod und ⟨את⟩ das Brustschild, und du sollst ihm gürten mit dem gewebten Band des Efod.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "und du sollst nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kleider"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "die Kleider"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "und bekleiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "der Tunika"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "die Tunika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Gewand"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "das Gewand"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "des Efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "den Efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Brustschild"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "das Brustschild"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "und du sollst gürten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "mit dem gewebten Band"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "des Efod"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:57.103700160Z",
+  "model": "glm-5.2"
+}

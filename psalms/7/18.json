@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Ich werde JHWH bekennen nach seiner Gerechtigkeit, und ich werde besingen ⟨den⟩ Namen JHWHs, des Höchsten.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ich werde bekennen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "nach seiner Gerechtigkeit"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "und ich werde besingen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨den⟩ Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "des Höchsten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:09.764896672Z",
+  "model": "glm-5.2"
+}

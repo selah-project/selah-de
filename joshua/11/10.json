@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Jehoschua wandte sich um zu jener Zeit und eroberte ⟨את⟩ Hazor, und ⟨את⟩ ihren König schlug er mit dem Schwert; denn Hazor war zuvor das Haupt all dieser Königreiche.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Und ⟨er⟩ wandte sich um"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zu der Zeit"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "jener"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "und ⟨er⟩ eroberte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hazor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihren König"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ihren König"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "schlug er"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mit dem Schwert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hazor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "zuvor"
+    },
+    {
+      "surface": "היא",
+      "gloss": "war ⟨es⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "das Haupt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "dieser Königreiche"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dieser"
+    }
+  ],
+  "timestamp": "2026-08-06T02:30:41.469062678Z",
+  "model": "glm-5.2"
+}

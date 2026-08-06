@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Schaul redete zu Jonatan, seinem Sohn, und zu all seinen Knechten, ⟨um⟩ David zu töten. Jonatan aber, der Sohn Schauls, hatte ⟨את⟩ David sehr gern.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und er redete"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seinem Sohn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seinen Knechten"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "⟨um⟩ zu töten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Jonatan aber"
+    },
+    {
+      "surface": "בן",
+      "gloss": "der Sohn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hatte … gern"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T02:45:18.853819083Z",
+  "model": "glm-5.2"
+}

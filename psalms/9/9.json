@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨er⟩ wird richten ⟨את⟩ die Erdwelt in Gerechtigkeit, ⟨er⟩ wird den Völkern Recht sprechen in Geradheit.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "und ⟨er⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "wird richten"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨את⟩ die Erdwelt",
+      "marks": "die Erdwelt"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "in Gerechtigkeit"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "wird Recht sprechen"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "den Völkern"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "in Geradheit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:39.079816928Z",
+  "model": "glm-5.2"
+}

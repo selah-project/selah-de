@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und er führte ⟨את⟩ den Sohn des Königs hinaus und legte auf ihn ⟨את⟩ die Krone und ⟨את⟩ das Zeugnis, und sie machten ihn zum König und salbten ihn, und sie schlugen ⟨in die⟩ Hand und sagten: „Es lebe der König!“",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Und er führte … hinaus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Sohn des Königs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den Sohn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und legte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Krone"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "die Krone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Zeugnis"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "das Zeugnis"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "und sie machten … zum König"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "und salbten ihn"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "und sie schlugen"
+    },
+    {
+      "surface": "כף",
+      "gloss": "Hand"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "und sagten"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Es lebe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    }
+  ],
+  "timestamp": "2026-08-05T21:37:46.215628756Z",
+  "model": "glm-5.2"
+}

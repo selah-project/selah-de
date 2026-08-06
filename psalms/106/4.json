@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Gedenke meiner, JHWH, im Wohlgefallen ⟨über⟩ dein Volk, suche mich heim in deiner Rettung!",
+  "tokens": [
+    {
+      "surface": "זָכְרֵנִי",
+      "gloss": "Gedenke meiner"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בִּרְצוֹן",
+      "gloss": "im Wohlgefallen"
+    },
+    {
+      "surface": "עַמְּךָ",
+      "gloss": "⟨über⟩ dein Volk"
+    },
+    {
+      "surface": "פָּקְדֵנִי",
+      "gloss": "suche mich heim"
+    },
+    {
+      "surface": "בִּישׁוּעָתֶךָ",
+      "gloss": "in deiner Rettung"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:52.781070871Z",
+  "model": "glm-5.2"
+}

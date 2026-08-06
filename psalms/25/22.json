@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Löse aus, Elohim, ⟨את⟩ Jisra'el aus all seinen Bedrängnissen!",
+  "tokens": [
+    {
+      "surface": "פְּדֵה",
+      "gloss": "Löse aus"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "מִכֹּל",
+      "gloss": "aus all"
+    },
+    {
+      "surface": "צָרוֹתָיו",
+      "gloss": "seinen Bedrängnissen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:22.077068390Z",
+  "model": "glm-5.2"
+}

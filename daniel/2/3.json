@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und der König sprach zu ihnen: „Einen Traum habe ich geträumt, und mein Ruach ward erschüttert, ⟨um⟩ ⟨את⟩ den Traum zu erkennen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Einen Traum"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "habe ich geträumt"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "und ward erschüttert"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mein Ruach"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "⟨um⟩ zu erkennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Traum"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "den Traum"
+    }
+  ],
+  "timestamp": "2026-08-06T04:44:29.728241842Z",
+  "model": "glm-5.2"
+}

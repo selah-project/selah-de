@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Ich stand auf, ich, um zu öffnen für meinen Geliebten, und meine Hände tropften Myrrhe, und meine Finger Myrrhe, die überströmte auf die Griffklinken des Riegels.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "ich stand auf"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "um zu öffnen"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "für meinen Geliebten"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "und meine Hände"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "tropften"
+    },
+    {
+      "surface": "מור",
+      "gloss": "Myrrhe"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "und meine Finger"
+    },
+    {
+      "surface": "מור",
+      "gloss": "Myrrhe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "die überströmte"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "die Griffklinken"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "des Riegels"
+    }
+  ],
+  "timestamp": "2026-08-06T19:53:37.950891326Z",
+  "model": "glm-5.2"
+}

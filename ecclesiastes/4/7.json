@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ich wandte mich wieder, ich, und sah Hebel unter der Sonne.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Und ich wandte mich wieder"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    }
+  ],
+  "timestamp": "2026-08-06T22:48:11.246948463Z",
+  "model": "glm-5.2"
+}

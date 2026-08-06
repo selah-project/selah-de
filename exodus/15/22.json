@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und Mosche ließ Jisraël aufbrechen vom Schilfmeer, und sie zogen hinaus zur Wüste Schur, und sie gingen drei Tage in der Wüste und fanden kein Wasser.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Und ⟨er⟩ ließ aufbrechen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vom Meer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Schilf"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "und sie zogen hinaus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zur"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "Wüste"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Schur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "und sie gingen"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨sie⟩ nicht"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "fanden"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T00:16:48.619550692Z",
+  "model": "glm-5.2"
+}

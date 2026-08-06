@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Da gebot ich ⟨את⟩ Chanani, meinen Bruder, und ⟨את⟩ Chananjah, den Befehlshaber der Burg, über Jeruschalajim; denn er ⟨war⟩ wie ein Mann der Emet und gottesfürchtig ⟨את⟩ ha-Elohim mehr als viele.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Da gebot ich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanani"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Chanani"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "meinen Bruder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Chananjah"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananjah"
+    },
+    {
+      "surface": "שר",
+      "gloss": "den Befehlshaber"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "der Burg"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "wie ein Mann"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "der Emet"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "und gottesfürchtig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "mehr als viele"
+    }
+  ],
+  "timestamp": "2026-08-06T07:17:47.320367965Z",
+  "model": "glm-5.2"
+}

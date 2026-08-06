@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und sie gaben ihnen ⟨את⟩ Chevron im Land Jehudas und ⟨את⟩ seine Weideflächen rings um es her.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Und sie gaben"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weideflächen"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "seine Weideflächen"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "rings um es her"
+    }
+  ],
+  "timestamp": "2026-08-06T04:54:41.635751245Z",
+  "model": "glm-5.2"
+}

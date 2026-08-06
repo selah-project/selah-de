@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und Awzan starb und wurde in Bet-Lechem begraben.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "und er starb"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Awzan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "und wurde begraben"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-05T21:03:15.545515621Z",
+  "model": "glm-5.2"
+}

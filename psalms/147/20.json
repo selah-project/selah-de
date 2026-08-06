@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "Nicht hat er so gehandelt ⟨bei⟩ jedem anderen Volk, und ⟨als für⟩ Rechtsordnungen — sie haben sie nicht gekannt. Lobt Jah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hat er gehandelt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨bei⟩ jedem"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "und ⟨als für⟩ Rechtsordnungen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "haben sie sie gekannt"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-06T15:24:45.615969582Z",
+  "model": "glm-5.2"
+}

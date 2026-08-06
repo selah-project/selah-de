@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Sie sollen beschämt ⟨und⟩ gedemütigt werden, die meine Nefesch suchen, sie sollen zurückweichen ⟨und⟩ zuschanden werden, die mein Unheil ersinnen.",
+  "tokens": [
+    {
+      "surface": "יֵבֹ֣שׁוּ",
+      "gloss": "Sie sollen beschämt"
+    },
+    {
+      "surface": "וְיִכָּלְמוּ֮",
+      "gloss": "⟨und⟩ gedemütigt werden"
+    },
+    {
+      "surface": "מְבַקְשֵׁ֪י",
+      "gloss": "die suchen"
+    },
+    {
+      "surface": "נַ֫פְשִׁ֥י",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "יִסֹּ֣גוּ",
+      "gloss": "sie sollen zurückweichen"
+    },
+    {
+      "surface": "אָח֣וֹר",
+      "gloss": "⟨zurück⟩"
+    },
+    {
+      "surface": "וְיַחְפְּר֑וּ",
+      "gloss": "⟨und⟩ zuschanden werden"
+    },
+    {
+      "surface": "חֹ֝שְׁבֵ֗י",
+      "gloss": "die ersinnen"
+    },
+    {
+      "surface": "רָעָתִֽי",
+      "gloss": "mein Unheil"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:23.471382389Z",
+  "model": "glm-5.2"
+}

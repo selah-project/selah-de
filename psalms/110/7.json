@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 110,
+  "translation": "Aus einem Bach ⟨auf⟩ dem Weg wird ⟨er⟩ trinken; darum wird ⟨er⟩ ⟨das⟩ Haupt erheben.",
+  "tokens": [
+    {
+      "surface": "מִ֭נַּחַל",
+      "gloss": "Aus einem Bach"
+    },
+    {
+      "surface": "בַּדֶּ֣רֶךְ",
+      "gloss": "⟨auf⟩ dem Weg"
+    },
+    {
+      "surface": "יִשְׁתֶּ֑ה",
+      "gloss": "wird ⟨er⟩ trinken"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "darum"
+    },
+    {
+      "surface": "כֵּ֝֗ן",
+      "gloss": "—"
+    },
+    {
+      "surface": "יָרִ֥ים",
+      "gloss": "wird ⟨er⟩ erheben"
+    },
+    {
+      "surface": "רֹֽאשׁ",
+      "gloss": "⟨das⟩ Haupt"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:54.831066668Z",
+  "model": "glm-5.2"
+}

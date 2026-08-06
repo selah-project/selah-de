@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Einen Mund ⟨haben⟩ sie, aber sie reden nicht; Augen ⟨haben⟩ sie, aber sie sehen nicht.",
+  "tokens": [
+    {
+      "surface": "פֶּה",
+      "gloss": "Einen Mund"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "יְדַבֵּרוּ",
+      "gloss": "sie reden"
+    },
+    {
+      "surface": "עֵינַיִם",
+      "gloss": "Augen"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "יִרְאוּ",
+      "gloss": "sie sehen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:11.108854904Z",
+  "model": "glm-5.2"
+}

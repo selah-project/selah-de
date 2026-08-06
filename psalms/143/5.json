@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 143,
+  "translation": "Ich gedachte der Tage von vormals, ich sinnte nach über all dein Wirken, über das Werk deiner Hände sann ich nach.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Ich gedachte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "der Tage"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "von vormals"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "ich sinnte nach"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "über all"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "dein Wirken"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "über das Werk"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "deiner Hände"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "sann ich nach"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:41.568424457Z",
+  "model": "glm-5.2"
+}

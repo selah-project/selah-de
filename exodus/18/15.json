@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Mosche sagte zu seinem Schwiegervater: „Weil das Volk zu mir kommt, um Elohim zu befragen —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "zu seinem Schwiegervater"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Weil"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "um zu befragen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T08:19:02.896050815Z",
+  "model": "glm-5.2"
+}

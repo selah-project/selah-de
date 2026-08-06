@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und dies ⟨ist⟩ die Tora des Ascham: Hochheiliges ist er.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "des Ascham"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Hochheiliges"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "der Heiligkeiten"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist er"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:29.168313325Z",
+  "model": "glm-5.2"
+}

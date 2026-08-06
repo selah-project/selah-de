@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "Nicht für immer wird ⟨er⟩ rechten, und nicht für ewig wird ⟨er⟩ ⟨den Zorn⟩ bewahren.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לָנֶ֥צַח",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "יָרִ֑יב",
+      "gloss": "wird rechten"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "יִטּֽוֹר",
+      "gloss": "wird bewahren"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:29.204078359Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Ein Gebet von Dawid. Höre, JHWH, ⟨die⟩ Gerechtigkeit! Neige ⟨dein⟩ Ohr meinem Rufen! Lausche meinem Gebet — ⟨es kommt⟩ nicht von Lippen der Täuschung.",
+  "tokens": [
+    {
+      "surface": "תְּפִלָּ֗ה",
+      "gloss": "Ein Gebet"
+    },
+    {
+      "surface": "לְדָ֫וִ֥ד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "שִׁמְעָ֤ה",
+      "gloss": "Höre"
+    },
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צֶ֗דֶק",
+      "gloss": "⟨die⟩ Gerechtigkeit"
+    },
+    {
+      "surface": "הַקְשִׁ֥יבָה",
+      "gloss": "Neige ⟨dein⟩ Ohr"
+    },
+    {
+      "surface": "רִנָּתִ֗י",
+      "gloss": "meinem Rufen"
+    },
+    {
+      "surface": "הַאֲזִ֥ינָה",
+      "gloss": "Lausche"
+    },
+    {
+      "surface": "תְפִלָּתִ֑י",
+      "gloss": "meinem Gebet"
+    },
+    {
+      "surface": "בְּ֝לֹ֗א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שִׂפְתֵ֥י",
+      "gloss": "von Lippen"
+    },
+    {
+      "surface": "מִרְמָֽה",
+      "gloss": "der Täuschung"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:40.361792410Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ⟨jeder⟩ Mann — ⟨את⟩ seine heiligen Gaben sollen ihm gehören; was ⟨jeder⟩ Mann dem Kohen gibt, ⟨das⟩ soll ihm gehören.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "und ⟨jeder⟩ Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine heiligen Gaben"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "seine heiligen Gaben"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sollen ⟨sie⟩ sein"
+    },
+    {
+      "surface": "איש",
+      "gloss": "was ⟨jeder⟩ Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "dem Kohen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll ⟨es⟩ sein"
+    }
+  ],
+  "timestamp": "2026-08-06T02:15:04.669549995Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Habe ich dir nicht dreimal niedergeschrieben ⟨in⟩ Ratschlägen und Erkenntnis?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "habe ich nicht"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "niedergeschrieben"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "dreimal"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "⟨in⟩ Ratschlägen"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "und Erkenntnis"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:25.776227712Z",
+  "model": "glm-5.2"
+}

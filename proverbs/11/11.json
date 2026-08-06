@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Durch den Segen der Aufrichtigen wird eine Stadt erhoben, und durch den Mund der Frevler wird sie niedergeissen.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "durch den Segen"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "der Aufrichtigen"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "wird erhoben"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "eine Stadt"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "und durch den Mund"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "wird sie niedergeissen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:21:08.340578468Z",
+  "model": "glm-5.2"
+}

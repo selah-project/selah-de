@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "amos 5:25",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Habt ihr ⟨die⟩ Schlachtopfer und ⟨das⟩ Speisopfer mir nahegebracht in der Wüste, vierzig Jahre, Haus Jisra'el?",
+  "tokens": [
+    {
+      "surface": "הַזְּבָחִ֨ים",
+      "gloss": "die Schlachtopfer"
+    },
+    {
+      "surface": "וּמִנְחָ֜ה",
+      "gloss": "und ⟨das⟩ Speisopfer"
+    },
+    {
+      "surface": "הִגַּשְׁתֶּ֝ם",
+      "gloss": "habt ihr nahegebracht"
+    },
+    {
+      "surface": "לִ֗י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בַּמִּדְבָּר֮",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "אַרְבָּעִ֣ים",
+      "gloss": "vierzig"
+    },
+    {
+      "surface": "שָׁנָ֗ה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-05T22:34:21.827138358Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Steh auf, JHWH, in deinem Zorn, erhebe dich ⟨gegen⟩ die Wut meiner Bedränger, und wache für mich ⟨zum⟩ Rechtspruch, den du geboten hast.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "in deinem Zorn"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "erhebe dich"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "⟨gegen⟩ die Wut"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "meiner Bedränger"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "und wache"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "für mich"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨zum⟩ Rechtspruch"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "du geboten hast"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:47.790688678Z",
+  "model": "glm-5.2"
+}

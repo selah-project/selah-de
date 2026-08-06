@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und die Erde wurde unrein gemacht, und ich suchte ⟨die⟩ Schuld von ihr heim, die ⟨auf⟩ ihr ⟨lag⟩, und die Erde spie ⟨את⟩ ihre Bewohner aus.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "und sie wurde unrein gemacht"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "und ich suchte heim"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ihre Schuld"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "auf ihr"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "und sie spie aus"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Bewohner"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ihre Bewohner"
+    }
+  ],
+  "timestamp": "2026-08-06T02:12:19.822799570Z",
+  "model": "glm-5.2"
+}

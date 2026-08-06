@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und es geschah, beim Kommen Dawids und seiner Männer nach Ziklag am dritten Tag — die Amalekiter hatten einen Raubzug unternommen gegen den Negeb und gegen Ziklag, und sie schlugen ⟨את⟩ Ziklag und verbrannten es im Feuer.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "beim Kommen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "und seiner Männer"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "nach Ziklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "dritten Tag"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "die Amalekiter"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "hatten einen Raubzug unternommen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "den Negeb"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und gegen"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ziklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "und sie schlugen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ziklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ziklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "und verbrannten"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "es"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    }
+  ],
+  "timestamp": "2026-08-05T21:16:41.765465541Z",
+  "model": "glm-5.2"
+}

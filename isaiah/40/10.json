@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Siehe, Adonai JHWH kommt mit Kraft, und sein Arm herrscht für ihn. Siehe, sein Lohn ⟨ist⟩ bei ihm und sein Werk ⟨geht⟩ vor ihm her: ⟨wie ⟨את⟩ seinen Lohn, so ⟨את⟩ sein Werk⟩.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֨ה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "אֲדֹנָ֤י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בְּחָזָ֣ק",
+      "gloss": "mit Kraft"
+    },
+    {
+      "surface": "יָבֹ֔א",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "וּזְרֹע֖וֹ",
+      "gloss": "und sein Arm"
+    },
+    {
+      "surface": "מֹ֣שְׁלָ֔ה",
+      "gloss": "herrscht"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "für ihn"
+    },
+    {
+      "surface": "הִנֵּ֤ה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "שְׂכָרוֹ֙",
+      "gloss": "sein Lohn"
+    },
+    {
+      "surface": "אִתּ֔וֹ",
+      "gloss": "bei ihm"
+    },
+    {
+      "surface": "וּפְעֻלָּת֖וֹ",
+      "gloss": "und sein Werk"
+    },
+    {
+      "surface": "לְפָנָֽיו",
+      "gloss": "vor ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T21:52:08.668007550Z",
+  "model": "glm-5.2"
+}

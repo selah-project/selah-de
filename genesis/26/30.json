@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und er machte ihnen ein Mahl, und sie aßen und tranken.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und er machte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ein Mahl"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "und sie aßen"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "und tranken"
+    }
+  ],
+  "timestamp": "2026-08-05T17:34:27.406042608Z",
+  "model": "glm-5.2"
+}

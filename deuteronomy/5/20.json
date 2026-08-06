@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und du sollst nicht antworten ⟨gegen⟩ deinen Nächsten ⟨als⟩ Zeuge der Nichtigkeit.",
+  "tokens": [
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תַעֲנֶ֥ה",
+      "gloss": "sollst du antworten"
+    },
+    {
+      "surface": "בְרֵֽעֲךָ֖",
+      "gloss": "⟨gegen⟩ deinen Nächsten"
+    },
+    {
+      "surface": "עֵ֥ד",
+      "gloss": "⟨als⟩ Zeuge"
+    },
+    {
+      "surface": "שָֽׁוְא",
+      "gloss": "der Nichtigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:34.815215697Z",
+  "model": "glm-5.2"
+}

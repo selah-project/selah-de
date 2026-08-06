@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und Mizrajim wird erkennen, dass ich JHWH ⟨bin⟩, wenn ich ⟨את⟩ meine Hand über Mizrajim ausstrecke und ⟨את⟩ die Söhne Jisraels aus ihrer Mitte herausführe.",
+  "tokens": [
+    {
+      "surface": "וְיָדְע֤וּ",
+      "gloss": "und werden erkennen"
+    },
+    {
+      "surface": "מִצְרַ֨יִם֙",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בִּנְטֹתִ֥י",
+      "gloss": "wenn ich ausstrecke"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Hand"
+    },
+    {
+      "surface": "יָדִ֖י",
+      "gloss": "meine Hand"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "וְהוֹצֵאתִ֥י",
+      "gloss": "und werde herausführen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בְּנֵֽי",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מִתּוֹכָֽם",
+      "gloss": "aus ihrer Mitte"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:50.665101521Z",
+  "model": "glm-5.2"
+}

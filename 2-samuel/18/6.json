@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und das Volk zog aufs Feld hinaus, Israel zu begegnen, und die Schlacht war im Wald Efrajims.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Und … zog hinaus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "aufs Feld"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "zu begegnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "und … war"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "die Schlacht"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "im Wald"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajims"
+    }
+  ],
+  "timestamp": "2026-08-06T01:18:09.942971093Z",
+  "model": "glm-5.2"
+}

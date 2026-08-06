@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Schmuël rief ⟨את⟩ das Volk zu JHWH ⟨nach⟩ Mizpa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "und rief"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mizpa"
+    }
+  ],
+  "timestamp": "2026-08-05T21:08:46.761371194Z",
+  "model": "glm-5.2"
+}

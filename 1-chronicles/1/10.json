@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Kusch zeugte ⟨את⟩ Nimrod. Er begann, ein Gewaltiger zu sein auf der Erde.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Und Kusch"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Er"
+    },
+    {
+      "surface": "החל",
+      "gloss": "begann"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "zu sein"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ein Gewaltiger"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T23:45:40.005327339Z",
+  "model": "glm-5.2"
+}

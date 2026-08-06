@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Jehojada wurde alt und war satt an Tagen, und er starb — ein Sohn von hundertunddreißig Jahren in seinem Sterben.",
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "und er wurde alt"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "und war satt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "an Tagen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und er starb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ein Sohn von"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "unddreißig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "in seinem Sterben"
+    }
+  ],
+  "timestamp": "2026-08-06T07:29:02.065880092Z",
+  "model": "glm-5.2"
+}

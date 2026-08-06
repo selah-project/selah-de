@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ⟨dem⟩ Ewer wurden zwei Söhne geboren. Der Name des einen ⟨war⟩ Peleg, denn in seinen Tagen wurde die Erde gespalten, und der Name seines Bruders ⟨war⟩ Joktan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "und ⟨dem⟩ Ewer"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wurden geboren"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der Name"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "des einen"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "in seinen Tagen"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "wurde gespalten"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "und der Name"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seines Bruders"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Joktan"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:59.241400576Z",
+  "model": "glm-5.2"
+}

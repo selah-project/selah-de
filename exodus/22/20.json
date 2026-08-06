@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und ⟨einen⟩ Fremdling sollst du nicht bedrängen und ⟨ihn⟩ nicht unterdrücken; denn Fremdlinge wart ihr im Land Mizrajim.",
+  "tokens": [
+    {
+      "surface": "וְגֵר",
+      "gloss": "Und ⟨einen⟩ Fremdling"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תוֹנֶה",
+      "gloss": "sollst du … bedrängen"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תִלְחָצֶנּוּ",
+      "gloss": "⟨ihn⟩ unterdrücken"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גֵרִים",
+      "gloss": "Fremdlinge"
+    },
+    {
+      "surface": "הֱיִיתֶם",
+      "gloss": "wart ihr"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "מִצְרָיִם",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:35.067672810Z",
+  "model": "glm-5.2"
+}

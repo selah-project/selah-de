@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 144,
+  "translation": "Befreie mich und rette mich aus der Hand von Söhnen der Fremde, deren Mund Trug geredet hat, und ⟨deren⟩ Rechte eine Rechte der Lüge ist.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Befreie mich"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "und rette mich"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "בני",
+      "gloss": "von Söhnen"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "der Fremde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deren"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "Mund"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geredet hat"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Trug"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "und ⟨deren⟩ Rechte"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "eine Rechte"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "der Lüge"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:56.805024921Z",
+  "model": "glm-5.2"
+}

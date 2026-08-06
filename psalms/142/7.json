@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 142,
+  "translation": "Lenke ⟨dein Ohr⟩ auf mein Rufen, denn ich bin sehr gebeugt — reiß mich heraus von meinen Verfolgern, denn sie sind stärker als ich.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Lenke ⟨dein Ohr⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mein Rufen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ich bin gebeugt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "reiß mich heraus"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "von meinen Verfolgern"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "sie sind stärker"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "als ich"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:57.068677469Z",
+  "model": "glm-5.2"
+}

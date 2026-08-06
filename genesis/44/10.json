@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Und ⟨er⟩ sagte: „Auch jetzt, nach euren Worten, so sei es: Bei wem er ⟨es⟩ gefunden wird, ⟨der⟩ soll mir ein Knecht sein, und ihr werdet schuldlos sein.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "עַתָּה",
+      "gloss": "jetzt"
+    },
+    {
+      "surface": "כִּדְבְרֵיכֶם",
+      "gloss": "nach euren Worten"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "so"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "sei es"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "bei wem"
+    },
+    {
+      "surface": "יִמָּצֵא",
+      "gloss": "er gefunden wird"
+    },
+    {
+      "surface": "אִתּוֹ",
+      "gloss": "bei ihm"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "⟨der⟩ soll sein"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "עֶבֶד",
+      "gloss": "ein Knecht"
+    },
+    {
+      "surface": "וְאַתֶּם",
+      "gloss": "und ihr"
+    },
+    {
+      "surface": "תִּהְיוּ",
+      "gloss": "werdet"
+    },
+    {
+      "surface": "נְקִיִּם",
+      "gloss": "schuldlos"
+    }
+  ],
+  "timestamp": "2026-08-06T05:12:11.643893162Z",
+  "model": "glm-5.2"
+}

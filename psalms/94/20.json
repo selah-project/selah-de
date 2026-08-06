@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "Sollte ⟨der⟩ Thron der Vernichtung ⟨mit⟩ dir Gemeinschaft haben, der Mühsal bildet ⟨gegen⟩ eine Ordnung?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "Sollte … Gemeinschaft haben"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "Thron"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "der Vernichtung"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "der … bildet"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "Mühsal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "חק",
+      "gloss": "eine Ordnung"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:24.714494975Z",
+  "model": "glm-5.2"
+}

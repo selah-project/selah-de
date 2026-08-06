@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "Er wirft sein Eis wie Bissen hin — vor ⟨seinem⟩ Frost: Wer kann bestehen?",
+  "tokens": [
+    {
+      "surface": "מַשְׁלִ֣יךְ",
+      "gloss": "wirft hin"
+    },
+    {
+      "surface": "קַֽרְח֣וֹ",
+      "gloss": "sein Eis"
+    },
+    {
+      "surface": "כְפִתִּ֑ים",
+      "gloss": "wie Bissen"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "קָ֝רָת֗וֹ",
+      "gloss": "⟨seinem⟩ Frost"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "יַעֲמֹֽד",
+      "gloss": "kann bestehen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:53:24.944413433Z",
+  "model": "glm-5.2"
+}

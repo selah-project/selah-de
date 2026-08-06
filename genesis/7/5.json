@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und Noach machte nach allem, was JHWH ihm geboten hatte.",
+  "tokens": [
+    {
+      "surface": "וַיַ֖עַשׂ",
+      "gloss": "Und machte"
+    },
+    {
+      "surface": "נֹ֑חַ",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "כְּכֹ֥ל",
+      "gloss": "nach allem"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "was"
+    },
+    {
+      "surface": "צִוָּ֖הוּ",
+      "gloss": "ihm geboten hatte"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:58.195575513Z",
+  "model": "glm-5.2"
+}

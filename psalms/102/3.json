@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Verbirg dein Angesicht nicht vor mir am Tag meiner Bedrängnis; neige zu mir dein Ohr; am Tag, da ich rufe, eile, mir zu antworten.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תַּסְתֵּר",
+      "gloss": "verbirg"
+    },
+    {
+      "surface": "פָּנֶיךָ",
+      "gloss": "dein Angesicht"
+    },
+    {
+      "surface": "מִמֶּנִּי",
+      "gloss": "vor mir"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "צַר",
+      "gloss": "meiner Bedrängnis"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "⟨meiner⟩"
+    },
+    {
+      "surface": "הַטֵּה",
+      "gloss": "neige"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "אָזְנְךָ",
+      "gloss": "dein Ohr"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "אֶקְרָא",
+      "gloss": "da ich rufe"
+    },
+    {
+      "surface": "מַהֵר",
+      "gloss": "eile"
+    },
+    {
+      "surface": "עֲנֵנִי",
+      "gloss": "mir zu antworten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:58.884201829Z",
+  "model": "glm-5.2"
+}

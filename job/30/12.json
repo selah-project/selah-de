@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Zur Rechten ⟨hat⟩ eine Brut ⟨sich⟩ erhoben — meine Beine haben sie weggestoßen, und gegen mich haben sie Wege ihres Unheils aufgeworfen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "zur"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "Rechten"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "eine Brut"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "⟨hat⟩ ⟨sich⟩ erhoben"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "meine Beine"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "haben sie weggestoßen"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "und ⟨sie haben⟩ aufgeworfen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gegen mich"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "Wege"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "ihres Unheils"
+    }
+  ],
+  "timestamp": "2026-08-05T23:22:16.921234250Z",
+  "model": "glm-5.2"
+}

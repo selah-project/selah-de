@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Wenn du dich hinlegst, wirst du dich nicht fürchten, und hast du gelegen, so wird dein Schlaf süß sein.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תִּשְׁכַּ֥ב",
+      "gloss": "du dich hinlegst"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִפְחָ֑ד",
+      "gloss": "wirst du dich fürchten"
+    },
+    {
+      "surface": "וְ֝שָׁכַבְתָּ֗",
+      "gloss": "und hast du gelegen"
+    },
+    {
+      "surface": "וְֽעָרְבָ֥ה",
+      "gloss": "so wird süß sein"
+    },
+    {
+      "surface": "שְׁנָתֶֽיךָ",
+      "gloss": "dein Schlaf"
+    }
+  ],
+  "timestamp": "2026-08-05T23:08:27.655966251Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Mein Mund wird Weisheiten reden, und das Sinnen meines Herzens Einsichten.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Mein Mund"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "wird reden"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "Weisheiten"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "und das Sinnen"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "meines Herzens"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "Einsichten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:36.398769330Z",
+  "model": "glm-5.2"
+}

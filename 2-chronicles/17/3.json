@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und JHWH war mit Jehoschafat, denn er ging in den Wegen Dawids, seines Vaters, der ersten, und er suchte nicht ⟨bei⟩ den Baalim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ war"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoschafat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "er ging"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "in den Wegen"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "der ersten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "suchte"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "⟨bei⟩ den Baalim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:56:33.402121445Z",
+  "model": "glm-5.2"
+}

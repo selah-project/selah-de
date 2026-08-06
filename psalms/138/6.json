@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 138,
+  "translation": "Denn hoch ist JHWH, ⟨aber⟩ den Niedrigen sieht ⟨er⟩, und den Hochmütigen ⟨erkennt er⟩ von ferne.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "רָ֣ם",
+      "gloss": "hoch"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "ist JHWH"
+    },
+    {
+      "surface": "וְשָׁפָ֣ל",
+      "gloss": "und den Niedrigen"
+    },
+    {
+      "surface": "יִרְאֶ֑ה",
+      "gloss": "sieht ⟨er⟩"
+    },
+    {
+      "surface": "וְ֝גָבֹ֗הַּ",
+      "gloss": "und den Hochmütigen"
+    },
+    {
+      "surface": "מִמֶּרְחָ֥ק",
+      "gloss": "von ferne"
+    },
+    {
+      "surface": "יְיֵדָֽע",
+      "gloss": "⟨erkennt er⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:21.944843885Z",
+  "model": "glm-5.2"
+}

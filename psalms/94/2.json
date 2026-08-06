@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "Erhebe dich, Richter der Erde! Vergilt ⟨die⟩ Tat ⟨an⟩ den Hochmütigen!",
+  "tokens": [
+    {
+      "surface": "הִ֭נָּשֵׂא",
+      "gloss": "Erhebe dich"
+    },
+    {
+      "surface": "שֹׁפֵ֣ט",
+      "gloss": "Richter"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "הָשֵׁ֥ב",
+      "gloss": "Vergilt"
+    },
+    {
+      "surface": "גְּ֝מ֗וּל",
+      "gloss": "⟨die⟩ Tat"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨an⟩"
+    },
+    {
+      "surface": "גֵּאִֽים",
+      "gloss": "den Hochmütigen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:10.777773715Z",
+  "model": "glm-5.2"
+}

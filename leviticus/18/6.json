@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Ein Mann, ein Mann — zu jedem Nahen seines Fleisches: ihr sollt nicht herantreten, um Blöße zu entblößen. Ich bin JHWH.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ein Mann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jedem"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "Nahen"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "seines Fleisches"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "sollt ihr herantreten"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "um zu entblößen"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "Blöße"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bin JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T02:12:44.864726404Z",
+  "model": "glm-5.2"
+}

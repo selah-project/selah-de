@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Macht ⟨את⟩ eure Nefesch nicht verabscheuungswürdig durch irgendein Gewimmel, das wimmelt, und macht euch nicht unrein durch sie, damit ihr nicht unrein werdet durch sie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "macht verabscheuungswürdig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eure Nefesch"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "eure Nefesch"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "durch irgendein"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "Gewimmel"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "das wimmelt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "macht unrein"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "durch sie"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "damit ihr nicht unrein werdet"
+    },
+    {
+      "surface": "בם",
+      "gloss": "durch sie"
+    }
+  ],
+  "timestamp": "2026-08-06T14:53:05.158539203Z",
+  "model": "glm-5.2"
+}

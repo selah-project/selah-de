@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 129,
+  "translation": "Viel bedrängten sie mich von meiner Jugend an — auch ⟨konnten⟩ sie mir nicht ⟨daran⟩ ⟨messen⟩.",
+  "tokens": [
+    {
+      "surface": "רַ֭בַּת",
+      "gloss": "Viel"
+    },
+    {
+      "surface": "צְרָר֣וּנִי",
+      "gloss": "bedrängten sie mich"
+    },
+    {
+      "surface": "מִנְּעוּרָ֑י",
+      "gloss": "von meiner Jugend an"
+    },
+    {
+      "surface": "גַּ֝ם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "⟨konnten⟩"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:36.756367819Z",
+  "model": "glm-5.2"
+}

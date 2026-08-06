@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 4:12",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ein Mann von Binjamin rannte aus der Schlachtreihe ⟨und⟩ kam an jenem Tag nach Schilo, und seine Kleider waren zerrissen und Erde auf seinem Kopf.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "Und ⟨er⟩ rannte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "von Binjamin"
+    },
+    {
+      "surface": "מהמערכה",
+      "gloss": "aus der Schlachtreihe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und ⟨er⟩ kam"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "nach Schilo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "und seine Kleider"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "waren zerrissen"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "und Erde"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "seinem Kopf"
+    }
+  ],
+  "timestamp": "2026-08-06T01:03:35.237776252Z",
+  "model": "glm-5.2"
+}

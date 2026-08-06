@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und es geschah: der Darbringende am ersten Tag war — ⟨את⟩ seine Korban — Nachschon, Sohn des Aminadaw, vom Stamm Jehuda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "der Darbringende"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "dem ersten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Korban"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "seine Korban"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachschon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "des Aminadaw"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "vom Stamm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-08-05T20:31:26.161193618Z",
+  "model": "glm-5.2"
+}

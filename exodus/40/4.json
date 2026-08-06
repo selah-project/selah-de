@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und du sollst ⟨hinein⟩bringen ⟨את⟩ den Tisch und ⟨du sollst⟩ seine Ordnung anordnen; und du sollst ⟨hinein⟩bringen ⟨את⟩ den Leuchter und ⟨du sollst⟩ seine Lampen aufstellen.",
+  "tokens": [
+    {
+      "surface": "וְהֵבֵאתָ֙",
+      "gloss": "und du sollst ⟨hinein⟩bringen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Tisch"
+    },
+    {
+      "surface": "הַשֻּׁלְחָ֔ן",
+      "gloss": "Tisch"
+    },
+    {
+      "surface": "וְעָרַכְתָּ֖",
+      "gloss": "und ⟨du sollst⟩ anordnen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Ordnung"
+    },
+    {
+      "surface": "עֶרְכּ֑וֹ",
+      "gloss": "seine Ordnung"
+    },
+    {
+      "surface": "וְהֵבֵאתָ֙",
+      "gloss": "und du sollst ⟨hinein⟩bringen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Leuchter"
+    },
+    {
+      "surface": "הַמְּנֹרָ֔ה",
+      "gloss": "Leuchter"
+    },
+    {
+      "surface": "וְהַעֲלֵיתָ֖",
+      "gloss": "und ⟨du sollst⟩ aufstellen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Lampen"
+    },
+    {
+      "surface": "נֵרֹתֶֽיהָ",
+      "gloss": "seine Lampen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:22:51.316956951Z",
+  "model": "glm-5.2"
+}

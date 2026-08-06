@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Nicht soll ⟨es⟩ dir geben in deinem Beutel Stein und Stein, große und kleine.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "dir"
+    },
+    {
+      "surface": "בְּכִֽיסְךָ֖",
+      "gloss": "in deinem Beutel"
+    },
+    {
+      "surface": "אֶ֣בֶן",
+      "gloss": "Stein"
+    },
+    {
+      "surface": "וָאָ֑בֶן",
+      "gloss": "und Stein"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "große"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "und kleine"
+    }
+  ],
+  "timestamp": "2026-08-06T08:29:55.083136599Z",
+  "model": "glm-5.2"
+}

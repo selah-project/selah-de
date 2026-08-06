@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 15:5",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und es geschah: Wenn ein Mann herantrat, um sich vor ihm niederzuwerfen, streckte er ⟨את⟩ seine Hand aus, hielt ihn fest und küsste ihn.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "wenn herantrat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "um sich niederzuwerfen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "streckte er … aus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "hielt … fest"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "und küsste"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-05T21:20:26.250303726Z",
+  "model": "glm-5.2"
+}

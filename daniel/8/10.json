@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und es wurde groß bis zum Heer des Himmels, und es warf zur Erde vom Heer und von den Sternen und zertrat sie.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "und es wurde groß"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "dem Heer"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "und es warf"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "dem Heer"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "und von"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "den Sternen"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "und zertrat sie"
+    }
+  ],
+  "timestamp": "2026-08-05T23:36:49.861377824Z",
+  "model": "glm-5.2"
+}

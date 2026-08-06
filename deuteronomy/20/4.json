@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Denn JHWH, euer Elohim, ist ⟨der⟩ ⟨jen⟩e, der mit euch zieht, um für euch zu kämpfen gegen eure Feinde — um euch zu retten ⟨את⟩ euch.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ist ⟨der⟩ ⟨jen⟩e, der zieht"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mit euch"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "um zu kämpfen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "eure Feinde"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "um zu retten"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:56.897070529Z",
+  "model": "glm-5.2"
+}

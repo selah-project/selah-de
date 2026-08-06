@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 120,
+  "translation": "JHWH, rette ⟨die⟩ Nefesch ⟨meiner⟩ vor der Lüge der Lippen, vor der trügerischen Zunge!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "rette"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "die Nefesch meiner"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "vor der Lücke der Lippen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "Lüge"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "vor der Zunge"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "trügerische"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:07.470884988Z",
+  "model": "glm-5.2"
+}

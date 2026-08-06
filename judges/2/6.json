@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Jehoschua entließ ⟨את⟩ das Volk, und die Söhne Jisraels gingen, jeder zu seinem Erbteil, um ⟨את⟩ das Land in Besitz zu nehmen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und Jehoschua entließ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "und sie gingen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "zu seinem Erbteil"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "um in Besitz zu nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    }
+  ],
+  "timestamp": "2026-08-05T21:00:21.136807078Z",
+  "model": "glm-5.2"
+}

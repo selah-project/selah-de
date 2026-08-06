@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Vor dem Glanz vor ihm zogen seine Wolken dahin — Hagel und Feuersglut.",
+  "tokens": [
+    {
+      "surface": "מִנֹּ֗גַהּ",
+      "gloss": "vor dem Glanz"
+    },
+    {
+      "surface": "נֶ֫גְדּ֥וֹ",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "עָבָ֥יו",
+      "gloss": "seine Wolken"
+    },
+    {
+      "surface": "עָבְר֑וּ",
+      "gloss": "zogen dahin"
+    },
+    {
+      "surface": "בָּ֝רָ֗ד",
+      "gloss": "Hagel"
+    },
+    {
+      "surface": "וְגַֽחֲלֵי",
+      "gloss": "und Feuersglut"
+    },
+    {
+      "surface": "אֵֽשׁ",
+      "gloss": "Feuer"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:37.608277447Z",
+  "model": "glm-5.2"
+}

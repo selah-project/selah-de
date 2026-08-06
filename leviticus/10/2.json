@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Feuer ging aus von vor JHWH und fraß sie, und sie starben vor JHWH.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "und es ging aus"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "von vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "und es fraß"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "und sie starben"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:21:46.664692605Z",
+  "model": "glm-5.2"
+}

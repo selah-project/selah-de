@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "In deinem Namen jauchzen sie den ganzen Tag, und durch deine Zedaka werden sie erhöht.",
+  "tokens": [
+    {
+      "surface": "בְּ֭שִׁמְךָ",
+      "gloss": "In deinem Namen"
+    },
+    {
+      "surface": "יְגִיל֣וּן",
+      "gloss": "jauchzen sie"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "הַיּ֑וֹם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "וּבְצִדְקָתְךָ֥",
+      "gloss": "und durch deine Zedaka"
+    },
+    {
+      "surface": "יָרֽוּמוּ",
+      "gloss": "werden sie erhöht"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:05.930068979Z",
+  "model": "glm-5.2"
+}

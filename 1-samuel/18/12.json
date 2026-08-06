@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Schaul fürchtete sich vor dem Angesicht Dawids, denn JHWH war mit ihm, und von Schaul war er gewichen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "und (Schaul) fürchtete sich"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "vor dem Angesicht"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "היה",
+      "gloss": "war"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "und von"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "סר",
+      "gloss": "war er gewichen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:38:34.912603245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und sie setzten über ihn Zwangsarbeit-Vorsteher, um ihn mit ihren Frondiensten zu bedrücken. Und er baute Vorratsstädte für Paro, ⟨את⟩ Pitom und ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Und sie setzten"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "über ihn"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Vorsteher"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "Zwangsarbeit"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "ihn zu bedrücken"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "mit ihren Frondiensten"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "Und er baute"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "Vorrats"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "für Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-08-05T20:04:23.098845752Z",
+  "model": "glm-5.2"
+}

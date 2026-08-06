@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Nahe meiner Nefesch, und löse sie; um meiner Feinde willen befreie mich.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "nahe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨an⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meiner Nefesch"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "und löse"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um — willen"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "meiner Feinde"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "befreie mich"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:03.770489257Z",
+  "model": "glm-5.2"
+}

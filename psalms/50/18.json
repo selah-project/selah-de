@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Wenn du einen Dieb sahst, ⟨da⟩ ranntest du mit ⟨ihm⟩, und mit Ehebrechern ⟨ist⟩ dein Anteil.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "du sahst"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "einen Dieb"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ranntest"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ⟨ihm⟩"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "und mit"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "Ehebrechern"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "dein Anteil"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:03.041681733Z",
+  "model": "glm-5.2"
+}

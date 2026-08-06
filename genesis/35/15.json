@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und Jaakow rief ⟨את⟩ den Namen des Ortes, an dem Elohim mit ihm geredet hatte, dort: Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und rief"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Namen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "den Namen"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "des Ortes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "an dem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geredet hatte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-08-05T17:38:16.279825174Z",
+  "model": "glm-5.2"
+}

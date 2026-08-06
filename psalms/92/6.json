@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 92,
+  "translation": "Wie groß sind deine Werke, JHWH! Sehr tief sind deine Gedanken.",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "גָּדְל֣וּ",
+      "gloss": "groß sind"
+    },
+    {
+      "surface": "מַעֲשֶׂ֣יךָ",
+      "gloss": "deine Werke"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מְ֝אֹ֗ד",
+      "gloss": "Sehr"
+    },
+    {
+      "surface": "עָמְק֥וּ",
+      "gloss": "tief sind"
+    },
+    {
+      "surface": "מַחְשְׁבֹתֶֽיךָ",
+      "gloss": "deine Gedanken"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:41.288073670Z",
+  "model": "glm-5.2"
+}

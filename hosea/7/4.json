@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 7:4",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Alle ⟨sind⟩ Ehebrecher, wie ein brennender Backofen ⟨vom⟩ Bäcker; ⟨er⟩ ruht vom Entfachen, vom Kneten des Teiges bis zu seinem Gesäuertwerden.",
+  "tokens": [
+    {
+      "surface": "כֻּלָּם֙",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "מְנָאֲפִ֔ים",
+      "gloss": "⟨sind⟩ Ehebrecher"
+    },
+    {
+      "surface": "כְמ֣וֹ",
+      "gloss": "wie"
+    },
+    {
+      "surface": "תַנּ֔וּר",
+      "gloss": "ein Backofen"
+    },
+    {
+      "surface": "בֹּעֵ֖רָה",
+      "gloss": "brennender"
+    },
+    {
+      "surface": "מֵאֹפֶ֑ה",
+      "gloss": "⟨vom⟩ Bäcker"
+    },
+    {
+      "surface": "יִשְׁבּ֣וֹת",
+      "gloss": "⟨er⟩ ruht"
+    },
+    {
+      "surface": "מֵעִ֔יר",
+      "gloss": "vom Entfachen"
+    },
+    {
+      "surface": "מִלּ֥וּשׁ",
+      "gloss": "vom Kneten"
+    },
+    {
+      "surface": "בָּצֵ֖ק",
+      "gloss": "des Teiges"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "חֻמְצָתֽוֹ",
+      "gloss": "zu seinem Gesäuertwerden"
+    }
+  ],
+  "timestamp": "2026-08-06T03:57:38.851017728Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Wer Schlachtopfer ⟨als⟩ Toda darbringt, der verherrlicht mich, und wer den Weg ⟨recht⟩ richtet — ihm werde ich ⟨das⟩ Jescha Elohims zeigen.",
+  "tokens": [
+    {
+      "surface": "זֹבֵ֥חַ",
+      "gloss": "Wer schlachtet"
+    },
+    {
+      "surface": "תּוֹדָ֗ה",
+      "gloss": "Toda"
+    },
+    {
+      "surface": "יְֽכַ֫בְּדָ֥נְנִי",
+      "gloss": "verherrlicht mich"
+    },
+    {
+      "surface": "וְשָׂ֥ם",
+      "gloss": "und ⟨wer⟩ richtet"
+    },
+    {
+      "surface": "דֶּ֑רֶךְ",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "אַ֝רְאֶ֗נּוּ",
+      "gloss": "werde ich ihm zeigen"
+    },
+    {
+      "surface": "בְּיֵ֣שַׁע",
+      "gloss": "das Jescha"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:47.964528835Z",
+  "model": "glm-5.2"
+}

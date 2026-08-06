@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und Wasser bedeckte ⟨ihre⟩ Bedränger, nicht einer von ihnen blieb übrig.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "Und ⟨Wasser⟩ bedeckte"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "⟨ihre⟩ Bedränger"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "von ihnen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "blieb übrig"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:50.842670474Z",
+  "model": "glm-5.2"
+}

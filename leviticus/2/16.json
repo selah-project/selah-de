@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und der Kohen soll ⟨את⟩ ihr Erinnerungsopfer in Rauch aufgehen lassen: von ihrem geriebenen Korn und von ihrem Öl, auf all ihren Weihrauch — ein Feueropfer dem JHWH.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Und der Kohen soll … in Rauch aufgehen lassen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Erinnerungsopfer"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "ihr Erinnerungsopfer"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "von ihrem geriebenen Korn"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "und von ihrem Öl"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "ihren Weihrauch"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ein Feueropfer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dem JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:19:34.929615229Z",
+  "model": "glm-5.2"
+}

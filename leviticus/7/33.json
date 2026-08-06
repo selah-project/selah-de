@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Wer von den Söhnen Aharons ⟨את⟩ das Blut der Schelamim und ⟨את⟩ das Fett heranbringt, dem soll der rechte Schenkel als sein Anteil gehören.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "der Heranbringende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Blut"
+    },
+    {
+      "surface": "דם",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "der Schelamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Fett"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "das Fett"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "von den Söhnen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "⟨der⟩ Schenkel"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "⟨die⟩ Rechte"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "als Anteil"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:55.844188154Z",
+  "model": "glm-5.2"
+}

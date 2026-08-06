@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und Sikri, ein Krieger von Efrajim, erschlug ⟨את⟩ Maasejahu, den Sohn des Königs, und ⟨את⟩ Asrikam, den Vorsteher des Hauses, und ⟨את⟩ Elkana, den Zweiten nach dem König.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "und er erschlug"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Sikri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ein Krieger"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "von Efrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maasejahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maasejahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den Sohn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Asrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Asrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "den Vorsteher"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Elkana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "den Zweiten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nach dem König"
+    }
+  ],
+  "timestamp": "2026-08-06T07:29:42.491491965Z",
+  "model": "glm-5.2"
+}

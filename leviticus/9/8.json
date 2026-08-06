@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Da trat Aharon an den Altar und schlachtete ⟨את⟩ das Kalb des Sündopfers, das ihm ⟨gehörte⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Da trat ⟨er⟩ heran"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "und schlachtete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Kalb des Sündopfers"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "das Kalb"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "des Sündopfers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm ⟨gehörte⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T14:53:35.883549874Z",
+  "model": "glm-5.2"
+}

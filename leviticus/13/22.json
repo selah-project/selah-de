@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und wenn sie sich in der Haut ausbreitet, dann erklärt der Kohen ⟨ihn⟩ für unrein — ein Nega ist es.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "sie sich ausbreitet"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "sie sich ausbreitet"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "in der Haut"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dann erklärt er für unrein"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ein Nega"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist es"
+    }
+  ],
+  "timestamp": "2026-08-06T09:48:25.289098119Z",
+  "model": "glm-5.2"
+}

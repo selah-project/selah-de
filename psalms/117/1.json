@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 117,
+  "translation": "Lobt ⟨את⟩ JHWH, all ihr Nationen, rühmt ihn, all ihr Völker!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ihr Nationen"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "rühmt ihn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "ihr Völker"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:09.110300055Z",
+  "model": "glm-5.2"
+}

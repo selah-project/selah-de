@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Seine Linke unter meinem Haupt, und seine Rechte umarme mich.",
+  "tokens": [
+    {
+      "surface": "שְׂמֹאלוֹ֙",
+      "gloss": "Seine Linke"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "רֹאשִׁ֔י",
+      "gloss": "meinem Haupt"
+    },
+    {
+      "surface": "וִֽימִינ֖וֹ",
+      "gloss": "und seine Rechte"
+    },
+    {
+      "surface": "תְּחַבְּקֵֽנִי",
+      "gloss": "umarme mich"
+    }
+  ],
+  "timestamp": "2026-08-06T07:07:24.385525208Z",
+  "model": "glm-5.2"
+}

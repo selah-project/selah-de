@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "⟨Seine⟩ Stärke — zu dir will ich aufsehen, denn Elohim ⟨ist⟩ meine Höhe.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "⟨Seine⟩ Stärke"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "will ich aufsehen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "meine Höhe"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:05.320770526Z",
+  "model": "glm-5.2"
+}

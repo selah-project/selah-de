@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 53,
+  "translation": "Und er gab ⟨את⟩ die Frevler ⟨als⟩ sein Grab und ⟨את⟩ den Reichen in seinen Todestagen — obwohl kein Unrecht er getan hatte und kein Trug in seinem Mund war.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "und er gab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Frevler"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Frevler"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "sein Grab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Reichen"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "den Reichen"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "in seinen Todestagen"
+    },
+    {
+      "surface": "על",
+      "gloss": "obwohl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Unrecht"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er getan hatte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und kein"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Trug"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "in seinem Mund"
+    }
+  ],
+  "timestamp": "2026-08-06T06:02:39.719246124Z",
+  "model": "glm-5.2"
+}

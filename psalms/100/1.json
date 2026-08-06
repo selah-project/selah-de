@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 100,
+  "translation": "Ein Mizmor für die Toda. Jauchzt JHWH ⟨zu⟩, ganze Erde!",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לְתוֹדָה",
+      "gloss": "für die Toda"
+    },
+    {
+      "surface": "הָרִיעוּ",
+      "gloss": "Jauchzt"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "JHWH ⟨zu⟩"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "ganze"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:29.898630323Z",
+  "model": "glm-5.2"
+}

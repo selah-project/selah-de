@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Ich hasste die Versammlung der Übeltäter, und mit Reschaim werde ich nicht sitzen.",
+  "tokens": [
+    {
+      "surface": "שָׂ֭נֵאתִי",
+      "gloss": "Ich hasste"
+    },
+    {
+      "surface": "קְהַ֣ל",
+      "gloss": "die Versammlung"
+    },
+    {
+      "surface": "מְרֵעִ֑ים",
+      "gloss": "der Übeltäter"
+    },
+    {
+      "surface": "וְעִם",
+      "gloss": "und mit"
+    },
+    {
+      "surface": "רְ֝שָׁעִ֗ים",
+      "gloss": "den Reschaim"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אֵשֵֽׁב",
+      "gloss": "werde ich sitzen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:28.405531293Z",
+  "model": "glm-5.2"
+}

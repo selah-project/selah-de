@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und er höhnte ⟨את⟩ Israel, und Jehonatan, der Sohn Schimas, des Bruders Dawids, schlug ihn.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "und er höhnte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "und schlug ihn"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "der Sohn"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Schimas"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "des Bruders"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawids"
+    }
+  ],
+  "timestamp": "2026-08-06T09:34:24.861486818Z",
+  "model": "glm-5.2"
+}

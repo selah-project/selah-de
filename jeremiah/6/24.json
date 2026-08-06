@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Wir haben ⟨את⟩ sein Gerücht gehört — unsere Hände erschlaffen. Bedrängnis hat uns ergriffen, Wehen wie eine Gebärende.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Wir haben … gehört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Gerücht"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Gerücht"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "erschlaffen"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "unsere Hände"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "Bedrängnis"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "hat uns ergriffen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "Wehen"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "wie eine Gebärende"
+    }
+  ],
+  "timestamp": "2026-08-05T22:00:29.777880514Z",
+  "model": "glm-5.2"
+}

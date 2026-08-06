@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und sie nahmen ⟨את⟩ ihre Gebeine und begruben sie unter dem Tamariskbaum in Jabescha, und sie fasteten sieben Tage.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Und sie nahmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Gebeine"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ihre Gebeine"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "und begruben"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "dem Tamariskbaum"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "in Jabescha"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "und sie fasteten"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T02:47:12.551442176Z",
+  "model": "glm-5.2"
+}

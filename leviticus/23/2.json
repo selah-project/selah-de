@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "„ Rede zu den Söhnen Jisraels und sag zu ihnen: Die Festzeiten JHWHs, die ihr ausrufen sollt — ⟨את⟩ sie ⟨als⟩ heilige Einberufungen — diese sind meine Festzeiten.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Rede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "und sag"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "Die Festzeiten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ihr ausrufen sollt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Festzeiten)"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "⟨als⟩ heilige Einberufungen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige Einberufungen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sind"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "meine Festzeiten"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:20.572959338Z",
+  "model": "glm-5.2"
+}

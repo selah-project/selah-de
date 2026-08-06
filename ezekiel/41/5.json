@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Und er maß die Wand des Hauses: sechs Ellen, und die Breite der Zelle: vier Ellen ringsum, ringsum um das Haus ringsum.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "und ⟨er⟩ maß"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "die Wand"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sechs"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "und die Breite"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "der Zelle"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "um das Haus"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    }
+  ],
+  "timestamp": "2026-08-05T22:28:23.060818217Z",
+  "model": "glm-5.2"
+}

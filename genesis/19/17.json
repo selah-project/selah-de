@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 19:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und es geschah, als sie sie ⟨את⟩ ins Freie hinausbegleitet hatten, da sprach ⟨er⟩: „Rette dich um deiner Nefesch willen! Blicke nicht hinter dich, und bleibe nicht stehen in der ganzen Ebene — ins Gebirge rette dich, damit du nicht mitweggerafft wirst!“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כהוציאם",
+      "gloss": "als sie hinausbegleitet hatten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Herausgeführten)"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ins Freie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "da sprach"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "Rette dich"
+    },
+    {
+      "surface": "על",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "deiner Nefesch"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "blicke"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "hinter dich"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "bleibe stehen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in der ganzen"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "Ebene"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ins Gebirge"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "rette dich"
+    },
+    {
+      "surface": "פן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "du mitweggerafft wirst"
+    }
+  ],
+  "timestamp": "2026-08-06T20:02:17.949209923Z",
+  "model": "glm-5.2"
+}

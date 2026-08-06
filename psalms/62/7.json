@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Nur er ⟨ist⟩ mein Fels und meine Rettung, meine Höhe — ich werde nicht wanken.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mein Fels"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "und meine Rettung"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "meine Höhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "werde ich wanken"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:44.780003505Z",
+  "model": "glm-5.2"
+}

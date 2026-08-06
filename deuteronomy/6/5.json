@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und du sollst lieben ⟨את⟩ JHWH, deinen Elohim, mit ganzem Herzen und mit ganzer Nefesch und mit ganzer Kraft.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "und du sollst lieben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH, deinen Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit ganzer"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "und mit ganzer"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "und mit ganzer"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "Kraft"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:01.262898090Z",
+  "model": "glm-5.2"
+}

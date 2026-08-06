@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Geh nicht ein mit ⟨את⟩ einem Mann des Zorns, und mit ⟨את⟩ einem Mann der Glut — ⟨zu ihm⟩ sollst du nicht kommen.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תִּ֭תְרַע",
+      "gloss": "geh ein"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "einem Mann des Zorns"
+    },
+    {
+      "surface": "בַּ֣עַל",
+      "gloss": "einem Mann"
+    },
+    {
+      "surface": "אָ֑ף",
+      "gloss": "des Zorns"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "einem Mann"
+    },
+    {
+      "surface": "חֵ֝מוֹת",
+      "gloss": "der Glut"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תָבֽוֹא",
+      "gloss": "sollst du kommen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:25.916431271Z",
+  "model": "glm-5.2"
+}

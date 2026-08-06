@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Wahrlich, JHWH, die Könige von Aschur haben ⟨את⟩ die Völker verödet und ⟨את⟩ ihr Land.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Wahrlich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "haben verödet"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die Könige von"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aschur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Völker"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihr Land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ihr Land"
+    }
+  ],
+  "timestamp": "2026-08-06T01:36:53.134545080Z",
+  "model": "glm-5.2"
+}

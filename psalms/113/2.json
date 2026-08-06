@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 113,
+  "translation": "Es sei der Name JHWHs gesegnet, von nun an und bis ⟨in⟩ Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Es sei"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der Name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "gesegnet"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "von nun an"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨in⟩ Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:25.240710886Z",
+  "model": "glm-5.2"
+}

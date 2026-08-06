@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Die Stimme JHWHs — sie haut Flammen aus Feuer heraus.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "sie haut heraus"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "Flammen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "aus Feuer"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:25.199663114Z",
+  "model": "glm-5.2"
+}

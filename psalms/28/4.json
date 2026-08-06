@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Gib ihnen nach ihrem Tun und nach dem Bösen ihrer Taten; nach dem Werk ihrer Hände gib ihnen, gib ⟨zurück⟩ ihnen ihre Vergeltung!",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "gib"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "nach ihrem Tun"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "und nach dem Bösen"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ihrer Taten"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "nach dem Werk"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ihrer Hände"
+    },
+    {
+      "surface": "תן",
+      "gloss": "gib"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "השב",
+      "gloss": "gib ⟨zurück⟩"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "ihre Vergeltung"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T16:00:54.613326303Z",
+  "model": "glm-5.2"
+}

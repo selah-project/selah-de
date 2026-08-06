@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 52,
+  "translation": "Als Doäg der Edomiter kam und ⟨es⟩ Schaul meldete und ihm sagte: „Dawid ist ⟨in⟩ das Haus Achimelechs gekommen.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Als … kam"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doäg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "der Edomiter"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "und ⟨es⟩ meldete"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ist gekommen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨in⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelechs"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:02.057375495Z",
+  "model": "glm-5.2"
+}

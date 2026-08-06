@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 1:20",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Auch ⟨die⟩ Tiere ⟨des⟩ Feldes lechzen zu dir; denn die Bachbetten ⟨der⟩ Wasser sind ausgetrocknet, und Feuer hat gefressen ⟨die⟩ Weiden ⟨der⟩ Wüste.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Auch"
+    },
+    {
+      "surface": "בַּהֲמ֥וֹת",
+      "gloss": "Tiere"
+    },
+    {
+      "surface": "שָׂדֶ֖ה",
+      "gloss": "Feld"
+    },
+    {
+      "surface": "תַּעֲר֣וֹג",
+      "gloss": "lechzen"
+    },
+    {
+      "surface": "אֵלֶ֑יךָ",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יָֽבְשׁוּ֙",
+      "gloss": "sind ausgetrocknet"
+    },
+    {
+      "surface": "אֲפִ֣יקֵי",
+      "gloss": "Bachbetten"
+    },
+    {
+      "surface": "מָ֔יִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "וְאֵ֕שׁ",
+      "gloss": "und Feuer"
+    },
+    {
+      "surface": "אָכְלָ֖ה",
+      "gloss": "hat gefressen"
+    },
+    {
+      "surface": "נְא֥וֹת",
+      "gloss": "Weiden"
+    },
+    {
+      "surface": "הַמִּדְבָּֽר",
+      "gloss": "Wüste"
+    }
+  ],
+  "timestamp": "2026-08-06T20:38:14.481174771Z",
+  "model": "glm-5.2"
+}

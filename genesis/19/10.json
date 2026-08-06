@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und die Männer streckten ⟨את⟩ ihre Hand aus und brachten ⟨את⟩ Lot zu sich ins Haus, und ⟨את⟩ die Tür schlossen sie.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלְחוּ",
+      "gloss": "Und streckten … aus"
+    },
+    {
+      "surface": "הָאֲנָשִׁים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Hand"
+    },
+    {
+      "surface": "יָדָם",
+      "gloss": "ihre Hand"
+    },
+    {
+      "surface": "וַיָּבִיאוּ",
+      "gloss": "und brachten"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוֹט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אֲלֵיהֶם",
+      "gloss": "zu sich"
+    },
+    {
+      "surface": "הַבַּיְתָה",
+      "gloss": "ins Haus"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Tür"
+    },
+    {
+      "surface": "הַדֶּלֶת",
+      "gloss": "die Tür"
+    },
+    {
+      "surface": "סָגָרוּ",
+      "gloss": "schlossen sie"
+    }
+  ],
+  "timestamp": "2026-08-06T20:02:08.141503801Z",
+  "model": "glm-5.2"
+}

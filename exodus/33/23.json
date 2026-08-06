@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Dann werde ich entfernen ⟨את⟩ meine Handfläche, und du wirst sehen ⟨את⟩ meinen Rücken — aber mein Angesicht wird nicht gesehen werden.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Dann werde ich entfernen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Handfläche"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "meine Handfläche"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "und du wirst sehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Rücken"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "meinen Rücken"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "aber mein Angesicht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wird gesehen werden"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:03.160945100Z",
+  "model": "glm-5.2"
+}

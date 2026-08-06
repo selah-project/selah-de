@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Und ich werde dich aus der Hand des Königs von Aschur entreißen, ⟨und⟩ ⟨את⟩ diese Stadt, und ich werde diese Stadt beschirmen.",
+  "tokens": [
+    {
+      "surface": "וּמִכַּף",
+      "gloss": "und aus der Hand"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "אַשּׁוּר",
+      "gloss": "von Aschur"
+    },
+    {
+      "surface": "אַצִּילְךָ",
+      "gloss": "werde ich dich entreißen"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨und⟩ ⟨את⟩",
+      "marks": "diese Stadt"
+    },
+    {
+      "surface": "הָעִיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "diese"
+    },
+    {
+      "surface": "וְגַנּוֹתִי",
+      "gloss": "und ich werde beschirmen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "הָעִיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "diese"
+    }
+  ],
+  "timestamp": "2026-08-06T01:47:56.064991121Z",
+  "model": "glm-5.2"
+}

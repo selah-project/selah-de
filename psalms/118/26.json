@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Gesegnet ⟨ist⟩ ⟨der⟩ Kommende im Namen JHWHs! Wir segnen euch aus dem Haus JHWHs.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "gesegnet"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "⟨der⟩ Kommende"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "im Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "wir segnen euch"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aus dem Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:53.230655535Z",
+  "model": "glm-5.2"
+}

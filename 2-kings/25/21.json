@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und der König von Bawel schlug ⟨את⟩ sie und tötete sie in Ribla im Land Chamat, und Jehuda wurde von seinem Boden weggeführt.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "und er schlug"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "von Bawel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "und er tötete sie"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "in Ribla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "und ⟨er⟩ wurde weggeführt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von … weg"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "seinem Boden"
+    }
+  ],
+  "timestamp": "2026-08-05T21:41:46.100680805Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und ihr werdet ⟨את⟩ das achte Jahr säen und essen vom Ertrag, ⟨dem⟩ alten, bis zum neunten Jahr, bis zum Kommen seines Ertrags — ⟨dann⟩ werdet ihr Altes essen.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "und ihr werdet säen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das achte Jahr"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "das Jahr"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "achte"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "und ihr werdet essen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "dem Ertrag"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "alten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "Jahr"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "neunten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "Kommen"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "seines Ertrags"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "werdet ihr essen"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "Altes"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:26.996383311Z",
+  "model": "glm-5.2"
+}

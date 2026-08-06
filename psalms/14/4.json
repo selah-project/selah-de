@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Haben ⟨sie⟩ denn nicht erkannt, alle, die Unheil wirken — ⟨die⟩ mein Volk fressen, ⟨die⟩ Brot essen? JHWH haben sie nicht angerufen.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Haben … denn nicht"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "erkannt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "die … wirken"
+    },
+    {
+      "surface": "און",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "die … fressen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "essen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "angerufen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:21.315222111Z",
+  "model": "glm-5.2"
+}

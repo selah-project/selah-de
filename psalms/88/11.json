@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Wirkst du ⟨ein⟩ Wunder an den Toten? Oder stehen Refaim auf, preisen sie dich? Sela.",
+  "tokens": [
+    {
+      "surface": "הֲלַמֵּתִ֥ים",
+      "gloss": "an den Toten"
+    },
+    {
+      "surface": "תַּעֲשֶׂה",
+      "gloss": "wirkst du"
+    },
+    {
+      "surface": "פֶּ֑לֶא",
+      "gloss": "⟨ein⟩ Wunder"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "oder"
+    },
+    {
+      "surface": "רְ֝פָאִ֗ים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "יָק֤וּמוּ",
+      "gloss": "stehen auf"
+    },
+    {
+      "surface": "יוֹד֬וּךָ",
+      "gloss": "preisen sie dich"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:01.494481286Z",
+  "model": "glm-5.2"
+}

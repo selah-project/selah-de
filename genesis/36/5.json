@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und Aholibama gebar ⟨את⟩ Jeïsch und ⟨את⟩ Jaalam und ⟨את⟩ Korach. Das sind die Söhne Esaus, die ihm geboren wurden im Land Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Und Aholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeïsch"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeïsch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Jaalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Das sind"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "geboren wurden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-05T20:01:55.447633552Z",
+  "model": "glm-5.2"
+}

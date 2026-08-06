@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Wer eine Grube gräbt, in sie fällt er, und wer eine Mauer einreißt, ⟨den⟩ wird eine Schlange beißen.",
+  "tokens": [
+    {
+      "surface": "חֹפֵ֥ר",
+      "gloss": "Wer … gräbt"
+    },
+    {
+      "surface": "גּוּמָּ֖ץ",
+      "gloss": "eine Grube"
+    },
+    {
+      "surface": "בּ֣וֹ",
+      "gloss": "in sie"
+    },
+    {
+      "surface": "יִפּ֑וֹל",
+      "gloss": "fällt er"
+    },
+    {
+      "surface": "וּפֹרֵ֥ץ",
+      "gloss": "und wer … einreißt"
+    },
+    {
+      "surface": "גָּדֵ֖ר",
+      "gloss": "eine Mauer"
+    },
+    {
+      "surface": "יִשְּׁכֶ֥נּוּ",
+      "gloss": "⟨den⟩ wird … beißen"
+    },
+    {
+      "surface": "נָחָֽשׁ",
+      "gloss": "eine Schlange"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:01.885317332Z",
+  "model": "glm-5.2"
+}

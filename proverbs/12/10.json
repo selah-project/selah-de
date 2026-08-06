@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Ein Gerechter erkennt die Nefesch seines Viehs, aber die Erbarmungen der Frevler sind grausam.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "erkennt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ein Gerechter"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die Nefesch"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "seines Viehs"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "aber die Erbarmungen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "sind grausam"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:37.045454512Z",
+  "model": "glm-5.2"
+}

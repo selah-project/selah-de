@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "All diese ⟨waren⟩ Städte, befestigt, ⟨mit⟩ hoher Mauer, Toren und Riegeln — außer den Städten der Perisi ⟨zahlreich⟩ sehr zahlreich.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "All"
+    },
+    {
+      "surface": "אֵ֜לֶּה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "עָרִ֧ים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "בְּצֻר֛וֹת",
+      "gloss": "befestigt"
+    },
+    {
+      "surface": "חוֹמָ֥ה",
+      "gloss": "Mauer"
+    },
+    {
+      "surface": "גְבֹהָ֖ה",
+      "gloss": "hoher"
+    },
+    {
+      "surface": "דְּלָתַ֣יִם",
+      "gloss": "Toren"
+    },
+    {
+      "surface": "וּבְרִ֑יחַ",
+      "gloss": "und Riegeln"
+    },
+    {
+      "surface": "לְבַ֛ד",
+      "gloss": "außer"
+    },
+    {
+      "surface": "מֵעָרֵ֥י",
+      "gloss": "den Städten"
+    },
+    {
+      "surface": "הַפְּרָזִ֖י",
+      "gloss": "der Perisi"
+    },
+    {
+      "surface": "הַרְבֵּ֥ה",
+      "gloss": "zahlreich"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "sehr zahlreich"
+    }
+  ],
+  "timestamp": "2026-08-06T00:42:07.481469202Z",
+  "model": "glm-5.2"
+}

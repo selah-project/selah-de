@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Das Erforschen Eloahs — findest du ⟨es⟩? Bis zur äußersten Grenze Schaddais — findest du ⟨sie⟩?",
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "Das Erforschen"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloahs"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "findest du"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨Oder⟩ bis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "zur äußersten Grenze"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Schaddais"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "findest du"
+    }
+  ],
+  "timestamp": "2026-08-06T04:33:45.917635264Z",
+  "model": "glm-5.2"
+}

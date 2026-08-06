@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Nicht ⟨werde ich⟩ nehmen aus deinem Haus einen Stier, aus deinen Hürden Böcke.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אֶקַּח",
+      "gloss": "werde ich nehmen"
+    },
+    {
+      "surface": "מִבֵּיתְךָ",
+      "gloss": "aus deinem Haus"
+    },
+    {
+      "surface": "פָּר",
+      "gloss": "einen Stier"
+    },
+    {
+      "surface": "מִמִּכְלְאֹתֶיךָ",
+      "gloss": "aus deinen Hürden"
+    },
+    {
+      "surface": "עַתּוּדִים",
+      "gloss": "Böcke"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:52.205705896Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Awraham sagte über Saraj, seine Frau: „Sie ist meine Schwester.\" Da sandte Awimelech, der König von Gerar, und nahm ⟨את⟩ Saraj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "über"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seine Frau"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "meine Schwester"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨sie ist⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "da sandte"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "von Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "und nahm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saraj"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraj"
+    }
+  ],
+  "timestamp": "2026-08-06T22:30:32.506852119Z",
+  "model": "glm-5.2"
+}

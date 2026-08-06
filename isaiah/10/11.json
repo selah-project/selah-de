@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Habe ich denn nicht, wie ich Schomron und ihren Götzen getan habe, so Jeruschalajim und ihren Götzenbildern tun werden?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Habe ich denn nicht"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ich getan habe"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Schomron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "und ihren Götzen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "werden… tun"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "und ihren Götzenbildern"
+    }
+  ],
+  "timestamp": "2026-08-06T01:41:28.870795336Z",
+  "model": "glm-5.2"
+}

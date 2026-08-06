@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und er sprach: Verflucht ⟨sei⟩ Kenaan, ein Knecht der Knechte soll er seinen Brüdern sein.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Knecht"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "der Knechte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll er sein"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "seinen Brüdern"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:29.773032663Z",
+  "model": "glm-5.2"
+}

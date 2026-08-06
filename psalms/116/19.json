@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "In den Höfen des Hauses JHWHs, in deiner Mitte, Jeruschalajim! Lobt Jah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "In den Höfen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "in deiner Mitte"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:36.889790486Z",
+  "model": "glm-5.2"
+}

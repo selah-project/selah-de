@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und JHWH wird ihnen tun, wie er Sichon und Og, den Königen des Emori, und ihrem Land getan hat, die er vernichtete ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "וְעָשָׂ֤ה",
+      "gloss": "und wird tun"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לָהֶ֔ם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֣ר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "עָשָׂ֗ה",
+      "gloss": "er getan hat"
+    },
+    {
+      "surface": "לְסִיח֥וֹן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "וּלְע֛וֹג",
+      "gloss": "und Og"
+    },
+    {
+      "surface": "מַלְכֵ֥י",
+      "gloss": "den Königen"
+    },
+    {
+      "surface": "הָאֱמֹרִ֖י",
+      "gloss": "des Emori"
+    },
+    {
+      "surface": "וּלְאַרְצָ֑ם",
+      "gloss": "und ihrem Land"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הִשְׁמִ֖יד",
+      "gloss": "er vernichtete"
+    },
+    {
+      "surface": "אֹתָֽם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sie (Sichon, Og und ihr Land)"
+    }
+  ],
+  "timestamp": "2026-08-06T00:49:37.394462880Z",
+  "model": "glm-5.2"
+}

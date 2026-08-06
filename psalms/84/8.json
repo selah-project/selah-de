@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 84,
+  "translation": "Sie gehen von Kraft zu Kraft, ⟨bis⟩ ⟨jeder⟩ erscheint vor Elohim in Zijon.",
+  "tokens": [
+    {
+      "surface": "יֵ֭לְכוּ",
+      "gloss": "Sie gehen"
+    },
+    {
+      "surface": "מֵחַ֣יִל",
+      "gloss": "von Kraft"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "חָ֑יִל",
+      "gloss": "Kraft"
+    },
+    {
+      "surface": "יֵרָאֶ֖ה",
+      "gloss": "⟨bis⟩ ⟨jeder⟩ erscheint"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּצִיּֽוֹן",
+      "gloss": "in Zijon"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:29.678653581Z",
+  "model": "glm-5.2"
+}

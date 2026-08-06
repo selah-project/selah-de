@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 126,
+  "translation": "Wende ⟨doch⟩ zurück, JHWH, ⟨את⟩ unsere Gefangenschaft, wie die Bachläufe im Südländ!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Wende zurück"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unsere Gefangenschaft"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "unsere Gefangenschaft"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "wie die Bachläufe"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "im Südländ"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:10.591741462Z",
+  "model": "glm-5.2"
+}

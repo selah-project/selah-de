@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und Zefanja, der Kohen, las ⟨את⟩ dieses Schreiben in den Ohren Jirmejahus, des Nawi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "und las"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Zefanja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Schreiben"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "das Schreiben"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "in den Ohren"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "des Nawi"
+    }
+  ],
+  "timestamp": "2026-08-05T22:07:18.576131785Z",
+  "model": "glm-5.2"
+}

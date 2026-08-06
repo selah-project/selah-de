@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Ich sage zu El, meinem Felsen: Warum hast du mich vergessen? Warum gehe ich trauernd einher unter dem Druck des Feindes?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Ich sage"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "zu El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "meinem Felsen"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "hast du mich vergessen"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "trauernd"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gehe ich einher"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "unter dem Druck"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "des Feindes"
+    }
+  ],
+  "timestamp": "2026-08-06T15:22:33.964410723Z",
+  "model": "glm-5.2"
+}

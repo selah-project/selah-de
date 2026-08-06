@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Seid nicht wie ⟨das⟩ Pferd, wie ⟨der⟩ Maultier — ohne Verstand: mit Zaum und Zügel, ⟨als⟩ sein Schmuck, ⟨um⟩ sie ⟨zu⟩ bändigen, ⟨damit⟩ sie dir nicht nahe kommen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "seid"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "wie ⟨das⟩ Pferd"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "wie ⟨der⟩ Maultier"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "Verstand"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "mit Zaum"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "und Zügel"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "⟨als⟩ sein Schmuck"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "⟨um⟩ sie ⟨zu⟩ bändigen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "nahe kommen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:41.674310863Z",
+  "model": "glm-5.2"
+}

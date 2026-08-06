@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "Tater von Zedakot ⟨ist⟩ JHWH, und Mischpatim für alle Bedrückten.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Tater von"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "Zedakot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "und Mischpatim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "für alle"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "Bedrückten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:17.994798417Z",
+  "model": "glm-5.2"
+}

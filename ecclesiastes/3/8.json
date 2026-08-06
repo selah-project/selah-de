@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Zeit zu lieben und Zeit zu hassen, Zeit des Krieges und Zeit des Schalom.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Zeit"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "zu lieben"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "und Zeit"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "zu hassen"
+    },
+    {
+      "surface": "עת",
+      "gloss": "Zeit"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "des Krieges"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "und Zeit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "des Schalom"
+    }
+  ],
+  "timestamp": "2026-08-06T09:27:44.405581196Z",
+  "model": "glm-5.2"
+}

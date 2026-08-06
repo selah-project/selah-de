@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Ich habe von Norden her ⟨einen⟩ erweckt, und er kam; vom Aufgang der Sonne her ruft er in meinem Namen aus. Und er kommt über Präfekten wie über Lehm und wie ein Töpfer zertritt er Schlamm.",
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "ich habe erweckt"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "von Norden"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "und ⟨der⟩ kam",
+      "marks": "von Norden Erweckter"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "vom Aufgang"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ruft er aus"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "in meinem Namen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und er kommt"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "über Präfekten"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wie"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "Lehm"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "und wie"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "ein Töpfer"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "zertritt er"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "Schlamm"
+    }
+  ],
+  "timestamp": "2026-08-05T21:52:24.133614716Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Rufend vom Aufgang her ⟨einen⟩ Raubvogel, ⟨von⟩ ⟨einem⟩ Land der Ferne ⟨einen⟩ Mann meines Rates — ja, ich habe gesprochen, ja, ich werde ⟨es⟩ bringen; ich habe ⟨es⟩ geformt, ja, ich werde ⟨es⟩ tun.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Rufend"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "vom Aufgang her"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "⟨einen⟩ Raubvogel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "von ⟨einem⟩ Land"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "der Ferne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨einen⟩ Mann"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "meines Rates"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ich habe gesprochen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "ich werde ⟨es⟩ bringen"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "ich habe ⟨es⟩ geformt"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ich werde ⟨es⟩ tun"
+    }
+  ],
+  "timestamp": "2026-08-06T19:45:10.596303397Z",
+  "model": "glm-5.2"
+}

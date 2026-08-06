@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Auf mir liegt deine Glut, und mit all deinen Wogen hast du mich niedergedrückt. Sela.",
+  "tokens": [
+    {
+      "surface": "עָ֭לַי",
+      "gloss": "Auf mir"
+    },
+    {
+      "surface": "סָמְכָ֣ה",
+      "gloss": "liegt"
+    },
+    {
+      "surface": "חֲמָתֶ֑ךָ",
+      "gloss": "deine Glut"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "מִ֝שְׁבָּרֶ֗יךָ",
+      "gloss": "deinen Wogen"
+    },
+    {
+      "surface": "עִנִּ֥יתָ",
+      "gloss": "hast du mich niedergedrückt"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:41.708853710Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 143,
+  "translation": "Eile, antworte mir, JHWH — meine Ruach vergeht, verbirg dein Angesicht nicht vor mir, damit ich nicht gleichgesetzt werde denen, die hinabsteigen in die Grube!",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Eile"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antworte mir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "vergeht"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "meine Ruach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "verbirg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Angesicht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "vor mir"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "damit ich nicht gleichgesetzt werde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "denen"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "die hinabsteigen"
+    },
+    {
+      "surface": "בור",
+      "gloss": "in die Grube"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:41.568832857Z",
+  "model": "glm-5.2"
+}

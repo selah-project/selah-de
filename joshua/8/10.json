@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Jehoschua stand früh am Morgen auf und musterte ⟨את⟩ das Volk, und er zog hinauf, er und die Ältesten Jisra'els, vor dem Volk, ⟨nach⟩ Ha-Ai.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Und … stand früh auf"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "und musterte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und er zog hinauf"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er selbst"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "und die Ältesten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha-Ai"
+    }
+  ],
+  "timestamp": "2026-08-06T00:51:40.748651002Z",
+  "model": "glm-5.2"
+}

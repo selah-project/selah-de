@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 2:4",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "„Denn du warfst mich in die Tiefe, ins Herz der Meere, und ⟨der⟩ Strom umringte mich; all deine Brandungen und deine Wogen gingen über mich hinweg.“",
+  "tokens": [
+    {
+      "surface": "וַתַּשְׁלִיכֵ֤נִי",
+      "gloss": "Denn du warfst mich"
+    },
+    {
+      "surface": "מְצוּלָה֙",
+      "gloss": "in die Tiefe"
+    },
+    {
+      "surface": "בִּלְבַ֣ב",
+      "gloss": "ins Herz"
+    },
+    {
+      "surface": "יַמִּ֔ים",
+      "gloss": "der Meere"
+    },
+    {
+      "surface": "וְנָהָ֖ר",
+      "gloss": "und ⟨der⟩ Strom"
+    },
+    {
+      "surface": "יְסֹבְבֵ֑נִי",
+      "gloss": "umringte mich"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מִשְׁבָּרֶ֥יךָ",
+      "gloss": "deine Brandungen"
+    },
+    {
+      "surface": "וְגַלֶּ֖יךָ",
+      "gloss": "und deine Wogen"
+    },
+    {
+      "surface": "עָלַ֥י",
+      "gloss": "über mir"
+    },
+    {
+      "surface": "עָבָֽרוּ",
+      "gloss": "gingen hinweg"
+    }
+  ],
+  "timestamp": "2026-08-06T04:01:03.624450468Z",
+  "model": "glm-5.2"
+}

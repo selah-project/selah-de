@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 38:20",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "JHWH ⟨ist da⟩, mich zu retten; und meine Saitenspiele wollen wir spielen alle Tage unseres Lebens über dem Haus JHWHs.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לְהוֹשִׁיעֵ֑נִי",
+      "gloss": "mich zu retten"
+    },
+    {
+      "surface": "וּנְגִנוֹתַ֧י",
+      "gloss": "und meine Saitenspiele"
+    },
+    {
+      "surface": "נְנַגֵּ֛ן",
+      "gloss": "wollen wir spielen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יְמֵ֥י",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "חַיֵּ֖ינוּ",
+      "gloss": "unseres Lebens"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T15:11:47.477462290Z",
+  "model": "glm-5.2"
+}

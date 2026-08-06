@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und JHWH sprach zu Mosche: „Geh zu Paro, und sage zu ihm: So spricht JHWH: Entlass ⟨את⟩ mein Volk, damit sie mir dienen!",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֤אמֶר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "בֹּ֖א",
+      "gloss": "geh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פַּרְעֹ֑ה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וְאָמַרְתָּ֣",
+      "gloss": "und sage"
+    },
+    {
+      "surface": "אֵלָ֗יו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "כֹּ֚ה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שַׁלַּ֥ח",
+      "gloss": "entlass"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mein Volk"
+    },
+    {
+      "surface": "עַמִּ֖י",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "וְיַֽעַבְדֻֽנִי",
+      "gloss": "damit sie mir dienen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:12.237797886Z",
+  "model": "glm-5.2"
+}

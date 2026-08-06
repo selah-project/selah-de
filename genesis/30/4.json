@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und sie gab ihm ⟨את⟩ Bilha, ihre Magd, zur Frau, und Jaakow ging zu ihr ein.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Und sie gab"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "ihre Magd"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "zur Frau"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und ging ein"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "zu ihr"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    }
+  ],
+  "timestamp": "2026-08-06T22:30:58.369658900Z",
+  "model": "glm-5.2"
+}

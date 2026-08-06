@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Dies ⟨ist⟩ das Land, das übriggeblieben ist: alle Bezirke der Pelischtim und der ganze ⟨Stamm der⟩ Geschuriter.",
+  "tokens": [
+    {
+      "surface": "זֹאת",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "הַנִּשְׁאָרֶת",
+      "gloss": "das übriggeblieben ist"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גְּלִילוֹת",
+      "gloss": "Bezirke"
+    },
+    {
+      "surface": "הַפְּלִשְׁתִּים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und der ganze"
+    },
+    {
+      "surface": "הַגְּשׁוּרִי",
+      "gloss": "⟨Stamm der⟩ Geschuriter"
+    }
+  ],
+  "timestamp": "2026-08-05T20:56:06.380913464Z",
+  "model": "glm-5.2"
+}

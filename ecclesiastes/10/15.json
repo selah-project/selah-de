@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Die Mühsal der Narren erschöpft ⟨ihn⟩, ⟨er⟩, der nicht weiß, ⟨wie man⟩ zu einer Stadt geht.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Die Mühsal"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "der Narren"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "erschöpft ⟨ihn⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨der⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weiß"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "zu gehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "einer Stadt"
+    }
+  ],
+  "timestamp": "2026-08-06T16:04:44.748584148Z",
+  "model": "glm-5.2"
+}

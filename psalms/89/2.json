@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Die Chessed von JHWH werde ich für immer besingen, von Geschlecht zu Geschlecht kundtun ⟨mit⟩ meinem Mund deine Treue.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Die Chessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "werde ich besingen"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "von Geschlecht"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "zu Geschlecht"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "werde ich kundtun"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "deine Treue"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "⟨mit⟩ meinem Mund"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:08.590018998Z",
+  "model": "glm-5.2"
+}

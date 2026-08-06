@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Wer einen Mann schlägt, dass er stirbt — er soll unbedingt getötet werden.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Wer schlägt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "einen Mann"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dass er stirbt"
+    },
+    {
+      "surface": "מות",
+      "gloss": "unbedingt"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "soll er getötet werden"
+    }
+  ],
+  "timestamp": "2026-08-06T05:15:58.326595091Z",
+  "model": "glm-5.2"
+}

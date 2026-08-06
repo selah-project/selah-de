@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 11:13",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und es wird geschehen: Wenn ihr auf meine Mizwot hört, die ich ⟨euch⟩ heute gebiete, JHWH, euren Elohim, zu lieben und ihm zu dienen mit eurem ganzen Herzen und mit eurer ganzen Nefesch —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Und es wird geschehen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "{Infinitiv-Absolut für Hervorhebung}"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ihr hört"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "meine Mizwot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "gebeite"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "zu lieben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euren Elohim"
+    },
+    {
+      "surface": "ולעבדו",
+      "gloss": "und ihm zu dienen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit eurem ganzen"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "und mit eurer ganzen"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T09:53:39.148322605Z",
+  "model": "glm-5.2"
+}

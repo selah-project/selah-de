@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 150,
+  "translation": "Lobt ihn mit Tof und Machol, lobt ihn mit Minim und Ugav!",
+  "tokens": [
+    {
+      "surface": "הַֽ֭לְלוּהוּ",
+      "gloss": "Lobt ihn"
+    },
+    {
+      "surface": "בְתֹ֣ף",
+      "gloss": "mit Tof"
+    },
+    {
+      "surface": "וּמָח֑וֹל",
+      "gloss": "und Machol"
+    },
+    {
+      "surface": "הַֽ֝לְל֗וּהוּ",
+      "gloss": "lobt ihn"
+    },
+    {
+      "surface": "בְּמִנִּ֥ים",
+      "gloss": "mit Minim"
+    },
+    {
+      "surface": "וְעוּגָֽב",
+      "gloss": "und Ugav"
+    }
+  ],
+  "timestamp": "2026-08-06T06:53:28.597346464Z",
+  "model": "glm-5.2"
+}

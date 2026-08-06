@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Steh auf, denn auf dir liegt die Sache, und wir sind mit dir. Sei stark und handle!",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "auf dir"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liegt die Sache"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "und wir"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sind mit dir"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Sei stark"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "und handle"
+    }
+  ],
+  "timestamp": "2026-08-05T23:41:01.091123226Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Er wird Völker unter uns bringen, und Nationen unter unsere Füße.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Er wird bringen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "unter uns"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "und Nationen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "unsere Füße"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:06.730344104Z",
+  "model": "glm-5.2"
+}

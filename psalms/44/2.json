@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Elohim, mit unseren Ohren haben wir es gehört, unsere Väter haben es uns erzählt: ⟨ein⟩ Werk hast du gewirkt in ihren Tagen, in den Tagen von einst.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּאָזְנֵינוּ",
+      "gloss": "mit unseren Ohren"
+    },
+    {
+      "surface": "שָׁמַעְנוּ",
+      "gloss": "haben wir es gehört"
+    },
+    {
+      "surface": "אֲבוֹתֵינוּ",
+      "gloss": "unsere Väter"
+    },
+    {
+      "surface": "סִפְּרוּ",
+      "gloss": "haben … erzählt"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "uns"
+    },
+    {
+      "surface": "פֹּעַל",
+      "gloss": "Werk"
+    },
+    {
+      "surface": "פָּעַלְתָּ",
+      "gloss": "hast du gewirkt"
+    },
+    {
+      "surface": "בִּימֵיהֶם",
+      "gloss": "in ihren Tagen"
+    },
+    {
+      "surface": "בִּימֵי",
+      "gloss": "in den Tagen von"
+    },
+    {
+      "surface": "קֶדֶם",
+      "gloss": "einst"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:06.349779175Z",
+  "model": "glm-5.2"
+}

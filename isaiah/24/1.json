@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Siehe, JHWH leert die Erde und ⟨wird⟩ ⟨sie⟩ ⟨leerend⟩ ⟨gemacht⟩, und entstellt ihr Angesicht und zerstreut ⟨את⟩ ihre Bewohner.",
+  "tokens": [
+    {
+      "surface": "הִנֵּה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בּוֹקֵק",
+      "gloss": "leert"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "וּבוֹלְקָהּ",
+      "gloss": "und ⟨wird⟩ ⟨sie⟩ ⟨leerend⟩ ⟨gemacht⟩"
+    },
+    {
+      "surface": "וְעִוָּה",
+      "gloss": "und entstellt"
+    },
+    {
+      "surface": "פָּנֶיהָ",
+      "gloss": "ihr Angesicht"
+    },
+    {
+      "surface": "וְהֵפִיץ",
+      "gloss": "und zerstreut"
+    },
+    {
+      "surface": "יֹשְׁבֶיהָ",
+      "gloss": "ihre Bewohner"
+    }
+  ],
+  "timestamp": "2026-08-06T05:59:17.682112932Z",
+  "model": "glm-5.2"
+}

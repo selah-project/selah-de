@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Da betete Jona zu JHWH, seinem Elohim, aus dem Innern des Fisches.",
+  "tokens": [
+    {
+      "surface": "וַיִּתְפַּלֵּ֣ל",
+      "gloss": "Da betete"
+    },
+    {
+      "surface": "יוֹנָ֔ה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהָ֑יו",
+      "gloss": "seinem Elohim"
+    },
+    {
+      "surface": "מִמְּעֵ֖י",
+      "gloss": "aus dem Innern"
+    },
+    {
+      "surface": "הַדָּגָֽה",
+      "gloss": "des Fisches"
+    }
+  ],
+  "timestamp": "2026-08-06T04:01:03.624245848Z",
+  "model": "glm-5.2"
+}

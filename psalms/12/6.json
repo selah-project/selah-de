@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Wegen der Ausplünderung der Elenden, wegen des Seufzens der Darbenden — „jetzt werde ich aufstehen“, spricht JHWH, „ich werde ihn setzen in Rettung, ⟨die⟩ er auf schnauft.“",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "Wegen der Ausplünderung"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "der Elenden"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "wegen des Seufzens"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "der Darbenden"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jetzt"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "werde ich aufstehen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "werde ich setzen"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "in Rettung"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "auf schnauft"
+    },
+    {
+      "surface": "לו",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:08.811024902Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "„Es reut mich, dass ich ⟨את⟩ Schaul zum König gemacht habe, denn er ist hinter mir zurückgekehrt und ⟨את⟩ mein Wort nicht aufgerichtet.“ Und es entbrannte ⟨für⟩ Schmuël, und er schrie zu JHWH die ganze Nacht.",
+  "tokens": [
+    {
+      "surface": "נִחַ֗מְתִּי",
+      "gloss": "es reut mich"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "הִמְלַ֤כְתִּי",
+      "gloss": "ich … gemacht habe zum König"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Schaul"
+    },
+    {
+      "surface": "שָׁאוּל֙",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "לְמֶ֔לֶךְ",
+      "gloss": "zum König"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שָׁב֙",
+      "gloss": "er ist zurückgekehrt"
+    },
+    {
+      "surface": "מֵאַֽחֲרַ֔י",
+      "gloss": "hinter mir"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "mein Wort"
+    },
+    {
+      "surface": "דְּבָרַ֖י",
+      "gloss": "mein Wort"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הֵקִ֑ים",
+      "gloss": "aufgerichtet"
+    },
+    {
+      "surface": "וַיִּ֨חַר֙",
+      "gloss": "und es entbrannte"
+    },
+    {
+      "surface": "לִשְׁמוּאֵ֔ל",
+      "gloss": "⟨für⟩ Schmuël"
+    },
+    {
+      "surface": "וַיִּזְעַ֥ק",
+      "gloss": "und er schrie"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "הַלָּֽיְלָה",
+      "gloss": "Nacht"
+    }
+  ],
+  "timestamp": "2026-08-06T02:44:02.198891061Z",
+  "model": "glm-5.2"
+}

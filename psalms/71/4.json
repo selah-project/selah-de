@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "Mein Elohim, entreiße mich der Hand des Rascha, aus der Tat des Unrechten und des Gewalttätigen.",
+  "tokens": [
+    {
+      "surface": "אֱֽלֹהַ֗י",
+      "gloss": "Mein Elohim"
+    },
+    {
+      "surface": "פַּלְּטֵנִי",
+      "gloss": "entreiße mich"
+    },
+    {
+      "surface": "מִיַּ֣ד",
+      "gloss": "der Hand"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "des Rascha"
+    },
+    {
+      "surface": "מִכַּ֖ף",
+      "gloss": "aus der Tat"
+    },
+    {
+      "surface": "מְעַוֵּ֣ל",
+      "gloss": "des Unrechten"
+    },
+    {
+      "surface": "וְחוֹמֵץ",
+      "gloss": "und des Gewalttätigen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:24.218859533Z",
+  "model": "glm-5.2"
+}

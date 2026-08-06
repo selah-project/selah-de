@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Es sagen nun ⟨die⟩ JHWH-Ehrfürchtigen: „Denn für immer ⟨währt⟩ sein Chessed.“",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Es sagen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nun"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "⟨die⟩ JHWH-Ehrfürchtigen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:35.830197376Z",
+  "model": "glm-5.2"
+}

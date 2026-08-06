@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 85,
+  "translation": "Bringe uns zurück, Elohim unserer Rettung, und ⟨mache⟩ zunichte deinen Zorn gegen uns!",
+  "tokens": [
+    {
+      "surface": "שׁ֭וּבֵנוּ",
+      "gloss": "Bringe uns zurück"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יִשְׁעֵ֑נוּ",
+      "gloss": "unserer Rettung"
+    },
+    {
+      "surface": "וְהָפֵ֖ר",
+      "gloss": "und ⟨mache⟩ zunichte"
+    },
+    {
+      "surface": "כַּֽעַסְךָ֣",
+      "gloss": "deinen Zorn"
+    },
+    {
+      "surface": "עִמָּֽנוּ",
+      "gloss": "gegen uns"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:10.083571002Z",
+  "model": "glm-5.2"
+}

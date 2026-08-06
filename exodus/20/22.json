@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und JHWH sprach zu Mosche: „So sollst du zu den Söhnen Jisra'els sagen: Ihr selbst habt gesehen, dass ich vom Himmel her mit euch geredet habe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sollst du sagen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ihr selbst"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "habt ⟨ihr⟩ gesehen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dem Himmel ⟨her⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ich geredet habe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mit euch"
+    }
+  ],
+  "timestamp": "2026-08-06T02:05:12.702514127Z",
+  "model": "glm-5.2"
+}

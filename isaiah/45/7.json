@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Der das Licht formt und die Finsternis schafft, der Schalom macht und das Unheil schafft, ich, JHWH, der all ⟨das⟩ tut.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "Der formt"
+    },
+    {
+      "surface": "אור",
+      "gloss": "das Licht"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "und schafft"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "die Finsternis"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der macht"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "und schafft"
+    },
+    {
+      "surface": "רע",
+      "gloss": "das Unheil"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der tut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dieses"
+    }
+  ],
+  "timestamp": "2026-08-06T10:12:50.979338553Z",
+  "model": "glm-5.2"
+}

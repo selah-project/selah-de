@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "JHWH, in deinem Wohlgefallen ließest du meinem Berg Standkraft ⟨bleiben⟩; ⟨du⟩ verbargst dein Angesicht, ich war bestürzt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "in deinem Wohlgefallen"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "ließest du … Standkraft ⟨bleiben⟩"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "meinem Berg"
+    },
+    {
+      "surface": "עז",
+      "gloss": "Kraft"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "verbargst"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Angesicht"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ich war"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "bestürzt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:52.925093789Z",
+  "model": "glm-5.2"
+}

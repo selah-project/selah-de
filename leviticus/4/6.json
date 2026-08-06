@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und der Kohen taucht ⟨את⟩ seinen Finger in das Blut und spritzt von dem Blut siebenmal vor JHWH, ⟨את⟩ vor die Fläche des Vorhangs des Heiligen.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "Und taucht"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Finger"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "seinen Finger"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "in das Blut"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "und spritzt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dem Blut"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "Mal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Fläche"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Fläche"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "des Vorhangs"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "des Heiligen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:08:58.256602282Z",
+  "model": "glm-5.2"
+}

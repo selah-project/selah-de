@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Ach nun, JHWH — denn ich bin dein Knecht, ich bin dein Knecht, der Sohn deiner Magd; du hast meine Fesseln gelöst.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ach nun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bin dein Knecht"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bin dein Knecht"
+    },
+    {
+      "surface": "בן",
+      "gloss": "der Sohn"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "deiner Magd"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "du hast gelöst"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "meine Fesseln"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:42.335141256Z",
+  "model": "glm-5.2"
+}

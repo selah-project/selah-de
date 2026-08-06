@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH sprach zum Satanshaider: „Siehe, er ⟨ist⟩ in deiner Hand — nur ⟨את⟩ seine Nefesch bewahre!“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und … sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "dem Satanshaider"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Siehe, er"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in deiner Hand"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Nefesch"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "seine Nefesch"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewahre"
+    }
+  ],
+  "timestamp": "2026-08-05T23:15:58.012593493Z",
+  "model": "glm-5.2"
+}

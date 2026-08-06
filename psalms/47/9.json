@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Elohim wurde König über die Völker, Elohim hat sich gesetzt auf ⟨den⟩ Thron seiner Heiligkeit.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "wurde König"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hat sich gesetzt"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "⟨den⟩ Thron"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "seiner Heiligkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:38.115904062Z",
+  "model": "glm-5.2"
+}

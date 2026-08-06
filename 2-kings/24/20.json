@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Denn wegen des Zorns JHWHs geschah ⟨es⟩ in Jeruschalajim und in Jehuda, bis er ⟨את⟩ sie von seinem Angesicht weggeworfen hatte; und Zidkijahu fiel ab vom König von Bawel.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "אַ֣ף",
+      "gloss": "des Zorns"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "הָיְתָ֤ה",
+      "gloss": "geschah"
+    },
+    {
+      "surface": "בִירוּשָׁלִַ֨ם֙",
+      "gloss": "in Jeruschalajim"
+    },
+    {
+      "surface": "וּבִ֣יהוּדָ֔ה",
+      "gloss": "und in Jehuda"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הִשְׁלִיכ֥וֹ",
+      "gloss": "er geworfen hatte"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "מֵעַ֣ל",
+      "gloss": "weg von"
+    },
+    {
+      "surface": "פָּנָ֑יו",
+      "gloss": "seinem Angesicht"
+    },
+    {
+      "surface": "וַיִּמְרֹ֥ד",
+      "gloss": "und ⟨er⟩ fiel ab"
+    },
+    {
+      "surface": "צִדְקִיָּ֖הוּ",
+      "gloss": "Zidkijahu"
+    },
+    {
+      "surface": "בְּמֶ֥לֶךְ",
+      "gloss": "vom König"
+    },
+    {
+      "surface": "בָּבֶֽל",
+      "gloss": "von Bawel"
+    }
+  ],
+  "timestamp": "2026-08-06T03:09:37.134933495Z",
+  "model": "glm-5.2"
+}

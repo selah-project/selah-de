@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und sie riefen nach Lot und sagten ihm: „Wo sind die Männer, die zu dir gekommen sind ⟨in⟩ dieser Nacht? Führ sie heraus zu uns, damit wir sie erkennen!",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Und sie riefen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "und sagten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gekommen sind"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "diese Nacht"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "Führ heraus"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sie zu uns"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "damit wir erkennen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Männer)"
+    }
+  ],
+  "timestamp": "2026-08-05T19:57:11.874808771Z",
+  "model": "glm-5.2"
+}

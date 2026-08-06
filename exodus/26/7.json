@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und du sollst Decken aus Ziegenhaar machen für ⟨das⟩ Zelt über dem Mischkan: elf Decken sollst du ⟨את⟩ sie machen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Und du sollst machen"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "Decken"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "aus Ziegenhaar"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "für ⟨das⟩ Zelt"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "dem Mischkan"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "elf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "Decken"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sollst du machen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    }
+  ],
+  "timestamp": "2026-08-06T09:46:49.041708531Z",
+  "model": "glm-5.2"
+}

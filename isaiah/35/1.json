@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Es freuen sich die Steppe und das Dürreland, und die Arba jauchzt und blüht wie die Narzisse.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "es freuen sich"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "die Steppe"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "und das Dürreland"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "und sie jauchzt"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "die Arba"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "und blüht"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "wie die Narzisse"
+    }
+  ],
+  "timestamp": "2026-08-05T21:51:09.328030193Z",
+  "model": "glm-5.2"
+}

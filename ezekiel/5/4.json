@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und von ihnen sollst du nochmals nehmen und sie werfen in die Mitte des Feuers und sie im Feuer verbrennen; davon wird Feuer ausgehen zum ganzen Haus Jisraels.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "Und von ihnen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nochmals"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "sollst du nehmen"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "und ⟨sie⟩ werfen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "in die Mitte des Feuers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "die Mitte"
+    },
+    {
+      "surface": "האש",
+      "gloss": "des Feuers"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "und verbrennen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "im Feuer"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "davon"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "wird ausgehen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨ganz⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T09:01:54.991432848Z",
+  "model": "glm-5.2"
+}

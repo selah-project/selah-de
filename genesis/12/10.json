@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ⟨es war⟩ Hungersnot im Land. Awram zog hinab nach Mizrajim, um dort zu leben; denn schwer war die Hungersnot im Land.",
+  "tokens": [
+    {
+      "surface": "וַיְהִי",
+      "gloss": "und ⟨es war⟩"
+    },
+    {
+      "surface": "רָעָב",
+      "gloss": "Hungersnot"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "וַיֵּרֶד",
+      "gloss": "und ⟨er⟩ zog hinab"
+    },
+    {
+      "surface": "אַבְרָם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "מִצְרַיְמָה",
+      "gloss": "nach Mizrajim"
+    },
+    {
+      "surface": "לָגוּר",
+      "gloss": "um zu leben"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כָבֵד",
+      "gloss": "schwer ⟨war⟩"
+    },
+    {
+      "surface": "הָרָעָב",
+      "gloss": "die Hungersnot"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "im Land"
+    }
+  ],
+  "timestamp": "2026-08-06T00:04:20.281036053Z",
+  "model": "glm-5.2"
+}

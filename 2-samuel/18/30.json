@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und der König sagte: Tritt beiseite, stell dich hier hin. Und er trat beiseite und blieb stehen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "סב",
+      "gloss": "Tritt beiseite"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "stell dich hin"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "und ⟨er⟩ trat beiseite"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "und blieb stehen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:42:47.669587794Z",
+  "model": "glm-5.2"
+}

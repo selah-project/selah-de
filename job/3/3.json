@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Es vergehe der Tag, an dem ich geboren wurde, und die Nacht, die sprach: „Ein Mannkind wurde gezeugt.“",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "Es vergehe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "der Tag"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "ich geboren wurde"
+    },
+    {
+      "surface": "בו",
+      "gloss": "an dem"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "und die Nacht"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "die sprach"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "wurde gezeugt"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Ein Mannkind"
+    }
+  ],
+  "timestamp": "2026-08-06T04:32:11.907783087Z",
+  "model": "glm-5.2"
+}

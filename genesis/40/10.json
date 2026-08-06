@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und an dem Weinstock ⟨waren⟩ drei Ranken, und ⟨sie⟩ — als sie sich entfaltete, stieg ihre Blüte auf, ihre Traubenreife brachte ⟨die⟩ Trauben zum Reifen.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "Und an dem Weinstock"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drei"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "Ranken"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "und ⟨sie⟩"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "als sie sich entfaltete"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "stieg auf"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "ihre Blüte"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "brachten zum Reifen"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "ihre Trauben"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "Trauben"
+    }
+  ],
+  "timestamp": "2026-08-05T17:40:32.770044027Z",
+  "model": "glm-5.2"
+}

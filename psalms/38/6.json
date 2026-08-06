@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Sie stinken, meine Striemen zerfließen, wegen meiner Torheit.",
+  "tokens": [
+    {
+      "surface": "הִבְאִ֣ישׁוּ",
+      "gloss": "Sie stinken"
+    },
+    {
+      "surface": "נָ֭מַקּוּ",
+      "gloss": "zerfließen"
+    },
+    {
+      "surface": "חַבּוּרֹתָ֑י",
+      "gloss": "meine Striemen"
+    },
+    {
+      "surface": "מִ֝פְּנֵ֗י",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "אִוַּלְתִּֽי",
+      "gloss": "meiner Torheit"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:43.572504978Z",
+  "model": "glm-5.2"
+}

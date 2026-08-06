@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 121,
+  "translation": "Am Tag wird die Sonne dich nicht schlagen, und der Mond in der Nacht.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die Sonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "wird schlagen"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "und der Mond"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in der Nacht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:19.097786634Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und sie wurde schwanger und gebar einen Sohn, und sie sagte: „Elohim hat ⟨את⟩ meine Schande weggenommen.“",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Und sie wurde schwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "und gebar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "einen Sohn"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "und sie sagte"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "hat weggenommen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Schande"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "meine Schande"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:36.765911520Z",
+  "model": "glm-5.2"
+}

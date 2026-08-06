@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ⟨er⟩ schickte seine Pfeile und zerstreute sie, und Blitzesfälle, und verwirrte sie.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַח",
+      "gloss": "und ⟨er⟩ schickte"
+    },
+    {
+      "surface": "חִצָּיו",
+      "gloss": "seine Pfeile"
+    },
+    {
+      "surface": "וַיְפִיצֵם",
+      "gloss": "und zerstreute sie"
+    },
+    {
+      "surface": "וּבְרָקִים",
+      "gloss": "und Blitzesfälle"
+    },
+    {
+      "surface": "רָב",
+      "gloss": "⟨er⟩ schoss"
+    },
+    {
+      "surface": "וַיְהֻמֵּם",
+      "gloss": "und verwirrte sie"
+    }
+  ],
+  "timestamp": "2026-08-06T09:13:49.241761596Z",
+  "model": "glm-5.2"
+}

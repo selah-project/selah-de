@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Denn Mund des Frevlers und Mund des Trugs haben sich gegen mich geöffnet, ⟨sie⟩ haben mit mir geredet — Zunge der Lüge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Mund"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "des Frevlers"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "und Mund"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "des Trugs"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gegen mich"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "haben sich geöffnet"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "⟨sie⟩ haben geredet"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "mit mir"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "Zunge"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "der Lüge"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:48.645666066Z",
+  "model": "glm-5.2"
+}

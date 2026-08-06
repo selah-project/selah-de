@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Ein Umhergehender als Verleumder offenbart ⟨ein⟩ Sod, aber ein Treuer im Geist bedeckt ⟨die⟩ Sache.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Ein Umhergehender"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "als Verleumder"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "offenbart"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨ein⟩ Sod"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "aber ein Treuer"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "im Geist"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "bedeckt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨die⟩ Sache"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:16.510017451Z",
+  "model": "glm-5.2"
+}

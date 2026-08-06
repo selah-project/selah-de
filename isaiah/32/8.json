@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Der Edle aber plant Edles, und über Edlem wird er stehen.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "der Edle aber"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "Edles"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "plant"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und er"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "Edlem"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "wird stehen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:15:55.237568356Z",
+  "model": "glm-5.2"
+}

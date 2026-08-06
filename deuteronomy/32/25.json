@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Draußen wird ⟨die⟩ Schwert berauben und drinnen Schrecken — sowohl den jungen Mann als auch die Jungfrau, ⟨den⟩ Säugling ⟨zusammen⟩ mit dem Mann ⟨im⟩ Greisenalter.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "Draußen"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "wird berauben"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨die⟩ Schwert"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "und drinnen"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "Schrecken"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sowohl"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "den jungen Mann"
+    },
+    {
+      "surface": "גם",
+      "gloss": "als auch"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "die Jungfrau"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "⟨den⟩ Säugling"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zusammen mit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dem Mann"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "im Greisenalter"
+    }
+  ],
+  "timestamp": "2026-08-05T20:51:14.609340563Z",
+  "model": "glm-5.2"
+}

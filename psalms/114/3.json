@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 114,
+  "translation": "Das Meer sah ⟨es⟩ und floh, der Jordan wandte sich rückwärts.",
+  "tokens": [
+    {
+      "surface": "הַיָּ֣ם",
+      "gloss": "Das Meer"
+    },
+    {
+      "surface": "רָ֭אָה",
+      "gloss": "sah"
+    },
+    {
+      "surface": "וַיָּנֹ֑ס",
+      "gloss": "und floh"
+    },
+    {
+      "surface": "הַ֝יַּרְדֵּ֗ן",
+      "gloss": "der Jordan"
+    },
+    {
+      "surface": "יִסֹּ֥ב",
+      "gloss": "wandte sich"
+    },
+    {
+      "surface": "לְאָחֽוֹר",
+      "gloss": "rückwärts"
+    }
+  ],
+  "timestamp": "2026-08-06T20:40:21.602622753Z",
+  "model": "glm-5.2"
+}

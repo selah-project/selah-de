@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Damit dein Fuß badet im Blut, ⟨die⟩ Zunge deiner Hunde ⟨hat⟩ ihren Anteil von den Feinden, davon.“",
+  "tokens": [
+    {
+      "surface": "לְמַ֤עַן",
+      "gloss": "damit"
+    },
+    {
+      "surface": "תִּֽמְחַ֥ץ",
+      "gloss": "badet"
+    },
+    {
+      "surface": "רַגְלְךָ֗",
+      "gloss": "dein Fuß"
+    },
+    {
+      "surface": "בְּ֫דָ֥ם",
+      "gloss": "im Blut"
+    },
+    {
+      "surface": "לְשׁ֥וֹן",
+      "gloss": "⟨die⟩ Zunge"
+    },
+    {
+      "surface": "כְּלָבֶ֑יךָ",
+      "gloss": "deiner Hunde"
+    },
+    {
+      "surface": "מֵאֹיְבִ֥ים",
+      "gloss": "von den Feinden"
+    },
+    {
+      "surface": "מִנֵּֽהוּ",
+      "gloss": "davon"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:25.744367729Z",
+  "model": "glm-5.2"
+}

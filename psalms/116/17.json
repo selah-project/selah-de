@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Dir will ich schlachten ein Schlachtopfer des Dankes, und im Namen JHWHs will ich rufen.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Dir"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "will ich schlachten"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ein Schlachtopfer"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "des Dankes"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "und im Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "will ich rufen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:36.889483595Z",
+  "model": "glm-5.2"
+}

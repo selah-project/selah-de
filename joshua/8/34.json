@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und danach las er ⟨את⟩ alle Worte der Tora, den Segen und den Fluch, gemäß allem, was geschrieben steht im Buch der Tora.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "und nach"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dem"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "las er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Worte der Tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "der Tora"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "den Segen"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "und den Fluch"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gemäß allem"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "was geschrieben steht"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "im Buch"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "der Tora"
+    }
+  ],
+  "timestamp": "2026-08-06T08:31:59.117576061Z",
+  "model": "glm-5.2"
+}

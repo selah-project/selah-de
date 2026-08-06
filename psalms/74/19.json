@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Gib nicht ⟨die⟩ Nefesch deiner Turteltaube ⟨dem⟩ Wildtier ⟨preise⟩, ⟨das⟩ Leben deiner Geplagten vergiss nicht für immer.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gib"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "⟨dem⟩ Wildtier"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "deiner Turteltaube"
+    },
+    {
+      "surface": "חית",
+      "gloss": "Leben"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "deiner Geplagten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergiss"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "für immer"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:48.636527105Z",
+  "model": "glm-5.2"
+}

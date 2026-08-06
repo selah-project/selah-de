@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und JHWH Elohim machte für den Menschen und für seine Frau Gewänder aus Haut und bekleidete ⟨sie⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "und machte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "für den Menschen"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "und für seine Frau"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "Gewänder"
+    },
+    {
+      "surface": "עור",
+      "gloss": "aus Haut"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "und bekleidete ⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T19:54:17.200828856Z",
+  "model": "glm-5.2"
+}

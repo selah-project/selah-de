@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Er sprach, und es kam die Heuschrecke und der gefräßige Schwarm — und ⟨es gab⟩ keine Zahl.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Er sprach"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und es kam"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "die Heuschrecke"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "und der gefräßige Schwarm"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es gab⟩ keine"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "Zahl"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:28.136543269Z",
+  "model": "glm-5.2"
+}

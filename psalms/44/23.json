@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Denn um deinetwillen werden wir getötet den ganzen Tag, wie Schlachtschaf werden wir geachtet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "um deinetwillen"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "werden wir getötet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "werden wir geachtet"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "wie Schlachtschaf"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:30.580480145Z",
+  "model": "glm-5.2"
+}

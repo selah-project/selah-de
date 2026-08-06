@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Jericho war verschlossen, eingeschlossen vor den Söhnen Jisraels — keiner ging hinaus und keiner kam hinein.",
+  "tokens": [
+    {
+      "surface": "וִֽירִיחוֹ֙",
+      "gloss": "Und Jericho"
+    },
+    {
+      "surface": "סֹגֶ֣רֶת",
+      "gloss": "war verschlossen"
+    },
+    {
+      "surface": "וּמְסֻגֶּ֔רֶת",
+      "gloss": "eingeschlossen"
+    },
+    {
+      "surface": "מִפְּנֵ֖י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "keiner"
+    },
+    {
+      "surface": "יוֹצֵ֖א",
+      "gloss": "ging hinaus"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "und keiner"
+    },
+    {
+      "surface": "בָּֽא",
+      "gloss": "kam hinein"
+    }
+  ],
+  "timestamp": "2026-08-06T21:11:07.152610774Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 2:19",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und als sich Jungfrauen ein zweites Mal versammelten, saß Mordechai im Tor des Königs.",
+  "tokens": [
+    {
+      "surface": "ובהקבץ",
+      "gloss": "Und als sich versammelten"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "Jungfrauen"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ein zweites Mal"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "saß"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "im Tor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:31.231451314Z",
+  "model": "glm-5.2"
+}

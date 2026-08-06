@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 6:20",
+  "book": "job",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Beschämt sind ⟨sie⟩, denn ⟨sie⟩ vertrauten; ⟨sie⟩ kamen bis zu ⟨ihrem Wasser⟩ und wurden enttäuscht.",
+  "tokens": [
+    {
+      "surface": "בשו",
+      "gloss": "beschämt sind ⟨sie⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "⟨sie⟩ vertrauten"
+    },
+    {
+      "surface": "באו",
+      "gloss": "⟨sie⟩ kamen"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "bis zu ⟨ihrem Wasser⟩"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "und wurden enttäuscht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:32:31.953671963Z",
+  "model": "glm-5.2"
+}

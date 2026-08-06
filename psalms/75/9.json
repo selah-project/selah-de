@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 75,
+  "translation": "Denn ⟨ein⟩ Becher ⟨ist⟩ in der Hand JHWHs, und Wein, gegoren, voll von Mischung; und er schenkt daraus aus — nur seine Hefen pressen aus, trinken alle Frevler der Erde.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כ֪וֹס",
+      "gloss": "Becher"
+    },
+    {
+      "surface": "בְּֽיַד",
+      "gloss": "in der Hand"
+    },
+    {
+      "surface": "יְהוָ֡ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וְיַ֤יִן",
+      "gloss": "und Wein"
+    },
+    {
+      "surface": "חָמַ֨ר",
+      "gloss": "gegoren"
+    },
+    {
+      "surface": "מָ֥לֵא",
+      "gloss": "voll"
+    },
+    {
+      "surface": "מֶסֶךְ֮",
+      "gloss": "von Mischung"
+    },
+    {
+      "surface": "וַיַּגֵּ֪ר",
+      "gloss": "und er schenkt aus"
+    },
+    {
+      "surface": "מִ֫זֶּ֥ה",
+      "gloss": "darausus"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "nur"
+    },
+    {
+      "surface": "שְׁמָרֶיהָ",
+      "gloss": "seine Hefen"
+    },
+    {
+      "surface": "יִמְצ֣וּ",
+      "gloss": "pressen aus"
+    },
+    {
+      "surface": "יִשְׁתּ֑וּ",
+      "gloss": "trinken"
+    },
+    {
+      "surface": "כֹּ֝֗ל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רִשְׁעֵי",
+      "gloss": "Frevler"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:43.127186444Z",
+  "model": "glm-5.2"
+}

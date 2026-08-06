@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und dem Dawid wurden Söhne geboren in Chevron; und ⟨sein⟩ Erstgeborener war Amnon, von Achinoam, der Jisreëlitin.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "und ⟨es⟩ wurden geboren"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dem Dawid"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "in Chevron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨er war⟩"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "⟨sein⟩ Erstgeborener"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "von Achinoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "der Jisreëlitin"
+    }
+  ],
+  "timestamp": "2026-08-06T01:12:56.341740122Z",
+  "model": "glm-5.2"
+}

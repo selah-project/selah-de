@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Glückselig deine Männer, und glückselig deine Knechte, diese, die ständig vor dir stehen und ⟨את⟩ deine Weisheit hören!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Glückselig"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "deine Männer"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "und glückselig"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "deine Knechte"
+    },
+    {
+      "surface": "אלה",
+      "gloss": " diese"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "die stehen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständig"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "und hören"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Weisheit"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "deine Weisheit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:56:02.130403610Z",
+  "model": "glm-5.2"
+}

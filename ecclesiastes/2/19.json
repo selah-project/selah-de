@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 2:19",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und wer weiß, ob ⟨der⟩ Weise ⟨sein wird⟩ oder ein Tor? Und er wird herrschen über all mein Mühen, das ich mühte und worin ich weise war, unter der Sonne. Auch das ⟨ist⟩ Hauch.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Und wer"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "weiß"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "ob ⟨der⟩ Weise"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨sein wird⟩"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ein Tor"
+    },
+    {
+      "surface": "וישלט",
+      "gloss": "Und er wird herrschen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "über all"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "mein Mühen"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "das ich mühte"
+    },
+    {
+      "surface": "ושחכמתי",
+      "gloss": "und worin ich weise war"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Auch"
+    },
+    {
+      "surface": "זה",
+      "gloss": "das"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hauch"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:57.099867133Z",
+  "model": "glm-5.2"
+}

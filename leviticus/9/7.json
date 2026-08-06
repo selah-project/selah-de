@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Mosche sprach zu Aharon: „Tritt heran an den Altar und mach ⟨את⟩ dein Sündopfer und ⟨את⟩ dein Aufsteigendes und bring Sühnung für dich und für das Volk; und mach ⟨את⟩ das Korban des Volkes und bring Sühnung für sie, so wie JHWH geboten hat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "Tritt heran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "und mach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Sündopfer"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "dein Sündopfer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "dein Aufsteigendes"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "dein Aufsteigendes"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "und bring Sühnung"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "für dich"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "und für"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "und mach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Korban des Volkes"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "das Korban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "und bring Sühnung"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T14:53:35.883447063Z",
+  "model": "glm-5.2"
+}

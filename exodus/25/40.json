@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und sieh und mache ⟨es⟩ nach ihrer Bauform, die dir gezeigt wird auf dem Berg.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Und sieh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "und mache"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "nach ihrer Bauform"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "dir"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "gezeigt wird"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "auf dem Berg"
+    }
+  ],
+  "timestamp": "2026-08-05T20:12:32.003432449Z",
+  "model": "glm-5.2"
+}

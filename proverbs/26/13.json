@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "⟨Der⟩ Faule sagt: Ein Löwe ⟨ist⟩ auf dem Weg, ein junger Löwe ⟨ist⟩ zwischen den Plätzen.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sagt"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "⟨Der⟩ Faule"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ein Löwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "ein junger Löwe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "den Plätzen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:14:31.500375413Z",
+  "model": "glm-5.2"
+}

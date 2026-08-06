@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Die hinabsteigen zum Meer in Schiffen, die Arbeit tun in großen Wassern.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "Die hinabsteigen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "zum Meer"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "in Schiffen"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "die tun"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "Arbeit"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in Wassern"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "großen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:03.765449817Z",
+  "model": "glm-5.2"
+}

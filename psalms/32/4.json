@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Denn Tag und Nacht lastete deine Hand schwer auf mir; ⟨mein⟩ Saft ward verwandelt ⟨in⟩ die Dürre des Sommers. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "und Nacht"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "lastete schwer"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "auf mir"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ward verwandelt"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "⟨mein⟩ Saft"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "⟨in⟩ die Dürre"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "des Sommers"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:01.296145831Z",
+  "model": "glm-5.2"
+}

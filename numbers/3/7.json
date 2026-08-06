@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und sie sollen seine Wache halten und ⟨את⟩ die Wache der ganzen Versammlung vor dem Zelt der Begegnung, um ⟨את⟩ den Dienst des Mischkan zu versehen.",
+  "tokens": [
+    {
+      "surface": "וְשָׁמְר֣וּ",
+      "gloss": "und sie sollen halten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Wache"
+    },
+    {
+      "surface": "מִשְׁמַרְתּ֗וֹ",
+      "gloss": "seine Wache"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Wache der ganzen Versammlung"
+    },
+    {
+      "surface": "מִשְׁמֶ֨רֶת֙",
+      "gloss": "Wache"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "הָ֣עֵדָ֔ה",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אֹ֣הֶל",
+      "gloss": "Zelt"
+    },
+    {
+      "surface": "מוֹעֵ֑ד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "לַעֲבֹ֖ד",
+      "gloss": "um zu versehen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Dienst des Mischkan"
+    },
+    {
+      "surface": "עֲבֹדַ֥ת",
+      "gloss": "Dienst"
+    },
+    {
+      "surface": "הַמִּשְׁכָּֽן",
+      "gloss": "des Mischkan"
+    }
+  ],
+  "timestamp": "2026-08-06T00:31:36.177765541Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 73,
+  "translation": "Und ⟨ich⟩ wurde getroffen den ganzen Tag, und ⟨meine⟩ Züchtigung jeden Morgen.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "und ⟨ich⟩ wurde"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "getroffen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "und ⟨meine⟩ Züchtigung"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "jeden Morgen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:19.283832300Z",
+  "model": "glm-5.2"
+}

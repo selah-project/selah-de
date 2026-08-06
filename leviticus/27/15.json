@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und wenn der, der ⟨es⟩ geweiht hat, ⟨את⟩ sein Haus lösen wird, dann soll er ein Fünftel des Silbers deiner Schätzung darauf hinzufügen, und es soll ihm gehören.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "der Weiher"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "lösen wird"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Haus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sein Haus"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "dann soll er hinzufügen"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "ein Fünftel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "des Silbers"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "deiner Schätzung"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und es soll sein"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T02:14:21.104510558Z",
+  "model": "glm-5.2"
+}

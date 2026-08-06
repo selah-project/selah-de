@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Er sandte vor ihnen einen Mann — zum Knecht verkauft wurde Josefs.",
+  "tokens": [
+    {
+      "surface": "שָׁלַ֣ח",
+      "gloss": "Er sandte"
+    },
+    {
+      "surface": "לִפְנֵיהֶ֣ם",
+      "gloss": "vor ihnen"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "einen Mann"
+    },
+    {
+      "surface": "לְ֝עֶ֗בֶד",
+      "gloss": "zum Knecht"
+    },
+    {
+      "surface": "נִמְכַּ֥ר",
+      "gloss": "verkauft wurde"
+    },
+    {
+      "surface": "יוֹסֵֽף",
+      "gloss": "Josefs"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:42.110556746Z",
+  "model": "glm-5.2"
+}

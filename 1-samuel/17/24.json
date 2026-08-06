@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und jeder Mann von Jisraël — als sie ⟨את⟩ den Mann sahen, flohen sie vor seinem Angesicht und fürchteten sich sehr.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "und jeder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisraël"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "als sie sahen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Mann"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "den Mann"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "flohen sie"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "vor seinem Angesicht"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "und fürchteten sich"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T01:07:08.397145189Z",
+  "model": "glm-5.2"
+}

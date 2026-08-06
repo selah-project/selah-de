@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 75,
+  "translation": "Und ich, ich will verkünden für immer; ich will besingen den Elohim Jaakows.",
+  "tokens": [
+    {
+      "surface": "וְ֭אֲנִי",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "אַגִּ֣יד",
+      "gloss": "ich will verkünden"
+    },
+    {
+      "surface": "לְעֹלָ֑ם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "אֲזַמְּרָ֗ה",
+      "gloss": "ich will besingen"
+    },
+    {
+      "surface": "לֵאלֹהֵ֥י",
+      "gloss": "den Elohim"
+    },
+    {
+      "surface": "יַעֲקֹֽב",
+      "gloss": "Jaakows"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:43.127364192Z",
+  "model": "glm-5.2"
+}

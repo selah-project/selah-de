@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Mit meiner Stimme rufe ich zu JHWH, und er antwortet mir von seinem heiligen Berg. Sela.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Mit meiner Stimme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "rufe ich"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "und er antwortet mir"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "von seinem Berg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "⟨seinem⟩ heiligen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:05.318684254Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und sie nahmen ⟨את⟩ ihre Töchter sich zu Frauen und ⟨את⟩ ihre Töchter gaben sie ihren Söhnen, und sie dienten ⟨את⟩ ihren Göttern.",
+  "tokens": [
+    {
+      "surface": "וַיִּקְח֨וּ",
+      "gloss": "Und sie nahmen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Töchter"
+    },
+    {
+      "surface": "בְּנוֹתֵיהֶ֤ם",
+      "gloss": "ihre Töchter"
+    },
+    {
+      "surface": "לָהֶם֙",
+      "gloss": "sich"
+    },
+    {
+      "surface": "לְנָשִׁ֔ים",
+      "gloss": "zu Frauen"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Töchter"
+    },
+    {
+      "surface": "בְּנוֹתֵיהֶ֖ם",
+      "gloss": "ihre Töcher"
+    },
+    {
+      "surface": "נָתְנ֣וּ",
+      "gloss": "gaben"
+    },
+    {
+      "surface": "לִבְנֵיהֶ֑ם",
+      "gloss": "ihren Söhnen"
+    },
+    {
+      "surface": "וַיַּעַבְד֖וּ",
+      "gloss": "und sie dienten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Göttern"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶֽם",
+      "gloss": "ihren Göttern"
+    }
+  ],
+  "timestamp": "2026-08-06T00:56:01.411624367Z",
+  "model": "glm-5.2"
+}

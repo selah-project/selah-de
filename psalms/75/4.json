@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 75,
+  "translation": "Es schmilzt ⟨die⟩ Erde und alle, die sie bewohnen; ich selbst habe ihre Säulen fest gegründet. Sela.",
+  "tokens": [
+    {
+      "surface": "נְֽמֹגִ֗ים",
+      "gloss": "es schmilzt"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "יֹשְׁבֶ֑יהָ",
+      "gloss": "die sie bewohnen"
+    },
+    {
+      "surface": "אָנֹכִ֨י",
+      "gloss": "ich selbst"
+    },
+    {
+      "surface": "תִכַּ֖נְתִּי",
+      "gloss": "habe fest gegründet"
+    },
+    {
+      "surface": "עַמּוּדֶ֣יהָ",
+      "gloss": "ihre Säulen"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:48.994853063Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 12:4",
+  "book": "job",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Ein Gelächter ⟨für⟩ seinen Genossen bin ich geworden — einer, der zu Eloah ruft, und ⟨er⟩ antwortet ihm — ein Gelächter ⟨ist⟩ der Gerechte, der Untadelige!",
+  "tokens": [
+    {
+      "surface": "שחק",
+      "gloss": "Ein Gelächter"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "⟨für⟩ seinen Genossen"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bin ich geworden"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "der ruft"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "zu Eloah"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "und ⟨er⟩ antwortet ihm"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "ein Gelächter"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "der Gerechte"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "der Untadelige"
+    }
+  ],
+  "timestamp": "2026-08-05T23:17:59.065043710Z",
+  "model": "glm-5.2"
+}

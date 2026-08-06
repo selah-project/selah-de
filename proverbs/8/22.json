@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 8:22",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "JHWH schuf mich als Anfang seines Weges, als Erstes seiner Werke, von damals an.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "קנני",
+      "gloss": "schuf mich"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "als Anfang"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "seines Weges"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "als Erstes"
+    },
+    {
+      "surface": "מפעליו",
+      "gloss": "seiner Werke"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "von damals an"
+    }
+  ],
+  "timestamp": "2026-08-05T23:09:13.263146090Z",
+  "model": "glm-5.2"
+}

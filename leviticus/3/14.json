@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und er bringe davon als Korban davon ⟨ein⟩ Feueropfer für JHWH ⟨dar⟩: ⟨את⟩ das Fett, das ⟨את⟩ das Eingeweide bedeckt, und ⟨את⟩ all das Fett, das auf dem Eingeweide ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "וְהִקְרִ֤יב",
+      "gloss": "Und er bringe dar"
+    },
+    {
+      "surface": "מִמֶּ֨נּוּ֙",
+      "gloss": "davon"
+    },
+    {
+      "surface": "קָרְבָּנ֔וֹ",
+      "gloss": "als Korban"
+    },
+    {
+      "surface": "אִשֶּׁ֖ה",
+      "gloss": "Feueropfer"
+    },
+    {
+      "surface": "לַֽיהוָ֑ה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Fett"
+    },
+    {
+      "surface": "הַחֵ֨לֶב֙",
+      "gloss": "das Fett"
+    },
+    {
+      "surface": "הַֽמְכַסֶּ֣ה",
+      "gloss": "das bedeckt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Eingeweide"
+    },
+    {
+      "surface": "הַקֶּ֔רֶב",
+      "gloss": "das Eingeweide"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "und ⟨את⟩",
+      "marks": "all das Fett"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הַחֵ֔לֶב",
+      "gloss": "das Fett"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הַקֶּֽרֶב",
+      "gloss": "dem Eingeweide"
+    }
+  ],
+  "timestamp": "2026-08-06T09:47:38.559801648Z",
+  "model": "glm-5.2"
+}

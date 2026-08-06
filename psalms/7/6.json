@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "so verfolge der Feind meine Nefesch und hole ⟨sie⟩ ein, und zertrappe zur Erde mein Leben, und meine Herrschaft wohne im Staub. Sela.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "verfolge"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "der Feind"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "ושיג",
+      "gloss": "und hole ⟨sie⟩ ein"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "und zertrappe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mein Leben"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "und meine Herrschaft"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "im Staub"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "wohne"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:47.959332736Z",
+  "model": "glm-5.2"
+}

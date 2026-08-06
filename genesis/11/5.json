@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und JHWH fuhr hinab, um ⟨את⟩ die Stadt und ⟨את⟩ den Turm zu sehen, den die Menschensöhne gebaut hatten.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "und fuhr hinab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "um zu sehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stadt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Turm"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "den Turm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "gebaut hatten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "des Menschen"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:19.894728612Z",
+  "model": "glm-5.2"
+}

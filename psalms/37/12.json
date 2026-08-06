@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Ein Frevler sinnt ⟨böses⟩ gegen den Gerechten und knirscht auf ihn ⟨mit⟩ seinen Zähnen.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "sinnt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ein Frevler"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "gegen den Gerechten"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "und knirscht"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "seinen Zähnen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:52.362907195Z",
+  "model": "glm-5.2"
+}

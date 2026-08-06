@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Der Einfassung gegenüber waren die Ringe, Behausungen für die Stangen, ⟨um⟩ ⟨den⟩ Tisch ⟨zu⟩ tragen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "der Einfassung"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "die Ringe"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "Behausungen"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "für die Stangen"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "zu tragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Tisch"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "den Tisch"
+    }
+  ],
+  "timestamp": "2026-08-06T05:18:17.264385962Z",
+  "model": "glm-5.2"
+}

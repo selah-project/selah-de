@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ⟨das⟩ große Haus verkleidete er mit Zypressenholz, und er überzog es mit gutem Gold, und er brachte darauf Palmsäulen und Ketten an.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das große Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "große"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "verkleidete"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "Holz"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "Zypressen"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "und er überzog es"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutem"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und er brachte an"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "Palmsäulen"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "und Ketten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:53:50.623664726Z",
+  "model": "glm-5.2"
+}

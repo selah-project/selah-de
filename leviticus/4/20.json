@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 4:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und er tue dem Stier, wie er dem Stier des Sündopfers getan hat, so tue er ihm, und der Kohen vollziehe Sühne für sie, und es wird ihnen vergeben.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Und er tue"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "dem Stier"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er getan hat"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "dem Stier"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "des Sündopfers"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tue er"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "und vollziehe Sühne"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "und es wird vergeben"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:08:49.865297436Z",
+  "model": "glm-5.2"
+}

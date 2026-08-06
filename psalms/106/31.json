@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und es wurde ihm als Zedaka gerechnet, für Generation und Generation, bis ⟨in die⟩ Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "Und es wurde gerechnet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "als Zedaka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "für Generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "und Generation"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:54.464453762Z",
+  "model": "glm-5.2"
+}

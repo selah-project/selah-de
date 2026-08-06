@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und das Herz der Übereilenden wird verstehen, zu erkennen, und die Zunge der Stammelnden wird eilen, Klarheit zu reden.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "und das Herz"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "der Übereilenden"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "wird verstehen"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "zu erkennen"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "und die Zunge"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "der Stammelnden"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "wird eilen"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "zu reden"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "Klarheit"
+    }
+  ],
+  "timestamp": "2026-08-06T01:45:47.128368334Z",
+  "model": "glm-5.2"
+}

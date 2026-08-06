@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Erwirb Weisheit, erwirb Einsicht, vergiss nicht und weiche nicht ab von den Worten meines Mundes!",
+  "tokens": [
+    {
+      "surface": "קְנֵ֣ה",
+      "gloss": "Erwirb"
+    },
+    {
+      "surface": "חָ֭כְמָה",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "קְנֵ֣ה",
+      "gloss": "erwirb"
+    },
+    {
+      "surface": "בִינָ֑ה",
+      "gloss": "Einsicht"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּשְׁכַּ֥ח",
+      "gloss": "vergiss"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תֵּ֝֗ט",
+      "gloss": "weiche ab"
+    },
+    {
+      "surface": "מֵֽאִמְרֵי",
+      "gloss": "von den Worten"
+    },
+    {
+      "surface": "פִֽי",
+      "gloss": "meines Mundes"
+    }
+  ],
+  "timestamp": "2026-08-05T23:08:48.955654079Z",
+  "model": "glm-5.2"
+}

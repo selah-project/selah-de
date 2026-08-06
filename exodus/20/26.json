@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und du sollst nicht auf Stufen zu meinem Altar hinaufsteigen, damit deine Blöße nicht auf ihm aufgedeckt wird.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Und nicht"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "sollst du hinaufsteigen"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "auf Stufen"
+    },
+    {
+      "surface": "על",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "meinem Altar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "damit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "aufgedeckt wird"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "deine Blöße"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:03.385859727Z",
+  "model": "glm-5.2"
+}

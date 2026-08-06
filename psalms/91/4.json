@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "Mit seiner Schwingfeder wird er dich beschatten, und unter seinen Flügeln wirst du dich bergen — Schild und Rundschirm ⟨ist⟩ seine Emet.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Mit seiner Schwingfeder"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "wird er dich beschatten"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dich"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "und unter"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "seinen Flügeln"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "wirst du dich bergen"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "Schild"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "und Rundschirm"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "seine Emet"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:35.375716929Z",
+  "model": "glm-5.2"
+}

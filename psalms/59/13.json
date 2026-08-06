@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "⟨Die⟩ Sünde ihres Mundes, ⟨das⟩ Wort ihrer Lippen — und ⟨sie⟩ sollen gefasst werden in ihrem Hochmut; und ⟨wegen⟩ Fluch und Lüge erzählen ⟨sie⟩.",
+  "tokens": [
+    {
+      "surface": "חַטַּאת",
+      "gloss": "Sünde"
+    },
+    {
+      "surface": "פִּ֗ימוֹ",
+      "gloss": "ihres Mundes"
+    },
+    {
+      "surface": "דְּֽבַר",
+      "gloss": "⟨das⟩ Wort"
+    },
+    {
+      "surface": "שְׂפָ֫תֵ֥ימוֹ",
+      "gloss": "ihrer Lippen"
+    },
+    {
+      "surface": "וְיִלָּכְד֥וּ",
+      "gloss": "und ⟨sie⟩ sollen gefasst werden"
+    },
+    {
+      "surface": "בִגְאוֹנָ֑ם",
+      "gloss": "in ihrem Hochmut"
+    },
+    {
+      "surface": "וּמֵאָלָ֖ה",
+      "gloss": "und ⟨wegen⟩ Fluch"
+    },
+    {
+      "surface": "וּמִכַּ֣חַשׁ",
+      "gloss": "und Lüge"
+    },
+    {
+      "surface": "יְסַפֵּֽרוּ",
+      "gloss": "erzählen ⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:21.914789253Z",
+  "model": "glm-5.2"
+}

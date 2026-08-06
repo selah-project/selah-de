@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Nicht mehr wird ⟨dem⟩ Törichten ein Edler genannt werden, und ⟨dem⟩ Knauserigen wird man nicht mehr sagen: ⟨er sei⟩ hochgesinnt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "wird genannt werden"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "⟨dem⟩ Törichten"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ein Edler"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "und ⟨dem⟩ Knauserigen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wird man sagen"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "hochgesinnt"
+    }
+  ],
+  "timestamp": "2026-08-06T01:46:06.698679366Z",
+  "model": "glm-5.2"
+}

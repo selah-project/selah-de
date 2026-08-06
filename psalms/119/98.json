@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Über meine Feinde machst du mich durch deine Mizwot weise — denn ⟨sie ist⟩ mir für immer ⟨da⟩.",
+  "tokens": [
+    {
+      "surface": "מֵ֭אֹ֣יְבַי",
+      "gloss": "Über meine Feinde"
+    },
+    {
+      "surface": "תְּחַכְּמֵ֣נִי",
+      "gloss": "machst du mich weise"
+    },
+    {
+      "surface": "מִצְוֺתֶ֑ךָ",
+      "gloss": "durch deine Mizwot"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "הִ֖יא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:13.475966886Z",
+  "model": "glm-5.2"
+}

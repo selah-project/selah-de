@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und JHWH sandte unter das Volk ⟨את⟩ die Schlangen, die Serafim, und sie bissen ⟨את⟩ das Volk, und vieles Volk aus Jisra'el starb.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "und sandte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "unter das Volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Schlangen"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "die Schlangen"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "die Serafim"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "und sie bissen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und ⟨es⟩ starb"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨an⟩ Volk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "vielem"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "aus Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-05T20:35:53.988095469Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "JHWH, unser Elohim — es haben uns Herren beherrscht außer dir. Nur in dir lassen wir deinen Namen aufleuchten.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "haben uns beherrscht"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "Herren"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "außer dir"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nur"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in dir"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "lassen wir aufleuchten"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:47:21.270310587Z",
+  "model": "glm-5.2"
+}

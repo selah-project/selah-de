@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und du sollst ⟨ein⟩ Becken aus Kupfer machen und ⟨sein⟩ Gestell aus Kupfer zum Waschen, und du sollst ⟨את⟩ es geben zwischen das Zelt der Begegnung und den Altar, und du sollst dort Wasser geben.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Und du sollst machen"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "⟨ein⟩ Becken"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "aus Kupfer"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "und ⟨sein⟩ Gestell"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "aus Kupfer"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "zum Waschen"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "und du sollst geben"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ es",
+      "marks": "es (das Becken)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "das Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "und du sollst geben"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dort"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T02:06:16.800109636Z",
+  "model": "glm-5.2"
+}

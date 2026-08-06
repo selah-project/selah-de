@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ein Mann, der ⟨mit⟩ der Frau seines Vaters schläft — ⟨er⟩ hat die Bloßstellung seines Vaters aufgedeckt. Sterben sollen sie getötet werden, beide; ihr Blut ⟨ist⟩ auf ihnen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Und ein Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "schläft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Frau seines Vaters"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨mit⟩ Frau"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "Bloßstellung"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "hat aufgedeckt"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Sterben"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "sollen getötet werden"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "beide"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ihr Blut"
+    },
+    {
+      "surface": "בם",
+      "gloss": "auf ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:21:07.182252157Z",
+  "model": "glm-5.2"
+}

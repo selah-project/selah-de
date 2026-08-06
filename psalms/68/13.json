@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Könige der Heere fliehen, sie fliehen, und ⟨die⟩ Daheimgebliebene teilt Beute.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Heere"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "fliehen"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "sie fliehen"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "und ⟨die⟩ Daheimgebliebene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨des⟩ Hauses"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "teilt"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Beute"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:18.937743702Z",
+  "model": "glm-5.2"
+}

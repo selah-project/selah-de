@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ich werde ⟨diesem⟩ Volk Chen geben in den Augen von Mizrajim. Und es wird geschehen, wenn ihr geht — ihr werdet nicht leer ausgehen.",
+  "tokens": [
+    {
+      "surface": "וְנָתַתִּ֛י",
+      "gloss": "Und ich werde geben"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Chen"
+    },
+    {
+      "surface": "חֵ֥ן",
+      "gloss": "Chen"
+    },
+    {
+      "surface": "הָֽעָם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "הַזֶּ֖ה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "בְּעֵינֵ֣י",
+      "gloss": "in den Augen von"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "וְהָיָה֙",
+      "gloss": "Und es wird geschehen"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "תֵֽלֵכ֔וּן",
+      "gloss": "ihr geht"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תֵלְכ֖וּ",
+      "gloss": "werdet ihr gehen"
+    },
+    {
+      "surface": "רֵיקָֽם",
+      "gloss": "leer"
+    }
+  ],
+  "timestamp": "2026-08-06T09:45:07.437082258Z",
+  "model": "glm-5.2"
+}

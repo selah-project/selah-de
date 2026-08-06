@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und ⟨את⟩ euch werde ich zerstreuen unter die Nationen, und ich werde ⟨das⟩ Schwert entblößen hinter euch, und euer Land wird zur Einöde, und eure Städte werden zur Trümmerstätte.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch als Objekt von אזרה"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "werde ich zerstreuen"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "unter die Nationen"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "und ich werde entblößen"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "hinter euch"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Schwert"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "und ⟨es⟩ wird sein"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "euer Land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "zur Einöde"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "und eure Städte"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "werden"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "zur Trümmerstätte"
+    }
+  ],
+  "timestamp": "2026-08-06T05:22:05.775048920Z",
+  "model": "glm-5.2"
+}

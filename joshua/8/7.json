@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ihr sollt aufstehen aus dem Hinterhalt und ⟨ihr sollt⟩ die Stadt einnehmen, und JHWH, euer Elohim, wird ⟨את⟩ sie in eure Hand geben.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "und ihr"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "sollt aufstehen"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "aus dem Hinterhalt"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "und ⟨ihr sollt⟩ einnehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stadt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "und wird geben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in eure Hand"
+    }
+  ],
+  "timestamp": "2026-08-06T00:51:35.103397147Z",
+  "model": "glm-5.2"
+}

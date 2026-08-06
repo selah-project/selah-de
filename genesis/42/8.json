@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und Jossief erkannte ⟨את⟩ seine Brüder, aber sie erkannten ihn nicht.",
+  "tokens": [
+    {
+      "surface": "וַיַּכֵּ֥ר",
+      "gloss": "Und erkannte"
+    },
+    {
+      "surface": "יוֹסֵ֖ף",
+      "gloss": "Jossief"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Brüder"
+    },
+    {
+      "surface": "אֶחָ֑יו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "וְהֵ֖ם",
+      "gloss": "aber sie"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הִכִּרֻֽהוּ",
+      "gloss": "erkannten ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T20:06:27.359452771Z",
+  "model": "glm-5.2"
+}

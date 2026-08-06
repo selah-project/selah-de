@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Denn ⟨es wird⟩ keine Zukunft ⟨geben⟩ für das Böse; die Leuchte der Frevler wird erlöschen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "keine"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨wird geben⟩"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "Zukunft"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "für das Böse"
+    },
+    {
+      "surface": "נר",
+      "gloss": "die Leuchte"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "wird erlöschen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:46.861170919Z",
+  "model": "glm-5.2"
+}

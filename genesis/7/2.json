@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Von allem ⟨dem⟩ Vieh, dem reinen, nimm dir sieben und sieben, Männchen und sein Weibchen; und von dem Vieh, das nicht rein ist, ⟨ist⟩ es, zwei, Männchen und sein Weibchen.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Von allem"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "⟨dem⟩ Vieh"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "dem reinen"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "nimm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "und sieben"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Männchen"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "und sein Weibchen"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "und von"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dem Vieh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "rein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ist⟩ es"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Männchen"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "und sein Weibchen"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:15.752544811Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und du sollst ⟨die⟩ Lewim heranbringen vor JHWH, und die Söhne Jisraels sollen ⟨ihre⟩ Hände auf ⟨die⟩ Lewim stützen.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "Und du sollst heranbringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lewim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Lewim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "und sie sollen stützen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Hände"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ihre Hände"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Lewim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:31:54.734687770Z",
+  "model": "glm-5.2"
+}

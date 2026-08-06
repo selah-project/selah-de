@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und ⟨er⟩ griff ⟨את⟩ Agag, den König von Amalek, lebendig, und ⟨את⟩ das ganze Volk weihte er dem Bann durch die Schärfe ⟨des⟩ Schwertes.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "Und ⟨er⟩ griff"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "von Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lebendig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das ganze Volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "weihte ⟨er⟩ dem Bann"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "durch die Schärfe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨des⟩ Schwertes"
+    }
+  ],
+  "timestamp": "2026-08-06T02:43:32.389712696Z",
+  "model": "glm-5.2"
+}

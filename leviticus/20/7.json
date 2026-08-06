@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ihr sollt euch heiligen, und ihr sollt heilig sein, denn ich bin JHWH, euer Elohim.",
+  "tokens": [
+    {
+      "surface": "וְהִ֨תְקַדִּשְׁתֶּ֔ם",
+      "gloss": "Und ihr sollt euch heiligen"
+    },
+    {
+      "surface": "וִהְיִיתֶ֖ם",
+      "gloss": "und ihr sollt sein"
+    },
+    {
+      "surface": "קְדֹשִׁ֑ים",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:22.727771722Z",
+  "model": "glm-5.2"
+}

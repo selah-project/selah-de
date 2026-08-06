@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und ⟨du⟩ hast heute kundgetan ⟨את⟩ das, was du an mir Gutes getan hast: ⟨את⟩ das, wobei JHWH mich in deine Hand eingeschlossen hatte, und du mich nicht getötet hast.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨du⟩ hast"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "kundgetan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was du an mir Gutes getan hast"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das, was"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "du getan hast"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "an mir"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, wobei JHWH mich in deine Hand eingeschlossen hatte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das, wobei"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "mich eingeschlossen hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in deine Hand"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "du mich getötet hast"
+    }
+  ],
+  "timestamp": "2026-08-06T01:10:15.712519704Z",
+  "model": "glm-5.2"
+}

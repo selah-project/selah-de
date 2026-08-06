@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "Bis wann ⟨die⟩ Frevler, JHWH? Bis wann ⟨die⟩ Frevler jauchzen —",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "מָתַ֖י",
+      "gloss": "wann"
+    },
+    {
+      "surface": "רְשָׁעִ֥ים",
+      "gloss": "⟨die⟩ Frevler"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "מָ֝תַ֗י",
+      "gloss": "wann"
+    },
+    {
+      "surface": "רְשָׁעִ֥ים",
+      "gloss": "⟨die⟩ Frevler"
+    },
+    {
+      "surface": "יַעֲלֹֽזוּ",
+      "gloss": "jauchzen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:10.777946824Z",
+  "model": "glm-5.2"
+}

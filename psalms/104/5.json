@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "⟨Er⟩ gründete ⟨את⟩ die Erde auf ihren Fundamenten — ⟨sie⟩ wird nicht wanken, für immer und ewig.",
+  "tokens": [
+    {
+      "surface": "יָֽסַד",
+      "gloss": "gründete"
+    },
+    {
+      "surface": "אֶ֭רֶץ",
+      "gloss": "⟨את⟩ die Erde",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מְכוֹנֶ֑יהָ",
+      "gloss": "ihren Fundamenten"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּ֝מּ֗וֹט",
+      "gloss": "⟨sie⟩ wird wanken"
+    },
+    {
+      "surface": "עוֹלָ֥ם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "וָעֶֽד",
+      "gloss": "und ewig"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:11.365424466Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und JHWH, dein Elohim, wird ⟨את⟩ all diese Flüche legen auf deine Feinde und auf die, die dich hassen, die dich verfolgt haben.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "und wird legen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all diese Flüche"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "diese Flüche"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "deine Feinde"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "die dich hassen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "dich verfolgt haben"
+    }
+  ],
+  "timestamp": "2026-08-05T20:50:56.155805295Z",
+  "model": "glm-5.2"
+}

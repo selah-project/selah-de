@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 36:10",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und Baruch las im Buch ⟨את⟩ die Worte Jirmejahus im Haus JHWHs, in der Zelle Gemarjahus, des Sohnes Schafans, des Schreibers, im oberen Vorhof am Eingang des neuen Tors des Hauses JHWHs, vor den Ohren des ganzen Volkes.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und ⟨er⟩ las"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruch"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "im Buch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "in der Zelle"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "Gemarjahus"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Schafans"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "des Schreibers"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "im Vorhof"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "oberen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am Eingang"
+    },
+    {
+      "surface": "שער",
+      "gloss": "Tors"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "des neuen"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "vor den Ohren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "des ganzen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volkes"
+    }
+  ],
+  "timestamp": "2026-08-06T08:58:54.358529278Z",
+  "model": "glm-5.2"
+}

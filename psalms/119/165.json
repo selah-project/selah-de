@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Schalom in Fülle haben die, die deine Tora lieben, und ⟨es gibt⟩ für sie kein Straucheln.",
+  "tokens": [
+    {
+      "surface": "שָׁל֣וֹם",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "רָ֭ב",
+      "gloss": "in Fülle"
+    },
+    {
+      "surface": "לְאֹהֲבֵ֣י",
+      "gloss": "haben die, die … lieben"
+    },
+    {
+      "surface": "תוֹרָתֶ֑ךָ",
+      "gloss": "deine Tora"
+    },
+    {
+      "surface": "וְאֵֽין",
+      "gloss": "und ⟨es gibt⟩ nicht"
+    },
+    {
+      "surface": "לָ֥מוֹ",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "מִכְשֽׁוֹל",
+      "gloss": "Straucheln"
+    }
+  ],
+  "timestamp": "2026-08-06T20:40:28.390825328Z",
+  "model": "glm-5.2"
+}

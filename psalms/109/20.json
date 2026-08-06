@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Dies ⟨sei⟩ das Werk meiner Ankläger von seiten JHWHs, ⟨auch⟩ derer, die Böses reden gegen meine Nefesch.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dies"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "das Werk"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "meiner Ankläger"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "von seiten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "und derer, die reden"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:25.318115513Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Nicht soll ⟨es⟩ dir geben in deinem Haus Efa und Efa, große und kleine.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "dir"
+    },
+    {
+      "surface": "בְּבֵיתְךָ֖",
+      "gloss": "in deinem Haus"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "Efa"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "und Efa"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "große"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "und kleine"
+    }
+  ],
+  "timestamp": "2026-08-06T08:29:55.083336811Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Dawid erfuhr, dass Schaul im Stillen das Unheil gegen ihn plante, und er sagte zu Awjatar, dem Kohen: „Bring ⟨doch⟩ das Efod her.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Und ⟨es⟩ erfuhr"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "gegen ihn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "im Stillen plant"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "das Unheil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Awjatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "dem Kohen"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Bring her"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "das Efod"
+    }
+  ],
+  "timestamp": "2026-08-06T02:45:59.166825333Z",
+  "model": "glm-5.2"
+}

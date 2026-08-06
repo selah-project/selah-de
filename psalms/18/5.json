@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Stricke des Todes umfingen mich, und Wildbäche der Vernichtung schreckten mich.",
+  "tokens": [
+    {
+      "surface": "אײפפוני",
+      "gloss": "umfingen mich"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "Stricke"
+    },
+    {
+      "surface": "מות",
+      "gloss": "des Todes"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "und Wildbäche"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "der Vernichtung"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "schreckten mich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:36.583179026Z",
+  "model": "glm-5.2"
+}

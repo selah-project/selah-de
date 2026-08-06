@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und er rief zu Mosche und zu Aharon in der Nacht und sagte: „Steht auf, zieht aus aus der Mitte meines Volkes, auch ihr, auch die Söhne Jisraels, und geht, dient ⟨את⟩ JHWH, wie ihr gesprochen habt.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und er rief"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "zu Mosche"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "und zu Aharon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Steht auf"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "zieht aus"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "aus der Mitte"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meines Volkes"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "und geht"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "dient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "wie ihr gesprochen habt"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:40.262105954Z",
+  "model": "glm-5.2"
+}

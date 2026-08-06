@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Du sollst dir den Weg bereiten und ⟨du sollst⟩ ⟨את⟩ die Grenze deines Landes, das dir JHWH, dein Elohim, zum Erbe gibt, in drei Teile zerlegen, damit dorthin jeder Totschläger fliehen kann.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "sollst … bereiten"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "und ⟨du sollst⟩ … in drei Teile zerlegen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Grenze deines Landes"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "die Grenze"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "deines Landes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "dir … zum Erbe gibt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "damit … kann"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "zu fliehen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "Totschläger"
+    }
+  ],
+  "timestamp": "2026-08-06T05:28:45.279828329Z",
+  "model": "glm-5.2"
+}

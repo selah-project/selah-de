@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 4:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und es wird geschehen: ⟨wer⟩ übriggeblieben ist in Zijon, und ⟨wer⟩ geblieben ist in Jeruschalajim, heilig wird er genannt werden, jeder, der ⟨zum⟩ Leben eingeschrieben ist in Jeruschalajim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "und es wird geschehen"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "der übriggebliebene"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Zijon"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "und der gebliebene"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeruschalajim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wird genannt werden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "der Eingeschriebene"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "zum Leben"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-06T10:10:37.795485097Z",
+  "model": "glm-5.2"
+}

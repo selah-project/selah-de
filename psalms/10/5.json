@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Es sind fest ⟨seine⟩ Wege zu jeder Zeit; hoch above ⟨sind⟩ deine Rechtsurteile, fern von ihm; alle seine Bedränger — er pustet ⟨gegen⟩ sie.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "sind fest"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "seine Wege"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zu jeder"
+    },
+    {
+      "surface": "עת",
+      "gloss": "Zeit"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hoch"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "deine Rechtsurteile"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "fern von ihm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "seine Bedränger"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "er pustet"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "gegen sie"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:10.369361128Z",
+  "model": "glm-5.2"
+}

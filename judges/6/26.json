@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 6:26",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "„Und baue ⟨einen⟩ Altar für JHWH, deinen Elohim, oben auf dieser Festung, in ⟨der⟩ Schichtung, und nimm ⟨את⟩ den zweiten Stier und bringe ⟨eine⟩ Ola dar mit dem Holz der Aschera, die du umhaust.“",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "Und baue"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "⟨einen⟩ Altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "oben"
+    },
+    {
+      "surface": "המעוז",
+      "gloss": "dieser Festung"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "במערכה",
+      "gloss": "in ⟨der⟩ Schichtung"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "und nimm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den zweiten Stier"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "den Stier"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den zweiten"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "und bringe dar"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "⟨eine⟩ Ola"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "mit dem Holz"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "der Aschera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "du umhaust"
+    }
+  ],
+  "timestamp": "2026-08-06T00:57:30.308475022Z",
+  "model": "glm-5.2"
+}

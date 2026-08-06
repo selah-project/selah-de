@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 83,
+  "translation": "Und sie sollen erkennen, dass du — dein Name ⟨ist⟩ JHWH — du allein ⟨der⟩ Höchste ⟨bist⟩ über der ganzen Erde!",
+  "tokens": [
+    {
+      "surface": "וְיֵדְעוּ",
+      "gloss": "Und sie sollen erkennen"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שִׁמְךָ",
+      "gloss": "dein Name"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לְבַדֶּךָ",
+      "gloss": "du allein"
+    },
+    {
+      "surface": "עֶלְיוֹן",
+      "gloss": "⟨der⟩ Höchste"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:01.302031733Z",
+  "model": "glm-5.2"
+}

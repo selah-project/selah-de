@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und schaffe Verdrossenheit weg aus deinem Herzen, und lass Böses von deinem Fleisch weichen; denn die Jugend und die Schwarzwolkheit sind Hauch.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Und schaffe weg"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "Verdrossenheit"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "aus deinem Herzen"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "und lass weichen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "von deinem Fleisch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "die Jugend"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "und die Schwarzwolkigkeit"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hauch"
+    }
+  ],
+  "timestamp": "2026-08-06T07:10:27.836839724Z",
+  "model": "glm-5.2"
+}

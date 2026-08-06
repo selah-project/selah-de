@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Haus Jaakows, kommt und ⟨lasst uns⟩ gehen im Licht JHWHs!",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakows"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "und ⟨lasst uns⟩ gehen"
+    },
+    {
+      "surface": "באור",
+      "gloss": "im Licht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-05T21:42:55.409360568Z",
+  "model": "glm-5.2"
+}

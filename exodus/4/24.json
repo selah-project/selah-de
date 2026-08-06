@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und es geschah auf dem Weg, in der Herberge: JHWH traf ihn und suchte ihn zu töten.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "in der Herberge"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "da traf ihn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "und suchte"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ihn zu töten"
+    }
+  ],
+  "timestamp": "2026-08-05T20:06:58.596356679Z",
+  "model": "glm-5.2"
+}

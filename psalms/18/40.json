@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und du gürtetest mich mit Kraft für den Kampf; du beugtest meine Aufsteher unter mich.",
+  "tokens": [
+    {
+      "surface": "וַתְּאַזְּרֵ֣נִי",
+      "gloss": "Und du gürtetest mich"
+    },
+    {
+      "surface": "חַ֭יִל",
+      "gloss": "mit Kraft"
+    },
+    {
+      "surface": "לַמִּלְחָמָ֑ה",
+      "gloss": "für den Kampf"
+    },
+    {
+      "surface": "תַּכְרִ֖יעַ",
+      "gloss": "du beugtest"
+    },
+    {
+      "surface": "קָמַ֣י",
+      "gloss": "meine Aufsteher"
+    },
+    {
+      "surface": "תַּחְתָּֽי",
+      "gloss": "unter mich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:14.236776830Z",
+  "model": "glm-5.2"
+}

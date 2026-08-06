@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Siehe, ⟨für⟩ Zedek wird ein König regieren, und ⟨die⟩ Fürsten ⟨für⟩ Mischpat herrschen.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "⟨für⟩ Zedek"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "wird regieren"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ein König"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "und ⟨die⟩ Fürsten"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "⟨für⟩ Mischpat"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "herrschen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:15:53.625415492Z",
+  "model": "glm-5.2"
+}

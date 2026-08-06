@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und Jojada zeugte ⟨את⟩ Jonatan, und Jonatan zeugte ⟨את⟩ Jaddua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Und Jojada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "und Jonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaddua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Jaddua"
+    }
+  ],
+  "timestamp": "2026-08-05T23:44:42.648369700Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "Nicht die Toten loben Jah, und nicht alle, die hinabsteigen in ⟨die⟩ Stille.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "die Toten"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "loben"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "die hinabsteigen"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "in ⟨die⟩ Stille"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:05.497880663Z",
+  "model": "glm-5.2"
+}

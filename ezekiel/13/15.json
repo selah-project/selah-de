@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 13:15",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und ich werde mein Glühen vollenden ⟨an⟩ ⟨את⟩ der Mauer und an den Tünchern, die sie bestreichen mit losem Mörtel, und ich werde zu euch sagen: Die Mauer ist nicht da, und die Tüncher sind nicht da, ⟨die sie bestreichen⟩.",
+  "tokens": [
+    {
+      "surface": "וכליתי",
+      "gloss": "Und ich werde vollenden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Glühen"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "mein Glühen"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "an der Mauer"
+    },
+    {
+      "surface": "ובטחים",
+      "gloss": "und an den Tünchern"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "loser Mörtel"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "loser Mörtel"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und ich werde sagen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "zu euch"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nicht da ⟨ist⟩"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "die Mauer"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und nicht da ⟨sind⟩"
+    },
+    {
+      "surface": "הטחים",
+      "gloss": "die Tüncher"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨die sie bestreichen⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T06:20:18.644785849Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Am Tag meiner Bedrängnis — Adonai suchte ich; meine Hand in der Nacht ward ausgestreckt und ließ nicht nach; ⟨meine⟩ Nefesch weigerte ⟨sich⟩ zu trösten.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Am Tag"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "meiner Bedrängnis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "suchte ich"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "meine Hand"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ward ausgestreckt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ließ nicht"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "nach"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "weigerte ⟨sich⟩"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "zu trösten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨meine⟩ Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:02.758777447Z",
+  "model": "glm-5.2"
+}

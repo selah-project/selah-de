@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Schaue ⟨darauf⟩, antworte mir, JHWH, mein Elohim! Erhelle meine Augen, damit ich nicht den Schlaf des Todes schlafe!",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Schaue"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antine mir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "Erhelle"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ich schlafe"
+    },
+    {
+      "surface": "המות",
+      "gloss": "den Schlaf des Todes"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:55.743619224Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er führte ⟨heran⟩ ⟨את⟩ den Stier des Sündopfers, und Aharon und seine Söhne stützten ⟨את⟩ ihre Hände auf den Kopf des Stieres des Sündopfers.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Und er führte heran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stier"
+    },
+    {
+      "surface": "פר",
+      "gloss": "Stier"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "des Sündopfers"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "und sie stützten"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Hände"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ihre Hände"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "(den) Kopf"
+    },
+    {
+      "surface": "פר",
+      "gloss": "des Stieres"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "des Sündopfers"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:45.451534395Z",
+  "model": "glm-5.2"
+}

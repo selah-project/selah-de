@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Mehr Einsicht als alle meine Lehrer habe ich erlangt, denn deine Zeugnisse sind mein Nachsinnen.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "mehr als alle"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "meine Lehrer"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "habe ich Einsicht erlangt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "deine Zeugnisse"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "sind mein Nachsinnen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:59.433136108Z",
+  "model": "glm-5.2"
+}

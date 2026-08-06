@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Aminadaw zeugte ⟨את⟩ Nachschon, und Nachschon zeugte ⟨את⟩ Salmah.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Und Aminadaw"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachschon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachschon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "und Nachschon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmah"
+    }
+  ],
+  "timestamp": "2026-08-06T07:07:37.235014473Z",
+  "model": "glm-5.2"
+}

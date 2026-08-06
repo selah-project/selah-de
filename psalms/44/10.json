@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Du aber hast uns verworfen und beschämt, und du ziehst nicht aus mit unseren Heeren.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Du aber"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "hast (uns) verworfen"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "und beschämt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und (du) nicht"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ziehst aus"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "mit unseren Heeren"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:10.886302425Z",
+  "model": "glm-5.2"
+}

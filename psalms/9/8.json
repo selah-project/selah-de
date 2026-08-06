@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und JHWH thront für immer, fest gegründet ⟨für⟩ ⟨das⟩ Recht ⟨ist⟩ sein Thron.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "und JHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "thront"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "fest gegründet"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "für ⟨das⟩ Recht"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "sein Thron"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:10.404803170Z",
+  "model": "glm-5.2"
+}

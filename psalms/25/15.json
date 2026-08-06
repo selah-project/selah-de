@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Meine Augen ⟨sind⟩ ständig auf JHWH, denn ⟨er⟩ wird meine Füße herausführen aus dem Netz.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "wird herausführen"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "aus dem Netz"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "meine Füße"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:32.365857446Z",
+  "model": "glm-5.2"
+}

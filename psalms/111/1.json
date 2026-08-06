@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 111,
+  "translation": "Lobt Jah! Ich will JHWH danken mit ganzem Herzen, im Rat der Aufrechten und ⟨in⟩ der Versammlung.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "will ich danken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit ganzem"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "im Rat"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "der Aufrechten"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "und ⟨in⟩ der Versammlung"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:53.179358343Z",
+  "model": "glm-5.2"
+}

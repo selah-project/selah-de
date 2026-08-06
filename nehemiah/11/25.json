@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 11:25",
+  "book": "nehemiah",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨was⟩ die Höfe ⟨betrifft⟩, ⟨mit⟩ ihren Feldern: Von den Söhnen Jehudas wohnten sie in Kirjat-Arba und ihren Tochterorten und in Dibon und seinen Tochterorten und in Jekabzeel und seinen Höfen.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨was betrifft⟩"
+    },
+    {
+      "surface": "החצרים",
+      "gloss": "die Höfe"
+    },
+    {
+      "surface": "בשדתם",
+      "gloss": "⟨mit⟩ ihren Feldern"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "von den Söhnen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wohnten sie"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "in Kirjat"
+    },
+    {
+      "surface": "הארבע",
+      "gloss": "-Arba"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "und ihren Tochterorten"
+    },
+    {
+      "surface": "ובדיבן",
+      "gloss": "und in Dibon"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "und seinen Tochterorten"
+    },
+    {
+      "surface": "וביקבצאל",
+      "gloss": "und in Jekabzeel"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "und seinen Höfen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:51:02.988646851Z",
+  "model": "glm-5.2"
+}

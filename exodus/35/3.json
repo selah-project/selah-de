@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Ihr sollt kein Feuer entzünden in allen euren Wohnsitzen am Tag des Schabbat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "sollt ihr entzünden"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in allen"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "euren Wohnsitzen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "des Schabbat"
+    }
+  ],
+  "timestamp": "2026-08-05T20:16:57.657572703Z",
+  "model": "glm-5.2"
+}

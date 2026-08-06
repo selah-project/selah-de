@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Siehe, ich habe ⟨את⟩ dein Gesicht hart gemacht gegenüber ihrem Gesicht, und ⟨את⟩ deine Stirn hart gegenüber ihrer Stirn.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ich habe gemacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Gesicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Gesicht"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "hart"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ihrem Gesicht"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "deine Stirn"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "deine Stirn"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "hart"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "ihrer Stirn"
+    }
+  ],
+  "timestamp": "2026-08-06T10:20:21.618204745Z",
+  "model": "glm-5.2"
+}

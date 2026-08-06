@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨ein⟩ Strom ging aus von Eden, um ⟨את⟩ den Gan zu tränken, und von dort teilte er sich und wurde zu vier Häupten.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Und ⟨ein⟩ Strom"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ging aus"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "von Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "um zu tränken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Gan"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "den Gan"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "und von dort"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "teilte er sich"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und wurde"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "zu vier"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "Häuptern"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:08.191455652Z",
+  "model": "glm-5.2"
+}

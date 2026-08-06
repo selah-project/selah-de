@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und er sprach: „Ach, Adonai! Sende doch ⟨durch⟩ die Hand dessen, den du senden wirst.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "בִּי",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "אֲדֹנָי",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שְׁלַח",
+      "gloss": "sende"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "⟨durch⟩ die Hand"
+    },
+    {
+      "surface": "תִּשְׁלָח",
+      "gloss": "den du senden wirst"
+    }
+  ],
+  "timestamp": "2026-08-05T20:06:46.265970715Z",
+  "model": "glm-5.2"
+}

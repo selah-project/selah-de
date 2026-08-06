@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 52,
+  "translation": "Du liebst Böses mehr als Gutes, Lüge mehr als ⟨das⟩ Reden von Zedek. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Du liebst"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "mehr als Gutes"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "Lüge"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mehr als ⟨das⟩ Reden"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "von Zedek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-06T15:22:32.151037453Z",
+  "model": "glm-5.2"
+}

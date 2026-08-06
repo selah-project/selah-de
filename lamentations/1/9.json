@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 1:9",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Ihre Unreinheit ⟨ist⟩ an ihren Säumen — sie gedachte nicht ihres Endes und ⟨daher⟩ stieg sie wunderbarerweise hinab, es gibt keinen Tröster für sie. Sieh, JHWH, ⟨את⟩ mein Elend, denn der Feind hat sich groß gemacht.",
+  "tokens": [
+    {
+      "surface": "טֻמְאָתָהּ",
+      "gloss": "ihre Unreinheit"
+    },
+    {
+      "surface": "בְּשׁוּלֶיהָ",
+      "gloss": "an ihren Säumen"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "זָכְרָה",
+      "gloss": "sie gedachte"
+    },
+    {
+      "surface": "אַחֲרִיתָהּ",
+      "gloss": "ihres Endes"
+    },
+    {
+      "surface": "וַתֵּרֶד",
+      "gloss": "und stieg hinab"
+    },
+    {
+      "surface": "פְּלָאִים",
+      "gloss": "wunderbarerweise"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "es gibt keinen"
+    },
+    {
+      "surface": "מְנַחֵם",
+      "gloss": "Tröster"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "רְאֵה",
+      "gloss": "sieh"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "mein Elend"
+    },
+    {
+      "surface": "עָנְיִי",
+      "gloss": "mein Elend"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הִגְדִּיל",
+      "gloss": "hat sich groß gemacht"
+    },
+    {
+      "surface": "אוֹיֵב",
+      "gloss": "der Feind"
+    }
+  ],
+  "timestamp": "2026-08-06T10:38:22.784909807Z",
+  "model": "glm-5.2"
+}

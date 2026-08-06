@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und du sollst ⟨den⟩ Altar machen ⟨aus⟩ Akazienholz: fünf Ellen ⟨die⟩ Länge und fünf Ellen ⟨die⟩ Breite — viereckig soll der Altar sein — und drei Ellen ⟨seine⟩ Höhe.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֥יתָ",
+      "gloss": "Und du sollst machen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Altar"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֖חַ",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "עֲצֵ֣י",
+      "gloss": "Holz"
+    },
+    {
+      "surface": "שִׁטִּ֑ים",
+      "gloss": "Akazien"
+    },
+    {
+      "surface": "חָמֵשׁ֩",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "אַמֹּ֨ת",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "אֹ֜רֶךְ",
+      "gloss": "Länge"
+    },
+    {
+      "surface": "וְחָמֵ֧שׁ",
+      "gloss": "und fünf"
+    },
+    {
+      "surface": "אַמֹּ֣ת",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "רֹ֗חַב",
+      "gloss": "Breite"
+    },
+    {
+      "surface": "רָב֤וּעַ",
+      "gloss": "viereckig"
+    },
+    {
+      "surface": "יִהְיֶה֙",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֔חַ",
+      "gloss": "der Altar"
+    },
+    {
+      "surface": "וְשָׁלֹ֥שׁ",
+      "gloss": "und drei"
+    },
+    {
+      "surface": "אַמֹּ֖ת",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "קֹמָתֽוֹ",
+      "gloss": "seine Höhe"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:34.129974882Z",
+  "model": "glm-5.2"
+}

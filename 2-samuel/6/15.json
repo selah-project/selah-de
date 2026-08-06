@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Dawid und ganz Jisra'el brachten ⟨את⟩ die Lade JHWHs herauf mit Jubelruf und mit dem Klang des Schofar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Und Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ganz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨Haus⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "brachten herauf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "mit Jubelruf"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "und mit dem Klang"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "des Schofar"
+    }
+  ],
+  "timestamp": "2026-08-05T21:17:43.935390062Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und es geschah, als sie ⟨את⟩ die Tora hörten, da sonderten sie alles Vermischte aus Jisra'el aus.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "als sie hörten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "da sonderten sie aus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Vermischte"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "aus Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-06T10:43:05.613973802Z",
+  "model": "glm-5.2"
+}

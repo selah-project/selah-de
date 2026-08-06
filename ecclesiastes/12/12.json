@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und überdies, ⟨von⟩ diesen, mein Sohn, lass dich warnen: Bücher viele zu machen hat kein Ende, und viel Studieren ⟨ist⟩ Ermüdung des Fleisches.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Und überdies"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "⟨von⟩ diesen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mein Sohn"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "lass dich warnen"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "zu machen"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "Bücher"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "viele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hat kein"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "Ende"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "und viel Studieren"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "viel"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "⟨ist⟩ Ermüdung"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "des Fleisches"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:35.597591765Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Fehlt es mir an Wahnsinnigen, dass ihr ⟨את⟩ diesen gebracht habt, damit er sich vor mir wahnsinnig gebärdet? Sollte dieser in mein Haus kommen?“",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "fehlt es"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "an Wahnsinnigen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ihr gebracht habt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diesen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "diesen"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "damit er sich wahnsinnig gebärdet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "vor mir"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sollte kommen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mein Haus"
+    }
+  ],
+  "timestamp": "2026-08-05T21:14:01.764983701Z",
+  "model": "glm-5.2"
+}

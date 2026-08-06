@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Geh nicht eilig hinaus zum Rechtsstreit, damit du ⟨später⟩ nicht ⟨dastehst und dich fragst⟩, was du in seinem Ausgang tun sollst, wenn dein Gefährte dich ⟨את⟩ bloßstellt.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "geh hinaus"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "zum Rechtsstreit"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "eilig"
+    },
+    {
+      "surface": "פן",
+      "gloss": "damit … nicht"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wirst du tun"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "in seinem Ausgang"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "wenn … bloßstellt"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dich"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "dein Gefährte"
+    }
+  ],
+  "timestamp": "2026-08-06T22:47:21.040030208Z",
+  "model": "glm-5.2"
+}

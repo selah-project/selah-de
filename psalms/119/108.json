@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Die freiwilligen Gaben meines Mundes mögest du wohlgefällig annehmen, bitte, JHWH, und deine Rechtsbestimmungen lehre mich.",
+  "tokens": [
+    {
+      "surface": "נִדְב֣וֹת",
+      "gloss": "Die freiwilligen Gaben"
+    },
+    {
+      "surface": "פִּ֭י",
+      "gloss": "meines Mundes"
+    },
+    {
+      "surface": "רְצֵה",
+      "gloss": "mögest du wohlgefällig annehmen"
+    },
+    {
+      "surface": "נָ֣א",
+      "gloss": "bitte"
+    },
+    {
+      "surface": "יְהוָ֑ב",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וּֽמִשְׁפָּטֶ֥יךָ",
+      "gloss": "und deine Rechtsbestimmungen"
+    },
+    {
+      "surface": "לַמְּדֵֽנִי",
+      "gloss": "lehre mich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:35.051549131Z",
+  "model": "glm-5.2"
+}

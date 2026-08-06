@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Nur durch das Los soll ⟨die⟩ Erde geteilt werden, ⟨את⟩; nach den Namen der Stämme ihrer Väter sollen sie erben.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nur"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "durch das Los"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "soll geteilt werden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨die⟩ Erde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨die⟩ Erde"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "nach den Namen"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "der Stämme"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ihrer Väter"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "sollen sie erben"
+    }
+  ],
+  "timestamp": "2026-08-05T20:38:08.194275277Z",
+  "model": "glm-5.2"
+}

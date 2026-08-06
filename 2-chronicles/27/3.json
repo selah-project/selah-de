@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Er ⟨selbst⟩ baute ⟨את⟩ das Obere Tor des Hauses JHWHs, und an der Mauer des Ofel baute er viel.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Er selbst"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "baute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Obere Tor"
+    },
+    {
+      "surface": "שער",
+      "gloss": "Tor"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "Obere"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "und an der Mauer"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "des Ofel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "baute er"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "viel"
+    }
+  ],
+  "timestamp": "2026-08-05T23:59:24.004870063Z",
+  "model": "glm-5.2"
+}

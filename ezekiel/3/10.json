@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und er sprach zu mir: „Menschensohn, alle meine Worte, die ich zu dir reden werde, nimm in dein Herz und höre ⟨sie⟩ mit deinen Ohren.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Menschen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle meine Worte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "meine Worte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ich reden werde"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "קח",
+      "gloss": "nimm"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "in dein Herz"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "und mit deinen Ohren"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "höre"
+    }
+  ],
+  "timestamp": "2026-08-06T15:16:12.364207551Z",
+  "model": "glm-5.2"
+}

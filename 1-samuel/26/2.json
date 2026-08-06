@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Da erhob sich Schaul und zog hinab zur Wüste Sif, und mit ihm dreitausend Mann, Auserwählte Jisraels, um ⟨את⟩ Dawid zu suchen in der Wüste Sif.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Da erhob sich"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "und zog hinab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zur"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "Wüste"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Sif"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "und mit ihm"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drei"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "Auserwählte"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "um zu suchen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Sif"
+    }
+  ],
+  "timestamp": "2026-08-06T15:47:21.651659686Z",
+  "model": "glm-5.2"
+}

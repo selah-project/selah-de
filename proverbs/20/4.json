@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Wegen des Winters pflügt der Träge nicht; er bittet zur Erntezeit — und da ist nichts.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "Wegen des Winters"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "der Träge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "pflügt"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "er bittet"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "zur Erntezeit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und da ist nichts"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:10.602428097Z",
+  "model": "glm-5.2"
+}

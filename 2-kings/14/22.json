@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Er baute ⟨את⟩ Eilot und brachte es zurück Jehuda, nachdem der König bei seinen Vätern gelegen hatte.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Er"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "baute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "und brachte es zurück"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nachdem"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "gelegen hatte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seinen Vätern"
+    }
+  ],
+  "timestamp": "2026-08-05T21:37:59.207465594Z",
+  "model": "glm-5.2"
+}

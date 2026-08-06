@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und Mosche baute einen Altar, und er rief seinen Namen JHWH-Nissi (JHWH ⟨ist⟩ mein Banner).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "und er baute"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "einen Altar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er rief"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi (mein Banner)"
+    }
+  ],
+  "timestamp": "2026-08-06T00:17:21.787053091Z",
+  "model": "glm-5.2"
+}

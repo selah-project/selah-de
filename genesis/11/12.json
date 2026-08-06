@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Arpakschad lebte fünfunddreißig Jahre und zeugte ⟨את⟩ Schelach.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Und Arpakschad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lebte"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "und dreißig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "und zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Schelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Schelach"
+    }
+  ],
+  "timestamp": "2026-08-06T01:51:23.368286774Z",
+  "model": "glm-5.2"
+}

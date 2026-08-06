@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und nun: Mein Vater hat ⟨eine⟩ schwere Last auf euch geladen, und ich, ich will ⟨noch⟩ auf euer Joch hinzufügen. Mein Vater hat euch gezüchtigt ⟨mit⟩ ⟨את⟩ Peitschen, und ich, ich will euch züchtigen ⟨mit⟩ ⟨את⟩ Skorpionen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Mein Vater"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "hat geladen"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "auf euch"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨eine⟩ Last"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "schwere"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ich will hinzufügen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "euer Joch"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Mein Vater"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "hat gezüchtigt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "Peitschen"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "⟨mit⟩ Peitschen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ich will züchtigen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "Skorpionen"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "⟨mit⟩ Skorpionen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:29:06.144953169Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 53,
+  "translation": "Wer hat dem geglaubt, was wir gehört haben, und der Arm JHWHs, wem ist er offenbart worden?",
+  "tokens": [
+    {
+      "surface": "מִ֥י",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "הֶאֱמִ֖ין",
+      "gloss": "hat geglaubt"
+    },
+    {
+      "surface": "לִשְׁמֻעָתֵ֑נוּ",
+      "gloss": "dem, was wir gehört haben"
+    },
+    {
+      "surface": "וּזְר֥וֹעַ",
+      "gloss": "und der Arm"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "מִ֥י",
+      "gloss": "wem"
+    },
+    {
+      "surface": "נִגְלָֽתָה",
+      "gloss": "ist er offenbart worden"
+    }
+  ],
+  "timestamp": "2026-08-05T21:55:35.808159627Z",
+  "model": "glm-5.2"
+}

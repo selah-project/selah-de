@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und Mosche und Aharon kamen vor das Zelt der Begegnung.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und … kamen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨das Angesicht⟩"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    }
+  ],
+  "timestamp": "2026-08-06T00:35:43.361775201Z",
+  "model": "glm-5.2"
+}

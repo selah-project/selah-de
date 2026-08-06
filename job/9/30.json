@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Wenn ich mich mit Schnee wasche und ⟨mit⟩ Lye meine Hände reinige,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "ich mich wasche"
+    },
+    {
+      "surface": "במו",
+      "gloss": "mit"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "Schnee"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "und reinige"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "⟨mit⟩ Lye"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "meine Hände"
+    }
+  ],
+  "timestamp": "2026-08-06T04:33:23.503640581Z",
+  "model": "glm-5.2"
+}

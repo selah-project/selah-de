@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Fruchtbares Land ⟨zu⟩ Salzöde, wegen der Bosheit ihrer Bewohner.",
+  "tokens": [
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "פְּ֭רִי",
+      "gloss": "Frucht"
+    },
+    {
+      "surface": "לִמְלֵחָ֑ה",
+      "gloss": "⟨zu⟩ Salzöde"
+    },
+    {
+      "surface": "מֵ֝רָעַ֗ת",
+      "gloss": "wegen der Bosheit"
+    },
+    {
+      "surface": "יֹ֣שְׁבֵי",
+      "gloss": "ihrer Bewohner"
+    },
+    {
+      "surface": "בָֽהּ",
+      "gloss": "in ihr"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:22.619206485Z",
+  "model": "glm-5.2"
+}

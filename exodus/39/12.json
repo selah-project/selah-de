@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Und die dritte Reihe: ein Leschem, ein Schewo und ein Achlama.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "und die Reihe"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "die dritte"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ein Leschem"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ein Schewo"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "und ein Achlama"
+    }
+  ],
+  "timestamp": "2026-08-06T05:18:16.371384631Z",
+  "model": "glm-5.2"
+}

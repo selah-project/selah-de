@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Die Wächter, die in der Stadt umhergehen, fanden mich: „Habt ihr ⟨את⟩ den gesehen, den meine Nefesch liebt?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "fanden mich"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "die Wächter"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "die umhergehen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den, den meine Nefesch liebt"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "den … liebt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "habt ihr gesehen"
+    }
+  ],
+  "timestamp": "2026-08-06T07:05:50.434743720Z",
+  "model": "glm-5.2"
+}

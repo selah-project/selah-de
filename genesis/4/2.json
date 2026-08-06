@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und sie fuhr fort zu gebären ⟨את⟩ seinen Bruder, ⟨את⟩ Hebel. Und Hebel wurde ein Hüter von Kleinvieh, und Kajin wurde ein Bearbeiter des Bodens.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Und sie fuhr fort"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "zu gebären"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Bruder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seinen Bruder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und es wurde"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Hüter"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "von Kleinvieh"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "und Kajin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "war"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Bearbeiter"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "des Bodens"
+    }
+  ],
+  "timestamp": "2026-08-05T19:53:57.054356264Z",
+  "model": "glm-5.2"
+}

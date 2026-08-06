@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Joab stieß in das Schofar, und das Volk kehrte um vom Verfolgen Jisraels, denn Joaw hatte ⟨את⟩ das Volk zurückgehalten.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "und er stieß"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "in das Schofar"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und es kehrte um"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "vom Verfolgen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "hatte zurückgehalten"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T01:18:09.322645817Z",
+  "model": "glm-5.2"
+}

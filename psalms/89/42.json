@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Geschändet ⟨hat⟩ ihn jeder, ⟨der⟩ des Weges vorüberzieht, ⟨er⟩ ⟨ist⟩ zur Schmach geworden für seine Nachbarn.",
+  "tokens": [
+    {
+      "surface": "שַׁ֭סֻּהוּ",
+      "gloss": "geschändet"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "עֹ֣בְרֵי",
+      "gloss": "⟨der⟩ vorüberzieht"
+    },
+    {
+      "surface": "דָ֑רֶךְ",
+      "gloss": "des Weges"
+    },
+    {
+      "surface": "הָיָ֥ה",
+      "gloss": "⟨ist⟩ geworden"
+    },
+    {
+      "surface": "חֶ֝רְפָּ֗ה",
+      "gloss": "zur Schmach"
+    },
+    {
+      "surface": "לִשְׁכֵנָֽיו",
+      "gloss": "für seine Nachbarn"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:36.287944377Z",
+  "model": "glm-5.2"
+}

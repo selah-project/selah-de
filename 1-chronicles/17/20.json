@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "JHWH, ⟨es⟩ gibt keinen wie dich, und ⟨es⟩ gibt keinen Elohim außer dir, in allem, was wir mit unseren Ohren gehört haben.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֙ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "⟨es⟩ gibt keinen"
+    },
+    {
+      "surface": "כָּמ֔וֹךָ",
+      "gloss": "wie dich"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "und ⟨es⟩ gibt keinen"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זוּלָתֶ֑ךָ",
+      "gloss": "außer dir"
+    },
+    {
+      "surface": "בְּכֹ֥ל",
+      "gloss": "in allem"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "was"
+    },
+    {
+      "surface": "שָׁמַ֖עְנוּ",
+      "gloss": "wir gehört haben"
+    },
+    {
+      "surface": "בְּאָזְנֵֽינוּ",
+      "gloss": "mit unseren Ohren"
+    }
+  ],
+  "timestamp": "2026-08-06T10:44:12.585166401Z",
+  "model": "glm-5.2"
+}

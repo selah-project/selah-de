@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Lass mich erkennen, JHWH, mein Ende, und das Maß meiner Tage, was ⟨es⟩ ist; ⟨damit⟩ ich erkenne, wie vergänglich ich bin.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "lass mich erkennen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "mein Ende"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "und ⟨das⟩ Maß"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "meiner Tage"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨es⟩ ist"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "⟨damit⟩ ich erkenne"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wie"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "vergänglich"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich bin"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:09.233478181Z",
+  "model": "glm-5.2"
+}

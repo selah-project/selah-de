@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Eine Quelle des Lebens ist der Mund des Gerechten, aber der Mund der Frevler — Gewalttat deckt er ⟨zu⟩.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "Eine Quelle"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "des Lebens"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ist der Mund"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "des Gerechten"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "aber der Mund"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "deckt er ⟨zu⟩"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Gewalttat"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:05.650439583Z",
+  "model": "glm-5.2"
+}

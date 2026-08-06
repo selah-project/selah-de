@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und der Kohen soll ⟨es⟩ befehlen, und ⟨man⟩ schlachte ⟨את⟩ die eine ⟨von den⟩ Vögeln in ein Tongefäß, über lebendigem Wasser.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Und ⟨er⟩ soll befehlen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "und ⟨man⟩ schlachte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ⟨eine⟩ ⟨von den⟩ Vögeln"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "den Vogel"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "die eine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "⟨ein⟩ Gefäß"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "⟨aus⟩ Ton"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lebendigem"
+    }
+  ],
+  "timestamp": "2026-08-06T09:48:31.144230043Z",
+  "model": "glm-5.2"
+}

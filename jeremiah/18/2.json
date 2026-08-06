@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "„Steh auf und geh hinab zum Haus des Töpfers, und dort werde ich dich ⟨את⟩ meine Worte hören lassen!",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "und geh hinab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zum Haus"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "des Töpfers"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "und dort"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "werde ich dich hören lassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "meine Worte"
+    }
+  ],
+  "timestamp": "2026-08-06T03:28:43.172225249Z",
+  "model": "glm-5.2"
+}

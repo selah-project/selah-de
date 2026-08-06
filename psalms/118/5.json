@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Aus der Bedrängnis rief ich Jah, Jah antwortete mir im Weiten.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "der Bedrängnis"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "rief ich"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwortete mir"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "im Weiten"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:48.851228156Z",
+  "model": "glm-5.2"
+}

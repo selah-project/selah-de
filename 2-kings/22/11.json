@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und es geschah, als der König ⟨את⟩ die Worte des Buches der Tora hörte, da zerriss er ⟨את⟩ seine Kleider.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "als … hörte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "des Buches"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "der Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "da zerriss er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Kleider"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    }
+  ],
+  "timestamp": "2026-08-06T01:37:07.680879837Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Ich, Newukadnezar, ⟨war⟩ sorglos in meinem Haus und blühend in meinem Palast.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Newukadnezar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "sorglos"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "⟨war⟩"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "in meinem Haus"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "und blühend"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "in meinem Palast"
+    }
+  ],
+  "timestamp": "2026-08-06T04:44:35.316994302Z",
+  "model": "glm-5.2"
+}

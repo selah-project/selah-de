@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Denn ich sagte: „Für immer wird Chessed erbaut. ⟨In⟩ den Himmeln richtest du deine Treue auf.“",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ich sagte"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Für immer"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wird erbaut"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨In⟩ den Himmeln"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "richtest du auf"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "deine Treue"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in ihnen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:08.590126899Z",
+  "model": "glm-5.2"
+}

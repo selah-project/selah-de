@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Das Haus des Gerechten ⟨birgt⟩ großen Reichtum, aber im Ertrag des Frevlers ⟨ist⟩ Unheil.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Das Haus"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "des Gerechten"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "Reichtum"
+    },
+    {
+      "surface": "רב",
+      "gloss": "großen"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "aber im Ertrag"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "des Frevlers"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "⟨ist⟩ Unheil"
+    }
+  ],
+  "timestamp": "2026-08-06T09:21:48.188308984Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Dies sind die Gebote, die JHWH ⟨את⟩ Mosche gebot, für die Söhne Jisraels, auf dem Berg Sinai.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "sind die Gebote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "für"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "auf dem Berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:39.440886272Z",
+  "model": "glm-5.2"
+}

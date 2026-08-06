@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Mosche allein wird herantreten zu JHWH, sie aber werden nicht herantreten, und das Volk wird nicht mit ihm hinaufsteigen.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "und wird herantreten"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "allein"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "והם",
+      "gloss": "sie aber"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "werden herantreten"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "und das Volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "wird hinaufsteigen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:17.280854704Z",
+  "model": "glm-5.2"
+}

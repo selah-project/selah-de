@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und JHWH schlug ⟨את⟩ Paro ⟨mit⟩ großen Schlägen und ⟨את⟩ sein Haus wegen der Sache Sarajs, der Frau Awrams.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "Und schlug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "Schlägen"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "großen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein Haus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sein Haus"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "der Sache"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarajs"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "der Frau"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awrams"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:52.911747469Z",
+  "model": "glm-5.2"
+}

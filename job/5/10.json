@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "⟨Der⟩ Regen gibt auf das Angesicht der Erde und Wasser sendet auf das Angesicht der Straßen —",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "⟨der⟩ Regen gibt"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "Regen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פני",
+      "gloss": "das Angesicht"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "und ⟨er⟩ sendet"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פני",
+      "gloss": "das Angesicht"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "der Straßen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:16:58.270880704Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 75,
+  "translation": "Wir danken dir, Elohim, wir danken, denn nahe ist dein Name; ⟨man⟩ erzählt von deinen Wundertaten.",
+  "tokens": [
+    {
+      "surface": "הוֹדִינוּ",
+      "gloss": "Wir danken"
+    },
+    {
+      "surface": "לְּךָ",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוֹדִינוּ",
+      "gloss": "wir danken"
+    },
+    {
+      "surface": "וְקָרוֹב",
+      "gloss": "denn nahe ⟨ist⟩"
+    },
+    {
+      "surface": "שְׁמֶךָ",
+      "gloss": "dein Name"
+    },
+    {
+      "surface": "סִפְּרוּ",
+      "gloss": "⟨man⟩ erzählt"
+    },
+    {
+      "surface": "נִפְלְאוֹתֶיךָ",
+      "gloss": "von deinen Wundertaten"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:32.669472386Z",
+  "model": "glm-5.2"
+}

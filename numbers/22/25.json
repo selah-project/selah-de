@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und die Eselin sah ⟨את⟩ den Malach von JHWH, und sie drückte sich an die Mauer und quetschte ⟨את⟩ den Fuß Bilams an die Mauer, und er fuhr fort, sie zu schlagen.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "die Eselin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Malach"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Malach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "und sie drückte sich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "die Mauer"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "und quetschte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Fuß"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "Fuß"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilams"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "die Mauer"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "und er fuhr fort"
+    },
+    {
+      "surface": "להכתה",
+      "gloss": "sie zu schlagen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:37:25.381301497Z",
+  "model": "glm-5.2"
+}

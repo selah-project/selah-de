@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Ein Geschlecht — seinen Vater verflucht es, und ⟨את⟩ seine Mutter segnet es nicht.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Ein Geschlecht"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seinen Vater"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "verflucht es"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Mutter"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "seine Mutter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "segnet es"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:32.444077978Z",
+  "model": "glm-5.2"
+}

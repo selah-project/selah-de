@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 10:5",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Wegen der Kälber von Bet-Awen zittern die Bewohner von Schomron — denn ⟨es⟩ trauert über es sein Volk, und seine Kemarim jauchzen über es, über seine Herrlichkeit, denn ⟨sie⟩ hat sich von ihm entfernt.",
+  "tokens": [
+    {
+      "surface": "לְעֶגְלוֹת",
+      "gloss": "Wegen der Kälber"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "von Bet"
+    },
+    {
+      "surface": "אָוֶן",
+      "gloss": "-Awen"
+    },
+    {
+      "surface": "יָגוּרוּ",
+      "gloss": "zittern"
+    },
+    {
+      "surface": "שְׁכַן",
+      "gloss": "die Bewohner"
+    },
+    {
+      "surface": "שֹׁמְרוֹן",
+      "gloss": "von Schomron"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אָבַל",
+      "gloss": "⟨es⟩ trauert"
+    },
+    {
+      "surface": "עָלָיו",
+      "gloss": "über es"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "וּכְמָרָיו",
+      "gloss": "und seine Kemarim"
+    },
+    {
+      "surface": "עָלָיו",
+      "gloss": "über es"
+    },
+    {
+      "surface": "יָגִילוּ",
+      "gloss": "jauchzen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "כְּבוֹדוֹ",
+      "gloss": "seine Herrlichkeit"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גָלָה",
+      "gloss": "⟨sie⟩ hat sich entfernt"
+    },
+    {
+      "surface": "מִמֶּנּוּ",
+      "gloss": "von ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T09:08:43.173080887Z",
+  "model": "glm-5.2"
+}

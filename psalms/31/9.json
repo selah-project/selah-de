@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und du hast mich nicht ausgeliefert in die Hand des Feindes, ⟨du⟩ hast meine Füße hingestellt in ⟨einen⟩ weiten Raum.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "hast mich ausgeliefert"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "des Feindes"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "hast hingestellt"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "in ⟨einen⟩ weiten Raum"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "meine Füße"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:45.009588090Z",
+  "model": "glm-5.2"
+}

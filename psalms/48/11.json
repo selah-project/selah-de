@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Wie dein Name, Elohim, so ⟨reicht⟩ dein Lob bis an die Enden der Erde; ⟨deine⟩ Rechte ist voll Zedek.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Wie dein Name"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "⟨reicht⟩ dein Lob"
+    },
+    {
+      "surface": "על",
+      "gloss": "bis an"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "die Enden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Zedek"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ist voll"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "⟨deine⟩ Rechte"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:34.088244658Z",
+  "model": "glm-5.2"
+}

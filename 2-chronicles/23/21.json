@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und ganz ⟨das⟩ Volk des Landes freute sich, und die Stadt war ruhig; und ⟨את⟩ Ataljah töteten sie mit dem Schwert.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Und … freuten sich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "und die Stadt"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "war ruhig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ataljah"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataljah"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "töteten sie"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mit dem Schwert"
+    }
+  ],
+  "timestamp": "2026-08-06T15:32:44.620730980Z",
+  "model": "glm-5.2"
+}

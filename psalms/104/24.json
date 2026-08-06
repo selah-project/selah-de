@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Wie zahlreich sind deine Werke, JHWH — alle hast du in Weisheit gemacht; voll ist die Erde deines Geschöpfs.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zahlreich sind"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "deine Werke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "in Weisheit"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hast du gemacht"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "voll ist"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "deines Geschöpfs"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:16.874571420Z",
+  "model": "glm-5.2"
+}

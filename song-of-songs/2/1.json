@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Ich ⟨bin⟩ eine Chavazzelet des Scharon, eine Schoschannat der Täler.",
+  "tokens": [
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "חֲבַצֶּ֣לֶת",
+      "gloss": "eine Chavazzelet"
+    },
+    {
+      "surface": "הַשָּׁר֔וֹן",
+      "gloss": "des Scharon"
+    },
+    {
+      "surface": "שֽׁוֹשַׁנַּ֖ת",
+      "gloss": "eine Schoschannat"
+    },
+    {
+      "surface": "הָעֲמָקִֽים",
+      "gloss": "der Täler"
+    }
+  ],
+  "timestamp": "2026-08-06T15:27:00.733764346Z",
+  "model": "glm-5.2"
+}

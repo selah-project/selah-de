@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und ⟨wenn⟩ ein Mann sein ⟨את⟩ Haus als Heiligtum dem JHWH heiligt, soll der Kohen es schätzen, zwischen gut und zwischen schlecht; wie der Kohen ⟨את⟩ es schätzt, so soll es bestehen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Und ⟨ein⟩ Mann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨wenn⟩"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "heiligt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Haus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sein Haus"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "als Heiligtum"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dem JHWH"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "soll ⟨der⟩ schätzen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "schlecht"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "schätzt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "es"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "soll es bestehen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:30:48.421476663Z",
+  "model": "glm-5.2"
+}

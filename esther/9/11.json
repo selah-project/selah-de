@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "An jenem Tag kam die Zahl der Erschlagenen in Schuschan, der Burg, vor den König.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kam"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "die Zahl"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "der Erschlagenen"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "in Schuschan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "der Burg"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "den König"
+    }
+  ],
+  "timestamp": "2026-08-06T04:44:39.653961268Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und der König von Aschschur führte ⟨את⟩ Jisraël ins Exil, nach Aschschur, und ließ sie wohnen in Chalach und am Chawor, dem Fluss von Gosan, und in den Städten von Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "und führte ins Exil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "von Aschschur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "nach Aschschur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "und ließ sie wohnen"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "in Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "und am Chawor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "dem Fluss"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "von Gosan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "und in den Städten"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "von Madai"
+    }
+  ],
+  "timestamp": "2026-08-06T05:55:50.568069121Z",
+  "model": "glm-5.2"
+}

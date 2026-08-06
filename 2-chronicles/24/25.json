@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 24:25",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und als sie von ihm abzogen — denn sie ließen ihn in vielen Krankheiten zurück —, verschworen sich seine Knechte gegen ihn wegen des Blutes der Söhne Jehojadas, des Kohen, und erschlugen ihn auf seinem Bett, und er starb. Und sie begruben ihn in der Stadt Dawids, aber ⟨sie⟩ begruben ihn nicht in den Grabstätten der Könige.",
+  "tokens": [
+    {
+      "surface": "ובלכתם",
+      "gloss": "Und als sie abzogen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "sie ließen zurück"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn (in vielen Krankheiten)"
+    },
+    {
+      "surface": "במחליים",
+      "gloss": "in Krankheiten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vielen"
+    },
+    {
+      "surface": "התקשרו",
+      "gloss": "verschworen sich"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "gegen ihn"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seine Knechte"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "wegen des Blutes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojadas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "des Kohen"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "und erschlugen ihn"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "seinem Bett"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und er starb"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "Und sie begruben ihn"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber ⟨sie⟩ nicht"
+    },
+    {
+      "surface": "קברהו",
+      "gloss": "begruben ihn"
+    },
+    {
+      "surface": "בקברות",
+      "gloss": "in den Grabstätten"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "der Könige"
+    }
+  ],
+  "timestamp": "2026-08-06T19:57:45.328584355Z",
+  "model": "glm-5.2"
+}

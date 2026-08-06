@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ⟨es⟩ erhoben sich die Ältesten seines Hauses über ihn, um ihn von der Erde aufzurichten, aber er wollte nicht, und er aß ⟨את⟩ Brot nicht mit ihnen.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "und ⟨es⟩ erhoben sich"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die Ältesten"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "seines Hauses"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "über ihn"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "um ihn aufzurichten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "er wollte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "aß"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mit ihnen — Präposition אֵת als Nähekennzeichnung des Gefährten"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    }
+  ],
+  "timestamp": "2026-08-06T01:15:54.859313683Z",
+  "model": "glm-5.2"
+}

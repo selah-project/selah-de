@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und nun, JHWH, mein Elohim, du hast ⟨את⟩ deinen Knecht zum König gemacht anstelle Dawids, meines Vaters. Und ich ⟨bin⟩ ein junger Knabe, klein; ich weiß nicht ⟨das⟩ Herausgehen und ⟨das⟩ Hineingehen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "hast zum König gemacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Knecht"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "deinen Knecht"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anstelle"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meines Vaters"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ein junger Knabe"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "klein"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ich weiß"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "Herausgehen"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "und Hineingehen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:22:28.713544548Z",
+  "model": "glm-5.2"
+}

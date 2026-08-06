@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ⟨dem⟩ Rubenit ⟨und dem⟩ Gadit gab ich vom Gilad bis zum Bach Arnon, die Mitte des Bachs ⟨und⟩ die Grenze, und bis zum Bach Jabok, die Grenze der Söhne Ammons.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "und ⟨dem⟩ Rubenit"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "⟨und dem⟩ Gadit"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gab ich"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "zum Bach"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "die Mitte"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "des Bachs"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "⟨und⟩ die Grenze"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und bis"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "zum Bach Jabok"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "dem Bach"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "die Grenze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    }
+  ],
+  "timestamp": "2026-08-05T20:43:37.266136118Z",
+  "model": "glm-5.2"
+}

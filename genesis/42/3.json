@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und es stiegen hinab, die Brüder von Josef, zehn, um Getreide zu kaufen aus Mizrajim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Und es stiegen hinab"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "die Brüder von"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "um zu kaufen"
+    },
+    {
+      "surface": "בר",
+      "gloss": "Getreide"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "aus Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-05T17:41:23.556732345Z",
+  "model": "glm-5.2"
+}

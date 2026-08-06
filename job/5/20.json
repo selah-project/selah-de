@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Bei Hunger löst er dich vom Tod, und im Krieg aus der Hand des Schwerts.",
+  "tokens": [
+    {
+      "surface": "בְּרָעָב",
+      "gloss": "bei Hunger"
+    },
+    {
+      "surface": "פָּֽדְךָ֣",
+      "gloss": "löst er dich"
+    },
+    {
+      "surface": "מִמָּ֑וֶת",
+      "gloss": "vom Tod"
+    },
+    {
+      "surface": "וּ֝בְמִלְחָמָ֗ה",
+      "gloss": "und im Krieg"
+    },
+    {
+      "surface": "מִ֣ידֵי",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "חָֽרֶב",
+      "gloss": "des Schwerts"
+    }
+  ],
+  "timestamp": "2026-08-06T22:47:36.326820443Z",
+  "model": "glm-5.2"
+}

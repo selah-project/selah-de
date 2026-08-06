@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "In der Stadt stürmen sie, auf der Mauer rennen sie, in die Häuser steigen sie empor, durch die Fenster kommen sie wie ein Dieb.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "stürmen sie"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "auf der Mauer"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "rennen sie"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "in die Häuser"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "steigen sie empor"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "durch"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "die Fenster"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kommen sie"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "wie ein Dieb"
+    }
+  ],
+  "timestamp": "2026-08-06T03:59:55.362161604Z",
+  "model": "glm-5.2"
+}

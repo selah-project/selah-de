@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 85,
+  "translation": "Lass uns sehen, JHWH, dein Chessed, und dein Heil gib uns!",
+  "tokens": [
+    {
+      "surface": "הַרְאֵ֣נוּ",
+      "gloss": "Lass uns sehen"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חַסְדֶּ֑ךָ",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "וְ֝יֶשְׁעֲךָ֗",
+      "gloss": "und dein Heil"
+    },
+    {
+      "surface": "תִּתֶּן",
+      "gloss": "gib"
+    },
+    {
+      "surface": "לָֽנוּ",
+      "gloss": "uns"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:10.084122111Z",
+  "model": "glm-5.2"
+}

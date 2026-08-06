@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 111,
+  "translation": "Hoheit und Pracht ist sein Wirken, und seine Gerechtigkeit steht für ewig.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Hoheit"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "und Pracht"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ist sein Wirken"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "und seine Gerechtigkeit"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "steht"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "für ewig"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:53.179644203Z",
+  "model": "glm-5.2"
+}

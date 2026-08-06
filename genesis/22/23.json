@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und Betuel zeugte ⟨את⟩ Ribka. Diese acht gebar Milka dem Nachor, dem Bruder Awrahams.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Und Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ribka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebar"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "dem Nachor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "⟨dem⟩ Bruder"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahams"
+    }
+  ],
+  "timestamp": "2026-08-06T01:55:33.881105079Z",
+  "model": "glm-5.2"
+}

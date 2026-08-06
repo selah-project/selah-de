@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Für den Chorleiter, nach ›Aijeleth haschachar‹. Ein Mizmor von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für den Chorleiter"
+    },
+    {
+      "surface": "על",
+      "gloss": "nach"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Hinde"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "der Morgenröte"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ein Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T15:22:56.342453913Z",
+  "model": "glm-5.2"
+}

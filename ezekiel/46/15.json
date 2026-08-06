@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Und sie bereiten ⟨את⟩ das Lamm und ⟨את⟩ ⟨die⟩ Mincha und ⟨את⟩ das Öl, Morgen für Morgen, ⟨als⟩ Ola beständig.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Und sie bereiten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Lamm"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "das Lamm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "⟨die⟩ Mincha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Öl"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "das Öl"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "Ola"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständig"
+    }
+  ],
+  "timestamp": "2026-08-06T03:55:39.192608506Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Du ⟨wirst⟩ aufstehen ⟨und⟩ dich erbarmen über Tzijon, denn ⟨es ist⟩ Zeit, ihr Gunst zu erweisen, denn ⟨der⟩ Termin ist gekommen.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "⟨wirst⟩ aufstehen"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "⟨und⟩ dich erbarmen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "über Tzijon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עת",
+      "gloss": "⟨es ist⟩ Zeit"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "ihr Gunst zu erweisen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ist gekommen"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "⟨der⟩ Termin"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:59.302227450Z",
+  "model": "glm-5.2"
+}

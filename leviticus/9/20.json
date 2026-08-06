@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "und sie legten ⟨את⟩ die Fettstücke auf die Bruststücke, und er ließ die Fettstücke aufsteigen am Altar.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "und sie legten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Fettstücke"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "die Fettstücke"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "die Bruststücke"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "und er ließ aufsteigen"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "die Fettstücke"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "am Altar"
+    }
+  ],
+  "timestamp": "2026-08-05T20:21:18.882958881Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Er ließ keinen Menschen zu, sie zu bedrücken, und er wies Könige ⟨wegen ihnen⟩ zurecht:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "Er ließ zu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "einen Menschen"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "sie zu bedrücken"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "und er wies zurecht"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wegen ihnen"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "Könige"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:28.228759153Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und er überzog ⟨את⟩ das Haus mit kostbarem Stein zur Pracht, und ⟨bei⟩ dem Gold ⟨handelte es sich um⟩ Gold von Parwajim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Und er überzog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Stein"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "kostbarem"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "zur Pracht"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "und ⟨bei⟩ dem Gold"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "von Parwajim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:53:50.623985052Z",
+  "model": "glm-5.2"
+}

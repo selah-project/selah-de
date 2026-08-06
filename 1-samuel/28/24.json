@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und ⟨bei⟩ der Frau war ein gemästetes Kalb im Stall, im Haus, und sie eilte und schlachtete es. Und sie nahm Mehl und knetete ⟨es⟩ und buk es als Mazzen.",
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "Und ⟨bei⟩ der Frau"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ein Kalb"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "gemästetes"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "und sie eilte"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "und schlachtete es"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "Und sie nahm"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "Mehl"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "und knetete"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "und buk es"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "als Mazzen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:15:49.154777765Z",
+  "model": "glm-5.2"
+}

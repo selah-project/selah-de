@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ⟨er⟩ sagte zu ihm: „So spricht JHWH: Weil du ⟨את⟩ den Mann, ⟨den⟩ ich dem Bann geweiht ⟨habe⟩, aus deiner Hand entkommen ließest, so soll deine Nefesch an seiner Nefesch ⟨statt⟩ sein und dein Volk an seinem Volk ⟨statt⟩.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יען",
+      "gloss": "weil"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "du entkommen ließest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Mann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "den Mann"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "den ich dem Bann geweiht ⟨habe⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus deiner Hand"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "so soll sein"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "deine Nefesch"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an … ⟨statt⟩"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "seiner Nefesch"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "und dein Volk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an … ⟨statt⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "seinem Volk"
+    }
+  ],
+  "timestamp": "2026-08-05T21:32:27.155847813Z",
+  "model": "glm-5.2"
+}

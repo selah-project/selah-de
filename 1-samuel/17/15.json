@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und Dawid ging und kehrte zurück von Schaul, um ⟨את⟩ die Schafherde seines Vaters zu hüten in Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Und Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ging"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "und kehrte zurück"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "um zu hüten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Schafherde"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "die Schafherde"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lechem"
+    }
+  ],
+  "timestamp": "2026-08-05T21:12:27.541937063Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Besser sind die Zwei als der Eine, ⟨denn⟩ sie haben guten Lohn für ihre Mühe.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "sind die Zwei"
+    },
+    {
+      "surface": "מן",
+      "gloss": "als"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "der Eine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨denn⟩"
+    },
+    {
+      "surface": "יש",
+      "gloss": "sie haben"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨für sie⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Lohn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "guten"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "für ihre Mühe"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:13.265756985Z",
+  "model": "glm-5.2"
+}

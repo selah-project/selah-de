@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und du sollst ⟨es⟩ machen: ⟨את⟩ Salböl, Heiligtum der wohlriechenden Mischung, Arbeit eines Salbenmischers — Salböl der Heiligung soll es ⟨sein⟩.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֣יתָ",
+      "gloss": "und du sollst machen"
+    },
+    {
+      "surface": "אֹת֗וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "Salböl"
+    },
+    {
+      "surface": "שֶׁ֚מֶן",
+      "gloss": "Salböl"
+    },
+    {
+      "surface": "מִשְׁחַ֣ת",
+      "gloss": "der Salbung"
+    },
+    {
+      "surface": "קֹ֔דֶשׁ",
+      "gloss": "Heiligtum"
+    },
+    {
+      "surface": "רֹ֥קַח",
+      "gloss": "wohlriechende"
+    },
+    {
+      "surface": "מִרְקַ֖חַת",
+      "gloss": "Mischung"
+    },
+    {
+      "surface": "מַעֲשֵׂ֣ה",
+      "gloss": "Arbeit"
+    },
+    {
+      "surface": "רֹקֵ֑חַ",
+      "gloss": "eines Salbenmischers"
+    },
+    {
+      "surface": "שֶׁ֥מֶן",
+      "gloss": "Salböl"
+    },
+    {
+      "surface": "מִשְׁחַ֖ת",
+      "gloss": "der Salbung"
+    },
+    {
+      "surface": "קֹ֔דֶשׁ",
+      "gloss": "Heiligung"
+    },
+    {
+      "surface": "יִהְיֶֽה",
+      "gloss": "soll es sein"
+    }
+  ],
+  "timestamp": "2026-08-06T22:32:54.573446652Z",
+  "model": "glm-5.2"
+}

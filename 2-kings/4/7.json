@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und sie kam und berichtete ⟨es⟩ dem Mann des Elohim. ⟨Er⟩ sagte: „Geh, verkaufe ⟨את⟩ das Öl und begleich ⟨את⟩ deine Schulden. Und du, deine Söhne — ihr werdet leben von ⟨dem⟩ Übriggebliebenen.“",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "und sie kam"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "und berichtete"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "dem Mann"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "geh"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "verkaufe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Öl"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "das Öl"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "und begleich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Schulden"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "deine Schulden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und du"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "deine Söhne"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "werdet leben"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "von ⟨dem⟩ Übriggebliebenen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:31:37.769182368Z",
+  "model": "glm-5.2"
+}

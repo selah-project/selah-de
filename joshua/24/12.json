@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und ich sandte vor euch her ⟨את⟩ die Hornisse, und sie vertrieb sie vor euch ⟨⟨את⟩⟩ — die beiden Könige der Amoriter —, nicht durch dein Schwert und nicht durch deinen Bogen.",
+  "tokens": [
+    {
+      "surface": "ויאשלח",
+      "gloss": "Und ich sandte"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "vor euch her"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Hornisse"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "die Hornisse"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "und sie vertrieb"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die beiden Könige der Amoriter)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die beiden"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "der Amoriter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "durch dein Schwert"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "durch deinen Bogen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:59:09.356492807Z",
+  "model": "glm-5.2"
+}

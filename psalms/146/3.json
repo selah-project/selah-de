@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 146,
+  "translation": "Verlasst euch nicht auf Vornehme, nicht auf einen Menschensohn, ⟨der⟩ keine Rettung ⟨für ihn⟩ hat.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּבְטְח֥וּ",
+      "gloss": "verlasst euch"
+    },
+    {
+      "surface": "בִנְדִיבִ֑ים",
+      "gloss": "auf Vornehme"
+    },
+    {
+      "surface": "בְּבֶן",
+      "gloss": "auf einen Sohn"
+    },
+    {
+      "surface": "אָדָ֓ם",
+      "gloss": "von Adam"
+    },
+    {
+      "surface": "שֶׁ֤אֵֽין",
+      "gloss": "der nicht ist"
+    },
+    {
+      "surface": "ל֥וֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "תְשׁוּעָֽה",
+      "gloss": "Rettung"
+    }
+  ],
+  "timestamp": "2026-08-06T15:25:16.381233497Z",
+  "model": "glm-5.2"
+}

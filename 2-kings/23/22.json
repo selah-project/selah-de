@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Denn nicht war ⟨ein⟩ Pessach wie dieses gemacht worden von den Tagen der Richter her, die ⟨את⟩ Jisraël richteten, und ⟨auch⟩ nicht alle Tage der Könige von Jisraël und der Könige von Jehudah.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נַֽעֲשָׂה֙",
+      "gloss": "war … gemacht worden"
+    },
+    {
+      "surface": "כַּפֶּ֣סַח",
+      "gloss": "wie ⟨das⟩ Pessach"
+    },
+    {
+      "surface": "הַזֶּ֔ה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "מִימֵי֙",
+      "gloss": "von den Tagen … her"
+    },
+    {
+      "surface": "הַשֹּׁ֣פְטִ֔ים",
+      "gloss": "der Richter"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שָׁפְט֖וּ",
+      "gloss": "richteten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וְכֹ֗ל",
+      "gloss": "und ⟨auch⟩ nicht all"
+    },
+    {
+      "surface": "יְמֵ֛י",
+      "gloss": "die Tage"
+    },
+    {
+      "surface": "מַלְכֵ֥י",
+      "gloss": "der Könige"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "von Jisraël"
+    },
+    {
+      "surface": "וּמַלְכֵ֥י",
+      "gloss": "und der Könige"
+    },
+    {
+      "surface": "יְהוּדָֽה",
+      "gloss": "von Jehudah"
+    }
+  ],
+  "timestamp": "2026-08-06T01:37:51.028786841Z",
+  "model": "glm-5.2"
+}

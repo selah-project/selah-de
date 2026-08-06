@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Ist ⟨denn nicht⟩ ein Kriegsdienst ⟨zuteilen⟩ dem Sterblichen auf der Erde, und wie die Tage eines Tagelöhners ⟨sind⟩ seine Tage?",
+  "tokens": [
+    {
+      "surface": "הֲלֹא",
+      "gloss": "Ist ⟨denn nicht⟩"
+    },
+    {
+      "surface": "צָבָ֣א",
+      "gloss": "ein Kriegsdienst"
+    },
+    {
+      "surface": "לֶאֱנ֣וֹשׁ",
+      "gloss": "dem Sterblichen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "וְכִימֵ֖י",
+      "gloss": "und wie die Tage"
+    },
+    {
+      "surface": "שָׂכִ֣יר",
+      "gloss": "eines Tagelöhners"
+    },
+    {
+      "surface": "יָמָֽיו",
+      "gloss": "seine Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T07:00:03.259767388Z",
+  "model": "glm-5.2"
+}

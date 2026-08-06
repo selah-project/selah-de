@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und JHWH sprach zu Mosche: „Ich habe ⟨את⟩ dieses Volk gesehen, und siehe, ⟨es ist⟩ ein Volk hart am Nacken, ⟨dieses⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ich habe gesehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hart"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "am Nacken"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨es ist⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T15:39:17.041006768Z",
+  "model": "glm-5.2"
+}

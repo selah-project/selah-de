@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "und ⟨את⟩ Resen, zwischen Ninwe und zwischen Kelach — das ist die große Stadt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "das"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ist die Stadt"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "die große"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:49.953687844Z",
+  "model": "glm-5.2"
+}

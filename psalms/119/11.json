@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "In meinem Herzen habe ich dein Wort verborgen, damit ich nicht gegen dich sündige.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "In meinem Herzen"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "habe ich … verborgen"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dein Wort"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ich sündige"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gegen dich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:47.980535670Z",
+  "model": "glm-5.2"
+}

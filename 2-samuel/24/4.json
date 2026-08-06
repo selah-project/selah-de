@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Aber das Wort des Königs blieb stark über Joaw und über die Befehlshaber der Streitmacht. Und Joaw und die Befehlshaber der Streitmacht zogen aus vor dem König, um ⟨את⟩ das Volk zu mustern, ⟨nämlich⟩ ⟨את⟩ Jisra'el.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Aber ⟨es⟩ blieb stark"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "über"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und über"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "die Befehlshaber"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "der Streitmacht"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "Und ⟨sie⟩ zogen aus"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "und die Befehlshaber"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "der Streitmacht"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "um zu mustern"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-06T08:44:03.591536111Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Wird El ⟨das⟩ Recht beugen, oder wird Schaddai Gerechtigkeit beugen?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Wird El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "beugen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨das⟩ Recht"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "oder"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Schaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "beugen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Gerechtigkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T09:23:48.958124427Z",
+  "model": "glm-5.2"
+}

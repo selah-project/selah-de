@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Viel wundringend ⟨wird er⟩ ⟨das⟩ All, und ⟨wer⟩ einen Kessil anstellt, ⟨wer⟩ Vorübergehende anstellt.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Viel"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "wundringend"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨das⟩ All"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "und ⟨wer⟩ anstellt"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "einen Kessil"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "⟨wer⟩ anstellt"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "Vorübergehende"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:10.730407229Z",
+  "model": "glm-5.2"
+}

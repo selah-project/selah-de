@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Esra, der Kohen, brachte ⟨את⟩ die Tora vor die Versammlung, vom Mann bis zur Frau, und jeder, der verstand, zu hören, am Tag eins, zum siebten Monat.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "und er brachte"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Esra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "die Versammlung"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "vom Mann"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "zur Frau"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und jeder"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "der verstand"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "zu hören"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eins"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "zum Monat"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "dem siebten"
+    }
+  ],
+  "timestamp": "2026-08-06T07:18:04.478892529Z",
+  "model": "glm-5.2"
+}

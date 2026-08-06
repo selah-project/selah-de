@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und du, Menschensohn, ⟨wirst du⟩ richten, ⟨wirst du⟩ richten ⟨את⟩ die Blutstadt? Und du sollst ⟨ihr⟩ kundtun ⟨את⟩ alle ihre Gräuel!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Und du"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨des⟩ Menschen"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "⟨wirst du⟩ richten"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "⟨wirst du⟩ richten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Blutstadt"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "der Blute"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "und du sollst kundtun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle ihre Gräuel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "ihre Gräuel"
+    }
+  ],
+  "timestamp": "2026-08-06T06:21:56.011084227Z",
+  "model": "glm-5.2"
+}

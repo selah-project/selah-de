@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim gab ⟨את⟩ Daniël zu Chessed und zu Erbarmen vor dem Fürsten der Sarisim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniël"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniël"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "zu Chessed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "und zu Erbarmen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "שר",
+      "gloss": "dem Fürsten"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "der Sarisim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:33:49.386161292Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und Awijam legte sich zu seinen Vätern, und sie begruben ⟨את ihn⟩ in der Stadt Dawids, und Asa, sein Sohn, wurde König an seiner Stelle.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁכַּ֤ב",
+      "gloss": "Und er legte sich"
+    },
+    {
+      "surface": "אֲבִיָּם֙",
+      "gloss": "Awijam"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אֲבֹתָ֔יו",
+      "gloss": "seinen Vätern"
+    },
+    {
+      "surface": "וַיִּקְבְּר֥וּ",
+      "gloss": "und sie begraben"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "בְּעִ֣יר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "דָּוִ֑ד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "וַיִּמְלֹ֛ךְ",
+      "gloss": "und er wurde König"
+    },
+    {
+      "surface": "אָסָ֥א",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בְנ֖וֹ",
+      "gloss": "sein Sohn"
+    },
+    {
+      "surface": "תַּחְתָּֽיו",
+      "gloss": "an seiner Stelle"
+    }
+  ],
+  "timestamp": "2026-08-06T05:50:59.812149533Z",
+  "model": "glm-5.2"
+}

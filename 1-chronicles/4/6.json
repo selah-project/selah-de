@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Naara gebar ihm ⟨את⟩ Achusam und ⟨את⟩ Chefer und ⟨את⟩ Temeni und ⟨את⟩ die-Achaschtari. Das sind die Söhne Naaras.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Und sie gebar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achusam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Achusam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Chefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die-Achaschtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "die-Achaschtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Das sind"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naaras"
+    }
+  ],
+  "timestamp": "2026-08-06T04:53:13.850508404Z",
+  "model": "glm-5.2"
+}

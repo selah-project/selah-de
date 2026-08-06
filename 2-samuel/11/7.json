@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Urija kam zu ihm, und Dawid fragte nach dem Schalom des Joaw und nach dem Schalom des Volkes und nach dem Schalom des Krieges.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und ⟨er⟩ kam"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "und ⟨er⟩ fragte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nach dem Schalom"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "des Joaw"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "und nach dem Schalom"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "und nach dem Schalom"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "des Krieges"
+    }
+  ],
+  "timestamp": "2026-08-06T20:26:25.711135257Z",
+  "model": "glm-5.2"
+}

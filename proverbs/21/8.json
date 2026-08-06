@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Verkehrt ⟨ist⟩ der Weg eines Mannes ⟨beladen⟩ mit Schuld, aber der Reine — richtig ⟨ist⟩ sein Tun.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "Verkehrt"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "der Weg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eines Mannes"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "mit Schuld"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "aber der Reine"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "richtig"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "sein Tun"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:26.357911313Z",
+  "model": "glm-5.2"
+}

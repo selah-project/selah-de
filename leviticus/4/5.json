@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und der Kohen, der Maschiach, nimmt von dem Blut des Stiers und bringt ⟨es⟩ ⟨את⟩ zum Zelt der Begegnung.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Und nimmt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "der Maschiach"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "von dem Blut"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "des Stiers"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "und bringt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn (das Blut)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    }
+  ],
+  "timestamp": "2026-08-06T02:08:58.256317525Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und die Söhne Aharons sollen es ⟨את⟩ in Rauch aufgehen lassen auf dem Altar, über dem Olaopfer, das auf dem Holz ⟨ist⟩, das auf dem Feuer ⟨ist⟩ — ein Feueropfer, Geruch der Befriedigung für JHWH.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "Und … sollen in Rauch aufgehen lassen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ es",
+      "marks": "die Söhne Aharons (als Subjekt) \/ das Opfer (als Objekt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "auf dem Altar"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dem Olaopfer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dem Holz ⟨ist⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dem Feuer ⟨ist⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ein Feueropfer"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "Geruch"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "der Befriedigung"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T08:20:53.196621563Z",
+  "model": "glm-5.2"
+}

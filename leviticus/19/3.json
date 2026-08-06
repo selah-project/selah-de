@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Ein jeder — ⟨seine⟩ Mutter und ⟨seinen⟩ Vater soll ⟨er⟩ fürchten, und ⟨את⟩ meine Schabbatot soll ⟨ihr⟩ halten: Ich ⟨bin⟩ JHWH, euer Elohim.",
+  "tokens": [
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "Ein jeder"
+    },
+    {
+      "surface": "אִמּ֤וֹ",
+      "gloss": "Mutter"
+    },
+    {
+      "surface": "וְאָבִיו֙",
+      "gloss": "und Vater"
+    },
+    {
+      "surface": "תִּירָ֔אוּ",
+      "gloss": "soll ⟨er⟩ fürchten"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Schabbatot"
+    },
+    {
+      "surface": "שַׁבְּתֹתַ֖י",
+      "gloss": "meine Schabbatot"
+    },
+    {
+      "surface": "תִּשְׁמֹ֑רוּ",
+      "gloss": "soll ⟨ihr⟩ halten"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:28:08.257112563Z",
+  "model": "glm-5.2"
+}

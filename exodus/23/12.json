@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 23:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Sechs Tage sollst du deine Arbeit tun, und am siebten Tag sollst du Schabbat halten, damit dein Rind und dein Esel ruhen und der Sohn deiner Magd und der Ger Atem schöpfe.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sechs"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sollst du … tun"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "deine Arbeit"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "und am Tag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "dem siebten"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "sollst du Schabbat halten"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ruhen"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "dein Rind"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "und dein Esel"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "und … Atem schöpfe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "der Sohn"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "deiner Magd"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "und der Ger"
+    }
+  ],
+  "timestamp": "2026-08-06T02:06:03.996700925Z",
+  "model": "glm-5.2"
+}

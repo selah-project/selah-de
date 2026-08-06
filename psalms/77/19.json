@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "⟨Die⟩ Stimme deines Donners ⟨war⟩ im Strudel; Blitze leuchteten auf ⟨die⟩ Erdbewohner ⟨—⟩ sie bebte, und ⟨die⟩ Erde wurde erschüttert.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "⟨die⟩ Stimme"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "deines Donners"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "im Strudel"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "leuchteten auf"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "Blitze"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨die⟩ Erdbewohner"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "sie bebte"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "und ⟨die⟩ Erde wurde erschüttert"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨die⟩ Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:28.351845908Z",
+  "model": "glm-5.2"
+}

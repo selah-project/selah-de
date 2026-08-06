@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Diese sollen stehen, um ⟨את⟩ das Volk zu segnen, auf dem Berg Grisim, beim Überschreiten ⟨des⟩ Jardens: Schimon und Lewi und Jehuda und Jissachar und Josef und Binjamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Diese"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "sollen stehen"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "um zu segnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨dem⟩ Berg"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Grisim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "beim Überschreiten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨des⟩ Jardens"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Schimon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "und Lewi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "und Jehuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "und Jissachar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "und Josef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "und Binjamin"
+    }
+  ],
+  "timestamp": "2026-08-05T20:49:34.654287658Z",
+  "model": "glm-5.2"
+}

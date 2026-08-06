@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "Der du mich gesehen hast ⟨als⟩ Bedrängnisse viele und Übles — ⟨du⟩ wirst umwenden, mich lebendig machen, und aus den Tiefen der Erde wirst du umwenden, mich emporsteigen lassen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Der"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "du mich gesehen hast"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "Bedrängnisse"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "viele"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "und Übles"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wirst umwenden"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "mich lebendig machen"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "und aus den Tiefen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wirst umwenden"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "mich emporsteigen lassen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:29.244317768Z",
+  "model": "glm-5.2"
+}

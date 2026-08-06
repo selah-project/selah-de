@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 75,
+  "translation": "Und alle Hörner der Frevler ⟨werde⟩ ich abhacken, erhoben ⟨werden⟩ die Hörner des Gerechten.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "קַרְנֵ֣י",
+      "gloss": "Hörner"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "אֲגַדֵּ֑עַ",
+      "gloss": "werde ich abhacken"
+    },
+    {
+      "surface": "תְּ֝רוֹמַ֗מְנָה",
+      "gloss": "erhoben werden"
+    },
+    {
+      "surface": "קַֽרְנ֥וֹת",
+      "gloss": "Hörner"
+    },
+    {
+      "surface": "צַדִּֽיק",
+      "gloss": "des Gerechten"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:33.939191885Z",
+  "model": "glm-5.2"
+}

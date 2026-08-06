@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 7:23",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und er machte ⟨את⟩ das Meer, ein Gusswerk, zehn Ellen von seinem Rand bis zu seinem Rand, kreisrund ringsum, und fünf Ellen ⟨seine⟩ Höhe, und eine Messschnur von dreißig Ellen ummaß ⟨את⟩ es ringsum.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "und er machte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Meer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ein Gusswerk"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "von seinem Rand"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "seinem Rand"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kreisrund"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "und fünf"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "seine Höhe"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "und eine Messschnur"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dreißig"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ummaß"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "es"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    }
+  ],
+  "timestamp": "2026-08-05T21:27:15.168816997Z",
+  "model": "glm-5.2"
+}

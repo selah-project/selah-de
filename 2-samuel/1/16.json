@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Dawid sagte zu ihm: „Dein Blut ⟨sei⟩ auf deinem Kopf, denn dein Mund hat gegen dich ausgesagt, indem ⟨du⟩ sagst: ‚Ich habe ⟨את⟩ den Gesalbten JHWHs getötet.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "Dein Blut"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "deinem Kopf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "dein Mund"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "hat ausgesagt"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gegen dich"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨du⟩ sagst"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "habe getötet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Gesalbten"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "den Gesalbten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T05:44:18.306272103Z",
+  "model": "glm-5.2"
+}

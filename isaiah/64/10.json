@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 64,
+  "translation": "Unser heiliges Haus und unsere Pracht, worin dich unsere Väter priesen, ⟨ist⟩ dem Verbrennen mit Feuer verfallen, und all unsere begehrten Dinge ⟨sind⟩ der Verwüstung verfallen.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "unser heiliges"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "und unsere Pracht"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "worin"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "dich priesen"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "unsere Väter"
+    },
+    {
+      "surface": "היה",
+      "gloss": "verfallen war"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "dem Verbrennen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "unsere begehrten Dinge"
+    },
+    {
+      "surface": "היה",
+      "gloss": "verfallen war"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "der Verwüstung"
+    }
+  ],
+  "timestamp": "2026-08-06T10:14:22.397051568Z",
+  "model": "glm-5.2"
+}

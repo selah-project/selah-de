@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 73,
+  "translation": "Und ich rechnete darauf, ⟨das⟩ zu erkennen — ⟨es⟩ ist Mühsal in meinen Augen.",
+  "tokens": [
+    {
+      "surface": "וָֽ֭אֲחַשְּׁבָה",
+      "gloss": "Und ich rechnete"
+    },
+    {
+      "surface": "לָדַ֣עַת",
+      "gloss": "darauf, ⟨das⟩ zu erkennen"
+    },
+    {
+      "surface": "זֹ֑את",
+      "gloss": "dies"
+    },
+    {
+      "surface": "עָמָ֖ל",
+      "gloss": "Mühsal"
+    },
+    {
+      "surface": "הִֽיא",
+      "gloss": "⟨es⟩ ist"
+    },
+    {
+      "surface": "בְּעֵינָֽי",
+      "gloss": "in meinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T20:40:10.301254328Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Die Bögen der Helden ⟨sind⟩ zerschmettert, und die Strauchelnden haben sich mit Kraft gegürtet.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "Die Bögen"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "der Helden"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "⟨sind⟩ zerschmettert"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "und die Strauchelnden"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "haben sich gegürtet"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mit Kraft"
+    }
+  ],
+  "timestamp": "2026-08-06T05:37:39.057955113Z",
+  "model": "glm-5.2"
+}

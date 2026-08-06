@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und ⟨die⟩ Arbeit war genug für die ganze Arbeit, um ⟨את⟩ sie zu machen, und es blieb übrig.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Und ⟨die⟩ Arbeit"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "war"
+    },
+    {
+      "surface": "דים",
+      "gloss": "genug"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "für die ganze"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "Arbeit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "um zu machen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "und es blieb übrig"
+    }
+  ],
+  "timestamp": "2026-08-06T00:21:23.725339149Z",
+  "model": "glm-5.2"
+}

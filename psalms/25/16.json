@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Wende dich mir zu und erweise mir Chen, denn einsam und gebeugt bin ich.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wende"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "dich mir zu"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "und erweise mir Chen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "einsam"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "und gebeugt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "bin ich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:32.365995336Z",
+  "model": "glm-5.2"
+}

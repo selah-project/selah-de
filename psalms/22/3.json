@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Mein Elohim, ich rufe bei Tag, und du antwortest nicht, und bei Nacht, und ⟨es ist⟩ keine Stille für mich.",
+  "tokens": [
+    {
+      "surface": "אֱֽלֹהַ֗י",
+      "gloss": "Mein Elohim"
+    },
+    {
+      "surface": "אֶקְרָ֣א",
+      "gloss": "ich rufe"
+    },
+    {
+      "surface": "י֭וֹמָם",
+      "gloss": "bei Tag"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תַעֲנֶ֑ה",
+      "gloss": "du antwortest"
+    },
+    {
+      "surface": "וְ֝לַ֗יְלָה",
+      "gloss": "und bei Nacht"
+    },
+    {
+      "surface": "וְֽלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "דֽוּמִיָּ֥ה",
+      "gloss": "Stille"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "für mich"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:10.204708908Z",
+  "model": "glm-5.2"
+}

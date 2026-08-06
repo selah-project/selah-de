@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Am Ende ⟨von⟩ sieben Jahren sollst du eine Schmita machen.",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "Am Ende"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "von sieben"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sollst du machen"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "eine Schmita"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:32.001487731Z",
+  "model": "glm-5.2"
+}

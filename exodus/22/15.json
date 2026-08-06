@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 22:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und wenn ein Mann eine Jungfrau verführt, die nicht verlobt ist, und mit ihr schläft, soll er ihr ⟨die⟩ Heiratsgabe entrichten — er soll sie ihm zur Frau geben.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "verführt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "eine Jungfrau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "verlobt ist"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "und ⟨er⟩ schläft"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "mit ihr"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "⟨die⟩ Heiratsgabe"
+    },
+    {
+      "surface": "ימהרנה",
+      "gloss": "soll er entrichten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "zur Frau"
+    }
+  ],
+  "timestamp": "2026-08-06T02:05:17.382326623Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Ihr, geht, besorgt euch Stroh, von wo ihr ⟨es⟩ findet! Denn es wird nichts gemindert von eurer Arbeit.",
+  "tokens": [
+    {
+      "surface": "אַתֶּם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "לְכוּ",
+      "gloss": "geht"
+    },
+    {
+      "surface": "קְחוּ",
+      "gloss": "besorgt"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "תֶּבֶן",
+      "gloss": "Stroh"
+    },
+    {
+      "surface": "מֵאֲשֶׁר",
+      "gloss": "von wo"
+    },
+    {
+      "surface": "תִּמְצָאוּ",
+      "gloss": "ihr findet"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "nichts"
+    },
+    {
+      "surface": "נִגְרָע",
+      "gloss": "wird gemindert"
+    },
+    {
+      "surface": "מֵעֲבֹדַתְכֶם",
+      "gloss": "von eurer Arbeit"
+    },
+    {
+      "surface": "דָּבָר",
+      "gloss": "auch nicht das Geringste"
+    }
+  ],
+  "timestamp": "2026-08-06T02:01:12.314767900Z",
+  "model": "glm-5.2"
+}

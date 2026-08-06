@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Bekennt JHWH, denn ⟨er ist⟩ gut, denn für immer ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "הֹד֣וּ",
+      "gloss": "Bekennt"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "חַסְדּֽוֹ",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:12.309889510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "⟨את⟩ den Nachwuchs deiner Ernte sollst du nicht ernten, und ⟨את⟩ die Trauben deines unbeschnittenen Weinstocks sollst du nicht lesen — ein Jahr der Schabbat-Ruhe soll ⟨es⟩ für die Erde sein.",
+  "tokens": [
+    {
+      "surface": "אֵ֣ת",
+      "gloss": "⟨את⟩",
+      "marks": "den Nachwuchs deiner Ernte"
+    },
+    {
+      "surface": "סְפִ֤יחַ",
+      "gloss": "Nachwuchs"
+    },
+    {
+      "surface": "קְצִֽירְךָ֙",
+      "gloss": "deiner Ernte"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִקְצ֔וֹר",
+      "gloss": "sollst du ernten"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Trauben deines unbeschnittenen Weinstocks"
+    },
+    {
+      "surface": "עִנְּבֵ֥י",
+      "gloss": "die Trauben"
+    },
+    {
+      "surface": "נְזִירֶ֖ךָ",
+      "gloss": "deines unbeschnittenen Weinstocks"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִבְצֹ֑ר",
+      "gloss": "sollst du lesen"
+    },
+    {
+      "surface": "שְׁנַ֥ת",
+      "gloss": "ein Jahr"
+    },
+    {
+      "surface": "שַׁבָּת֖וֹן",
+      "gloss": "der Schabbat-Ruhe"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "לָאָֽרֶץ",
+      "gloss": "für die Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:32.025501972Z",
+  "model": "glm-5.2"
+}

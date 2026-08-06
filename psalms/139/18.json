@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Ich will sie zählen — mehr als Sand sind sie; erwache ich, bin ich noch bei dir.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "ich will sie zählen"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "als Sand"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "mehr sind sie"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "erwache ich"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "noch"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bei dir ⟨bin⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:50.693242397Z",
+  "model": "glm-5.2"
+}

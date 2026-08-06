@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "und ⟨את⟩ Cholon und ⟨את⟩ seine Weideflächen, und ⟨את⟩ Devir und ⟨את⟩ seine Weideflächen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Cholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Cholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weideflächen"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seine Weideflächen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weideflächen"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seine Weideflächen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:58:22.271752506Z",
+  "model": "glm-5.2"
+}

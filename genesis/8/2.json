@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨es⟩ wurden verschlossen die Quellen der Tiefe und die Fenster des Himmels, und ⟨es⟩ wurde zurückgehalten der Regen vom Himmel.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "Und ⟨es⟩ wurden verschlossen"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "die Quellen"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "der Tiefe"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "und die Fenster"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "und ⟨es⟩ wurde zurückgehalten"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "der Regen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dem Himmel"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:28.388497278Z",
+  "model": "glm-5.2"
+}

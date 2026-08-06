@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Jehuda zog gegen den Kanaaniter, der in Chevron wohnte — und der Name von Chevron war früher Kirjat-Arba —, und sie schlugen ⟨את⟩ Scheschai und ⟨את⟩ Achiman und ⟨את⟩ Talmi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Und ⟨er⟩ zog"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "den Kanaaniter"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "der wohnte"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "in Chevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "und der Name"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "von Chevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "war früher"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "und sie schlugen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Scheschai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Scheschai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Achiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Talmi"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmi"
+    }
+  ],
+  "timestamp": "2026-08-05T20:58:42.947092283Z",
+  "model": "glm-5.2"
+}

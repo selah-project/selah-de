@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Dawid wohnte in der Burg; deshalb nannten sie sie ⟨die⟩ Stadt Dawids.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Und wohnte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "in der Burg"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "deshalb"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nannten sie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sie"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawids"
+    }
+  ],
+  "timestamp": "2026-08-06T10:43:52.011959332Z",
+  "model": "glm-5.2"
+}

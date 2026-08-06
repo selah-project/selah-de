@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 76,
+  "translation": "Dem Chorleiter, auf Saitenspiel. Ein Mizmor von Asaf, ein Lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "auf Saitenspiel"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "von Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ein Lied"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:25.247968634Z",
+  "model": "glm-5.2"
+}

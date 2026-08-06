@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "An jenem Tag wird der Mensch ⟨את⟩ seine Götzen aus Silber wegwerfen und ⟨את⟩ seine Götzen aus Gold, die man ihm gemacht hat, um sich niederzuwerfen — ⟨den⟩ Maulwürfen und ⟨den⟩ Fledermäusen.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "an Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "wird wegwerfen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Götzen aus Silber"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "seine Götzen"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "aus Silber"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Götzen aus Gold"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "seine Götzen"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "aus Gold"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "man gemacht hat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "um sich niederzuwerfen"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "⟨den⟩ Maulwürfen"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "und"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "⟨den⟩ Fledermäusen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:42:51.086206463Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Kelub, ⟨der⟩ Bruder von Schucha, zeugte ⟨את⟩ Mechir; er ⟨ist⟩ der Vater von Eschton.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Und Kelub"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Bruder"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "von Schucha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mechir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mechir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Vater"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "von Eschton"
+    }
+  ],
+  "timestamp": "2026-08-06T10:42:46.188428440Z",
+  "model": "glm-5.2"
+}

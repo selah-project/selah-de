@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Wer das Auge zukneift, bringt Schmerz, und ein törichter Schwätzer stürzt.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "Wer zukneift"
+    },
+    {
+      "surface": "עין",
+      "gloss": "das Auge"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bringt"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "Schmerz"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "und ein törichter"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "Schwätzer"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "stürzt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:05.650337613Z",
+  "model": "glm-5.2"
+}

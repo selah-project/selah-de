@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Du sollst nicht sehen ⟨את⟩ den Esel deines Bruders oder sein Rind gefallen auf dem Weg und dich vor ihnen verbergen — aufrichten sollst du ⟨es⟩ aufrichten mit ihm.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "du sollst sehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Esel deines Bruders"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Esel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "deines Bruders"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "sein Rind"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "gefallen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "und ⟨du sollst⟩ dich verbergen"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "vor ihnen"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "aufrichten"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "sollst du ⟨es⟩ aufrichten"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:45.517119479Z",
+  "model": "glm-5.2"
+}

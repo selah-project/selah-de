@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und ⟨er soll⟩ bei keiner Nefesch eines Toten nicht hineingehen; für seinen Vater und für seine Mutter soll er sich nicht unrein machen.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Und bei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "irgendeiner"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "מת",
+      "gloss": "eines Toten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "soll er hineingehen"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "für seinen Vater"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "und für seine Mutter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "soll er sich unrein machen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:09.519545Z",
+  "model": "glm-5.2"
+}

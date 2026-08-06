@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨eure⟩ Augen werden sehen, und ihr werdet sagen: „Groß ist JHWH, über die Grenze Jisraels.“",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "Und ⟨eure⟩ Augen"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "werden sehen"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "und ihr"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "werdet sagen"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "Groß ist"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "über"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "die Grenze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-05T22:43:48.524123744Z",
+  "model": "glm-5.2"
+}

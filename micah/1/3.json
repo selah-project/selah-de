@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Denn siehe, JHWH geht aus von seinem Ort, und ⟨er⟩ steigt hinab und schreitet auf den Höhen der Erde.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יֹצֵ֣א",
+      "gloss": "geht aus"
+    },
+    {
+      "surface": "מִמְּקוֹמ֑וֹ",
+      "gloss": "von seinem Ort"
+    },
+    {
+      "surface": "וְיָרַ֥ד",
+      "gloss": "und steigt hinab"
+    },
+    {
+      "surface": "וְדָרַ֖ךְ",
+      "gloss": "und schreitet"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "den Höhen"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T06:33:45.821451628Z",
+  "model": "glm-5.2"
+}

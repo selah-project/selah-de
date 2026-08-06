@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ⟨את⟩ das zweite soll er als Ola zubereiten, nach der Ordnung; und der Kohen soll für ihn Sühnung erwirken wegen seiner Chattat, die er begangen hat, und ⟨es⟩ wird ihm vergeben werden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das zweite"
+    },
+    {
+      "surface": "השני",
+      "gloss": "das zweite"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "soll er zubereiten"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "als Ola"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "nach der Ordnung"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "und der Kohn soll Sühnung erwirken"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "für ihn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "wegen seiner Chattat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "er begangen hat"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "und es wird vergeben werden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:13.866663741Z",
+  "model": "glm-5.2"
+}

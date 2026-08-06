@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und Schafan, der Schreiber, berichtete dem König und sagte: „Chilkija, der Kohen, hat mir ein Buch gegeben.“ Und Schafan las es vor dem König.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Und ⟨er⟩ berichtete"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Schafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "der Schreiber"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ein Buch"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hat gegeben"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "und ⟨er⟩ las es"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Schafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    }
+  ],
+  "timestamp": "2026-08-06T03:08:03.914193557Z",
+  "model": "glm-5.2"
+}

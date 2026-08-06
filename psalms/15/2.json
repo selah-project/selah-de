@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Wer unversehrt geht und Gerechtigkeit wirkt und Emet in seinem Herzen redet.",
+  "tokens": [
+    {
+      "surface": "הוֹלֵ֣ךְ",
+      "gloss": "Wer geht"
+    },
+    {
+      "surface": "תָּ֭מִים",
+      "gloss": "unversehrt"
+    },
+    {
+      "surface": "וּפֹעֵ֥ל",
+      "gloss": "und wirkt"
+    },
+    {
+      "surface": "צֶ֑דֶק",
+      "gloss": "Gerechtigkeit"
+    },
+    {
+      "surface": "וְדֹבֵ֥ר",
+      "gloss": "und redet"
+    },
+    {
+      "surface": "אֱ֝מֶ֗ת",
+      "gloss": "Emet"
+    },
+    {
+      "surface": "בִּלְבָבֽוֹ",
+      "gloss": "in seinem Herzen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:02.211681077Z",
+  "model": "glm-5.2"
+}

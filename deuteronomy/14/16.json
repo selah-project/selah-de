@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "⟨את⟩ die kleine Eule und ⟨את⟩ die große Eule und die Uhu-Eule:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kleine Eule"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "die kleine Eule"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die große Eule"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "die große Eule"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "und die Uhu-Eule"
+    }
+  ],
+  "timestamp": "2026-08-06T00:44:19.200088330Z",
+  "model": "glm-5.2"
+}

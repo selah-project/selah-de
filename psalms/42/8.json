@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Flut ruft zu Flucht beim Schall deiner Wasserschächte; all deine Brandungen und deine Wogen, über mich sind sie hinweggegangen.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Flut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruft zu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Flucht"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "beim Schall"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "deiner Wasserschächte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "deine Brandungen"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "und deine Wogen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "über mich"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "sind sie hinweggegangen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:37.478395493Z",
+  "model": "glm-5.2"
+}

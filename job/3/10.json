@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Weil ⟨es⟩ nicht verschloss die Türen meines Muttermundes, und Mühsal verbarg vor meinen Augen.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Weil"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "סָ֭גַר",
+      "gloss": "verschloss"
+    },
+    {
+      "surface": "דַּלְתֵ֣י",
+      "gloss": "die Türen"
+    },
+    {
+      "surface": "בִטְנִ֑י",
+      "gloss": "meines Muttermundes"
+    },
+    {
+      "surface": "וַיַּסְתֵּ֥ר",
+      "gloss": "und verbarg"
+    },
+    {
+      "surface": "עָ֝מָ֗ל",
+      "gloss": "Mühsal"
+    },
+    {
+      "surface": "מֵעֵינָֽי",
+      "gloss": "vor meinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T22:49:09.850577179Z",
+  "model": "glm-5.2"
+}

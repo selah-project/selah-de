@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 127,
+  "translation": "Ein Lied der Stufen, von Schelomo. Wenn JHWH ⟨das⟩ Haus nicht baut, mühsam arbeiteten seine Bauleute ⟨an⟩ ihm — umsonst. Wenn JHWH ⟨die⟩ Stadt nicht bewacht, umsonst wachte der Wächter.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ein Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "der Stufen"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "von Schelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "baut"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "umsonst"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mühsam arbeiteten"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "seine Bauleute"
+    },
+    {
+      "surface": "בו",
+      "gloss": "an ihm"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bewacht"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "umsonst"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "wachte"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "der Wächter"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:36.247067942Z",
+  "model": "glm-5.2"
+}

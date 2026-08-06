@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und er führte mich hinaus ⟨in⟩ die Weite, ⟨את⟩ mich entlastete er, denn er hatte Gefallen an mir.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "und er führte hinaus"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "⟨in⟩ die Weite"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "entlastete er mich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "er hatte Gefallen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "an mir"
+    }
+  ],
+  "timestamp": "2026-08-06T15:48:52.300950550Z",
+  "model": "glm-5.2"
+}

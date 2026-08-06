@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 20:2",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ⟨er⟩ sprach zu ihm: „Fern sei es! Du wirst nicht sterben. Siehe, nicht tut mein Vater ein Wort, groß oder klein, und deckt nicht ⟨את⟩ mein Ohr auf. Und warum sollte mein Vater ⟨von⟩ mir ⟨את⟩ das Wort, dieses, verbergen? Es ist nicht so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Fern sei es!"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "Du wirst sterben"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tut"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mein Vater"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ein Wort"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groß"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ein Wort"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "klein"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "deckt auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Ohr"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mein Ohr"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "Und warum"
+    },
+    {
+      "surface": "יסתיר",
+      "gloss": "sollte verbergen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mein Vater"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨von⟩ mir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Wort"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Es ist nicht"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-08-06T15:46:17.191087180Z",
+  "model": "glm-5.2"
+}

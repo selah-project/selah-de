@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 140,
+  "translation": "Ihre Zunge schärfen sie wie eine Schlange, Gift der Viper ⟨ist⟩ unter ihren Lippen. Sela.",
+  "tokens": [
+    {
+      "surface": "שָׁנֲנוּ",
+      "gloss": "schärfen"
+    },
+    {
+      "surface": "לְשׁוֹנָם",
+      "gloss": "ihre Zunge"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "wie"
+    },
+    {
+      "surface": "נָחָשׁ",
+      "gloss": "eine Schlange"
+    },
+    {
+      "surface": "חֲמַת",
+      "gloss": "Gift"
+    },
+    {
+      "surface": "עַכְשׁוּב",
+      "gloss": "der Viper"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "שְׂפָתֵימוֹ",
+      "gloss": "ihren Lippen"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-06T06:53:05.130189954Z",
+  "model": "glm-5.2"
+}

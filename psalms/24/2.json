@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Denn er auf Meeren hat sie gegründet und auf Strömen sie gefestigt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Meeren"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "hat sie gegründet"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "Strömen"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "sie gefestigt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:13.484039324Z",
+  "model": "glm-5.2"
+}

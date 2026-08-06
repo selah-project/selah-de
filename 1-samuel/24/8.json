@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Dawid schärfte ⟨את⟩ seinen Männern ⟨ein⟩ durch Worte, und ⟨er⟩ ließ sie nicht aufstehen gegen Schaul. Und Schaul erhob sich aus der Höhle und ging auf dem Weg.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "und ⟨er⟩ schärfte ⟨ein⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Männern"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "seine Männer"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "durch Worte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ließ sie"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "aufstehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "und Schaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "erhob sich"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "aus der Höhle"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und ging"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf dem Weg"
+    }
+  ],
+  "timestamp": "2026-08-06T20:24:59.464066699Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Mein Elohim, auf dich habe ich vertraut — lass mich nicht schamrot werden, lass meine Feinde nicht über mich jauchzen!",
+  "tokens": [
+    {
+      "surface": "אֱֽלֹהַ֗י",
+      "gloss": "Mein Elohim"
+    },
+    {
+      "surface": "בְּךָ֣",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "בָ֭טַחְתִּי",
+      "gloss": "habe ich vertraut"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "lass ⟨mich⟩ nicht"
+    },
+    {
+      "surface": "אֵב֑וֹשָׁה",
+      "gloss": "schamrot werden"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "lass nicht"
+    },
+    {
+      "surface": "יַֽעַלְצ֖וּ",
+      "gloss": "jauchzen"
+    },
+    {
+      "surface": "אֹיְבַ֣י",
+      "gloss": "meine Feinde"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "über mich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:43.218540903Z",
+  "model": "glm-5.2"
+}

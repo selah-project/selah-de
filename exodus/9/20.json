@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Wer das Wort JHWHs fürchtete, unter den Knechten Paros — der floh ⟨את⟩ seine Knechte und ⟨את⟩ sein Vieh in die Häuser.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Wer fürchtete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Wort"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "unter den Knechten"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paros"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "der floh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Knechte"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seine Knechte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "sein Vieh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "die Häuser"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:52.577247548Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Ein makelloses männliches ⟨Tier⟩, ein Jahr alt, soll es euch ⟨sein⟩; von den Lämmern oder von den Ziegen sollt ihr ⟨es⟩ nehmen.",
+  "tokens": [
+    {
+      "surface": "שֶׂה",
+      "gloss": "⟨Tier⟩ der Herde"
+    },
+    {
+      "surface": "תָּמִים",
+      "gloss": "makellos"
+    },
+    {
+      "surface": "זָכָר",
+      "gloss": "männlich"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ein ⟨Sohn⟩"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "Jahr"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הַכְּבָשִׂים",
+      "gloss": "den Lämmern"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "oder von"
+    },
+    {
+      "surface": "הָעִזִּים",
+      "gloss": "den Ziegen"
+    },
+    {
+      "surface": "תִּקָּחוּ",
+      "gloss": "sollt ihr nehmen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:09:31.927304601Z",
+  "model": "glm-5.2"
+}

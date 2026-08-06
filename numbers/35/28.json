@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 35:28",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "denn in seiner Zufluchtsstadt soll er bleiben bis zum Tod des Kohen, des Großen, und nach dem Tod des Kohen, des Großen, darf der Totschläger zurückkehren in ⟨das⟩ Land seines Eigentums.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in Stadt"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "seiner Zuflucht"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "soll er bleiben"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Tod"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "des Kohen"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "des Großen"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "und nach"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dem Tod"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "des Kohen"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "des Großen"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "darf zurückkehren"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "der Totschläger"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨das⟩ Land"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "seines Eigentums"
+    }
+  ],
+  "timestamp": "2026-08-06T00:41:16.003959296Z",
+  "model": "glm-5.2"
+}

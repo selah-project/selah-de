@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Dawid tat so, wie JHWH ihm geboten hatte, und er schlug ⟨את⟩ die Pelischtim von Gewa bis ⟨dorthin, wo⟩ du nach Geser ⟨kommst⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "und ⟨er⟩ tat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "und ⟨er⟩ schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Pelischtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "von Gewa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "באך",
+      "gloss": "du kommst"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "nach Geser"
+    }
+  ],
+  "timestamp": "2026-08-06T08:41:03.043334176Z",
+  "model": "glm-5.2"
+}

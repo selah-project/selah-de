@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Aharon streckte ⟨את⟩ seine Hand aus über die Wasser Mizrajims, und der Frosch stieg herauf und bedeckte ⟨את⟩ das Land Mizrajim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Und streckte aus"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajims"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "und stieg herauf"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "der Frosch"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "und bedeckte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T02:01:41.136549199Z",
+  "model": "glm-5.2"
+}

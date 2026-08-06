@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Rufe zu mir, und ich werde dir antworten und dir große und unzugängliche Dinge verkünden, die du nicht kennst.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Rufe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "und ich werde dir antworten"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "und werde verkünden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "große Dinge"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "und unzugängliche"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "du kennst"
+    }
+  ],
+  "timestamp": "2026-08-05T22:08:55.422873163Z",
+  "model": "glm-5.2"
+}

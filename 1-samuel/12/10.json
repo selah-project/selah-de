@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und sie schrien zu JHWH, und sie sagten: „Wir haben gesündigt, denn wir haben ⟨את⟩ JHWH verlassen und ⟨את⟩ die Baalim und ⟨את⟩ die Aschtarot gedient. Und nun — rette uns aus der Hand unserer Feinde, und wir wollen dir dienen.“",
+  "tokens": [
+    {
+      "surface": "וַיִּזְעֲק֤וּ",
+      "gloss": "und sie schrien"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "und sie sagten"
+    },
+    {
+      "surface": "חָטָ֔אנוּ",
+      "gloss": "wir haben gesündigt"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עָזַ֨בְנוּ֙",
+      "gloss": "wir haben verlassen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וַנַּעֲבֹ֥ד",
+      "gloss": "und ⟨wir⟩ haben gedient"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Baalim"
+    },
+    {
+      "surface": "הַבְּעָלִ֖ים",
+      "gloss": "die Baalim"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Aschtarot"
+    },
+    {
+      "surface": "הָעַשְׁתָּר֑וֹת",
+      "gloss": "die Aschtarot"
+    },
+    {
+      "surface": "וְעַתָּ֗ה",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "הַצִּילֵ֛נוּ",
+      "gloss": "rette uns"
+    },
+    {
+      "surface": "מִיַּ֥ד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "אֹיְבֵ֖ינוּ",
+      "gloss": "unserer Feinde"
+    },
+    {
+      "surface": "וְנַעַבְדֶֽךָּ",
+      "gloss": "und wir wollen dir dienen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:45:48.285451654Z",
+  "model": "glm-5.2"
+}

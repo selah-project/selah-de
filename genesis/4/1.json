@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und der Mensch erkannte ⟨את⟩ Chawa, seine Frau. Sie wurde schwanger und gebar ⟨את⟩ Kajin. Und sie sagte: „Ich habe mir geschafft einen Mann ⟨mit⟩ JHWH.“",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Und der Mensch"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "erkannte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chawa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seine Frau"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "sie wurde schwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "und gebar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kajin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "und sie sagte"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ich habe mir geschafft"
+    },
+    {
+      "surface": "איש",
+      "gloss": "einen Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨mit⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T19:53:57.054182574Z",
+  "model": "glm-5.2"
+}

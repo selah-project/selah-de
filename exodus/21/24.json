@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Auge unter Auge, Zahn unter Zahn, Hand unter Hand, Fuß unter Fuß:",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "Auge"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Auge"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Zahn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Zahn"
+    },
+    {
+      "surface": "יד",
+      "gloss": "Hand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "יד",
+      "gloss": "Hand"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "Fuß"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "Fuß"
+    }
+  ],
+  "timestamp": "2026-08-06T05:16:05.445218482Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 92,
+  "translation": "Noch im Grauen werden ⟨sie⟩ Frucht tragen, saftig und grün werden ⟨sie⟩ sein.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Noch"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "werden ⟨sie⟩ Frucht tragen"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "im Grauen"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "saftig"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "und grün"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "werden ⟨sie⟩ sein"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:09.806693457Z",
+  "model": "glm-5.2"
+}

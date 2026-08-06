@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Die Stimme JHWHs ⟨ist⟩ in Kraft, die Stimme JHWHs ⟨ist⟩ in Pracht.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Die Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "in Kraft"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "in Pracht"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:27.470606577Z",
+  "model": "glm-5.2"
+}

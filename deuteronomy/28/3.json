@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Gesegnet ⟨bist⟩ du in der Stadt, und gesegnet ⟨bist⟩ du auf dem Feld.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "und gesegnet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "auf dem Feld"
+    }
+  ],
+  "timestamp": "2026-08-06T08:30:30.485720260Z",
+  "model": "glm-5.2"
+}

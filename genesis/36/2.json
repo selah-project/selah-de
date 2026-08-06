@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Esav nahm ⟨את⟩ seine Frauen von den Töchtern Kenaans: ⟨את⟩ Ada, die Tochter Elons, des Chititers, und ⟨את⟩ Oholibama, die Tochter Anas, der Tochter Zibons, des Chiwiters.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nahm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Frauen"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "seine Frauen"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "von den Töchtern"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaans"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ada"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die Tochter"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elons"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "des Chititers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Oholibama"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die Tochter"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anas"
+    },
+    {
+      "surface": "בת",
+      "gloss": "der Tochter"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Zibons"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "des Chiwiters"
+    }
+  ],
+  "timestamp": "2026-08-05T20:01:41.780708852Z",
+  "model": "glm-5.2"
+}

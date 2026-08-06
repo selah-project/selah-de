@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 58,
+  "translation": "Elohim, zermalme ihre Zähne in ihrem Maul! JHWH, die Reißzähne der Junglöwen — brich ⟨sie⟩ ab!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "zermalme"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "ihre Zähne"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "in ihrem Maul"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "die Reißzähne"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "der Junglöwen"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "brich ⟨sie⟩ ab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:54.385484491Z",
+  "model": "glm-5.2"
+}

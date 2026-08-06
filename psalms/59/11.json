@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Mein Elohim ⟨der⟩ Chessed — ⟨er⟩ wird mir zuvorkommen; Elohim wird mich schauen lassen ⟨in⟩ meinen Bedrängern.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Mein Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨der⟩ Chessed"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "wird mir zuvorkommen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "wird mich schauen lassen"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "⟨in⟩ meinen Bedrängern"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:05.320875221Z",
+  "model": "glm-5.2"
+}

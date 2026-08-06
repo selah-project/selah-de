@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 73,
+  "translation": "Denn siehe, die dir Fernen gehen zugrunde; du hast ausgerottet alle, die dir hurten ⟨von⟩ dir weg.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הִנֵּ֣ה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "רְחֵקֶ֣יךָ",
+      "gloss": "die dir Fernen"
+    },
+    {
+      "surface": "יֹאבֵ֑דוּ",
+      "gloss": "gehen zugrunde"
+    },
+    {
+      "surface": "הִ֝צְמַ֗תָּה",
+      "gloss": "du hast ausgerottet"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זוֹנֶ֥ה",
+      "gloss": "die hurten"
+    },
+    {
+      "surface": "מִמֶּֽךָּ",
+      "gloss": "von dir weg"
+    }
+  ],
+  "timestamp": "2026-08-06T04:16:48.690718572Z",
+  "model": "glm-5.2"
+}

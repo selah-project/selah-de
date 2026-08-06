@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und wenn Männer einen Rechtsstreit führen und ein Mann ⟨את⟩ seinen Nächsten schlägt mit einem Stein oder mit der Faust, und er nicht stirbt, sondern bettlägerig fällt —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "sie einen Rechtsstreit führen"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "und schlägt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Nächsten"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "seinen Nächsten"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "mit einem Stein"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "mit der Faust"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "stirbt"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "sondern fällt"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "bettlägerig"
+    }
+  ],
+  "timestamp": "2026-08-06T02:04:54.285284058Z",
+  "model": "glm-5.2"
+}

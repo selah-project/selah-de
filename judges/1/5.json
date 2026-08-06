@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und sie fanden ⟨את⟩ Adoni-Bezek in Bezek, und sie kämpften gegen ihn, und sie schlugen ⟨את⟩ den Kenaaniter und ⟨את⟩ den Perisiter.",
+  "tokens": [
+    {
+      "surface": "וַֽ֠יִּמְצְאוּ",
+      "gloss": "Und sie fanden"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אֲדֹנִ֥י",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בֶ֨זֶק֙",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בְּבֶ֔זֶק",
+      "gloss": "in Bezek"
+    },
+    {
+      "surface": "וַיִּּֽלָּחֲמ֖וּ",
+      "gloss": "und sie kämpften"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "gegen ihn"
+    },
+    {
+      "surface": "וַיַּכּ֕וּ",
+      "gloss": "und sie schlugen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Kenaaniter"
+    },
+    {
+      "surface": "הַֽכְּנַעֲנִ֖י",
+      "gloss": "den Kenaaniter"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Perisiter"
+    },
+    {
+      "surface": "הַפְּרִזִּֽי",
+      "gloss": "den Perisiter"
+    }
+  ],
+  "timestamp": "2026-08-06T05:33:07.331917566Z",
+  "model": "glm-5.2"
+}

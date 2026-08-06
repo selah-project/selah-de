@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "als er ⟨את⟩ den Reichtum der Herrlichkeit seiner Königsherrschaft zeigte und ⟨את⟩ die Kostbarkeit der Pracht seiner Größe, viele Tage, achtzig und hundert Tage.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "als er zeigte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Reichtum der Herrlichkeit seiner Königsherrschaft"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "den Reichtum"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "der Herrlichkeit"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "seiner Königsherrschaft"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Kostbarkeit der Pracht seiner Größe"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "die Kostbarkeit"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "der Pracht"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "seiner Größe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "viele"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "achtzig"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "und hundert"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-05T23:32:35.967516127Z",
+  "model": "glm-5.2"
+}

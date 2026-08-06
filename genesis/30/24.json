@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und sie nannte ⟨את⟩ seinen Namen Jossif, ⟨und sagte⟩: „JHWH füge mir einen anderen Sohn hinzu.“",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "Und sie nannte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Namen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jossif"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und sagte⟩"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "füge hinzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "einen Sohn"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "einen anderen"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:36.766010614Z",
+  "model": "glm-5.2"
+}

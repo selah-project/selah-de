@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Elohim ⟨ist⟩ ein gerechter Richter, und ⟨ein⟩ El, der zürnt an jedem Tag.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "Richter"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "gerechter"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨ein⟩ El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "der zürnt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "an jedem"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tag"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:17.927379625Z",
+  "model": "glm-5.2"
+}

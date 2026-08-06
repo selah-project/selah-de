@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Denn wenn du dich weigerst, ⟨את⟩ mein Volk ziehen zu lassen, siehe, so bringe ich morgen ⟨die⟩ Heuschrecken in dein Gebiet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "du dich weigerst"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ziehen zu lassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "siehe, ich"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "bringe"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "Heuschrecken"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "in dein Gebiet"
+    }
+  ],
+  "timestamp": "2026-08-05T20:07:42.055399643Z",
+  "model": "glm-5.2"
+}

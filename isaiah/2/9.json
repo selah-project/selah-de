@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨der⟩ Mensch beugte sich nieder, und ⟨der⟩ Mann demütigte sich — und ⟨du⟩, ertrage ⟨sie⟩ nicht!",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "und beugte sich nieder"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨der⟩ Mensch"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "und demütigte sich"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨der⟩ Mann"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨du⟩ nicht"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ertrage"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T05:57:19.801464251Z",
+  "model": "glm-5.2"
+}

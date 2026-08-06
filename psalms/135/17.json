@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Ohren haben sie, aber sie hören nicht — auch gibt es keinen Atem in ihrem Mund.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Ohren"
+    },
+    {
+      "surface": "להם",
+      "gloss": "haben sie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "hören sie"
+    },
+    {
+      "surface": "אף",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gibt es keinen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "—"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Atem"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "in ihrem Mund"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:34.782639523Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Der ⟨die⟩ Erde anschaut, und ⟨sie⟩ bebt, die Berge berührt, und ⟨sie⟩ rauchen.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Der ⟨die⟩ Erde anschaut"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨die⟩ Erde"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "und ⟨sie⟩ bebt"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "die Berge berührt"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "die Berge"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "und ⟨sie⟩ rauchen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:14.548418873Z",
+  "model": "glm-5.2"
+}

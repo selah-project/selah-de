@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Es werde doch etwas Wasser geholt, und wascht ⟨eure⟩ Füße, und lehnt euch zurück unter dem Baum.",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "es werde geholt"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "etwas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "und wascht"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "⟨eure⟩ Füße"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "und lehnt euch zurück"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dem Baum"
+    }
+  ],
+  "timestamp": "2026-08-06T01:53:27.340128822Z",
+  "model": "glm-5.2"
+}

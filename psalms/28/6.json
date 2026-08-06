@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Gelobt ⟨sei⟩ JHWH, denn er hat gehört die Stimme meines Flehens.",
+  "tokens": [
+    {
+      "surface": "בָּר֥וּךְ",
+      "gloss": "Gelobt"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כִּ֝י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שָׁ֝מַע",
+      "gloss": "er hat gehört"
+    },
+    {
+      "surface": "ק֣וֹל",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "תַּחֲנוּנָֽי",
+      "gloss": "meines Flehens"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:57.048914871Z",
+  "model": "glm-5.2"
+}

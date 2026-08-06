@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Im siebten Jahr des Jehu wurde Jehoash König, und vierzig Jahre regierte er in Jeruschalajim. Und der Name seiner Mutter war Zibja, von Beër-Scheba.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Im Jahr"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siebten"
+    },
+    {
+      "surface": "ליהוא",
+      "gloss": "des Jehu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wurde König"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoash"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "und vierzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regierte"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeruschalajim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "Und der Name"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "seiner Mutter"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "Zibja"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "von Beër"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Scheba"
+    }
+  ],
+  "timestamp": "2026-08-05T21:36:58.318815402Z",
+  "model": "glm-5.2"
+}

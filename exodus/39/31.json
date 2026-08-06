@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Und sie befestigten daran eine Schnur aus Wollblau, um ⟨sie⟩ oben auf den Kopfbund zu geben, so wie JHWH ⟨dem⟩ Mosche geboten hatte.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Und sie befestigten"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daran"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "eine Schnur"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "aus Wollblau"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "um zu geben"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "den Kopfbund"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "oben"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:59.118381932Z",
+  "model": "glm-5.2"
+}

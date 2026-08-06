@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Zu dir, JHWH, rufe ich, und zu Adonai flehe ich um Gunst.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Zu dir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "rufe ich"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "flehe ich um Gunst"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:43.582445356Z",
+  "model": "glm-5.2"
+}

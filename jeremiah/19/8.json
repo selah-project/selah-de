@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ich werde ⟨את⟩ ⟨diese⟩ Stadt zur Verwüstung machen und zum Pfeifen. Jeder, der an ihr vorbeigeht, wird sich entsetzen und pfeifen über all ihre Schläge.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Und ich werde machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Stadt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "diese"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "zur Verwüstung"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "und zum Pfeifen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Jeder"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "der vorbeigeht"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "an ihr"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "wird sich entsetzen"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "und pfeifen"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "ihre Schläge"
+    }
+  ],
+  "timestamp": "2026-08-05T22:04:34.287238214Z",
+  "model": "glm-5.2"
+}

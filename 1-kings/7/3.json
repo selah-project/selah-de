@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨es war⟩ gedeckt mit Zeder von oben auf den Seitenkammern, die auf den Säulen ⟨sind⟩, fünfundvierzig, fünfzehn die Reihe.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "Und gedeckt"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "mit Zeder"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "von oben"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "den Seitenkammern"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "den Säulen"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "vierzig"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "und fünf"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "die Reihe"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:32.978996651Z",
+  "model": "glm-5.2"
+}

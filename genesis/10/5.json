@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Von diesen ⟨her⟩ verteilten sich die Inseln der Gojim in ihren Ländern, jeder nach seiner Sprache, nach ihren Sippen, in ihren Gojim.",
+  "tokens": [
+    {
+      "surface": "מֵאֵלֶּה",
+      "gloss": "Von diesen"
+    },
+    {
+      "surface": "נִפְרְד֞וּ",
+      "gloss": "verteilten sich"
+    },
+    {
+      "surface": "אִיֵּ֤י",
+      "gloss": "die Inseln"
+    },
+    {
+      "surface": "הַגּוֹיִם֙",
+      "gloss": "der Gojim"
+    },
+    {
+      "surface": "בְּאַרְצֹתָ֔ם",
+      "gloss": "in ihren Ländern"
+    },
+    {
+      "surface": "אִ֖ישׁ",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "לִלְשֹׁנ֑וֹ",
+      "gloss": "nach seiner Sprache"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹתָ֖ם",
+      "gloss": "nach ihren Sippen"
+    },
+    {
+      "surface": "בְּגוֹיֵהֶֽם",
+      "gloss": "in ihren Gojim"
+    }
+  ],
+  "timestamp": "2026-08-06T08:12:20.842356244Z",
+  "model": "glm-5.2"
+}

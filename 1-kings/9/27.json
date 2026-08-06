@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Chiram sandte auf ⟨der⟩ Flotte ⟨את⟩ seine Knechte — Männer der Schiffe, Kundige des Meeres — mit den Knechten Schelomos.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und ⟨er⟩ sandte"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "באני",
+      "gloss": "auf ⟨der⟩ Flotte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Knechte"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seine Knechte"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "der Schiffe"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "Kundige"
+    },
+    {
+      "surface": "הים",
+      "gloss": "des Meeres"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "den Knechten"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomos"
+    }
+  ],
+  "timestamp": "2026-08-06T01:25:00.571886698Z",
+  "model": "glm-5.2"
+}

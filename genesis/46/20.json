@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Und dem Josef wurden ⟨Kinder⟩ geboren im Land Mizrajim, die ihm Asenat gebar, die Tochter Poti-Feras, des Kohen von On: ⟨את⟩ Mennasche und ⟨את⟩ Efrajim.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "und es wurden geboren"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "dem Josef"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asenat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die Tochter"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "Feras"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "des Kohen"
+    },
+    {
+      "surface": "אן",
+      "gloss": "von On"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mennasche"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Mennasche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Efrajim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-08-05T17:42:46.310984039Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und Häute von Widdern, rot gefärbt, und Häute von Tachaschim und Akazienholz.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "und Häute"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "von Widdern"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "rot gefärbt"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "und Häute"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "von Tachaschim"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "und Holz"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "von Akazien"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:02.520009468Z",
+  "model": "glm-5.2"
+}

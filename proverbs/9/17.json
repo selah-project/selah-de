@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "„Gestohlenes Wasser ist süß, und Brot im Verborgenen schmeckt angenehm.“",
+  "tokens": [
+    {
+      "surface": "מַֽיִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "גְּנוּבִ֥ים",
+      "gloss": "Gestohlenes"
+    },
+    {
+      "surface": "יִמְתָּ֑קוּ",
+      "gloss": "ist süß"
+    },
+    {
+      "surface": "וְלֶ֖חֶם",
+      "gloss": "und Brot"
+    },
+    {
+      "surface": "סְתָרִ֣ים",
+      "gloss": "im Verborgenen"
+    },
+    {
+      "surface": "יִנְעָֽם",
+      "gloss": "schmeckt angenehm"
+    }
+  ],
+  "timestamp": "2026-08-06T04:26:51.452001243Z",
+  "model": "glm-5.2"
+}

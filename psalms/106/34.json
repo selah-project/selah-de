@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Sie rotteten ⟨את⟩ die Völker nicht aus, von denen JHWH zu ihnen gesprochen hatte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "rotteten aus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Völker"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "von denen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesprochen hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zu ihnen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:54.771591533Z",
+  "model": "glm-5.2"
+}

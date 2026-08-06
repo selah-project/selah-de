@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wasser hast du ⟨dem⟩ Erschöpften nicht zu trinken gegeben, und ⟨dem⟩ Hungrigen hast du Brot vorenthalten.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מַ֭יִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "עָיֵ֣ף",
+      "gloss": "⟨dem⟩ Erschöpften"
+    },
+    {
+      "surface": "תַּשְׁקֶ֑ה",
+      "gloss": "zu trinken gegeben"
+    },
+    {
+      "surface": "וּ֝מֵרָעֵ֗ב",
+      "gloss": "und ⟨dem⟩ Hungrigen"
+    },
+    {
+      "surface": "תִּֽמְנַֽע",
+      "gloss": "hast du vorenthalten"
+    },
+    {
+      "surface": "לָֽחֶם",
+      "gloss": "Brot"
+    }
+  ],
+  "timestamp": "2026-08-06T07:02:42.833555297Z",
+  "model": "glm-5.2"
+}

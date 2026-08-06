@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und es geschah danach, da schlug Dawid ⟨את⟩ die Pelischtim und unterwarf sie. Und Dawid nahm ⟨את⟩ das Zügelmaß der Mutterstadt aus der Hand der Pelischtim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "danach"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨wie gesagt⟩"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "da schlug"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Pelischtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "und unterwarf sie"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "Und ⟨er⟩ nahm"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Zügelmaß"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "Zügelmaß"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "der Mutterstadt"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "der Pelischtim"
+    }
+  ],
+  "timestamp": "2026-08-06T01:14:50.046212496Z",
+  "model": "glm-5.2"
+}

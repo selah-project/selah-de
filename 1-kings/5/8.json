@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ⟨die⟩ Gerste und ⟨das⟩ Stroh für die Pferde und ⟨das⟩ Zugviehl brachten sie an den Ort, ⟨der⟩ dort ⟨sein⟩ würde, jeder nach seiner Pflicht.",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "Und ⟨die⟩ Gerste"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "und ⟨das⟩ Stroh"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "für die Pferde"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "und für ⟨das⟩ Zugviehl"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "brachten sie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "den Ort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨der⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨sein⟩ würde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "nach seiner Pflicht"
+    }
+  ],
+  "timestamp": "2026-08-06T01:23:05.177612223Z",
+  "model": "glm-5.2"
+}

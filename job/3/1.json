@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Nach diesem öffnete Ijjow ⟨את⟩ seinen Mund, und er verfluchte ⟨את⟩ seinen Tag.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Nach"
+    },
+    {
+      "surface": "כן",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "öffnete"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijjow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Mund"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "seinen Mund"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "und er verfluchte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Tag"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "seinen Tag"
+    }
+  ],
+  "timestamp": "2026-08-06T04:32:11.907459384Z",
+  "model": "glm-5.2"
+}

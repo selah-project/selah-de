@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "Ihre Versorgung segne ich reichlich, ihre Dürftigen sättige ich mit Brot.",
+  "tokens": [
+    {
+      "surface": "צֵ֭ידָהּ",
+      "gloss": "Ihre Versorgung"
+    },
+    {
+      "surface": "בָּרֵ֣ךְ",
+      "gloss": "segne ich reichlich"
+    },
+    {
+      "surface": "אֲבָרֵ֑ךְ",
+      "gloss": "(Infinitivabsolut — siehe Anmerkung)"
+    },
+    {
+      "surface": "אֶ֝בְיוֹנֶ֗יהָ",
+      "gloss": "ihre Dürftigen"
+    },
+    {
+      "surface": "אַשְׂבִּ֥יעַֽ",
+      "gloss": "sättige ich"
+    },
+    {
+      "surface": "לָֽחֶם",
+      "gloss": "mit Brot"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:13.957800416Z",
+  "model": "glm-5.2"
+}

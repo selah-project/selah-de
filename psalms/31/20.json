@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Wie groß ⟨ist⟩ dein Gut, das du verborgen hast für deine Ehrfürchtigen, das du erwirkt hast für die, die bei dir Schutz suchen, angesichts der Menschenkinder!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "רב",
+      "gloss": "groß"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "⟨ist⟩ dein Gut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "du verborgen hast"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "für deine Ehrfürchtigen"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "du erwirkt hast"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "für die, die Schutz suchen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bei dir"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "angesichts"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Menschenkinder"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:47.960071987Z",
+  "model": "glm-5.2"
+}

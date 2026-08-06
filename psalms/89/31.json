@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Wenn seine Söhne meine Tora verlassen und in meinen Rechtsbestimmungen nicht gehen,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "sie verlassen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "meine Tora"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "und in meinen Rechtsbestimmungen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "sie gehen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:36.314171706Z",
+  "model": "glm-5.2"
+}

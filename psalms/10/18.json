@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "um ⟨das⟩ Recht zu schaffen dem Waisenkind und ⟨dem⟩ Niedergedrückten — dass ⟨der⟩ Mensch von der Erde nicht weiter Schrecken verbreitet.",
+  "tokens": [
+    {
+      "surface": "לִשְׁפֹּ֥ט",
+      "gloss": "um Recht zu schaffen"
+    },
+    {
+      "surface": "יָת֗וֹם",
+      "gloss": "dem Waisenkind"
+    },
+    {
+      "surface": "וָ֫דָ֥ךְ",
+      "gloss": "und ⟨dem⟩ Niedergedrückten"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יוֹסִ֥יף",
+      "gloss": "weiter"
+    },
+    {
+      "surface": "ע֑וֹד",
+      "gloss": "noch"
+    },
+    {
+      "surface": "לַעֲרֹ֥ץ",
+      "gloss": "Schrecken zu verbreiten"
+    },
+    {
+      "surface": "אֱ֝נ֗וֹשׁ",
+      "gloss": "⟨der⟩ Mensch"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:13.100751270Z",
+  "model": "glm-5.2"
+}

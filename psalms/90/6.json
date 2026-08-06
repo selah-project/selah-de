@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 90,
+  "translation": "Am Morgen blüht es auf und vergeht, am Abend wird es niedergemäht und verdorrt.",
+  "tokens": [
+    {
+      "surface": "בַּ֭בֹּקֶר",
+      "gloss": "Am Morgen"
+    },
+    {
+      "surface": "יָצִ֣יץ",
+      "gloss": "blüht es auf"
+    },
+    {
+      "surface": "וְחָלָ֑ף",
+      "gloss": "und vergeht"
+    },
+    {
+      "surface": "לָ֝עֶ֗רֶב",
+      "gloss": "am Abend"
+    },
+    {
+      "surface": "יְמוֹלֵ֥ל",
+      "gloss": "wird es niedergemäht"
+    },
+    {
+      "surface": "וְיָבֵֽשׁ",
+      "gloss": "und verdorrt"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:21.962364075Z",
+  "model": "glm-5.2"
+}

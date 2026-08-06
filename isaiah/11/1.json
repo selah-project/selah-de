@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨es⟩ geht heraus ein Schössling aus dem Stockstumpf Jischais, und ein Trieb aus seinen Wurzeln wird Frucht bringen.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "und ⟨es⟩ geht heraus"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "ein Schössling"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "aus dem Stockstumpf"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jischais"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "und ein Trieb"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "aus seinen Wurzeln"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "wird Frucht bringen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:41:34.223847606Z",
+  "model": "glm-5.2"
+}

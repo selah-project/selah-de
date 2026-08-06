@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Leite mich in deiner Emet und lehre mich, denn du bist ⟨der⟩ Elohei meines Jescha; ⟨auf⟩ dich warte ich den ganzen Tag.",
+  "tokens": [
+    {
+      "surface": "הַדְרִּיכֵנִי",
+      "gloss": "Leite mich"
+    },
+    {
+      "surface": "בַאֲמִתְּךָ",
+      "gloss": "in deiner Emet"
+    },
+    {
+      "surface": "וְלַמְּדֵנִי",
+      "gloss": "und lehre mich"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "⟨der⟩ Elohei"
+    },
+    {
+      "surface": "יִשְׁעִי",
+      "gloss": "meines Jescha"
+    },
+    {
+      "surface": "אוֹתְךָ",
+      "gloss": "⟨את⟩",
+      "marks": "dich"
+    },
+    {
+      "surface": "קִוִּיתִי",
+      "gloss": "warte ich"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "Tag"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:30.236810209Z",
+  "model": "glm-5.2"
+}

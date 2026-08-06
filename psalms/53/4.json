@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 53,
+  "translation": "Alle zusammen sind sie zurückgewichen, ⟨sie⟩ sind verdorben worden — es gibt keinen, der Gutes tut, auch nicht ⟨einen⟩ einzigen.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "סג",
+      "gloss": "sind zurückgewichen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "sind verdorben worden"
+    },
+    {
+      "surface": "אין",
+      "gloss": "es gibt keinen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der tut"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "auch nicht"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einen einzigen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:30:48.562739782Z",
+  "model": "glm-5.2"
+}

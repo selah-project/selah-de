@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Ihr sollt kein Unrecht tun im Gericht — du sollst ⟨das⟩ Angesicht ⟨des⟩ Armen nicht erheben und ⟨das⟩ Angesicht ⟨des⟩ Großen nicht ehren; in Zedek sollst du deinen Genossen richten.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַעֲשׂ֥וּ",
+      "gloss": "sollt tun"
+    },
+    {
+      "surface": "עָ֨וֶל֙",
+      "gloss": "Unrecht"
+    },
+    {
+      "surface": "בַּמִּשְׁפָּ֔ט",
+      "gloss": "im Gericht"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִשָּׂ֣א",
+      "gloss": "sollst erheben"
+    },
+    {
+      "surface": "פְנֵי",
+      "gloss": "Angesicht"
+    },
+    {
+      "surface": "דָ֔ל",
+      "gloss": "Armen"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תֶהְדַּ֖ר",
+      "gloss": "sollst ehren"
+    },
+    {
+      "surface": "פְנֵ֣י",
+      "gloss": "Angesicht"
+    },
+    {
+      "surface": "גָד֑וֹל",
+      "gloss": "Großen"
+    },
+    {
+      "surface": "בְּצֶ֖דֶק",
+      "gloss": "in Zedek"
+    },
+    {
+      "surface": "תִּשְׁפֹּ֥ט",
+      "gloss": "sollst richten"
+    },
+    {
+      "surface": "עֲמִיתֶֽךָ",
+      "gloss": "deinen Genossen"
+    }
+  ],
+  "timestamp": "2026-08-06T14:53:49.685574163Z",
+  "model": "glm-5.2"
+}

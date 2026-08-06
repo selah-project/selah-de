@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Nahe ⟨את⟩ den Stamm Lewi heran, und stelle ihn vor Aharon, den Kohen, ⟨damit⟩ sie ihm dienen.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Nahe … heran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stamm Lewi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "den Stamm"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "und stelle"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "den Kohen"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "⟨damit⟩ sie dienen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T00:31:40.294172124Z",
+  "model": "glm-5.2"
+}

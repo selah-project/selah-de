@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und Jaakow stand auf und hob ⟨את⟩ seine Söhne und ⟨את⟩ seine Frauen auf die Kamele.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Und ⟨er⟩ stand auf"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "und ⟨er⟩ hob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Frauen"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "seine Frauen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "die Kamele"
+    }
+  ],
+  "timestamp": "2026-08-05T17:36:56.377809752Z",
+  "model": "glm-5.2"
+}

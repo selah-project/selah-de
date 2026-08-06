@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und er sagte: Nimm die Pfeile, und er nahm ⟨sie⟩. Und er sagte zum König von Israel: Schlag auf die Erde! Und er schlug, drei Mal, und blieb stehen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Nimm"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "die Pfeile"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "und er nahm"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "zum König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Israel"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Schlag"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "auf die Erde"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "und er schlug"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drei"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "Mal"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "und blieb stehen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:51:39.392399982Z",
+  "model": "glm-5.2"
+}

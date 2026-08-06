@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 30:17",
+  "book": "job",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Bei Nacht werden ⟨meine⟩ Gebeine durchbohrt von mir, und ⟨meine⟩ Schmerzen, die ⟨mich⟩ verzehren, liegen nicht schlafen.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "bei Nacht"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "meine Gebeine"
+    },
+    {
+      "surface": "נקר",
+      "gloss": "werden durchbohrt"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "וערקי",
+      "gloss": "und meine Schmerzenden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "liegen schlafen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:22:24.236214682Z",
+  "model": "glm-5.2"
+}

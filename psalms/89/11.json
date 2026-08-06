@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Du, du zerschmettertest Rahab wie einen Erschlagenen; mit dem Arm deiner Macht zerstreutest du deine Feinde.",
+  "tokens": [
+    {
+      "surface": "אַתָּ֤ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "דִכִּ֣אתָ",
+      "gloss": "du zerschmettertest"
+    },
+    {
+      "surface": "כֶּחָלָ֣ל",
+      "gloss": "wie einen Erschlagenen"
+    },
+    {
+      "surface": "רָ֑הַב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בִּזְרוֹעַ",
+      "gloss": "mit dem Arm"
+    },
+    {
+      "surface": "עֻזְּךָ֗",
+      "gloss": "deiner Macht"
+    },
+    {
+      "surface": "פִּזַּ֥רְתָּ",
+      "gloss": "zerstreutest du"
+    },
+    {
+      "surface": "אוֹיְבֶֽיךָ",
+      "gloss": "deine Feinde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:29.269545650Z",
+  "model": "glm-5.2"
+}

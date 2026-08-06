@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Freut euch in JHWH und jauchzt, ihr Gerechten, und jubelt, alle ihr Geraden ⟨des⟩ Herzens!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Freut euch"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in JHWH"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "und jauchzt"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ihr Gerechten"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "und jubelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ihr Geraden"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨des⟩ Herzens"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:44.341203677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨ihr sollt⟩ kein Blut essen, in all euren Wohnsitzen, ⟨weder⟩ vom Geflügel noch vom Vieh.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "Und ⟨kein⟩"
+    },
+    {
+      "surface": "דָּם",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תֹאכְלוּ",
+      "gloss": "sollt ⟨ihr⟩ essen"
+    },
+    {
+      "surface": "בְּכֹל",
+      "gloss": "in all"
+    },
+    {
+      "surface": "מוֹשְׁבֹתֵיכֶם",
+      "gloss": "euren Wohnsitzen"
+    },
+    {
+      "surface": "לָעוֹף",
+      "gloss": "vom Geflügel"
+    },
+    {
+      "surface": "וְלַבְּהֵמָה",
+      "gloss": "noch vom Vieh"
+    }
+  ],
+  "timestamp": "2026-08-05T20:21:21.886665819Z",
+  "model": "glm-5.2"
+}

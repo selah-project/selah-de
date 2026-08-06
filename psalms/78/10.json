@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Sie hüteten nicht die Brit ⟨von⟩ Elohim, und in seiner Tora weigerten sie sich zu gehen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "sie hüteten"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "die Brit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "von Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "und in seiner Tora"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "weigerten sie sich"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "zu gehen"
+    }
+  ],
+  "timestamp": "2026-08-06T19:51:32.320560366Z",
+  "model": "glm-5.2"
+}

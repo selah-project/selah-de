@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und sie häuften sie ⟨את⟩ auf — Haufen um Haufen — und das Land stank.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Und sie häuften auf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Frösche)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "Haufen um"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "Haufen"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "und stank"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    }
+  ],
+  "timestamp": "2026-08-06T14:51:11.946802781Z",
+  "model": "glm-5.2"
+}

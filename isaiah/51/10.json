@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Bist nicht ⟨את⟩ du es, die das Meer austrocknete, die Wasser der großen Flut, die die Tiefen des Meeres ⟨zu⟩ einem Weg machte ⟨für⟩ die Hinüberziehenden der Erlösung?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Bist nicht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du"
+    },
+    {
+      "surface": "היא",
+      "gloss": "du es, die"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "austrocknete"
+    },
+    {
+      "surface": "ים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "der Flut"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "der großen"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "die machte"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "die Tiefen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "des Meeres"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨zu⟩ einem Weg"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "⟨für⟩ die Hinüberziehenden"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "der Erlösung"
+    }
+  ],
+  "timestamp": "2026-08-05T21:55:32.755742531Z",
+  "model": "glm-5.2"
+}

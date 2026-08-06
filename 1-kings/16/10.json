@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und Simri kam hinein und schlug ihn und tötete ihn im siebenundzwanzigsten Jahr des Asa, des Königs von Jehuda, und ⟨er⟩ wurde König an seiner Statt.",
+  "tokens": [
+    {
+      "surface": "וַיָּבֹא",
+      "gloss": "Und ⟨er⟩ kam hinein"
+    },
+    {
+      "surface": "זִמְרִי",
+      "gloss": "Simri"
+    },
+    {
+      "surface": "וַיַּכֵּהוּ",
+      "gloss": "und schlug ihn"
+    },
+    {
+      "surface": "וַיְמִיתֵהוּ",
+      "gloss": "und tötete ihn"
+    },
+    {
+      "surface": "בִּשְׁנַת",
+      "gloss": "im Jahr"
+    },
+    {
+      "surface": "עֶשְׂרִים",
+      "gloss": "zwanzig"
+    },
+    {
+      "surface": "וָשֶׁבַע",
+      "gloss": "und sieben"
+    },
+    {
+      "surface": "לְאָסָא",
+      "gloss": "des Asa"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "König"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "וַיִּמְלֹךְ",
+      "gloss": "und ⟨er⟩ wurde König"
+    },
+    {
+      "surface": "תַּחְתָּיו",
+      "gloss": "an seiner Statt"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:33.099551203Z",
+  "model": "glm-5.2"
+}

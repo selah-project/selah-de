@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und er soll nehmen, um ⟨das⟩ Haus zu entsündigen: ⟨את⟩ ⟨das⟩ Haus, zwei Vögel und Zedernholz und Karmesin und Eisop.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "und er soll nehmen"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "um zu entsündigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "Vögel"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "und Zedernholz"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "Zeder"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "und Karmesin"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "Wollscharlach"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "und Eisop"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:09.587711684Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Ein Mensch ohne Herz schlägt ⟨die⟩ Hand ein, ⟨er⟩ wird Bürgschaft vor ⟨seinem⟩ Nächsten.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Ein Mensch"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herz"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "schlägt"
+    },
+    {
+      "surface": "כף",
+      "gloss": "⟨die⟩ Hand"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wird"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Bürgschaft"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "⟨seinem⟩ Nächsten"
+    }
+  ],
+  "timestamp": "2026-08-06T10:35:11.429762174Z",
+  "model": "glm-5.2"
+}

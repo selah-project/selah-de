@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Am Tag unseres Königs machten die Fürsten ⟨sich⟩ krank durch die Glut des Weins; er streckte seine Hand ⟨aus⟩ ⟨mit⟩ ⟨את⟩ den Spöttern.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Am Tag"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "unseres Königs"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "machten krank"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "die Fürsten"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "durch die Glut"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "des Weins"
+    },
+    {
+      "surface": "משך",
+      "gloss": "er streckte"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Spötter"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "den Spöttern"
+    }
+  ],
+  "timestamp": "2026-08-06T03:57:00.889291574Z",
+  "model": "glm-5.2"
+}

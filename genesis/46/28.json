@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 46:28",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Und ⟨er⟩ sandte ⟨את⟩ Jehuda vor sich zu Josef, um ihn vor sich nach Goschen zu weisen. Und sie kamen ins Land Goschen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sandte"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vor sich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "להורת",
+      "gloss": "um zu weisen"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vor sich"
+    },
+    {
+      "surface": "גשנה",
+      "gloss": "nach Goschen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "Und sie kamen"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ins Land"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goschen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:12:23.991730819Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "⟨את⟩ Chelkat und ⟨את⟩ ⟨ihre⟩ Weidefläche, und ⟨את⟩ Rechov und ⟨את⟩ ⟨ihre⟩ Weidefläche: Städte, vier.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "⟨ihre⟩ Weidefläche"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "⟨ihre⟩ Weidefläche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "⟨ihre⟩ Weidefläche"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "⟨ihre⟩ Weidefläche"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    }
+  ],
+  "timestamp": "2026-08-06T00:54:40.228073495Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und der Kohen soll ⟨את⟩ die Erinnerungsgabe von der Mincha hochheben und auf dem Altar in Rauch aufgehen lassen — ein Feueropfer, Geruch der Befriedigung für JHWH.",
+  "tokens": [
+    {
+      "surface": "וְהֵרִ֨ים",
+      "gloss": "Und ⟨er⟩ soll hochheben"
+    },
+    {
+      "surface": "הַכֹּהֵ֤ן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הַמִּנְחָה֙",
+      "gloss": "der Mincha"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Erinnerungsgabe"
+    },
+    {
+      "surface": "אַזְכָּ֣רָתָ֔הּ",
+      "gloss": "ihre Erinnerungsgabe"
+    },
+    {
+      "surface": "וְהִקְטִ֖יר",
+      "gloss": "und ⟨er⟩ soll in Rauch aufgehen lassen"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֑חָה",
+      "gloss": "auf dem Altar"
+    },
+    {
+      "surface": "אִשֵּׁ֛ה",
+      "gloss": "Feueropfer"
+    },
+    {
+      "surface": "רֵ֥יחַ",
+      "gloss": "Geruch"
+    },
+    {
+      "surface": "נִיחֹ֖חַ",
+      "gloss": "der Befriedigung"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:19:36.004951996Z",
+  "model": "glm-5.2"
+}

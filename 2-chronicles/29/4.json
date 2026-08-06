@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und er brachte ⟨את⟩ die Kohen und ⟨את⟩ die Lewijim herein und versammelte sie zum östlichen Platz.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und er brachte herein"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kohen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die Kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Lewijim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Lewijim"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "und versammelte sie"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "zum Platz"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "östlichen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:00:18.814581806Z",
+  "model": "glm-5.2"
+}

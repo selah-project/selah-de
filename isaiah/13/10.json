@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Denn die Sterne des Himmels und ihre Sternbilder, sie werden ihr Licht nicht leuchten lassen; verdunkelt ⟨wird⟩ die Sonne in ihrem Aufgehen, und der Mond ⟨wird⟩ sein Licht nicht aufstrahlen lassen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "die Sterne"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "und ihre Sternbilder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "werden leuchten lassen"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ihr Licht"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "verdunkelt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die Sonne"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "in ihrem Aufgehen"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "und der Mond"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "wird aufstrahlen lassen"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "sein Licht"
+    }
+  ],
+  "timestamp": "2026-08-05T21:45:15.976105760Z",
+  "model": "glm-5.2"
+}

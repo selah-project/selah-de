@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Mach dir eine Arche aus Gopherholz; Zellen sollst du die Arche machen und sie ⟨את⟩ verkohlen von innen und von außen mit Pech.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Mach"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "eine Arche"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "aus Holz"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "von Gopher"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "Zellen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sollst du machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Arche"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "die Arche"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "und du sollst bestreichen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Arche)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "von innen"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "und von außen"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "mit Pech"
+    }
+  ],
+  "timestamp": "2026-08-05T19:54:51.780903947Z",
+  "model": "glm-5.2"
+}

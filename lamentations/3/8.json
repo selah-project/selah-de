@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Auch wenn ich schreie und um Hilfe rufe, hat er mein Gebet verschlossen.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Auch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ich schreie"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "und um Hilfe rufe"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "hat er verschlossen"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mein Gebet"
+    }
+  ],
+  "timestamp": "2026-08-06T04:39:46.697147582Z",
+  "model": "glm-5.2"
+}

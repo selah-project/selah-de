@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Mordechaj erzählte ihm ⟨את⟩ alles, was ihn getroffen hatte, und ⟨את⟩ die Berechnung des Silbers, die Haman gesagt hatte, auf die Schatzkammern des Königs zu wiegen, ⟨betreffs⟩ der Jehudim, um sie zu vernichten.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "und er erzählte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "ihn getroffen hatte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Berechnung"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "die Berechnung"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "des Silbers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesagt hatte"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "zu wiegen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "die Schatzkammern"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "betreffs der Jehudim"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "um sie zu vernichten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:36.801391742Z",
+  "model": "glm-5.2"
+}

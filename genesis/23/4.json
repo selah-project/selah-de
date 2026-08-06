@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 23:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "„Ein Ger und ein Toschaw bin ich bei euch; gebt mir ⟨ein⟩ Erbbegräbnis bei euch, damit ich meine Tote begrabe, von vor meinem ⟨Angesicht⟩.“",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Ein Ger"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "und ein Toschaw"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "bin ich"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bei euch"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "gebt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "⟨ein⟩ Erb-"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "begräbnis"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bei euch"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "damit ich begrabe"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "meine Tote"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "von vor meinem ⟨Angesicht⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T17:34:11.743285426Z",
+  "model": "glm-5.2"
+}

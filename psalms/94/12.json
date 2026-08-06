@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "Glückselig ⟨der⟩ Mann, den du züchtigst, Jah, und aus deiner Tora ⟨den⟩ du lehrst —",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Glückselig"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨der⟩ Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "du züchtigst"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "und aus deiner Tora"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "⟨den⟩ du lehrst"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:18.045724927Z",
+  "model": "glm-5.2"
+}

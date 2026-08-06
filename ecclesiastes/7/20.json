@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Denn ⟨einen⟩ Menschen ⟨gibt es⟩ keinen Gerechten auf der Erde, der Gutes tut und nicht sündigt.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "Menschen"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "keinen"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "Gerechten"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יַעֲשֶׂה",
+      "gloss": "tut"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יֶחֱטָא",
+      "gloss": "sündigt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:48.771612681Z",
+  "model": "glm-5.2"
+}

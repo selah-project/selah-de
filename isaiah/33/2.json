@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "JHWH, sei uns gnädig! Auf dich haben wir geharrt. Werde ihr Arm am Morgen, ja auch unsere Rettung in der Zeit der Bedrängnis!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "sei uns gnädig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "haben wir geharrt"
+    },
+    {
+      "surface": "היה",
+      "gloss": "werde"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "ihr Arm"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja auch"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "unsere Rettung"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in der Zeit"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "der Bedrängnis"
+    }
+  ],
+  "timestamp": "2026-08-06T03:16:51.026937302Z",
+  "model": "glm-5.2"
+}

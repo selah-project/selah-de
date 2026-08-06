@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Wie ⟨es⟩ vom Rind des Schlachtopfers der Schelamim entfernt wird, soll der Kohen sie auf dem Altar der Ola in Rauch aufgehen lassen.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "entfernt wird"
+    },
+    {
+      "surface": "משור",
+      "gloss": "vom Rind"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "des Schlachtopfers"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "der Schelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "und soll in Rauch aufgehen lassen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dem Altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "der Ola"
+    }
+  ],
+  "timestamp": "2026-08-06T02:09:12.700361416Z",
+  "model": "glm-5.2"
+}

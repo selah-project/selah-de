@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 29:7",
+  "book": "job",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Als ich zum Tor ⟨der⟩ Stadt hinaustrat, bereitete ich im Platz meinen Sitz.",
+  "tokens": [
+    {
+      "surface": "בצאתי",
+      "gloss": "Als ich hinaustrat"
+    },
+    {
+      "surface": "שער",
+      "gloss": "zum Tor"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨von⟩"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "⟨der⟩ Stadt"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "im Platz"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "bereitete ich"
+    },
+    {
+      "surface": "מושבי",
+      "gloss": "meinen Sitz"
+    }
+  ],
+  "timestamp": "2026-08-06T07:03:45.130518293Z",
+  "model": "glm-5.2"
+}

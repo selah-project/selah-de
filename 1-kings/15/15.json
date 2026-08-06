@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und er brachte ⟨את⟩ die Weihegaben seines Vaters und seine eigenen Weihegaben ⟨in⟩ das Haus JHWHs: Silber und Gold und Geräte.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und er brachte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Weihegaben seines Vaters"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "die Weihegaben"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "und seine Weihegaben"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "und Gold"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "und Geräte"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:36.806074935Z",
+  "model": "glm-5.2"
+}

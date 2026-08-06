@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und du sollst ⟨את⟩ das Mincha, das aus diesen Dingen gemacht wird, zu JHWH bringen, und du sollst es zum Kohen bringen, und er soll es an den Altar heranführen.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Und du sollst bringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "das Mincha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gemacht wird"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "aus diesen Dingen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "zu JHWH"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "und du sollst es bringen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "dem Kohen"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "und er soll heranführen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    }
+  ],
+  "timestamp": "2026-08-05T20:19:18.259311732Z",
+  "model": "glm-5.2"
+}

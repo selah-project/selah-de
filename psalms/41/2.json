@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Glückselig ⟨ist⟩, wer einsichtig handelt gegenüber dem Schwachen — am Tag des Unheils wird JHWH ⟨ihn⟩ entrinnen lassen.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Glückselig"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wer einsichtig handelt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dem Schwachen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "des Unheils"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "wird entrinnen lassen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:28.256858903Z",
+  "model": "glm-5.2"
+}

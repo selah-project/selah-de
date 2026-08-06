@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und ⟨für⟩ ein Rind oder ein Kleinvieh, ⟨את⟩ es und ⟨את⟩ sein Junges sollt ihr nicht schlachten an einem Tag.",
+  "tokens": [
+    {
+      "surface": "וְשׁ֖וֹר",
+      "gloss": "Und ⟨für⟩ ein Rind"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "oder"
+    },
+    {
+      "surface": "שֶׂ֑ה",
+      "gloss": "ein Kleinvieh"
+    },
+    {
+      "surface": "אֹת֣וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "es"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sein Junges"
+    },
+    {
+      "surface": "בְּנ֔וֹ",
+      "gloss": "sein Junges"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִשְׁחֲט֖וּ",
+      "gloss": "sollt ihr schlachten"
+    },
+    {
+      "surface": "בְּי֥וֹם",
+      "gloss": "an ⟨einem⟩ Tag"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "einem"
+    }
+  ],
+  "timestamp": "2026-08-06T00:28:41.405755678Z",
+  "model": "glm-5.2"
+}

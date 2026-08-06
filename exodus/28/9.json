@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und du sollst nehmen ⟨את⟩ zwei Schöham-Steine und ⟨du sollst⟩ auf sie eingraben die Namen der Söhne Jisraels.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "und du sollst nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zwei Schöham-Steine"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "Steine von"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "Schöham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "und ⟨du sollst⟩ eingraben"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "auf sie"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "die Namen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T22:32:46.123020289Z",
+  "model": "glm-5.2"
+}

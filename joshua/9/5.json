@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 9:5",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "und abgetragene und geflickte Schuhe an ihren Füßen, und abgetragene Kleider an ihnen; und all ihr Wegbrot war trocken, ⟨es war⟩ krümelig.",
+  "tokens": [
+    {
+      "surface": "ונעלות",
+      "gloss": "und Schuhe"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "abgetragene"
+    },
+    {
+      "surface": "ומטלאות",
+      "gloss": "und geflickte"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "an ihren Füßen"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "und Kleider"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "abgetragene"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "an ihnen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "צידם",
+      "gloss": "ihres Weges"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "war trocken"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨war⟩"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "krümelig"
+    }
+  ],
+  "timestamp": "2026-08-05T20:54:54.356684366Z",
+  "model": "glm-5.2"
+}

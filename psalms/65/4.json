@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "Dinge der Schuld haben die Oberhand über mich ⟨gewonnen⟩; ⟨was⟩ unsere Aufständigkeiten ⟨betrifft⟩ — du wirst sie sühnen.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Dinge"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "der Schuld"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "haben die Oberhand"
+    },
+    {
+      "surface": "מני",
+      "gloss": "über mich"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "unsere Aufständigkeiten"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "wirst ⟨sie⟩ sühnen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:02.151306864Z",
+  "model": "glm-5.2"
+}

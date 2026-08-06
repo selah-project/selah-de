@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Es gibt ein Übel, das ich gesehen habe unter der Sonne, und ⟨es ist⟩ schwer auf dem Menschen.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "es gibt"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ein Übel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ich gesehen habe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "und schwer"
+    },
+    {
+      "surface": "היא",
+      "gloss": "es ⟨ist⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dem Menschen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:14.323422832Z",
+  "model": "glm-5.2"
+}

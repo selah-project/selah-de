@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "⟨Die⟩ ihre Gemusterten vom Stamm Efrajim ⟨waren⟩: vierzigtausend und fünfhundert.",
+  "tokens": [
+    {
+      "surface": "פְּקֻדֵיהֶ֖ם",
+      "gloss": "ihre Gemusterten"
+    },
+    {
+      "surface": "לְמַטֵּ֣ה",
+      "gloss": "vom Stamm"
+    },
+    {
+      "surface": "אֶפְרָ֑יִם",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "אַרְבָּעִ֥ים",
+      "gloss": "vierzig"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "וַחֲמֵ֥שׁ",
+      "gloss": "und fünf"
+    },
+    {
+      "surface": "מֵאֽוֹת",
+      "gloss": "hundert"
+    }
+  ],
+  "timestamp": "2026-08-06T08:23:55.608303486Z",
+  "model": "glm-5.2"
+}

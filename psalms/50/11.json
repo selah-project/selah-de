@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Ich kenne jeden Vogel der Berge, und das Getier des Feldes ⟨ist⟩ bei mir.",
+  "tokens": [
+    {
+      "surface": "יָדַעְתִּי",
+      "gloss": "ich kenne"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "עוֹף",
+      "gloss": "Vogel"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "der Berge"
+    },
+    {
+      "surface": "וְזִיז",
+      "gloss": "und das Getier"
+    },
+    {
+      "surface": "שָׂדַי",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "עִמָּדִי",
+      "gloss": "bei mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:52.206074587Z",
+  "model": "glm-5.2"
+}

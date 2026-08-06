@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Willst du ein verwehtes Blatt erschrecken, und ⟨את⟩ trockenes Stroh verfolgen?",
+  "tokens": [
+    {
+      "surface": "הֶעָלֶה",
+      "gloss": "das Blatt"
+    },
+    {
+      "surface": "נִדָּף",
+      "gloss": "verwehtes"
+    },
+    {
+      "surface": "תַּעֲרוֹץ",
+      "gloss": "erschreckst du"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "trockenes Stroh"
+    },
+    {
+      "surface": "קַשׁ",
+      "gloss": "Stroh"
+    },
+    {
+      "surface": "יָבֵשׁ",
+      "gloss": "trockenes"
+    },
+    {
+      "surface": "תִּרְדֹּף",
+      "gloss": "verfolgst du"
+    }
+  ],
+  "timestamp": "2026-08-06T09:24:17.835747690Z",
+  "model": "glm-5.2"
+}

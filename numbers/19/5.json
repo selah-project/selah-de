@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ⟨man⟩ soll ⟨את⟩ die Kuh verbrennen vor seinen Augen: ⟨את⟩ ihr Fell und ⟨את⟩ ihr Fleisch und ⟨את⟩ ihr Blut, auf ihrem Mist soll ⟨man sie⟩ verbrennen.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "und man soll verbrennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kuh"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "die Kuh"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "vor seinen Augen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Fell"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "ihr Fell"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihr Fleisch"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "ihr Fleisch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihr Blut"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ihr Blut"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "ihrem Mist"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "soll man verbrennen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:19:20.903890735Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "dann höre vom Himmel her ⟨את⟩ ihr Gebet und ⟨את⟩ ihr Flehen, und schaffe ihnen Recht.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dann höre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "den Himmeln"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Gebet"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ihr Gebet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihr Flehen"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ihr Flehen"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "und schaffe"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ihnen Recht"
+    }
+  ],
+  "timestamp": "2026-08-06T05:00:06.401029942Z",
+  "model": "glm-5.2"
+}

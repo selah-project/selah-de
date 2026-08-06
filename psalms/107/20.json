@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Er sendet sein Wort und heilt sie, und er entzieht ⟨sie⟩ ihren Gruben.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Er sendet"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sein Wort"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "und heilt sie"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "und er entzieht ⟨sie⟩"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "ihren Gruben"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:53.487856920Z",
+  "model": "glm-5.2"
+}

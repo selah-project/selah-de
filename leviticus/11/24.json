@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und durch diese werdet ihr unrein — jeder, der ⟨את⟩ ihren Kadaver berührt, ⟨ist⟩ unrein bis zum Abend.",
+  "tokens": [
+    {
+      "surface": "וּלְאֵ֖לֶּה",
+      "gloss": "Und durch diese"
+    },
+    {
+      "surface": "תִּטַּמָּ֑אוּ",
+      "gloss": "werdet ihr unrein"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "הַנֹּגֵ֥עַ",
+      "gloss": "der berührt"
+    },
+    {
+      "surface": "בְּנִבְלָתָ֖ם",
+      "gloss": "⟨את⟩ ihren Kadaver"
+    },
+    {
+      "surface": "יִטְמָ֥א",
+      "gloss": "⟨ist⟩ unrein"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הָעָֽרֶב",
+      "gloss": "zum Abend"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:09.359803215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Ruach JHWHs hat durch mich geredet, und ⟨sein⟩ Wort ⟨ist⟩ auf meiner Zunge.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hat geredet"
+    },
+    {
+      "surface": "בי",
+      "gloss": "durch mich"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "und ⟨sein⟩ Wort"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "meiner Zunge"
+    }
+  ],
+  "timestamp": "2026-08-05T21:23:40.269667542Z",
+  "model": "glm-5.2"
+}

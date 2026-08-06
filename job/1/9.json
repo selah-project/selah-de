@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Da antwortete der Satan ⟨את⟩ JHWH und sprach: „Für nichts fürchtet Ijjow Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Da antwortete"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "der Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "Für nichts"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fürchtet"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijjow"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T06:59:05.618542229Z",
+  "model": "glm-5.2"
+}

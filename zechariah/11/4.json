@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "So sprach JHWH, mein Elohim: Weide ⟨את⟩ die Herde ⟨des⟩ Schlachtens!",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Weide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Herde"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "die Herde"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "⟨des⟩ Schlachtens"
+    }
+  ],
+  "timestamp": "2026-08-05T22:42:15.967108436Z",
+  "model": "glm-5.2"
+}

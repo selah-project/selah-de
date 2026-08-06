@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und JHWH, dein Elohim, wird ⟨sie⟩ in deine Hand geben, und du wirst ⟨את⟩ alles Männliche in ihr mit der Schärfe des Schwertes schlagen.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "und wird geben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in deine Hand"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "und du wirst schlagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles Männliche"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "Männliche in ihr"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mit der Schärfe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "des Schwertes"
+    }
+  ],
+  "timestamp": "2026-08-06T08:29:17.180970441Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Ein junger Mann war ich, auch ⟨ich⟩ bin alt geworden, und ⟨ich⟩ habe nicht gesehen ⟨einen⟩ Zedek verlassen und sein Same Brot sucht.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "ein junger Mann"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "war ich"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "bin alt geworden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨ich⟩ habe nicht"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "gesehen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨einen⟩ Zedek"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "verlassen"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "und sein Same"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "sucht"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    }
+  ],
+  "timestamp": "2026-08-06T22:46:50.212180964Z",
+  "model": "glm-5.2"
+}

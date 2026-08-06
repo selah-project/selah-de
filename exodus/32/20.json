@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und er nahm ⟨את⟩ das Kalb, das sie gemacht hatten, und verbrannte ⟨es⟩ im Feuer und zermalmte ⟨es⟩, bis ⟨es⟩ fein ⟨zerrieben⟩ war, und streute ⟨es⟩ auf die Fläche des Wassers und ließ ⟨את⟩ die Söhne Jisraels ⟨es⟩ trinken.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und er nahm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Kalb"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "das Kalb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sie gemacht hatten"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "und verbrannte ⟨es⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "und zermalmte ⟨es⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "[bis] dass"
+    },
+    {
+      "surface": "דק",
+      "gloss": "es fein ⟨zerrieben⟩ war"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "und streute ⟨es⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die Fläche"
+    },
+    {
+      "surface": "המים",
+      "gloss": "des Wassers"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "und ließ trinken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T00:20:52.899557871Z",
+  "model": "glm-5.2"
+}

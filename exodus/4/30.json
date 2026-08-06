@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Aharon redete ⟨את⟩ alle Worte, die JHWH zu Mosche geredet hatte, und ⟨er⟩ tat die Zeichen vor den Augen des Volkes.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und ⟨er⟩ redete"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Worte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geredet hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "und ⟨er⟩ tat"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "die Zeichen"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "vor den Augen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:08.520877374Z",
+  "model": "glm-5.2"
+}

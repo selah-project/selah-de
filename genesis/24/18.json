@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 24:18",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und sie sagte: „Trink, mein Herr“, und sie beeilte sich und ließ ihren Krug auf ⟨ihre⟩ Hand hinab und ließ ⟨ihn⟩ trinken.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Und sie sagte"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "Trink"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "und sie beeilte sich"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "und ließ hinab"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "ihren Krug"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "⟨ihre⟩ Hand"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "und ließ ⟨ihn⟩ trinken"
+    }
+  ],
+  "timestamp": "2026-08-06T01:54:44.622786039Z",
+  "model": "glm-5.2"
+}

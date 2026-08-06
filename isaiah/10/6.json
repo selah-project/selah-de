@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Gegen ein gottloses Volk sende ich ihn, und gegen das Volk meines Grimmgebots gebiete ich ihm, Beute zu rauben und Plünderung zu plündern, und ⟨es⟩ zuzutreten wie Lehm auf den Straßen.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "gegen ein Volk"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "gottloses"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "sende ich ihn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und gegen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "meines Grimmgebots"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "gebiete ich ihm"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "Beute zu rauben"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Beute"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "und Plünderung"
+    },
+    {
+      "surface": "בז",
+      "gloss": "zu plündern"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "und ⟨es⟩ zuzutreten"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "Zertretenes"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "wie Lehm"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "auf den Straßen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:50:40.223800391Z",
+  "model": "glm-5.2"
+}

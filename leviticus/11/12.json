@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Alles, was ihm keine Flosse und keine Schuppe im Wasser ⟨hat⟩, ⟨das⟩ ist ein Schekzez euch.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "Flosse"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "und Schuppe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ein Schekzez"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:18.129159264Z",
+  "model": "glm-5.2"
+}

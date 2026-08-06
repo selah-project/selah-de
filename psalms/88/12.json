@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Wird erzählt im Grab dein Chessed, deine Treue im Abadon?",
+  "tokens": [
+    {
+      "surface": "הַיְסֻפַּ֣ר",
+      "gloss": "wird erzählt"
+    },
+    {
+      "surface": "בַּקֶּ֣בֶר",
+      "gloss": "im Grab"
+    },
+    {
+      "surface": "חַסְדֶּ֑ךָ",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "אֱ֝מֽוּנָתְךָ֗",
+      "gloss": "deine Treue"
+    },
+    {
+      "surface": "בָּאֲבַדּֽוֹן",
+      "gloss": "im Abadon"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:01.494599728Z",
+  "model": "glm-5.2"
+}

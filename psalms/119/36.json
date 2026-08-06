@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Neige mein Herz zu deinen Zeugnissen und nicht zu ungerechtem Gewinn.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Neige"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "deinen Zeugnissen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht zu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ungerechtem Gewinn"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:04.729539292Z",
+  "model": "glm-5.2"
+}

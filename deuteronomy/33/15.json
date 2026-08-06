@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "und vom Haupt der Berge des Ostens, und vom Köstlichsten der Hügel der Weltzeit,",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "und vom Haupt"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "der Berge"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "des Ostens"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "und vom Köstlichsten"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "der Hügel"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "der Weltzeit"
+    }
+  ],
+  "timestamp": "2026-08-05T20:52:24.865690197Z",
+  "model": "glm-5.2"
+}

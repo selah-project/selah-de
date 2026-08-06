@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und was übrigbleibt vom Fleisch und vom Brot, im Feuer sollt ihr ⟨es⟩ verbrennen.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "Und was übrigbleibt"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "vom Fleisch"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "und vom Brot"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "sollt ihr verbrennen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:21:49.006243987Z",
+  "model": "glm-5.2"
+}

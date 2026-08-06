@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und Mosche sprach zu den Richtern Jisra'els: „Tötet ⟨jeder⟩ die Männer, die sich dem Baal-Peor angeschlossen haben.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "den Richtern"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "tötet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨jeder⟩"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "die sich angeschlossen haben"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "dem Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    }
+  ],
+  "timestamp": "2026-08-05T20:37:51.967006785Z",
+  "model": "glm-5.2"
+}

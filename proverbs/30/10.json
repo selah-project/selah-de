@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Verleumde ⟨keinen⟩ Sklaven bei seinem Herrn, damit er dich nicht verflucht und du schuldig wirst.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "verleumde"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Sklaven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bei"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "seinem Herrn"
+    },
+    {
+      "surface": "פן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "er dich verflucht"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "und du schuldig wirst"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:37.134763736Z",
+  "model": "glm-5.2"
+}

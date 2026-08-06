@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Deine Hand wird alle deine Feinde finden, deine Rechte wird finden, die dich hassen.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "wirst finden"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "deine Feinde"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "deine Rechte"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "wird finden"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "die dich hassen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:43.282725741Z",
+  "model": "glm-5.2"
+}

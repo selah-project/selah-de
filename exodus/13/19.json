@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 13:19",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und Mosche nahm ⟨את⟩ die Gebeine Josefs mit sich, denn schwören ließ er ⟨את⟩ die Söhne Jisraels schwören, indem er sprach: „Besuchend wird Elohim euch besuchen, dann sollt ihr ⟨את⟩ meine Gebeine von hier mit euch hinaufbringen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und … nahm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Gebeine"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "die Gebeine"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit sich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "schwören ließ"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "schwören"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem er sprach"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "Besuchend"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "wird … besuchen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "besuchen"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "dann sollt ihr hinaufbringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Gebeine"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "meine Gebeine"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "von hier"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "mit euch"
+    }
+  ],
+  "timestamp": "2026-08-05T20:09:26.855373310Z",
+  "model": "glm-5.2"
+}

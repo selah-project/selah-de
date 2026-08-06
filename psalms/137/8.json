@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 137,
+  "translation": "Tochter Bawels, die Verwüstete — glücklich ⟨ist⟩, wer dir ⟨את⟩ deine Vergeltung erstattet, ⟨die⟩ du uns erwiesen hast.",
+  "tokens": [
+    {
+      "surface": "בַּת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "בָּבֶ֗ל",
+      "gloss": "Bawels"
+    },
+    {
+      "surface": "הַשְּׁד֫וּדָ֥ה",
+      "gloss": "die Verwüstete"
+    },
+    {
+      "surface": "אַשְׁרֵ֥י",
+      "gloss": "glücklich"
+    },
+    {
+      "surface": "שֶׁיְשַׁלֶּם",
+      "gloss": "wer erstattet"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "deine Vergeltung"
+    },
+    {
+      "surface": "גְּ֝מוּלֵ֗ךְ",
+      "gloss": "deine Vergeltung"
+    },
+    {
+      "surface": "שֶׁגָּמַ֥לְתְּ",
+      "gloss": "⟔ du erwiesen hast"
+    },
+    {
+      "surface": "לָֽנוּ",
+      "gloss": "uns"
+    }
+  ],
+  "timestamp": "2026-08-06T20:40:36.301107885Z",
+  "model": "glm-5.2"
+}

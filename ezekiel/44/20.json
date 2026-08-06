@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Und ihr Haupt sollen sie nicht kahl scheren, und ⟨die⟩ Strähnen sollen sie nicht lang wachsen lassen — ⟨sie⟩ sollen ⟨את⟩ ihre Häupter nur beschneiden.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "und ihr Haupt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "sollen sie kahl scheren"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "und ⟨die⟩ Strähnen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "sollen sie lang wachsen lassen"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "⟨sie⟩ sollen nur"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "beschneiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Häupter"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ihre Häupter"
+    }
+  ],
+  "timestamp": "2026-08-06T20:37:50.066561811Z",
+  "model": "glm-5.2"
+}

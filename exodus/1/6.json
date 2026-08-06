@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Josef starb und alle seine Brüder und all jene Generation.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Und … starb"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "⟨die⟩ Generation"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jene"
+    }
+  ],
+  "timestamp": "2026-08-05T20:04:09.387644531Z",
+  "model": "glm-5.2"
+}

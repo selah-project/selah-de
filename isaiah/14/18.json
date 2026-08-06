@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Alle Könige ⟨der⟩ Gojim, all ⟨von ihnen⟩, sie ruhen in Herrlichkeit, jeder in ⟨seinem⟩ Haus.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "מַלְכֵ֥י",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "גוֹיִ֖ם",
+      "gloss": "⟨der⟩ Gojim"
+    },
+    {
+      "surface": "כֻּלָּ֑ם",
+      "gloss": "all ⟨von ihnen⟩"
+    },
+    {
+      "surface": "שָׁכְב֥וּ",
+      "gloss": "sie ruhen"
+    },
+    {
+      "surface": "בְכָב֖וֹד",
+      "gloss": "in Herrlichkeit"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "בְּבֵיתֽוֹ",
+      "gloss": "in ⟨seinem⟩ Haus"
+    }
+  ],
+  "timestamp": "2026-08-06T01:42:03.680243990Z",
+  "model": "glm-5.2"
+}

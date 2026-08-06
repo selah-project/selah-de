@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und er machte ⟨את⟩ die Bretter für ⟨den⟩ Mischkan: zwanzig Bretter für die Seite nach Süden, nach Süden hin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und er machte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Bretter"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "die Bretter"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "für ⟨den⟩ Mischkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zwanzig"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "Bretter"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "für die Seite"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Süden"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "nach Süden hin"
+    }
+  ],
+  "timestamp": "2026-08-06T02:07:23.766566007Z",
+  "model": "glm-5.2"
+}

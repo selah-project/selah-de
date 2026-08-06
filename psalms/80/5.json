@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "JHWH, Elohim der Scharen, bis wann rauchst du ⟨gegen⟩ das Gebet deines Volkes?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Scharen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wann"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "rauchst du"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "⟨gegen⟩ das Gebet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "deines Volkes"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:04.738085522Z",
+  "model": "glm-5.2"
+}

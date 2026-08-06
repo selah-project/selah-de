@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 84,
+  "translation": "Wie glücklich ⟨sind⟩ die Bewohner deines Hauses — immerfort preisen sie dich. Sela.",
+  "tokens": [
+    {
+      "surface": "אַ֭שְׁרֵי",
+      "gloss": "Wie glücklich"
+    },
+    {
+      "surface": "יוֹשְׁבֵ֣י",
+      "gloss": "die Bewohner"
+    },
+    {
+      "surface": "בֵיתֶ֑ךָ",
+      "gloss": "deines Hauses"
+    },
+    {
+      "surface": "ע֝֗וֹד",
+      "gloss": "immerfort"
+    },
+    {
+      "surface": "יְֽהַלְל֥וּךָ",
+      "gloss": "preisen sie dich"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:46.047521570Z",
+  "model": "glm-5.2"
+}

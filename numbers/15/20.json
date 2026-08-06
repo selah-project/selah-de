@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "von der Erstlinge eures Schrotteigs sollt ihr einen Fladen als Teruma erheben; wie die Teruma der Tenne, so sollt ihr ⟨את⟩ sie erheben.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "von der Erstlinge"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "eures Schrotteigs"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "einen Fladen"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "sollt ihr erheben"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "als Teruma"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "wie die Teruma"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "der Tenne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "sollt ihr erheben"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie (die Teruma)"
+    }
+  ],
+  "timestamp": "2026-08-05T20:34:25.507459864Z",
+  "model": "glm-5.2"
+}

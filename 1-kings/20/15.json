@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und er musterte ⟨את⟩ die jungen Männer der Fürsten der Bezirke, und sie waren zweihundertzweiunddreißig. Und nach ihnen musterte er ⟨את⟩ das ganze Volk, alle Söhne Jisra'els, siebentausend.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "und er musterte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die jungen Männer der Fürsten der Bezirke"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "die jungen Männer"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "der Fürsten"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "der Bezirke"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "und sie waren"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "zweihundert"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "unddreißig"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "und nach ihnen"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "musterte er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tausend"
+    }
+  ],
+  "timestamp": "2026-08-06T08:46:23.722238723Z",
+  "model": "glm-5.2"
+}

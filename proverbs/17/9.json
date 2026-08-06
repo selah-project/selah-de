@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Wer ⟨ein⟩ Vergehen zudeckt, sucht Liebe; aber wer eine Sache wieder aufwärmt, trennt ⟨einen⟩ Vertrauten.",
+  "tokens": [
+    {
+      "surface": "מְֽכַסֶּה",
+      "gloss": "Wer zudeckt"
+    },
+    {
+      "surface": "פֶּ֭שַׁע",
+      "gloss": "⟨ein⟩ Vergehen"
+    },
+    {
+      "surface": "מְבַקֵּ֣שׁ",
+      "gloss": "sucht"
+    },
+    {
+      "surface": "אַהֲבָ֑ה",
+      "gloss": "Liebe"
+    },
+    {
+      "surface": "וְשֹׁנֶ֥ה",
+      "gloss": "aber wer wieder aufwärmt"
+    },
+    {
+      "surface": "בְ֝דָבָ֗ר",
+      "gloss": "eine Sache"
+    },
+    {
+      "surface": "מַפְרִ֥יד",
+      "gloss": "trennt"
+    },
+    {
+      "surface": "אַלּֽוּף",
+      "gloss": "⟨einen⟩ Vertrauten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:12:07.104347441Z",
+  "model": "glm-5.2"
+}

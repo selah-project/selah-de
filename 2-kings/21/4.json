@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und er baute Altäre im Haus JHWHs, ⟨in dem⟩ JHWH gesagt hatte: „In Jeruschalajim werde ich ⟨את⟩ meinen Namen setzen.“",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "Und er baute"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "Altäre"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨in dem⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesagt hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "In Jeruschalajim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "werde ich setzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Namen"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "meinen Namen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:09:24.412595339Z",
+  "model": "glm-5.2"
+}

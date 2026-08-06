@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und der König von Mizrajim sagte zu ihnen: „Mosche und Aharon, warum löst ihr ⟨את⟩ das Volk von seinen Arbeiten los? Geht ⟨an⟩ eure Lasten!“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "von Mizrajim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "warum"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "löst ihr los"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "von seinen Arbeiten"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "geht"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "an eure Lasten"
+    }
+  ],
+  "timestamp": "2026-08-06T02:01:23.551197616Z",
+  "model": "glm-5.2"
+}

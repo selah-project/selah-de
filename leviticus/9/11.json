@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨את⟩ das Fleisch und ⟨את⟩ die Haut verbrannte er im Feuer, außerhalb des Lagers.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Fleisch"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "das Fleisch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Haut"
+    },
+    {
+      "surface": "העור",
+      "gloss": "die Haut"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "verbrannte er"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "des Lagers"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:55.590343282Z",
+  "model": "glm-5.2"
+}

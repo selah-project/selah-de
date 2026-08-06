@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Bei ⟨der⟩ Vielzahl der Gerechten freut sich das Volk, und bei ⟨der⟩ Herrschaft eines Frevlers seufzt ⟨das⟩ Volk.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Bei ⟨der⟩ Vielzahl"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "der Gerechten"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "freut sich"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "und bei ⟨der⟩ Herrschaft"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "eines Frevlers"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "seufzt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨das⟩ Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:27.917220435Z",
+  "model": "glm-5.2"
+}

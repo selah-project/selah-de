@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 112,
+  "translation": "Mächtig auf der Erde wird ⟨sein⟩ Same sein, die Generation der Aufrechten wird gesegnet ⟨werden⟩.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Mächtig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wird sein"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sein Same"
+    },
+    {
+      "surface": "דור",
+      "gloss": "die Generation"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "der Aufrechten"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "wird gesegnet"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:29.187876131Z",
+  "model": "glm-5.2"
+}

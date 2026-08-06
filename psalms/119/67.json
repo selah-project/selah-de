@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Bevor ich ⟨gebeugt⟩ wurde, irrte ich, ⟨aber⟩ nun habe ich dein Wort bewahrt.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "Bevor"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ich ⟨gebeugt⟩ wurde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "irrte"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "⟨aber⟩ nun"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dein Wort"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "habe ich bewahrt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:09.633802536Z",
+  "model": "glm-5.2"
+}

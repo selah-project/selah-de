@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und JHWH sprach: „Ich werde ⟨את⟩ den Menschen auslöschen, den ich geschaffen habe, vom Angesicht des Erdbodens — vom Menschen bis zum Vieh, bis zum Gewürm und bis zum Gevögel des Himmels —, denn es reut mich, dass ich sie gemacht habe.“",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶמְחֶ֨ה",
+      "gloss": "ich werde auslöschen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Menschen"
+    },
+    {
+      "surface": "הָאָדָ֤ם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "den"
+    },
+    {
+      "surface": "בָּרָ֨אתִי֙",
+      "gloss": "ich geschaffen habe"
+    },
+    {
+      "surface": "מֵעַל֙",
+      "gloss": "vom"
+    },
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "Angesicht"
+    },
+    {
+      "surface": "הָאֲדָמָ֔ה",
+      "gloss": "des Erdbodens"
+    },
+    {
+      "surface": "מֵאָדָם֙",
+      "gloss": "vom Menschen"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "בְּהֵמָ֔ה",
+      "gloss": "Vieh"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "רֶ֖מֶשׂ",
+      "gloss": "Gewürm"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "und bis zum"
+    },
+    {
+      "surface": "ע֣וֹף",
+      "gloss": "Gevögel"
+    },
+    {
+      "surface": "הַשָּׁמָ֑יִם",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נִחַ֖מְתִּי",
+      "gloss": "es reut mich"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "dass"
+    },
+    {
+      "surface": "עֲשִׂיתִֽם",
+      "gloss": "ich sie gemacht habe"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:43.316097965Z",
+  "model": "glm-5.2"
+}

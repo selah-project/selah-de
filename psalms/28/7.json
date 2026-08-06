@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "JHWH ⟨ist⟩ meine Stärke und mein Schild; in ihm vertraute mein Herz, und ich wurde Hilfe, und mein Herz jauchzte, und mit meinem Lied will ich ihn preisen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "meine Stärke"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "und mein Schild"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in ihm"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertraute"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "und ich wurde Hilfe"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "und jauchzte"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "und mit meinem Lied"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "will ich ihn preisen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:02.704496880Z",
+  "model": "glm-5.2"
+}

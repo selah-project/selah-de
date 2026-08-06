@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "Und ihre Kohen kleide ich in Rettung, und ihre Frommen jauchzen mit Jubel.",
+  "tokens": [
+    {
+      "surface": "וְֽ֭כֹהֲנֶיהָ",
+      "gloss": "Und ihre Kohen"
+    },
+    {
+      "surface": "אַלְבִּ֣ישׁ",
+      "gloss": "kleide ich"
+    },
+    {
+      "surface": "יֶ֑שַׁע",
+      "gloss": "in Rettung"
+    },
+    {
+      "surface": "וַ֝חֲסִידֶ֗יהָ",
+      "gloss": "und ihre Frommen"
+    },
+    {
+      "surface": "רַנֵּ֥ן",
+      "gloss": "mit Jubel"
+    },
+    {
+      "surface": "יְרַנֵּֽנוּ",
+      "gloss": "jauchzen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:13.957892325Z",
+  "model": "glm-5.2"
+}

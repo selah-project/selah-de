@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und ⟨es war⟩ kein König in Edom; ⟨ein⟩ Statthalter ⟨war⟩ König.",
+  "tokens": [
+    {
+      "surface": "וּמֶ֥לֶךְ",
+      "gloss": "Und ⟨ein⟩ König"
+    },
+    {
+      "surface": "אֵ֛ין",
+      "gloss": "⟨war⟩ kein"
+    },
+    {
+      "surface": "בֶּאֱד֖וֹם",
+      "gloss": "in Edom"
+    },
+    {
+      "surface": "נִצָּ֥ב",
+      "gloss": "⟨ein⟩ Statthalter"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "König"
+    }
+  ],
+  "timestamp": "2026-08-06T01:30:03.714591469Z",
+  "model": "glm-5.2"
+}

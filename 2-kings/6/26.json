@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 6:26",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ⟨es geschah⟩: Der König von Jisra'el ging auf der Mauer einher, und eine Frau schrie zu ihm und sprach: „Hilf, mein Herr, der König!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es geschah⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ging einher"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "der Mauer"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "und eine Frau"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "schrie"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "Hilf"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    }
+  ],
+  "timestamp": "2026-08-06T01:32:50.222806348Z",
+  "model": "glm-5.2"
+}

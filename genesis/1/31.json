@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim sah ⟨את⟩ alles, was er gemacht hatte, und siehe, ⟨es war⟩ sehr gut. Und es wurde Abend, und es wurde Morgen: Tag ⟨der⟩ Sechste.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Und ⟨er⟩ sah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er gemacht hatte"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Und es wurde"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Abend"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und es wurde"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Morgen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "⟨der⟩ Sechste"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:36.177053347Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und auch ich habe ⟨את⟩ das Seufzen der Söhne Jisra'els gehört, das Mizrajim ihnen auferlegt, und ich habe ⟨את⟩ meinen Bund gedacht.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Und auch"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "habe gehört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Seufzen"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "das Seufzen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ihnen auferlegt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "und ich habe gedacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Bund"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "meinen Bund"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:10.895718059Z",
+  "model": "glm-5.2"
+}

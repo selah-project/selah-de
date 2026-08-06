@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Und sie brachten ⟨את⟩ die Wohnung zu Mosche, ⟨את⟩ das Zelt und ⟨את⟩ all seine Geräte, seine Hakenschließen, seine Bretter, seine Riegel und seine Säulen und seine Socken.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Und sie brachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wohnung"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "die Wohnung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Zelt"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "das Zelt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all seine Geräte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "seine Geräte"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "seine Hakenschließen"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "seine Bretter"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "seine Riegel"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "und seine Säulen"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "und seine Socken"
+    }
+  ],
+  "timestamp": "2026-08-06T00:23:10.852381577Z",
+  "model": "glm-5.2"
+}

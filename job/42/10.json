@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und JHWH wandte ⟨את⟩ die Gefangenschaft Ijows, als er für seinen Nächsten betete; und JHWH fügte ⟨את⟩ alles, was Ijow hatte, ⟨hinzu⟩ zum Doppelten.",
+  "tokens": [
+    {
+      "surface": "וַֽיהוָ֗ה",
+      "gloss": "Und JHWH"
+    },
+    {
+      "surface": "שָׁ֚ב",
+      "gloss": "wandte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Gefangenschaft"
+    },
+    {
+      "surface": "שְׁבִ֣ית",
+      "gloss": "die Gefangenschaft"
+    },
+    {
+      "surface": "אִיּ֔וֹב",
+      "gloss": "Ijows"
+    },
+    {
+      "surface": "בְּֽהִתְפַּלְל֖וֹ",
+      "gloss": "als er betete"
+    },
+    {
+      "surface": "בְּעַ֣ד",
+      "gloss": "für"
+    },
+    {
+      "surface": "רֵעֵ֑הוּ",
+      "gloss": "seinen Nächsten"
+    },
+    {
+      "surface": "וַיֹּ֥סֶף",
+      "gloss": "und fügte hinzu"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לְאִיּ֖וֹב",
+      "gloss": "Ijow hatte"
+    },
+    {
+      "surface": "לְמִשְׁנֶֽה",
+      "gloss": "zum Doppelten"
+    }
+  ],
+  "timestamp": "2026-08-06T21:25:43.033961455Z",
+  "model": "glm-5.2"
+}

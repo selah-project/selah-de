@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Da stand Awraham auf von vor dem Angesicht seines Toten und redete zu den Söhnen Chet, indem er sprach:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Da stand auf"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von vor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dem Angesicht"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "seines Toten"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "und redete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem er sprach"
+    }
+  ],
+  "timestamp": "2026-08-05T17:34:11.743185300Z",
+  "model": "glm-5.2"
+}

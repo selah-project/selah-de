@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ihr sollt ⟨את⟩ dieses Wort einhalten ⟨als⟩ Satzung für dich und für deine Söhne bis auf ewig.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Und ihr sollt einhalten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Wort"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "als Satzung"
+    },
+    {
+      "surface": "לך",
+      "gloss": "für dich"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "und für deine Söhne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "auf ewig"
+    }
+  ],
+  "timestamp": "2026-08-06T00:15:54.742456864Z",
+  "model": "glm-5.2"
+}

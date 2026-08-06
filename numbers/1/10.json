@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Für die Söhne Jossufs: für Efrajim, Elischama, Sohn des Ammihud; für Menasche, Gamliel, Sohn des Pedazur.",
+  "tokens": [
+    {
+      "surface": "לִבְנֵ֣י",
+      "gloss": "Für die Söhne"
+    },
+    {
+      "surface": "יוֹסֵ֔ף",
+      "gloss": "Jossufs"
+    },
+    {
+      "surface": "לְאֶפְרַ֕יִם",
+      "gloss": "für Efrajim"
+    },
+    {
+      "surface": "אֱלִישָׁמָ֖ע",
+      "gloss": "Elischama"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "עַמִּיה֑וּד",
+      "gloss": "des Ammihud"
+    },
+    {
+      "surface": "לִמְנַשֶּׁ֕ה",
+      "gloss": "für Menasche"
+    },
+    {
+      "surface": "גַּמְלִיאֵ֖ל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "פְּדָהצֽוּר",
+      "gloss": "des Pedazur"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:57.160281230Z",
+  "model": "glm-5.2"
+}

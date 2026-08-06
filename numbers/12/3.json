@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und der Mann Mosche war überaus demütig, mehr als ⟨irgendein⟩ Mensch, der auf ⟨dem⟩ Angesicht ⟨der⟩ Erde ⟨war⟩.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Und der Mann"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "war demütig"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "überaus"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mehr als"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Angesicht"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T22:33:11.932072925Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨für⟩ Channa gab er eine Portion ⟨für⟩ ⟨das⟩ Gesicht, denn ⟨את⟩ Channa liebte er, und JHWH hatte ihren Mutterschoß verschlossen.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "und ⟨für⟩ Channa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gab er"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "eine Portion"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eine"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨für⟩ ⟨das⟩ Gesicht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Channa"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liebte er"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "und JHWH"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "hatte verschlossen"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ihren Mutterschoß"
+    }
+  ],
+  "timestamp": "2026-08-05T21:06:47.648592009Z",
+  "model": "glm-5.2"
+}

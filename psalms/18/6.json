@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Stricke des Scheol umringten mich, Fallen des Todes kamen mir zuvor.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "Stricke"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "des Scheol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "umringten mich"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "kamen mir zuvor"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "Fallen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "des Todes"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:36.583352996Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und es geschah zur Zeit, ⟨als man⟩ Merab, die Tochter Schauls, dem Dawid geben sollte — sie wurde Adriel dem Mecholatiter zur Frau gegeben.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zur Zeit"
+    },
+    {
+      "surface": "תת",
+      "gloss": "geben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dem Dawid"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "wurde gegeben"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "dem Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "dem Mecholatiter"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "zur Frau"
+    }
+  ],
+  "timestamp": "2026-08-06T01:08:06.380034639Z",
+  "model": "glm-5.2"
+}

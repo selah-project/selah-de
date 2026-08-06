@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Mazzot ⟨sollen⟩ gegessen ⟨werden⟩ ⟨את⟩ sieben Tage, und es soll dir nicht Gesäuertes gesehen werden, und es soll dir nicht Sauerteig gesehen werden in deinem ganzen Gebiet.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Mazzot"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨sollen⟩ gegessen ⟨werden⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sieben Tage"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "soll gesehen werden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "Gesäuertes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "soll gesehen werden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "Sauerteig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ganz"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "deinem Gebiet"
+    }
+  ],
+  "timestamp": "2026-08-06T22:32:31.196041678Z",
+  "model": "glm-5.2"
+}

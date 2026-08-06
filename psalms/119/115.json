@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Weicht von mir, ihr Übeltäter, ⟨damit⟩ ich ⟨die⟩ Gebote meines Elohim bewahre!",
+  "tokens": [
+    {
+      "surface": "סֽוּרוּ",
+      "gloss": "weicht"
+    },
+    {
+      "surface": "מִמֶּ֥נִּי",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "מְרֵעִ֑ים",
+      "gloss": "ihr Übeltäter"
+    },
+    {
+      "surface": "וְ֝אֶצְּרָ֗ה",
+      "gloss": "⟨damit⟩ ich bewahre"
+    },
+    {
+      "surface": "מִצְוֺ֥ת",
+      "gloss": "⟨die⟩ Gebote"
+    },
+    {
+      "surface": "אֱלֹהָֽי",
+      "gloss": "meines Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:39.727903654Z",
+  "model": "glm-5.2"
+}

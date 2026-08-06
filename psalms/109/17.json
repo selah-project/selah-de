@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Und er liebte ⟨die⟩ Verfluchung, und sie kam zu ihm, und an Segnung hatte er keine Lust, und sie blieb fern von ihm.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "und er liebte"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "Verfluchung"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "und sie kam zu ihm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "begehrte er"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "an Segnung"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "und sie blieb fern"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "von ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:05.394680304Z",
+  "model": "glm-5.2"
+}

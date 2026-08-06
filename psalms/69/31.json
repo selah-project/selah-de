@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Ich will den Namen Elohims rühmen im Lied, und ihn groß machen mit Dank.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Ich will rühmen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "den Namen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "im Lied"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "und ihn groß machen"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "mit Dank"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:05.955569552Z",
+  "model": "glm-5.2"
+}

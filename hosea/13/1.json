@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Als Efrajim ⟨⟩ sprechen ⟨mit⟩ Schrecken ⟨er⟩ hob sich empor in Jisra'el, doch ⟨er⟩ schuldig wurde ⟨durch⟩ Ba'al, und ⟨er⟩ starb.",
+  "tokens": [
+    {
+      "surface": "כְּדַבֵּ֤ר",
+      "gloss": "Als sprechen"
+    },
+    {
+      "surface": "אֶפְרַ֨יִם֙",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "רְתֵ֔ת",
+      "gloss": "Schrecken"
+    },
+    {
+      "surface": "נָשָׂ֥א",
+      "gloss": "hob sich empor"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "er"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵ֑ל",
+      "gloss": "in Jisra'el"
+    },
+    {
+      "surface": "וַיֶּאְשַׁ֥ם",
+      "gloss": "und schuldig wurde"
+    },
+    {
+      "surface": "בַּבַּ֖עַל",
+      "gloss": "durch Ba'al"
+    },
+    {
+      "surface": "וַיָּמֹֽת",
+      "gloss": "und starb"
+    }
+  ],
+  "timestamp": "2026-08-06T20:38:11.621280969Z",
+  "model": "glm-5.2"
+}

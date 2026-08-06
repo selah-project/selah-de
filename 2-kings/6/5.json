@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und es geschah: Der eine fällte den Balken, ⟨aber⟩ ⟨את⟩ das Eisen fiel ins Wasser. Er schrie auf und sagte: „Ach, mein Herr! Und er ⟨ist⟩ geliehen!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "der eine"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "fällte"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "den Balken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das Eisen"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "das Eisen"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "fiel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ins"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "Er schrie auf"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und er"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "geliehen"
+    }
+  ],
+  "timestamp": "2026-08-06T21:17:17.554281437Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Aus der Mitte ⟨wurden⟩ sie vertrieben; man schreit sie an wie ⟨einen⟩ Dieb.",
+  "tokens": [
+    {
+      "surface": "מִן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "גֵּו",
+      "gloss": "der Mitte"
+    },
+    {
+      "surface": "יְגֹרָשׁוּ",
+      "gloss": "wurden sie vertrieben"
+    },
+    {
+      "surface": "יָרִיעוּ",
+      "gloss": "man schreit"
+    },
+    {
+      "surface": "עָלֵימוֹ",
+      "gloss": "sie an"
+    },
+    {
+      "surface": "כַּגַּנָּב",
+      "gloss": "wie ein Dieb"
+    }
+  ],
+  "timestamp": "2026-08-06T04:36:55.866679909Z",
+  "model": "glm-5.2"
+}

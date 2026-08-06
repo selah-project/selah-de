@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Wer ⟨den⟩ Armen verhöhnt, hat ⟨seinen⟩ Machenden geschmäht, und wer sich freut ⟨am⟩ Unheil, wird nicht ungestraft bleiben.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "verhöhnt"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "⟨den⟩ Armen"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "hat geschmäht"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "⟨seinen⟩ Machenden"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "sich freut"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "⟨am⟩ Unheil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ungestraft bleiben"
+    }
+  ],
+  "timestamp": "2026-08-05T23:12:04.922694599Z",
+  "model": "glm-5.2"
+}

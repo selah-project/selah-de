@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und ⟨er⟩ gab ⟨את⟩ sie ⟨zum Gegenstand⟩ von Erbarmen, vor allen ihren Gefangennehmern.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "und ⟨er⟩ gab"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "⟨zum Gegenstand⟩ von Erbarmen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "ihren Gefangennehmern"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:15.599727470Z",
+  "model": "glm-5.2"
+}

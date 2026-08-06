@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 21:43",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und JHWH gab Jisrael ⟨את⟩ das ganze Land, das er ihren Vätern zu geben geschworen hatte, und sie nahmen es in Besitz und wohnten darin.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Und gab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "er geschworen hatte"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "zu geben"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ihren Vätern"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "und sie nahmen es in Besitz"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "und sie wohnten"
+    },
+    {
+      "surface": "בה",
+      "gloss": "darin"
+    }
+  ],
+  "timestamp": "2026-08-06T02:34:57.071041358Z",
+  "model": "glm-5.2"
+}

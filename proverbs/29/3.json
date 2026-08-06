@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Ein Mann, der Weisheit liebt, erfreut seinen Vater; ⟨aber⟩ wer mit Dirnen verkehrt, vergeudet Vermögen.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ein Mann"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liebt"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "erfreut"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seinen Vater"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "⟨aber⟩ wer verkehrt"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "mit Dirnen"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "vergeudet"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Vermögen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:25:45.685361830Z",
+  "model": "glm-5.2"
+}

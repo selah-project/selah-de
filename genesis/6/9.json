@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Dies ⟨sind⟩ die Geschlechter Noachs: Noach, ein gerechter Mann, ganz ⟨war⟩ er in seinen Geschlechtern — ⟨mit⟩ ⟨את⟩ Elohim ging Noach.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "die Geschlechter"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachs"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "gerechter"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "היה",
+      "gloss": "war"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "in seinen Geschlechtern"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "ging"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:31.792575992Z",
+  "model": "glm-5.2"
+}

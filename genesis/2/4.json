@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Dies ⟨sind⟩ die Zeugungen des Himmels und der Erde bei ihrem ErschaffWerden, an dem Tag, ⟨als⟩ JHWH Elohim Erde und Himmel machte.",
+  "tokens": [
+    {
+      "surface": "אֵ֣לֶּה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "תוֹלְד֧וֹת",
+      "gloss": "Zeugungen"
+    },
+    {
+      "surface": "הַשָּׁמַ֛יִם",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "וְהָאָ֖רֶץ",
+      "gloss": "und der Erde"
+    },
+    {
+      "surface": "בְּהִבָּֽרְאָ֑ם",
+      "gloss": "bei ihrem ErschaffWerden"
+    },
+    {
+      "surface": "בְּי֗וֹם",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "עֲשׂ֛וֹת",
+      "gloss": "⟨als⟩ … machte"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "וְשָׁמָֽיִם",
+      "gloss": "und Himmel"
+    }
+  ],
+  "timestamp": "2026-08-06T01:51:02.542382371Z",
+  "model": "glm-5.2"
+}

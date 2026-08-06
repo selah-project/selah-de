@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Es reden über mich die im Tor Sitzen, und ⟨die⟩ Saitenspielsachen ⟨sind⟩ für ⟨die⟩ Biertrinker.",
+  "tokens": [
+    {
+      "surface": "יָשִׂיחוּ",
+      "gloss": "sprechen"
+    },
+    {
+      "surface": "בִּי",
+      "gloss": "über mich"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "die Sitzer"
+    },
+    {
+      "surface": "שַׁעַר",
+      "gloss": "Tor"
+    },
+    {
+      "surface": "וּנְגִינֹות",
+      "gloss": "und Saitenspielsachen"
+    },
+    {
+      "surface": "שֹׁתֵי",
+      "gloss": "Trinker"
+    },
+    {
+      "surface": "שֵׁכָר",
+      "gloss": "Biers"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:30.369748551Z",
+  "model": "glm-5.2"
+}

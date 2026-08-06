@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Verflucht ⟨sei⟩, wer seinen Vater und seine Mutter geringachtet, und ganz ⟨das⟩ Volk soll sagen: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "geringachtet"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seinen Vater"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "und seine Mutter"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und sie sollen sagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨das⟩ Volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:50:00.022001668Z",
+  "model": "glm-5.2"
+}

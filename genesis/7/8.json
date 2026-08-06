@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Von dem Vieh, dem reinen, und von dem Vieh, das nicht rein ⟨ist⟩, und von dem Geflügel und allem, was auf dem Erdboden kriecht —",
+  "tokens": [
+    {
+      "surface": "מִן",
+      "gloss": "Von"
+    },
+    {
+      "surface": "הַבְּהֵמָה֙",
+      "gloss": "dem Vieh"
+    },
+    {
+      "surface": "הַטְּהוֹרָ֔ה",
+      "gloss": "dem reinen"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "und von"
+    },
+    {
+      "surface": "הַבְּהֵמָ֔ה",
+      "gloss": "dem Vieh"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אֵינֶ֖נָּה",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "טְהֹרָ֑ה",
+      "gloss": "rein"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "und von"
+    },
+    {
+      "surface": "הָעֹ֔וף",
+      "gloss": "dem Geflügel"
+    },
+    {
+      "surface": "וְכֹ֥ל",
+      "gloss": "und allem"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "was"
+    },
+    {
+      "surface": "רֹמֵ֖שׂ",
+      "gloss": "kriecht"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הָאֲדָמָֽה",
+      "gloss": "dem Erdboden"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:58.196098255Z",
+  "model": "glm-5.2"
+}

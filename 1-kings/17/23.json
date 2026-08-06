@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und Elíja nahm ⟨את⟩ das Kind und brachte ihn hinab vom Obergemach ⟨ins⟩ Haus und gab ihn seiner Mutter. Und Elíja sprach: „Sieh, dein Sohn lebt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und nahm"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elíja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "das Kind"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "und brachte ihn hinab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "dem Obergemach"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "⟨ins⟩ Haus"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "und gab ihn"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "seiner Mutter"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elíja"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Sieh"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lebt"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "dein Sohn"
+    }
+  ],
+  "timestamp": "2026-08-06T19:41:06.722683189Z",
+  "model": "glm-5.2"
+}

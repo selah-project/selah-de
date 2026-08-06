@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und JHWH erhöh⟨te⟩ ⟨את⟩ die Bedränger Rezins über ihn, und ⟨את⟩ seine Feinde hetz⟨te⟩ er auf.",
+  "tokens": [
+    {
+      "surface": "וַיְשַׂגֵּ֧ב",
+      "gloss": "Und erhöh⟨te⟩"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Bedränger Rezins"
+    },
+    {
+      "surface": "צָרֵ֥י",
+      "gloss": "die Bedränger"
+    },
+    {
+      "surface": "רְצִ֖ין",
+      "gloss": "Rezins"
+    },
+    {
+      "surface": "עָלָ֑יו",
+      "gloss": "über ihn"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Feinde"
+    },
+    {
+      "surface": "אֹיְבָ֖יו",
+      "gloss": "seine Feinde"
+    },
+    {
+      "surface": "יְסַכְסֵֽךְ",
+      "gloss": "hetz⟨te⟩ er auf"
+    }
+  ],
+  "timestamp": "2026-08-05T21:45:03.085452171Z",
+  "model": "glm-5.2"
+}

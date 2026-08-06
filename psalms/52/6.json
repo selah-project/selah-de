@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 52,
+  "translation": "Du liebst alle Worte des Verschlingens, du Zunge der Täuschung.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Du liebst"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "des Verschlingens"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "Zunge"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "der Täuschung"
+    }
+  ],
+  "timestamp": "2026-08-06T15:22:32.151208549Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 52:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 52,
+  "translation": "Brecht aus, jauchzt zusammen, ihr Trümmerstätten von Jeruschalajim! Denn JHWH hat ⟨sein⟩ Volk getröstet, er hat Jeruschalajim gelöst.",
+  "tokens": [
+    {
+      "surface": "פִּצְחוּ",
+      "gloss": "Brecht aus"
+    },
+    {
+      "surface": "רַנְּנוּ",
+      "gloss": "jauchzt"
+    },
+    {
+      "surface": "יַחְדָּו",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "חָרְבוֹת",
+      "gloss": "Trümmerstätten"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ͏ם",
+      "gloss": "von Jeruschalajim"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "נִחַם",
+      "gloss": "hat getröstet"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "⟨sein⟩ Volk"
+    },
+    {
+      "surface": "גָּאַל",
+      "gloss": "er hat gelöst"
+    },
+    {
+      "surface": "יְרוּשָׁלִָֽם",
+      "gloss": "Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-05T21:55:11.730597407Z",
+  "model": "glm-5.2"
+}

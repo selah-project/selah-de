@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und der Strom wird wimmeln von Fröschen, und sie werden heraufsteigen und kommen in dein Haus und in dein Schlafgemach und auf dein Bett und ins Haus deiner Knechte und in dein Volk und in deine Öfen und in deine Knettröge.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "und wird wimmeln"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "der Strom"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "von Fröschen"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "und sie werden heraufsteigen"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "und kommen"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in dein Haus"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "und in ⟨dein⟩ Gemach"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "deines Lagers"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "dein Bett"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "und ins Haus"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "deiner Knechte"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "und in dein Volk"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "und in deine Öfen"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "und in deine Knettröge"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:10.381451725Z",
+  "model": "glm-5.2"
+}

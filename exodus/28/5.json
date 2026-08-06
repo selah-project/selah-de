@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und sie sollen nehmen ⟨את⟩ das Gold und ⟨את⟩ die Tekhelet und ⟨את⟩ den Argaman und ⟨את⟩ den Wurm des Schani und ⟨את⟩ den Schesch.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "sollen nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Gold"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "das Gold"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Tekhelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "die Tekhelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "den Argaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Wurm des Schani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "den Wurm"
+    },
+    {
+      "surface": "השני",
+      "gloss": "des Schani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Schesch"
+    },
+    {
+      "surface": "השש",
+      "gloss": "den Schesch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:51.382408240Z",
+  "model": "glm-5.2"
+}

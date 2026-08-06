@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Eine Rechtsordnung soll ⟨euch⟩ gelten, dem Ger wie dem Einheimischen; denn ich bin JHWH, euer Elohim.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "Rechtsordnung"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eine"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "wie der Ger"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "wie der Einheimische"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll ⟨es⟩ sein"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:29.497053967Z",
+  "model": "glm-5.2"
+}

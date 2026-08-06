@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Ihr sollt nicht tun nach all dem, was wir hier am heutigen Tag tun, ⟨wobei⟩ jeder ⟨tut⟩, das ganze, was recht ist in seinen Augen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "Ihr sollt tun"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nach all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dem, was"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wir"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "tun"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "היום",
+      "gloss": "am heutigen Tag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "was recht ist"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in seinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:46:16.562991410Z",
+  "model": "glm-5.2"
+}

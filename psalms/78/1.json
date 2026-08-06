@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Eine Unterweisung von Asaf. Horch auf, mein Volk, ⟨auf⟩ meine Tora, neigt euer Ohr zu den Worten meines Mundes!",
+  "tokens": [
+    {
+      "surface": "מַשְׂכִּיל",
+      "gloss": "Eine Unterweisung"
+    },
+    {
+      "surface": "לְאָסָף",
+      "gloss": "von Asaf"
+    },
+    {
+      "surface": "הַאֲזִינָה",
+      "gloss": "Horch auf"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "תּוֹרָתִי",
+      "gloss": "⟨auf⟩ meine Tora"
+    },
+    {
+      "surface": "הַטּוּ",
+      "gloss": "neigt"
+    },
+    {
+      "surface": "אָזְנְכֶם",
+      "gloss": "euer Ohr"
+    },
+    {
+      "surface": "לְאִמְרֵי",
+      "gloss": "zu den Worten"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "meines Mundes"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:32.707686062Z",
+  "model": "glm-5.2"
+}

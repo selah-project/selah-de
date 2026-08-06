@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Von deinem Schreckensruf flohen ⟨sie⟩, vom Klang deines Donners eilten ⟨sie⟩ davon —",
+  "tokens": [
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "גַּעֲרָ֣תְךָ֣",
+      "gloss": "deinem Schreckensruf"
+    },
+    {
+      "surface": "יְנוּס֑וּן",
+      "gloss": "flogen ⟨sie⟩"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "vom"
+    },
+    {
+      "surface": "ק֥וֹל",
+      "gloss": "Klang"
+    },
+    {
+      "surface": "רַֽ֝עַמְךָ֗",
+      "gloss": "deines Donners"
+    },
+    {
+      "surface": "יֵחָפֵזֽוּן",
+      "gloss": "eilten ⟨sie⟩ davon"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:11.365788047Z",
+  "model": "glm-5.2"
+}

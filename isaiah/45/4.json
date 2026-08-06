@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Um meines Knechtes Jaakow willen und um Jisra'els, meines Auserwählten, willen: und ich habe dich bei deinem Namen gerufen, ich habe dich betitelt, ⟨obwohl⟩ du mich nicht kanntest.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "meines Knechtes"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "und Jisra'els"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "meines Auserwählten"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "und ich habe gerufen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dich"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "bei deinem Namen"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "ich habe dich betitelt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "du mich kanntest"
+    }
+  ],
+  "timestamp": "2026-08-06T06:01:23.526957088Z",
+  "model": "glm-5.2"
+}

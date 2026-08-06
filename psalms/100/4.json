@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 100,
+  "translation": "Geht ein in seine Tore ⟨mit⟩ Toda, seine Höfe ⟨mit⟩ Tehilla — bekennt ⟨ihm⟩, segnet seinen Namen!",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Geht ein"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "in seine Tore"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "⟨mit⟩ Toda"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "seine Höfe"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "⟨mit⟩ Tehilla"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "bekennt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ihm⟩"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "segnet"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seinen Namen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:14.352285300Z",
+  "model": "glm-5.2"
+}

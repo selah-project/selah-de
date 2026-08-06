@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Deine Wege, JHWH, lass mich erkennen; deine Pfade, lehre mich!",
+  "tokens": [
+    {
+      "surface": "דְּרָכֶ֣יךָ",
+      "gloss": "Deine Wege"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הוֹדִיעֵ֑נִי",
+      "gloss": "lass mich erkennen"
+    },
+    {
+      "surface": "אֹרְחֹתֶ֥יךָ",
+      "gloss": "deine Pfade"
+    },
+    {
+      "surface": "לַמְּדֵֽנִי",
+      "gloss": "lehre mich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:43.218733139Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Danach werden die Söhne Jisraels umkehren und suchen ⟨את⟩ JHWH, ihren Elohim, und ⟨את⟩ Dawid, ihren König, und sie werden zittern zu JHWH und zu seinem Erbarmen in ⟨der⟩ Ende ⟨der⟩ Tage.",
+  "tokens": [
+    {
+      "surface": "אַחַ֗ר",
+      "gloss": "Danach"
+    },
+    {
+      "surface": "יָשֻׁ֨בוּ֙",
+      "gloss": "werden umkehren"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "וּבִקְשׁוּ֙",
+      "gloss": "und suchen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH, ihren Elohim"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶ֔ם",
+      "gloss": "ihren Elohim"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid, ihren König"
+    },
+    {
+      "surface": "דָּוִ֣ד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מַלְכָּ֑ם",
+      "gloss": "ihren König"
+    },
+    {
+      "surface": "וּפָחֲד֧וּ",
+      "gloss": "und sie werden zittern"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "טוּב֖וֹ",
+      "gloss": "seinem Erbarmen"
+    },
+    {
+      "surface": "בְּאַחֲרִ֥ית",
+      "gloss": "in ⟨der⟩ Ende"
+    },
+    {
+      "surface": "הַיָּמִֽים",
+      "gloss": "⟨der⟩ Tage"
+    }
+  ],
+  "timestamp": "2026-08-05T22:30:08.393768341Z",
+  "model": "glm-5.2"
+}

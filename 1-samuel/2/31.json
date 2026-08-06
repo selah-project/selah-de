@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Siehe, Tage kommen, da werde ich ⟨את⟩ deinen Arm abhauen und ⟨את⟩ den Arm des Hauses deines Vaters, sodass kein Alter ⟨mehr⟩ in deinem Haus ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kommen"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "da werde ich abhauen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Arm"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "deinen Arm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Arm"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "den Arm"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "sodass kein"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "Alter"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in deinem Haus"
+    }
+  ],
+  "timestamp": "2026-08-05T21:08:11.435570887Z",
+  "model": "glm-5.2"
+}

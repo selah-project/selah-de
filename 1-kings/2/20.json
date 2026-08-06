@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und sie sagte: „Eine kleine Bitte bitte ich von dir — wende mein Angesicht nicht ab!“ Und der König sagte zu ihr: „Bitte, meine Mutter, denn ich werde ⟨dein⟩ Angesicht nicht abweisen.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Und sie sagte"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "Eine Bitte"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eine"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kleine"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "bitte"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "von dir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "wende ab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Angesicht"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mein Angesicht"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "zu ihr"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "Bitte"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "meine Mutter"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "werde ich abweisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Angesicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-06T02:56:26.485980970Z",
+  "model": "glm-5.2"
+}

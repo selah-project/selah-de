@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 21:16",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und ⟨man⟩ gab ⟨את⟩ sie zum Polieren, zum Ergreifen ⟨in⟩ der Handfläche. Sie ist geschärft, das Schwert, und sie ist poliert, zum Geben ⟨את⟩ sie in die Hand ⟨des⟩ Tötenden —",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Und ⟨man⟩ gab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie (das Schwert)"
+    },
+    {
+      "surface": "למרטה",
+      "gloss": "zum Polieren"
+    },
+    {
+      "surface": "לתפש",
+      "gloss": "zum Ergreifen"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "⟨in⟩ der Handfläche"
+    },
+    {
+      "surface": "היא",
+      "gloss": "Sie"
+    },
+    {
+      "surface": "הוחדה",
+      "gloss": "ist geschärft"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨das⟩ Schwert"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "מרטה",
+      "gloss": "ist poliert"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "zum Geben"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "sie (das Schwert)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "הורג",
+      "gloss": "⟨des⟩ Tötenden"
+    }
+  ],
+  "timestamp": "2026-08-06T03:47:47.959915866Z",
+  "model": "glm-5.2"
+}

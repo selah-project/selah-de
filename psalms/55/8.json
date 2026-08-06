@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Siehe, ich würde mich weit entfernen, flüchten, in der Wüste übernachten. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ich würde mich weit entfernen"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "flüchten"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "übernachten"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:22.825876857Z",
+  "model": "glm-5.2"
+}

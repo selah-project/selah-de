@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Denn ⟨die⟩ Berge tragen ihm Ertrag, und alles Wild des Feldes spielt dort.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בול",
+      "gloss": "Ertrag"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "⟨die⟩ Berge"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "tragen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alles"
+    },
+    {
+      "surface": "חית",
+      "gloss": "Wild"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "spielt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-06T10:37:50.385036684Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und ⟨sie⟩ saßen ⟨drei⟩ Jahre, ⟨dass es⟩ kein Krieg zwischen Aram und zwischen Jisraël ⟨gab⟩.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "und ⟨sie⟩ saßen"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drei"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kein"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "Krieg"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-06T01:29:41.454202170Z",
+  "model": "glm-5.2"
+}

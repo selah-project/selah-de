@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Sie hat ⟨ihr⟩ Schlachtgeschlachtet, sie hat ⟨ihren⟩ Wein gemischt, auch hat sie ⟨ihren⟩ Tisch gedeckt.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "sie hat geschlachtet"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "ihr Schlachtopfer"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "sie hat gemischt"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "ihren Wein"
+    },
+    {
+      "surface": "אף",
+      "gloss": "auch"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "sie hat gedeckt"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "ihren Tisch"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:02.321110402Z",
+  "model": "glm-5.2"
+}

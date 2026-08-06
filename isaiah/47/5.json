@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Setz dich schweigend und geh in die Finsternis, Tochter der Kasdäer! Denn nicht mehr werden sie dich rufen: Gebieterin der Königreiche.",
+  "tokens": [
+    {
+      "surface": "שְׁבִ֥י",
+      "gloss": "Setz dich"
+    },
+    {
+      "surface": "דוּמָ֛ם",
+      "gloss": "schweigend"
+    },
+    {
+      "surface": "וּבֹ֥אִי",
+      "gloss": "und geh"
+    },
+    {
+      "surface": "בַחֹ֖שֶׁךְ",
+      "gloss": "in die Finsternis"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "כַּשְׂדִּ֑ים",
+      "gloss": "der Kasdäer"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תוֹסִ֨יפִי֙",
+      "gloss": "werden sie fortfahren"
+    },
+    {
+      "surface": "יִקְרְאוּ",
+      "gloss": "[sie] dich rufen"
+    },
+    {
+      "surface": "לָ֔ךְ",
+      "gloss": "dir"
+    },
+    {
+      "surface": "גְּבֶ֖רֶת",
+      "gloss": "Gebieterin"
+    },
+    {
+      "surface": "מַמְלָכֽוֹת",
+      "gloss": "der Königreiche"
+    }
+  ],
+  "timestamp": "2026-08-06T06:02:27.540341735Z",
+  "model": "glm-5.2"
+}

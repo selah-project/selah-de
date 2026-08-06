@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Wenn ich ⟨dem⟩, der Frieden mit mir hatte, Böses vergolten, und ⟨den⟩, der mich ohne Grund bedrängte, befreit habe —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "ich vergolten habe"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "⟨dem⟩ der Frieden mit mir hatte"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "und befreit habe"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "⟨den⟩ der mich bedrängte"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ohne Grund"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:47.959142072Z",
+  "model": "glm-5.2"
+}

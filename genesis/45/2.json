@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Und er erhob ⟨את⟩ seine Stimme im Weinen, und Mizrajim hörte ⟨es⟩, und ⟨es⟩ hörte das Haus des Paro.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Und er erhob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Stimme"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "seine Stimme"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "im Weinen"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "und hörten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "und hörte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "des Paro"
+    }
+  ],
+  "timestamp": "2026-08-06T21:06:30.297507109Z",
+  "model": "glm-5.2"
+}

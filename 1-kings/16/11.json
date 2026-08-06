@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und es geschah bei seinem Königtum, bei seinem Sitzen auf seinem Thron, da schlug er ⟨את⟩ das ganze Haus Baaschas: er ließ ihm keinen zurück, der ⟨an⟩ die Wand pisst, noch seine Löser noch seinen Nächsten.",
+  "tokens": [
+    {
+      "surface": "וַיְהִי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "בְמָלְכוֹ",
+      "gloss": "bei seinem Königtum"
+    },
+    {
+      "surface": "כְּשִׁבְתּוֹ",
+      "gloss": "bei seinem Sitzen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כִּסְאוֹ",
+      "gloss": "seinem Thron"
+    },
+    {
+      "surface": "הִכָּה",
+      "gloss": "schlug er"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Haus Baaschas"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "בַּעְשָׂא",
+      "gloss": "Baaschas"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הִשְׁאִיר",
+      "gloss": "ließ ⟨er⟩ zurück"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "מַשְׁתִּין",
+      "gloss": "einen, der pisst"
+    },
+    {
+      "surface": "בְּקִיר",
+      "gloss": "⟨an⟩ die Wand"
+    },
+    {
+      "surface": "וְגֹאֲלָיו",
+      "gloss": "noch seine Löser"
+    },
+    {
+      "surface": "וְרֵעֵהוּ",
+      "gloss": "noch seinen Nächsten"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:33.099645076Z",
+  "model": "glm-5.2"
+}

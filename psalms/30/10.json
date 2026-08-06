@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Was ⟨nützt⟩ der Gewinn in meinem Blut, ⟨wenn⟩ ich hinabsteige zur Grube? Wird der Staub dich preisen? Wird er deine Emet verkünden?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "⟨nützt⟩ der Gewinn"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "in meinem Blut"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "⟨wenn⟩ ich hinabsteige"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "der Grube"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Wird ⟨er⟩ dich preisen"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "der Staub"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Wird er verkünden"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "deine Emet"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:43.582699713Z",
+  "model": "glm-5.2"
+}

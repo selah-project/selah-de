@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und ich werde ⟨את⟩ dein Fleisch auf die Berge legen und die Täler mit deinem Haufen füllen.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "und ich werde legen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Fleisch"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "dein Fleisch"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "die Berge"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "und ich werde füllen"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "die Täler"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "dein Haufen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:51:07.299029255Z",
+  "model": "glm-5.2"
+}

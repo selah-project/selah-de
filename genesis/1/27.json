@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim schuf ⟨את⟩ den Menschen in seinem Bild, im Bild Elohim schuf er ⟨את⟩ ihn, als Mann und Frau schuf er ⟨את⟩ sie.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Und schuf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Menschen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "in seinem Bild"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "im Bild"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "schuf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "er ⟨את⟩ ihn",
+      "marks": "ihn"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "als Mann"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "und Frau"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "schuf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "er ⟨את⟩ sie",
+      "marks": "sie"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:36.795345284Z",
+  "model": "glm-5.2"
+}

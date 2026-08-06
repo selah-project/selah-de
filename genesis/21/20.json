@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Elohim war mit ⟨את⟩ dem Jungen, und er wuchs heran und wohnte in der Wüste und wurde ein Bogenschütze.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und war"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem Jungen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dem Jungen"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "und er wuchs heran"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und wohnte"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und wurde"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ein Wachsender"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "im Bogenschießen"
+    }
+  ],
+  "timestamp": "2026-08-05T17:33:46.628665095Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Worin das Wort des Königs ⟨ist⟩, da ⟨ist⟩ Macht, und wer wird zu ihm sagen: Was tust du?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "worin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Wort"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "Macht"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "und wer"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wird sagen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tust du"
+    }
+  ],
+  "timestamp": "2026-08-06T07:10:47.696179746Z",
+  "model": "glm-5.2"
+}

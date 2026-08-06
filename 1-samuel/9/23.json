@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Schmuël sagte zum Schlächter: „Gib ⟨את⟩ die Portion, die ich dir gegeben habe, von der ich zu dir gesagt habe: ‚Lege sie bei dich.‘“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "zum Schlächter"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Gib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Portion"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "die Portion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ich gegeben habe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "von der"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ich gesagt habe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "שים",
+      "gloss": "Lege"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bei dir"
+    }
+  ],
+  "timestamp": "2026-08-06T19:35:08.483756016Z",
+  "model": "glm-5.2"
+}

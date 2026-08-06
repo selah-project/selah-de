@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Die Stimme JHWHs zerbricht Zedern, ja, JHWH zerbricht ⟨את⟩ die Zedern des Lewanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "zerbricht"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "Zedern"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ja, zerbricht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Zedern des Lewanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "die Zedern"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "des Lewanon"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:25.199337026Z",
+  "model": "glm-5.2"
+}

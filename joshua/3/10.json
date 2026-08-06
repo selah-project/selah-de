@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Jehoschua sprach: „Darán werdet ihr erkennen, dass ein lebendiger El in eurer Mitte ⟨ist⟩, und ⟨er⟩ wird gewiss vor euch vertreiben ⟨את⟩ den Kenaaniter und ⟨את⟩ den Chititer und ⟨את⟩ den Chiwiter und ⟨את⟩ den Perisiter und ⟨את⟩ den Girgaschiter und den Emoriter und den Jebusiter.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Daran"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "werdet ihr erkennen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ein El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lebendiger"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "in eurer Mitte"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "und wird gewiss vertreiben"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "(Infinitivabsolut)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Kenaaniter"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "den Kenaaniter"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Chititer"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "den Chititer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Chiwiter"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "den Chiwiter"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Perisiter"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "den Perisiter"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Girgaschiter"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "den Girgaschiter"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "und den Emoriter"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "und den Jebusiter"
+    }
+  ],
+  "timestamp": "2026-08-06T02:30:40.256433707Z",
+  "model": "glm-5.2"
+}

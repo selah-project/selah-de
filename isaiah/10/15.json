@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Soll sich ⟨die⟩ Axt rühmen über ⟨den⟩ Hauenden mit ihr, oder ⟨die〉 Säge sich groß tun über ⟨den⟩ Schwingenden ⟨sie⟩? Als ob ⟨ein⟩ Stab schwänge ⟨die, die⟩ ihn heben, und ⟨als ob⟩ ⟨ein〉 Stock höbe — ⟨als ob er⟩ nicht Holz ⟨wäre⟩!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "Soll sich rühmen"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "⟨die⟩ Axt"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "⟨den⟩ Hauenden"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mit ihr"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oder"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "sich groß tun"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "⟨die⟩ Säge"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "⟨den⟩ Schwingenden ⟨sie⟩"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "Als ob schwänge"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "⟨ein⟩ Stab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die ihn Heben"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "⟨die, die⟩ ihn heben"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "und ⟨als ob⟩ höbe"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨ein⟩ Stock"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "Holz"
+    }
+  ],
+  "timestamp": "2026-08-05T21:44:48.454851939Z",
+  "model": "glm-5.2"
+}

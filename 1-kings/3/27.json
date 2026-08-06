@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und der König antwortete und sprach: „Gebt ihr ⟨את⟩ den geborenen Knaben, den lebenden, und den toten tötet nicht — sie ⟨ist⟩ seine Mutter.“",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Und er antwortete"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Gebt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den geborenen Knaben, den lebenden"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "den geborenen Knaben"
+    },
+    {
+      "surface": "החי",
+      "gloss": "den lebenden"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "und den toten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "tötet"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "seine Mutter"
+    }
+  ],
+  "timestamp": "2026-08-06T02:57:07.215988503Z",
+  "model": "glm-5.2"
+}

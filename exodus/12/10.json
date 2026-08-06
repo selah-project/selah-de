@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ihr sollt nichts davon übrig lassen bis zum Morgen; ⟨aber⟩ was davon übrig bleibt bis zum Morgen, im Feuer sollt ihr es verbrennen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "sollt ihr übrig lassen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "davon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "zum Morgen"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "und was übrig bleibt"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "davon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "zum Morgen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "sollt ihr verbrennen"
+    }
+  ],
+  "timestamp": "2026-08-06T21:07:03.936069898Z",
+  "model": "glm-5.2"
+}

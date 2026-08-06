@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "In ⟨meiner⟩ Bedrängnis rief ich zu JHWH, und zu meinem Elohim rief ich, und ⟨er⟩ hörte aus seinem Heiligtum meine Stimme, und mein Schrei ⟨drang⟩ in seine Ohren.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "In Bedrängnis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "rief ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zu JHWH"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "meinem Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "rief ich"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "und ⟨er⟩ hörte"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "aus seinem Heiligtum"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "meine Stimme"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "und mein Schrei"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "in seine Ohren"
+    }
+  ],
+  "timestamp": "2026-08-06T15:48:52.082681878Z",
+  "model": "glm-5.2"
+}

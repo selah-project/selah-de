@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und der Kohen geht aus dem Haus zum Eingang des Hauses hinaus, und ⟨er⟩ schließt ⟨את⟩ das Haus sieben Tage lang.",
+  "tokens": [
+    {
+      "surface": "וצא",
+      "gloss": "und geht hinaus"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dem Haus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Eingang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "und schließt ab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-05T20:23:52.562768416Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Wenn der Ruach des Herrschers über dich steigt, gib deinen Platz nicht auf; denn Heilung lässt große Verfehlungen ruhen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "der Ruach"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "des Herrschers"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "steigt"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "über dich"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "deinen Platz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "gib auf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "Heilung"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "lässt ruhen"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "Verfehlungen"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "große"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:22.276757355Z",
+  "model": "glm-5.2"
+}

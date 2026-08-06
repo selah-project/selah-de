@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 8:4",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Ich sah ⟨את⟩ den Widder stoßen nach Westen und nach Norden und nach Süden, und kein Tier bestand vor ihm, und es gab keinen, der aus seiner Hand rettete, und er handelte nach seinem Willen und wurde groß.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ich sah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Widder"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "den Widder"
+    },
+    {
+      "surface": "מנגח",
+      "gloss": "stoßen"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "nach Westen"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "und nach Norden"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "und nach Süden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und kein"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "Tier"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "bestand"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und es gab keinen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "der rettete"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "aus seiner Hand"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "und er handelte"
+    },
+    {
+      "surface": "כרצנו",
+      "gloss": "nach seinem Willen"
+    },
+    {
+      "surface": "והגדיל",
+      "gloss": "und wurde groß"
+    }
+  ],
+  "timestamp": "2026-08-06T09:29:58.777657159Z",
+  "model": "glm-5.2"
+}

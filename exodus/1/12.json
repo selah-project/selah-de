@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Aber wie man ⟨ihn⟩ bedrückte, so mehrte er sich und so brach er aus. Und sie empörten sich vor den Söhnen Jisraels.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Aber wie"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "man bedrückte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn",
+      "marks": "ihn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "mehrte er sich"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "und so"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "brach er aus"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "Und sie empörten sich"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-05T20:04:23.098986117Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Für alles ⟨gibt es⟩ eine Zeit, und eine Zeit für jedes Begehr unter den Himmeln.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Für alles"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "eine Zeit"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "und eine Zeit"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "für jedes"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Begehr"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "den Himmeln"
+    }
+  ],
+  "timestamp": "2026-08-06T09:27:22.963187697Z",
+  "model": "glm-5.2"
+}

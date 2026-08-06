@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und er baute die Stadt ringsherum, vom Millo bis rundherum; und Joaw belebte ⟨את⟩ den Rest der Stadt.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Und er baute"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ringsherum"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "dem Millo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "rundherum"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "und Joaw"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "belebte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Rest der Stadt"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "Rest"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    }
+  ],
+  "timestamp": "2026-08-06T10:43:52.012677810Z",
+  "model": "glm-5.2"
+}

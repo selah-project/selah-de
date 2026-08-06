@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "„Und auch ich — mein Auge wird nicht schonen, und ich werde nicht verschonen; ihren Weg auf ihren Kopf habe ich gegeben.“",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Und auch"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "wird schonen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mein Auge"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "werde ich verschonen"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ihren Weg"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "auf ihren Kopf"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "habe ich gegeben"
+    }
+  ],
+  "timestamp": "2026-08-06T03:43:56.403851092Z",
+  "model": "glm-5.2"
+}

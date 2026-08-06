@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 29:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und dorthin wurden alle Herden gesammelt, und sie wälzten ⟨את⟩ den Stein vom Mund des Brunnens weg und tränkten ⟨את⟩ die Schafe, und sie stellten ⟨את⟩ den Stein zurück auf den Mund des Brunnens, an seinen Ort.",
+  "tokens": [
+    {
+      "surface": "וְנֶאֶסְפוּ",
+      "gloss": "und wurden gesammelt"
+    },
+    {
+      "surface": "שָׁ֣מָּה",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הָעֲדָרִ֗ים",
+      "gloss": "Herden"
+    },
+    {
+      "surface": "וְגָלֲל֤וּ",
+      "gloss": "und sie wälzten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Stein"
+    },
+    {
+      "surface": "הָאֶ֨בֶן֙",
+      "gloss": "den Stein"
+    },
+    {
+      "surface": "מֵעַל֙",
+      "gloss": "von … weg"
+    },
+    {
+      "surface": "פִּ֣י",
+      "gloss": "Mund"
+    },
+    {
+      "surface": "הַבְּאֵ֔ר",
+      "gloss": "des Brunnens"
+    },
+    {
+      "surface": "וְהִשְׁק֖וּ",
+      "gloss": "und tränkten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Schafe"
+    },
+    {
+      "surface": "הַצֹּ֑אן",
+      "gloss": "die Schafe"
+    },
+    {
+      "surface": "וְהֵשִׁ֧יבוּ",
+      "gloss": "und sie stellten zurück"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Stein"
+    },
+    {
+      "surface": "הָאֶ֛בֶן",
+      "gloss": "den Stein"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פִּ֥י",
+      "gloss": "Mund"
+    },
+    {
+      "surface": "הַבְּאֵ֖ר",
+      "gloss": "des Brunnens"
+    },
+    {
+      "surface": "לִמְקֹמָֽהּ",
+      "gloss": "an seinen Ort"
+    }
+  ],
+  "timestamp": "2026-08-06T20:04:12.352016611Z",
+  "model": "glm-5.2"
+}

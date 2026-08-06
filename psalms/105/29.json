@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Er wandelte ⟨את⟩ ihre Wasser in Blut, und er tötete ⟨את⟩ ihre Fische.",
+  "tokens": [
+    {
+      "surface": "הָפַ֣ךְ",
+      "gloss": "Er wandelte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Wasser"
+    },
+    {
+      "surface": "מֵימֵיהֶ֣ם",
+      "gloss": "ihre Wasser"
+    },
+    {
+      "surface": "לְדָ֑ם",
+      "gloss": "in Blut"
+    },
+    {
+      "surface": "וַ֝יָּ֗מֶת",
+      "gloss": "und er tötete"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Fische"
+    },
+    {
+      "surface": "דְּגָתָֽם",
+      "gloss": "ihre Fische"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:44.099965760Z",
+  "model": "glm-5.2"
+}

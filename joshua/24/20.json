@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Wenn ihr ⟨את⟩ JHWH verlasst und fremde Götter dient, dann wird er umschwenken und euch Böses antun und euch vernichten, nachdem er euch Gutes getan hat.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תַֽעַזְבוּ֙",
+      "gloss": "ihr verlasst"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וַעֲבַדְתֶּ֖ם",
+      "gloss": "und dient"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Götter"
+    },
+    {
+      "surface": "נֵכָ֑ר",
+      "gloss": "fremde"
+    },
+    {
+      "surface": "וְשָׁ֨ב",
+      "gloss": "dann wird er umschwenken"
+    },
+    {
+      "surface": "וְהֵרַ֤ע",
+      "gloss": "und Böses antun"
+    },
+    {
+      "surface": "לָכֶם֙",
+      "gloss": "euch"
+    },
+    {
+      "surface": "וְכִלָּ֣ה",
+      "gloss": "und vernichten"
+    },
+    {
+      "surface": "אֶתְכֶ֔ם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch"
+    },
+    {
+      "surface": "אַחֲרֵ֖י",
+      "gloss": "nachdem"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "הֵיטִ֥יב",
+      "gloss": "er Gutes getan hat"
+    },
+    {
+      "surface": "לָכֶֽם",
+      "gloss": "euch"
+    }
+  ],
+  "timestamp": "2026-08-05T20:59:21.150392023Z",
+  "model": "glm-5.2"
+}

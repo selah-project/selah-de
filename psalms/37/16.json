@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Besser ⟨ist⟩ wenig für den Gerechten als die Fülle vieler Frevler.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "besser"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wenig"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "für den Gerechten"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "als die Fülle"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "von Frevlern"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vielen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:23.466153091Z",
+  "model": "glm-5.2"
+}

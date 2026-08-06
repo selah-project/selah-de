@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und Natan ging in sein Haus, und JHWH schlug ⟨את⟩ das Kind, das die Frau Urijas dem Dawid geboren hatte, und ⟨es⟩ wurde todkrank.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Und ging"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "seinem Haus"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "und schlug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "das Kind"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "geboren hatte"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijas"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dem Dawid"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "und todkrank wurde"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:29.415766478Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Höre auf deinen Vater — dieser ⟨hat⟩ dich gezeugt — und verachte nicht, denn ⟨sie ist⟩ alt ⟨geworden⟩, deine Mutter.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Höre auf"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "deinen Vater"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "dich gezeugt"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨verachte⟩ nicht"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "[verachte]"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "alt ⟨geworden⟩"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "deine Mutter"
+    }
+  ],
+  "timestamp": "2026-08-05T23:13:39.667438901Z",
+  "model": "glm-5.2"
+}

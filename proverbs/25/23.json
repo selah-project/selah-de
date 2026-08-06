@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Ein Nordwind treibt Regen weg, und ⟨ein⟩ zorniges Gesicht ⟨verstellt⟩ eine heimtückische Zunge.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Wind"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "Nord"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "treibt weg"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "Regen"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "und ⟨ein⟩ Gesicht"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "zorniges"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "⟨eine⟩ Zunge"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "heimtückische"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:19.979283518Z",
+  "model": "glm-5.2"
+}

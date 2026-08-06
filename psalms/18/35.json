@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Der meine Hände unterweist für den Krieg, und ⟨ein⟩ Bogen aus Kupfer wird niedergelassen von meinen Armen.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Der unterweist"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "meine Hände"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "für den Krieg"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "und wird niedergelassen"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "⟨ein⟩ Bogen"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "aus Kupfer"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "von meinen Armen"
+    }
+  ],
+  "timestamp": "2026-08-06T19:51:23.449784749Z",
+  "model": "glm-5.2"
+}

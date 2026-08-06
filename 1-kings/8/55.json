@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨er⟩ stand auf und segnete ⟨את⟩ die ganze Versammlung Jisraels mit großer Stimme, indem ⟨er⟩ sprach:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Und ⟨er⟩ stand auf"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "und segnete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Versammlung Jisraels"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mit ⟨⟩ Stimme"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "großer"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨er⟩ sprach"
+    }
+  ],
+  "timestamp": "2026-08-06T01:24:39.273267215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 16:30",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "⟨Wer⟩ seine Augen zukneift, plant Verdrehungen; ⟨wer⟩ seine Lippen zusammenpresst, vollendet Bosheit.",
+  "tokens": [
+    {
+      "surface": "עצה",
+      "gloss": "⟨wer⟩ zukneift"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "seine Augen"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "plant"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "Verdrehungen"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "⟨wer⟩ zusammenpresst"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "seine Lippen"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "vollendet"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Bosheit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:11:49.492961977Z",
+  "model": "glm-5.2"
+}

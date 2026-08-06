@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Zermalmt ⟨ist⟩ meine Nefesch vor Verlangen — zu deinen Rechtsurteilen, zu aller Zeit.",
+  "tokens": [
+    {
+      "surface": "גָּרְסָה",
+      "gloss": "zermalmt"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "לְתַאֲבָה",
+      "gloss": "vor Verlangen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מִשְׁפָּטֶיךָ",
+      "gloss": "deinen Rechtsurteilen"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "עֵת",
+      "gloss": "Zeit"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:49.736544963Z",
+  "model": "glm-5.2"
+}

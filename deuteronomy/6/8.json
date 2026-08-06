@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und du sollst sie als Zeichen binden auf deine Hand und sie sollen sein als Stirnbänder zwischen deinen Augen.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "und du sollst sie binden"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "als Zeichen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "und sie sollen sein"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "als Stirnbänder"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "deinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:01.263425149Z",
+  "model": "glm-5.2"
+}

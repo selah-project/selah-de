@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Wer in Unbescholtenheit geht, geht in Sicherheit, wer aber seine Wege krümmt, wird erkannt ⟨werden⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Wer geht"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "in Unbescholtenheit"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "geht"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "in Sicherheit"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "wer aber krümmt"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "seine Wege"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "wird erkannt ⟨werden⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:05.650107804Z",
+  "model": "glm-5.2"
+}

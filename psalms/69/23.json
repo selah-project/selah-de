@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Es werde ihr Tisch vor ihnen zur Falle und den Friedlichen zum Fallstrick.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Es werde"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "ihr Tisch"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "vor ihnen"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "zur Falle"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "und den Friedlichen"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "zum Fallstrick"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:17.911455002Z",
+  "model": "glm-5.2"
+}

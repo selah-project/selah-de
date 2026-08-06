@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Hast du ⟨einen⟩ Mann gesehen, der in seinen Augen weise ⟨ist⟩? ⟨Es ist⟩ mehr Hoffnung für ⟨einen⟩ Kesil als für ihn.",
+  "tokens": [
+    {
+      "surface": "רָאִ֗יתָ",
+      "gloss": "Hast du gesehen"
+    },
+    {
+      "surface": "אִ֭ישׁ",
+      "gloss": "⟨einen⟩ Mann"
+    },
+    {
+      "surface": "חָכָ֣ם",
+      "gloss": "weise"
+    },
+    {
+      "surface": "בְּעֵינָ֑יו",
+      "gloss": "in seinen Augen"
+    },
+    {
+      "surface": "תִּקְוָ֖ה",
+      "gloss": "Hoffnung"
+    },
+    {
+      "surface": "לִכְסִ֣יל",
+      "gloss": "für ⟨einen⟩ Kesil"
+    },
+    {
+      "surface": "מִמֶּֽנּוּ",
+      "gloss": "als für ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:05.594414123Z",
+  "model": "glm-5.2"
+}

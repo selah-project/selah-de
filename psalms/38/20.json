@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Und ⟨meine⟩ Feinde leben, sind stark, und zahlreich sind, die mich hassen ⟨um⟩ Schuldloses.",
+  "tokens": [
+    {
+      "surface": "וְֽ֭אֹיְבַי",
+      "gloss": "Und ⟨meine⟩ Feinde"
+    },
+    {
+      "surface": "חַיִּ֣ים",
+      "gloss": "leben"
+    },
+    {
+      "surface": "עָצֵ֑מוּ",
+      "gloss": "sind stark"
+    },
+    {
+      "surface": "וְרַבּ֖וּ",
+      "gloss": "und zahlreich sind"
+    },
+    {
+      "surface": "שֹׂנְאַ֣י",
+      "gloss": "die mich hassen"
+    },
+    {
+      "surface": "שָֽׁקֶר",
+      "gloss": "⟨um⟩ Schuldloses"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:53.310898212Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 6:15",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und einen Korb ungesäuertes ⟨Brot⟩: Feinmehl-Brote, gemengt mit Öl, und ungesäuerte Fladen, gesalbt mit Öl, ⟨sowie⟩ ihre Mincha und ihre Trankopfer.",
+  "tokens": [
+    {
+      "surface": "וְסַ֣ל",
+      "gloss": "und einen Korb"
+    },
+    {
+      "surface": "מַצּ֗וֹת",
+      "gloss": "ungesäuertes ⟨Brot⟩"
+    },
+    {
+      "surface": "סֹ֤לֶת",
+      "gloss": "Feinmehl"
+    },
+    {
+      "surface": "חַלֹּת֙",
+      "gloss": "-Brote"
+    },
+    {
+      "surface": "בְּלוּלֹ֣ת",
+      "gloss": "gemengt"
+    },
+    {
+      "surface": "בַּשֶּׁ֔מֶן",
+      "gloss": "mit Öl"
+    },
+    {
+      "surface": "וּרְקִיקֵ֥י",
+      "gloss": "und Fladen"
+    },
+    {
+      "surface": "מַצּ֖וֹת",
+      "gloss": "ungesäuerte"
+    },
+    {
+      "surface": "מְשֻׁחִ֣ים",
+      "gloss": "gesalbt"
+    },
+    {
+      "surface": "בַּשָּׁ֑מֶן",
+      "gloss": "mit Öl"
+    },
+    {
+      "surface": "וּמִנְחָתָ֖ם",
+      "gloss": "⟨sowie⟩ ihre Mincha"
+    },
+    {
+      "surface": "וְנִסְכֵּיהֶֽם",
+      "gloss": "und ihre Trankopfer"
+    }
+  ],
+  "timestamp": "2026-08-06T00:32:35.926454134Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und im zweiten Monat, am Siebenundzwanzigsten des Monats, war die Erde trocken.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Und im Monat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "zweiten"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "am Sieben"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "undzwanzigsten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "—"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "war trocken"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:53.724832673Z",
+  "model": "glm-5.2"
+}

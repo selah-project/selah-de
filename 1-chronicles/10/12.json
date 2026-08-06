@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und alle kampfkräftigen Männer erhoben sich und trugen ⟨את⟩ die Leiche Schauls und ⟨את⟩ die Leichen seiner Söhne, und sie brachten sie nach Jawesch, und sie begruben ⟨את⟩ ihre Gebeine unter der Terebinthe in Jawesch, und sie fasteten sieben Tage.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "und … erhoben sich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kampfkräftigen"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "und trugen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Leiche Schauls"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "die Leiche"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Leichen seiner Söhne"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "die Leichen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seiner Söhne"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "und sie brachten sie"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "nach Jawesch"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "und sie begruben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Gebeine"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "ihre Gebeine"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "der Terebinthe"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "in Jawesch"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "und sie fasteten"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T04:55:15.239113965Z",
+  "model": "glm-5.2"
+}

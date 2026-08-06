@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und ich werde unter sie senden ⟨את⟩ das Schwert, ⟨את⟩ den Hunger und ⟨את⟩ die Seuche, bis sie vernichtet sind vom Boden weg, den ich ihnen und ihren Vätern gegeben habe.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Und ich werde senden"
+    },
+    {
+      "surface": "בם",
+      "gloss": "unter sie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Schwert"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "das Schwert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Hunger"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "den Hunger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Seuche"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die Seuche"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "sie vernichtet sind"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "weg von"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dem Boden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ich gegeben habe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "und ihren Vätern"
+    }
+  ],
+  "timestamp": "2026-08-05T22:05:01.285751646Z",
+  "model": "glm-5.2"
+}

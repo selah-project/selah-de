@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Entsprechend allem, was JHWH ⟨את⟩ Mosche geboten hatte, so machten die Söhne Jisraels ⟨את⟩ die ganze Arbeit.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "entsprechend allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "machten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Arbeit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "Arbeit"
+    }
+  ],
+  "timestamp": "2026-08-06T00:22:59.015747769Z",
+  "model": "glm-5.2"
+}

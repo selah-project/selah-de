@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Die Blöße der Schwester deines Vaters sollst du nicht aufdecken — ⟨sie ist⟩ Fleisch deines Vaters.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Die Blöße"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "der Schwester"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "sollst du aufdecken"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨sie ist⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:05.987673312Z",
+  "model": "glm-5.2"
+}

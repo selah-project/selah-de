@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Er gedenke all deiner Mincha, deine Ola fette er ⟨an⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Er gedenke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "deiner Mincha"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "deine Ola"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "fette er ⟨an⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:59.021541029Z",
+  "model": "glm-5.2"
+}

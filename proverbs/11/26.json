@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Wer Getreide zurückhält, ⟨ihn⟩ verflucht ⟨die⟩ Volksmenge; aber Segen ⟨kommt⟩ auf den Kopf dessen, der verkauft.",
+  "tokens": [
+    {
+      "surface": "מֹנֵעַ",
+      "gloss": "Wer zurückhält"
+    },
+    {
+      "surface": "בָּר",
+      "gloss": "Getreide"
+    },
+    {
+      "surface": "יִקְּבֻהוּ",
+      "gloss": "⟨ihn⟩ verflucht"
+    },
+    {
+      "surface": "לְאוֹם",
+      "gloss": "Volksmenge"
+    },
+    {
+      "surface": "וּבְרָכָה",
+      "gloss": "aber Segen"
+    },
+    {
+      "surface": "לְרֹאשׁ",
+      "gloss": "auf den Kopf"
+    },
+    {
+      "surface": "מַשְׁבִּיר",
+      "gloss": "dessen, der verkauft"
+    }
+  ],
+  "timestamp": "2026-08-06T10:35:00.914483823Z",
+  "model": "glm-5.2"
+}

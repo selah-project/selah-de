@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und er sprach: „Du, ⟨bist du⟩ mein Sohn Esaw?\" Und er sagte: „Ich bin ⟨es⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨bist du⟩ dieser"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mein Sohn"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich bin ⟨es⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T08:14:53.867630115Z",
+  "model": "glm-5.2"
+}

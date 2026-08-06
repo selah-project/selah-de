@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Bis wann, JHWH, wirst du ⟨mich⟩ vergessen für immer? Bis wann wirst du ⟨את⟩ dein Angesicht vor mir verbergen?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "wann"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "wirst du ⟨mich⟩ vergessen"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "wann"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "wirst du verbergen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Angesicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Angesicht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "vor mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:55.743299409Z",
+  "model": "glm-5.2"
+}

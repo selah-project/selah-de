@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "und der König begehrt deine Schönheit, denn er ist dein Herr, und verneige dich vor ihm.",
+  "tokens": [
+    {
+      "surface": "וְיִתְאָ֣ו",
+      "gloss": "und ⟨er⟩ begehrt"
+    },
+    {
+      "surface": "הַמֶּ֣לֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "יָפְיֵ֑ךְ",
+      "gloss": "deine Schönheit"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "er"
+    },
+    {
+      "surface": "אֲ֝דֹנַ֗יִךְ",
+      "gloss": "ist dein Herr"
+    },
+    {
+      "surface": "וְהִשְׁתַּֽחֲוִי",
+      "gloss": "und verneige dich"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "vor ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:52.618451971Z",
+  "model": "glm-5.2"
+}

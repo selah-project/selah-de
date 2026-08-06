@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Verflucht ⟨ist⟩, ⟨wer⟩ Bestechung nimmt, um eine Nefesch zu schlagen — unschuldiges Blut —, und ganz ⟨das⟩ Volk soll sagen: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nimmt"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "Bestechung"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "um zu schlagen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "eine Nefesch"
+    },
+    {
+      "surface": "דם",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "unschuldiges"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und ⟨soll⟩ sagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨das⟩ Volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-06T19:31:06.925594374Z",
+  "model": "glm-5.2"
+}

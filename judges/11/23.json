@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 11:23",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und nun, JHWH, der Elohim Jisraels, hat ⟨את⟩ den Emori vertrieben vor seinem Volk Jisrael — und du, ⟨solltest⟩ du ⟨es⟩ in Besitz nehmen?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "hat vertrieben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "den Emori"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "seinem Volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "תירשנו",
+      "gloss": "solltest du ⟨es⟩ in Besitz nehmen?"
+    }
+  ],
+  "timestamp": "2026-08-05T21:03:56.133014916Z",
+  "model": "glm-5.2"
+}

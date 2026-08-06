@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Singt JHWH ⟨ein⟩ neues Lied, ⟨seine⟩ Lobpreisung vom Ende der Erde, ihr, die ihr hinabsteigt zum Meer und ⟨seine⟩ Fülle, ⟨die⟩ Inseln und ⟨ihre⟩ Bewohner!",
+  "tokens": [
+    {
+      "surface": "שִׁ֤ירוּ",
+      "gloss": "Singt"
+    },
+    {
+      "surface": "לַֽיהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שִׁ֣יר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "חָדָ֔שׁ",
+      "gloss": "neues"
+    },
+    {
+      "surface": "תְּהִלָּת֖וֹ",
+      "gloss": "Lobpreisung"
+    },
+    {
+      "surface": "מִקְצֵ֣ה",
+      "gloss": "vom Ende"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "יֹורְדֵ֤י",
+      "gloss": "die ihr hinabsteigt"
+    },
+    {
+      "surface": "הַיָּם֙",
+      "gloss": "zum Meer"
+    },
+    {
+      "surface": "וּמְלֹא֔וֹ",
+      "gloss": "und seine Fülle"
+    },
+    {
+      "surface": "אִיִּ֖ים",
+      "gloss": "Inseln"
+    },
+    {
+      "surface": "וְיֹשְׁבֵיהֶֽם",
+      "gloss": "und ihre Bewohner"
+    }
+  ],
+  "timestamp": "2026-08-06T01:49:00.325439622Z",
+  "model": "glm-5.2"
+}

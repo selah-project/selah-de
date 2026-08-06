@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 70,
+  "translation": "Sie sollen umkehren ⟨wegen⟩ ihrer Scham, ⟨die⟩ da sagen: „Haha, haha!",
+  "tokens": [
+    {
+      "surface": "יָ֭שׁוּבוּ",
+      "gloss": "Sie sollen umkehren"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨wegen⟩"
+    },
+    {
+      "surface": "עֵ֣קֶב",
+      "gloss": "um"
+    },
+    {
+      "surface": "בָּשְׁתָּ֑ם",
+      "gloss": "ihrer Scham"
+    },
+    {
+      "surface": "הָ֝אֹמְרִ֗ים",
+      "gloss": "⟨die⟩ da sagen"
+    },
+    {
+      "surface": "הֶ֘אָ֥ח",
+      "gloss": "Haha"
+    },
+    {
+      "surface": "הֶאָֽח",
+      "gloss": "haha"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:39.079712963Z",
+  "model": "glm-5.2"
+}

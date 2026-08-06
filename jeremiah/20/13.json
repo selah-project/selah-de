@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Singt JHWH, preist ⟨את⟩ JHWH! Denn ⟨er⟩ hat ⟨את⟩ die Nefesch des Bedürftigen entrissen aus der Hand der Übeltäter.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Singt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "preist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "hat entrissen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Nefesch"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die Nefesch"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "des Bedürftigen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "der Übeltäter"
+    }
+  ],
+  "timestamp": "2026-08-06T03:31:02.675117235Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "⟨Er⟩, der Schalom setzt an deine Grenze, mit dem Fett des Weizens sättigt er dich.",
+  "tokens": [
+    {
+      "surface": "הַשָּׂם",
+      "gloss": "der setzt"
+    },
+    {
+      "surface": "גְּבוּלֵ֥ךְ",
+      "gloss": "an deine Grenze"
+    },
+    {
+      "surface": "שָׁל֑וֹם",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "חֵ֥לֶב",
+      "gloss": "mit dem Fett"
+    },
+    {
+      "surface": "חִ֝טִּ֗ים",
+      "gloss": "des Weizens"
+    },
+    {
+      "surface": "יַשְׂבִּיעֵֽךְ",
+      "gloss": "sättigt er dich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:21.266129934Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 67,
+  "translation": "Segne uns Elohim, und ⟨es⟩ sollen ihn fürchten ⟨את⟩ alle Enden der Erde!",
+  "tokens": [
+    {
+      "surface": "יְבָרְכֵ֥נוּ",
+      "gloss": "Segne uns"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְיִֽירְא֥וּ",
+      "gloss": "und ⟨es⟩ sollen fürchten"
+    },
+    {
+      "surface": "אֹ֝ת֗וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "Enden"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:58.054410041Z",
+  "model": "glm-5.2"
+}

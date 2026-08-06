@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Wenn das Eisen stumpf geworden ist und ⟨er⟩ ⟨seine⟩ Schneide nicht geschärft hat, ⟨muss er⟩ ⟨mehr⟩ Kraft aufwenden — ⟨doch⟩ der Vorzug, ⟨Dinge⟩ recht zu richten, ⟨gehört⟩ der Weisheit.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "קֵהָה",
+      "gloss": "stumpf geworden ist"
+    },
+    {
+      "surface": "הַבַּרְזֶל",
+      "gloss": "das Eisen"
+    },
+    {
+      "surface": "וְהוּא",
+      "gloss": "und ⟨er⟩"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "פָנִים",
+      "gloss": "⟨seine⟩ Schneide"
+    },
+    {
+      "surface": "קִלְקַל",
+      "gloss": "geschärft hat"
+    },
+    {
+      "surface": "וַחֲיָלִים",
+      "gloss": "⟨mehr⟩ Kraft"
+    },
+    {
+      "surface": "יְגַבֵּר",
+      "gloss": "⟨muss er⟩ aufwenden"
+    },
+    {
+      "surface": "וְיִתְרוֹן",
+      "gloss": "der Vorzug"
+    },
+    {
+      "surface": "הִכְשִׁיר",
+      "gloss": "recht zu richten"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "⟨gehört⟩ der Weisheit"
+    }
+  ],
+  "timestamp": "2026-08-06T07:10:16.042233551Z",
+  "model": "glm-5.2"
+}

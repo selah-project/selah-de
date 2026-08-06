@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "⟨Ein⟩ Orakel ⟨über⟩ die Auflehnung des Ruchlosen: in der Mitte meines Herzens ⟨ist⟩ — ⟨es gibt⟩ keinen Schrecken Elohim(s) vor seinen Augen.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "⟨Ein⟩ Orakel"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "die Auflehnung"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "des Ruchlosen"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in der Mitte"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "meines Herzens"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨es gibt⟩ keinen"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "Schrecken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim(s)"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "vor"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "seinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:39.274611684Z",
+  "model": "glm-5.2"
+}

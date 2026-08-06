@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und er soll ⟨את⟩ das Omer schwingen vor JHWH, zu ⟨eurem⟩ Wohlgefallen — am Tag nach dem Schabbat soll es der Kohen schwingen.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Und er soll schwingen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "das Omer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "zu eurem Wohlgefallen"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "am Tag nach"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "dem Schabbat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "soll er schwingen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:45.725619042Z",
+  "model": "glm-5.2"
+}

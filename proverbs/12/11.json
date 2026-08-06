@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Wer seinen Acker bearbeitet, wird satt an Brot, aber wer Nichtigem nachjagt, ermangelt des Verstands.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "Wer bearbeitet"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "seinen Acker"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "wird satt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "an Brot"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "aber wer nachjagt"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "Nichtigem"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ermangelt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "des Verstands"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:37.045544539Z",
+  "model": "glm-5.2"
+}

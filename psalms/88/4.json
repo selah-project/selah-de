@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Denn satt an Übeln ⟨ist⟩ meine Nefesch, und mein Leben hat die Scheol erreicht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "satt"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "an Übeln"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "und mein Leben"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "die Scheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "hat erreicht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:24.934757566Z",
+  "model": "glm-5.2"
+}

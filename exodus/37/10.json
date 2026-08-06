@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und er machte ⟨את⟩ den Tisch aus Akazienholz: zwei Ellen ⟨seine⟩ Länge und eine Elle ⟨seine⟩ Breite und eine Elle und eine Hälfte ⟨seine⟩ Höhe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und er machte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Tisch"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "den Tisch"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "aus Holz"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "der Akazie"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "zwei Ellen"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "seine Länge"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "und eine Elle"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "seine Breite"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "und eine Elle"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "und eine Hälfte"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "seine Höhe"
+    }
+  ],
+  "timestamp": "2026-08-06T15:39:19.292302717Z",
+  "model": "glm-5.2"
+}

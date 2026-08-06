@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Peitsche für das Pferd, Zügel für den Esel, und Stab für den Rücken der Toren.",
+  "tokens": [
+    {
+      "surface": "שׁ֣וֹט",
+      "gloss": "Peitsche"
+    },
+    {
+      "surface": "לַ֭סּוּס",
+      "gloss": "für das Pferd"
+    },
+    {
+      "surface": "מֶ֣תֶג",
+      "gloss": "Zügel"
+    },
+    {
+      "surface": "לַחֲמ֑וֹר",
+      "gloss": "für den Esel"
+    },
+    {
+      "surface": "וְ֝שֵׁ֗בֶט",
+      "gloss": "und Stab"
+    },
+    {
+      "surface": "לְגֵ֣ו",
+      "gloss": "für den Rücken"
+    },
+    {
+      "surface": "כְּסִילִֽים",
+      "gloss": "der Toren"
+    }
+  ],
+  "timestamp": "2026-08-06T04:30:27.055321351Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und die ⟨welche⟩ das Fleisch meines Volkes essen und ihre Haut von ihnen abziehen, und ⟨את⟩ ihre Gebeine zerbrechen und sie zerlegen wie im Topf, und wie Fleisch mitten im Kessel.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Und die"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "essen"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meines Volkes"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "und ihre Haut"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "von ihnen"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "abziehen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Gebeine"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ihre Gebeine"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "zerbrechen"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "und sie zerlegen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "im Topf"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "und wie Fleisch"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitten"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "im Kessel"
+    }
+  ],
+  "timestamp": "2026-08-05T22:36:09.922504743Z",
+  "model": "glm-5.2"
+}

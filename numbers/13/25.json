@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 13:25",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und sie kehrten zurück vom Erkunden ⟨der⟩ Erde, am Ende von vierzig Tagen.",
+  "tokens": [
+    {
+      "surface": "וַיָּשֻׁ֖בוּ",
+      "gloss": "Und sie kehrten zurück"
+    },
+    {
+      "surface": "מִתּ֣וּר",
+      "gloss": "vom Erkunden"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "מִקֵּ֖ץ",
+      "gloss": "am Ende von"
+    },
+    {
+      "surface": "אַרְבָּעִ֥ים",
+      "gloss": "vierzig"
+    },
+    {
+      "surface": "יֽוֹם",
+      "gloss": "Tagen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:40:47.100843920Z",
+  "model": "glm-5.2"
+}

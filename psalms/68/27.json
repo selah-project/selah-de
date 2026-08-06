@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 68:27",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "In Versammlungen segnet Elohim, JHWH — ⟨ihr⟩ aus ⟨der⟩ Quelle Jisraels.",
+  "tokens": [
+    {
+      "surface": "בְּֽמַקְהֵלוֹת",
+      "gloss": "In Versammlungen"
+    },
+    {
+      "surface": "בָּרְכ֣וּ",
+      "gloss": "segnet"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מִמְּק֥וֹר",
+      "gloss": "aus ⟨der⟩ Quelle"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:26.428485742Z",
+  "model": "glm-5.2"
+}

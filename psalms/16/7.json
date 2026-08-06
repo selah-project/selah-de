@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Ich prese ⟨את⟩ JHWH, der mich beraten hat; auch nachts unterweisen mich meine Nieren.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "ich preise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "mich beraten hat"
+    },
+    {
+      "surface": "אף",
+      "gloss": "auch"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nachts"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "unterweisen mich"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "meine Nieren"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:52.560962095Z",
+  "model": "glm-5.2"
+}

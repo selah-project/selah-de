@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH wird ⟨את⟩ Jehuda als sein Erbteil erben auf dem Boden des Heiligen, und ⟨er⟩ wird wieder erwählen Jeruschalajim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "und wird erben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "sein Erbteil"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "Boden"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "des Heiligen"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "und wird erwählen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wieder"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-06T15:20:53.975150120Z",
+  "model": "glm-5.2"
+}

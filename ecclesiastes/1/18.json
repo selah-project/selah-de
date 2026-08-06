@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Denn in Fülle von Weisheit ist Fülle von Verdruß, und wer Erkenntnis mehrt, mehrt Schmerz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "in Fülle"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "von Weisheit"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ist Fülle"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "von Verdruß"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "und wer mehrt"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Erkenntnis"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "mehrt"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "Schmerz"
+    }
+  ],
+  "timestamp": "2026-08-06T07:09:05.124354632Z",
+  "model": "glm-5.2"
+}

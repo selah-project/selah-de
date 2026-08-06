@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Deinen Freund und den Freund deines Vaters, gib nicht auf, und ⟨in⟩ das Haus deines Bruders, komm nicht am Tag deines Unheils; besser ⟨ist⟩ ein naher Nachbar als ein ferner Bruder.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "deinen Freund"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "und ⟨den⟩ Freund"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "gib auf"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "und ⟨in das⟩ Haus"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "deines Bruders"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "komm"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "deines Unheils"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "besser"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "⟨ist⟩ ein Nachbar"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "naher"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "als ein Bruder"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "ferner"
+    }
+  ],
+  "timestamp": "2026-08-05T23:14:27.969712378Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "So wie JHWH ⟨את⟩ Mosche geboten hatte, so machten es die Söhne Jisraels, und sie teilten ⟨את⟩ das Land.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "machten es"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "und sie teilten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    }
+  ],
+  "timestamp": "2026-08-06T08:32:35.973880019Z",
+  "model": "glm-5.2"
+}

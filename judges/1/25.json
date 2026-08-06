@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und er zeigte ihnen ⟨את⟩ den Eingang der Stadt, und sie schlugen ⟨את⟩ die Stadt mit der Schärfe des Schwertes; ⟨aber⟩ ⟨את⟩ den Mann und ⟨את⟩ seine ganze Sippe ließen sie ziehen.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "und er zeigte ihnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Eingang"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "Eingang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "und sie schlugen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stadt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mit der Schärfe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "des Schwertes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Mann"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "den Mann"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seine ganze Sippe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seine ganze"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "Sippe"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ließen sie ziehen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:55:51.250161752Z",
+  "model": "glm-5.2"
+}

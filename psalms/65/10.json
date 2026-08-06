@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "Du suchst ⟨die⟩ Erde heim und tränkest sie, sehr machst du sie reich, der Strom Elohims, voll Wasser — ⟨du⟩ richtest ihr Getreide her, denn so bereitest du ⟨sie⟩ vor.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "du suchst heim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "und tränkest sie"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "machst du sie reich"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Strom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "voll"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "richtest her"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ihr Getreide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "bereitest du vor"
+    }
+  ],
+  "timestamp": "2026-08-06T09:16:35.125672339Z",
+  "model": "glm-5.2"
+}

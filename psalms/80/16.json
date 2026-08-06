@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "und ⟨über⟩ ⟨die⟩ Setzung, die deine Rechte gepflanzt hat, und ⟨über⟩ den Sohn, den du dir gestärkt hast!",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "und ⟨die⟩ Setzung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "gepflanzt hat"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "deine Rechte"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und ⟨über⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den Sohn"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "du gestärkt hast"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:13.639576550Z",
+  "model": "glm-5.2"
+}

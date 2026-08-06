@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und JHWH sprach zu mir: Nimm dir eine große Tafel, und schreib auf sie mit dem Griffel eines Menschen: Schnellbeute, Raubeile. ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "קח",
+      "gloss": "nimm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "eine Tafel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "große"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "und schreib"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf sie"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "mit dem Griffel"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "eines Menschen"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Schnell—"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "beute,"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Raub—"
+    },
+    {
+      "surface": "בז",
+      "gloss": "eile"
+    }
+  ],
+  "timestamp": "2026-08-06T08:51:24.655877897Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und ⟨er⟩ sagte: „Dein Bruder kam mit Trug, und er nahm deinen Segen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kam"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dein Bruder"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "mit Trug"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "und er nahm"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "deinen Segen"
+    }
+  ],
+  "timestamp": "2026-08-05T17:36:06.389250477Z",
+  "model": "glm-5.2"
+}

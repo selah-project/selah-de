@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "und ⟨את⟩ das Lamm soll er vierfach erstatten, weil er ⟨את⟩ die Sache getan hat und weil er kein Erbarmen hatte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Lamm"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "das Lamm"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "soll er erstatten"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "vierfach"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "weil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "weil"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er getan hat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Sache"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und wegen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dessen, dass"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "er Erbarmen hatte"
+    }
+  ],
+  "timestamp": "2026-08-06T01:15:46.266993887Z",
+  "model": "glm-5.2"
+}

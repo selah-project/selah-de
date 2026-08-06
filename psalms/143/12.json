@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 143,
+  "translation": "Und in deinem Chessed rotten ⟨את⟩ meine Feinde aus; ⟨und⟩ tilge alle Bedränger meiner Nefesch aus, denn ich bin dein Knecht.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Und in deinem Chessed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "rotte aus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Feinde"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "meine Feinde"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "⟨und⟩ tilge aus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "Bedränger"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meiner Nefesch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bin dein Knecht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:18.911501071Z",
+  "model": "glm-5.2"
+}

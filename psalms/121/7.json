@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 121,
+  "translation": "JHWH wird dein Ausgehen behüten und dein Eingehen, von nun an bis ⟨in⟩ Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "wird behüten"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "dein Ausgehen"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "und dein Eingehen"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "von nun an"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:19.097903894Z",
+  "model": "glm-5.2"
+}

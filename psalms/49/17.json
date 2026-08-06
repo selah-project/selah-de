@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Fürchte dich nicht, wenn ⟨ein⟩ Mann reich wird, wenn die Herrlichkeit seines Hauses sich mehrt —",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "fürchte dich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "reich wird"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "sich mehrt"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Herrlichkeit"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "seines Hauses"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:48.851826875Z",
+  "model": "glm-5.2"
+}

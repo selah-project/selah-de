@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 81,
+  "translation": "Ein Zeugnis setzte er in Josew, beim Auszug über das Land Mizrajim: eine Sprache, die ich nicht kannte, höre ich.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Ein Zeugnis"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "in Josew"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "setzte er"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "beim Auszug"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "eine Sprache"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ich kannte"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hörend ich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:56:09.107999826Z",
+  "model": "glm-5.2"
+}

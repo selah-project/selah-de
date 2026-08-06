@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und ⟨את⟩ all ihre Städte in ihren Wohnsitzen und ⟨את⟩ alle ihre Siedlungen verbrannten sie im Feuer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all ihre Städte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ihre Städte"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "in ihren Wohnsitzen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle ihre Siedlungen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ihre Siedlungen"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "verbrannten sie"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    }
+  ],
+  "timestamp": "2026-08-05T20:39:59.880228464Z",
+  "model": "glm-5.2"
+}

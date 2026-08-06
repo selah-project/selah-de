@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Fürchte, mein Sohn, ⟨את⟩ JHWH und den König; mit den Wankelmütigen mische dich nicht zusammen.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "fürchte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mein Sohn"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "und ⟨den⟩ König"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "den Wankelmütigen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "mische dich zusammen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:45.358477712Z",
+  "model": "glm-5.2"
+}

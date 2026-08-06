@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Reiß mich aus dem Schlamm, dass ich nicht versinke! Ich will gerettet werden von denen, die mich hassen, und aus den tiefen Wassern!",
+  "tokens": [
+    {
+      "surface": "הַצִּילֵנִי",
+      "gloss": "Reiß mich heraus"
+    },
+    {
+      "surface": "מִטִּיט",
+      "gloss": "aus Schlamm"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אֶטְבָּעָה",
+      "gloss": "versinke ich"
+    },
+    {
+      "surface": "אִנָּצְלָה",
+      "gloss": "ich will gerettet werden"
+    },
+    {
+      "surface": "מִשֹּׂנְאַי",
+      "gloss": "von meinen Hassern"
+    },
+    {
+      "surface": "וּמִמַּעֲמַקֵּי",
+      "gloss": "und aus den Tiefen"
+    },
+    {
+      "surface": "מָיִם",
+      "gloss": "der Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:30.370338927Z",
+  "model": "glm-5.2"
+}

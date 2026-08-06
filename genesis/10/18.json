@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "und ⟨את⟩ den Arwadi und ⟨את⟩ den Zemari und ⟨את⟩ den Chamati; und danach zerstreuten sich die Sippen des Knaani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Arwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "den Arwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Zemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "den Zemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Chamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "den Chamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "und danach"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "zerstreuten sich"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "die Sippen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "des Knaani"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:09.514482924Z",
+  "model": "glm-5.2"
+}

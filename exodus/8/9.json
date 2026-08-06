@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und JHWH tat nach dem Wort Mosches, und die Frösche starben ⟨in⟩ den Häusern, ⟨in⟩ den Höfen und ⟨auf⟩ den Feldern.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und tat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nach dem Wort"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosches"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "und starben"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "die Frösche"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "den Häusern"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "den Höfen"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "und aus"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "den Feldern"
+    }
+  ],
+  "timestamp": "2026-08-06T14:51:11.946597358Z",
+  "model": "glm-5.2"
+}

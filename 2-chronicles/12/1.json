@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und es geschah, als ⟨die⟩ Königsherrschaft von Rechawam feststand und er sich gestärkt ⟨hatte⟩, verließ er ⟨את⟩ die Tora von JHWH, und ganz Jisra'el ⟨war⟩ mit ihm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "als feststand"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "⟨die⟩ Königsherrschaft"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "von Rechawam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "und er sich gestärkt ⟨hatte⟩"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "verließ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T07:25:44.816820380Z",
+  "model": "glm-5.2"
+}

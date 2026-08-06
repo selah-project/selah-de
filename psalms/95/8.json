@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 95,
+  "translation": "Verhärtet nicht euer Herz wie bei Meriba, wie am Tag von Massa in der Wüste!",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַּקְשׁוּ",
+      "gloss": "Verhärtet"
+    },
+    {
+      "surface": "לְבַבְכֶם",
+      "gloss": "euer Herz"
+    },
+    {
+      "surface": "כִּמְרִיבָה",
+      "gloss": "wie bei Meriba"
+    },
+    {
+      "surface": "כְּיוֹם",
+      "gloss": "wie am Tag"
+    },
+    {
+      "surface": "מַסָּה",
+      "gloss": "von Massa"
+    },
+    {
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "in der Wüste"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:38.074314276Z",
+  "model": "glm-5.2"
+}

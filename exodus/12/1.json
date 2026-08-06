@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und JHWH sprach zu Mosche und zu Aharon im Land Mizrajim und sagte:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:50.631111807Z",
+  "model": "glm-5.2"
+}

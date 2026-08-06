@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Denn ein Stein wird schreien aus der Wand, und ein Balken aus dem Holz wird ihm antworten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ein Stein"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "aus der Wand"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "wird schreien"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "und ein Balken"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "aus dem Holz"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "wird ihm antworten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:38:46.063673142Z",
+  "model": "glm-5.2"
+}

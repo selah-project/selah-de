@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Wenn ⟨er⟩ es begehrt, ⟨mit ihm⟩ zu streiten — ⟨er⟩ wird ihm nicht antworten, eines von tausend.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "begehrt"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "zu streiten"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨mit ihm⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "wird ⟨er⟩ antworten"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eines"
+    },
+    {
+      "surface": "מני",
+      "gloss": "von"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    }
+  ],
+  "timestamp": "2026-08-06T07:00:38.354245371Z",
+  "model": "glm-5.2"
+}

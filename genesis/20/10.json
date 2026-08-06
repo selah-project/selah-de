@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Awimelech sagte zu Awraham: „Was hast du gesehen, dass du ⟨את⟩ diese Sache getan hast?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "hast du gesehen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "du getan hast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Sache"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diese"
+    }
+  ],
+  "timestamp": "2026-08-06T08:13:10.363336677Z",
+  "model": "glm-5.2"
+}

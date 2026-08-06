@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und wer seinen Vater ⟨oder⟩ seine Mutter schlägt, soll sterben, getötet werden.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Und wer … schlägt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seinen Vater"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "⟨oder⟩ seine Mutter"
+    },
+    {
+      "surface": "מות",
+      "gloss": "soll sterben"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "getötet werden"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:09.025803123Z",
+  "model": "glm-5.2"
+}

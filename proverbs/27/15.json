@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Ein ständiges Tropfen, das ⟨einen⟩ am Tag des Platzregens vertreibt, und ⟨eine⟩ Frau des Streits — ⟨sie⟩ sind einander gleich.",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "Ein Tropfen"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "das vertreibt"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "des Platzregens"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "und ⟨eine⟩ Frau"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "des Streits"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "sind einander gleich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:31:15.200137411Z",
+  "model": "glm-5.2"
+}

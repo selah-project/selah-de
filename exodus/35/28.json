@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und ⟨את⟩ das Balsamharz und ⟨את⟩ das Öl, für den Leuchter und für das Öl der Salbung und für das Räucherwerk der Duftstoffe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Und ⟨את⟩",
+      "marks": "das Balsamharz"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "das Balsamharz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Öl"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "das Öl"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "für den Leuchter"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "und für das Öl"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "der Salbung"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "und für das Räucherwerk"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "der Duftstoffe"
+    }
+  ],
+  "timestamp": "2026-08-06T05:17:48.282085102Z",
+  "model": "glm-5.2"
+}

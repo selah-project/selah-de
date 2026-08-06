@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Da eilte Paro, Mosche und Aharon zu rufen, und sagte: „Ich habe gegen JHWH, euren Elohim, gesündigt und gegen euch.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Da eilte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "zu rufen"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "„Ich habe gesündigt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "gegen JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euren Elohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "und gegen euch"
+    }
+  ],
+  "timestamp": "2026-08-06T08:18:00.986783682Z",
+  "model": "glm-5.2"
+}

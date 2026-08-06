@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "⟨Der⟩ Brot gibt allem Fleisch, denn für ewig ⟨ist⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "⟨Der⟩ gibt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "allem"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:01.587812624Z",
+  "model": "glm-5.2"
+}

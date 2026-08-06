@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Ein Keruw am Ende von ⟨der⟩ einen Seite und ein Keruw am Ende von ⟨der⟩ anderen Seite; aus der Kapporet heraus machte er ⟨את⟩ die Keruwim an ihren beiden Enden.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "ein Keruw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ein"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "am Ende"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "von ⟨der⟩ einen Seite"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "und ein Keruw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ein"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "am Ende"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "von ⟨der⟩ anderen Seite"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "der Kapporet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "heraus machte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Keruwim"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "die Keruwim"
+    },
+    {
+      "surface": "משני",
+      "gloss": "an ihren beiden"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "Enden"
+    }
+  ],
+  "timestamp": "2026-08-06T02:07:43.443075662Z",
+  "model": "glm-5.2"
+}

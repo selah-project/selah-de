@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Nach ihrer Unreinheit und nach ihren Vergehungen habe ich mit ihnen verfahren, und ich habe mein Angesicht vor ihnen verborgen.",
+  "tokens": [
+    {
+      "surface": "כְּטֻמְאָתָ֥ם",
+      "gloss": "nach ihrer Unreinheit"
+    },
+    {
+      "surface": "וּכְפִשְׁעֵיהֶ֖ם",
+      "gloss": "und nach ihren Vergehens"
+    },
+    {
+      "surface": "עָשִׂ֣יתִי",
+      "gloss": "habe ich verfahren"
+    },
+    {
+      "surface": "אֹתָ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "mit ihnen"
+    },
+    {
+      "surface": "וָאַסְתִּ֥ר",
+      "gloss": "und ich verbarg"
+    },
+    {
+      "surface": "פָּנַ֖י",
+      "gloss": "mein Angesicht"
+    },
+    {
+      "surface": "מֵהֶֽם",
+      "gloss": "vor ihnen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:27:46.248538181Z",
+  "model": "glm-5.2"
+}

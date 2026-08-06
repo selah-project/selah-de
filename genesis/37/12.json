@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und seine Brüder gingen hin, um ⟨את⟩ die Herde ihres Vaters zu weiden, in Schchem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Und sie gingen hin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "um zu weiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Herde"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "die Herde"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ihres Vaters"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "in Schchem"
+    }
+  ],
+  "timestamp": "2026-08-06T05:11:02.327460352Z",
+  "model": "glm-5.2"
+}

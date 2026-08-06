@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ⟨er⟩ kehrte um ⟨את⟩ die Städte, diese, und ⟨את⟩ die ganze Ebene und ⟨את⟩ alle Bewohner der Städte und ⟨den⟩ Pflanzenwuchs des Bodens.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "und ⟨er⟩ kehrte um"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Städte"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "die Städte"
+    },
+    {
+      "surface": "האל",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die ganze Ebene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "Ebene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Bewohner der Städte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "der Städte"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "und ⟨den⟩ Pflanzenwuchs"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "des Bodens"
+    }
+  ],
+  "timestamp": "2026-08-05T19:56:40.018123622Z",
+  "model": "glm-5.2"
+}

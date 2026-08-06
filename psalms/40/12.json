@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Du, JHWH — ⟨du⟩ wirst dein Erbarmen nicht zurückhalten von mir; dein Chessed und deine Emet werden beständig mich bewahren.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "wirst ⟨du⟩ zurückhalten"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dein Erbarmen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "und deine Emet"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständig"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "werden mich bewahren"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:20.262136348Z",
+  "model": "glm-5.2"
+}

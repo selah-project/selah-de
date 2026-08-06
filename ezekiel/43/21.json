@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Und du sollst ⟨את⟩ den Stier der Sünde nehmen, und ⟨man⟩ verbrenne ihn an der bestimmten Stelle des Hauses, außerhalb des Heiligtums.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Und du sollst nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stier"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "den Stier"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "der Sünde"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "und ⟨man⟩ verbrenne ihn"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "an der bestimmten Stelle"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "des Heiligtums"
+    }
+  ],
+  "timestamp": "2026-08-06T06:27:59.312738895Z",
+  "model": "glm-5.2"
+}

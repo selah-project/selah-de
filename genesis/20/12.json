@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "„Und außerdem ⟨ist⟩ sie wahrhaftig meine Schwester, die Tochter meines Vaters ⟨ist⟩ sie, nur nicht die Tochter meiner Mutter, und sie wurde mir zur Frau.“",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Und außerdem"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "wahrhaftig"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "meine Schwester"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meines Vaters"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "meiner Mutter"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "und sie wurde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "zur Frau"
+    }
+  ],
+  "timestamp": "2026-08-06T00:05:37.354254508Z",
+  "model": "glm-5.2"
+}

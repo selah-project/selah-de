@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "es soll in deiner Mitte niemand gefunden werden, der seinen Sohn oder seine Tochter durch das Feuer hindurchgehen lässt, kein Wahrsager, kein Kartenleger, kein Zauberer und keiner, der Wolken deutet.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִמָּצֵ֣א",
+      "gloss": "soll gefunden werden"
+    },
+    {
+      "surface": "בְךָ֔",
+      "gloss": "in deiner Mitte"
+    },
+    {
+      "surface": "מַעֲבִ֥יר",
+      "gloss": "der hindurchgehen lässt"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "seinen Sohn"
+    },
+    {
+      "surface": "וּבִתּ֖וֹ",
+      "gloss": "oder seine Tochter"
+    },
+    {
+      "surface": "בָּאֵ֑שׁ",
+      "gloss": "durch das Feuer"
+    },
+    {
+      "surface": "קֹסֵ֣ם",
+      "gloss": "Wahrsager"
+    },
+    {
+      "surface": "קְסָמִ֔ים",
+      "gloss": "(der Losorakel praktiziert)"
+    },
+    {
+      "surface": "מְעוֹנֵ֥ן",
+      "gloss": "der Wolken deutet"
+    },
+    {
+      "surface": "וּמְנַחֵ֖שׁ",
+      "gloss": "und Zauberer"
+    },
+    {
+      "surface": "וּמְכַשֵּֽׁף",
+      "gloss": "und einer, der zaubert"
+    }
+  ],
+  "timestamp": "2026-08-05T20:46:56.037497871Z",
+  "model": "glm-5.2"
+}

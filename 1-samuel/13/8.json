@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und ⟨er⟩ wartete sieben Tage, bis zu der festgesetzten Zeit, die Schmuël ⟨bestimmt hatte⟩. Aber Schmuël kam nicht nach Gilgal, und das Volk zerstreute sich von ihm weg.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Und ⟨er⟩ wartete"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "bis zu der festgesetzten Zeit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Aber nicht"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kam"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "nach Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "und das Volk zerstreute sich"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨das Volk⟩"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "von ihm weg"
+    }
+  ],
+  "timestamp": "2026-08-06T01:05:30.255682644Z",
+  "model": "glm-5.2"
+}

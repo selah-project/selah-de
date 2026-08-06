@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "und ⟨את⟩ jeden Raben nach seiner Art,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeden Raben"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Raben"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "nach seiner Art"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:02.940612195Z",
+  "model": "glm-5.2"
+}

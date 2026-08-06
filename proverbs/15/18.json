@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Ein Mann der Zornhitze reizt ⟨einen⟩ Streit auf, ⟨aber⟩ ein Langmütiger besänftigt ⟨einen⟩ Rechtsstreit.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ein Mann"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "der Zornhitze"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "reizt auf"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "⟨einen⟩ Streit"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "⟨aber⟩ ein Langmütiger"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "(der Langmütige — wörtlich: der Langsame des Zorns)"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "besänftigt"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "⟨einen⟩ Rechtsstreit"
+    }
+  ],
+  "timestamp": "2026-08-06T06:55:02.842388493Z",
+  "model": "glm-5.2"
+}

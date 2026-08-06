@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und du sollst auf die Stimme JHWHs, deines Elohim, hören und seine Gebote und seine Ordnungen tun, die ich dir heute gebiete.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Und du sollst hören"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deines Elohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "und ⟨du sollst⟩ tun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Gebote"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "seine Gebote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨und את⟩",
+      "marks": "seine Ordnungen"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "seine Ordnungen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "dir gebiete"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    }
+  ],
+  "timestamp": "2026-08-05T20:49:34.653965438Z",
+  "model": "glm-5.2"
+}

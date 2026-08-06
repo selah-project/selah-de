@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und das Volk wird sich bedrängen, Mann gegen Mann, und jeder gegen seinen Nächsten; der Junge wird sich breit machen gegen den Greis, und der Geringgeachtete gegen den Geehrten.",
+  "tokens": [
+    {
+      "surface": "וְנִגַּ֣שׂ",
+      "gloss": "Und ⟨es⟩ wird sich bedrängen"
+    },
+    {
+      "surface": "הָעָ֔ם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "בְּאִ֖ישׁ",
+      "gloss": "gegen Mann"
+    },
+    {
+      "surface": "וְאִ֣ישׁ",
+      "gloss": "und jeder"
+    },
+    {
+      "surface": "בְּרֵעֵ֑הוּ",
+      "gloss": "gegen seinen Nächsten"
+    },
+    {
+      "surface": "יִרְהֲב֗וּ",
+      "gloss": "wird sich breit machen"
+    },
+    {
+      "surface": "הַנַּ֨עַר֙",
+      "gloss": "der Junge"
+    },
+    {
+      "surface": "בַּזָּקֵ֔ן",
+      "gloss": "gegen den Greis"
+    },
+    {
+      "surface": "וְהַנִּקְלֶ֖ה",
+      "gloss": "und der Geringgeachtete"
+    },
+    {
+      "surface": "בַּנִּכְבָּֽד",
+      "gloss": "gegen den Geehrten"
+    }
+  ],
+  "timestamp": "2026-08-06T03:10:25.704917960Z",
+  "model": "glm-5.2"
+}

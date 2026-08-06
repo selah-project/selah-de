@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Nur aus Hochmut entsteht Streit, doch ⟨bei⟩ ⟨den⟩ Ratsuchenden ⟨ist⟩ Weisheit.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "aus Hochmut"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "entsteht"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "Streit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "doch ⟨bei⟩",
+      "marks": "⟨den⟩ Ratsuchenden"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "Ratsuchenden"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Weisheit"
+    }
+  ],
+  "timestamp": "2026-08-06T10:34:49.569988852Z",
+  "model": "glm-5.2"
+}

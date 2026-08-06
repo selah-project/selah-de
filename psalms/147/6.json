@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "JHWH richtet die Gebeugten auf, er erniedrigt die Frevler bis zur Erde.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "richtet auf"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "die Gebeugten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "erniedrigt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die Frevler"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "bis zur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:25.157580221Z",
+  "model": "glm-5.2"
+}

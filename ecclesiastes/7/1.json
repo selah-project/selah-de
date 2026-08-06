@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Besser ⟨ist⟩ ein Name als gutes Salböl, und der Tag des Todes als der Tag ⟨seiner⟩ Geburt.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ein Name"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "als"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutes Salböl"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "und der Tag"
+    },
+    {
+      "surface": "המות",
+      "gloss": "des Todes"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "als der Tag"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "⟨seiner⟩ Geburt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:50.260717695Z",
+  "model": "glm-5.2"
+}

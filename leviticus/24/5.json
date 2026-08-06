@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und du sollst Solet nehmen und ⟨את⟩ sie backen, zwölf Brote, zwei Zehntel soll ⟨das⟩ eine ⟨der⟩ Brote sein.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "und du sollst nehmen"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "Solet"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "und ⟨du sollst⟩ backen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "Brote"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "Zehntel"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "das eine der Brote"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "das eine der Brote"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:42.062781083Z",
+  "model": "glm-5.2"
+}

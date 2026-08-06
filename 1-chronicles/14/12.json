@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und sie ließen dort ⟨את⟩ ihre Götzen zurück, und Dawid befahl, und sie verbrannten sie im Feuer.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Und sie ließen zurück"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Götzen"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ihre Götzen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und er befahl"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "und sie verbrannten sie"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    }
+  ],
+  "timestamp": "2026-08-06T20:44:38.639787938Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Ein Schwur JHWHs soll zwischen beiden sein: ob er nicht seine Hand an die Sache seines Nächsten gelegt hat. Und sein Besitzer soll ⟨es⟩ annehmen, und er soll nicht erstatten.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Ein Schwur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "beiden"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "er gelegt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "an die Sache"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "seines Nächsten"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "und ⟨er⟩ soll annehmen"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sein Besitzer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨er⟩ soll nicht"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "erstatten"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:44.166439027Z",
+  "model": "glm-5.2"
+}

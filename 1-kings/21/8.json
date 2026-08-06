@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und sie schrieb Schreiben im Namen Achaws und versiegelte ⟨sie⟩ mit seinem Siegel, und sie sandte die Schreiben an die Ältesten und an die Vornehmen, die in seiner Stadt ⟨wohnen⟩, die bei Nawot ⟨את⟩ wohnen.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Und sie schrieb"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "Schreiben"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "im Namen"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaws"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "und versiegelte"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "mit seinem Siegel"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "und sie sandte"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "die Schreiben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "die Ältesten"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und an"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "die Vornehmen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "in seiner Stadt"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "wohnenden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nawot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "bei Nawot"
+    }
+  ],
+  "timestamp": "2026-08-06T20:29:47.205208443Z",
+  "model": "glm-5.2"
+}

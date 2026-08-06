@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Besser das Sehen der Augen als das Wandern der Nefesch; auch ⟨das⟩ ist Hebel und ein Streben nach Ruach.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "das Sehen"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "der Augen"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "als das Wandern"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "der Nefesch"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨das⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ist Hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "und ein Streben nach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruach"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:29.312208022Z",
+  "model": "glm-5.2"
+}

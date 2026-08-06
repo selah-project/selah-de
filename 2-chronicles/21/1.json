@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Jehoschafat legte sich zu seinen Vätern, und man begrub ihn bei seinen Vätern in der Stadt Dawids. Und Jehoram, sein Sohn, wurde König an seiner Stelle.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "und legte sich"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoschafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seinen Vätern"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "und ⟨man⟩ begrub ⟨ihn⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seinen Vätern"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "und wurde König"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sein Sohn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seiner Stelle"
+    }
+  ],
+  "timestamp": "2026-08-06T07:28:02.643217668Z",
+  "model": "glm-5.2"
+}

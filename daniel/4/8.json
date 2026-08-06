@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 4:8",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Der Baum ward groß und stark, und seine Höhe reichte bis zum Himmel, und seine Sichtbarkeit bis zum Ende der ganzen Erde.“",
+  "tokens": [
+    {
+      "surface": "רבה",
+      "gloss": "ward groß"
+    },
+    {
+      "surface": "אילנא",
+      "gloss": "Der Baum"
+    },
+    {
+      "surface": "ותקף",
+      "gloss": "und stark"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "und seine Höhe"
+    },
+    {
+      "surface": "ימטא",
+      "gloss": "reichte"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "bis zum Himmel"
+    },
+    {
+      "surface": "וחזותה",
+      "gloss": "und seine Sichtbarkeit"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "bis zum Ende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T23:35:03.527971700Z",
+  "model": "glm-5.2"
+}

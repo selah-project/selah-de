@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und ich wusch dich im Wasser und spülte dein Blut von dir ab und salbte dich mit Öl.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "und ich wusch dich"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "und ich spülte ab"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "dein Blut"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "von dir"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "und ich salbte dich"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mit Öl"
+    }
+  ],
+  "timestamp": "2026-08-06T03:45:17.984240493Z",
+  "model": "glm-5.2"
+}

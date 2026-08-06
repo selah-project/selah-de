@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Sucht JHWH und seine Stärke, sucht sein Angesicht beständig!",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Sucht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "und seine Stärke"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "sucht"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sein Angesicht"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständig"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:38.912876274Z",
+  "model": "glm-5.2"
+}

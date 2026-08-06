@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und die Söhne von Chetzron, die ihm geboren wurden: ⟨את⟩ Jhrachm'el und ⟨את⟩ Ram und ⟨את⟩ Keluwai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Und die Söhne"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "von Chetzron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "geboren wurden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jhrachm'el"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jhrachm'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Keluwai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Keluwai"
+    }
+  ],
+  "timestamp": "2026-08-05T23:45:59.021807884Z",
+  "model": "glm-5.2"
+}

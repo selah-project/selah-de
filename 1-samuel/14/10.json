@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und wenn sie so sagen: ‚Steigt herauf zu uns', dann wollen wir zu ihnen aufsteigen, denn JHWH hat sie in unsere Hand gegeben — und ⟨das⟩ ist für uns das Zeichen.'",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sagen"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Steigt herauf"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "zu uns"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "dann wollen wir zu ihnen aufsteigen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "hat sie gegeben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "in unsere Hand"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "und ⟨das⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "für uns"
+    },
+    {
+      "surface": "האות",
+      "gloss": "das Zeichen"
+    }
+  ],
+  "timestamp": "2026-08-06T20:24:00.935001909Z",
+  "model": "glm-5.2"
+}

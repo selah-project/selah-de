@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ihr sollt ⟨bewahren⟩ ⟨את⟩ das ganze Gebot, das ich euch heute gebiete, damit ihr stark werdet und hineingeht und ⟨את⟩ das Land in Besitz nehmt, das ihr dorthin durchschreitet, um es in Besitz zu nehmen.",
+  "tokens": [
+    {
+      "surface": "וּשְׁמַרְתֶּם֙",
+      "gloss": "und ihr sollt ⟨bewahren⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Gebot"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "הַמִּצְוָ֔ה",
+      "gloss": "das Gebot"
+    },
+    {
+      "surface": "אֲשֶׁ֛ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אָנֹכִ֥י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מְצַוְּךָ֖",
+      "gloss": "euch gebiete"
+    },
+    {
+      "surface": "הַיּ֑וֹם",
+      "gloss": "heute"
+    },
+    {
+      "surface": "לְמַ֣עַן",
+      "gloss": "damit"
+    },
+    {
+      "surface": "תֶּחֶזְק֗וּ",
+      "gloss": "ihr stark werdet"
+    },
+    {
+      "surface": "וּבָאתֶם֙",
+      "gloss": "und hineingeht"
+    },
+    {
+      "surface": "וִֽירִשְׁתֶּ֣ם",
+      "gloss": "und in Besitz nehmt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אַתֶּ֛ם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "עֹבְרִ֥ים",
+      "gloss": "durchschreitet"
+    },
+    {
+      "surface": "שָׁ֖מָּה",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "לְרִשְׁתָּֽהּ",
+      "gloss": "um es in Besitz zu nehmen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:27:24.933442130Z",
+  "model": "glm-5.2"
+}

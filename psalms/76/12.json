@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 76,
+  "translation": "Gelobt und erfüllt ⟨werde⟩ JHWH, eurem Elohim, all ⟨die⟩ rings um ihn ⟨sind⟩ — sie sollen Gaben herbeibringen dem Ehrfurchtgebietenden.",
+  "tokens": [
+    {
+      "surface": "נִדֲר֣וּ",
+      "gloss": "Gelobt"
+    },
+    {
+      "surface": "וְשַׁלְּמ֗וּ",
+      "gloss": "und erfüllt"
+    },
+    {
+      "surface": "לַֽיהוָ֪ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱֽלֹהֵ֫יכֶ֥ם",
+      "gloss": "eurem Elohim"
+    },
+    {
+      "surface": "כָּל־",
+      "gloss": "all"
+    },
+    {
+      "surface": "סְבִיבָ֑יו",
+      "gloss": "rings um ihn"
+    },
+    {
+      "surface": "יוֹבִ֥ילוּ",
+      "gloss": "sie sollen herbeibringen"
+    },
+    {
+      "surface": "שַׁ֝֗י",
+      "gloss": "Gaben"
+    },
+    {
+      "surface": "לַמּוֹרָֽא",
+      "gloss": "dem Ehrfurchtgebietenden"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:23.957146631Z",
+  "model": "glm-5.2"
+}

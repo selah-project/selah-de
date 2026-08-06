@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 53,
+  "translation": "Aus Zwang und ⟨aus⟩ Gericht wurde er weggenommen, und ⟨את⟩ sein Geschlecht – wer wird es bedenken? Denn er wurde abgeschnitten aus dem Land der Lebenden; wegen der Verfehlung meines Volkes ⟨war⟩ der Schlag ⟨für⟩ ihn.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "aus Zwang"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "und aus Gericht"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wurde weggenommen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sein Geschlecht"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "sein Geschlecht"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "wird bedenken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "wurde abgeschnitten"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "der Lebenden"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "wegen der Verfehlung"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meines Volkes"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "der Schlag"
+    },
+    {
+      "surface": "למו",
+      "gloss": "für ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T03:23:11.850748090Z",
+  "model": "glm-5.2"
+}

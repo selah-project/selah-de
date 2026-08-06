@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Die dich in böser Absicht nennen — deine Feinde ⟨erheben sich⟩ zum Nichtig-erfunden-Werden.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Die"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "dich nennen"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "in böser Absicht"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "⟨erheben sich⟩"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "zum Nichtigen"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "deine Feinde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:50.693527855Z",
+  "model": "glm-5.2"
+}

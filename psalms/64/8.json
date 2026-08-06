@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 64,
+  "translation": "Und Elohim schoss ⟨einen⟩ Pfeil — plötzlich ⟨wurden⟩ ihre Schläge.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Und schoss"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "Pfeil"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "plötzlich"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨wurden⟩"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ihre Schläge"
+    }
+  ],
+  "timestamp": "2026-08-06T22:47:00.654718325Z",
+  "model": "glm-5.2"
+}

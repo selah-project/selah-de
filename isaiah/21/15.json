@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Denn vor Schwertern flohen sie, vor ⟨der⟩ gezückten Klinge und vor ⟨dem⟩ gespannten Bogen und vor ⟨der⟩ Wucht ⟨des⟩ Krieges.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "vor"
+    },
+    {
+      "surface": "חֲרָבוֹת",
+      "gloss": "Schwertern"
+    },
+    {
+      "surface": "נָדָדוּ",
+      "gloss": "flohen sie"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "vor"
+    },
+    {
+      "surface": "חֶרֶב",
+      "gloss": "Klinge"
+    },
+    {
+      "surface": "נְטוּשָׁה",
+      "gloss": "gezückten"
+    },
+    {
+      "surface": "וּמִפְּנֵי",
+      "gloss": "und vor"
+    },
+    {
+      "surface": "קֶשֶׁת",
+      "gloss": "Bogen"
+    },
+    {
+      "surface": "דְּרוּכָה",
+      "gloss": "gespannten"
+    },
+    {
+      "surface": "וּמִפְּנֵי",
+      "gloss": "und vor"
+    },
+    {
+      "surface": "כֹּבֶד",
+      "gloss": "Wucht"
+    },
+    {
+      "surface": "מִלְחָמָה",
+      "gloss": "Krieges"
+    }
+  ],
+  "timestamp": "2026-08-05T21:47:26.096651490Z",
+  "model": "glm-5.2"
+}

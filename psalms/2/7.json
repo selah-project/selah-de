@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "„Ich will ⟨die⟩ Satzung verkünden: JHWH hat zu mir gesprochen: ‚Mein Sohn bist du, ich habe dich heute gezeugt.‘“",
+  "tokens": [
+    {
+      "surface": "אֲסַפְּרָ֗ה",
+      "gloss": "Ich will verkünden"
+    },
+    {
+      "surface": "אֶֽ֫ל",
+      "gloss": "⟨die⟩"
+    },
+    {
+      "surface": "חֹ֥ק",
+      "gloss": "Satzung"
+    },
+    {
+      "surface": "יְֽהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אָמַ֘ר",
+      "gloss": "hat gesprochen"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "בְּנִ֥י",
+      "gloss": "Mein Sohn"
+    },
+    {
+      "surface": "אַ֑תָּה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "אֲנִ֗י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "הַיּ֥וֹם",
+      "gloss": "heute"
+    },
+    {
+      "surface": "יְלִדְתִּֽיךָ",
+      "gloss": "habe ich dich gezeugt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:43:09.606215253Z",
+  "model": "glm-5.2"
+}

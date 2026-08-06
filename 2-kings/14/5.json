@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und es geschah, sobald ⟨die⟩ Königsmacht in seiner Hand erstarkt war, da schlug er ⟨את⟩ seine Knechte, die ⟨den⟩ König, seinen Vater, geschlagen hatten, ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sobald"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "erstarkt war"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "die Königsmacht"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in seiner Hand"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "da schlug er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Knechte"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seine Knechte"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "die geschlagen hatten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den König"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seinen Vater"
+    }
+  ],
+  "timestamp": "2026-08-06T08:49:04.090637058Z",
+  "model": "glm-5.2"
+}

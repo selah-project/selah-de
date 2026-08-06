@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Das Gedenken ⟨an⟩ die Fülle deiner Güte werden sie hervorströmen lassen, und deine Gerechtigkeit werden sie jubeln.",
+  "tokens": [
+    {
+      "surface": "זֵ֣כֶר",
+      "gloss": "das Gedenken"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "die Fülle"
+    },
+    {
+      "surface": "טוּבְךָ֣",
+      "gloss": "deiner Güte"
+    },
+    {
+      "surface": "יַבִּ֑יעוּ",
+      "gloss": "werden sie hervorströmen lassen"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "und deine Gerechtigkeit"
+    },
+    {
+      "surface": "יְרַנֵּֽנוּ",
+      "gloss": "werden sie jubeln"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:04.049900817Z",
+  "model": "glm-5.2"
+}

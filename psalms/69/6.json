@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Elohim, du selbst hast ⟨meine⟩ Torheit erkannt, und ⟨meine⟩ Schuldstücke vor dir sind nicht verborgen geblieben.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du selbst"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "hast … erkannt"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "meine Torheit"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "und meine Schuldstücke"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "sind verborgen geblieben"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:56.797618081Z",
+  "model": "glm-5.2"
+}

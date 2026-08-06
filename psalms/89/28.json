@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Auch ich ⟨werde⟩ ihn zum Erstgeborenen machen, zum Höchsten unter den Königen der Erde.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Auch"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "zum Erstgeborenen"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "⟨werde⟩ ihn machen"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "zum Höchsten"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "unter den Königen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:22.512304786Z",
+  "model": "glm-5.2"
+}

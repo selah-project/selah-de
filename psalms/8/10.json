@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "JHWH, unser Adonai, wie erhaben ⟨ist⟩ dein Name auf der ganzen Erde!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "unser Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "erhaben"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dein Name"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "auf der ganzen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:13.137372217Z",
+  "model": "glm-5.2"
+}

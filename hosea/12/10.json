@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ich ⟨bin⟩ JHWH, dein Elohim, vom Land Mizrajim ⟨her⟩ — noch einmal werde ich dich in Zelten wohnen lassen, wie an den Tagen des Festes.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "vom Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "noch einmal"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "werde ich dich wohnen lassen"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "in Zelten"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "wie an den Tagen"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "des Festes"
+    }
+  ],
+  "timestamp": "2026-08-06T22:45:52.174667411Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und Schaul sah ⟨את⟩ das Heerlager der Pelischtim, und er fürchtete sich, und sein Herz erzitterte sehr.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Und sah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Heerlager der Pelischtim"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "das Heerlager"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "und er fürchtete sich"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "und erzitterte"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sein Herz"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T01:11:42.300918579Z",
+  "model": "glm-5.2"
+}

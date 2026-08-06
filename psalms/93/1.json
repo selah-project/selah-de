@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 93,
+  "translation": "JHWH ⟨ist⟩ König geworden, in Hoheit hat er sich gehüllt — JHWH hat sich bekleidet, mit Stärke hat er sich gegürtet — ja, ⟨es ist⟩ festgegründet ⟨die⟩ Erde, sie wird nicht wanken.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מָלָךְ֮",
+      "gloss": "⟨ist⟩ König geworden"
+    },
+    {
+      "surface": "גֵּא֪וּת",
+      "gloss": "in Hoheit"
+    },
+    {
+      "surface": "לָבֵ֫שׁ",
+      "gloss": "hat er sich gehüllt"
+    },
+    {
+      "surface": "לָבֵ֣שׁ",
+      "gloss": "hat sich bekleidet"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עֹ֣ז",
+      "gloss": "mit Stärke"
+    },
+    {
+      "surface": "הִתְאַזָּ֑ר",
+      "gloss": "hat er sich gegürtet"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תִּכּ֥וֹן",
+      "gloss": "⟨es ist⟩ festgegründet"
+    },
+    {
+      "surface": "תֵּ֝בֵ֗ל",
+      "gloss": "⟨die⟩ Erde"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּמּֽוֹט",
+      "gloss": "wird ⟨sie⟩ wanken"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:37.143953694Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Joktan zeugte ⟨את⟩ Almodad und ⟨את⟩ Schalef und ⟨את⟩ Chazar-mawet und ⟨את⟩ Järach.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": ""
+    },
+    {
+      "surface": "ויקטן",
+      "gloss": "Und Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Schalef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Schalef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Chazar-mawet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chazar-mawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Järach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Järach"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:59.241664833Z",
+  "model": "glm-5.2"
+}

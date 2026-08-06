@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 23:11",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Balak sagte zu Bilam: „Was hast du mir angetan? Um ⟨meine⟩ Feinde zu verfluchen, habe ich dich geholt, und siehe, du hast nur gesegnet!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hast du angetan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לקב",
+      "gloss": "zu verfluchen"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "Feinde"
+    },
+    {
+      "surface": "לקחתיך",
+      "gloss": "habe ich dich geholt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "hast du gesegnet"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "nur"
+    }
+  ],
+  "timestamp": "2026-08-06T02:20:04.542423497Z",
+  "model": "glm-5.2"
+}

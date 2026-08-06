@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 2:3",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Häuft nicht Worte des Hochmuts, ⟨redet⟩ nicht hochmütig! Nicht gehe ⟨etwas⟩ Vermessenes aus eurem Mund! Denn ⟨ein⟩ El des Wissens ⟨ist⟩ JHWH, und ⟨von⟩ ihm werden ⟨die⟩ Taten gewogen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "häuft"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "⟨redet⟩"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "des Hochmuts"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "hochmütig"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gehe"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "⟨etwas⟩ Vermessenes"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "aus eurem Mund"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ein⟩ El"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "des Wissens"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נתכנו",
+      "gloss": "werden gewogen"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "⟨die⟩ Taten"
+    }
+  ],
+  "timestamp": "2026-08-06T05:37:39.057760883Z",
+  "model": "glm-5.2"
+}

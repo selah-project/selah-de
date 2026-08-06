@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Wenn er sich eine andere nimmt — ihre Nahrung, ihre Kleidung und ihre Beiwohnung soll er nicht mindern.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "eine andere"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nimmt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sich"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ihre Nahrung"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "ihre Kleidung"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "und ihre Beiwohnung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "soll er mindern"
+    }
+  ],
+  "timestamp": "2026-08-06T09:46:07.570314341Z",
+  "model": "glm-5.2"
+}

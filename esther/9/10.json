@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Zehn Söhne Hamans, des Sohnes der Medata, des Bedrängers der Jehudim — die erschlugen sie. Aber an der Beute legten sie ⟨ihre⟩ Hand nicht auf ⟨sie⟩.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamans"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "der Medata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "Bedränger"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "der Jehudim"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "erschlugen sie"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "aber an der Beute"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "legten sie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Hand"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ihre Hand"
+    }
+  ],
+  "timestamp": "2026-08-06T04:44:39.653827396Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "Denn du ⟨bist⟩ meine Hoffnung, Adonai, JHWH, meine Zuversicht von meiner Jugend an.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תִקְוָתִ֑י",
+      "gloss": "meine Hoffnung"
+    },
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מִבְטַחִ֥י",
+      "gloss": "meine Zuversicht"
+    },
+    {
+      "surface": "מִנְּעוּרָֽי",
+      "gloss": "von meiner Jugend an"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:55.533578395Z",
+  "model": "glm-5.2"
+}

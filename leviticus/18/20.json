@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ⟨mit⟩ der Frau deines Nächsten sollst du ⟨dein⟩ Beilager nicht geben zum Besamen, zur Tum'a mit ⟨ihr⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Und zu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨der⟩ Frau"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "deines Nächsten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sollst du geben"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "dein Beilager"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "zum Besamen"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "zur Tum'a"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mit ⟨ihr⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:15.489116381Z",
+  "model": "glm-5.2"
+}

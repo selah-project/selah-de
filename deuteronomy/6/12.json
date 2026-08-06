@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "so hüte dich, ⟨dass⟩ du nicht JHWH vergisst, ⟨את⟩ der dich herausgeführt hat aus dem Land Mizrajim, aus dem Sklavenhaus.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "so hüte dich"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨dich⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨dass⟩ nicht"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "du vergisst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "dich herausgeführt hat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aus dem"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "Sklavenhaus"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:04.407929386Z",
+  "model": "glm-5.2"
+}

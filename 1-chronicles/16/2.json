@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und Dawid beendete ⟨das⟩ Heranbringen der Ola und der Schelamim, und er segnete ⟨את⟩ das Volk im Namen JHWHs.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "und er beendete"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "das Heranbringen"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "der Ola"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "und der Schelamim"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "und er segnete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "im Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T07:21:49.903594107Z",
+  "model": "glm-5.2"
+}

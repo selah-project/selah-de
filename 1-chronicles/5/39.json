@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Schallum zeugte ⟨את⟩ Hilqija, und Hilqija zeugte ⟨את⟩ Asarja.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "und Schallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilqija"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilqija"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "und Hilqija"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Asarja"
+    }
+  ],
+  "timestamp": "2026-08-06T04:53:56.716307033Z",
+  "model": "glm-5.2"
+}

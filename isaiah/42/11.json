@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 42:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Die Wüste und ⟨seine⟩ Städte sollen ⟨die Stimme⟩ erheben, die Gehöfte, die Kedar bewohnt; die Bewohner von Sela jauchzen, vom Scheitel der Berge rufen sie.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "sollen erheben"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "die Wüste"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "und ⟨seine⟩ Städte"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "die Gehöfte"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "bewohnt"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "jauchzen"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die Bewohner von"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "vom Scheitel"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "der Berge"
+    },
+    {
+      "surface": "יצוחו",
+      "gloss": "rufen sie"
+    }
+  ],
+  "timestamp": "2026-08-06T06:01:09.450271947Z",
+  "model": "glm-5.2"
+}

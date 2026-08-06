@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "und ⟨את⟩ alle Könige vonzor und ⟨את⟩ alle Könige vonz Tzidon und ⟨את⟩ die Könige der Insel, die jenseits des Meeres ⟨ist⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Könige von Tzor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Könige von"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Könige von Tzidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Könige von"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tzidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Könige der Insel"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die Könige"
+    },
+    {
+      "surface": "האי",
+      "gloss": "der Insel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "jenseits"
+    },
+    {
+      "surface": "הים",
+      "gloss": "des Meeres"
+    }
+  ],
+  "timestamp": "2026-08-05T22:05:03.640828100Z",
+  "model": "glm-5.2"
+}

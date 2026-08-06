@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ⟨er ließ⟩ die Lade JHWHs ⟨את⟩ die Stadt umkreisen, einmal herum, und das Lager kehrte zurück und übernachtete im Lager.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Und ⟨er ließ⟩ umkreisen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stadt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "herum"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "einmal"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "und ⟨es⟩ kehrte zurück"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "das Lager"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "und übernachtete"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "im Lager"
+    }
+  ],
+  "timestamp": "2026-08-05T20:53:38.732524119Z",
+  "model": "glm-5.2"
+}

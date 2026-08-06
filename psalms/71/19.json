@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "Und ⟨deine⟩ Zedek, o Elohim, ⟨reicht⟩ bis zur Höhe, ⟨du⟩, der du Große Dinge getan hast, o Elohim: Wer ist wie du?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Und ⟨deine⟩ Zedek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "zur Höhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨du⟩, der"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "getan hast"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "Große Dinge"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ist wie du"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:29.243806708Z",
+  "model": "glm-5.2"
+}

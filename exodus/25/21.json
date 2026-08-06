@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und du sollst ⟨את⟩ die Kapporet auf die Lade oben darauf legen, und in die Lade sollst du ⟨את⟩ das Zeugnis geben, das ich dir geben werde.",
+  "tokens": [
+    {
+      "surface": "וְנָתַתָּ",
+      "gloss": "Und du sollst … geben\/legen"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "die Kapporet"
+    },
+    {
+      "surface": "הַכַּפֹּרֶת",
+      "gloss": "die Kapporet"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הָאָרֹן",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "מִלְמָעְלָה",
+      "gloss": "oben darauf"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "und in\/zu"
+    },
+    {
+      "surface": "הָאָרֹן",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "תִּתֵּן",
+      "gloss": "sollst du geben\/legen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Zeugnis"
+    },
+    {
+      "surface": "הָעֵדֻת",
+      "gloss": "das Zeugnis"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אֶתֵּן",
+      "gloss": "ich geben werde"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T20:18:19.688359978Z",
+  "model": "glm-5.2"
+}

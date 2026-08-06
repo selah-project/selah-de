@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Für Gelächter richtet man ein Mahl, und Wein erfreut das Leben — und das Silber, ⟨es⟩ antwortet ⟨auf⟩ ⟨את⟩ alles.",
+  "tokens": [
+    {
+      "surface": "לִשְׂחוֹק֙",
+      "gloss": "Für Gelächter"
+    },
+    {
+      "surface": "עֹשִׂ֣ים",
+      "gloss": "richtet man ⟨es⟩ zu"
+    },
+    {
+      "surface": "לֶ֔חֶם",
+      "gloss": "ein Mahl"
+    },
+    {
+      "surface": "וְיַ֖יִן",
+      "gloss": "und Wein"
+    },
+    {
+      "surface": "יְשַׂמַּ֣ח",
+      "gloss": "erfreut"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "das Leben"
+    },
+    {
+      "surface": "וְהַכֶּ֖סֶף",
+      "gloss": "und das Silber"
+    },
+    {
+      "surface": "יַעֲנֶ֥ה",
+      "gloss": "⟨es⟩ antwortet"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "הַכֹּֽל",
+      "gloss": "alles"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:11.142375014Z",
+  "model": "glm-5.2"
+}

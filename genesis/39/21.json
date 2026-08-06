@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Und JHWH war ⟨את⟩ mit Josesef und neigte ⟨ihm⟩ Chessed zu und gab ⟨ihm⟩ Chen vor den Augen des Vorstehers des Gefängnisses.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ geschah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit Josesef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josesef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "und neigte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨ihm⟩ zu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "Chen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "vor den Augen"
+    },
+    {
+      "surface": "שר",
+      "gloss": "des Vorstehers"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "des Gefängnisses"
+    }
+  ],
+  "timestamp": "2026-08-06T00:10:15.923498040Z",
+  "model": "glm-5.2"
+}

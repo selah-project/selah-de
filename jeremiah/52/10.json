@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 52,
+  "translation": "Und der König von Bawel schlachtete ⟨את⟩ die Söhne Zidkijahus vor seinen Augen, und auch ⟨את⟩ alle Oberen von Jehuda schlachtete er in Ribla.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁחַ֧ט",
+      "gloss": "und er schlachtete"
+    },
+    {
+      "surface": "מֶּֽלֶךְ",
+      "gloss": "König"
+    },
+    {
+      "surface": "בָּבֶ֛ל",
+      "gloss": "Bawel"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Zidkijahus"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "צִדְקִיָּ֖הוּ",
+      "gloss": "Zidkijahus"
+    },
+    {
+      "surface": "לְעֵינָ֑יו",
+      "gloss": "vor seinen Augen"
+    },
+    {
+      "surface": "וְגַ֛ם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "alle Oberen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שָׂרֵ֥י",
+      "gloss": "Oberen"
+    },
+    {
+      "surface": "יְהוּדָ֖ה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "שָׁחַ֥ט",
+      "gloss": "schlachtete er"
+    },
+    {
+      "surface": "בְּרִבְלָֽתָה",
+      "gloss": "in Ribla"
+    }
+  ],
+  "timestamp": "2026-08-06T09:01:11.339024269Z",
+  "model": "glm-5.2"
+}

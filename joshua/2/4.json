@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨die⟩ Frau nahm die beiden Männer ⟨את⟩ und verbarg sie, und sie sagte: „Ja, die Männer sind zu mir gekommen, und ich weiß nicht, woher sie sind.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Und ⟨sie⟩ nahm"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die beiden Männer"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die beiden"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "und verbarg sie"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "und sie sagte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sind gekommen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "weiß ich"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "woher"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie sind"
+    }
+  ],
+  "timestamp": "2026-08-06T20:15:14.897203289Z",
+  "model": "glm-5.2"
+}

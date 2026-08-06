@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "und ich werde auf die Tafeln ⟨את⟩ die Worte schreiben, die auf den ersten Tafeln waren, die du zerbrochen hast, und du sollst sie in die Lade legen.“",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "und ich werde schreiben"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "die Tafeln"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "den Tafeln"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "den ersten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "du zerbrochen hast"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "und du sollst sie legen"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "in die Lade"
+    }
+  ],
+  "timestamp": "2026-08-06T08:28:19.765538250Z",
+  "model": "glm-5.2"
+}

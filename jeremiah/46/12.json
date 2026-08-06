@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 46:12",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Die Nationen haben ⟨von⟩ deiner Schande gehört, und dein Schrei hat die Erde erfüllt; denn Held an Held sind gestrauchelt, zusammen sind sie gefallen, beide.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "haben gehört"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Die Nationen"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "deiner Schande"
+    },
+    {
+      "surface": "וצוחתך",
+      "gloss": "und dein Schrei"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "hat erfüllt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Held"
+    },
+    {
+      "surface": "בגבור",
+      "gloss": "an Held"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "sind gestrauchelt"
+    },
+    {
+      "surface": "יחדיו",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sind gefallen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "beide"
+    }
+  ],
+  "timestamp": "2026-08-06T03:38:17.975478601Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "und deine Ältesten und deine Richter sollen hinausgehen und messen zu den Städten, die rings um den Erschlagenen ⟨sind⟩ —",
+  "tokens": [
+    {
+      "surface": "וְיָצְא֥וּ",
+      "gloss": "und sollen hinausgehen"
+    },
+    {
+      "surface": "זְקֵנֶ֖יךָ",
+      "gloss": "deine Ältesten"
+    },
+    {
+      "surface": "וְשֹׁפְטֶ֑יךָ",
+      "gloss": "und deine Richter"
+    },
+    {
+      "surface": "וּמָדְדוּ֙",
+      "gloss": "und messen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הֶ֣עָרִ֔ים",
+      "gloss": "den Städten"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "סְבִיבֹ֥ת",
+      "gloss": "rings um"
+    },
+    {
+      "surface": "הֶחָלָֽל",
+      "gloss": "den Erschlagenen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:26:01.119102200Z",
+  "model": "glm-5.2"
+}

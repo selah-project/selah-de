@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 20:12",
+  "book": "job",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Wenn ⟨er⟩ das Böse in seinem Mund süß macht, birgt er es unter seiner Zunge —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תמתיק",
+      "gloss": "süß macht"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "in seinem Mund"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "das Böse"
+    },
+    {
+      "surface": "יכחידנה",
+      "gloss": "birgt er es"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "seiner Zunge"
+    }
+  ],
+  "timestamp": "2026-08-06T09:24:32.002303525Z",
+  "model": "glm-5.2"
+}

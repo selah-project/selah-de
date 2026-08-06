@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Ziegen zweihundert und Böcke zwanzig, Mutterschafe zweihundert und Widder zwanzig,",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "Ziegen"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "zweihundert"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "und Böcke"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zwanzig"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "Mutterschafe"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "zweihundert"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "und Widder"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zwanzig"
+    }
+  ],
+  "timestamp": "2026-08-05T20:00:37.347897440Z",
+  "model": "glm-5.2"
+}

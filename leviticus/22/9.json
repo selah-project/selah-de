@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und sie sollen ⟨את⟩ meine Wache halten und nicht Schuld dafür tragen und ⟨darin⟩ sterben, wenn sie es entweihen — ich, JHWH, heilige sie.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Und sie sollen halten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Wache"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "meine Wache"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "tragen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dafür"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "Schuld"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "und sterben"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨darin⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "sie es entweihen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "heilige sie"
+    }
+  ],
+  "timestamp": "2026-08-06T00:28:51.969028400Z",
+  "model": "glm-5.2"
+}

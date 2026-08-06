@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Wie sie zahlreicher wurden, so sündigten sie gegen mich. Ihre Ehre werde ich in Schande verwandeln.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "wie sie zahlreicher wurden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "sündigten sie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gegen mich"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ihre Ehre"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "in Schande"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "werde ich verwandeln"
+    }
+  ],
+  "timestamp": "2026-08-05T22:30:28.418905656Z",
+  "model": "glm-5.2"
+}

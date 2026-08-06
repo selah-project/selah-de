@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 73,
+  "translation": "Und ich ⟨war⟩ unvernünftig und ⟨ich⟩ erkannte nicht, ⟨wie⟩ ein Vieh war ich bei dir.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִי",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "בַ֭עַר",
+      "gloss": "unvernünftig"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und ⟨ich⟩ nicht"
+    },
+    {
+      "surface": "אֵדָ֑ע",
+      "gloss": "erkannte"
+    },
+    {
+      "surface": "בְּהֵמ֗וֹת",
+      "gloss": "ein Vieh"
+    },
+    {
+      "surface": "הָיִ֥יתִי",
+      "gloss": "war"
+    },
+    {
+      "surface": "עִמָּֽךְ",
+      "gloss": "bei dir"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:37.479112193Z",
+  "model": "glm-5.2"
+}

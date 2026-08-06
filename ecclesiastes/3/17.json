@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ich sagte in meinem Herzen: ⟨Den⟩ Gerechten und ⟨den⟩ Frevler wird Elohim richten — denn ⟨es gibt⟩ eine Zeit für jeden Willen und über jedes Tun ⟨gibt es⟩ dort ⟨ein Gericht⟩. Ich, in meinem Herzen: ⟨את⟩ den Gerechten und ⟨את⟩ den Frevler, wird richten Elohim, denn ⟨es gibt⟩ Zeit für jeden Willen und über jedes Tun dort.",
+  "tokens": [
+    {
+      "surface": "אָמַ֤רְתִּֽי",
+      "gloss": "sagte ich"
+    },
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "ich"
+    },
+    {
+      "surface": "בְּלִבִּ֔י",
+      "gloss": "in meinem Herzen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Gerechten"
+    },
+    {
+      "surface": "הַצַּדִּיק֙",
+      "gloss": "den Gerechten"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Frevler"
+    },
+    {
+      "surface": "הָ֣רָשָׁ֔ע",
+      "gloss": "den Frevler"
+    },
+    {
+      "surface": "יִשְׁפֹּ֖ט",
+      "gloss": "wird richten"
+    },
+    {
+      "surface": "הָאֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עֵ֣ת",
+      "gloss": "Zeit"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "für jeden"
+    },
+    {
+      "surface": "חֵ֔פֶץ",
+      "gloss": "Willen"
+    },
+    {
+      "surface": "וְעַ֥ל",
+      "gloss": "und über"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "jedes"
+    },
+    {
+      "surface": "הַֽמַּעֲשֶׂ֖ה",
+      "gloss": "Tun"
+    },
+    {
+      "surface": "שָֽׁם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-06T07:09:40.535356096Z",
+  "model": "glm-5.2"
+}

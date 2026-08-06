@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Berge lege ich öde, und Hügel, und all ihr Gras lasse ich verdorren; und Flüsse mache ich zu Inseln, und Teiche lasse ich austrocknen.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "lege ich öde"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Berge"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "und Hügel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "ihr Gras"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "lasse ich verdorren"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "und ⟨ich⟩ mache"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "Flüsse"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "zu Inseln"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "und Teiche"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "lasse ich austrocknen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:11:59.695891527Z",
+  "model": "glm-5.2"
+}

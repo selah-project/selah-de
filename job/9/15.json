@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Dass ⟨ich⟩ auch ⟨im⟩ Recht ⟨wäre⟩ — ich würde ⟨es⟩ nicht beantworten; meinem Richter würde ich um Gunst flehen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אם",
+      "gloss": "auch wenn"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "ich Recht hätte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ich würde … beantworten"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "meinem Richter"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "würde ich um Gunst flehen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:17:50.925422627Z",
+  "model": "glm-5.2"
+}

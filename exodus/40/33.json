@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und er richtete ⟨את⟩ den Vorhof auf, ringsum um den Mischkan und um den Altar, und er brachte an ⟨את⟩ die Abdeckung des Tores des Vorhofs. Und Mosche vollendete ⟨את⟩ die Arbeit.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "und er richtete auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Vorhof"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "den Vorhof"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "um den Mischkan"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "und um den Altar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und er brachte an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Abdeckung"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "die Abdeckung"
+    },
+    {
+      "surface": "שער",
+      "gloss": "des Tores"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "des Vorhofs"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "und vollendete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Arbeit"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "die Arbeit"
+    }
+  ],
+  "timestamp": "2026-08-06T00:22:39.044383864Z",
+  "model": "glm-5.2"
+}

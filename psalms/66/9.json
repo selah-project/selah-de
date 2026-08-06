@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Der unsere Nefesch ins Leben setzt und ⟨unsere⟩ Füße nicht dem Wanken überlässt.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Der setzt"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "unsere Nefesch"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "ins Leben"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "überlässt"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "dem Wanken"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "⟨unsere⟩ Füße"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:55.988424728Z",
+  "model": "glm-5.2"
+}

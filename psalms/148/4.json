@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 148,
+  "translation": "Lobt ihn, Himmel der Himmel, und die Wasser, die über den Himmeln ⟨sind⟩!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lobt ihn"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Himmel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "der Himmel"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "und die Wasser"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "über"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "den Himmeln"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:41.887952323Z",
+  "model": "glm-5.2"
+}

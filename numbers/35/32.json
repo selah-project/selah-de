@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 35:32",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und ihr sollt kein Lösgegeld nehmen für den, der in seine Zufluchtsstadt geflohen ist, um zurückzukehren und im Land zu wohnen, bis zum Tod des Kohen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Und nicht"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "sollt ihr nehmen"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "Lösgegeld"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "für ⟨den⟩, der geflohen ist"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "in ⟨die⟩ Stadt"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "seiner Zuflucht"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "um zurückzukehren"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "und zu wohnen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מות",
+      "gloss": "zum Tod"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "des Kohen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:41:19.757412920Z",
+  "model": "glm-5.2"
+}

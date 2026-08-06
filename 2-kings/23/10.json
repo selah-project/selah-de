@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und er entweihte ⟨את⟩ das Tofet, das im Tal der Söhne des Hinnom ⟨ist⟩, damit niemand ⟨את⟩ seinen Sohn und ⟨את⟩ seine Tochter durchs Feuer gehen lasse für den Molech.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Und er entweihte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "das Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "im Tal"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "des Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "damit … nicht"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "gehen lasse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "niemand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Sohn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seinen Sohn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Tochter"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "seine Tochter"
+    },
+    {
+      "surface": "באש",
+      "gloss": "durchs Feuer"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "für den Molech"
+    }
+  ],
+  "timestamp": "2026-08-06T03:09:41.957132565Z",
+  "model": "glm-5.2"
+}

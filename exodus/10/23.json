@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Nicht sahen ⟨ein jeder⟩ ⟨את⟩ seinen Bruder, und niemand stand auf von unter sich ⟨her⟩, drei Tage; aber für alle Söhne Jisraels war Licht in ihren Wohnsitzen.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "רָא֞וּ",
+      "gloss": "sahen"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "⟨ein jeder⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Bruder"
+    },
+    {
+      "surface": "אָחִ֗יו",
+      "gloss": "seinen Bruder"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und niemand"
+    },
+    {
+      "surface": "קָ֛מוּ",
+      "gloss": "stand auf"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "⟨irgendjemand⟩"
+    },
+    {
+      "surface": "מִתַּחְתָּ֖יו",
+      "gloss": "von unter sich"
+    },
+    {
+      "surface": "שְׁלֹ֣שֶׁת",
+      "gloss": "drei"
+    },
+    {
+      "surface": "יָמִ֑ים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "וּֽלְכָל",
+      "gloss": "aber für alle"
+    },
+    {
+      "surface": "בְּנֵ֧י",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֛ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "הָ֥יָה",
+      "gloss": "war"
+    },
+    {
+      "surface": "א֖וֹר",
+      "gloss": "Licht"
+    },
+    {
+      "surface": "בְּמֹשְׁבֹתָֽם",
+      "gloss": "in ihren Wohnsitzen"
+    }
+  ],
+  "timestamp": "2026-08-06T22:32:30.796277369Z",
+  "model": "glm-5.2"
+}

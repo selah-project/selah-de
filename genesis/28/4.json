@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und er gebe dir ⟨את⟩ den Segen Awrahams, dir und deinem Samen mit dir, um ⟨את⟩ das Land deiner Aufenthalte zu erben, das Elohim dem Awraham gegeben hat.“",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Und er gebe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Segen"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "den Segen"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahams"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "und deinem Samen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "um zu erben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "deiner Aufenthalte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegeben hat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "dem Awraham"
+    }
+  ],
+  "timestamp": "2026-08-05T17:35:53.824498250Z",
+  "model": "glm-5.2"
+}

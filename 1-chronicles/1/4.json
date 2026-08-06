@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Noach, Scham, Cham, und Jafet.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Scham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨die⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨die⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafet"
+    }
+  ],
+  "timestamp": "2026-08-05T23:45:20.207958909Z",
+  "model": "glm-5.2"
+}

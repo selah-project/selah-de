@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Tröpfeln soll wie Regen meine Lehre, fließen wie Tau mein Wort, wie Regenschauer auf Grünem und wie Regenbächen auf Gras.",
+  "tokens": [
+    {
+      "surface": "יַעֲרֹ֤ף",
+      "gloss": "Tröpfeln soll"
+    },
+    {
+      "surface": "כַּמָּטָר֙",
+      "gloss": "wie Regen"
+    },
+    {
+      "surface": "לִקְחִ֔י",
+      "gloss": "meine Lehre"
+    },
+    {
+      "surface": "תִּזַּ֥ל",
+      "gloss": "fließen"
+    },
+    {
+      "surface": "כַּטַּ֖ל",
+      "gloss": "wie Tau"
+    },
+    {
+      "surface": "אִמְרָתִ֑י",
+      "gloss": "mein Wort"
+    },
+    {
+      "surface": "כִּשְׂעִירִ֣ם",
+      "gloss": "wie Regenschauer"
+    },
+    {
+      "surface": "עֲלֵ֣י",
+      "gloss": "auf"
+    },
+    {
+      "surface": "דֶ֔שֶׁא",
+      "gloss": "Grünem"
+    },
+    {
+      "surface": "וְכִרְבִיבִ֖ים",
+      "gloss": "und wie Regenbächen"
+    },
+    {
+      "surface": "עֲלֵ֥י",
+      "gloss": "auf"
+    },
+    {
+      "surface": "עֵֽשֶׂב",
+      "gloss": "Gras"
+    }
+  ],
+  "timestamp": "2026-08-06T09:54:58.323265559Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "der in unserer Niedrigkeit unser gedachte, denn für immer ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "der in unserer Niedrigkeit"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "unser gedachte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨unser⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:02.796935961Z",
+  "model": "glm-5.2"
+}

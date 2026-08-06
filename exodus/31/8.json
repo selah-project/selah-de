@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "und ⟨את⟩ den Tisch und ⟨את⟩ seine Geräte und ⟨את⟩ den Leuchter, den reinen, und ⟨את⟩ alle seine Geräte und ⟨את⟩ den Altar des Räucherwerks,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Tisch"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "den Tisch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Geräte"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "seine Geräte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Leuchter"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "den Leuchter"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "den reinen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle seine Geräte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "seine Geräte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "des Räucherwerks"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:22.044610101Z",
+  "model": "glm-5.2"
+}

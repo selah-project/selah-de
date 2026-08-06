@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Verflucht ⟨sei⟩ ihr Zorn, denn ⟨er ist⟩ heftig, und ihr Grimm, denn ⟨er ist⟩ grausam; ich werde sie verteilen in Jaakow und sie zerstreuen in Jisra'el.",
+  "tokens": [
+    {
+      "surface": "אָר֤וּר",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "אַפָּם֙",
+      "gloss": "ihr Zorn"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עָ֔ז",
+      "gloss": "heftig"
+    },
+    {
+      "surface": "וְעֶבְרָתָ֖ם",
+      "gloss": "und ihr Grimm"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "קָשָׁ֑תָה",
+      "gloss": "grausam"
+    },
+    {
+      "surface": "אֲחַלְּקֵ֣ם",
+      "gloss": "ich werde sie verteilen"
+    },
+    {
+      "surface": "בְּיַעֲקֹ֔ב",
+      "gloss": "in Jaakow"
+    },
+    {
+      "surface": "וַאֲפִיצֵ֖ם",
+      "gloss": "und sie zerstreuen"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵֽל",
+      "gloss": "in Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-05T20:04:58.840670810Z",
+  "model": "glm-5.2"
+}

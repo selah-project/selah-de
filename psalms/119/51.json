@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Übermütige haben mich sehr verspottet — von deiner Tora bin ich nicht abgewichen.",
+  "tokens": [
+    {
+      "surface": "זֵ֭דִים",
+      "gloss": "Übermütige"
+    },
+    {
+      "surface": "הֱלִיצֻ֣נִי",
+      "gloss": "haben mich verspottet"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "(bis zum Äußersten)"
+    },
+    {
+      "surface": "מִ֝תּֽוֹרָתְךָ֗",
+      "gloss": "von deiner Tora"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נָטִֽיתִי",
+      "gloss": "bin ich abgewichen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:16.277682973Z",
+  "model": "glm-5.2"
+}

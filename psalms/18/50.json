@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Darum preise ich dich, JHWH, unter den Nationen, und deinem Namen spiele ich ⟨Saiten⟩.",
+  "tokens": [
+    {
+      "surface": "עַל־כֵּן",
+      "gloss": "Darum"
+    },
+    {
+      "surface": "אוֹדְךָ֖",
+      "gloss": "preise ich dich"
+    },
+    {
+      "surface": "בַּגּוֹיִ֥ם",
+      "gloss": "unter den Nationen"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וּלְשִׁמְךָ֥",
+      "gloss": "und deinem Namen"
+    },
+    {
+      "surface": "אֲזַמֵּֽרָה",
+      "gloss": "spiele ich ⟨Saiten⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:09.222682261Z",
+  "model": "glm-5.2"
+}

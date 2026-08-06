@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und JHWH sprach zum Satans: „Von wo kommst du?“ Und der Satans antwortete ⟨את⟩ JHWH und sprach: „Vom Umherstreifen auf der Erde und vom Umhergehen auf ihr.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "dem Satans"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "von wo"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kommst du"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "Und antwortete"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "der Satans"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "vom Umherstreifen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "und vom Umhergehen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "auf ihr"
+    }
+  ],
+  "timestamp": "2026-08-06T20:41:11.218327928Z",
+  "model": "glm-5.2"
+}

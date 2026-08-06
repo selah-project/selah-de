@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Das Volk, das im Finstern ging, ⟨hat⟩ ein großes Licht gesehen. ⟨Die⟩ Bewohner im Land des Todesschattens — über ⟨sie⟩ hat Licht geglänzt.",
+  "tokens": [
+    {
+      "surface": "הָעָם",
+      "gloss": "Das Volk"
+    },
+    {
+      "surface": "הַהֹלְכִים",
+      "gloss": "das ging"
+    },
+    {
+      "surface": "בַּחֹשֶׁךְ",
+      "gloss": "im Finstern"
+    },
+    {
+      "surface": "רָאוּ",
+      "gloss": "⟨hat⟩ gesehen"
+    },
+    {
+      "surface": "אוֹר",
+      "gloss": "ein Licht"
+    },
+    {
+      "surface": "גָּדוֹל",
+      "gloss": "großes"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "צַלְמָוֶת",
+      "gloss": "des Todesschattens"
+    },
+    {
+      "surface": "אוֹר",
+      "gloss": "Licht"
+    },
+    {
+      "surface": "נָגַהּ",
+      "gloss": "hat geglänzt"
+    },
+    {
+      "surface": "עֲלֵיהֶם",
+      "gloss": "über ⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T08:50:14.980325057Z",
+  "model": "glm-5.2"
+}

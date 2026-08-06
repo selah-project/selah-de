@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Denn Grimm ⟨ist⟩ bei JHWH über alle Völker, und Zorn über all ihre Heerscharen. Er hat sie dem Bann geweiht, er hat sie dem Schlachten übergeben.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "Grimm"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bei JHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "und Zorn"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ihre Heerscharen"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "er hat sie dem Bann geweiht"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "er hat sie übergeben"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "dem Schlachten"
+    }
+  ],
+  "timestamp": "2026-08-05T21:50:48.223208875Z",
+  "model": "glm-5.2"
+}

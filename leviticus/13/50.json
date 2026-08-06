@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und der Kohen sieht ⟨את⟩ den Makel an und schließt ⟨את⟩ den Makel sieben Tage ein.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "und sieht an"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Makel"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "den Makel"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "und schließt ein"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Makel"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "den Makel"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T02:10:40.564398976Z",
+  "model": "glm-5.2"
+}

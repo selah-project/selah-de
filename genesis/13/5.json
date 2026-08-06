@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und auch Lot, der mit Awram ging ⟨את⟩, ⟨hatte⟩ Schafe und Rinder und Zelte.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Und auch"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "der ging"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "mit Awram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨hatte⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "Schafe"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "und Rinder"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "und Zelte"
+    }
+  ],
+  "timestamp": "2026-08-05T17:31:35.187684777Z",
+  "model": "glm-5.2"
+}

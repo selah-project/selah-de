@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und du wirst essen und satt werden, und du wirst JHWH, deinen Elohim, segnen ⟨über⟩ die gute Erde, die er dir gegeben hat.",
+  "tokens": [
+    {
+      "surface": "וְאָכַלְתָּ֖",
+      "gloss": "Und du wirst essen"
+    },
+    {
+      "surface": "וְשָׂבָ֑עְתָּ",
+      "gloss": "und satt werden"
+    },
+    {
+      "surface": "וּבֵֽרַכְתָּ֙",
+      "gloss": "und du wirst segnen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֔יךָ",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨über⟩"
+    },
+    {
+      "surface": "הָאָ֥רֶץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "הַטֹּבָ֖ה",
+      "gloss": "die gute"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נָֽתַן",
+      "gloss": "er gegeben hat"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T00:42:37.078448934Z",
+  "model": "glm-5.2"
+}

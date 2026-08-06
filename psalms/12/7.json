@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Worte JHWHs — reine Worte, Silber geläutert in ⟨einem⟩ Schmelzofen zur Erde, siebenmal gereinigt.",
+  "tokens": [
+    {
+      "surface": "אִֽמֲר֣וֹת",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "יְהוָה֮",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אֲמָר֪וֹת",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "טְהֹ֫ר֥וֹת",
+      "gloss": "reine"
+    },
+    {
+      "surface": "כֶּ֣סֶף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "צָ֭רוּף",
+      "gloss": "geläutert"
+    },
+    {
+      "surface": "בַּעֲלִ֣יל",
+      "gloss": "in ⟨einem⟩ Schmelzofen"
+    },
+    {
+      "surface": "לָאָ֑רֶץ",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "מְ֝זֻקָּ֗ק",
+      "gloss": "gereinigt"
+    },
+    {
+      "surface": "שִׁבְעָתָֽיִם",
+      "gloss": "siebenmal"
+    }
+  ],
+  "timestamp": "2026-08-06T19:51:36.279139475Z",
+  "model": "glm-5.2"
+}

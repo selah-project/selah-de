@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und seine Schwester stellte sich hin, von ferne, um zu erkennen, was ihm geschehen würde.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "Und … stellte sich hin"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "seine Schwester"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "von ferne"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "um zu erkennen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "geschehen würde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T14:49:43.853852685Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "und um ⟨die⟩ Söhne Jisraels zu lehren ⟨את⟩ alle Satzungen, die JHWH zu ihnen geredet ⟨hat⟩ durch die Hand Mosches.",
+  "tokens": [
+    {
+      "surface": "וּלְהוֹרֹ֖ת",
+      "gloss": "und um zu lehren"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "אֵ֚ת",
+      "gloss": "⟨את⟩",
+      "marks": "alle Satzungen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הַ֣חֻקִּ֔ים",
+      "gloss": "Satzungen"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "דִּבֶּ֧ר",
+      "gloss": "geredet"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֲלֵיהֶ֖ם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "מֹשֶֽׁה",
+      "gloss": "Mosches"
+    }
+  ],
+  "timestamp": "2026-08-06T08:21:45.728410542Z",
+  "model": "glm-5.2"
+}

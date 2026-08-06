@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 149,
+  "translation": "ihre Könige zu binden mit Fesseln und ihre Edlen mit eisernen Ketten,",
+  "tokens": [
+    {
+      "surface": "לֶאְסֹ֣ר",
+      "gloss": "zu binden"
+    },
+    {
+      "surface": "מַלְכֵיהֶ֣ם",
+      "gloss": "ihre Könige"
+    },
+    {
+      "surface": "בְּזִקִּ֑ים",
+      "gloss": "mit Fesseln"
+    },
+    {
+      "surface": "וְ֝נִכְבְּדֵיהֶ֗ם",
+      "gloss": "und ihre Edlen"
+    },
+    {
+      "surface": "בְּכַבְלֵ֥י",
+      "gloss": "mit Ketten"
+    },
+    {
+      "surface": "בַרְזֶֽל",
+      "gloss": "eisernen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:46.976370034Z",
+  "model": "glm-5.2"
+}

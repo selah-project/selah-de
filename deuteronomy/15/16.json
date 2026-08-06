@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und es soll geschehen: wenn er zu dir sagt: „Ich will nicht von dir weggehen“, weil er dich und ⟨את⟩ dein Haus liebt, weil es gut für ihn bei dir ist —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Und es soll geschehen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "er sagt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "will ich weggehen"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "von dir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "er liebt dich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "dein Haus"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dein Haus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "es gut ist"
+    },
+    {
+      "surface": "לו",
+      "gloss": "für ihn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bei dir"
+    }
+  ],
+  "timestamp": "2026-08-05T20:46:48.210825967Z",
+  "model": "glm-5.2"
+}

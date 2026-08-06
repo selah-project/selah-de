@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Ist das nicht ⟨das⟩, woraus mein Herr trinkt, und womit er ⟨ja⟩ wahrsagt? Böses habt ihr getan, das ihr getan habt.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ist ⟨das⟩ nicht"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woraus"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "trinkt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daraus"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und er"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "⟨ja⟩ wahrsagt"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "wahrsagt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "damit"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "Böses habt ihr getan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ihr getan habt"
+    }
+  ],
+  "timestamp": "2026-08-06T00:10:39.271814726Z",
+  "model": "glm-5.2"
+}

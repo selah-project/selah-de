@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und die Beschwörer machten so mit ihren Heimkünsten, um ⟨את⟩ die Läuse hervorzubringen, aber sie vermochten ⟨es⟩ nicht. Und ⟨es⟩ waren die Läuse an ⟨dem⟩ Menschen und an ⟨dem⟩ Vieh.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "und sie machten"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "die Beschwörer"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "mit ihren Heimkünsten"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "um hervorzubringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Läuse"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "die Läuse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sie vermochten"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "und ⟨es⟩ waren"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "die Läuse"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "an ⟨dem⟩ Menschen"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "und an ⟨dem⟩ Vieh"
+    }
+  ],
+  "timestamp": "2026-08-06T09:45:24.037391787Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Denn ich selbst habe erkannt, dass groß ist JHWH, und unser Adonai über allen Elohim.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "ich selbst"
+    },
+    {
+      "surface": "יָ֭דַעְתִּי",
+      "gloss": "habe erkannt"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "גָד֣וֹל",
+      "gloss": "groß"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וַ֝אֲדֹנֵ֗ינוּ",
+      "gloss": "und unser Adonai"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "über allen"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:51.556909277Z",
+  "model": "glm-5.2"
+}

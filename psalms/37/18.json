@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "JHWH kennt die Tage der Vollkommenen, und ihr Erbteil ⟨wird⟩ für ewig ⟨bestehen⟩.",
+  "tokens": [
+    {
+      "surface": "יוֹדֵ֣עַ",
+      "gloss": "kennt"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יְמֵ֣י",
+      "gloss": "die Tage"
+    },
+    {
+      "surface": "תְמִימִ֑ם",
+      "gloss": "der Vollkommenen"
+    },
+    {
+      "surface": "וְ֝נַחֲלָתָ֗ם",
+      "gloss": "und ihr Erbteil"
+    },
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "תִּהְיֶֽה",
+      "gloss": "⟨wird bestehen⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:06.541765583Z",
+  "model": "glm-5.2"
+}

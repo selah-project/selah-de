@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Siehe, Handbreiten hast du meine Tage gemacht, und mein Lebenslauf ⟨ist⟩ wie nichts vor dir; nur ein Hauch ⟨ist⟩ jeder Mensch, ⟨der⟩ dasteht. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "Handbreiten"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "hast du gemacht"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "meine Tage"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "und mein Lebenslauf"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "wie nichts"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hauch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨der⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "dasteht"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:09.233762607Z",
+  "model": "glm-5.2"
+}

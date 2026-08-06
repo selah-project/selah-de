@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "damit ich ⟨את⟩ Haus Jisraël bei ihrem Herzen ergreife — ⟨die⟩ sich von mir entfremdet haben, durch ihre Götzen, alle miteinander.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ich ergreife"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haus Jisraël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "bei ihrem Herzen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sich entfremdet haben"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "durch ihre Götzen"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alle miteinander"
+    }
+  ],
+  "timestamp": "2026-08-06T03:46:07.221821518Z",
+  "model": "glm-5.2"
+}

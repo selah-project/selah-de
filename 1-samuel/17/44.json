@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und der Pelischt sagte zu Dawid: „Komm zu mir, und ich werde ⟨את⟩ dein Fleisch den Vögeln des Himmels und dem Vieh des Feldes geben.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "der Pelischt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Komm"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "und ich werde geben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Fleisch"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "dein Fleisch"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "den Vögeln"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "und dem Vieh"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des Feldes"
+    }
+  ],
+  "timestamp": "2026-08-06T22:38:59.632100067Z",
+  "model": "glm-5.2"
+}

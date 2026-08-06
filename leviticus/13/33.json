@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und ⟨er⟩ soll sich scheren, aber ⟨את⟩ den Netek soll er nicht scheren; und der Kohen soll ⟨את⟩ den Netek sieben Tage ⟨lang⟩ ein zweites Mal einschließen.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "und soll sich scheren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "den Netek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "soll er scheren"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "und soll einschließen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "den Netek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ein zweites Mal"
+    }
+  ],
+  "timestamp": "2026-08-06T08:22:21.537507583Z",
+  "model": "glm-5.2"
+}

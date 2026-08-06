@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "„Wenn ich hineingehe ins Zelt meines Hauses, wenn ich hinaufsteige auf das Bett meines Lagers —",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "אָ֭בֹא",
+      "gloss": "ich hineingehe"
+    },
+    {
+      "surface": "בְּאֹ֣הֶל",
+      "gloss": "ins Zelt"
+    },
+    {
+      "surface": "בֵּיתִ֑י",
+      "gloss": "meines Hauses"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "אֶ֝עֱלֶ֗ה",
+      "gloss": "ich hinaufsteige"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "עֶ֥רֶשׂ",
+      "gloss": "das Bett"
+    },
+    {
+      "surface": "יְצוּעָֽי",
+      "gloss": "meines Lagers"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:06.767060493Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Gesegnet ⟨wirst du⟩ sein mehr als all ⟨die⟩ Völker — ⟨es⟩ wird nicht sein in dir ein Unfruchtbarer und eine Unfruchtbare, auch nicht unter deinem Vieh.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "gesegnet"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨wirst du⟩ sein"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mehr als all"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "⟨die⟩ Völker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨es⟩ wird sein"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in dir"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "ein Unfruchtbarer"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "und eine Unfruchtbare"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "auch nicht unter deinem Vieh"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:14.934289097Z",
+  "model": "glm-5.2"
+}

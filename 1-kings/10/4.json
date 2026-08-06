@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ⟨als⟩ die Königin von Schewa ⟨את⟩ alle Weisheit Schelomos sah und das Haus, das er gebaut hatte,",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Und ⟨als⟩ sah"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "⟨die⟩ Königin"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "von Schewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomos"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "und das Haus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "er gebaut hatte"
+    }
+  ],
+  "timestamp": "2026-08-05T21:28:46.393985253Z",
+  "model": "glm-5.2"
+}

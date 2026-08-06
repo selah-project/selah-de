@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 21:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Wenn du zum Krieg ausziehst gegen deine Feinde und JHWH, dein Elohim, sie in deine Hand gibt und du Gefangene führst —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "du ausziehst"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "zum Krieg"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "deine Feinde"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "und gibt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in deine Hand"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "und du führst"
+    },
+    {
+      "surface": "שביו",
+      "gloss": "Gefangene"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:12.535650315Z",
+  "model": "glm-5.2"
+}

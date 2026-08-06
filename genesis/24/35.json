@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und JHWH hat ⟨את⟩ meinen Herrn sehr gesegnet, und er ist groß geworden, und er hat ihm gegeben Schafe und Rinder, Silber und Gold, Knechte und Mägde, Kamele und Esel.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Und JHWH"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "hat gesegnet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Herrn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "meinen Herrn"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "und er ist groß geworden"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und er hat gegeben"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "Schafe"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "und Rinder"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "und Gold"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "Knechte"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "und Mägde"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "Kamele"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "und Esel"
+    }
+  ],
+  "timestamp": "2026-08-06T00:06:40.915172155Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und der König von Aschur hörte auf ihn, und der König von Aschur zog hinauf nach Dammeşek, und ⟨er⟩ ergriff sie, und ⟨er⟩ führte ⟨sie⟩ gefangen nach Kir, und ⟨את⟩ Rezin tötete er.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "und hörte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "von Aschur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und zog hinauf"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "von Aschur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammeşek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "und ergriff sie"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "und führte gefannen"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "nach Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rezin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Rezin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "tötete"
+    }
+  ],
+  "timestamp": "2026-08-06T19:42:22.206706181Z",
+  "model": "glm-5.2"
+}

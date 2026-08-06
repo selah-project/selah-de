@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Du aber geh ans Ende, und du wirst ruhen, und du wirst aufstehen zu deinem Los am Ende der Tage.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Du aber"
+    },
+    {
+      "surface": "לך",
+      "gloss": "geh"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "ans Ende"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "und du wirst ruhen"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "und du wirst aufstehen"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "zu deinem Los"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "am Ende"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "der Tage"
+    }
+  ],
+  "timestamp": "2026-08-05T23:37:29.215187418Z",
+  "model": "glm-5.2"
+}

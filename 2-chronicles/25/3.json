@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und es geschah, als die Königsherrschaft bei ihm fest war, da tötete er ⟨את⟩ seine Knechte, die den König, seinen Vater, erschlagen hatten.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "als"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fest war"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "die Königsherrschaft"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "bei ihm"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "da tötete er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Knechte"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seine Knechte"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "die ⟨den⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den König"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seinen Vater"
+    }
+  ],
+  "timestamp": "2026-08-05T23:59:39.639987215Z",
+  "model": "glm-5.2"
+}

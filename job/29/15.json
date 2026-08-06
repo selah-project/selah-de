@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Augen war ich dem Blinden, und Füße ⟨war⟩ ich dem Lahmen.",
+  "tokens": [
+    {
+      "surface": "עֵינַ֣יִם",
+      "gloss": "Augen"
+    },
+    {
+      "surface": "הָ֭יִיתִי",
+      "gloss": "war ich"
+    },
+    {
+      "surface": "לַֽעִוֵּ֑ר",
+      "gloss": "dem Blinden"
+    },
+    {
+      "surface": "וְרַגְלַ֖יִם",
+      "gloss": "und Füße"
+    },
+    {
+      "surface": "לַפִּסֵּ֣חַ",
+      "gloss": "dem Lahmen"
+    },
+    {
+      "surface": "אָֽנִי",
+      "gloss": "ich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:22:19.772950252Z",
+  "model": "glm-5.2"
+}

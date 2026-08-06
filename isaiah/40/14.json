@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Mit ⟨את⟩ wem hat er beraten, dass er ihn verstehen ließ, und dass er ihn belehrte im Pfad des Rechts, und dass er ihn belehrte Erkenntnis, und den Weg der Einsichten — ⟨den⟩ ließ er ihn wissen?",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wem"
+    },
+    {
+      "surface": "מִ֤י",
+      "gloss": "wem"
+    },
+    {
+      "surface": "נוֹעָץ֙",
+      "gloss": "hat er beraten"
+    },
+    {
+      "surface": "וַיְבִינֵ֔הוּ",
+      "gloss": "dass er ihn verstehen ließ"
+    },
+    {
+      "surface": "וַֽיְלַמְּדֵ֖הוּ",
+      "gloss": "und dass er ihn belehrte"
+    },
+    {
+      "surface": "בְּאֹ֣רַח",
+      "gloss": "im Pfad"
+    },
+    {
+      "surface": "מִשְׁפָּ֑ט",
+      "gloss": "des Rechts"
+    },
+    {
+      "surface": "וַיְלַמְּדֵ֣הוּ",
+      "gloss": "und dass er ihn belehrte"
+    },
+    {
+      "surface": "דַ֔עַת",
+      "gloss": "Erkenntnis"
+    },
+    {
+      "surface": "וְדֶ֥רֶךְ",
+      "gloss": "und den Weg"
+    },
+    {
+      "surface": "תְּבוּנ֖וֹת",
+      "gloss": "der Einsichten"
+    },
+    {
+      "surface": "יוֹדִיעֶֽנּוּ",
+      "gloss": "ließ er ihn wissen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:16:49.168275432Z",
+  "model": "glm-5.2"
+}

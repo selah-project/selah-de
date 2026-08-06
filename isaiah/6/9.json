@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ⟨er⟩ sprach: Geh hin und sage ⟨zu⟩ diesem Volk: Hören werdet ihr, immerdar hören, doch nicht verstehen; und sehen werdet ihr, immerdar sehen, doch nicht erkennen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh hin"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "und sage"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨zu⟩ ⟨diesem⟩ Volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Hören werdet ihr"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "immerdar hören"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "doch nicht"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "verstehen"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "und sehen werdet ihr"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "immerdar sehen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "doch nicht"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "erkennen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:43:53.055341590Z",
+  "model": "glm-5.2"
+}

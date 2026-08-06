@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Ein Geschrei um ⟨den⟩ Wein ⟨ist⟩ auf den Straßen, verdunkelt ⟨ist⟩ alle Freude, verbannt ⟨ist⟩ der Jubel der Erde.",
+  "tokens": [
+    {
+      "surface": "צְוָחָ֥ה",
+      "gloss": "Ein Geschrei"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "um"
+    },
+    {
+      "surface": "הַיַּ֖יִן",
+      "gloss": "⟨den⟩ Wein"
+    },
+    {
+      "surface": "בַּֽחוּצ֑וֹת",
+      "gloss": "auf den Straßen"
+    },
+    {
+      "surface": "עָֽרְבָה֙",
+      "gloss": "verdunkelt ⟨ist⟩"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שִׂמְחָ֔ה",
+      "gloss": "Freude"
+    },
+    {
+      "surface": "גָּלָ֖ה",
+      "gloss": "verbannt ⟨ist⟩"
+    },
+    {
+      "surface": "מְשׂ֥וֹשׂ",
+      "gloss": "der Jubel"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T01:44:18.824726669Z",
+  "model": "glm-5.2"
+}

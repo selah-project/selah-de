@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Stein und Stein, Efa und Efa — ⟨ein⟩ Gräuel für JHWH, beide zusammen.",
+  "tokens": [
+    {
+      "surface": "אֶ֣בֶן",
+      "gloss": "Stein"
+    },
+    {
+      "surface": "וָ֭אֶבֶן",
+      "gloss": "und Stein"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "Efa"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "und Efa"
+    },
+    {
+      "surface": "תּוֹעֲבַ֥ת",
+      "gloss": "Gräuel für"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "שְׁנֵיהֶֽם",
+      "gloss": "beide"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:22.758415588Z",
+  "model": "glm-5.2"
+}

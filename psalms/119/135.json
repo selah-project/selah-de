@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Lass dein Angesicht leuchten über deinem Knecht, und lehre mich ⟨את⟩ deine Bestimmungen.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "dein Angesicht"
+    },
+    {
+      "surface": "האר",
+      "gloss": "lass leuchten"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "über deinem Knecht"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "und lehre mich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Bestimmungen"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "deine Bestimmungen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:45.716057551Z",
+  "model": "glm-5.2"
+}

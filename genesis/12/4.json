@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und Awram ging, wie JHWH zu ihm geredet hatte, und Lot ging mit ihm; und Awram ⟨war⟩ ein Sohn von fünf und siebzig Jahren, als er aus Charan auszog.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "und ⟨er⟩ ging"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geredet hatte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und ⟨er⟩ ging"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "und Awram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ein Sohn"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "von fünf"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "und siebzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨Jahren⟩"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "als er auszog"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "aus Charan"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:51.779533172Z",
+  "model": "glm-5.2"
+}

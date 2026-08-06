@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "Auf den Händen werden sie dich tragen, damit dein Fuß nicht an einen Stein stößt.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Auf"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "den Händen"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "werden sie dich tragen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "stößt"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "an einen Stein"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "dein Fuß"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:12.003605259Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Denn der Eifer um dein Haus hat mich gefressen, und die Schmähungen deiner Schmäher sind auf mich gefallen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "der Eifer"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "um dein Haus"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "hat mich gefressen"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "und die Schmähungen"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "deiner Schmäher"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sind gefallen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "auf mich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:17.886631448Z",
+  "model": "glm-5.2"
+}

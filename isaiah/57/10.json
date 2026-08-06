@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 57,
+  "translation": "Bei der Menge deiner Wege bist du erschöpft ⟨—⟩ du sagtest nicht: „Es ist hopflos.\" Die Lebenskraft deiner Hand hast du gefunden; deshalb bist du nicht schwach geworden.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "Bei der Menge"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "deiner Wege"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "bist du erschöpft"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "du sagtest"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "Es ist hopflos"
+    },
+    {
+      "surface": "חית",
+      "gloss": "Die Lebenskraft"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deiner Hand"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "hast du gefunden"
+    },
+    {
+      "surface": "על",
+      "gloss": "deshalb"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨deshalb⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "bist du schwach geworden"
+    }
+  ],
+  "timestamp": "2026-08-06T22:43:15.847952404Z",
+  "model": "glm-5.2"
+}

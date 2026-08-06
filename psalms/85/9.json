@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 85,
+  "translation": "Ich will hören, was der El, JHWH, reden wird, denn ⟨er⟩ wird Schalom reden zu seinem Volk und zu seinen Frommen — und ⟨mögen⟩ sie nicht zurückkehren zur Torheit.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "ich will hören"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "reden wird"
+    },
+    {
+      "surface": "האל",
+      "gloss": "der El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "⟨er⟩ wird reden"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "seinem Volk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "seinen Frommen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨mögen⟩ nicht"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "sie zurückkehren"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "zur Torheit"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:55.591286796Z",
+  "model": "glm-5.2"
+}

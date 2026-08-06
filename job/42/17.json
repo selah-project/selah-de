@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und Ijjow starb, alt und gesättigt an Tagen.",
+  "tokens": [
+    {
+      "surface": "וַיָּמָת",
+      "gloss": "Und ⟨er⟩ starb"
+    },
+    {
+      "surface": "אִיּוֹב",
+      "gloss": "Ijjow"
+    },
+    {
+      "surface": "זָקֵן",
+      "gloss": "alt"
+    },
+    {
+      "surface": "וּשְׂבַע",
+      "gloss": "und gesättigt"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "an Tagen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:37:17.728505740Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und JHWH sprach zu Mosche: Geh zu Paro, und rede zu ihm: So spricht JHWH, der Elohim der Hebräer: Entlass ⟨את⟩ mein Volk, damit sie mir dienen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "und rede"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "der Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "der Hebräer"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "entlass"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "damit sie mir dienen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:12.819892778Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 29:5",
+  "book": "job",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Als Schaddai noch bei mir war, ⟨als⟩ meine Knaben um mich her ⟨waren⟩.",
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "als … noch"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Schaddai"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bei mir"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "um mich her"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "meine Knaben"
+    }
+  ],
+  "timestamp": "2026-08-06T10:37:43.400495073Z",
+  "model": "glm-5.2"
+}

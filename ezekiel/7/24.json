@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 7:24",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ich werde die Bösen der Nationen herbringen, und sie werden ⟨את⟩ ihre Häuser in Besitz nehmen, und ich werde ⟨den⟩ Stolz der Starken aufhören lassen, und ihre Heiligtümer werden entweiht werden.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "und ich werde herbringen"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "die Bösen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "der Nationen"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "und sie werden in Besitz nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Häuser"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "ihre Häuser"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "und ich werde aufhören lassen"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "⟨den⟩ Stolz"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "der Starken"
+    },
+    {
+      "surface": "ונחלו",
+      "gloss": "und ⟨sie⟩ werden entweiht werden"
+    },
+    {
+      "surface": "מקדשיהם",
+      "gloss": "ihre Heiligtümer"
+    }
+  ],
+  "timestamp": "2026-08-05T22:17:41.070615412Z",
+  "model": "glm-5.2"
+}

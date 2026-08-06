@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "JHWH, Elohim der Scharen, wer ist wie du, mächtiger Jah? Und deine Treue rings um dich.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹ֘הֵ֤י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צְבָא֗וֹת",
+      "gloss": "der Scharen"
+    },
+    {
+      "surface": "מִֽי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "כָֽמ֖וֹךָ",
+      "gloss": "ist wie du"
+    },
+    {
+      "surface": "חֲסִ֥ין",
+      "gloss": "mächtiger"
+    },
+    {
+      "surface": "יָ֑הּ",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "וֶ֝אֱמֽוּנָתְךָ֗",
+      "gloss": "und deine Treue"
+    },
+    {
+      "surface": "סְבִיבוֹתֶֽיךָ",
+      "gloss": "rings um dich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:29.269215342Z",
+  "model": "glm-5.2"
+}

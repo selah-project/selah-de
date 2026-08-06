@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "Deine Kohen mögen sich kleiden in Zedek, und deine Chassidim mögen jauchzen.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "Deine Kohen"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "mögen sich kleiden"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "in Zedek"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "und deine Chassidim"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "mögen jauchzen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:51:27.447433368Z",
+  "model": "glm-5.2"
+}

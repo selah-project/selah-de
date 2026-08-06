@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und die Männer, die nicht starben, wurden geschlagen mit Tumoren, und das Schreien der Stadt stieg ⟨bis⟩ zum Himmel.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Und die Männer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "starben"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "wurden geschlagen"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "mit Tumoren"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "und stieg"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "das Schreien"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨bis⟩ zum Himmel"
+    }
+  ],
+  "timestamp": "2026-08-06T20:23:37.638021468Z",
+  "model": "glm-5.2"
+}

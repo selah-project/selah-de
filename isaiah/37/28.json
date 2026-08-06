@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und ⟨dein⟩ Sitzen und ⟨dein⟩ Ausgehen und ⟨dein⟩ Kommen habe ich gekannt, und ⟨את⟩ dein Toben gegen mich.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Und dein Sitzen"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "und dein Ausgehen"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "und dein Kommen"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "habe ich gekannt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dein Toben"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "dein Toben"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gegen mich"
+    }
+  ],
+  "timestamp": "2026-08-06T06:00:49.422164220Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Erhebt JHWH mit mir, und wir wollen seinen Namen gemeinsam erhöhen!",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Erhebt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "mit mir"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "und wir wollen erhöhen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "gemeinsam"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:30.469606206Z",
+  "model": "glm-5.2"
+}

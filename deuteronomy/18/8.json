@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Anteil für Anteil sollen sie essen, außer ⟨dem⟩, was ⟨ihm⟩ aus seinem Verkauf ⟨zukommt⟩, nach den Vaterhäusern.",
+  "tokens": [
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "Anteil"
+    },
+    {
+      "surface": "כְּחֵ֖לֶק",
+      "gloss": "für Anteil"
+    },
+    {
+      "surface": "יֹאכֵ֑לוּ",
+      "gloss": "sollen sie essen"
+    },
+    {
+      "surface": "לְבַ֥ד",
+      "gloss": "außer"
+    },
+    {
+      "surface": "מִמְכָּרָ֖יו",
+      "gloss": "aus seinem Verkauf"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "הָאָבֽוֹת",
+      "gloss": "den Vaterhäusern"
+    }
+  ],
+  "timestamp": "2026-08-06T22:34:08.039645413Z",
+  "model": "glm-5.2"
+}

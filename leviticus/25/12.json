@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Denn ein Jobel ist er — heilig soll er euch sein. Vom Feld sollt ihr ⟨את⟩ seinen Ertrag essen.",
+  "tokens": [
+    {
+      "surface": "כִּ֚י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יוֹבֵ֣ל",
+      "gloss": "ein Jobel"
+    },
+    {
+      "surface": "הִ֔וא",
+      "gloss": "ist er"
+    },
+    {
+      "surface": "קֹ֖דֶשׁ",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "תִּהְיֶ֣ה",
+      "gloss": "soll er sein"
+    },
+    {
+      "surface": "לָכֶ֑ם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "Vom"
+    },
+    {
+      "surface": "הַ֨שָּׂדֶ֔ה",
+      "gloss": "Feld"
+    },
+    {
+      "surface": "תֹּאכְל֖וּ",
+      "gloss": "sollt ihr essen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Ertrag"
+    },
+    {
+      "surface": "תְּבוּאָתָֽהּ",
+      "gloss": "seinen Ertrag"
+    }
+  ],
+  "timestamp": "2026-08-06T02:14:17.056794142Z",
+  "model": "glm-5.2"
+}

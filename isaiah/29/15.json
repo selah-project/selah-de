@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Wehe ⟨denen⟩, die tief verbergen ⟨Ratschluss⟩ vor JHWH, und ⟨deren⟩ Werke im Finstern sind, und die sagen: „Wer sieht uns, und wer kennt uns?“",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "⟨denen⟩, die tief verbergen"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "vor JHWH"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "⟨Ratschluss⟩"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "Ratschluss"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und ⟨sind⟩"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "im Finstern"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "⟨deren⟩ Werke"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "und die sagen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "sieht uns"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "und wer"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "kennt uns"
+    }
+  ],
+  "timestamp": "2026-08-05T21:49:52.927246965Z",
+  "model": "glm-5.2"
+}

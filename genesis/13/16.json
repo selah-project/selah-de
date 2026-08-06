@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und ich werde deinen Samen ⟨את⟩ setzen wie den Staub der Erde — sodass, wenn ein Mann ⟨es⟩ zu zählen vermag ⟨את⟩ den Staub der Erde, auch dein Same gezählt ⟨werden wird⟩.",
+  "tokens": [
+    {
+      "surface": "וְשַׂמְתִּ֥י",
+      "gloss": "und ich werde setzen"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Samen"
+    },
+    {
+      "surface": "זַרְעֲךָ֖",
+      "gloss": "deinen Samen"
+    },
+    {
+      "surface": "כַּעֲפַ֣ר",
+      "gloss": "wie den Staub"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "sodass"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יוּכַ֣ל",
+      "gloss": "zu zählen vermag"
+    },
+    {
+      "surface": "אִ֗ישׁ",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "לִמְנוֹת֙",
+      "gloss": "⟨es⟩ zu zählen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Staub der Erde"
+    },
+    {
+      "surface": "עֲפַ֣ר",
+      "gloss": "Staub"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "גַּֽם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "זַרְעֲךָ֖",
+      "gloss": "dein Same"
+    },
+    {
+      "surface": "יִמָּנֶֽה",
+      "gloss": "gezählt ⟨werden wird⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T00:04:54.202712654Z",
+  "model": "glm-5.2"
+}

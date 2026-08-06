@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "Um Dawids willen, deines Knechtes, wende nicht das Gesicht deines Maschiach ⟨ab⟩.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Um … willen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "deines Knechtes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "wende … ⟨ab⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "das Gesicht"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "deines Maschiach"
+    }
+  ],
+  "timestamp": "2026-08-06T06:51:27.447664661Z",
+  "model": "glm-5.2"
+}

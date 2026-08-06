@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "So spricht JHWH, ⟨der⟩ ⟨ein⟩en Weg im Meer gibt und in mächtigen Wassern ⟨einen⟩ Pfad —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "⟨der⟩ gibt"
+    },
+    {
+      "surface": "בים",
+      "gloss": "im Meer"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨ein⟩en Weg"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "und in Wassern"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "mächtigen"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "⟨einen⟩ Pfad"
+    }
+  ],
+  "timestamp": "2026-08-06T01:49:38.945246457Z",
+  "model": "glm-5.2"
+}

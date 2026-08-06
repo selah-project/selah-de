@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 12:1",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Gerecht bist du, JHWH, denn ⟨ich⟩ will mit dir rechten; doch will ich ⟨über⟩ Rechtsordnungen mit dir reden. Warum hat der Weg der Frevler Erfolg? ⟨Warum⟩ ruhen alle Verräter ⟨im⟩ Verrat?",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Gerecht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "will ⟨ich⟩ rechten"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "אך",
+      "gloss": "doch"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "⟨über⟩ Rechtsordnungen"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "will ⟨ich⟩ reden"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "dich"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "der Weg"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "צלחה",
+      "gloss": "hat Erfolg"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ruhen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "Verräter"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "⟨im⟩ Verrat"
+    }
+  ],
+  "timestamp": "2026-08-06T06:07:39.956460297Z",
+  "model": "glm-5.2"
+}

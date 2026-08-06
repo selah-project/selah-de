@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Hüte dich ⟨davor⟩, dass du ⟨את⟩ den Lewi nicht verlässt, alle deine Tage, auf deinem Grund und Boden.",
+  "tokens": [
+    {
+      "surface": "הִשָּׁמֶר",
+      "gloss": "Hüte dich"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "für dich"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "dass … nicht"
+    },
+    {
+      "surface": "תַּעֲזֹב",
+      "gloss": "du verlässt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Lewi"
+    },
+    {
+      "surface": "הַלֵּוִי",
+      "gloss": "den Lewi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יָמֶיךָ",
+      "gloss": "deine Tage"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "אַדְמָתֶךָ",
+      "gloss": "deinem Grund und Boden"
+    }
+  ],
+  "timestamp": "2026-08-06T22:34:01.028024051Z",
+  "model": "glm-5.2"
+}

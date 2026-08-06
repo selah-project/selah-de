@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "der euch herausgeführt hat aus dem Land Mizrajim, um euch zu einem Elohim zu sein — ich ⟨bin⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "הַמּוֹצִ֤יא",
+      "gloss": "der herausgeführt hat"
+    },
+    {
+      "surface": "אֶתְכֶם֙",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "לִהְי֥וֹת",
+      "gloss": "um zu sein"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "לֵאלֹהִ֑ים",
+      "gloss": "zu einem Elohim"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T02:12:32.203950341Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "und Jirmeja und Jachasië'el und Jochanan und Josawad, der Gederatit;",
+  "tokens": [
+    {
+      "surface": "וְיִרְמְיָ֤ה",
+      "gloss": "und Jirmeja"
+    },
+    {
+      "surface": "וְיַחֲזִיאֵל֙",
+      "gloss": "und Jachasië'el"
+    },
+    {
+      "surface": "וְי֣וֹחָנָ֔ן",
+      "gloss": "und Jochanan"
+    },
+    {
+      "surface": "וְיוֹזָבָ֖ד",
+      "gloss": "und Josawad"
+    },
+    {
+      "surface": "הַגְּדֵרָתִֽי",
+      "gloss": "der Gederatit"
+    }
+  ],
+  "timestamp": "2026-08-06T09:33:46.505453584Z",
+  "model": "glm-5.2"
+}

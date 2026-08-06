@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Denn siehe, die Frevler spannen ⟨den⟩ Bogen, sie legen ihren Pfeil auf die Sehne, um im Finstern zu schießen auf die, die aufrichtigen Herzens sind.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "die Frevler"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "spannen"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "Bogen"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "legen bereit"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "ihren Pfeil"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "die Sehne"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "zu schießen"
+    },
+    {
+      "surface": "במו",
+      "gloss": "im"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "Finstern"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "auf die Aufrichtigen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herzens"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:54.874190957Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Mordechai schrieb ⟨את⟩ diese Worte, und er sandte Briefe an alle Jehudim, die in allen Provinzen des Königs Achaschwerosch ⟨waren⟩, die Nahen und die Fernen.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "und schrieb"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Worte"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "und sandte"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "Briefe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "die Jehudim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in allen"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "Provinzen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achaschwerosch"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "die Nahen"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "und die Fernen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:45:42.061552836Z",
+  "model": "glm-5.2"
+}

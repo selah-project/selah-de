@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Von ihrem Fleisch sollt ihr nicht essen, und an ihrem Aas sollt ihr nicht berühren; unrein sind sie ⟨für⟩ euch.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "von ihrem Fleisch"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sollt ihr essen"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "und an ihrem Aas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "sollt ihr berühren"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "unrein"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sind sie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨für⟩ euch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:19.734152721Z",
+  "model": "glm-5.2"
+}

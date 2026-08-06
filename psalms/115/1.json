@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "Nicht uns, JHWH, nicht uns, sondern deinem Namen gib Ehre, über deinem Chessed, über deiner Emet.",
+  "tokens": [
+    {
+      "surface": "לֹ֤א",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "לָ֥נוּ",
+      "gloss": "uns"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לֹ֫א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לָ֥נוּ",
+      "gloss": "uns"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "לְ֭שִׁמְךָ",
+      "gloss": "deinem Namen"
+    },
+    {
+      "surface": "תֵּ֣ן",
+      "gloss": "gib"
+    },
+    {
+      "surface": "כָּב֑וֹד",
+      "gloss": "Ehre"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "חַ֝סְדְּךָ֗",
+      "gloss": "deinem Chessed"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "אֲמִתֶּֽךָ",
+      "gloss": "deiner Emet"
+    }
+  ],
+  "timestamp": "2026-08-06T21:24:35.450335423Z",
+  "model": "glm-5.2"
+}

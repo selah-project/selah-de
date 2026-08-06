@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und es soll euch zur Hut ⟨sein⟩ bis zum Vierzehnten Tag ⟨dieses⟩ Monats; und schlachten soll es die ganze Versammlung der Gemeinde Jisraels zwischen den Abenden.",
+  "tokens": [
+    {
+      "surface": "וְהָיָה",
+      "gloss": "Und es soll sein"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "לְמִשְׁמֶרֶת",
+      "gloss": "zur Hut"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "אַרְבָּעָה",
+      "gloss": "Vier"
+    },
+    {
+      "surface": "עָשָׂר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "לַחֹדֶשׁ",
+      "gloss": "Monats"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "וְשָׁחֲטוּ",
+      "gloss": "und schlachten sollen"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩ es",
+      "marks": "die ganze Versammlung der Gemeinde Jisraels — gemeint: das Tier"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "קְהַל",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "עֲדַת",
+      "gloss": "der Gemeinde"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "בֵּין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "הָעַרְבָּיִם",
+      "gloss": "den Abenden"
+    }
+  ],
+  "timestamp": "2026-08-05T20:09:31.927499674Z",
+  "model": "glm-5.2"
+}

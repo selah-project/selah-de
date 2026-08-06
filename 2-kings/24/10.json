@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Zu jener Zeit zogen die Knechte Nebukadnezars, des Königs von Bawel, gegen Jeruschalajim herauf, und die Stadt kam ⟨in⟩ Belagerung.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "zu der Zeit"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "jener"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "zogen herauf"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die Knechte"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnezars"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "von Bawel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "gegen Jeruschalajim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "und ⟨sie⟩ kam"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "⟨in⟩ Belagerung"
+    }
+  ],
+  "timestamp": "2026-08-05T21:41:16.005571437Z",
+  "model": "glm-5.2"
+}

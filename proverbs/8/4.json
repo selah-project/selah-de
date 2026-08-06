@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Zu euch, ihr Männer, rufe ich, und ⟨meine⟩ Stimme ⟨geht⟩ zu den Menschenkindern.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "Zu euch"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ihr Männer"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "rufe ich"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "und ⟨meine⟩ Stimme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Kindern"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "des Menschen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:09:50.651069032Z",
+  "model": "glm-5.2"
+}

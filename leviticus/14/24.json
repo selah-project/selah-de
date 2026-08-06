@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und der Kohen nahm ⟨את⟩ das Schuldopfer-Lamm und ⟨את⟩ das Log Öl, und der Kohen schwang sie als Schwingopfer vor JHWH.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Und ⟨er⟩ nahm"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Schuldopfer-Lamm"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "Lamm"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "des Schuldopfers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Log Öl"
+    },
+    {
+      "surface": "לג",
+      "gloss": "Log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "Öl"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "und ⟨er⟩ schwang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "als Schwingopfer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:26:26.579876003Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und ich werde schlagen ⟨את⟩ die Bewohner dieser Stadt und ⟨את⟩ den Menschen und ⟨את⟩ das Vieh — durch eine große Seuche werden sie sterben.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Und ich werde schlagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Bewohner"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "die Bewohner"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Menschen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Vieh"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "das Vieh"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "durch Seuche"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "große"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "werden sie sterben"
+    }
+  ],
+  "timestamp": "2026-08-05T22:03:49.892703863Z",
+  "model": "glm-5.2"
+}

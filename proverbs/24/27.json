@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 24:27",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Richte draußen dein Werk ein, und richte es dir ⟨auf⟩ dem Feld her, danach ⟨erst⟩, dann baue dein Haus.",
+  "tokens": [
+    {
+      "surface": "הכן",
+      "gloss": "Richte … ein"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "draußen"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "dein Werk"
+    },
+    {
+      "surface": "ועתדה",
+      "gloss": "und richte her"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "⟨auf⟩ dem Feld"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "danach ⟨erst⟩"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "dann baue"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dein Haus"
+    }
+  ],
+  "timestamp": "2026-08-05T23:13:49.829738030Z",
+  "model": "glm-5.2"
+}

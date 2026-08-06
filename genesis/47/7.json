@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Und Josef brachte ⟨את⟩ Jaakow, seinen Vater, und stellte ihn vor Paro. Und Jaakow segnete ⟨את⟩ Paro.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und ⟨er⟩ brachte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakow, seinen Vater"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seinen Vater"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "und stellte ihn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "Und ⟨er⟩ segnete"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-08-05T20:03:57.133084534Z",
+  "model": "glm-5.2"
+}

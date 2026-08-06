@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ein Mann, der bei einem Mann liegt wie bei einer Frau — ⟨das ist⟩ eine Toeva; sie haben beide getan, sie sollen gewiss getötet werden, ihr Blut ⟨ist⟩ auf ihnen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Und ein Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "liegt bei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "einen Mann"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "Lager von"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Frau"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "Toeva (Abscheu)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "haben getan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sie beide"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sterben"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "sollen getötet werden"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ihr Blut"
+    },
+    {
+      "surface": "בם",
+      "gloss": "auf ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:20:48.719631994Z",
+  "model": "glm-5.2"
+}

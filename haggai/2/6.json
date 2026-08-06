@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Denn so hat JHWH Zewaot gesprochen: Noch eines, wenig ist es, und ich werde ⟨את⟩ die Himmel und ⟨את⟩ die Erde und ⟨את⟩ das Meer und ⟨את⟩ die Trockenheit erschüttern.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hat gesprochen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Zewaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "noch"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eines"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wenig"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ist es"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "werde erschüttern"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Himmel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die Himmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Meer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Trockenheit"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "die Trockenheit"
+    }
+  ],
+  "timestamp": "2026-08-06T04:04:54.973520858Z",
+  "model": "glm-5.2"
+}

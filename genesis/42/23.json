@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und sie wussten nicht, dass Josséf zuhörte, denn der Dolmetscher ⟨war⟩ zwischen ihnen.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wussten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zuhörte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josséf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "der Dolmetscher"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "zwischen ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:10:28.445534664Z",
+  "model": "glm-5.2"
+}

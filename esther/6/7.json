@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Haman sprach zum König: ⟨Ein⟩ Mann, den der König zu ehren wünscht — in ⟨seiner⟩ Würde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨Ein⟩ Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wünscht"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "in ⟨seiner⟩ Würde"
+    }
+  ],
+  "timestamp": "2026-08-06T07:11:40.531584559Z",
+  "model": "glm-5.2"
+}

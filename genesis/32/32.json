@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und die Sonne ging ihm auf, als er ⟨an⟩ Pnuel vorüberzog, und er hinkte ⟨auf⟩ seiner Hüfte.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "und ⟨sie⟩ ging auf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die Sonne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "als"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "er vorüberzog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pnuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Pnuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und er"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "hinkte"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "seiner Hüfte"
+    }
+  ],
+  "timestamp": "2026-08-06T00:09:05.309912978Z",
+  "model": "glm-5.2"
+}

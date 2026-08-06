@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ein Baum des Lebens ⟨ist⟩ sie für die, die sie festhalten, und ⟨die⟩ sie stützen ⟨sind⟩ glücklich.",
+  "tokens": [
+    {
+      "surface": "עֵץ",
+      "gloss": "Ein Baum"
+    },
+    {
+      "surface": "חַיִּ֣ים",
+      "gloss": "des Lebens"
+    },
+    {
+      "surface": "הִ֭יא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "לַמַּחֲזִיקִ֣ים",
+      "gloss": "für die, die festhalten"
+    },
+    {
+      "surface": "בָּ֑הּ",
+      "gloss": "sie"
+    },
+    {
+      "surface": "וְֽתֹמְכֶ֥יהָ",
+      "gloss": "und ⟨die⟩ sie stützen"
+    },
+    {
+      "surface": "מְאֻשָּֽׁר",
+      "gloss": "glücklich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:25:36.216579807Z",
+  "model": "glm-5.2"
+}

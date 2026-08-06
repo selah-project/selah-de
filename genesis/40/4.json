@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und der Oberste der Leibwache stellte ⟨את⟩ Josséf über sie ⟨zu⟩ ⟨ihrem⟩ Dienst, und ⟨er⟩ bediente ⟨את⟩ sie. Und sie waren ⟨dort⟩ Tage in Gewahrsam.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Und … stellte an"
+    },
+    {
+      "surface": "שר",
+      "gloss": "der Oberste"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "der Leibwache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josséf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josséf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "über sie"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "und bediente"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "und sie waren"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "in Gewahrsam"
+    }
+  ],
+  "timestamp": "2026-08-05T20:02:10.956545471Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 25:48",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Nachdem ⟨er⟩ verkauft worden ⟨ist⟩, soll ihm Löserrecht zustehen — einer von seinen Brüdern soll ihn lösen.",
+  "tokens": [
+    {
+      "surface": "אַחֲרֵ֣י",
+      "gloss": "Nachdem"
+    },
+    {
+      "surface": "נִמְכַּ֔ר",
+      "gloss": "verkauft worden"
+    },
+    {
+      "surface": "גְּאֻלָּ֖ה",
+      "gloss": "Löserrecht"
+    },
+    {
+      "surface": "תִּהְיֶ֑ה",
+      "gloss": "soll zustehen"
+    },
+    {
+      "surface": "לּ֑וֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "אֶחָ֥ד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "מֵאֶחָ֖יו",
+      "gloss": "von seinen Brüdern"
+    },
+    {
+      "surface": "יִגְאָלֶֽנּוּ",
+      "gloss": "soll ihn lösen"
+    }
+  ],
+  "timestamp": "2026-08-06T21:08:03.632026848Z",
+  "model": "glm-5.2"
+}

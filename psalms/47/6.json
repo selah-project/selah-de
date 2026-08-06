@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Elohim stieg auf im Jubelschall, JHWH im Klang des Schofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "stieg auf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "im Jubelschall"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "im Klang"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "des Schofar"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:06.801892990Z",
+  "model": "glm-5.2"
+}

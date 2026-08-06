@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 15:13",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "In deiner Chessed hast du ⟨dieses⟩ Volk geleitet, das du gelöst hast; in deiner Stärke hast du ⟨es⟩ geführt zu deiner heiligen Wohnstatt.",
+  "tokens": [
+    {
+      "surface": "נָחִ֥יתָ",
+      "gloss": "hast du geleitet"
+    },
+    {
+      "surface": "בְחַסְדְּךָ֖",
+      "gloss": "in deiner Chessed"
+    },
+    {
+      "surface": "עַ֣ם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "ז֗וּ",
+      "gloss": "⟨dieses⟩"
+    },
+    {
+      "surface": "גָּאָ֑לְתָּ",
+      "gloss": "das du gelöst hast"
+    },
+    {
+      "surface": "נֵהַ֥לְתָּ",
+      "gloss": "hast du geführt"
+    },
+    {
+      "surface": "בְּעֻזְּךָ֖",
+      "gloss": "in deiner Stärke"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "נְוֵ֥ה",
+      "gloss": "Wohnstatt"
+    },
+    {
+      "surface": "קָדְשְׁךָֽ",
+      "gloss": "deiner heiligen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:16:23.424420737Z",
+  "model": "glm-5.2"
+}

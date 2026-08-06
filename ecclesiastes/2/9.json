@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ich wurde groß und mehrte mich über alles, was vor mir in Jeruschalajim gewesen war; auch meine Weisheit blieb mir.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "Und ich wurde groß"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "und mehrte mich"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "über alles"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "was gewesen war"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor mir"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeruschalajim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "auch"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "meine Weisheit"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "blieb"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:07.722672211Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Und ich werde heimsuchen ⟨mit⟩ dem Stab ihre Auflehnung und ⟨mit⟩ Schlägen ihre Verkrümmung.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "und ich werde heimsuchen"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "⟨mit⟩ dem Stab"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ihre Auflehnung"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "und ⟨mit⟩ Schlägen"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ihre Verkrümmung"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:47.015466556Z",
+  "model": "glm-5.2"
+}

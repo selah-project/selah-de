@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Du übergibst uns wie Schlachtvieh ⟨zum⟩ Essen und hast uns zerstreut unter den Gojim.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Du übergibst (uns)"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "wie Schlachtvieh"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "Essen"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "und unter den Gojim"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "hast (uns) zerstreut"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:10.886556021Z",
+  "model": "glm-5.2"
+}

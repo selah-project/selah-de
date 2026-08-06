@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Wie bei einem Zerschmettern in meinen Gebeinen, höhnen mich meine Bedränger, indem sie sagen zu mir den ganzen Tag: Wo ist Elohim, dein Gott?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "wie bei einem Zerschmettern"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "in meinen Gebeinen"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "höhnen mich"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "meine Bedränger"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "indem sie sagen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Wo ist"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Gott"
+    }
+  ],
+  "timestamp": "2026-08-06T10:30:46.324184907Z",
+  "model": "glm-5.2"
+}

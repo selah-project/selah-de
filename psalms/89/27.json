@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Er wird mich anrufen: „Mein Vater bist du, mein El und der Fels meiner Rettung.\"",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Er"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "wird mich anrufen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Mein Vater"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mein El"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "und der Fels"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "meiner Rettung"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:22.512100386Z",
+  "model": "glm-5.2"
+}

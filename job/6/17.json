@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 6:17",
+  "book": "job",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Zur Zeit, da ⟨sie⟩ versiegen, ⟨sind sie⟩ ausgetilgt; bei der Hitze schwinden ⟨sie⟩ von ⟨ihrem⟩ Ort.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "zur Zeit"
+    },
+    {
+      "surface": "יזרבו",
+      "gloss": "versiegen ⟨sie⟩"
+    },
+    {
+      "surface": "נצמתו",
+      "gloss": "ausgetilgt ⟨sind sie⟩"
+    },
+    {
+      "surface": "בחמו",
+      "gloss": "bei der Hitze"
+    },
+    {
+      "surface": "נדעכו",
+      "gloss": "schwinden ⟨sie⟩"
+    },
+    {
+      "surface": "ממקומם",
+      "gloss": "von ⟨ihrem⟩ Ort"
+    }
+  ],
+  "timestamp": "2026-08-06T04:32:31.953239627Z",
+  "model": "glm-5.2"
+}

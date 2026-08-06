@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und sie begruben ⟨את⟩ Awner in Chevron; und der König erhob ⟨את⟩ seine Stimme und weinte am Grab Awners, und alles Volk weinte.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Und sie begruben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "in Chevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "und ⟨er⟩ erhob"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Stimme"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "seine Stimme"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "und ⟨er⟩ weinte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "⟨dem⟩ Grab"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awners"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "und ⟨sie⟩ weinten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T01:13:14.652330088Z",
+  "model": "glm-5.2"
+}

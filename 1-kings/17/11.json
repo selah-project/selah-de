@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "⟨Sie⟩ ging hin, ⟨es⟩ zu holen. ⟨Er⟩ rief ihr nach und sagte: „Hol mir bitte auch ein Stück Brot in deiner Hand.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "⟨Sie⟩ ging"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "zu holen"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "⟨Er⟩ rief"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ihr nach"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "Hol"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bitte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ein Stück"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in deiner Hand"
+    }
+  ],
+  "timestamp": "2026-08-05T21:31:39.017528810Z",
+  "model": "glm-5.2"
+}

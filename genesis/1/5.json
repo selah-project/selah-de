@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim rief dem Licht „Tag\" zu, und der Finsternis rief er „Nacht\" zu. Und ⟨es wurde⟩ Abend, und ⟨es wurde⟩ Morgen: Tag eins.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und rief"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "dem Licht"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "und der Finsternis"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "rief er"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Nacht"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es wurde⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Abend"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es wurde⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Morgen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eins"
+    }
+  ],
+  "timestamp": "2026-08-06T22:30:24.894060882Z",
+  "model": "glm-5.2"
+}

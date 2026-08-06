@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "aber der siebte Tag ⟨ist⟩ Schabbat für JHWH, deinen Elohim: Du sollst keine Arbeit tun — du, dein Sohn und deine Tochter, dein Knecht und deine Magd, dein Vieh und dein Fremdling, der in deinen Toren ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "וְיֽוֹם֙",
+      "gloss": "aber ⟨der⟩ Tag"
+    },
+    {
+      "surface": "הַשְּׁבִיעִ֔י",
+      "gloss": "der siebte"
+    },
+    {
+      "surface": "שַׁבָּ֖ת",
+      "gloss": "Schabbat"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֑יךָ",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "לֹֽ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַעֲשֶׂ֨ה",
+      "gloss": "sollst du tun"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "irgendeine"
+    },
+    {
+      "surface": "מְלָאכָ֜ה",
+      "gloss": "Arbeit"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וּבִנְךָֽ֣",
+      "gloss": "dein Sohn"
+    },
+    {
+      "surface": "וּבִתֶּ֗ךָ",
+      "gloss": "deine Tochter"
+    },
+    {
+      "surface": "עַבְדְּךָ֤",
+      "gloss": "dein Knecht"
+    },
+    {
+      "surface": "וַאֲמָֽתְךָ֙",
+      "gloss": "deine Magd"
+    },
+    {
+      "surface": "וּבְהֶמְתֶּ֔ךָ",
+      "gloss": "dein Vieh"
+    },
+    {
+      "surface": "וְגֵרְךָ֖",
+      "gloss": "dein Fremdling"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "der"
+    },
+    {
+      "surface": "בִּשְׁעָרֶֽיךָ",
+      "gloss": "in deinen Toren"
+    }
+  ],
+  "timestamp": "2026-08-06T00:17:30.978325485Z",
+  "model": "glm-5.2"
+}

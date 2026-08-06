@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Kejnan lebte siebzig Jahre und zeugte ⟨את⟩ Mahalalel.",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִ֥י",
+      "gloss": "Und ⟨er⟩ lebte"
+    },
+    {
+      "surface": "קֵינָ֖ן",
+      "gloss": "Kejnan"
+    },
+    {
+      "surface": "שִׁבְעִ֣ים",
+      "gloss": "siebzig"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "Jahr"
+    },
+    {
+      "surface": "וַיּ֖וֹלֶד",
+      "gloss": "und ⟨er⟩ zeugte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מַֽהֲלַלְאֵֽל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-08-06T09:39:56.776143088Z",
+  "model": "glm-5.2"
+}

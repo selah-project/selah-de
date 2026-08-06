@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und der Vater des Mädchens soll zu den Ältesten sagen: „Meine Tochter habe ich ⟨את⟩ diesem Mann zur Frau gegeben, und er hasst sie.“",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "und soll sagen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "der Vater"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "des Mädchens"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "den Ältesten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meine Tochter"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "Meine Tochter"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "habe ich gegeben"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨dem⟩ Mann"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "zur Frau"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "und er hasst sie"
+    }
+  ],
+  "timestamp": "2026-08-06T00:46:08.494699277Z",
+  "model": "glm-5.2"
+}

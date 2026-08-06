@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Steht auf, und ⟨lasst uns⟩ hinaufziehen bei Nacht, und ⟨lasst uns⟩ ihre Zitadellen zerstören!",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Steht auf"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "und ⟨lasst uns⟩ hinaufziehen"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bei Nacht"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "und ⟨lasst uns⟩ zerstören"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ihre Zitadellen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:27:43.970523861Z",
+  "model": "glm-5.2"
+}

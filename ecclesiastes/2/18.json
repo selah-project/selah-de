@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ich hasste, ich, ⟨את⟩ all mein Mühen, das ich mühte unter der Sonne, ⟨weil⟩ ich es ⟨dem⟩ Menschen lassen muss, ⟨der⟩ nach mir ⟨sein wird⟩.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Und ich hasste"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all mein Mühen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "mein Mühen"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "das ich"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mühte"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "⟨weil⟩ ich es lassen muss"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "⟨dem⟩ Menschen"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "⟨der⟩ ⟨sein wird⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nach mir"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:57.099737870Z",
+  "model": "glm-5.2"
+}

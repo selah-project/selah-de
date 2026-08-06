@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 110,
+  "translation": "Er richtet ⟨unter⟩ den Nationen, füllt ⟨die Erde⟩ mit Leichen — er zerschmettert ⟨das⟩ Haupt über weitem Land.",
+  "tokens": [
+    {
+      "surface": "יָדִ֣ין",
+      "gloss": "Er richtet"
+    },
+    {
+      "surface": "בַּ֭גּוֹיִם",
+      "gloss": "unter den Nationen"
+    },
+    {
+      "surface": "מָלֵ֣א",
+      "gloss": "füllt"
+    },
+    {
+      "surface": "גְוִיּ֑וֹת",
+      "gloss": "mit Leichen"
+    },
+    {
+      "surface": "מָחַ֥ץ",
+      "gloss": "er zerschmettert"
+    },
+    {
+      "surface": "רֹ֝֗אשׁ",
+      "gloss": "Haupt"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "רַבָּֽה",
+      "gloss": "weitem"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:28.755450247Z",
+  "model": "glm-5.2"
+}

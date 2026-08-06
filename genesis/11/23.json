@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Serug lebte nachdem er ⟨את⟩ Nachor gezeugt hatte zweihundert Jahre, und zeugte Söhne und Töchter.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "und lebte"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nachdem"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "er gezeugt hatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "zweihundert"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "und zeugte"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "und Töchter"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:39.964415596Z",
+  "model": "glm-5.2"
+}

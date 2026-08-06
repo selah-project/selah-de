@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Durch Weisheit wird ein Haus gebaut, und durch Einsicht ⟨wird es⟩ errichtet.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "Durch Weisheit"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wird gebaut"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ein Haus"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "und durch Einsicht"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "⟨wird es⟩ errichtet"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:46.601556562Z",
+  "model": "glm-5.2"
+}

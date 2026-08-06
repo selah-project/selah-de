@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Dawid sprach zu dem jungen Mann, der ⟨es⟩ ihm berichtete: „Woran erkennst du, dass Schaul tot ⟨ist⟩ und Jehonatan, sein Sohn?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dem jungen Mann"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "der berichtete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "איך",
+      "gloss": "woran"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "erkennst du"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "מת",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "und Jehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sein Sohn"
+    }
+  ],
+  "timestamp": "2026-08-05T21:16:08.770579102Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 52,
+  "translation": "Ich aber ⟨bin⟩ wie ein ölgrüner Olivenbaum im Haus Elohim′s; ich vertraue auf ⟨die⟩ Chessed Elohim′s, immer und ewig.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ich aber"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "wie ein Olivenbaum"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ölgrüner"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "⟨ich⟩ vertraue"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "auf ⟨die⟩ Chessed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "immer"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und ewig"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:51.449754577Z",
+  "model": "glm-5.2"
+}

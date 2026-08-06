@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und sie waren beide nackt, der Mensch und seine Frau, und sie schämten sich nicht.",
+  "tokens": [
+    {
+      "surface": "וַיִּֽהְיוּ",
+      "gloss": "Und ⟨sie⟩ waren"
+    },
+    {
+      "surface": "שְׁנֵיהֶם֙",
+      "gloss": "beide"
+    },
+    {
+      "surface": "עֲרוּמִּ֔ים",
+      "gloss": "nackt"
+    },
+    {
+      "surface": "הָֽאָדָ֖ם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "וְאִשְׁתּ֑וֹ",
+      "gloss": "und seine Frau"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יִתְבֹּשָֽׁשׁוּ",
+      "gloss": "schämten sie sich"
+    }
+  ],
+  "timestamp": "2026-08-05T17:27:56.999551387Z",
+  "model": "glm-5.2"
+}

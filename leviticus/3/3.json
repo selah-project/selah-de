@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ⟨er⟩ soll darbringen vom Schlachtopfer der Schelamim ein Feueropfer für JHWH: ⟨את⟩ das Fett, das ⟨את⟩ das Innere bedeckt, und ⟨את⟩ alles Fett, das auf dem Inneren ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Und ⟨er⟩ soll darbringen"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "vom Schlachtopfer"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "der Schelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ein Feueropfer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Fett"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "das Fett"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "das bedeckt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Innere"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "das Innere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "Fett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "dem Inneren"
+    }
+  ],
+  "timestamp": "2026-08-06T08:20:53.196189188Z",
+  "model": "glm-5.2"
+}

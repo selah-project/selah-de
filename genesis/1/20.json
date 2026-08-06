@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim sprach: „Die Wasser sollen wimmeln, ⟨mit⟩ einem Gewimmel lebender Nefesch, und Vogel soll fliegen über die Erde, ⟨an⟩ der Vorderseite der Ausdehnung der Himmel.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "sollen wimmeln"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ein Gewimmel"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lebender"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "und Vogel"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "soll fliegen"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "פני",
+      "gloss": "der Vorderseite"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "der Ausdehnung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "der Himmel"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:03.681621615Z",
+  "model": "glm-5.2"
+}

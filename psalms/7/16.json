@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Eine Grube hat er gegraben und ⟨sie⟩ ausgehöhlt, und er fällt in ⟨die⟩ Zisterne, die er macht.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Eine Grube"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "hat er gegraben"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "und ⟨sie⟩ ausgehöhlt"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "und er fällt"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "in ⟨die⟩ Zisterne"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "die er macht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:08:46.711441267Z",
+  "model": "glm-5.2"
+}

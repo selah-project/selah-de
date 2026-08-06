@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 92,
+  "translation": "Ein roher Mensch erkennt nicht, und ein Tor versteht ⟨es⟩ nicht, ⟨את⟩ dies:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ein Mensch"
+    },
+    {
+      "surface": "בער",
+      "gloss": "roher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "erkennt"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "und ein Tor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "versteht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dies"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dies"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:42.975660158Z",
+  "model": "glm-5.2"
+}

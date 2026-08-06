@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ich wandte mich, ich, um Weisheit zu sehn und Tollheit und Torheit; denn was ⟨kann⟩ der Mensch, der nach dem König kommt, ⟨anderes⟩ ⟨als⟩ ⟨את⟩ das, was sie schon längst getan haben?",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Und ich wandte mich"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "um zu sehn"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "und Tollheit"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "und Torheit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "der kommt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nach"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was sie schon längst getan haben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das, was"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "schon längst"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "sie getan haben"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:07.723151439Z",
+  "model": "glm-5.2"
+}

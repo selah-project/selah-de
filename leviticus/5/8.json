@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und er soll ⟨את⟩ sie zum Kohen bringen, und ⟨er⟩ soll ⟨את⟩ das für die Chattat zuerst darbringen und ⟨את⟩ seinen Kopf hinter dem Genick abnicken, ohne ihn abzutrennen.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Und er soll bringen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "und ⟨er⟩ soll darbringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das für die Chattat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "für die Chattat"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "zuerst"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "und abnicken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Kopf"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "seinen Kopf"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "dem Genick"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "abzutrennen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:18:46.439948970Z",
+  "model": "glm-5.2"
+}

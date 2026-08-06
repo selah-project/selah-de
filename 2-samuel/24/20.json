@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Arawna blickte hinaus und sah ⟨את⟩ den König und ⟨את⟩ seine Knechte vorbeiziehen über ihn hin, und Arawna ging hinaus und beugte sich nieder vor dem König, ⟨mit⟩ seinem Gesicht zur Erde.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "und blickte hinaus"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Arawna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den König"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Knechte"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seine Knechte"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "vorbeiziehen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "über ihn hin"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "und ging hinaus"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Arawna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "und beugte sich nieder"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "vor dem König"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "sein Gesicht"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T05:47:57.042602102Z",
+  "model": "glm-5.2"
+}

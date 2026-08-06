@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Während der König auf seinem Lager ruht, gibt meine Narde ihren Duft.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "Während"
+    },
+    {
+      "surface": "שֶׁ֤הַמֶּ֨לֶךְ֙",
+      "gloss": "der König"
+    },
+    {
+      "surface": "בִּמְסִבּ֔וֹ",
+      "gloss": "auf seinem Lager ruht"
+    },
+    {
+      "surface": "נִרְדִּ֖י",
+      "gloss": "meine Narde"
+    },
+    {
+      "surface": "נָתַ֥ן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "רֵיחֽוֹ",
+      "gloss": "ihren Duft"
+    }
+  ],
+  "timestamp": "2026-08-06T15:27:03.546375283Z",
+  "model": "glm-5.2"
+}

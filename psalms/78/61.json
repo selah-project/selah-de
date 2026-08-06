@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und er gab ⟨seine⟩ Stärke in die Gefangenschaft und seine Pracht in die Hand des Bedrängers.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "und er gab"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "in die Gefangenschaft"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "seine Stärke"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "und seine Pracht"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "צר",
+      "gloss": "des Bedrängers"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:18.124625899Z",
+  "model": "glm-5.2"
+}

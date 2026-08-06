@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Aram sah, dass ⟨es⟩ geschlagen ⟨wurde⟩ vor dem Gesicht Jisraels, und sie versammelten sich zusammen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Und sah"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "geschlagen ⟨wurde⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor dem Gesicht"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "und sie versammelten sich"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zusammen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:51:16.342087268Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "da sahen die Söhne des Elohim ⟨את⟩ die Töchter der Menschen, dass sie schön waren, und sie nahmen sich Frauen von allen, die sie auswählten.",
+  "tokens": [
+    {
+      "surface": "וַיִּרְא֤וּ",
+      "gloss": "da sahen"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "הָֽאֱלֹהִים֙",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Töchter der Menschen"
+    },
+    {
+      "surface": "בְּנ֣וֹת",
+      "gloss": "die Töchter"
+    },
+    {
+      "surface": "הָֽאָדָ֔ם",
+      "gloss": "der Menschen"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "dass"
+    },
+    {
+      "surface": "טֹבֹ֖ת",
+      "gloss": "schön"
+    },
+    {
+      "surface": "הֵ֑נָּה",
+      "gloss": "sie ⟨waren⟩"
+    },
+    {
+      "surface": "וַיִּקְח֤וּ",
+      "gloss": "und sie nahmen"
+    },
+    {
+      "surface": "לָהֶם֙",
+      "gloss": "sich"
+    },
+    {
+      "surface": "נָשִׁ֔ים",
+      "gloss": "Frauen"
+    },
+    {
+      "surface": "מִכֹּ֖ל",
+      "gloss": "von allen"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בָּחָֽרוּ",
+      "gloss": "sie auswählten"
+    }
+  ],
+  "timestamp": "2026-08-05T19:54:49.192475766Z",
+  "model": "glm-5.2"
+}

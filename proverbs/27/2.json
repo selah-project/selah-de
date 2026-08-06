@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Ein Fremder lobe dich und nicht dein Mund, ein Unbekannter und nicht deine Lippen.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "lobe dich"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ein Fremder"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "dein Mund"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ein Unbekannter"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "deine Lippen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:30:50.606025282Z",
+  "model": "glm-5.2"
+}

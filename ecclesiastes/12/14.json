@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Denn ⟨את⟩ jedes Tun Elohim ⟨wird⟩ ins Gericht bringen, über jedes Verborgene, ob gut oder ob böse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jedes Tun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jedes"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "Tun"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "⟨wird⟩ bringen"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ins Gericht"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jedes"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "Verborgene"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "oder ob"
+    },
+    {
+      "surface": "רע",
+      "gloss": "böse"
+    }
+  ],
+  "timestamp": "2026-08-06T07:11:13.507818355Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Schmuël sprach ⟨את⟩ alle Worte JHWHs zu dem Volk, ⟨das⟩ von ihm einen König verlangte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Worte JHWHs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "⟨das⟩ verlangte"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "einen König"
+    }
+  ],
+  "timestamp": "2026-08-06T02:41:29.566166638Z",
+  "model": "glm-5.2"
+}

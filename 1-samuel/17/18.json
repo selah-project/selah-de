@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und ⟨את⟩ diese zehn Schnittkäse bring dem Befehlshaber der Tausendschaft, und ⟨את⟩ deine Brüder mustere zum Schalom, und ⟨את⟩ ihr Pfand nimm.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diese zehn Schnittkäse"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "Schnittkäse"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "⟨vom⟩ Fett"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "bring"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "dem Befehlshaber"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "der Tausendschaft"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deine Brüder"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "deine Brüder"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "mustere"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "zum Schalom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Pfand"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "ihr Pfand"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "nimm"
+    }
+  ],
+  "timestamp": "2026-08-06T02:43:32.492123351Z",
+  "model": "glm-5.2"
+}

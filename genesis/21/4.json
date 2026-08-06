@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Awraham beschnitt ⟨את⟩ Jizchak, seinen Sohn, ⟨im Alter von⟩ acht Tagen, wie Elohim ihm geboten hatte.",
+  "tokens": [
+    {
+      "surface": "וַיָּמָ֤ל",
+      "gloss": "Und er beschnitt"
+    },
+    {
+      "surface": "אַבְרָהָ֙ם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Jizchak"
+    },
+    {
+      "surface": "יִצְחָ֣ק",
+      "gloss": "Jizchak"
+    },
+    {
+      "surface": "בְּנ֔וֹ",
+      "gloss": "seinen Sohn"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "⟨im Alter von⟩"
+    },
+    {
+      "surface": "שְׁמֹנַ֖ת",
+      "gloss": "acht"
+    },
+    {
+      "surface": "יָמִ֑ים",
+      "gloss": "Tagen"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צִוָּ֥ה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T17:33:37.438727413Z",
+  "model": "glm-5.2"
+}

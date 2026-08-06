@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "⟨את⟩ meine Schabbatot sollt ihr halten, und mein Heiligtum sollt ihr fürchten — ich ⟨bin⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Schabbatot"
+    },
+    {
+      "surface": "שַׁבְּתֹתַ֣י",
+      "gloss": "meine Schabbatot"
+    },
+    {
+      "surface": "תִּשְׁמֹ֔רוּ",
+      "gloss": "sollt ihr halten"
+    },
+    {
+      "surface": "וּמִקְדָּשִׁ֖י",
+      "gloss": "und mein Heiligtum"
+    },
+    {
+      "surface": "תִּירָ֑אוּ",
+      "gloss": "sollt ihr fürchten"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:12.639566511Z",
+  "model": "glm-5.2"
+}

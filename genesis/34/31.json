@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und sie sagten: „Wie ⟨ein⟩ Dirnengewerbe soll man ⟨את⟩ unsere Schwester machen?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sie sagten"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "Wie ein Dirnengewerbe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "soll man machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unsere Schwester"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "unsere Schwester"
+    }
+  ],
+  "timestamp": "2026-08-05T17:38:09.674673602Z",
+  "model": "glm-5.2"
+}

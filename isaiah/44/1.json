@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Und nun höre, Jaakow, mein Knecht, und Jisra'el, den ich erwählt habe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "höre"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mein Knecht"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "und Jisra'el"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "(den) ich erwählt habe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-05T21:53:49.630564114Z",
+  "model": "glm-5.2"
+}

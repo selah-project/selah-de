@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Am vierten Tag ⟨war⟩ der Fürst für die Söhne Reuwens: Elizur, Sohn des Schedeur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "den vierten"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "der Fürst"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "für die Söhne"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuwens"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elizur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "des Schedeur"
+    }
+  ],
+  "timestamp": "2026-08-06T00:32:50.687674459Z",
+  "model": "glm-5.2"
+}

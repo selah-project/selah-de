@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Nur das Volk schlachtete ⟨Opfer⟩ auf den Höhen, denn ⟨es war⟩ kein Haus gebaut worden dem Namen JHWHs bis zu jenen Tagen.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "schlachtete ⟨Opfer⟩"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "auf den Höhen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "war gebaut worden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ein Haus"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "dem Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jenen Tagen"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "jenen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:25:30.403562149Z",
+  "model": "glm-5.2"
+}

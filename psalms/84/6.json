@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 84,
+  "translation": "Wie glücklich ⟨ist⟩ der Mensch, ⟨dessen⟩ Stärke in dir ⟨ist⟩ — ⟨es sind⟩ Pilgerwege in ihrem Herzen.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֣י",
+      "gloss": "Wie glücklich"
+    },
+    {
+      "surface": "אָ֭דָם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "עֽוֹז",
+      "gloss": "Stärke"
+    },
+    {
+      "surface": "ל֥וֹ",
+      "gloss": "⟨für⟩ ihn"
+    },
+    {
+      "surface": "בָ֑ךְ",
+      "gloss": "in dir"
+    },
+    {
+      "surface": "מְ֝סִלּ֗וֹת",
+      "gloss": "Pilgerwege"
+    },
+    {
+      "surface": "בִּלְבָבָֽם",
+      "gloss": "in ihrem Herzen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:46.047708766Z",
+  "model": "glm-5.2"
+}

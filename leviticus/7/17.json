@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und was übrigbleibt vom Fleisch des Schlachtopfers am dritten Tag, im Feuer soll es verbrannt werden.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "und was übrigbleibt"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "vom Fleisch"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "des Schlachtopfers"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "dem dritten"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "soll verbrannt werden"
+    }
+  ],
+  "timestamp": "2026-08-05T20:21:14.875833308Z",
+  "model": "glm-5.2"
+}

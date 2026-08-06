@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und ⟨את⟩ seine Söhne sollst du heranbringen, und du sollst ⟨את⟩ sie bekleiden mit Kuttenot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "sollst du heranbringen"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "und du sollst bekleiden"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mit Kuttenot"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:27.538812987Z",
+  "model": "glm-5.2"
+}

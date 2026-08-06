@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und du, hebe ⟨את⟩ deinen Stab empor und strecke ⟨את⟩ deine Hand über das Meer aus und spalte es, und die Söhne Jisraels sollen hineingehen mitten ins Meer auf das Trockene.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Und du"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "hebe empor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Stab"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "deinen Stab"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "und strecke aus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "und spalte es"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "und sie sollen hineingehen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitten in"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "auf das Trockene"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:44.981563733Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Dem Chormeister, nach ›Almut laben‹. Ein Mizmor von Dawid.",
+  "tokens": [
+    {
+      "surface": "לַ֭מְנַצֵּחַ",
+      "gloss": "Dem Chormeister"
+    },
+    {
+      "surface": "עַלְמ֥וּת לַבֵּ֗ן",
+      "gloss": "nach ›Almut laben‹"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "gloss": "Ein Mizmor"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:50.358818560Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ich — ich ließ Efraim gehen, nahm sie auf ⟨seine⟩ Arme, und sie erkannten nicht, dass ich sie heilte.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "ließ ich gehen"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "nahm sie"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "⟨seine⟩ Arme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "erkannten sie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ich sie heilte"
+    }
+  ],
+  "timestamp": "2026-08-06T06:30:25.688900162Z",
+  "model": "glm-5.2"
+}

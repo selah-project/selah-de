@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Jehoschafat sagte: Gibt es hier keinen Nawí für JHWH mehr, dass wir ⟨von ihm⟩ ⟨את⟩ suchen sollten?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoschafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Gibt es keinen"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "Nawí"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "dass wir suchen sollten"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "von ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T22:49:40.706897370Z",
+  "model": "glm-5.2"
+}

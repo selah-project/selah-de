@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Geläutert ⟨ist⟩ dein Wort sehr, und dein Knecht liebt es.",
+  "tokens": [
+    {
+      "surface": "צְרוּפָ֖ה",
+      "gloss": "Geläutert"
+    },
+    {
+      "surface": "אִמְרָתְךָ֥",
+      "gloss": "dein Wort"
+    },
+    {
+      "surface": "מְאֹ֗ד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "וְֽעַבְדְּךָ֥",
+      "gloss": "und dein Knecht"
+    },
+    {
+      "surface": "אֲהֵבָֽהּ",
+      "gloss": "liebt es"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:32.982030262Z",
+  "model": "glm-5.2"
+}

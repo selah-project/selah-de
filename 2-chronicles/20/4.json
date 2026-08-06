@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Jehuda versammelte sich, um JHWH zu suchen, auch aus allen Städten Jehudas kamen sie, um ⟨את⟩ JHWH zu suchen.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Und versammelte sich"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "um zu suchen"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "aus allen"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Städten"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "um zu suchen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T05:02:25.110321837Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "JHWH gedachte unser; er wird segnen, er wird segnen ⟨את⟩ das Haus Jisra'els, er wird segnen ⟨את⟩ das Haus Aharons.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "gedachte unser"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "er wird segnen"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "er wird segnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus Jisra'els"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "er wird segnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus Aharons"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:41.391662505Z",
+  "model": "glm-5.2"
+}

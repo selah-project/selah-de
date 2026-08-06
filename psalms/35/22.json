@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Du hast ⟨es⟩ gesehen, JHWH; schweige nicht! Adonai, sei nicht fern von mir!",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "du hast gesehen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "schweige"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "sei fern"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "von mir"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:38.294561334Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 11:13",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Woher ⟨habe⟩ ich Fleisch, um allem dieses Volk zu geben? Denn sie weinen über mir und sagen: Gib uns Fleisch, dass wir essen!",
+  "tokens": [
+    {
+      "surface": "מֵאַ֤יִן",
+      "gloss": "Woher"
+    },
+    {
+      "surface": "לִי֙",
+      "gloss": "ich"
+    },
+    {
+      "surface": "בָּשָׂ֔ר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "לָתֵ֖ת",
+      "gloss": "zu geben"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "für all"
+    },
+    {
+      "surface": "הָעָ֣ם",
+      "gloss": "⟨dies⟩ Volk"
+    },
+    {
+      "surface": "הַזֶּ֑ה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יִבְכּ֤וּ",
+      "gloss": "sie weinen"
+    },
+    {
+      "surface": "עָלַי֙",
+      "gloss": "über mir"
+    },
+    {
+      "surface": "לֵאמֹ֔ר",
+      "gloss": "und sagen"
+    },
+    {
+      "surface": "תְּנָ֥ה",
+      "gloss": "Gib"
+    },
+    {
+      "surface": "לָּ֖נוּ",
+      "gloss": "uns"
+    },
+    {
+      "surface": "בָּשָׂ֥ר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "וְנֹאכֵֽלָה",
+      "gloss": "dass wir essen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:33:01.740136407Z",
+  "model": "glm-5.2"
+}

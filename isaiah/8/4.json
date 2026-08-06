@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Denn bevor das Kind ‚Mein Vater‘ und ‚Meine Mutter‘ rufen zu können, wird ⟨man⟩ ⟨את⟩ die Macht von Darmeschk und ⟨את⟩ die Beute von Schomron wegschaffen vor den König von Aschsur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "bevor"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "⟨das Kind⟩ weiß"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "das Kind"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "zu rufen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "‚Mein Vater‘"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "und ‚Meine Mutter‘"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "wird ⟨man⟩ wegschaffen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Macht von Darmeschk"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "die Macht"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "von Darmesjk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Beute von Schomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "die Beute"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "von Schomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "von Aschhur"
+    }
+  ],
+  "timestamp": "2026-08-06T08:51:24.656329271Z",
+  "model": "glm-5.2"
+}

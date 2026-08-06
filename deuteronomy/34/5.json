@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und Mosche, der Knecht JHWHs, starb dort im Land Moaw, nach dem Mund JHWHs.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Und ⟨er⟩ starb"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Knecht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "nach"
+    },
+    {
+      "surface": "פי",
+      "gloss": "dem Mund"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T00:50:26.299776599Z",
+  "model": "glm-5.2"
+}

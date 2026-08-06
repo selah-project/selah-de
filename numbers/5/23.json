@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und der Kohen schrieb ⟨את⟩ diese Verwünschungen in die Schrift und wusch ⟨sie⟩ ab in das bittere Wasser.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "Und ⟨er⟩ schrieb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Verwünschungen"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "die Verwünschungen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in die Schrift"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "und ⟨er⟩ wusch ab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מי",
+      "gloss": "das Wasser"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "bittere"
+    }
+  ],
+  "timestamp": "2026-08-05T20:30:33.776960781Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ⟨er⟩ brachte ⟨את⟩ die Gabe heran, Eglon, dem König von Moab. Und Eglon ⟨war⟩ ein sehr gut genährter Mann.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "und ⟨er⟩ brachte heran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Gabe"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "die Gabe"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "und Eglon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "gut genährt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T00:55:58.861150054Z",
+  "model": "glm-5.2"
+}

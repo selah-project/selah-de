@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Jeder Ort, auf den die Sohle eures Fußes treten wird — euch habe ich ihn gegeben, so wie ich zu Mosche gesprochen habe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Jeder"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "Ort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "auf den"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "treten wird"
+    },
+    {
+      "surface": "כף",
+      "gloss": "die Sohle"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "eures Fußes"
+    },
+    {
+      "surface": "בו",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "habe ich ⟨ihn⟩ gegeben"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ich gesprochen habe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    }
+  ],
+  "timestamp": "2026-08-05T20:53:00.743030310Z",
+  "model": "glm-5.2"
+}

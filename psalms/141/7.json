@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 141,
+  "translation": "Wie ⟨einer, der⟩ aufschlägt und spaltet in der Erde — so wurden unsere Gebeine verstreut am Rachen der Scheol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "wie"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "aufschlägt"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "und spaltet"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in der Erde"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "wurden verstreut"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "unsere Gebeine"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "am Rachen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "der Scheol"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:59.279454655Z",
+  "model": "glm-5.2"
+}

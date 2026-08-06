@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Mögen sie sein wie Spreu vor dem Wind, und ⟨ein⟩ Bote JHWHs treibt ⟨sie⟩ fort.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Mögen sie sein"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "wie Spreu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨dem⟩ Wind"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "und ⟨ein⟩ Bote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "treibt ⟨sie⟩ fort"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:22.498496154Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 1:21",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Sie hörten, dass ich seufze — ⟨es ist⟩ keiner da, der mich tröstet. Alle meine Feinde hörten von meinem Unheil, sie freuten sich, denn du hast ⟨es⟩ getan. Du brachtest den Tag, den du ausgerufen hast, und sie sollen werden wie ich.",
+  "tokens": [
+    {
+      "surface": "שָׁמְע֞וּ",
+      "gloss": "Sie hörten"
+    },
+    {
+      "surface": "כִּ֧י",
+      "gloss": "dass"
+    },
+    {
+      "surface": "נֶאֱנָחָ֣ה",
+      "gloss": "ich seufze"
+    },
+    {
+      "surface": "אָ֗נִי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "אֵ֤ין",
+      "gloss": "⟨es ist⟩ keiner"
+    },
+    {
+      "surface": "מְנַחֵם֙",
+      "gloss": "der mich tröstet"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "für mich"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "אֹ֨יְבַ֜י",
+      "gloss": "meine Feinde"
+    },
+    {
+      "surface": "שָׁמְע֤וּ",
+      "gloss": "hörten"
+    },
+    {
+      "surface": "רָֽעָתִי֙",
+      "gloss": "von meinem Unheil"
+    },
+    {
+      "surface": "שָׂ֔שׂוּ",
+      "gloss": "sie freuten sich"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אַתָּ֖ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עָשִׂ֑יתָ",
+      "gloss": "hast getan"
+    },
+    {
+      "surface": "הֵבֵ֥אתָ",
+      "gloss": "Du brachtest"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "den Tag"
+    },
+    {
+      "surface": "קָרָא֖תָ",
+      "gloss": "den du ausgerufen hast"
+    },
+    {
+      "surface": "וְיִֽהְי֥וּ",
+      "gloss": "und sie sollen werden"
+    },
+    {
+      "surface": "כָמֽוֹנִי",
+      "gloss": "wie ich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:39:33.835780738Z",
+  "model": "glm-5.2"
+}

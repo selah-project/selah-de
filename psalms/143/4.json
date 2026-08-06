@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 143,
+  "translation": "Und es überfiel mich meine Ruach, in ⟨meinem⟩ Innern erstarrt mein Herz.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "und es überfiel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mich"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "meine Ruach"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "in ⟨meinem⟩ Innern"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "erstarrt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:58.955127222Z",
+  "model": "glm-5.2"
+}

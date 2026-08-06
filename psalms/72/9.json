@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Vor ihm werden sich die Wüstenbewohner niederbeugen, und seine Feinde werden Staub lecken.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "Vor ihm"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "werden sich niederbeugen"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "die Wüstenbewohner"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "und seine Feinde"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "Staub"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "werden lecken"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:29.182804464Z",
+  "model": "glm-5.2"
+}

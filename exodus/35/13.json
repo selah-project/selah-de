@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "⟨Den Tisch⟩ ⟨את⟩ und ⟨את⟩ seine Stangen und ⟨את⟩ all sein Gerät und ⟨את⟩ das Brot des Angesichts",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Tisch"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "den Tisch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Stangen"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "seine Stangen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all sein Gerät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sein Gerät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Brot des Angesichts"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "das Brot"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "des Angesichts"
+    }
+  ],
+  "timestamp": "2026-08-06T00:21:25.288589309Z",
+  "model": "glm-5.2"
+}

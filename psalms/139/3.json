@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Mein Weg und mein Lager — du hast ⟨sie⟩ geworfelt, und alle meine Pfade bist du vertraut.",
+  "tokens": [
+    {
+      "surface": "אָרְחִ֣י",
+      "gloss": "Mein Weg"
+    },
+    {
+      "surface": "וְרִבְעִ֣י",
+      "gloss": "und mein Lager"
+    },
+    {
+      "surface": "זֵרִ֪יתָ",
+      "gloss": "du hast ⟨sie⟩ geworfelt"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "דְּרָכַ֥י",
+      "gloss": "meine Pfade"
+    },
+    {
+      "surface": "הִסְכַּ֖נְתָּה",
+      "gloss": "bist du vertraut"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:53.433424735Z",
+  "model": "glm-5.2"
+}

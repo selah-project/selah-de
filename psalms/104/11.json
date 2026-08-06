@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Sie tränken all das Wild des Feldes, die Wildesel stillen ⟨ihren⟩ Durst.",
+  "tokens": [
+    {
+      "surface": "יַ֭שְׁקוּ",
+      "gloss": "sie tränken"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חַיְת֣וֹ",
+      "gloss": "das Wild"
+    },
+    {
+      "surface": "שָׂדָ֑י",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "יִשְׁבְּר֖וּ",
+      "gloss": "sie stillen"
+    },
+    {
+      "surface": "פְרָאִ֣ים",
+      "gloss": "die Wildesel"
+    },
+    {
+      "surface": "צְמָאָֽם",
+      "gloss": "⟨ihren⟩ Durst"
+    }
+  ],
+  "timestamp": "2026-08-06T21:24:26.912823389Z",
+  "model": "glm-5.2"
+}

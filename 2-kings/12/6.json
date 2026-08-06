@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Die Kohen sollen ⟨es⟩ sich nehmen, jeder von seinem Bekannten, und sie sollen ⟨את⟩ die Brüche des Hauses ausbessern, überall wo ⟨dort⟩ ein Bruch gefunden wird.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "sollen nehmen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sich"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die Kohen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "von"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "seinem Bekannten"
+    },
+    {
+      "surface": "והם",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "sollen ausbessern"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Brüche"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "die Brüche"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "überall"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gefunden wird"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ein Bruch"
+    }
+  ],
+  "timestamp": "2026-08-06T10:09:30.216755496Z",
+  "model": "glm-5.2"
+}

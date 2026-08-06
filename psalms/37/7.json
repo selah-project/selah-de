@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Sei still vor JHWH und harre auf ihn. Erhitze dich nicht über ⟨den⟩, ⟨der⟩ in seinem Weg Erfolg hat, über ⟨einen⟩ Mann, ⟨der⟩ Ränke wirkt.",
+  "tokens": [
+    {
+      "surface": "דּ֤וֹם",
+      "gloss": "Sei still"
+    },
+    {
+      "surface": "לַיהוָה֮",
+      "gloss": "vor JHWH"
+    },
+    {
+      "surface": "וְהִתְח֪וֹלֵ֫ל",
+      "gloss": "und harre"
+    },
+    {
+      "surface": "ל֥וֹ",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּ֭תְחַר",
+      "gloss": "erhitze dich"
+    },
+    {
+      "surface": "בְּמַצְלִ֣יחַ",
+      "gloss": "über ⟨den⟩, ⟨der⟩ Erfolg hat"
+    },
+    {
+      "surface": "דַּרְכּ֑וֹ",
+      "gloss": "in seinem Weg"
+    },
+    {
+      "surface": "בְּ֝אִ֗ישׁ",
+      "gloss": "über ⟨einen⟩ Mann"
+    },
+    {
+      "surface": "עֹשֶׂ֥ה",
+      "gloss": "⟨der⟩ wirkt"
+    },
+    {
+      "surface": "מְזִמּֽוֹת",
+      "gloss": "Ränke"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:34.248356234Z",
+  "model": "glm-5.2"
+}

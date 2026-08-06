@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und du sollst setzen den Turban auf seinen Kopf und ⟨du sollst⟩ geben ⟨את⟩ das heilige Diadem auf den Turban.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "und du sollst setzen"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "den Turban"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "seinen Kopf"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "und ⟨du sollst⟩ geben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das heilige Diadem"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "das Diadem"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "das heilige"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "den Turban"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:57.103947023Z",
+  "model": "glm-5.2"
+}

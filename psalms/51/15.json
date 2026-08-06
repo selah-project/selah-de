@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "⟨Dann⟩ werde ich Abtrünnige deine Wege lehren, und Sünder ⟨werden⟩ zu dir umkehren.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "werde ich lehren"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "Abtrünnige"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "deine Wege"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "und Sünder"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "⟨werden⟩ umkehren"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:27.006655347Z",
+  "model": "glm-5.2"
+}

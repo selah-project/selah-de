@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Denn bei der Fülle der Träume und der Nichtigkeiten und der vielen Worte ⟨gilt⟩: ⟨Denn⟩ ⟨את⟩ Elohim ⟨sollst du⟩ fürchten!",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בְרֹ֤ב",
+      "gloss": "bei der Fülle"
+    },
+    {
+      "surface": "חֲלֹמוֹת֙",
+      "gloss": "der Träume"
+    },
+    {
+      "surface": "וַהֲבָלִ֔ים",
+      "gloss": "und der Nichtigkeiten"
+    },
+    {
+      "surface": "וּדְבָרִ֖ים",
+      "gloss": "und ⟨der⟩ Worte"
+    },
+    {
+      "surface": "הַרְבֵּ֑ה",
+      "gloss": "vieler"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "⟨Denn⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "הָאֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יְרָֽא",
+      "gloss": "fürchte"
+    }
+  ],
+  "timestamp": "2026-08-06T21:26:11.812617357Z",
+  "model": "glm-5.2"
+}

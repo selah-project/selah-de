@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Nimm ⟨את⟩ Aharon und ⟨את⟩ seine Söhne mit ihm, und ⟨את⟩ die Kleider, und ⟨את⟩ das Salböl, und ⟨את⟩ den Stier der Sünde, und ⟨את⟩ die beiden Widder, und ⟨את⟩ den Korb der Mazzen:",
+  "tokens": [
+    {
+      "surface": "קַח",
+      "gloss": "Nimm"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בָּנָיו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "אִתּוֹ",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Kleider"
+    },
+    {
+      "surface": "הַבְּגָדִים",
+      "gloss": "die Kleider"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Salböl"
+    },
+    {
+      "surface": "שֶׁמֶן",
+      "gloss": "das Öl"
+    },
+    {
+      "surface": "הַמִּשְׁחָה",
+      "gloss": "der Salbung"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Stier"
+    },
+    {
+      "surface": "פַּר",
+      "gloss": "den Stier"
+    },
+    {
+      "surface": "הַחַטָּאת",
+      "gloss": "der Sünde"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die beiden Widder"
+    },
+    {
+      "surface": "שְׁנֵי",
+      "gloss": "die beiden"
+    },
+    {
+      "surface": "הָאֵילִים",
+      "gloss": "Widder"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Korb"
+    },
+    {
+      "surface": "סַל",
+      "gloss": "den Korb"
+    },
+    {
+      "surface": "הַמַּצּוֹת",
+      "gloss": "der Mazzen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:25.541328834Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und du sollst ⟨את⟩ das Becken hinstellen zwischen dem Zelt der Begegnung und ⟨zwischen⟩ dem Altar, und du sollst dort Wasser hineingeben.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "und du sollst hinstellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Becken"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "das Becken"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dem Altar"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "und du sollst hineingeben"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T09:47:21.054344280Z",
+  "model": "glm-5.2"
+}

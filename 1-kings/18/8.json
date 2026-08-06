@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und er sagte zu ihm: „Ich ⟨bin es⟩. Geh, sag deinem Herrn: Siehe, Eliahu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sag"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "deinem Herrn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    }
+  ],
+  "timestamp": "2026-08-06T15:07:01.367769809Z",
+  "model": "glm-5.2"
+}

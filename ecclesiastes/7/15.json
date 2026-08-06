@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "⟨את⟩ alles habe ich gesehen in den Tagen meines Hebel: es gibt einen Gerechten, der zugrunde geht in seiner Gerechtigkeit, und es gibt einen Frevler, der lange lebt in seinem Bösen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "habe ich gesehen"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in den Tagen"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "meines Hebel"
+    },
+    {
+      "surface": "יש",
+      "gloss": "es gibt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "einen Gerechten"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "der zugrunde geht"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "in seiner Gerechtigkeit"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "und es gibt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "einen Frevler"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "der lange lebt"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "in seinem Bösen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:28:06.238404904Z",
+  "model": "glm-5.2"
+}

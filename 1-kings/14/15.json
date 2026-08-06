@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 14:15",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und JHWH wird ⟨את⟩ Jisra'el schlagen, wie das Rohr im Wasser schwankt, und ⟨את⟩ Jisra'el herausreißen von diesem guten Boden her, den er ihren Vätern gegeben hat, und sie zerstreuen jenseits des Stromes, weil sie ihre Ascherim gemacht haben — ⟨die⟩ JHWH erzürnen.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "Und er wird schlagen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ינוד",
+      "gloss": "schwankt"
+    },
+    {
+      "surface": "הקנה",
+      "gloss": "das Rohr"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "ונתש",
+      "gloss": "und herausreißen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von … her"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dem Boden"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "diesem guten"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "er gegeben hat"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "ihren Vätern"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "und sie zerstreuen"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "jenseits"
+    },
+    {
+      "surface": "לנהר",
+      "gloss": "des Stromes"
+    },
+    {
+      "surface": "יען",
+      "gloss": "weil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sie gemacht haben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Ascherim"
+    },
+    {
+      "surface": "אשריהם",
+      "gloss": "ihre Ascherim"
+    },
+    {
+      "surface": "מכעיסים",
+      "gloss": "⟨die⟩ erzürnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:40.548792867Z",
+  "model": "glm-5.2"
+}

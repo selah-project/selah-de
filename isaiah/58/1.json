@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 58,
+  "translation": "Ruf mit der Kehle, halte nicht zurück! Wie ⟨ein⟩ Schofar erhebe deine Stimme, und verkünde ⟨meinem⟩ Volk ⟨sein⟩ Abweichen und ⟨dem⟩ Haus Jaakow ⟨seine⟩ Sünden!",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Ruf"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "mit der Kehle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "halte zurück"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "wie ⟨ein⟩ Schofar"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "erhebe"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "deine Stimme"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "und verkünde"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "⟨meinem⟩ Volk"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "⟨sein⟩ Abweichen"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "und ⟨dem⟩ Haus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "⟨seine⟩ Sünden"
+    }
+  ],
+  "timestamp": "2026-08-05T21:56:26.829622741Z",
+  "model": "glm-5.2"
+}

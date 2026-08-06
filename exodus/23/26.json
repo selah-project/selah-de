@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Nicht wird ⟨es⟩ geben Fehlgebärende und Unfruchtbare in deinem Land; ⟨die⟩ Zahl deiner Tage werde ich erfüllen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wird ⟨es⟩ geben"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "Fehlgebärende"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "und Unfruchtbare"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "in deinem Land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zahl deiner Tage"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "Zahl"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "deiner Tage"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "werde ich erfüllen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:46.786836809Z",
+  "model": "glm-5.2"
+}

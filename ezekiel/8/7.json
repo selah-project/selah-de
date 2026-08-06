@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er brachte ⟨את⟩ mich an den Eingang des Hofes, und ich sah, und siehe, ein Loch in der Wand.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und er brachte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "den Eingang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "des Hofes"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "und ich sah"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "חר",
+      "gloss": "ein Loch"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ein"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "in der Wand"
+    }
+  ],
+  "timestamp": "2026-08-06T10:19:45.285624764Z",
+  "model": "glm-5.2"
+}

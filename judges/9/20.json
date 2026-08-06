@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "wenn aber nicht: ⟨so⟩ gehe Feuer aus von Awimélech und fresse ⟨את⟩ die Herren von Sichem und ⟨את⟩ das Haus Millo, und gehe Feuer aus von den Herren von Sichem und vom Haus Millo und fresse ⟨את⟩ Awimélech.“",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "wenn aber"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "gehe aus"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "von Awimélech"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "und fresse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Herren von Sichem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "die Herren"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "von Sichem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus Millo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "und gehe aus"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "von den Herren"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "von Sichem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "und vom Haus"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "und fresse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awimélech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimélech"
+    }
+  ],
+  "timestamp": "2026-08-05T21:02:33.692686399Z",
+  "model": "glm-5.2"
+}

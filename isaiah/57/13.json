@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 57,
+  "translation": "Bei deinem Schreien — möge deine Versammlung dich retten! Und ⟨את⟩ sie alle, Wind wird sie wegtragen, Hauch wird sie hinnehmen. Aber wer bei mir Zuflucht sucht, ⟨der⟩ wird Land erben, und ⟨der⟩ wird meinen heiligen Berg in Besitz nehmen.",
+  "tokens": [
+    {
+      "surface": "בְּזַֽעֲקֵךְ֙",
+      "gloss": "Bei deinem Schreien"
+    },
+    {
+      "surface": "יַצִּילֻ֣ךְ",
+      "gloss": "möge … retten dich"
+    },
+    {
+      "surface": "קִבּוּצַ֔יִךְ",
+      "gloss": "deine Versammlung"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sie alle"
+    },
+    {
+      "surface": "כֻּלָּ֥ם",
+      "gloss": "sie alle"
+    },
+    {
+      "surface": "יִשָּׂא",
+      "gloss": "wird wegtragen"
+    },
+    {
+      "surface": "ר֖וּחַ",
+      "gloss": "Wind"
+    },
+    {
+      "surface": "יִקַּח",
+      "gloss": "wird hinnehmen"
+    },
+    {
+      "surface": "הָ֑בֶל",
+      "gloss": "Hauch"
+    },
+    {
+      "surface": "וְהַחוֹסֶ֥ה",
+      "gloss": "Aber wer … Zuflucht sucht"
+    },
+    {
+      "surface": "בִי֙",
+      "gloss": "bei mir"
+    },
+    {
+      "surface": "יִנְחַל",
+      "gloss": "wird erben"
+    },
+    {
+      "surface": "אֶ֔רֶץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "וְיִירַ֖שׁ",
+      "gloss": "und wird in Besitz nehmen"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "Berg"
+    },
+    {
+      "surface": "קָדְשִֽׁי",
+      "gloss": "meinen heiligen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:11:04.893474583Z",
+  "model": "glm-5.2"
+}

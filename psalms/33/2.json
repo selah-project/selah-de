@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Dankt JHWH ⟨mit⟩ der Leier, ⟨mit⟩ dem Navel von zehn Saiten singt ihm zu!",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Dankt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "⟨mit⟩ der Leier"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "⟨mit⟩ dem Navel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "von zehn Saiten"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "singt zu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:32.073545770Z",
+  "model": "glm-5.2"
+}

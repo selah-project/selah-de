@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Besser dran waren die vom Schwert Durchbohrten als die vom Hunger Durchbohrten, denn diese fließen dahin, durchstochen, ⟨wegen des Mangels an⟩ den Feldfrüchten des Feldes.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "besser dran"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "die Durchbohrten"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "vom Schwert"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "als die Durchbohrten"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "vom Hunger"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "denn diese"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "fließen dahin"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "durchstochen"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "⟨wegen des Mangels an⟩ den Feldfrüchten"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "des Feldes"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:41.099062555Z",
+  "model": "glm-5.2"
+}

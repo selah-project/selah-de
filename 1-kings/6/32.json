@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 6:32",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und zwei Türen von Ölholz, und er schnitzte auf sie Schnitzereien: Keruwim und Palmen und geöffnete Blüten, und überzog ⟨sie⟩ mit Gold; und er ließ das Gold herab auf die Keruwim und auf die Palmen ⟨את⟩ das Gold.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "und zwei"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "Türen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "von"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "Ölholz"
+    },
+    {
+      "surface": "וקלע",
+      "gloss": "und er schnitzte"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "auf sie"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "Schnitzereien"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "Keruwim"
+    },
+    {
+      "surface": "ותמרות",
+      "gloss": "und Palmen"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "und geöffnete"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "Blüten"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "und überzog"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "mit Gold"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "und er ließ herab"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "die Keruwim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "התמרות",
+      "gloss": "die Palmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Gold"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "das Gold"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:13.542268661Z",
+  "model": "glm-5.2"
+}

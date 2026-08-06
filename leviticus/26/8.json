@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "und fünf von euch werden hundert verfolgen, und hundert von euch werden zehntausend verfolgen, und eure Feinde werden vor euch ins Schwert fallen —",
+  "tokens": [
+    {
+      "surface": "וְרָדְפוּ",
+      "gloss": "und sie werden verfolgen"
+    },
+    {
+      "surface": "מִכֶּם",
+      "gloss": "von euch"
+    },
+    {
+      "surface": "חֲמִשָּׁה",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "מֵאָה",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "וּמֵאָה",
+      "gloss": "und hundert"
+    },
+    {
+      "surface": "מִכֶּם",
+      "gloss": "von euch"
+    },
+    {
+      "surface": "רְבָבָה",
+      "gloss": "zehntausend"
+    },
+    {
+      "surface": "יִרְדֹּפוּ",
+      "gloss": "werden verfolgen"
+    },
+    {
+      "surface": "וְנָפְלוּ",
+      "gloss": "und sie werden fallen"
+    },
+    {
+      "surface": "אֹיְבֵיכֶם",
+      "gloss": "eure Feinde"
+    },
+    {
+      "surface": "לִפְנֵיכֶם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "לֶחָרֶב",
+      "gloss": "ins Schwert"
+    }
+  ],
+  "timestamp": "2026-08-06T02:14:11.901649667Z",
+  "model": "glm-5.2"
+}

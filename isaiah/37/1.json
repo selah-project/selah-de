@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und es geschah, als der König Chiskijahu ⟨es⟩ hörte, da zerriss er ⟨את⟩ seine Kleider und hüllte sich in Sacktuch und ging in das Haus JHWHs.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֗י",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כִּשְׁמֹ֨עַ֙",
+      "gloss": "als … hörte"
+    },
+    {
+      "surface": "הַמֶּ֣לֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "חִזְקִיָּ֔הוּ",
+      "gloss": "Chiskijahu"
+    },
+    {
+      "surface": "וַיִּקְרַ֖ע",
+      "gloss": "da zerriss er"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Kleider"
+    },
+    {
+      "surface": "בְּגָדָ֑יו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "וַיִּתְכַּ֣ס",
+      "gloss": "und hüllte sich"
+    },
+    {
+      "surface": "בַּשָּׂ֔ק",
+      "gloss": "in Sacktuch"
+    },
+    {
+      "surface": "וַיָּבֹ֖א",
+      "gloss": "und ging"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "in das Haus"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T01:47:16.365713298Z",
+  "model": "glm-5.2"
+}

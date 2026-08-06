@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Paro, der König von Mizrajim, war heraufgezogen und hatte ⟨את⟩ Geser eingenommen und es mit Feuer verbrannt, und den Kenaaniter, der in der Stadt wohnte, hatte er erschlagen, und er gab es als Mitgift seiner Tochter, der Frau Schlomos.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "von Mizrajim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "war heraufgezogen"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "und hatte eingenommen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Geser"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "und es verbrannt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mit Feuer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Kenaaniter"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "den Kenaaniter"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "der wohnte"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "hatte er erschlagen"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "und er gab es"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "als Mitgift"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "seiner Tochter"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "der Frau"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schlomos"
+    }
+  ],
+  "timestamp": "2026-08-06T05:49:49.398905842Z",
+  "model": "glm-5.2"
+}

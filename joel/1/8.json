@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Klage wie eine Jungfrau, die ⟨einen⟩ Sack umgegürtet hat über ⟨dem⟩ Mann ihrer Jugend!",
+  "tokens": [
+    {
+      "surface": "אֱלִ֕י",
+      "gloss": "Klage"
+    },
+    {
+      "surface": "כִּבְתוּלָ֥ה",
+      "gloss": "wie eine Jungfrau"
+    },
+    {
+      "surface": "חֲגֻֽרַת",
+      "gloss": "die umgegürtet hat"
+    },
+    {
+      "surface": "שַׂ֖ק",
+      "gloss": "⟨einen⟩ Sack"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "בַּ֥עַל",
+      "gloss": "⟨dem⟩ Mann"
+    },
+    {
+      "surface": "נְעוּרֶֽיהָ",
+      "gloss": "ihrer Jugend"
+    }
+  ],
+  "timestamp": "2026-08-05T22:33:17.531833876Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "⟨Des⟩ Feindes ⟨Werk⟩ — zu Ende ⟨sind⟩ die Trümmerstätten für immer; und Städte hast du ausgerissen, vernichtet ⟨ist⟩ ihr Gedächtnis, sie ⟨selbst⟩.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "der Feind"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "zu Ende"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "Trümmerstätten"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "und Städte"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "du hast ausgerissen"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "vernichtet"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ihr Gedächtnis"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie ⟨selbst⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:10.404680189Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 99,
+  "translation": "Sie preisen ⟨deinen⟩ Namen, ⟨du⟩ Großer und Furchteinflößender — heilig ist er.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "sie preisen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "⟨deinen⟩ Namen"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "⟨du⟩ Großer"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "und Furchteinflößender"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist er"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:08.308596073Z",
+  "model": "glm-5.2"
+}

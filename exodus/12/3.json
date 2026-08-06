@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Redet zur ganzen Versammlung Jisraels und sagt: Am Zehnten ⟨dieses⟩ Monats, und sie sollen sich jeder ein Schaf nehmen für ⟨das⟩ Haus der Väter, ein Schaf pro Haus.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Redet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganzer"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagt"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "Am Zehnten"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "Monats"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "und sie sollen nehmen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sich"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ein Schaf"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "für Haus"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "der Väter"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ein Schaf"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pro Haus"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:50.631380814Z",
+  "model": "glm-5.2"
+}

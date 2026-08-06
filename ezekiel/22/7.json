@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 22:7",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Vater und Mutter hat man in dir gering geachtet, ⟨am⟩ Fremden hat man mit Bedrückung gehandelt in deiner Mitte, Waise und Witwe hat man in dir unterdrückt.",
+  "tokens": [
+    {
+      "surface": "אָ֤ב",
+      "gloss": "Vater"
+    },
+    {
+      "surface": "וָאֵם֙",
+      "gloss": "und Mutter"
+    },
+    {
+      "surface": "הֵקַ֣לּוּ בָ֔ךְ",
+      "gloss": "hat man in dir gering geachtet"
+    },
+    {
+      "surface": "לַגֵּ֛ר",
+      "gloss": "⟨am⟩ Fremden"
+    },
+    {
+      "surface": "עָשׂ֥וּ",
+      "gloss": "hat man gehandelt"
+    },
+    {
+      "surface": "בְּעֹ֖שֶׁק",
+      "gloss": "mit Bedrückung"
+    },
+    {
+      "surface": "בְּתוֹכֵ֑ךְ",
+      "gloss": "in deiner Mitte"
+    },
+    {
+      "surface": "יָת֥וֹם",
+      "gloss": "Waise"
+    },
+    {
+      "surface": "וְאַלְמָנָ֖ה",
+      "gloss": "und Witwe"
+    },
+    {
+      "surface": "הֹנ֥וּ בָֽךְ",
+      "gloss": "hat man in dir unterdrückt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:22:42.897269573Z",
+  "model": "glm-5.2"
+}

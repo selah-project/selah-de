@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Balak sprach zu Bilam: Auch verfluchen sollst du ⟨ihn⟩ gar nicht, auch segnen sollst du ⟨ihn⟩ gar nicht.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "קב",
+      "gloss": "verfluchen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "sollst du ⟨ihn⟩ verfluchen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "segnen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "sollst du ⟨ihn⟩ segnen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:20:26.873093255Z",
+  "model": "glm-5.2"
+}

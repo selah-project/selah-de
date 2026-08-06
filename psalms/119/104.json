@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Aus deinen Ordnungen ⟨gewinne⟩ ich Einsicht — darum hasse ich jeden Weg der Lüge.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "Aus deinen Ordnungen"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "⟨gewinne⟩ ich Einsicht"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כן",
+      "gloss": "darum"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "hasse ich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Weg"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "der Lüge"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:24.640293664Z",
+  "model": "glm-5.2"
+}

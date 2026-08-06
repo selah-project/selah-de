@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Und sie bereiteten ⟨את⟩ das Geschenk vor, bis Josef zur Mittagszeit kommen würde, denn sie hatten gehört, dass sie dort Brot essen würden.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "Und sie bereiteten vor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Geschenk"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "das Geschenk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kommen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "zur Mittagszeit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sie hatten gehört"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sie essen würden"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    }
+  ],
+  "timestamp": "2026-08-05T17:41:33.430589133Z",
+  "model": "glm-5.2"
+}

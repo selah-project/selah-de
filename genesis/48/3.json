@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Und Jaakow sprach zu Josef: „El Schaddai erschien mir in Luz, im Land Kenaan, und segnete ⟨את⟩ mich.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Schaddai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "erschien"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "in Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "und ⟨er⟩ segnete"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    }
+  ],
+  "timestamp": "2026-08-06T00:12:00.220632734Z",
+  "model": "glm-5.2"
+}

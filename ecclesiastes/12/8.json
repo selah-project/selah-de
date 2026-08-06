@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Hauch der Hauche, sprach der Kohelet, das Ganze ⟨ist⟩ Hauch.",
+  "tokens": [
+    {
+      "surface": "הֲבֵ֧ל",
+      "gloss": "Hauch"
+    },
+    {
+      "surface": "הֲבָלִ֛ים",
+      "gloss": "der Hauche"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "הַקּוֹהֶ֖לֶת",
+      "gloss": "der Kohelet"
+    },
+    {
+      "surface": "הַכֹּ֥ל",
+      "gloss": "das Ganze"
+    },
+    {
+      "surface": "הָֽבֶל",
+      "gloss": "Hauch"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:13.279726583Z",
+  "model": "glm-5.2"
+}

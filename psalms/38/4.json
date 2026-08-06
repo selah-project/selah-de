@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Kein Unversehrtes ⟨gibt es⟩ in meinem Fleisch vor deinem Grimm, kein Schalom ⟨gibt es⟩ in meinen Gebeinen vor meiner Sünde.",
+  "tokens": [
+    {
+      "surface": "אֵין",
+      "gloss": "Kein"
+    },
+    {
+      "surface": "מְתֹ֣ם",
+      "gloss": "Unversehrtes"
+    },
+    {
+      "surface": "בִּ֭בְשָׂרִי",
+      "gloss": "in meinem Fleisch"
+    },
+    {
+      "surface": "מִפְּנֵ֣י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "זַעְמֶ֑ךָ",
+      "gloss": "deinem Grimm"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "kein"
+    },
+    {
+      "surface": "שָׁל֥וֹם",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "בַּ֝עֲצָמַ֗י",
+      "gloss": "in meinen Gebeinen"
+    },
+    {
+      "surface": "מִפְּנֵ֥י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "חַטָּאתִֽי",
+      "gloss": "meiner Sünde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:45.038294722Z",
+  "model": "glm-5.2"
+}

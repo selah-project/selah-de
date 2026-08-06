@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Denn nicht ⟨sind⟩ meine Gedanken eure Gedanken, und nicht eure Wege ⟨sind⟩ meine Wege — Spruch JHWHs.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מַחְשְׁבוֹתַי֙",
+      "gloss": "meine Gedanken"
+    },
+    {
+      "surface": "מַחְשְׁב֣וֹתֵיכֶ֔ם",
+      "gloss": "eure Gedanken"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "דַרְכֵיכֶ֖ם",
+      "gloss": "eure Wege"
+    },
+    {
+      "surface": "דְּרָכָ֑י",
+      "gloss": "meine Wege"
+    },
+    {
+      "surface": "נְאֻ֖ם",
+      "gloss": "Spruch"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-05T21:56:10.968346233Z",
+  "model": "glm-5.2"
+}

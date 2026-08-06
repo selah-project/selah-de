@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Die Herrlichkeit deiner Königherrschaft werden sie sagen, und deine Stärke werden sie besprechen.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Die Herrlichkeit"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "deiner Königherrschaft"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "werden sie sagen"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "und deine Stärke"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "werden sie besprechen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:24:53.566314896Z",
+  "model": "glm-5.2"
+}

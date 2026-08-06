@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und die Pelischtim kämpften gegen Jisra'el, und die Männer Jisra'els flohen vor den Pelischtim, und ⟨es fielen⟩ Erschlagene auf dem Berg Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Und die Pelischtim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "kämpften"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "gegen Jisra'el"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "und ⟨sie flohen⟩"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "den Pelischtim"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "und ⟨es fielen⟩"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "Erschlagene"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "auf dem Berg"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-06T05:43:45.845226554Z",
+  "model": "glm-5.2"
+}

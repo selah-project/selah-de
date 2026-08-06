@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "denn sechs Monate blieben Joaw und ganz Jisraël dort, bis ⟨er⟩ jedes Mannesbild in Edom ausgerottet hatte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sechs"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "Monate"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "blieben"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "ausgerottet hatte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jedes"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Mannesbild"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "in Edom"
+    }
+  ],
+  "timestamp": "2026-08-06T02:59:32.125951160Z",
+  "model": "glm-5.2"
+}

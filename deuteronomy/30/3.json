@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und JHWH, dein Elohim, wird ⟨את⟩ deine Wegführung wenden und sich deiner erbarmen, und er wird umkehren und dich sammeln aus all den Völkern, dorthin wo JHWH, dein Elohim, dich zerstreut hat.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "und wird wenden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Wegführung"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "deine Wegführung"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "und sich deiner erbarmen"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "und er wird umkehren"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "und dich sammeln"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "aus all"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "den Völkern"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die (dorthin)"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "dich zerstreut hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dorthin"
+    }
+  ],
+  "timestamp": "2026-08-06T02:28:26.596323434Z",
+  "model": "glm-5.2"
+}

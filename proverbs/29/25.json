@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Furcht vor dem Menschen legt eine Falle; aber ⟨wer⟩ sich auf JHWH verlässt, wird in Sicherheit gebracht.",
+  "tokens": [
+    {
+      "surface": "חֶרְדַּת",
+      "gloss": "Furcht"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "legt"
+    },
+    {
+      "surface": "מוֹקֵשׁ",
+      "gloss": "eine Falle"
+    },
+    {
+      "surface": "וּבוֹטֵחַ",
+      "gloss": "aber ⟨wer⟩ sich verlässt auf"
+    },
+    {
+      "surface": "בַּיהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יְשֻׂגָּב",
+      "gloss": "wird in Sicherheit gebracht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:15:05.743036357Z",
+  "model": "glm-5.2"
+}

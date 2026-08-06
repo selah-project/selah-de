@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ⟨את⟩ den Rest des Volkes gab er in die Hand Awischais, seines Bruders, und ⟨er⟩ stellte sich auf zur Begegnung der Söhne Ammons.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Rest des Volkes"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Rest"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gab"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Awischais"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seines Bruders"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "und ⟨er⟩ stellte sich auf"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "zur Begegnung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    }
+  ],
+  "timestamp": "2026-08-06T19:38:49.186823652Z",
+  "model": "glm-5.2"
+}

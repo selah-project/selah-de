@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Und Worte des Hasses haben mich umzingelt, und sie haben mich umsonst bekämpft.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Und Worte"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "des Hasses"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "haben mich umzingelt"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "und sie haben mich bekämpft"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "umsonst"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:48.645762294Z",
+  "model": "glm-5.2"
+}

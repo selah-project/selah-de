@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Wer Zucht liebt, liebt Erkenntnis; wer aber Zurechtweisung hasst, ⟨ist⟩ viehisch.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "liebt"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "Zucht"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liebt"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Erkenntnis"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "wer aber hasst"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "Zurechtweisung"
+    },
+    {
+      "surface": "בער",
+      "gloss": "viehisch"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:38.315563018Z",
+  "model": "glm-5.2"
+}

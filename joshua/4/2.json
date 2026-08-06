@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "„Nehmt euch aus dem Volk zwölf Männer, je einen Mann, je einen Mann ⟨aus⟩ einem Stamm.“",
+  "tokens": [
+    {
+      "surface": "קְח֤וּ",
+      "gloss": "Nehmt"
+    },
+    {
+      "surface": "לָכֶם֙",
+      "gloss": "euch"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הָעָ֔ם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "עָשָׂ֖ר",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "אֲנָשִׁ֑ים",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "אֶחָ֥ד",
+      "gloss": "einen"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "einen"
+    },
+    {
+      "surface": "מִשָּֽׁבֶט",
+      "gloss": "aus einem Stamm"
+    }
+  ],
+  "timestamp": "2026-08-05T20:53:11.936582195Z",
+  "model": "glm-5.2"
+}

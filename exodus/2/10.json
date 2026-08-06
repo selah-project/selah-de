@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und das Kind wuchs, und sie brachte ihn zur Tochter des Paro, und er wurde ihr zum Sohn. Und sie rief seinen Namen Mosche und sagte: „Denn aus den Wasser habe ich ihn gezogen.“",
+  "tokens": [
+    {
+      "surface": "וַיִגְדַּ֣ל",
+      "gloss": "Und es wuchs"
+    },
+    {
+      "surface": "הַיֶּ֗לֶד",
+      "gloss": "das Kind"
+    },
+    {
+      "surface": "וַתְּבִאֵ֨הוּ֙",
+      "gloss": "und sie brachte ihn"
+    },
+    {
+      "surface": "לְבַת",
+      "gloss": "zur Tochter"
+    },
+    {
+      "surface": "פַּרְעֹ֔ה",
+      "gloss": "des Paro"
+    },
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "und er wurde"
+    },
+    {
+      "surface": "לָ֖הּ",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "לְבֵ֑ן",
+      "gloss": "zum Sohn"
+    },
+    {
+      "surface": "וַתִּקְרָ֤א",
+      "gloss": "und sie rief"
+    },
+    {
+      "surface": "שְׁמוֹ֙",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "וַתֹּ֕אמֶר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הַמַּ֖יִם",
+      "gloss": "den Wassern"
+    },
+    {
+      "surface": "מְשִׁיתִֽהוּ",
+      "gloss": "habe ich ihn gezogen"
+    }
+  ],
+  "timestamp": "2026-08-06T20:08:22.691006280Z",
+  "model": "glm-5.2"
+}

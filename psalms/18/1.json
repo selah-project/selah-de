@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Dem Chorleiter. Von ⟨einem⟩ Knecht JHWHs, von Dawid, der zu JHWH ⟨את⟩ die Worte dieses Liedes sprach, an dem Tag, an dem JHWH ihn ⟨את⟩ rettete aus der Hand all seiner Feinde und aus der Hand Schauls.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "von ⟨einem⟩ Knecht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "zu JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "dieses Liedes"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "rettete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "ihn ⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "seiner Feinde"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "und aus der Hand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:12.563433203Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Dawid rief einem von den Burschen und sagte: „Tritt heran, fäll ihn.“ Und ⟨er⟩ schlug ihn, und er starb.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und rief"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "einem"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "von den Burschen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Tritt heran"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "fäll"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "und ⟨er⟩ schlug ihn"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und er starb"
+    }
+  ],
+  "timestamp": "2026-08-06T05:44:18.306059226Z",
+  "model": "glm-5.2"
+}

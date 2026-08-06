@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ich sprach zur Gola ⟨את⟩ alle Worte JHWHs, die ⟨er⟩ mir gezeigt hatte.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Und ich sprach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "der Gola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Worte JHWHs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "er mir gezeigt hatte"
+    }
+  ],
+  "timestamp": "2026-08-06T03:44:23.953788824Z",
+  "model": "glm-5.2"
+}

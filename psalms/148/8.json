@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 148,
+  "translation": "Feuer und Hagel, Schnee und Rauch, Sturmwind, das sein Wort tut:",
+  "tokens": [
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "וּ֭בָרָד",
+      "gloss": "und Hagel"
+    },
+    {
+      "surface": "שֶׁ֣לֶג",
+      "gloss": "Schnee"
+    },
+    {
+      "surface": "וְקִיט֑וֹר",
+      "gloss": "und Rauch"
+    },
+    {
+      "surface": "ר֥וּחַ",
+      "gloss": "Wind"
+    },
+    {
+      "surface": "סְ֝עָר֗ה",
+      "gloss": "Sturm"
+    },
+    {
+      "surface": "עֹשָׂ֥ה",
+      "gloss": "das tut"
+    },
+    {
+      "surface": "דְבָרֽוֹ",
+      "gloss": "sein Wort"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:46.600258744Z",
+  "model": "glm-5.2"
+}

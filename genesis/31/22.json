@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und ⟨es wurde⟩ dem Lavan am dritten Tag berichtet, dass Jaakow geflohen war.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "und ⟨es wurde⟩ berichtet"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "dem Lavan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den dritten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "geflohen war"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    }
+  ],
+  "timestamp": "2026-08-05T17:37:06.869024753Z",
+  "model": "glm-5.2"
+}

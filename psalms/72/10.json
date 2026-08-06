@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Könige von Tarschisch und die Inseln werden ⟨ein⟩ Tribut bringen, Könige von Schewa und Sewa werden ⟨ein⟩ Geschenk darbringen.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Könige von"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarschisch"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "und die Inseln"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "⟨ein⟩ Tribut"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "werden bringen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Könige von"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Schewa"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "und Sewa"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "⟨ein⟩ Geschenk"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "werden darbringen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:29.183180131Z",
+  "model": "glm-5.2"
+}

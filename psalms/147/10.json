@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "Nicht an der Stärke des Rosses hat er Gefallen, nicht an den Schenkeln des Mannes findet er Gefallen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "an der Stärke"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "des Rosses"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hat er Gefallen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "an den Schenkeln"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "des Mannes"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "findet er Gefallen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:11.557192242Z",
+  "model": "glm-5.2"
+}

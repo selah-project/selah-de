@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Wenn sie aber ⟨keinen⟩ Schalom mit dir macht und Krieg mit dir führt, dann sollst du ⟨die Stadt⟩ belagern.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Wenn aber"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "sie … macht"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "und … führt"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "Krieg"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "dann sollst du belagern"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨die Stadt⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T20:47:13.669037374Z",
+  "model": "glm-5.2"
+}

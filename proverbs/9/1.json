@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Weisheit hat ⟨ihr⟩ Haus gebaut, sie hat ⟨ihre⟩ sieben Säulen gehauen.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "hat gebaut"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ihr Haus"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "sie hat gehauen"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ihre Säulen"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sieben"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:02.320841516Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Arm macht ⟨die⟩ Hand der Trägheit, aber die Hand der Emsigen macht reich.",
+  "tokens": [
+    {
+      "surface": "רָ֗אשׁ",
+      "gloss": "Arm macht"
+    },
+    {
+      "surface": "עֹשֶׂ֥ה",
+      "gloss": "—"
+    },
+    {
+      "surface": "כַ֣ף",
+      "gloss": "Hand"
+    },
+    {
+      "surface": "רְמִיָּ֑ה",
+      "gloss": "der Trägheit"
+    },
+    {
+      "surface": "וְיַ֖ד",
+      "gloss": "aber die Hand"
+    },
+    {
+      "surface": "חָרוּצִ֣ים",
+      "gloss": "der Emsigen"
+    },
+    {
+      "surface": "תַּעֲשִֽׁיר",
+      "gloss": "macht reich"
+    }
+  ],
+  "timestamp": "2026-08-06T06:54:32.583177793Z",
+  "model": "glm-5.2"
+}

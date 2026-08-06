@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Denn nun werden sie sagen: ⟨Es ist⟩ kein König für uns, denn ⟨wir⟩ fürchteten nicht ⟨את⟩ JHWH — und der König, was wird er für uns tun?",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "עַתָּה",
+      "gloss": "nun"
+    },
+    {
+      "surface": "יֹאמְרוּ",
+      "gloss": "werden sie sagen"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "⟨es ist⟩ kein"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "König"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "für uns"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָרֵאנוּ",
+      "gloss": "fürchteten ⟨wir⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהֹוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְהַמֶּלֶךְ",
+      "gloss": "und der König"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "was"
+    },
+    {
+      "surface": "יַּעֲשֶׂה",
+      "gloss": "wird er tun"
+    },
+    {
+      "surface": "לָּנוּ",
+      "gloss": "für uns"
+    }
+  ],
+  "timestamp": "2026-08-06T09:08:43.172776046Z",
+  "model": "glm-5.2"
+}

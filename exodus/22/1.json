@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wenn beim Einbruch gefunden wird der Dieb und er geschlagen wird und stirbt — ⟨es gibt⟩ keine Blutschuld für ihn.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "beim Einbruch"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gefunden wird"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "der Dieb"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "und er geschlagen wird"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "und stirbt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨es gibt⟩ keine"
+    },
+    {
+      "surface": "לו",
+      "gloss": "für ihn"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Blutschuld"
+    }
+  ],
+  "timestamp": "2026-08-06T20:12:58.941428736Z",
+  "model": "glm-5.2"
+}

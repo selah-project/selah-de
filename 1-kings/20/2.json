@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und er sandte Boten zu Achaw, dem König von Jisra'el, in die Stadt hinein.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und er sandte"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "Boten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaw"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "in die Stadt hinein"
+    }
+  ],
+  "timestamp": "2026-08-06T03:02:18.800990224Z",
+  "model": "glm-5.2"
+}

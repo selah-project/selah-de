@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und er sammelte Männer um sich und wurde Anführer einer Truppe — als Dawid sie erschlug —, und sie zogen nach Dammešek, ließen sich dort nieder und regierten in Dammešek.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Und er sammelte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "um sich"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und wurde"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Anführer"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "einer Truppe"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "als erschlug"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "und sie zogen"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "nach Dammešek"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ließen sich nieder"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dort"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "und regierten"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "in Dammešek"
+    }
+  ],
+  "timestamp": "2026-08-06T01:25:32.308958484Z",
+  "model": "glm-5.2"
+}

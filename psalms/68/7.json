@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Elohim bringt die Einsamen ⟨in⟩ ein Haus, führt Gefangene hinaus ins Glück; doch die Widerspenstigen wohnen in ⟨einer⟩ Dürre.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מ֘וֹשִׁ֤יב",
+      "gloss": "bringt"
+    },
+    {
+      "surface": "יְחִידִ֨ים",
+      "gloss": "die Einsamen"
+    },
+    {
+      "surface": "בַּ֗יְתָה",
+      "gloss": "⟨in⟩ ein Haus"
+    },
+    {
+      "surface": "מוֹצִ֣יא",
+      "gloss": "führt hinaus"
+    },
+    {
+      "surface": "אֲ֭סִירִים",
+      "gloss": "Gefangene"
+    },
+    {
+      "surface": "בַּכּוֹשָׁר֑וֹת",
+      "gloss": "ins Glück"
+    },
+    {
+      "surface": "אַ֥ךְ",
+      "gloss": "doch"
+    },
+    {
+      "surface": "ס֝וֹרֲרִ֗ים",
+      "gloss": "die Widerspenstigen"
+    },
+    {
+      "surface": "שָׁכְנ֥וּ",
+      "gloss": "wohnen"
+    },
+    {
+      "surface": "צְחִיחָֽה",
+      "gloss": "in ⟨einer⟩ Dürre"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:24.963580906Z",
+  "model": "glm-5.2"
+}

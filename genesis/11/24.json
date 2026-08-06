@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Nachor lebte neunundzwanzig Jahre, und zeugte ⟨את⟩ Terach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "und lebte"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "neun"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "und zwanzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "und zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:39.964533146Z",
+  "model": "glm-5.2"
+}

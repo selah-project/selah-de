@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und wenn der Sklache sagt, sicherlich sagen wird: „Ich liebe ⟨את⟩ meinen Herrn, ⟨את⟩ meine Frau und ⟨את⟩ meine Kinder — ich will nicht als freier Mann hinausgehen“ —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagt"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sagen wird"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "der Sklave"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ich liebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Herrn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "meinen Herrn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Frau"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "meine Frau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "meine Kinder"
+    },
+    {
+      "surface": "בני",
+      "gloss": "meine Kinder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "will ich hinausgehen"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "als freier Mann"
+    }
+  ],
+  "timestamp": "2026-08-06T02:04:54.105581588Z",
+  "model": "glm-5.2"
+}

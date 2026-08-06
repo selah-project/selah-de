@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und du sollst daran denken, dass du ein Sklave warst in Mizrajim, und sollst ⟨diese⟩ Ordnungen halten und ⟨sie⟩ tun.",
+  "tokens": [
+    {
+      "surface": "וְזָ֣כַרְתָּ֔",
+      "gloss": "Und du sollst denken"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "עֶ֥בֶד",
+      "gloss": "ein Sklave"
+    },
+    {
+      "surface": "הָיִ֖יתָ",
+      "gloss": "du warst"
+    },
+    {
+      "surface": "בְּמִצְרָ֑יִם",
+      "gloss": "in Mizrajim"
+    },
+    {
+      "surface": "וְשָׁמַרְתָּ֣",
+      "gloss": "und sollst halten"
+    },
+    {
+      "surface": "וְעָשִׂ֔יתָ",
+      "gloss": "und tun"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Ordnungen"
+    },
+    {
+      "surface": "הַֽחֻקִּ֖ים",
+      "gloss": "die Ordnungen"
+    },
+    {
+      "surface": "הָאֵֽלֶּה",
+      "gloss": "diese"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:38.951187766Z",
+  "model": "glm-5.2"
+}

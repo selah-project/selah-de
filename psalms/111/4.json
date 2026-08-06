@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 111,
+  "translation": "Ein Gedenken hat er gemacht für seine Wunderwerke; gnädig und barmherzig ist JHWH.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ein Gedenken"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hat er gemacht"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "für seine Wunderwerke"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "gnädig"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "und barmherzig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ist JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:53.179741323Z",
+  "model": "glm-5.2"
+}

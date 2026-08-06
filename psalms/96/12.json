@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 96,
+  "translation": "Es möge jauchzen, das Feld, und alles, was darin ⟨ist⟩; dann werden jauchzen alle Bäume des Waldes.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "Es möge jauchzen"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "das Feld"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "בו",
+      "gloss": "darin ⟨ist⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dann"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "werden jauchzen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "Bäume"
+    },
+    {
+      "surface": "יער",
+      "gloss": "des Waldes"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:04.024348492Z",
+  "model": "glm-5.2"
+}

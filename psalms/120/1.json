@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 120,
+  "translation": "Ein Lied der Stufen. Zu JHWH rief ich in meiner Bedrängnis, und er antwortete mir.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ein Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "der Stufen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "in meiner Bedrängnis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "rief ich"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "und er antwortete mir"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:07.470693222Z",
+  "model": "glm-5.2"
+}

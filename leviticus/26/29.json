@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und ihr werdet essen das Fleisch eurer Söhne, und das Fleisch eurer Töchter werdet ihr essen.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "und ihr werdet essen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "eurer Söhne"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "und das Fleisch"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "eurer Töchter"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "werdet ihr essen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:28:52.839711047Z",
+  "model": "glm-5.2"
+}

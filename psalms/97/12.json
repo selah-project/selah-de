@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 97,
+  "translation": "Freut euch, ihr Gerechten, in JHWH, und dankt dem Gedächtnis seiner Heiligkeit!",
+  "tokens": [
+    {
+      "surface": "שִׂמְח֣וּ",
+      "gloss": "freut euch"
+    },
+    {
+      "surface": "צַ֭דִּיקִים",
+      "gloss": "ihr Gerechten"
+    },
+    {
+      "surface": "בַּֽיהוָ֑ה",
+      "gloss": "in JHWH"
+    },
+    {
+      "surface": "וְ֝הוֹד֗וּ",
+      "gloss": "und dankt"
+    },
+    {
+      "surface": "לְזֵ֣כֶר",
+      "gloss": "dem Gedächtnis"
+    },
+    {
+      "surface": "קָדְשֽׁוֹ",
+      "gloss": "seiner Heiligkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:44.506591116Z",
+  "model": "glm-5.2"
+}

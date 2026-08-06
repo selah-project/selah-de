@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und Mosche tat ⟨es⟩; wie JHWH ihm geboten hatte, ⟨so⟩ ⟨את⟩ tat er.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "und ⟨er⟩ tat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨so⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tat ⟨er⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T20:35:22.416863871Z",
+  "model": "glm-5.2"
+}

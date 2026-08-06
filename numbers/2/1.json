@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH sprach zu Mosche und zu Aharon, ⟨und sagte⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und sagte⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T20:29:48.039103475Z",
+  "model": "glm-5.2"
+}

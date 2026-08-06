@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und ⟨wenn⟩ ein Mann irgendeine Nefesch eines Menschen schlägt, soll er sterben, getötet werden.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Und ein Mann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨wenn⟩"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "schlägt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "irgendeine"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "eines Menschen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "soll er sterben"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "getötet werden"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:44.839177707Z",
+  "model": "glm-5.2"
+}

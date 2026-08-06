@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "und verschlossen werden die Türen auf der Straße beim Sinken des Lautes der Mühle, und man aufsteht beim Laut des Vogels, und alle Töchter des Gesanges sich neigen —",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "und verschlossen werden"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "die Türen"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "auf der Straße"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "beim Sinken"
+    },
+    {
+      "surface": "קול",
+      "gloss": "des Lautes"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "der Mühle"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "und aufsteht"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "beim Laut"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "des Vogels"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "und sich neigen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Töchter"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "des Gesanges"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:10.524422120Z",
+  "model": "glm-5.2"
+}

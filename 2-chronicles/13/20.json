@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und Jarob'am gewann keine Kraft mehr in den Tagen Awijas; und JHWH schlug ihn, und er starb.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "gewann"
+    },
+    {
+      "surface": "כח",
+      "gloss": "Kraft"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarob'am"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in den Tagen"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Awijas"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "und er schlug ihn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und er starb"
+    }
+  ],
+  "timestamp": "2026-08-05T23:56:45.876608473Z",
+  "model": "glm-5.2"
+}

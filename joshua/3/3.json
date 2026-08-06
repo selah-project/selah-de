@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "und sie geboten ⟨את⟩ dem Volk und sagten: „Wenn ihr seht ⟨את⟩ die Lade des Brit von JHWH, eurem Elohim, und die Kohen, die Lewiten, sie tragen, dann brecht ihr auf von eurem Ort und geht hinter ihr her.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "und sie geboten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagten"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "wenn ihr seht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade des Brit"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "des Brit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eurem Elohim"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "und die Kohen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Lewiten"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "sie tragen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "sie"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dann brecht ihr"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "von eurem Ort"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "und geht"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hinter ihr her"
+    }
+  ],
+  "timestamp": "2026-08-06T02:31:02.511795210Z",
+  "model": "glm-5.2"
+}

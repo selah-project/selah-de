@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und JHWH ⟨wird sein⟩ zum Richter, und ⟨er wird⟩ richten zwischen mir und dir, und ⟨er wird⟩ sehen und ⟨wird⟩ ⟨את⟩ meine Sache führen und ⟨wird⟩ mich richten aus deiner Hand.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "und ⟨wird sein⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "zum Richter"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "und ⟨er wird⟩ richten"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "zwischen mir"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "und zwischen dir"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "und ⟨er wird⟩ sehen"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "und ⟨wird⟩ führen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Sache"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "meine Sache"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "und ⟨wird⟩ mich richten"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "aus deiner Hand"
+    }
+  ],
+  "timestamp": "2026-08-05T21:14:15.059865031Z",
+  "model": "glm-5.2"
+}

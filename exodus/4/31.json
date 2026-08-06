@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und das Volk vertraute, und sie hörten, dass JHWH ⟨die⟩ Söhne Jisraels heimgesucht hatte und dass er ⟨את⟩ ihr Elend gesehen hatte; da verneigten sie sich und warfen sich nieder.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "Und ⟨es⟩ vertraute"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "und sie hörten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "heimgesucht hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨die⟩ Söhne Jisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "und dass"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gesehen hatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Elend"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "ihr Elend"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "da verneigten sie sich"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "und warfen sich nieder"
+    }
+  ],
+  "timestamp": "2026-08-06T02:00:40.460517760Z",
+  "model": "glm-5.2"
+}

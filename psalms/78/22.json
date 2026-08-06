@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Denn sie vertrauten nicht auf Elohim und hofften nicht auf seine Rettung.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הֶ֭אֱמִינוּ",
+      "gloss": "vertrauten"
+    },
+    {
+      "surface": "בֵּאלֹהִ֑ים",
+      "gloss": "auf Elohim"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "בָ֝טְח֗וּ",
+      "gloss": "hofften"
+    },
+    {
+      "surface": "בִּֽישׁוּעָתֽוֹ",
+      "gloss": "auf seine Rettung"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:27.309765264Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und am fünfzehnten Tag dieses Monats ⟨ist⟩ Fest: Sieben Tage ⟨lang⟩ sollen Mazza gegessen werden.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "Und am fünfzehnten"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "חג",
+      "gloss": "Fest"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "Sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "Mazza"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sollen gegessen werden"
+    }
+  ],
+  "timestamp": "2026-08-06T00:38:56.470319786Z",
+  "model": "glm-5.2"
+}

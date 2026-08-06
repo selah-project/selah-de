@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Eile mir zur Hilfe, Adonai, ⟨du⟩ meine Rettung!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Eile"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "mir zur Hilfe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "meine Rettung"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:28.094639401Z",
+  "model": "glm-5.2"
+}

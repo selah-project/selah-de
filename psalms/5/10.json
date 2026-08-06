@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Denn ⟨es ist⟩ nichts Zuverlässiges in ihrem Mund, ihr Inneres ⟨ist⟩ Verderben, ein geöffnetes Grab ⟨ist⟩ ihre Kehle, ihre Zunge glätten sie.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אֵ֪ין",
+      "gloss": "nichts"
+    },
+    {
+      "surface": "בְּפִ֡יהוּ",
+      "gloss": "in ihrem Mund"
+    },
+    {
+      "surface": "נְכוֹנָה֮",
+      "gloss": "Zuverlässiges"
+    },
+    {
+      "surface": "קִרְבָּ֪ם",
+      "gloss": "ihr Inneres"
+    },
+    {
+      "surface": "הַוּ֥וֹת",
+      "gloss": "Verderben"
+    },
+    {
+      "surface": "קֶֽבֶר",
+      "gloss": "Grab"
+    },
+    {
+      "surface": "פָּת֥וּחַ",
+      "gloss": "geöffnetes"
+    },
+    {
+      "surface": "גְרוֹנָ֑ם",
+      "gloss": "ihre Kehle"
+    },
+    {
+      "surface": "לְ֝שׁוֹנָ֗ם",
+      "gloss": "ihre Zunge"
+    },
+    {
+      "surface": "יַחֲלִֽיקוּן",
+      "gloss": "glätten sie"
+    }
+  ],
+  "timestamp": "2026-08-06T04:08:52.602426939Z",
+  "model": "glm-5.2"
+}

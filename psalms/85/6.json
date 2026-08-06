@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 85,
+  "translation": "Wirst du ⟨bis⟩ in Ewigkeit ⟨auf⟩ uns zürnen, deinen Grimm ziehen ⟨von⟩ Generation ⟨zu⟩ Generation?",
+  "tokens": [
+    {
+      "surface": "הַלְעוֹלָ֥ם",
+      "gloss": "⟨bis⟩ in Ewigkeit"
+    },
+    {
+      "surface": "תֶּֽאֱנַף",
+      "gloss": "wirst du zürnen"
+    },
+    {
+      "surface": "בָּ֑נוּ",
+      "gloss": "⟨auf⟩ uns"
+    },
+    {
+      "surface": "תִּמְשֹׁ֥ךְ",
+      "gloss": "ziehen"
+    },
+    {
+      "surface": "אַ֝פְּךָ֗",
+      "gloss": "deinen Grimm"
+    },
+    {
+      "surface": "לְדֹ֣ר",
+      "gloss": "⟨von⟩ Generation"
+    },
+    {
+      "surface": "וָדֹֽר",
+      "gloss": "⟨zu⟩ Generation"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:10.083780342Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 58,
+  "translation": "Für den Chormeister. „Geh nicht zugrunde!\" Von Dawid. Ein Michtam.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Für den Chormeister"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תַּשְׁחֵת",
+      "gloss": "geh zugrunde"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "von Awid"
+    },
+    {
+      "surface": "מִכְתָּם",
+      "gloss": "ein Michtam"
+    }
+  ],
+  "timestamp": "2026-08-06T23:16:04.008060997Z",
+  "model": "glm-5.2"
+}

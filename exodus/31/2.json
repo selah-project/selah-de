@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Sieh, ich habe beim Namen gerufen: Bezalel, Sohn des Uri, Sohn des Chur, zum Stamm Jehuda.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Sieh"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ich habe gerufen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "beim Namen"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Bezalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "des Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "חור",
+      "gloss": "des Chur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "zum Stamm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:47.956836685Z",
+  "model": "glm-5.2"
+}

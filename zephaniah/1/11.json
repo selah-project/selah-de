@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 1:11",
+  "book": "zephaniah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Heult, Bewohner des Mörsers! Denn vernichtet ist das ganze Volk des Handelslandes, ausgerottet sind alle, die Silber aufladen.",
+  "tokens": [
+    {
+      "surface": "הֵילִילוּ",
+      "gloss": "Heult"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "הַמַּכְתֵּשׁ",
+      "gloss": "des Mörsers"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "נִדְמָה",
+      "gloss": "vernichtet ist"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "כְּנַעַן",
+      "gloss": "des Handelslandes"
+    },
+    {
+      "surface": "נִכְרְתוּ",
+      "gloss": "ausgerottet sind"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "נְטִילֵי",
+      "gloss": "die aufladen"
+    },
+    {
+      "surface": "כָּסֶף",
+      "gloss": "Silber"
+    }
+  ],
+  "timestamp": "2026-08-05T22:39:52.728004524Z",
+  "model": "glm-5.2"
+}

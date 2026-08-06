@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 60,
+  "translation": "Hast ⟨du⟩ nicht ⟨du⟩, o Elohim, ⟨את⟩ uns verworfen? Und ⟨du⟩, o Elohim, ziehst nicht aus mit unseren Heeren?",
+  "tokens": [
+    {
+      "surface": "הֲלֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "⟨du⟩"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זְנַחְתָּ֑נוּ",
+      "gloss": "hast ⟨את⟩ uns verworfen"
+    },
+    {
+      "surface": "וְֽלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תֵצֵ֥א",
+      "gloss": "ziehst aus"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּצִבְאוֹתֵֽינוּ",
+      "gloss": "mit unseren Heeren"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:02.120376018Z",
+  "model": "glm-5.2"
+}

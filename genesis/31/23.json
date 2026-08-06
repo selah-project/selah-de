@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und er nahm ⟨את⟩ seine Brüder mit sich und jagte ihm hinterher, Weg von sieben Tagen, und ⟨er⟩ holte ihn ein im Berg Gilad.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "und er nahm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Brüder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit sich"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "und jagte"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ihm hinterher"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Weg"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "von sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tagen"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "und ⟨er⟩ holte ein"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn",
+      "marks": "im Berg Gilad"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "im Berg"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-05T17:37:06.869141421Z",
+  "model": "glm-5.2"
+}

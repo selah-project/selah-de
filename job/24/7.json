@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Nackt übernachten sie ⟨ohne⟩ Kleidung, und ⟨es gibt⟩ keine Decke im Frost.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "nackt"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "übernachten sie"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "Kleidung"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es gibt⟩ keine"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "Decke"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "im Frost"
+    }
+  ],
+  "timestamp": "2026-08-06T07:02:44.662133501Z",
+  "model": "glm-5.2"
+}

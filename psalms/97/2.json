@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 97,
+  "translation": "Wolke und Wolkendunkel ⟨sind⟩ rings um ihn, Zedek und Mischpat ⟨sind⟩ der Grund seines Throns.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Wolke"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "und Wolkendunkel"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "rings um ihn"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Zedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "und Mischpat"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "der Grund"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "seines Throns"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:41.153589209Z",
+  "model": "glm-5.2"
+}

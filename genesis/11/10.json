@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Dies ⟨sind⟩ die Zeugungen von Schem: Schem ⟨war⟩ hundert Jahre alt und zeugte ⟨את⟩ Arpakschad, zwei Jahre nach der Flut.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "die Zeugungen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "von Schem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Schem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨war⟩ alt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "und zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakschad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakschad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "zwei Jahre"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nach"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "der Flut"
+    }
+  ],
+  "timestamp": "2026-08-06T01:51:23.367653472Z",
+  "model": "glm-5.2"
+}

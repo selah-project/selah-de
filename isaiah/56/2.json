@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 56:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 56,
+  "translation": "Glückselig ⟨ist⟩ der Sterbliche, der dies tut, und der Menschensohn, der daran festhält: der den Schabbat hält, ⟨indem er⟩ ihn nicht entweiht, und seine Hand davor bewahrt, irgendwelches Böses zu tun.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Glückselig"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨ist⟩ der Sterbliche"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "der … tut"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dies"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "und der Sohn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "der … festhält"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daran"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "der … hält"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "den Schabbat"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "ihn nicht entweiht"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "und … bewahrt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "davor … zu tun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "irgendwelches"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böses"
+    }
+  ],
+  "timestamp": "2026-08-06T06:03:28.670323837Z",
+  "model": "glm-5.2"
+}

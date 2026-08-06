@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Ich sah ⟨את⟩ alle Lebenden, die unter der Sonne wandeln, mit dem Jungen, dem zweiten, der an seine Stelle treten wird.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ich sah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Lebenden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "Lebenden"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "die wandeln"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dem Jungen"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dem zweiten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "treten wird"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seine Stelle"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:26.197554871Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Mit Freuden und Jubel werden sie zugeführt; sie kommen ein in den Palast des Königs.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "werden sie zugeführt"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "mit Freuden"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "und Jubel"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "sie kommen ein"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "in den Palast"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:55.281142486Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Mosche nahm ⟨את⟩ seine Frau und ⟨את⟩ seine Söhne und ließ sie auf dem Esel reiten, und er kehrte zurück ins Land Mizrajim. Und Mosche nahm ⟨את⟩ den Stab des Elohim in seine Hand.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und ⟨er⟩ nahm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Frau"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seine Frau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "und ließ ⟨sie⟩ reiten"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "dem Esel"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨er⟩ kehrte zurück"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ins Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "Und ⟨er⟩ nahm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stab"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "den Stab"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in seine Hand"
+    }
+  ],
+  "timestamp": "2026-08-06T20:12:43.578881939Z",
+  "model": "glm-5.2"
+}

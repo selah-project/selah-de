@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 138,
+  "translation": "Ich will mich niederwerfen gegen deinen heiligen Tempel und deinen Namen preisen ⟨für⟩ dein Chessed und ⟨für⟩ deine Emet; denn du hast über all deinen Namen ⟨hinaus⟩ dein Wort groß gemacht.",
+  "tokens": [
+    {
+      "surface": "אֶשְׁתַּחֲוֶ֨ה",
+      "gloss": "ich will mich niederwerfen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "הֵיכַ֪ל",
+      "gloss": "Tempel"
+    },
+    {
+      "surface": "קָדְשְׁךָ֡",
+      "gloss": "deinen heiligen"
+    },
+    {
+      "surface": "וְאוֹדֶ֤ה",
+      "gloss": "und ⟨ich will⟩ preisen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Namen"
+    },
+    {
+      "surface": "שְׁמֶ֗ךָ",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨für⟩"
+    },
+    {
+      "surface": "חַסְדְּךָ֥",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "und ⟨für⟩"
+    },
+    {
+      "surface": "אֲמִתֶּ֑ךָ",
+      "gloss": "deine Emet"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הִגְדַּ֥לְתָּ",
+      "gloss": "du hast groß gemacht"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "שִׁמְךָ֗",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "אִמְרָתֶֽךָ",
+      "gloss": "dein Wort"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:40.589607644Z",
+  "model": "glm-5.2"
+}

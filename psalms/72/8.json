@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Und er herrsche vom Meer bis ⟨zum⟩ Meer, und vom Strom bis an die Enden ⟨der⟩ Erde.",
+  "tokens": [
+    {
+      "surface": "וְ֭יֵרְדְּ",
+      "gloss": "und er herrsche"
+    },
+    {
+      "surface": "מִיָּ֣ם",
+      "gloss": "vom Meer"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "יָ֑ם",
+      "gloss": "zum Meer"
+    },
+    {
+      "surface": "וּ֝מִנָּהָ֗ר",
+      "gloss": "und vom Strom"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis an"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "die Enden"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:16:12.539185541Z",
+  "model": "glm-5.2"
+}

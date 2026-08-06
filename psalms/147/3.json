@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "⟨Er⟩ heilt, ⟨die⟩ Gebrochenen ⟨im⟩ Herzen, und verbindet ihre Schmerzenswunden.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "⟨Er⟩ heilt"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "⟨die⟩ Gebrochenen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨im⟩ Herzen"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "und verbindet"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "ihre Schmerzenswunden"
+    }
+  ],
+  "timestamp": "2026-08-06T04:25:05.608248655Z",
+  "model": "glm-5.2"
+}

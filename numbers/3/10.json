@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ⟨את⟩ Aharon und ⟨את⟩ seine Söhne sollst du einsetzen, und sie sollen ⟨את⟩ ihr Kehunamt wahren. Der Fremde, der herannaht, soll getötet werden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "sollst du einsetzen"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "und sie sollen wahren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Kehunamt"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ihr Kehunamt"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "und der Fremde"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "der herannaht"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "soll getötet werden"
+    }
+  ],
+  "timestamp": "2026-08-06T00:31:22.692846530Z",
+  "model": "glm-5.2"
+}

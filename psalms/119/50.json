@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Dies ⟨ist⟩ mein Trost in meinem Elend: denn dein Wort hat mich belebt.",
+  "tokens": [
+    {
+      "surface": "זֹ֣את",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "נֶחָמָתִ֣י",
+      "gloss": "⟨ist⟩ mein Trost"
+    },
+    {
+      "surface": "בְעָנְיִ֑י",
+      "gloss": "in meinem Elend"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אִמְרָתְךָ֣",
+      "gloss": "dein Wort"
+    },
+    {
+      "surface": "חִיָּֽתְנִי",
+      "gloss": "hat mich belebt"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:16.277492822Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wenn über ihm die Sonne aufgegangen ist — Blutschuld ⟨gilt⟩ für ihn; er soll voll erstatten; wenn er ⟨nichts⟩ hat, soll er verkauft werden für seinen Diebstahl.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "aufgegangen ist"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die Sonne"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "über ihm"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Blutschuld"
+    },
+    {
+      "surface": "לו",
+      "gloss": "für ihn"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "voll"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "soll er erstatten"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨nichts⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "er hat"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "soll er verkauft werden"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "für seinen Diebstahl"
+    }
+  ],
+  "timestamp": "2026-08-06T20:12:58.941650781Z",
+  "model": "glm-5.2"
+}

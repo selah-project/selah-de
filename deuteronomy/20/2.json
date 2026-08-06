@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und es soll geschehen, wenn ihr euch der Schlacht nähert, dass der Kohen herantritt und zum Volk spricht.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֕ה",
+      "gloss": "Und es soll geschehen"
+    },
+    {
+      "surface": "כְּקָֽרָבְכֶ֖ם",
+      "gloss": "wenn ihr euch nähert"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨der⟩"
+    },
+    {
+      "surface": "הַמִּלְחָמָ֑ה",
+      "gloss": "Schlacht"
+    },
+    {
+      "surface": "וְנִגַּ֥שׁ",
+      "gloss": "dass herantritt"
+    },
+    {
+      "surface": "הַכֹּהֵ֖ן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "וְדִבֶּ֥ר",
+      "gloss": "und spricht"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הָעָֽם",
+      "gloss": "dem Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T00:45:29.102817336Z",
+  "model": "glm-5.2"
+}

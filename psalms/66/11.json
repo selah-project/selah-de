@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Du hast uns ins Netz gebracht, einen Druck auf unsere Hüften gelegt.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Du hast uns gebracht"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "ins Netz"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "gelegt"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "einen Druck"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "auf unsere Hüften"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:55.989150497Z",
+  "model": "glm-5.2"
+}

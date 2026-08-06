@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Weil dies Volk verachtet hat ⟨את⟩ die Wasser des Schiloach, die sanft dahinfließen, und sich freut ⟨an⟩ ⟨את⟩ Rezín und ⟨an⟩ dem Sohn Remaljahus —",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "weil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "verachtet hat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨dies⟩ Volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wasser des Schiloach"
+    },
+    {
+      "surface": "מי",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "des Schiloach"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "die dahinfließen"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "sanft"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "und sich freut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezín und den Sohn Remaljahus"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Rezín"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "und ⟨dem⟩ Sohn"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahus"
+    }
+  ],
+  "timestamp": "2026-08-06T01:40:12.028974423Z",
+  "model": "glm-5.2"
+}

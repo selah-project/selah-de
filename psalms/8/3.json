@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Aus dem Mund von Säuglingen und ⟨an der⟩ Mutterbrust ⟨Nährenden⟩ hast du Stärke gegründet um deiner Bedränger willen, um ⟨den⟩ Feind und ⟨den⟩ Rächer zum Schweigen zu bringen.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Aus dem Mund von"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "Säuglingen"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "und ⟨an der⟩ Mutterbrust ⟨Nährende⟩"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "hast du gegründet"
+    },
+    {
+      "surface": "עז",
+      "gloss": "Stärke"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "deiner Bedränger"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "um zum Schweigen zu bringen"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "⟨den⟩ Feind"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "und ⟨den⟩ Rächer"
+    }
+  ],
+  "timestamp": "2026-08-06T09:13:19.054904855Z",
+  "model": "glm-5.2"
+}

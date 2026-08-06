@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Damals sprach Schelomo: „JHWH ⟨hat⟩ gesagt, im Dunkel zu wohnen.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "damals"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesagt"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "zu wohnen"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "im Dunkel"
+    }
+  ],
+  "timestamp": "2026-08-06T02:58:46.566097912Z",
+  "model": "glm-5.2"
+}

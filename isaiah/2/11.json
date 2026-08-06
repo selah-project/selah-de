@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 2:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Die Augen der Hochheit des Menschen ⟨werden⟩ erniedrigt, und die Erhabenheit der Menschen ⟨wird⟩ gebeugt; und JHWH allein ⟨wird⟩ erhoben an jenem Tag.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Die Augen"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "der Hochheit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "⟨werden⟩ erniedrigt"
+    },
+    {
+      "surface": "ושח",
+      "gloss": "und ⟨wird⟩ gebeugt"
+    },
+    {
+      "surface": "רום",
+      "gloss": "die Erhabenheit"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "der Menschen"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "und ⟨wird⟩ erhoben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "allein"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "an Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    }
+  ],
+  "timestamp": "2026-08-06T05:57:22.390380149Z",
+  "model": "glm-5.2"
+}

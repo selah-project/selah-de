@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Ich will euch unterweisen ⟨über⟩ die Hand Els; was bei Schaddai ist, will ich nicht verbergen.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "ich will unterweisen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "die Hand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Els"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Schaddai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "will ich verbergen"
+    }
+  ],
+  "timestamp": "2026-08-06T07:03:05.357207602Z",
+  "model": "glm-5.2"
+}

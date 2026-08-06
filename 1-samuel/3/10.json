@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und JHWH kam und stellte sich hin und rufte wie beim vorigen Mal: „Schmu'el, Schmu'el!“ Und Schmu'el sagte: „Rede, denn dein Knecht hört.“",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und ⟨er⟩ kam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "und stellte sich hin"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und rief"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "wie beim"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "vorigen Mal"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmu'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmu'el"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Rede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hört"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "dein Knecht"
+    }
+  ],
+  "timestamp": "2026-08-06T15:01:18.730318053Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Draußen übernachtete kein Fremder — meine Tür öffnete ich dem Wanderer.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "Draußen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kein"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "überwachte"
+    },
+    {
+      "surface": "גר",
+      "gloss": "Fremder"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "meine Tür"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "dem Wanderer"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "öffnete ich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:36:35.324477820Z",
+  "model": "glm-5.2"
+}

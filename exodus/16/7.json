@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und am Morgen werdet ihr die Herrlichkeit JHWHs sehen, wenn er ⟨את⟩ euer Murren hört gegen JHWH. Und was sind wir, dass ihr gegen uns murrt?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "und am Morgen"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "werdet ihr sehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Herrlichkeit JHWHs"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "die Herrlichkeit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "wenn er hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "euer Murren"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "euer Murren"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "und was sind wir"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "ihr murrt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "gegen uns"
+    }
+  ],
+  "timestamp": "2026-08-05T20:10:24.768495488Z",
+  "model": "glm-5.2"
+}

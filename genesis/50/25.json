@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Und Josséf ließ ⟨die⟩ Söhne Jisraëls schwören, ⟨und sagte⟩: „Besuchend wird Elohim euch besuchen, dann tragt ⟨את⟩ meine Gebeine von hier hinauf.“",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "und ließ schwören"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josséf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraëls"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraëls"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und sagte⟩"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "besuchend"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "wird besuchen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "euch",
+      "marks": "⟨את⟩-Marker mit Suffix — zielt auf ‚euch‘"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "dann tragt hinauf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Gebeine"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "meine Gebeine"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "von hier"
+    }
+  ],
+  "timestamp": "2026-08-06T00:12:30.027181733Z",
+  "model": "glm-5.2"
+}

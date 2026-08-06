@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Sie baten, und ⟨er⟩ brachte Wachteln, und mit Brot des Himmels sättigte er sie.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Sie baten"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und ⟨er⟩ brachte"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Wachteln"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "und ⟨mit⟩ Brot"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "sättigte er sie"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:20.272088068Z",
+  "model": "glm-5.2"
+}

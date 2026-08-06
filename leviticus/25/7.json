@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "und für dein Vieh und für das Wild, das in deinem Land ⟨ist⟩ — all ⟨ihr⟩ Ertrag soll zur Speise ⟨sein⟩.",
+  "tokens": [
+    {
+      "surface": "וְלִ֨בְהֶמְתְּךָ֔",
+      "gloss": "und für dein Vieh"
+    },
+    {
+      "surface": "וְלַֽחַיָּ֖ה",
+      "gloss": "und für das Wild"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בְּאַרְצֶ֑ךָ",
+      "gloss": "in deinem Land"
+    },
+    {
+      "surface": "תִּהְיֶ֥ה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תְּבוּאָתָ֖הּ",
+      "gloss": "ihr Ertrag"
+    },
+    {
+      "surface": "לֶאֱכֹֽל",
+      "gloss": "zur Speise"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:32.025785697Z",
+  "model": "glm-5.2"
+}

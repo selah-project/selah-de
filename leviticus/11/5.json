@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨את⟩ den Schafan, weil er ⟨das⟩ Wiederkäuen hochbringt — er ⟨ist⟩ es, aber ⟨die⟩ Spalte spaltet er nicht — unrein ⟨ist⟩ er für euch.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Schafan"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "der Schafan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "hochbringt"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "Wiederkäuen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "aber ⟨die⟩ Spalte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "spaltet"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    }
+  ],
+  "timestamp": "2026-08-06T05:19:14.565758288Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und eine Sukka wird ⟨es⟩ geben zum Schatten am Tag vor der Hitze, und zum Zufluchtsort und zum Versteck vor dem Sturm und vor dem Regen.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "Und eine Sukka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wird sein"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "zum Schatten"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "vor der Hitze"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "und zum Zufluchtsort"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "und zum Versteck"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "vor dem Sturm"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "und vor dem Regen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:39:39.315712024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Elohim, in Heiligkeit ⟨ist⟩ dein Weg. Wer ⟨ist⟩ ein großes El wie Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in Heiligkeit"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "dein Weg"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ein⟩ El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groß"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "wie Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:48.841655512Z",
+  "model": "glm-5.2"
+}

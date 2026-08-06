@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "Barmherzig und gnädig ⟨ist⟩ JHWH, langsam im Zorn und groß an Chessed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Barmherzig"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "und gnädig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "langsam"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "im Zorn"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "und groß"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "an Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:17.995019380Z",
+  "model": "glm-5.2"
+}

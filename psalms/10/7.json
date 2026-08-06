@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Fluch ⟨erfüllt⟩ seinen Mund, voll von Trug und Bedrückung; unter seiner Zunge Mühsal und Unheil.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Fluch"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "seinen Mund"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "voll"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "von Trug"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "und Bedrückung"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "seiner Zunge"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "Mühsal"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "und Unheil"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:10.369685733Z",
+  "model": "glm-5.2"
+}

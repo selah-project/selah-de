@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 76,
+  "translation": " Beim Aufstehen zum Gericht, Elohim — zu retten alle Sanftmütigen der Erde. Sela.",
+  "tokens": [
+    {
+      "surface": "בְּק֣וּם",
+      "gloss": "beim Aufstehen"
+    },
+    {
+      "surface": "לַמִּשְׁפָּ֥ט",
+      "gloss": "zum Gericht"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לְהוֹשִׁ֖יעַ",
+      "gloss": "zu retten"
+    },
+    {
+      "surface": "כָּל־",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עַנְוֵי־",
+      "gloss": "Sanftmütigen"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:23.956874789Z",
+  "model": "glm-5.2"
+}

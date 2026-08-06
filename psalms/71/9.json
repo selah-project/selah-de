@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "Wirf mich nicht weg zur Zeit des Alters; wenn meine Kraft schwindet, verlass mich nicht.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "wirf mich"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "zur Zeit"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "des Alters"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "wenn … schwindet"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "meine Kraft"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "verlass mich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:26.950176565Z",
+  "model": "glm-5.2"
+}

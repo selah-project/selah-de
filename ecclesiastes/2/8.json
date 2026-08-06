@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 2:8",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Ich sammelte mir auch Silber und Gold und den Sonderbesitz von Königen und den Ländern; ich machte mir Sänger und Sängerinnen und die Wonnen der Menschenkinder — Frau und Frauen.",
+  "tokens": [
+    {
+      "surface": "כָּנַ֤סְתִּי",
+      "gloss": "sammelte"
+    },
+    {
+      "surface": "לִי֙",
+      "gloss": "mir"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "כֶּ֣סֶף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "וְזָהָ֔ב",
+      "gloss": "und Gold"
+    },
+    {
+      "surface": "וּסְגֻלַּ֥ת",
+      "gloss": "und Sonderbesitz"
+    },
+    {
+      "surface": "מְלָכִ֖ים",
+      "gloss": "von Königen"
+    },
+    {
+      "surface": "וְהַמְּדִינ֑וֹת",
+      "gloss": "und den Ländern"
+    },
+    {
+      "surface": "עָשִׂ֨יתִי",
+      "gloss": "machte"
+    },
+    {
+      "surface": "לִ֜י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "שָׁרִ֣ים",
+      "gloss": "Sänger"
+    },
+    {
+      "surface": "וְשָׁר֗וֹת",
+      "gloss": "und Sängerinnen"
+    },
+    {
+      "surface": "וְתַעֲנוּגֹ֛ת",
+      "gloss": "und die Wonnen"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "der Menschenkinder"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "[des Menschen]"
+    },
+    {
+      "surface": "שִׁדָּ֥ה",
+      "gloss": "Frau"
+    },
+    {
+      "surface": "וְשִׁדּֽוֹת",
+      "gloss": "und Frauen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:40.482164499Z",
+  "model": "glm-5.2"
+}

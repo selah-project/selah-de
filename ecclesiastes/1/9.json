@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Was gewesen ist, das ist, was sein wird, und was gemacht worden ist, das ist, was gemacht werden wird — und ⟨es⟩ gibt nichts Neues unter der Sonne.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "gewesen ist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "das ist"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "was sein wird"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "und was"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "gemacht worden ist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "das ist"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "was gemacht werden wird"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es gibt⟩ nicht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "irgendein"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Neues"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    }
+  ],
+  "timestamp": "2026-08-06T04:40:56.906433147Z",
+  "model": "glm-5.2"
+}

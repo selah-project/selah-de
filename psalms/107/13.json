@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Und sie schrien zu JHWH in ihrer Bedrängnis, und aus ihren Engsten rettete er sie.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Und sie schrien"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in ihrer Bedrängnis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨für sie⟩"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "aus ihren Engsten"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "rettete er sie"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:26.162199086Z",
+  "model": "glm-5.2"
+}

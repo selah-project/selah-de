@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 146,
+  "translation": "Lobt Jah! Lobe, meine Nefesch, ⟨את⟩ JHWH!",
+  "tokens": [
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יָ֡הּ",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הַלְלִ֥י",
+      "gloss": "Lobe"
+    },
+    {
+      "surface": "נַ֝פְשִׁ֗י",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T15:25:16.380952280Z",
+  "model": "glm-5.2"
+}

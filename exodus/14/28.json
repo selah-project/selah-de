@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 14:28",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und die Wasser kehrten zurück und bedeckten ⟨את⟩ die Wagen und ⟨את⟩ die Reiter, die ganze Streitmacht des Paro, die hinter ihnen ⟨in⟩ das Meer kam — ⟨es⟩ blieb nicht in ihnen übrig bis auf einen einzigen.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Und kehrten zurück"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "und bedeckten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wagen"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "die Wagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Reiter"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "die Reiter"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "Streitmacht"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "des Paro"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "die kamen"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "hinter ihnen"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ins Meer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "blieb übrig"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in ihnen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis auf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einen einzigen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:18:40.215091916Z",
+  "model": "glm-5.2"
+}

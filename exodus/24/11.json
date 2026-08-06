@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und gegen die Vornehmen der Söhne Jisraels streckte er ⟨nicht⟩ seine Hand aus. Und sie schauten ⟨את⟩ ⟨den⟩ Elohim, und sie aßen und tranken.",
+  "tokens": [
+    {
+      "surface": "וְאֶל",
+      "gloss": "Und gegen"
+    },
+    {
+      "surface": "אֲצִילֵי֙",
+      "gloss": "die Vornehmen"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שָׁלַ֖ח",
+      "gloss": "streckte aus"
+    },
+    {
+      "surface": "יָד֑וֹ",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "וַֽיֶּחֱזוּ֙",
+      "gloss": "Und sie schauten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨den⟩ Elohim"
+    },
+    {
+      "surface": "הָ֣אֱלֹהִ֔ים",
+      "gloss": "⟨den⟩ Elohim"
+    },
+    {
+      "surface": "וַיֹּאכְל֖וּ",
+      "gloss": "und sie aßen"
+    },
+    {
+      "surface": "וַיִּשְׁתּֽוּ",
+      "gloss": "und tranken"
+    }
+  ],
+  "timestamp": "2026-08-05T20:12:52.527655636Z",
+  "model": "glm-5.2"
+}

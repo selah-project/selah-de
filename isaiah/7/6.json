@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "„Lasst uns hinaufziehen gegen Jehuda, und lasst uns es aufschrecken und es uns aufbrechen, und lasst uns einen König einsetzen in seiner Mitte, ⟨את⟩ ben Tawal.",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "Lasst uns hinaufziehen"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "gegen Jehuda"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "und lasst uns es aufschrecken"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "und ⟨lasst uns⟩ es uns aufbrechen"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "und lasst uns einen König einsetzen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨einen⟩ König"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "in seiner Mitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ben Tawal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Tawal"
+    }
+  ],
+  "timestamp": "2026-08-06T01:40:18.074040174Z",
+  "model": "glm-5.2"
+}

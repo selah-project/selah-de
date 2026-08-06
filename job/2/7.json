@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und der Satanshaider ging aus von ⟨der Gegenwart⟩ JHWHs und schlug ⟨את⟩ Ijow mit bösem Geschwür, von der Sohle seines Fußes bis zu seinem Scheitel.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Und … ging aus"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "der Satanshaider"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "von"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨der Gegenwart⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "und schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijow"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijow"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "mit Geschwür"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bösem"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "von der Sohle"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "seines Fußes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "seinem Scheitel"
+    }
+  ],
+  "timestamp": "2026-08-05T23:15:58.012711353Z",
+  "model": "glm-5.2"
+}

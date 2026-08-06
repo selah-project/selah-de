@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und ⟨es war⟩ ihm ⟨gegeben⟩ sieben Söhne und drei Töchter.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und ⟨es war⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "und drei"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Töchter"
+    }
+  ],
+  "timestamp": "2026-08-06T09:26:31.046219285Z",
+  "model": "glm-5.2"
+}

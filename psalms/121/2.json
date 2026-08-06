@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 121,
+  "translation": "Meine Hilfe ⟨kommt⟩ von JHWH, dem Maker ⟨von⟩ Himmel und Erde.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "meine Hilfe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "von"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Maker"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Himmel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "und Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:28.874041253Z",
+  "model": "glm-5.2"
+}

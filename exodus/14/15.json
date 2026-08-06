@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und JHWH sprach zu Mosche: „Was schreist du zu mir? Rede zu den Söhnen Jisraels, und sie sollen aufbrechen!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "schreist du"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "und sie sollen aufbrechen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:44.981471883Z",
+  "model": "glm-5.2"
+}

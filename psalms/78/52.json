@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und er ließ ⟨sein⟩ Volk aufbrechen wie eine Herde und leitete sie wie eine Schafherde in der Wüste.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "und er ließ aufbrechen"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "wie eine Herde"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨sein⟩ Volk"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "und leitete sie"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "wie eine Schafherde"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:40.180989926Z",
+  "model": "glm-5.2"
+}

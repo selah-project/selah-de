@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Leben des Fleisches ⟨ist⟩ ein heilendes Herz, ⟨aber⟩ Fäulnis der Knochen ⟨ist⟩ Eifersucht.",
+  "tokens": [
+    {
+      "surface": "חַיֵּ֣י",
+      "gloss": "Leben"
+    },
+    {
+      "surface": "בְ֭שָׂרִים",
+      "gloss": "des Fleisches"
+    },
+    {
+      "surface": "לֵ֣ב",
+      "gloss": "⟨ein⟩ Herz"
+    },
+    {
+      "surface": "מַרְפֵּ֑א",
+      "gloss": "heilendes"
+    },
+    {
+      "surface": "וּרְקַ֖ב",
+      "gloss": "⟨aber⟩ Fäulnis"
+    },
+    {
+      "surface": "עֲצָמ֣וֹת",
+      "gloss": "der Knochen"
+    },
+    {
+      "surface": "קִנְאָֽה",
+      "gloss": "⟨ist⟩ Eifersucht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:11:20.807703068Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und er kam zwischen das Lager Mizrajims und zwischen das Lager Jisraels, und ⟨da war⟩ die Wolke und die Finsternis, und er erhellte ⟨את⟩ die Nacht, und der eine kam dem anderen nicht nahe die ganze Nacht.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und er kam"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "das Lager"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajims"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "das Lager"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und es war"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "die Wolke"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "und die Finsternis"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "und erhellte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Nacht"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "die Nacht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kam … nahe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "der eine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dem anderen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "Nacht"
+    }
+  ],
+  "timestamp": "2026-08-05T20:09:20.619293416Z",
+  "model": "glm-5.2"
+}

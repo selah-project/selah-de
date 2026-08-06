@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Du setzt Finsternis, und ⟨es⟩ wird Nacht, in ⟨ihr⟩ kriecht alles Wild des Waldes.",
+  "tokens": [
+    {
+      "surface": "תָּֽשֶׁת",
+      "gloss": "Du setzt"
+    },
+    {
+      "surface": "חֹ֭שֶׁךְ",
+      "gloss": "Finsternis"
+    },
+    {
+      "surface": "וִ֣יהִי",
+      "gloss": "und ⟨es⟩ wird"
+    },
+    {
+      "surface": "לָ֑יְלָה",
+      "gloss": "Nacht"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "in ⟨ihr⟩"
+    },
+    {
+      "surface": "תִ֝רְמֹ֗שׂ",
+      "gloss": "kriecht"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "חַיְתוֹ",
+      "gloss": "Wild"
+    },
+    {
+      "surface": "יָֽעַר",
+      "gloss": "des Waldes"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:43.579857058Z",
+  "model": "glm-5.2"
+}

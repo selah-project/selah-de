@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Völker hörten ⟨es⟩, sie bebten; Wehen ergriffen die Bewohner von Pleschet.",
+  "tokens": [
+    {
+      "surface": "שָׁמְע֥וּ",
+      "gloss": "hörten"
+    },
+    {
+      "surface": "עַמִּ֖ים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "יִרְגָּז֑וּן",
+      "gloss": "sie bebten"
+    },
+    {
+      "surface": "חִ֣יל",
+      "gloss": "Wehen"
+    },
+    {
+      "surface": "אָחַ֔ז",
+      "gloss": "ergriffen"
+    },
+    {
+      "surface": "יֹשְׁבֵ֖י",
+      "gloss": "die Bewohner von"
+    },
+    {
+      "surface": "פְּלָֽשֶׁת",
+      "gloss": "Pleschet"
+    }
+  ],
+  "timestamp": "2026-08-06T00:16:23.424643824Z",
+  "model": "glm-5.2"
+}

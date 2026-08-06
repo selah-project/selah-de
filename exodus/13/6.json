@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Sieben Tage lang sollst du Mazzen essen, und am siebten Tag ⟨ist⟩ ein Fest für JHWH.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage lang"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sollst du essen"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "Mazzen"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "und am Tag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "dem siebten"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ein Fest"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:15:38.709036905Z",
+  "model": "glm-5.2"
+}

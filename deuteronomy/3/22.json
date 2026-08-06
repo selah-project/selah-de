@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Fürchtet sie nicht, denn JHWH, euer Elohim, ⟨er⟩ ist es, der für euch kämpft.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "fürchtet sie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩ ist es"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "der kämpft"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    }
+  ],
+  "timestamp": "2026-08-05T20:43:12.826838239Z",
+  "model": "glm-5.2"
+}

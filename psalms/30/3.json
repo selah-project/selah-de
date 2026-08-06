@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "JHWH, mein Elohim! Zu dir habe ich geschrien, und du hast mich geheilt.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהָ֑י",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "שִׁוַּ֥עְתִּי",
+      "gloss": "habe ich geschrien"
+    },
+    {
+      "surface": "אֵ֝לֶ֗יךָ",
+      "gloss": "Zu dir"
+    },
+    {
+      "surface": "וַתִּרְפָּאֵֽנִי",
+      "gloss": "und du hast mich geheilt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:48.312013400Z",
+  "model": "glm-5.2"
+}

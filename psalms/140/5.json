@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 140,
+  "translation": "Behüte mich, JHWH, vor den Händen des Frevlers, vor einem Mann der Gewalttaten bewahre mich, die ersannen, meine Schritte zu stoßen.",
+  "tokens": [
+    {
+      "surface": "שָׁמְרֵ֤נִי",
+      "gloss": "Behüte mich"
+    },
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מִ֘ידֵ֤י",
+      "gloss": "vor den Händen"
+    },
+    {
+      "surface": "רָשָׁ֗ע",
+      "gloss": "des Frevlers"
+    },
+    {
+      "surface": "מֵאִ֣ישׁ",
+      "gloss": "vor einem Mann"
+    },
+    {
+      "surface": "חֲמָסִ֣ים",
+      "gloss": "der Gewalttaten"
+    },
+    {
+      "surface": "תִּנְצְרֵ֑נִי",
+      "gloss": "bewahre mich"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "חָ֝שְׁב֗וּ",
+      "gloss": "ersannen"
+    },
+    {
+      "surface": "לִדְח֥וֹת",
+      "gloss": "zu stoßen"
+    },
+    {
+      "surface": "פְּעָמָֽי",
+      "gloss": "meine Schritte"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:30.605489357Z",
+  "model": "glm-5.2"
+}

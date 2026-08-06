@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Doch ⟨ein⟩ Mann soll nicht streiten, und ⟨man⟩ zurechtweise nicht ⟨einen⟩ Mann! Denn dein Volk ⟨ist⟩ wie die, die ⟨mit⟩ dem Kohen streiten.",
+  "tokens": [
+    {
+      "surface": "אַ֥ךְ",
+      "gloss": "Doch"
+    },
+    {
+      "surface": "אִ֛ישׁ",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָרֵ֖ב",
+      "gloss": "soll streiten"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יוֹכַ֣ח",
+      "gloss": "zurechtweise"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "einen Mann"
+    },
+    {
+      "surface": "וְעַמְּךָ֖",
+      "gloss": "denn dein Volk"
+    },
+    {
+      "surface": "כִּמְרִיבֵ֥י",
+      "gloss": "ist wie die mit … Streitenden"
+    },
+    {
+      "surface": "כֹהֵֽן",
+      "gloss": "dem Kohen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:31:17.848222848Z",
+  "model": "glm-5.2"
+}

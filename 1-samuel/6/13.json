@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ⟨die Leute von⟩ Bet-Schemesch schnitten die Weizenernte im Tal, und sie hoben ⟨את⟩ ihre Augen und sahen ⟨את⟩ die Lade, und sie freuten sich zu sehen.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Und ⟨die Leute von⟩ Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "-Schemesch"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "schnitten"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "⟨die⟩ Ernte"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "von Weizen"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "im Tal"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "und sie hoben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Augen"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ihre Augen"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "und sahen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "und sie freuten sich"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "zu sehen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:08:20.574309739Z",
+  "model": "glm-5.2"
+}

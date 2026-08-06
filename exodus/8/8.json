@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Mosche und Aharon gingen hinaus von Paro weg, und Mosche schrie zu JHWH wegen der Sache der Frösche, die er über Paro gesetzt hatte.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "und er ging hinaus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "von … weg"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "und er schrie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "der Sache"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "der Frösche"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שם",
+      "gloss": "er gesetzt hatte"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "über Paro"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:28.938649306Z",
+  "model": "glm-5.2"
+}

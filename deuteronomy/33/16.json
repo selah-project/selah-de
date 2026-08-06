@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 33:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "und vom Köstlichsten der Erde und ihrer Fülle, und das Wohlgefallen des im Dornbusch Wohnenden — es komme auf das Haupt Josséfs, und auf den Scheitel des Geweihten ⟨unter⟩ seinen Brüdern.",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "und vom Köstlichsten"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "und ihrer Fülle"
+    },
+    {
+      "surface": "ורצון",
+      "gloss": "und das Wohlgefallen"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "des Wohnenden"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "im Dornbusch"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "es komme"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "auf das Haupt"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josséfs"
+    },
+    {
+      "surface": "ולקדקד",
+      "gloss": "und auf den Scheitel"
+    },
+    {
+      "surface": "נזיר",
+      "gloss": "des Geweihten"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seiner Brüder"
+    }
+  ],
+  "timestamp": "2026-08-05T20:52:24.865801034Z",
+  "model": "glm-5.2"
+}

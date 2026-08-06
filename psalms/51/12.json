@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Ein reines Herz schaffe mir, Elohim, und einen festen Ruach erneuere in meinem Innersten.",
+  "tokens": [
+    {
+      "surface": "לֵ֣ב",
+      "gloss": "Ein Herz"
+    },
+    {
+      "surface": "טָ֭הוֹר",
+      "gloss": "reines"
+    },
+    {
+      "surface": "בְּרָא",
+      "gloss": "schaffe"
+    },
+    {
+      "surface": "לִ֣י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְר֥וּחַ",
+      "gloss": "und einen Ruach"
+    },
+    {
+      "surface": "נָ֝כ֗וֹן",
+      "gloss": "festen"
+    },
+    {
+      "surface": "חַדֵּ֥שׁ",
+      "gloss": "erneuere"
+    },
+    {
+      "surface": "בְּקִרְבִּֽי",
+      "gloss": "in meinem Innersten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:19.338996113Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Spielt ⟨für⟩ JHWH, seine Chassidim, und dankt dem Gedächtnis seiner Heiligkeit!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Spielt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨für⟩ JHWH"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "seine Chassidim"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "und dankt"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "dem Gedächtnis"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "seiner Heiligkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:52.924751650Z",
+  "model": "glm-5.2"
+}

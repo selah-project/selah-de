@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "JHWH, deinen Elohim, sollst du fürchten und ⟨את⟩ ihn sollst du dienen, und bei seinem Namen sollst du schwören.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH, deinen Elohim"
+    },
+    {
+      "surface": "יְהוָ֧ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֛יךָ",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "תִּירָ֖א",
+      "gloss": "sollst du fürchten"
+    },
+    {
+      "surface": "וְאֹת֣וֹ",
+      "gloss": "und ⟨את⟩ ihn"
+    },
+    {
+      "surface": "תַעֲבֹ֑ד",
+      "gloss": "sollst du dienen"
+    },
+    {
+      "surface": "וּבִשְׁמ֖וֹ",
+      "gloss": "und bei seinem Namen"
+    },
+    {
+      "surface": "תִּשָּׁבֵֽעַ",
+      "gloss": "sollst du schwören"
+    }
+  ],
+  "timestamp": "2026-08-06T05:27:04.617583338Z",
+  "model": "glm-5.2"
+}

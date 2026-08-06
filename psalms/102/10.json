@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Denn Asche wie Brot habe ich gegessen, und mein Getränk habe ich mit Weinen gemischt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "Asche"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "wie Brot"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "habe ich gegessen"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "und mein Getränk"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "mit Weinen"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "habe ich gemischt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:37.279003180Z",
+  "model": "glm-5.2"
+}

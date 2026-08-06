@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Jehoschafat, der König von Jehuda, kehrte zurück zu seinem Haus in Schalom, nach Jeruschalajim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨er⟩ kehrte zurück"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoschafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "seinem Haus"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in Schalom"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "nach Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-06T05:01:57.659746388Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 75,
+  "translation": "Denn Elohim ⟨ist⟩ Richter: diesen erniedrigt ⟨er⟩, und diesen erhöht ⟨er⟩.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שֹׁפֵ֑ט",
+      "gloss": "⟨ist⟩ Richter"
+    },
+    {
+      "surface": "זֶ֥ה",
+      "gloss": "diesen"
+    },
+    {
+      "surface": "יַ֝שְׁפִּ֗יל",
+      "gloss": "erniedrigt"
+    },
+    {
+      "surface": "וְזֶ֣ה",
+      "gloss": "und diesen"
+    },
+    {
+      "surface": "יָרִֽים",
+      "gloss": "erhöht"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:05.884122830Z",
+  "model": "glm-5.2"
+}

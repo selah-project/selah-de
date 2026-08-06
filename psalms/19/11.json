@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Begehrlicher als Gold und als viel Feingold, und süßer als Honig und Tropfen der Wabe.",
+  "tokens": [
+    {
+      "surface": "הַֽנֶּחֱמָדִ֗ים",
+      "gloss": "Begehrlicher"
+    },
+    {
+      "surface": "מִ֭זָּהָב",
+      "gloss": "als Gold"
+    },
+    {
+      "surface": "וּמִפַּ֣ז",
+      "gloss": "und als Feingold"
+    },
+    {
+      "surface": "רָ֑ב",
+      "gloss": "viel"
+    },
+    {
+      "surface": "וּמְתוּקִ֥ים",
+      "gloss": "und süßer"
+    },
+    {
+      "surface": "מִ֝דְּבַ֗שׁ",
+      "gloss": "als Honig"
+    },
+    {
+      "surface": "וְנֹ֣פֶת",
+      "gloss": "und Tropfen"
+    },
+    {
+      "surface": "צוּפִֽים",
+      "gloss": "der Wabe"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:16.164777324Z",
+  "model": "glm-5.2"
+}

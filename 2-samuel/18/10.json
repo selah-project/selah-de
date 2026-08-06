@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ein Mann sah es und berichtete es Joaw, und er sagte: „Siehe, ich habe ⟨את⟩ Aw-schalom hängend in der Ela gesehen.“",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Und sah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "und berichtete"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ich habe gesehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aw-schalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Aw-schalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "hängend"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "in der Ela"
+    }
+  ],
+  "timestamp": "2026-08-05T21:21:54.437373526Z",
+  "model": "glm-5.2"
+}

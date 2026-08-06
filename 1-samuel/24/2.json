@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 24:2",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und ⟨es⟩ geschah, als Schaul von ⟨der Verfolgung⟩ hinter ⟨den⟩ Pelischtim zurückgekehrt war, da berichteten ⟨sie⟩ ihm und sagten: „Siehe, Dawid ⟨ist⟩ in der Wüste von En-Gedi.“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ geschah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "als"
+    },
+    {
+      "surface": "שב",
+      "gloss": "zurückgekehrt war"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "von hinter"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨den⟩ Pelischtim"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "da berichteten ⟨sie⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagten"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "עין",
+      "gloss": "von En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-06T02:45:25.934169612Z",
+  "model": "glm-5.2"
+}

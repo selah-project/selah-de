@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und Jehoschua machte sich früh am Morgen auf und ließ Jisraël ⟨את⟩ nach seinen Stämmen herantreten, und ergriffen wurde der Stamm Jehuda.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Und er machte sich früh auf"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "und ließ herantreten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "nach seinen Stämmen"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "und ergriffen wurde"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "der Stamm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-08-06T09:55:01.315377712Z",
+  "model": "glm-5.2"
+}

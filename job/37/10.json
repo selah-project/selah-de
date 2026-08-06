@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Vom Hauch Els wird Eis gegeben, und die Weite der Wasser ⟨wird⟩ eingezogen.",
+  "tokens": [
+    {
+      "surface": "מִנִּשְׁמַת",
+      "gloss": "vom Hauch"
+    },
+    {
+      "surface": "אֵ֥ל",
+      "gloss": "Els"
+    },
+    {
+      "surface": "יִתֶּן",
+      "gloss": "wird gegeben"
+    },
+    {
+      "surface": "קָ֑רַח",
+      "gloss": "Eis"
+    },
+    {
+      "surface": "וְרֹ֖חַב",
+      "gloss": "und die Weite"
+    },
+    {
+      "surface": "מַ֣יִם",
+      "gloss": "der Wasser"
+    },
+    {
+      "surface": "בְּמוּצָֽק",
+      "gloss": "⟨wird⟩ eingezogen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:37:13.333628876Z",
+  "model": "glm-5.2"
+}

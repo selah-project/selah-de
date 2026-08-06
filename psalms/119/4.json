@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Du hast ⟨uns⟩ deine Befehle geboten, ⟨sie⟩ sehr zu halten.",
+  "tokens": [
+    {
+      "surface": "אַ֭תָּה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "צִוִּ֥יתָה",
+      "gloss": "hast geboten"
+    },
+    {
+      "surface": "פִקֻּדֶ֗יךָ",
+      "gloss": "deine Befehle"
+    },
+    {
+      "surface": "לִשְׁמֹ֥ר",
+      "gloss": "zu halten"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:59.525249569Z",
+  "model": "glm-5.2"
+}

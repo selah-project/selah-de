@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 85,
+  "translation": "Dem Chorleiter. Den Söhnen Korach. Ein Psalmlied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Den Söhnen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Psalmlied"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:46.921956250Z",
+  "model": "glm-5.2"
+}

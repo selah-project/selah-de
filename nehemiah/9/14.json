@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨את⟩ deinen heiligen Schabbat machtest du ihnen kund, und Mizwot und Ordnungen und Tora befahlst du ihnen durch die Hand Mosches, deines Knechtes.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deinen heiligen Schabbat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Schabbat"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "deinen heiligen"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "machtest du kund"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "und Mizwot"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "und Ordnungen"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "und Tora"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "befahlst du"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosches"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "deines Knechtes"
+    }
+  ],
+  "timestamp": "2026-08-05T23:44:51.002191946Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Sie haben die Taten JHWHs gesehen und seine Wunderwerke in der Tiefe.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Sie"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "haben gesehen"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "die Taten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "und seine Wunderwerke"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "in der Tiefe"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:03.765553260Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und Chasa'el, der König von Aram, starb, und Ben-Hadad, sein Sohn, wurde König an seiner Statt.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Und … starb"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chasa'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "von Aram"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "und … wurde König"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sein Sohn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seiner Statt"
+    }
+  ],
+  "timestamp": "2026-08-06T01:35:17.856583775Z",
+  "model": "glm-5.2"
+}

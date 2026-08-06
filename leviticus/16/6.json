@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und Aharon soll heranbringen ⟨את⟩ den Stier der Chattat, der ihm gehört, und Sühne erwirken für sich und für sein Haus.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "und soll heranbringen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stier"
+    },
+    {
+      "surface": "פר",
+      "gloss": "Stier"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "der Chattat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm gehört"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "und Sühne erwirken"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "für sich"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "und für"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sein Haus"
+    }
+  ],
+  "timestamp": "2026-08-06T05:20:57.111877665Z",
+  "model": "glm-5.2"
+}

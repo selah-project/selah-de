@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 98,
+  "translation": "Kundgetan hat JHWH ⟨sein⟩ Heil, vor den Augen der Völker enthüllte er ⟨seine⟩ Gerechtigkeit.",
+  "tokens": [
+    {
+      "surface": "הוֹדִ֣יעַ",
+      "gloss": "Kundgetan hat"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יְשׁוּעָת֑וֹ",
+      "gloss": "⟨sein⟩ Heil"
+    },
+    {
+      "surface": "לְעֵינֵ֥י",
+      "gloss": "vor den Augen"
+    },
+    {
+      "surface": "הַ֝גּוֹיִ֗ם",
+      "gloss": "der Völker"
+    },
+    {
+      "surface": "גִּלָּ֥ה",
+      "gloss": "enthüllte er"
+    },
+    {
+      "surface": "צִדְקָתֽוֹ",
+      "gloss": "⟨seine⟩ Gerechtigkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:08.654054955Z",
+  "model": "glm-5.2"
+}

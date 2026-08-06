@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Alle, die mich sehen, spotten meiner, sie öffnen die Lippe, sie schütteln ⟨das⟩ Haupt:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "die mich sehen"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "spotten meiner"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meiner"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "sie öffnen"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "die Lippe"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "sie schütteln"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Haupt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:43.728191973Z",
+  "model": "glm-5.2"
+}

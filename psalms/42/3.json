@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Es dürstet meine Nefesch nach Elohim, nach ⟨dem⟩ El, ⟨dem⟩ Lebendigen. Wann werde ich kommen und ⟨das⟩ Angesicht Elohims sehen?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "Es dürstet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nach Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "nach El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Lebendigen"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Wann"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "werde ich kommen"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "und sehen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨das⟩ Angesicht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-08-06T10:30:51.896174325Z",
+  "model": "glm-5.2"
+}

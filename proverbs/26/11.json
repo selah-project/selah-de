@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Wie ein Hund, der zu seinem Gespei zurückkehrt, so ⟨ist⟩ ein Kesil, der seine Torheit wiederholt.",
+  "tokens": [
+    {
+      "surface": "כְּ֭כֶלֶב",
+      "gloss": "Wie ein Hund"
+    },
+    {
+      "surface": "שָׁ֣ב",
+      "gloss": "der zurückkehrt"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "קֵא֑וֹ",
+      "gloss": "seinem Gespei"
+    },
+    {
+      "surface": "כְּ֝סִ֗יל",
+      "gloss": "so ⟨ist⟩ ein Kesil"
+    },
+    {
+      "surface": "שׁוֹנֶ֥ה",
+      "gloss": "der wiederholt"
+    },
+    {
+      "surface": "בְאִוַּלְתּֽוֹ",
+      "gloss": "seine Torheit"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:05.594200905Z",
+  "model": "glm-5.2"
+}

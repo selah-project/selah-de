@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 136:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "⟨An⟩ Sichon, den König der Emoriter, denn für ewig ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "⟨An⟩ Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "der Emoriter"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:06.700775648Z",
+  "model": "glm-5.2"
+}

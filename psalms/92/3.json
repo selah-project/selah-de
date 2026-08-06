@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 92,
+  "translation": "am Morgen zu verkünden dein Chessed und deine Emet in den Nächten,",
+  "tokens": [
+    {
+      "surface": "לְהַגִּיד",
+      "gloss": "zu verkünden"
+    },
+    {
+      "surface": "בַּבֹּקֶר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "חַסְדֶּךָ",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "וֶאֱמֽוּנָתְךָ",
+      "gloss": "und deine Emet"
+    },
+    {
+      "surface": "בַּלֵּילוֹת",
+      "gloss": "in den Nächten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:00:57.830410535Z",
+  "model": "glm-5.2"
+}

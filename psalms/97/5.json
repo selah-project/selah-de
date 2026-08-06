@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 97,
+  "translation": "Die Berge zerflossen wie Wachs vor JHWH, vor dem Adon ⟨der ganzen⟩ Erde.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Die Berge"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "wie Wachs"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "zerflossen"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "dem Adon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:00.595497163Z",
+  "model": "glm-5.2"
+}

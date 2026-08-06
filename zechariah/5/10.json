@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ich sagte zu dem Malach, der in mir sprach: „Wohin bringen ⟨sie⟩ ⟨את⟩ das Efa?“",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Und ich sagte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "dem Malach"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "der sprach"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in mir"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Wohin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "bringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Efa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "das Efa"
+    }
+  ],
+  "timestamp": "2026-08-06T04:04:28.157894921Z",
+  "model": "glm-5.2"
+}

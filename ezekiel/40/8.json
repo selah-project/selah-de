@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und er maß ⟨את⟩ die Halle des Tors, vom Haus ⟨aus gesehen⟩: ein Rohr.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "und er maß"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Halle"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "die Halle"
+    },
+    {
+      "surface": "השער",
+      "gloss": "des Tors"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "vom Haus"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ein Rohr"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨eins⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T03:54:22.318659676Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Elohim sah ⟨את⟩ die Erde, und siehe, sie ⟨war⟩ verdorben; denn alles Fleisch hatte seinen Weg auf der Erde verdorben.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Und sah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "war verdorben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "hatte verdorben"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Weg"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "seinen Weg"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:31.792913441Z",
+  "model": "glm-5.2"
+}

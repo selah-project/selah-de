@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 120,
+  "translation": "Was wird ⟨er⟩ dir geben, und was wird ⟨er⟩ dir hinzufügen, du trügerische Zunge?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wird geben"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "und was"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "wird hinzufügen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "Zunge"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "trügerische"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:07.471013680Z",
+  "model": "glm-5.2"
+}

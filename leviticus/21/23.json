@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Nur zum Vorhang soll er nicht kommen, und zum Altar soll er nicht herantreten, denn ein Makel ist in ihm; und er soll ⟨את⟩ mein Heiligtum nicht entweihen, denn ich, JHWH, heilige sie.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "Vorhang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "soll er kommen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zum"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "Altar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "soll er herantreten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ein Makel"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in ihm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "soll er entweihen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Heiligtum"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mein Heiligtum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "heilige sie"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:15.015023624Z",
+  "model": "glm-5.2"
+}

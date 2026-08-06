@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 142,
+  "translation": "Führe heraus meine Nefesch aus dem Einschließungsort, um zu preisen ⟨את⟩ deinen Namen! Um mich her werden Gerechte ⟨sich krönen⟩, denn du wirst an mir handeln ⟨mit Güte⟩.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Führe heraus"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "aus dem Einschließungsort"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "um zu preisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Namen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Um mich her"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "werden ⟨sich krönen⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "Gerechte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "du wirst handeln"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "an mir"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:57.068879325Z",
+  "model": "glm-5.2"
+}

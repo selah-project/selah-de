@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Ihr sollt nicht stehlen, und ihr sollt nicht leugnen, und ihr sollt nicht lügen, ein Mann ⟨gegen⟩ seinen Nächsten.",
+  "tokens": [
+    {
+      "surface": "לֹ֖א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּגְנֹ֑בוּ",
+      "gloss": "Ihr sollt stehlen"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תְכַחֲשׁ֥וּ",
+      "gloss": "sollt ihr leugnen"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תְשַׁקְּר֖וּ",
+      "gloss": "sollt ihr lügen"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "בַּעֲמִיתֽוֹ",
+      "gloss": "gegen seinen Nächsten"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:41.739109692Z",
+  "model": "glm-5.2"
+}

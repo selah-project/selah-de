@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Zu jener Zeit wurde Awija, der Sohn Jarobams, krank.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Zu der Zeit"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "jener"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "wurde krank"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Awija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "des Jarobam"
+    }
+  ],
+  "timestamp": "2026-08-06T01:26:16.572371326Z",
+  "model": "glm-5.2"
+}

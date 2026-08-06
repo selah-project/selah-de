@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "und sie warfen, jeder seinen Stab, und sie wurden zu Schlangen; und der Stab Aharons verschlang ⟨את⟩ ihre Stäbe.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "und sie warfen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "seinen Stab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "und sie wurden"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "zu Schlangen"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "und verschlang"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "der Stab"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Stäbe"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "ihre Stäbe"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:04.613866389Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 56,
+  "translation": "Den ganzen Tag hindurch verdrehen sie meine Worte, über mich — all ihre Gedanken ⟨richten sich⟩ auf Böses.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag hindurch"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "meine Worte"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "verdrehen sie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "über mich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "ihre Gedanken"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "auf Böses"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:41.154962381Z",
+  "model": "glm-5.2"
+}

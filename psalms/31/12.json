@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Ein Schande bin ich geworden all meinen Bedrängern gegenüber, und ⟨das⟩ in hohem Maß meinen Nachbarn, und ein Schrecken meinen Bekannten; ⟨die⟩ mich draußen sehen — sie flohen vor mir.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "meinen Bedrängern"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bin ich geworden"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ein Schande"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "und meinen Nachbarn"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "in hohem Maß"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "und ein Schrecken"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "meinen Bekannten"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "⟨die⟩ sehen"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "draußen"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "sie flohen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "vor mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:45.010070584Z",
+  "model": "glm-5.2"
+}

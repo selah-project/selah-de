@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 2:25",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Halte deinen Fuß vom Barfußgehen zurück und deine Kehle vorm Durst! Aber du sagtest: „Hoffnungslos! Nein, denn ich liebe Fremde, und hinter ihnen her werde ich gehen.“",
+  "tokens": [
+    {
+      "surface": "מִנְעִ֤י",
+      "gloss": "halte zurück"
+    },
+    {
+      "surface": "רַגְלֵךְ֙",
+      "gloss": "deinen Fuß"
+    },
+    {
+      "surface": "מִיָּחֵ֔ף",
+      "gloss": "vom Barfußgehen"
+    },
+    {
+      "surface": "וגורנך",
+      "gloss": "und deine Kehle"
+    },
+    {
+      "surface": "מִצִּמְאָ֑ה",
+      "gloss": "vorm Durst"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "und du sagtest"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "Hoffnungslos"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "Nein"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ich liebe"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "Fremde"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "und hinter ihnen"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "werde ich gehen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:05:45.482751305Z",
+  "model": "glm-5.2"
+}

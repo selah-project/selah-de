@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 73,
+  "translation": "Darum wendet ⟨sein⟩ Volk ⟨sich⟩ hierher, und Wasser ⟨der⟩ Fülle saugen sie aus für sie.",
+  "tokens": [
+    {
+      "surface": "לָכֵ֤ן",
+      "gloss": "darum"
+    },
+    {
+      "surface": "יָשִׁ֨יב",
+      "gloss": "wendet"
+    },
+    {
+      "surface": "עַמּ֣וֹ",
+      "gloss": "⟨sein⟩ Volk"
+    },
+    {
+      "surface": "הֲלֹ֑ם",
+      "gloss": "hierher"
+    },
+    {
+      "surface": "וּמֵ֥י",
+      "gloss": "und Wasser"
+    },
+    {
+      "surface": "מָלֵ֗א",
+      "gloss": "⟨der⟩ Fülle"
+    },
+    {
+      "surface": "יִמָּ֥צוּ",
+      "gloss": "saugen sie aus"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "für sie"
+    }
+  ],
+  "timestamp": "2026-08-06T09:16:57.909082163Z",
+  "model": "glm-5.2"
+}

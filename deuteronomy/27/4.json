@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und es soll geschehen: Bei eurem Überqueren ⟨את⟩ des Jardén sollt ihr ⟨את⟩ diese Steine aufrichten, die ich euch heute gebiete, auf dem Berg Ewal, und du sollst sie mit Kalk bestreichen.",
+  "tokens": [
+    {
+      "surface": "וְהָיָה֮",
+      "gloss": "und es soll geschehen"
+    },
+    {
+      "surface": "בְּעָבְרְכֶ֣ם",
+      "gloss": "bei eurem Überqueren"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "des Jardén"
+    },
+    {
+      "surface": "הַיַּרְדֵּ֟ן",
+      "gloss": "des Jardén"
+    },
+    {
+      "surface": "תָּקִ֜ימוּ",
+      "gloss": "sollt ihr aufrichten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "diese Steine"
+    },
+    {
+      "surface": "הָאֲבָנִ֣ים",
+      "gloss": "die Steine"
+    },
+    {
+      "surface": "הָאֵ֗לֶּה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אָנֹכִ֜י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מְצַוֶּ֥ה",
+      "gloss": "gebeite"
+    },
+    {
+      "surface": "אֶתְכֶ֛ם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "הַיּ֖וֹם",
+      "gloss": "heute"
+    },
+    {
+      "surface": "בְּהַ֣ר",
+      "gloss": "auf dem Berg"
+    },
+    {
+      "surface": "עֵיבָ֑ל",
+      "gloss": "Ewal"
+    },
+    {
+      "surface": "וְשַׂדְתָּ֥",
+      "gloss": "und ⟨du⟩ sollst bestreichen"
+    },
+    {
+      "surface": "אוֹתָ֖ם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "mit Kalk"
+    },
+    {
+      "surface": "בַּשִּֽׂיד",
+      "gloss": "mit Kalk"
+    }
+  ],
+  "timestamp": "2026-08-05T20:50:33.145967204Z",
+  "model": "glm-5.2"
+}

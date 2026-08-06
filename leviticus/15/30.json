@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und der Kohen soll ⟨את⟩ das eine als Chattat bereiten und ⟨את⟩ das andere als Ola, und der Kohen soll für sie Sühne erwirken vor dem Angesicht JHWHs, wegen ihres Flusses, ⟨ihrer⟩ Unreinheit.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Und er soll bereiten"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das eine"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "das eine"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "als Chattat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das andere"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "das andere"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "als Ola"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "und er soll Sühne erwirken"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor dem Angesicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "wegen ihres Flusses"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "ihrer Unreinheit"
+    }
+  ],
+  "timestamp": "2026-08-06T02:11:30.534512165Z",
+  "model": "glm-5.2"
+}

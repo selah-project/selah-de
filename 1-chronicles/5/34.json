@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Achitub zeugte ⟨את⟩ Zadok, und Zadok zeugte ⟨את⟩ Achimaaz.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Und Achitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Zadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "und Zadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achimaaz"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaaz"
+    }
+  ],
+  "timestamp": "2026-08-06T07:19:51.383301372Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Aber in dieser Sache glaubt ihr JHWH, eurem Elohim, nicht.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "Aber in ⟨der⟩ Sache"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "glaubt ihr"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eurem Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:04.489040836Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 120,
+  "translation": "Ich ⟨bin⟩ Schalom; und wenn ich rede, sie ⟨sind⟩ für Krieg.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ich rede"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "für Krieg"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:01.648117084Z",
+  "model": "glm-5.2"
+}

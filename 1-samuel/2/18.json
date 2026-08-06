@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Schmu'el diente ⟨vor⟩ dem Angesicht von JHWH, ⟨als⟩ Junge, umgürtet mit einem Efod aus Leinen.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Und Schmu'el"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "diente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem Angesicht"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Angesicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "נער",
+      "gloss": "Junge"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "umgürtet"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "mit einem Efod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "aus Leinen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:37:50.835611226Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Du, du sollst sprechen ⟨את⟩ alles, was ich dir gebiete; und Aharon, dein Bruder, soll zu Paro sprechen, ⟨und⟩ er soll ⟨את⟩ die Söhne Jisraels aus seinem Land ziehen lassen.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "du sollst sprechen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ich dir gebiete"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dein Bruder"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "soll sprechen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "und ⟨er⟩ soll ziehen lassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "aus seinem Land"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:55.168223536Z",
+  "model": "glm-5.2"
+}

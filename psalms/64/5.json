@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 64,
+  "translation": "um zu schießen im Verborgenen ⟨auf den⟩ Schuldlosen — plötzlich schießt man ⟨auf ihn⟩, und sie fürchten sich nicht.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "um zu schießen"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "im Verborgenen"
+    },
+    {
+      "surface": "תם",
+      "gloss": "Schuldloser"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "plötzlich"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "schießt man"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "fürchten sie sich"
+    }
+  ],
+  "timestamp": "2026-08-06T22:46:57.614062194Z",
+  "model": "glm-5.2"
+}

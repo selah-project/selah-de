@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und ⟨את⟩ den Widder der Einweihung sollst du nehmen und ⟨את⟩ sein Fleisch kochen an heiliger Stätte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Und ⟨את⟩"
+    },
+    {
+      "surface": "איל",
+      "gloss": "den Widder"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "der Einweihung"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "sollst du nehmen"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "und ⟨sollst⟩ kochen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Fleisch"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sein Fleisch"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "an ⟨der⟩ Stätte"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiliger"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:34.274548142Z",
+  "model": "glm-5.2"
+}

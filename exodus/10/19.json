@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und JHWH drehte einen sehr starken Meerwind um, und ⟨er⟩ hob ⟨את⟩ die Heuschrecken auf und trieb sie ins Schilfmeer. Nicht eine einzige Heuschrecke blieb übrig in ganz ⟨der⟩ Grenze Mizrajims.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "und ⟨er⟩ drehte um"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Wind"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Meer"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "stark"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "und ⟨er⟩ hob auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Heuschrecken"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "die Heuschrecken"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "und ⟨er⟩ trieb es"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ins Meer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Schilf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "blieb übrig"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "Heuschrecke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eine"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ganz"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨der⟩ Grenze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajims"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:34.495153352Z",
+  "model": "glm-5.2"
+}

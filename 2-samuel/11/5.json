@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und die Frau wurde schwanger, und sie sandte ⟨hin⟩ und ließ Dawid ⟨es⟩ melden und sagte: „Schwanger bin ich.“",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "und sie wurde schwanger"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "und sie sandte"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "und sie ließ melden"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "und sie sagte"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "schwanger"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "bin ich"
+    }
+  ],
+  "timestamp": "2026-08-06T22:38:51.436548498Z",
+  "model": "glm-5.2"
+}

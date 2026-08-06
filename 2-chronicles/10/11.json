@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "„Und nun: mein Vater hat euch ein schweres Joch aufgeladen, und ich, ich werde ⟨noch⟩ auf euer Joch tun. Mein Vater hat ⟨את⟩ euch mit Peitschen gezüchtigt, und ich — mit Skorpionen.“",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mein Vater"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "hat aufgeladen"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "auf euch"
+    },
+    {
+      "surface": "על",
+      "gloss": "ein Joch"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "schweres"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "werde ich tun"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "euer Joch"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Mein Vater"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "hat gezüchtigt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "mit Peitschen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "mit Skorpionen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:46:28.317301920Z",
+  "model": "glm-5.2"
+}

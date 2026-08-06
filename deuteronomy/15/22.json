@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "In deinen Toren sollst du ⟨es⟩ essen; der Unreine und der Reine zusammen, wie die Gazelle und wie den Hirsch.",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "In deinen Toren"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "sollst du essen"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "der Unreine"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "und der Reine"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "wie die Gazelle"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "und wie den Hirsch"
+    }
+  ],
+  "timestamp": "2026-08-05T20:46:34.304503892Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und JHWH stieg herab auf den Berg Sinaj, ⟨auf⟩ ⟨den⟩ Kopf des Berges. Und JHWH rief zu Mosche, ⟨auf⟩ ⟨den⟩ Kopf des Berges, und Mosche stieg hinauf.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Und stieg herab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨den⟩ Berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨auf⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Kopf"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "des Berges"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Und rief"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "zu Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨auf⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Kopf"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "des Berges"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und stieg hinauf"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    }
+  ],
+  "timestamp": "2026-08-06T14:50:35.285598253Z",
+  "model": "glm-5.2"
+}

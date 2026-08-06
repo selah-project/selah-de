@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Halten wir nicht als Fremde bei ihm? Denn er hat uns verkauft und ⟨hat⟩ sogar ⟨unser⟩ Geld ⟨völlig⟩ aufgezehrt ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Halten wir nicht"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "als Fremde"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "wir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bei ihm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "er hat uns verkauft"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "und ⟨hat⟩ aufgezehrt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sogar"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "⟨völlig⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨unser⟩ Geld"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "⟨unser⟩ Geld"
+    }
+  ],
+  "timestamp": "2026-08-05T17:36:54.898062610Z",
+  "model": "glm-5.2"
+}

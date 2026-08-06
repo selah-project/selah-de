@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und ihr sollt euch ⟨die⟩ Grenze nach Osten abstecken: von Hazar-Enan nach Schefam.",
+  "tokens": [
+    {
+      "surface": "וְהִתְאַוִּיתֶ֥ם",
+      "gloss": "Und ihr sollt abstecken"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "לִגְב֣וּל",
+      "gloss": "⟨die⟩ Grenze"
+    },
+    {
+      "surface": "קֵ֑דְמָה",
+      "gloss": "nach Osten"
+    },
+    {
+      "surface": "מֵחֲצַ֥ר",
+      "gloss": "von Hazar"
+    },
+    {
+      "surface": "עֵינָ֖ן",
+      "gloss": "-Enan"
+    },
+    {
+      "surface": "שְׁפָֽמָה",
+      "gloss": "nach Schefam"
+    }
+  ],
+  "timestamp": "2026-08-06T00:41:15.131289492Z",
+  "model": "glm-5.2"
+}

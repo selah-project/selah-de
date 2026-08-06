@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und ich schrieb in die Urkunde und siegelte ⟨sie⟩ und ließ Zeugen antreten und wog das Silber auf der Waage ab.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "und ich schrieb"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in die Urkunde"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "und ich siegelte"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "und ich ließ antreten"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "Zeugen"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "und ich wog ab"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "das Silber"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "auf der Waage"
+    }
+  ],
+  "timestamp": "2026-08-06T03:33:57.363689993Z",
+  "model": "glm-5.2"
+}

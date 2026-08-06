@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Der schlug ⟨את⟩ die Erstgeburt von Mizrajim, vom Menschen bis zum Vieh.",
+  "tokens": [
+    {
+      "surface": "שֶֽׁ֭הִכָּה",
+      "gloss": "Der schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erstgeburt"
+    },
+    {
+      "surface": "בְּכוֹרֵ֣י",
+      "gloss": "die Erstgeburt"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "von Mizrajim"
+    },
+    {
+      "surface": "מֵ֝אָדָ֗ם",
+      "gloss": "vom Menschen"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בְּהֵמָֽה",
+      "gloss": "zum Vieh"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:51.557446468Z",
+  "model": "glm-5.2"
+}

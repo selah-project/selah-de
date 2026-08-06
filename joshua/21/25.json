@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und von der Hälfte des Stammes Menasche ⟨gaben sie⟩ ⟨את⟩ Taanach und ⟨את⟩ ⟨ihre⟩ Weideflächen und ⟨את⟩ Gat-Rimon und ⟨את⟩ ⟨ihre⟩ Weideflächen — zwei Städte.",
+  "tokens": [
+    {
+      "surface": "וּמִֽמַּחֲצִית֙",
+      "gloss": "und von der Hälfte"
+    },
+    {
+      "surface": "מַטֵּ֣ה",
+      "gloss": "Stamm"
+    },
+    {
+      "surface": "מְנַשֶּׁ֔ה",
+      "gloss": "Menasche"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Taanach"
+    },
+    {
+      "surface": "תַּעְנַךְ֙",
+      "gloss": "Taanach"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Weideflächen"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֔הָ",
+      "gloss": "⟨ihre⟩ Weideflächen"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גַּת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רִמּ֖וֹן",
+      "gloss": "-Rimon"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Weideflächen"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֑הָ",
+      "gloss": "⟨ihre⟩ Weideflächen"
+    },
+    {
+      "surface": "עָרִ֖ים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "שְׁתָּֽיִם",
+      "gloss": "zwei"
+    }
+  ],
+  "timestamp": "2026-08-06T02:32:31.412891255Z",
+  "model": "glm-5.2"
+}

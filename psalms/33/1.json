@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Jauchzt, ihr Gerechten, in JHWH! Den Aufrechten ⟨steht⟩ Lob an.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Jauchzt"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ihr Gerechten"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in JHWH"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "den Aufrechten"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "⟨steht⟩ an"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "Lob"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:32.073344366Z",
+  "model": "glm-5.2"
+}

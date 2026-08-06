@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Wehe ⟨dem⟩ Tosen vieler Völker — wie das Tosen der Meere tosen sie, und das Brausen der Nationen, wie das Brausen gewaltiger Wasser, so brausen sie.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "המון",
+      "gloss": "⟨dem⟩ Tosen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "der Völker"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vieler"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "wie das Tosen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "der Meere"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "tosen sie"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "und das Brausen"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "der Nationen"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "wie das Brausen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "von Wasser"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "gewaltiger"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "so brausen sie"
+    }
+  ],
+  "timestamp": "2026-08-06T01:42:46.742610146Z",
+  "model": "glm-5.2"
+}

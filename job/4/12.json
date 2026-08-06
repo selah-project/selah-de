@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und zu mir wurde ein Wort geschlichen, und mein Ohr nahm ⟨einen⟩ Hauch davon auf.",
+  "tokens": [
+    {
+      "surface": "וְ֭אֵלַי",
+      "gloss": "und zu mir"
+    },
+    {
+      "surface": "דָּבָ֣ר",
+      "gloss": "ein Wort"
+    },
+    {
+      "surface": "יְגֻנָּ֑ב",
+      "gloss": "wurde geschlichen"
+    },
+    {
+      "surface": "וַתִּקַּ֥ח",
+      "gloss": "und ⟨es⟩ nahm"
+    },
+    {
+      "surface": "אָזְנִ֗י",
+      "gloss": "mein Ohr"
+    },
+    {
+      "surface": "שֵׁ֣ץ",
+      "gloss": "Hauch"
+    },
+    {
+      "surface": "מֶנְהֽוּ",
+      "gloss": "davon"
+    }
+  ],
+  "timestamp": "2026-08-05T23:16:27.160489171Z",
+  "model": "glm-5.2"
+}

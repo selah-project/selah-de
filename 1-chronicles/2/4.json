@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Tamar, seine Schwiegertochter, gebar ihm ⟨את⟩ Parezz und ⟨את⟩ Serach. Alle Söhne Jehudahs ⟨waren⟩ fünf.",
+  "tokens": [
+    {
+      "surface": "וְתָמָר",
+      "gloss": "Und Tamar"
+    },
+    {
+      "surface": "כַלָּתוֹ",
+      "gloss": "seine Schwiegertochter"
+    },
+    {
+      "surface": "יָלְדָה",
+      "gloss": "gebar"
+    },
+    {
+      "surface": "לּוֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Parezz"
+    },
+    {
+      "surface": "פֶּרֶץ",
+      "gloss": "Parezz"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Serach"
+    },
+    {
+      "surface": "זֶרַח",
+      "gloss": "Serach"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Jehudahs"
+    },
+    {
+      "surface": "חֲמִשָּֽׁה",
+      "gloss": "fünf"
+    }
+  ],
+  "timestamp": "2026-08-05T23:46:10.055605943Z",
+  "model": "glm-5.2"
+}

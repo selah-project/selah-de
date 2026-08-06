@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 97,
+  "translation": "Die JHWH Lieben hasst ⟨das⟩ Böse! ⟨Er⟩, der die Nefeschot seiner Frommen bewahrt, aus der Hand der Frevler rettet er sie.",
+  "tokens": [
+    {
+      "surface": "אֹהֲבֵ֥י",
+      "gloss": "die Liebenden"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שִׂנְא֫וּ",
+      "gloss": "hasst"
+    },
+    {
+      "surface": "רָ֥ע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "שֹׁ֭מֵר",
+      "gloss": "der Bewahrende"
+    },
+    {
+      "surface": "נַפְשׁ֣וֹת",
+      "gloss": "Nefeschot"
+    },
+    {
+      "surface": "חֲסִידָ֑יו",
+      "gloss": "seiner Frommen"
+    },
+    {
+      "surface": "מִיַּ֥ד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "רְ֝שָׁעִ֗ים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "יַצִּילֵֽם",
+      "gloss": "rettet er sie"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:44.506349913Z",
+  "model": "glm-5.2"
+}

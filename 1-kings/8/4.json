@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und sie brachten hinauf ⟨את⟩ die Lade JHWHs und ⟨את⟩ das Zelt der Begegnung und ⟨את⟩ alle Geräte der Heiligkeit, die im Zelt waren; und die Kohen und die Lewim brachten sie hinauf.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Und sie brachten hinauf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Lade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Zelt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Geräte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "Geräte"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "der Heiligkeit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "im Zelt"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "waren; und sie brachten hinauf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die Kohen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "und die Lewim"
+    }
+  ],
+  "timestamp": "2026-08-06T05:49:32.755583267Z",
+  "model": "glm-5.2"
+}

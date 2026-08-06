@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und er ging und nahm ⟨sie⟩ und brachte ⟨sie⟩ seiner Mutter. Und seine Mutter bereitete Schmankerln zu, wie sein Vater liebte.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Und-er-ging"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "und-nahm"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und-brachte"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "seiner-Mutter"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "Und-sie-bereitete-zu"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "seine-Mutter"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "Schmankerln"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liebte"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sein-Vater"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:01.899691126Z",
+  "model": "glm-5.2"
+}

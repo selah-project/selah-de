@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "und Wein, der das Herz des Sterblichen erfreut, das Gesicht von Öl erstrahlen zu lassen, und Brot, das das Herz des Sterblichen stützt.",
+  "tokens": [
+    {
+      "surface": "וְיַ֤יִן",
+      "gloss": "und Wein"
+    },
+    {
+      "surface": "יְשַׂמַּ֬ח",
+      "gloss": "erfreut"
+    },
+    {
+      "surface": "לְֽבַב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "אֱנ֗וֹשׁ",
+      "gloss": "des Sterblichen"
+    },
+    {
+      "surface": "לְהַצְהִ֣יל",
+      "gloss": "erstrahlen zu lassen"
+    },
+    {
+      "surface": "פָּנִ֣ים",
+      "gloss": "das Gesicht"
+    },
+    {
+      "surface": "מִשָּׁ֑מֶן",
+      "gloss": "von Öl"
+    },
+    {
+      "surface": "וְ֝לֶ֗חֶם",
+      "gloss": "und Brot"
+    },
+    {
+      "surface": "לְֽבַב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "אֱנ֥וֹשׁ",
+      "gloss": "des Sterblichen"
+    },
+    {
+      "surface": "יִסְעָֽד",
+      "gloss": "stützt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:31.542280766Z",
+  "model": "glm-5.2"
+}

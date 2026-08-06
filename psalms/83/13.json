@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 83,
+  "translation": "die sagten: „Lasst uns ⟨את⟩ die Weideplätze des Elohim uns in Besitz nehmen.\"",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אָ֭מְרוּ",
+      "gloss": "sagten"
+    },
+    {
+      "surface": "נִ֣ירֲשָׁה",
+      "gloss": "lasst uns in Besitz nehmen"
+    },
+    {
+      "surface": "לָּ֑נוּ",
+      "gloss": "uns"
+    },
+    {
+      "surface": "אֵ֝֗ת",
+      "gloss": "⟨את⟩",
+      "marks": "die Weideplätze"
+    },
+    {
+      "surface": "נְא֣וֹת",
+      "gloss": "Weideplätze"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "des Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:56:43.213770028Z",
+  "model": "glm-5.2"
+}

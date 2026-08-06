@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Hebt eure Häupter, ihr Tore, und richtet euch auf, ihr uralten Türen, dass der König der Herrlichkeit einziehe!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Hebt"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ihr Tore"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "eure Häupter"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "und richtet euch auf"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ihr Türen"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "uralten"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dass einziehe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "der Herrlichkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:23.465464425Z",
+  "model": "glm-5.2"
+}

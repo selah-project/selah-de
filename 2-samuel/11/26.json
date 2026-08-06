@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨die⟩ Frau Urijas hörte, dass Urija, ihr Mann, gestorben war, und sie hielt Totenklage über ihren Mann.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "Und hörte"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "Frau"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "מת",
+      "gloss": "gestorben war"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ihr Mann"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "und hielt Totenklage"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ihren Mann"
+    }
+  ],
+  "timestamp": "2026-08-05T21:19:30.785363855Z",
+  "model": "glm-5.2"
+}

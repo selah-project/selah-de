@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und er sprach: „⟨את⟩ deine Stimme hörte ich im Garten, und ich fürchtete mich, denn nackt bin ich, und ich versteckte mich.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Stimme"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "deine Stimme"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hörte ich"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "im Garten"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "und ich fürchtete mich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "nackt"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "bin ich"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "und ich versteckte mich"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:06.191138147Z",
+  "model": "glm-5.2"
+}

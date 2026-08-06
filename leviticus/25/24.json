@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und im ganzen Land eures Besitzes sollt ihr ⟨der⟩ Erlösung ⟨Raum⟩ geben dem Land.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "und im ganzen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "eures Besitzes"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "Erlösung"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "sollt ihr geben"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dem Land"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:26.996568343Z",
+  "model": "glm-5.2"
+}

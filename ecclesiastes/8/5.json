@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Wer ⟨die⟩ Mizwa bewahrt, wird kein böses Ding erfahren, und Zeit und Rechtspruch — das Herz eines Weisen weiß ⟨es⟩.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Wer bewahrt"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "⟨die⟩ Mizwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wird erfahren"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ein Ding"
+    },
+    {
+      "surface": "רע",
+      "gloss": "böses"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "und Zeit"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "und Rechtspruch"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weiß"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "eines Weisen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:12.578813349Z",
+  "model": "glm-5.2"
+}

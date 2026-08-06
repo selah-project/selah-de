@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und ich sandte ⟨את⟩ Mosche und ⟨את⟩ Aharon, und ich plagte ⟨את⟩ Mizrajim, so wie ich in seiner Mitte getan habe, und danach führte ich euch heraus.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "und ich sandte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "und ich plagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mizrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ich getan habe"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in seiner Mitte"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "und danach"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "führte ich heraus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "euch"
+    }
+  ],
+  "timestamp": "2026-08-05T20:59:33.532403342Z",
+  "model": "glm-5.2"
+}

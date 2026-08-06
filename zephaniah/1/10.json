@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 1:10",
+  "book": "zephaniah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und es wird geschehen an jenem Tag — Spruch JHWHs: ein Geschrei vom Fischtor her und ein Heulen von der Unterstadt her und ein großer Zusammenbruch von den Hügeln her.",
+  "tokens": [
+    {
+      "surface": "וְהָיָה",
+      "gloss": "Und es wird geschehen"
+    },
+    {
+      "surface": "בַּיּוֹם",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "Spruch"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "קוֹל",
+      "gloss": "ein Geschrei"
+    },
+    {
+      "surface": "צְעָקָה",
+      "gloss": "vom Schrei"
+    },
+    {
+      "surface": "מִשַּׁעַר",
+      "gloss": "vom Tor"
+    },
+    {
+      "surface": "הַדָּגִים",
+      "gloss": "der Fische"
+    },
+    {
+      "surface": "וִילָלָה",
+      "gloss": "und ein Heulen"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הַמִּשְׁנֶה",
+      "gloss": "der Unterstadt"
+    },
+    {
+      "surface": "וְשֶׁבֶר",
+      "gloss": "und ein Zusammenbruch"
+    },
+    {
+      "surface": "גָּדוֹל",
+      "gloss": "großer"
+    },
+    {
+      "surface": "מֵהַגְּבָעוֹת",
+      "gloss": "von den Hügeln"
+    }
+  ],
+  "timestamp": "2026-08-05T22:39:52.727884439Z",
+  "model": "glm-5.2"
+}

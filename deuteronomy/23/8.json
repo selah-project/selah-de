@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Nicht sollst du verabscheuen ⟨den⟩ Edomi, denn ⟨er ist⟩ dein Bruder. Nicht sollst du verabscheuen ⟨den⟩ Mizri, denn als Fremdling warst du in seinem Land.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "sollst du verabscheuen"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "den Edomi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dein Bruder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ist"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "sollst du verabscheuen"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "den Mizri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גר",
+      "gloss": "als Fremdling"
+    },
+    {
+      "surface": "היית",
+      "gloss": "warst du"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "in seinem Land"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:34.146531273Z",
+  "model": "glm-5.2"
+}

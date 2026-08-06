@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "Jisra'el, vertraue auf JHWH! ⟨Er ist⟩ ihre Hilfe und ihr Schild, er.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertraue"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "auf JHWH"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ihre Hilfe"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "und ihr Schild"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:41.391224478Z",
+  "model": "glm-5.2"
+}

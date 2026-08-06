@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und die Ältesten jener Stadt sollen ⟨den⟩ Mann nehmen, ⟨את⟩, und ihn züchtigen, ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Und sollen nehmen"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die Ältesten"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jener"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Mann"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "den Mann"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "und sollen züchtigen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn ⟨את⟩",
+      "marks": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T20:20:41.927795569Z",
+  "model": "glm-5.2"
+}

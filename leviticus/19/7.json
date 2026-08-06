@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und wenn ⟨es⟩ gegessen wird, gegessen am dritten Tag: ⟨Es ist⟩ etwas Widerliches — es wird nicht angenommen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "gegessen wird"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "gegessen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "dem dritten"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "etwas Widerliches"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es ⟨ist⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "es wird angenommen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:45.574182813Z",
+  "model": "glm-5.2"
+}

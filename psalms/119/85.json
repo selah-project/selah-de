@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Übermütige haben mir Gruben gegraben, die ⟨nicht⟩ nach deiner Tora ⟨sind⟩.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "haben gegraben"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "Übermütige"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "Gruben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "nach deiner Tora"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:47.050871799Z",
+  "model": "glm-5.2"
+}

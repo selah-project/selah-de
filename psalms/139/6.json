@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Wunderbar ⟨ist⟩ ⟨die⟩ Erkenntnis über ⟨mir⟩ — ⟨sie⟩ ⟨ist⟩ zu hoch, ich vermag ⟨sie⟩ nicht.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "Wunderbar"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Erkenntnis"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "über ⟨mir⟩"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "zu hoch"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ich vermag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:09.670239158Z",
+  "model": "glm-5.2"
+}

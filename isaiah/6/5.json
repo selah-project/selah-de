@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 6:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ich sagte: Wehe mir, denn ich ⟨bin⟩ vernichtet, denn ein Mensch unreiner Lippen bin ich, und inmitten eines Volkes unreiner Lippen wohne ich — denn ⟨את⟩ den König, JHWH der Heerscharen, haben meine Augen gesehen.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Und ich sagte"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נדמיתי",
+      "gloss": "ich bin vernichtet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mensch"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unreiner"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "Lippen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "bin ich"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "und inmitten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "eines Volkes"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unreiner"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "Lippen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "wohne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den König"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "haben gesehen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:10:48.626825734Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Aharon ⟨und⟩ seine Söhne kommen hinein, beim Aufbrechen des Lagers, und sie nehmen herab ⟨את⟩ den Vorhang des Schirmvorhangs, und sie bedecken damit ⟨את⟩ die Lade ⟨der⟩ Zeugnis.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "und ⟨er⟩ kommt hinein"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "beim Aufbrechen"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "des Lagers"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "und sie nehmen herab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Vorhang"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "den Vorhang"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "des Schirmvorhangs"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "und sie bedecken"
+    },
+    {
+      "surface": "בה",
+      "gloss": "damit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "⟨der⟩ Zeugnis"
+    }
+  ],
+  "timestamp": "2026-08-05T20:30:22.476689031Z",
+  "model": "glm-5.2"
+}

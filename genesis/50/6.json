@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Und Paro sagte: „Zieh hinauf und begrabe ⟨את⟩ deinen Vater, wie er dich hat schwören lassen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "zieh hinauf"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "und begrabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Vater"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deinen Vater"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "er dich hat schwören lassen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:00:16.195183306Z",
+  "model": "glm-5.2"
+}

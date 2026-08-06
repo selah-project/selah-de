@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und JHWH sprach zu Mosche: Ein Fürst pro Tag, ein Fürst pro Tag — sie sollen ⟨את⟩ ihre Korban darbringen zur Einweihung des Altars.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "Ein Fürst"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ein"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pro Tag"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ein Fürst"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ein"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pro Tag"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "sie sollen darbringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Korban"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "ihre Korban"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "zur Einweihung"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "des Altars"
+    }
+  ],
+  "timestamp": "2026-08-05T20:31:26.161073433Z",
+  "model": "glm-5.2"
+}

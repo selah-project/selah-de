@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und du sollst ⟨את⟩ sie geben unter die Einfassung des Altars, von unten, und das Netz soll ⟨sein⟩ bis zur Hälfte des Altars.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Und du sollst geben"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie (das Gitter)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "die Einfassung"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "des Altars"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "von unten"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "und ⟨sie⟩ soll ⟨sein⟩"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "das Netz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "zur Hälfte"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "des Altars"
+    }
+  ],
+  "timestamp": "2026-08-06T02:06:33.690915597Z",
+  "model": "glm-5.2"
+}

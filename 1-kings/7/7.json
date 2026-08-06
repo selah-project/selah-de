@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨die⟩ Halle des Throns, von der aus er dort Gericht hielt — ⟨das ist⟩ die Halle des Rechts —, ⟨die⟩ machte er, und ⟨sie⟩ war mit Zedern verkleidet vom Boden bis zum Boden.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "und ⟨die⟩ Halle"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "des Throns"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "von der aus"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "er Gericht hielt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "⟨das ist⟩ die Halle"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "des Rechts"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "machte ⟨er⟩"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "und ⟨sie⟩ war verkleidet"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "mit Zedern"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "vom Boden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "zum Boden"
+    }
+  ],
+  "timestamp": "2026-08-06T01:23:52.057154369Z",
+  "model": "glm-5.2"
+}

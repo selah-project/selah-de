@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Zum Lachen sagte ich: Tollheit. Und zur Freude: Was tut ⟨das⟩?",
+  "tokens": [
+    {
+      "surface": "לִשְׂח֖וֹק",
+      "gloss": "zum Lachen"
+    },
+    {
+      "surface": "אָמַ֣רְתִּי",
+      "gloss": "sagte ich"
+    },
+    {
+      "surface": "מְהוֹלָ֑ל",
+      "gloss": "Tollheit"
+    },
+    {
+      "surface": "וּלְשִׂמְחָ֖ה",
+      "gloss": "und zur Freude"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "זֹּ֥ה",
+      "gloss": "⟨das⟩"
+    },
+    {
+      "surface": "עֹשָֽׂה",
+      "gloss": "tut"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:14.907511562Z",
+  "model": "glm-5.2"
+}

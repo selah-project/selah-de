@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Rascha'im haben mir eine Falle gestellt, doch von deinen Pikudim bin ich nicht abgeirrt.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "haben gestellt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Rascha'im"
+    },
+    {
+      "surface": "פח",
+      "gloss": "eine Falle"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "doch von deinen Pikudim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "bin ich abgeirrt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:20.214849473Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Da hoben sie ⟨את⟩ Jona auf und warfen ihn ins Meer, und das Meer stand still von seinem Toben.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Da hoben auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "und warfen ihn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "und stand still"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "von seinem Toben"
+    }
+  ],
+  "timestamp": "2026-08-06T10:26:48.445041986Z",
+  "model": "glm-5.2"
+}

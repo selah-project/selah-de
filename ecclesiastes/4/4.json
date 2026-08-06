@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ich, ich sah ⟨את⟩ all die Mühsal und ⟨את⟩ all das Gelingen des Tuns — ⟨denn⟩ das ist der Eifer eines Mannes ⟨gegenüber⟩ ⟨seinem⟩ Nächsten; auch das ist Hebel und ein Haschen nach Ruach.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "und ich sah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all die Mühsal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "die Mühsal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all das Gelingen des Tuns"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "das Gelingen"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "des Tuns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "היא",
+      "gloss": "das ist"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "der Eifer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eines Mannes"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "gegenüber seinem Nächsten"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "זה",
+      "gloss": "das"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ist Hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "und ein Haschen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nach Ruach"
+    }
+  ],
+  "timestamp": "2026-08-06T07:09:35.745162772Z",
+  "model": "glm-5.2"
+}

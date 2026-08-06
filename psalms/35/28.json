@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und meine Zunge wird murmeln ⟨von⟩ deiner Zedek, den ganzen Tag ⟨von⟩ deinem Lob.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "Und meine Zunge"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "wird murmeln"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "deiner Zedek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "deinem Lob"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:42.883082174Z",
+  "model": "glm-5.2"
+}

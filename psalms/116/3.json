@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Es umfingen mich die Stricke des Todes, und die Engegungen der Scheol fanden mich; Bedrängnis und Kummer fand ich.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "Es umfingen mich"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "die Stricke"
+    },
+    {
+      "surface": "מות",
+      "gloss": "des Todes"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "und die Engpässe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "der Scheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "fanden mich"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "Bedrängnis"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "und Kummer"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "fand ich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:48.756934773Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 90,
+  "translation": "Wer erkennt ⟨die⟩ Macht deines Zorns? Und nach deiner Furcht ⟨so ist⟩ deine Glut.",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "י֭וֹדֵעַ",
+      "gloss": "erkennt"
+    },
+    {
+      "surface": "עֹ֣ז",
+      "gloss": "⟨die⟩ Macht"
+    },
+    {
+      "surface": "אַפֶּ֑ךָ",
+      "gloss": "deines Zorns"
+    },
+    {
+      "surface": "וּ֝כְיִרְאָתְךָ֗",
+      "gloss": "und nach deiner Furcht"
+    },
+    {
+      "surface": "עֶבְרָתֶֽךָ",
+      "gloss": "deine Glut"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:36.445903892Z",
+  "model": "glm-5.2"
+}

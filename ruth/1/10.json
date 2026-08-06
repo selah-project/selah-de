@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und sie sagten ⟨ihr⟩: „⟨Doch,⟩ mit dir werden wir zurückkehren, zu deinem Volk.“",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "Und sie sagten"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Doch"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "werden wir zurückkehren"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "zu deinem Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T04:38:57.613210273Z",
+  "model": "glm-5.2"
+}

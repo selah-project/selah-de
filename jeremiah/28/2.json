@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "„So spricht JHWH der Zewaot, der Elohim Jisraels, und sagt: Ich habe ⟨את⟩ das Joch des Königs von Bawel zerbrochen.“",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Zewaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "der Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagt"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "Ich habe zerbrochen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Joch"
+    },
+    {
+      "surface": "על",
+      "gloss": "das Joch"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "von Bawel"
+    }
+  ],
+  "timestamp": "2026-08-06T08:57:55.458937301Z",
+  "model": "glm-5.2"
+}

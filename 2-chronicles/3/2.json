@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und er begann zu bauen am zweiten ⟨Tag⟩, im zweiten ⟨Monat⟩, im vierten Jahr seiner Königsherrschaft.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Und er begann"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "zu bauen"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "im ⟨Monat⟩"
+    },
+    {
+      "surface": "השני",
+      "gloss": "zweiten"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "am zweiten ⟨Tag⟩"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "im Jahr"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "seiner Königsherrschaft"
+    }
+  ],
+  "timestamp": "2026-08-06T04:58:54.871275385Z",
+  "model": "glm-5.2"
+}

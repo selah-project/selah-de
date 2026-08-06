@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "⟨Sei⟩ nicht fern von mir, denn Bedrängnis ist nahe, denn ⟨es gibt⟩ keinen Helfer.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "sei fern"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "Bedrängnis"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ist nahe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "es gibt keinen \/ nicht"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "Helfer"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:15.430608146Z",
+  "model": "glm-5.2"
+}

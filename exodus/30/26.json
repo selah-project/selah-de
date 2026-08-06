@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und du sollst damit salben ⟨את⟩ das Zelt der Begegnung und ⟨את⟩ die Lade ⟨der⟩ Zeugnis",
+  "tokens": [
+    {
+      "surface": "וּמָשַׁחְתָּ",
+      "gloss": "Und du sollst salben"
+    },
+    {
+      "surface": "ב֖וֹ",
+      "gloss": "damit"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Zelt der Begegnung"
+    },
+    {
+      "surface": "אֹ֣הֶל",
+      "gloss": "Zelt"
+    },
+    {
+      "surface": "מוֹעֵ֑ד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Lade des Zeugnisses"
+    },
+    {
+      "surface": "אֲר֥וֹן",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "הָעֵדֻֽת",
+      "gloss": "⟨der⟩ Zeugnis"
+    }
+  ],
+  "timestamp": "2026-08-06T21:07:33.150332428Z",
+  "model": "glm-5.2"
+}

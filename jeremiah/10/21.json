@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Denn verblödet sind die Hirten, und ⟨את⟩ JHWH haben sie nicht gesucht; darum haben sie nicht eingesichtig gehandelt, und all ihre Herde ist zerstreut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "sind verblödet"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "die Hirten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "haben sie gesucht"
+    },
+    {
+      "surface": "על",
+      "gloss": "darum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(deshalb)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "haben sie eingesichtig gehandelt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "ihre Herde"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "ist zerstreut"
+    }
+  ],
+  "timestamp": "2026-08-05T22:01:59.314881647Z",
+  "model": "glm-5.2"
+}

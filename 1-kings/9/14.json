@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Chiram sandte dem König hundertundzwanzig Talente Gold.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und sandte"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "und zwanzig"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "Talente"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:02.566775865Z",
+  "model": "glm-5.2"
+}

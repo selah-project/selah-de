@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 1:5",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und bei der Erfüllung dieser Tage veranstaltete der König für das ganze Volk, das sich in Schuschan ⟨der⟩ Burg fand, vom Großen bis zum Kleinen ein Gastmahl von sieben Tagen im Vorhof des Gartens der Königspfalz.",
+  "tokens": [
+    {
+      "surface": "ובמלואת",
+      "gloss": "Und bei der Erfüllung"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "der Tage"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "veranstaltete"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "für das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "das sich … fand"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "in Schuschan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨der⟩ Burg"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "vom Großen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "Kleinen"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ein Gastmahl"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "von sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tagen"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "im Vorhof"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "des Gartens"
+    },
+    {
+      "surface": "ביתן",
+      "gloss": "der Königspfalz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-05T23:32:20.596895987Z",
+  "model": "glm-5.2"
+}

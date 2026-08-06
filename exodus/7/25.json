@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und es erfüllten sich sieben Tage, nachdem JHWH ⟨den⟩ Fluss geschlagen hatte ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וַיִּמָּלֵ֖א",
+      "gloss": "und es erfüllten sich"
+    },
+    {
+      "surface": "שִׁבְעַ֣ת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "יָמִ֑ים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "אַחֲרֵ֥י",
+      "gloss": "nachdem"
+    },
+    {
+      "surface": "הַכּוֹת",
+      "gloss": "geschlagen hatte"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Fluss"
+    },
+    {
+      "surface": "הַיְאֹֽר",
+      "gloss": "Fluss"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:12.237585039Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 64,
+  "translation": "Und nun, JHWH, ⟨du bist⟩ unser Vater! Wir sind der Ton, und du bist unser Bildner, und das Werk deiner Hand ⟨sind⟩ wir alle.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "unser Vater"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨du bist⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wir"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "⟨sind⟩ der Ton"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "⟨bist⟩ unser Bildner"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "und das Werk"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deiner Hand"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "⟨sind⟩ wir alle"
+    }
+  ],
+  "timestamp": "2026-08-05T21:58:10.090605572Z",
+  "model": "glm-5.2"
+}

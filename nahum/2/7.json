@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Die Tore der Ströme ⟨wurden⟩ geöffnet, und der Palast ⟨ist⟩ aufgelöst.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "Die Tore"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "der Ströme"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "⟨wurden⟩ geöffnet"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "und der Palast"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "⟨ist⟩ aufgelöst"
+    }
+  ],
+  "timestamp": "2026-08-06T04:03:00.443696836Z",
+  "model": "glm-5.2"
+}

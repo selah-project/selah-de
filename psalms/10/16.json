@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "JHWH ⟨ist⟩ König für immer und ewig; umgekommen sind die Völker aus seinem Land.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מֶ֭לֶךְ",
+      "gloss": "König"
+    },
+    {
+      "surface": "עוֹלָ֣ם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "וָעֶ֑ד",
+      "gloss": "und ewig"
+    },
+    {
+      "surface": "אָבְד֥וּ",
+      "gloss": "umgekommen sind"
+    },
+    {
+      "surface": "ג֝וֹיִ֗ם",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "מֵֽאַרְצֽוֹ",
+      "gloss": "aus seinem Land"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:03.394581959Z",
+  "model": "glm-5.2"
+}

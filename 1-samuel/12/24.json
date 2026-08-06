@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Nur, fürchtet ⟨את⟩ JHWH und dient ihm in Emet, mit ganzem Herzen; denn seht ⟨את⟩, was er mit euch Großes getan hat.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nur"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "fürchtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "und dient"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in Emet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit ganzem"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "seht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "was er … getan hat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "Großes getan hat"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mit euch"
+    }
+  ],
+  "timestamp": "2026-08-05T21:09:21.104848818Z",
+  "model": "glm-5.2"
+}

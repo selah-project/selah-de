@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 85,
+  "translation": "Du hast Wohlgefallen gefunden, JHWH, an deinem Land, du hast die Gefangenschaft Jaakows zurückgewendet.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Du hast Wohlgefallen gefunden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "an deinem Land"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "du hast zurückgewendet"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "die Gefangenschaft"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakows"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:46.922132956Z",
+  "model": "glm-5.2"
+}

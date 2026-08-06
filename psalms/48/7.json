@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Schauder ergriff sie dort, Wehen wie ⟨bei⟩ einer Gebärenden.",
+  "tokens": [
+    {
+      "surface": "רְ֭עָדָה",
+      "gloss": "Schauder"
+    },
+    {
+      "surface": "אֲחָזָ֣תַם",
+      "gloss": "ergriff sie"
+    },
+    {
+      "surface": "שָׁ֑ם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "חִ֝֗יל",
+      "gloss": "Wehen"
+    },
+    {
+      "surface": "כַּיּוֹלֵֽדָה",
+      "gloss": "wie ⟨bei⟩ einer Gebärenden"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:27.083077586Z",
+  "model": "glm-5.2"
+}

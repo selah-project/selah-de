@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Steh auf, geh nach Zarafta, das bei Zidon ⟨liegt⟩, und wohne dort. Siehe, ich habe dort einer Witwe geboten, ⟨dich⟩ zu versorgen.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "לך",
+      "gloss": "geh"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "nach Zarafta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "bei Zidon"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "und wohne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ich habe geboten"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "einer"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "Witwe"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "zu versorgen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:31:39.017162805Z",
+  "model": "glm-5.2"
+}

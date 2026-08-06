@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 30:17",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Tausend ⟨werden⟩ fliehen vor ⟨der⟩ Drohung eines einzigen, vor ⟨der⟩ Drohung von fünf werdet ihr fliehen, bis ihr übrig bleibt wie ein Mast auf ⟨dem⟩ Kopf ⟨des⟩ Berges und wie ein Feldzeichen auf ⟨der⟩ Anhöhe.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "Tausend"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einziger"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "⟨der⟩ Drohung"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eines"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "⟨der⟩ Drohung"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "von fünf"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "werdet ihr fliehen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨dass⟩"
+    },
+    {
+      "surface": "נותרתם",
+      "gloss": "ihr übrig bleibt"
+    },
+    {
+      "surface": "כתרן",
+      "gloss": "wie ein Mast"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Kopf"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨des⟩ Berges"
+    },
+    {
+      "surface": "וכנס",
+      "gloss": "und wie ein Feldzeichen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "⟨der⟩ Anhöhe"
+    }
+  ],
+  "timestamp": "2026-08-06T01:45:13.441455544Z",
+  "model": "glm-5.2"
+}

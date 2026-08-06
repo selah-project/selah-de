@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und er wählte ⟨את⟩ den Stamm Jehuda, ⟨את⟩ den Berg Zijon, den er liebte.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Und er wählte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stamm Jehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "den Stamm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Berg Zijon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "den Berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zijon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "er liebte"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:14.249897538Z",
+  "model": "glm-5.2"
+}

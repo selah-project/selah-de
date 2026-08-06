@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Und er wird leben, und man wird ihm geben vom Gold von Schewa, und man wird für ihn beten fortwährend; den ganzen Tag wird man ihn segnen.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "und er wird leben"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und man wird geben"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "vom Gold"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "von Schewa"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "und man wird beten"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "für ihn"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "fortwährend"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "wird man ihn segnen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:46.775128286Z",
+  "model": "glm-5.2"
+}

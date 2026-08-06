@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Wende dich ab vom Bösen und tue Gutes, und wohne für immer.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Wende dich ab"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "vom Bösen"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "und tue"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "und wohne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:44.738967481Z",
+  "model": "glm-5.2"
+}

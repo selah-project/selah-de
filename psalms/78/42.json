@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Nicht gedachten sie ⟨an⟩ ⟨את⟩ seine Hand, ⟨an⟩ den Tag, da ⟨er⟩ sie löste aus ⟨der Bedrängnis⟩,",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "זָכְר֥וּ",
+      "gloss": "gedachten sie"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Hand"
+    },
+    {
+      "surface": "יָד֑וֹ",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "י֝֗וֹם",
+      "gloss": "den Tag"
+    },
+    {
+      "surface": "אֲֽשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "פָּדָ֥ם",
+      "gloss": "⟨er⟩ löste sie"
+    },
+    {
+      "surface": "מִנִּּי",
+      "gloss": "aus"
+    },
+    {
+      "surface": "צָֽר",
+      "gloss": "⟨der Bedrängnis⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:16:59.531531459Z",
+  "model": "glm-5.2"
+}

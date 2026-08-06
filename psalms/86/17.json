@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 86,
+  "translation": "Tu ⟨an⟩ mir ein Zeichen zum Guten, und ⟨es⟩ sollen sehen, die mich hassen, und ⟨es⟩ sollen schamrot werden — denn du, JHWH, hast mir geholfen und mich getröstet.",
+  "tokens": [
+    {
+      "surface": "עֲשֵׂ֥ה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "עִמִּ֥י",
+      "gloss": "⟨an⟩ mir"
+    },
+    {
+      "surface": "א֗וֹת",
+      "gloss": "ein Zeichen"
+    },
+    {
+      "surface": "לְטׁ֫וֹבָ֥ה",
+      "gloss": "zum Guten"
+    },
+    {
+      "surface": "וְיִרְא֣וּ",
+      "gloss": "und ⟨es⟩ sollen sehen"
+    },
+    {
+      "surface": "שֹׂנְאַ֣י",
+      "gloss": "die mich hassen"
+    },
+    {
+      "surface": "וְיֵבֹ֑שׁוּ",
+      "gloss": "und ⟨es⟩ sollen schamrot werden"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עֲזַרְתַּ֥נִי",
+      "gloss": "hast mir geholfen"
+    },
+    {
+      "surface": "וְנִחַמְתָּֽנִי",
+      "gloss": "und mich getröstet"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:53.952871252Z",
+  "model": "glm-5.2"
+}

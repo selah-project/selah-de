@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Aber wenn der Totschläger überhaupt hinausgeht, ⟨hinausgeht⟩ über ⟨die⟩ Grenze der Stadt seines Zufluchtsortes, wohin er flieht, dorthin —",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "Aber wenn"
+    },
+    {
+      "surface": "יָצֹ֥א",
+      "gloss": "überhaupt hinausgeht"
+    },
+    {
+      "surface": "יֵצֵ֖א",
+      "gloss": "hinausgeht"
+    },
+    {
+      "surface": "הָרֹצֵ֑חַ",
+      "gloss": "der Totschläger"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Grenze"
+    },
+    {
+      "surface": "גְּבוּל֙",
+      "gloss": "Grenze"
+    },
+    {
+      "surface": "עִ֣יר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "מִקְלָט֔וֹ",
+      "gloss": "seines Zufluchtsortes"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wohin"
+    },
+    {
+      "surface": "יָנ֖וּס",
+      "gloss": "er flieht"
+    },
+    {
+      "surface": "שָֽׁמָּה",
+      "gloss": "dorthin"
+    }
+  ],
+  "timestamp": "2026-08-06T00:41:11.525966123Z",
+  "model": "glm-5.2"
+}

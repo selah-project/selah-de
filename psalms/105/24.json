@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Und er machte ⟨את⟩ sein Volk sehr fruchtbar, und er machte es mächtiger als seine Bedränger.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "und er machte fruchtbar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "und er machte es mächtig"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "als seine Bedränger"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:25.059712378Z",
+  "model": "glm-5.2"
+}

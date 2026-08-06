@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 14:45",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Da stieg der Amalekiter und der Kenaaniter herab, ⟨der⟩ auf ⟨jenem⟩ Berg wohnt, und sie schlagen sie und schlagen sie nieder, bis nach Chorma.",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֤רֶד",
+      "gloss": "und stieg herab"
+    },
+    {
+      "surface": "הָעֲמָלֵקִי֙",
+      "gloss": "der Amalekiter"
+    },
+    {
+      "surface": "וְהַֽכְּנַעֲנִ֔י",
+      "gloss": "und der Kenaaniter"
+    },
+    {
+      "surface": "הַיֹּשֵׁ֖ב",
+      "gloss": "⟨der⟩ wohnt"
+    },
+    {
+      "surface": "בָּהָ֣ר",
+      "gloss": "auf ⟨dem⟩ Berg"
+    },
+    {
+      "surface": "הַה֑וּא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "וַיַּכּ֥וּם",
+      "gloss": "und sie schlagen sie"
+    },
+    {
+      "surface": "וַֽיַּכְּת֖וּם",
+      "gloss": "und schlagen sie nieder"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis nach"
+    },
+    {
+      "surface": "הַֽחָרְמָֽה",
+      "gloss": "Chorma"
+    }
+  ],
+  "timestamp": "2026-08-05T20:33:59.516643858Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Was werde ich JHWH erstatten — all seine Wohltaten ⟨sind⟩ über mir!",
+  "tokens": [
+    {
+      "surface": "מָֽה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "אָשִׁ֥יב",
+      "gloss": "werde ich erstatten"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כָּל־",
+      "gloss": "all"
+    },
+    {
+      "surface": "תַּגְמוּלֹ֥והִי",
+      "gloss": "seine Wohltaten"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "über mir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:02.628780572Z",
+  "model": "glm-5.2"
+}

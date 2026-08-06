@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 28:21",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Denn wie am Berg Perazim wird JHWH sich erheben, wie im Tal bei Givon wird er erbeben, um sein Werk zu tun — fremd ⟨ist⟩ sein Werk, und um sein Wirken zu vollbringen — fremdartig ⟨ist⟩ sein Wirken.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כְהַר֩",
+      "gloss": "wie am Berg"
+    },
+    {
+      "surface": "פְּרָצִים֙",
+      "gloss": "Perazim"
+    },
+    {
+      "surface": "יָק֣וּם",
+      "gloss": "wird sich erheben"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כְּעֵ֖מֶק",
+      "gloss": "wie im Tal"
+    },
+    {
+      "surface": "בְּגִבְע֣וֹן",
+      "gloss": "bei Givon"
+    },
+    {
+      "surface": "יִרְגָּ֑ז",
+      "gloss": "wird er erbeben"
+    },
+    {
+      "surface": "לַעֲשׂ֤וֹת",
+      "gloss": "um zu tun"
+    },
+    {
+      "surface": "מַעֲשֵׂ֨הוּ֙",
+      "gloss": "sein Werk"
+    },
+    {
+      "surface": "זָ֣ר",
+      "gloss": "fremd"
+    },
+    {
+      "surface": "מַעֲשֵׂ֔הוּ",
+      "gloss": "sein Werk"
+    },
+    {
+      "surface": "וְלַֽעֲבֹד֙",
+      "gloss": "und um zu vollbringen"
+    },
+    {
+      "surface": "עֲבֹדָ֣ת֔וֹ",
+      "gloss": "sein Wirken"
+    },
+    {
+      "surface": "נָכְרִיָּ֖ה",
+      "gloss": "fremdartig"
+    },
+    {
+      "surface": "עֲבֹדָתֽוֹ",
+      "gloss": "sein Wirken"
+    }
+  ],
+  "timestamp": "2026-08-05T21:49:03.251156292Z",
+  "model": "glm-5.2"
+}

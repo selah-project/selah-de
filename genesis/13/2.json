@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und Awraham ⟨war⟩ sehr schwer ⟨an⟩ Besitz, an Silber und an Gold.",
+  "tokens": [
+    {
+      "surface": "וְאַבְרָ֖ם",
+      "gloss": "und Awraham"
+    },
+    {
+      "surface": "כָּבֵ֣ד",
+      "gloss": "schwer"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "בַּמִּקְנֶ֕ה",
+      "gloss": "an Besitz"
+    },
+    {
+      "surface": "בַּכֶּ֖סֶף",
+      "gloss": "an Silber"
+    },
+    {
+      "surface": "וּבַזָּהָֽב",
+      "gloss": "und an Gold"
+    }
+  ],
+  "timestamp": "2026-08-05T19:56:06.510270633Z",
+  "model": "glm-5.2"
+}

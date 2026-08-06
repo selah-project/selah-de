@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Adonai lacht über ihn, denn er sieht, dass sein Tag kommt.",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יִשְׂחַק",
+      "gloss": "lacht"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "über ihn"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "רָאָ֗ה",
+      "gloss": "er sieht"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "יָבֹ֥א",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "יוֹמֽוֹ",
+      "gloss": "sein Tag"
+    }
+  ],
+  "timestamp": "2026-08-06T22:46:48.512011090Z",
+  "model": "glm-5.2"
+}

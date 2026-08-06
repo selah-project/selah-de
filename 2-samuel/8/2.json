@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 8:2",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er schlug ⟨את⟩ Moaw und maß sie mit der Messschnur ab — er ließ sie sich zur Erde niederlegen — und maß zwei Schnüre zum Töten und eine volle Schnur zum Am-Leben-Lassen. So wurde Moaw Dawid zu Knechten, die Abgaben brachten.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Und er schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moaw"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaw"
+    },
+    {
+      "surface": "וימדדם",
+      "gloss": "und maß sie"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "mit der Messschnur"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "⟨er ließ sich niederlegen⟩"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "sie",
+      "marks": "sie (Objektmarker mit Suffix → ארצה als Ziel)"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "und maß"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "Schnüre"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "zum Töten"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "und ⟨die⟩ volle"
+    },
+    {
+      "surface": "החבל",
+      "gloss": "Schnur"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "zum Am-Leben-Lassen"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "So wurde"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaw"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "zu Knechten"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "die brachten"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "Abgaben"
+    }
+  ],
+  "timestamp": "2026-08-06T01:14:50.046409281Z",
+  "model": "glm-5.2"
+}

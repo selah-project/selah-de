@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und er baute ⟨את⟩ ⟨das⟩ Haus des Waldes des Libanon: hundert Ellen ⟨seine⟩ Länge und fünfzig Ellen ⟨seine⟩ Breite und dreißig Ellen ⟨seine⟩ Höhe, auf vier Reihen von Säulen aus Zedern und Querbalken aus Zedern auf den Säulen.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Und er baute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus des Waldes des Libanon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "יער",
+      "gloss": "des Waldes"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "des Libanon"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "seine Länge"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "und fünfzig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "seine Breite"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "und dreißig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "seine Höhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "Reihen von"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "Säulen"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "aus Zedern"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "und Querbalken"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "aus Zedern"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "den Säulen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:32.978829494Z",
+  "model": "glm-5.2"
+}

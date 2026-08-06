@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Gut ⟨ist⟩ für mich die Tora deines Mundes, mehr als Tausende von Gold und Silber.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Gut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "für mich"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "deines Mundes"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "mehr als Tausende"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "von Gold"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "und Silber"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:07.071607449Z",
+  "model": "glm-5.2"
+}

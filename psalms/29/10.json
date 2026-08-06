@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "JHWH ⟨saß⟩ ⟨thronend⟩ zur Flut, und JHWH ⟨setzt sich⟩ als König ⟨auf den Thron⟩ für die Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "zur Flut"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨saß⟩ ⟨thronend⟩"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨setzt sich⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "als König"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für die Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:41.778698538Z",
+  "model": "glm-5.2"
+}

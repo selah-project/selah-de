@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und der König von Jisra'el zog aus und schlug ⟨את⟩ das Pferd und ⟨את⟩ die Streitwagen, und er schlug unter Aram eine große Niederlage.",
+  "tokens": [
+    {
+      "surface": "וַיֵּצֵא֙",
+      "gloss": "Und … zog aus"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "וַיַּ֥ךְ",
+      "gloss": "und schlug"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Pferd"
+    },
+    {
+      "surface": "הַסּ֖וּס",
+      "gloss": "das Pferd"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Streitwagen"
+    },
+    {
+      "surface": "הָרָ֑כֶב",
+      "gloss": "die Streitwagen"
+    },
+    {
+      "surface": "וְהִכָּ֥ה",
+      "gloss": "und er schlug"
+    },
+    {
+      "surface": "בַאֲרָ֖ם",
+      "gloss": "unter Aram"
+    },
+    {
+      "surface": "מַכָּ֥ה",
+      "gloss": "eine Niederlage"
+    },
+    {
+      "surface": "גְדוֹלָֽה",
+      "gloss": "große"
+    }
+  ],
+  "timestamp": "2026-08-06T08:45:27.483571436Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Verlass mich nicht, JHWH! Mein Elohim, sei nicht fern von mir!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "verlass mich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Mein Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "sei fern"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "von mir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:28.094535698Z",
+  "model": "glm-5.2"
+}

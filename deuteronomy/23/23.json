@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und wenn du dich enthältst zu geloben, wird ⟨es⟩ keine Sünde an dir sein.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "du dich enthältst"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "zu geloben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wird sein"
+    },
+    {
+      "surface": "בך",
+      "gloss": "an dir"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "Sünde"
+    }
+  ],
+  "timestamp": "2026-08-06T05:28:55.128808722Z",
+  "model": "glm-5.2"
+}

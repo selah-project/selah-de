@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Sara wurde schwanger und gebar dem Awraham ⟨einen⟩ Sohn für sein Alter, zur festgesetzten Zeit, von der Elohim zu ihm geredet hatte.",
+  "tokens": [
+    {
+      "surface": "וַתַּהַר֩",
+      "gloss": "Und sie wurde schwanger"
+    },
+    {
+      "surface": "וַתֵּ֨לֶד",
+      "gloss": "und gebar"
+    },
+    {
+      "surface": "שָׂרָ֧ה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לְאַבְרָהָ֛ם",
+      "gloss": "dem Awraham"
+    },
+    {
+      "surface": "בֵּ֖ן",
+      "gloss": "⟨einen⟩ Sohn"
+    },
+    {
+      "surface": "לִזְקֻנָ֑יו",
+      "gloss": "für sein Alter"
+    },
+    {
+      "surface": "לַמּוֹעֵ֕ד",
+      "gloss": "zur festgesetzten Zeit"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "von ⟨der⟩"
+    },
+    {
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "geredet hatte"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T17:33:37.438503475Z",
+  "model": "glm-5.2"
+}

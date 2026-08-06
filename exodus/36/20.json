@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und er machte ⟨את⟩ die Bretter für den Mischkan, aus Schittim-Holz, stehend.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und er machte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Bretter"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "die Bretter"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "für den Mischkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "aus Holz"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "von Schittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stehend"
+    }
+  ],
+  "timestamp": "2026-08-06T05:17:50.081676623Z",
+  "model": "glm-5.2"
+}

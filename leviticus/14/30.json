@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und er soll ⟨את⟩ das eine bereiten, von den Turteltauben oder von den jungen Tauben, aus dem, was seine Hand erreicht.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Und er soll bereiten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das eine"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "das eine"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "den Turteltauben"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den jungen"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "Tauben"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "aus dem, was"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "erreicht"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    }
+  ],
+  "timestamp": "2026-08-06T20:13:25.354403245Z",
+  "model": "glm-5.2"
+}

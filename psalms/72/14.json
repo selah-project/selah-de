@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Aus Betrug und aus Gewalt wird er ihre Nefesch lösen, und kostbar wird ihr Blut in seinen Augen sein.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "aus"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "und aus Gewalt"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "wird er lösen"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ihre Nefesch"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "und kostbar"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ihr Blut"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in seinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:46.774944976Z",
+  "model": "glm-5.2"
+}

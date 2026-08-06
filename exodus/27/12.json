@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und die Breite des Vorhofs zur Seite des Meeres ⟨hin⟩: Behänge von fünfzig Ellen, ihre Säulen zehn und ihre Sockel zehn.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "Und die Breite"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "des Vorhofs"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "zur Seite"
+    },
+    {
+      "surface": "ים",
+      "gloss": "des Meeres"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "Behänge"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "von fünfzig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ihre Säulen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "und ihre Sockel"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zehn"
+    }
+  ],
+  "timestamp": "2026-08-06T02:06:26.281241036Z",
+  "model": "glm-5.2"
+}

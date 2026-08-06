@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Da fürchtete sich Jaakow sehr, und ⟨es⟩ wurde ihm eng, und er teilte ⟨את⟩ das Volk, das bei ihm war, und ⟨את⟩ das Kleinvieh und ⟨את⟩ das Rindvieh und die Kamele, in zwei Lager.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "Da fürchtete sich"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "und ⟨es⟩ wurde eng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "und er teilte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bei ihm war"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Kleinvieh"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "das Kleinvieh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Rindvieh"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "das Rindvieh"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "und die Kamele"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "in zwei"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "Lager"
+    }
+  ],
+  "timestamp": "2026-08-05T20:00:25.250875032Z",
+  "model": "glm-5.2"
+}

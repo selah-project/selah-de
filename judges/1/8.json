@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und die Söhne Jehudas kämpften gegen Jeruschalajim, und sie eroberten ⟨את⟩ sie, und sie schlugen ⟨sie⟩ mit der Schärfe des Schwerts, und ⟨את⟩ die Stadt gaben sie dem Feuer preis.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Und kämpften"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "gegen Jeruschalajim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "und sie eroberten"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Stadt)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "und sie schlugen"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mit der Schärfe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "des Schwerts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Stadt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "gaben sie preis"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dem Feuer"
+    }
+  ],
+  "timestamp": "2026-08-06T09:55:53.478673406Z",
+  "model": "glm-5.2"
+}

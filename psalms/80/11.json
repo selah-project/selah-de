@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "Berge bedeckten ⟨sich mit⟩ ihrem Schatten, und ihre Zweige ⟨sind⟩ Zedern Els.",
+  "tokens": [
+    {
+      "surface": "כָּסּ֣וּ",
+      "gloss": "bedeckten"
+    },
+    {
+      "surface": "הָרִ֣ים",
+      "gloss": "Berge"
+    },
+    {
+      "surface": "צִלָּ֑הּ",
+      "gloss": "ihrem Schatten"
+    },
+    {
+      "surface": "וַ֝עֲנָפֶ֗יהָ",
+      "gloss": "und ihre Zweige"
+    },
+    {
+      "surface": "אַֽרְזֵי",
+      "gloss": "Zedern"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "Els"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:41.677810065Z",
+  "model": "glm-5.2"
+}

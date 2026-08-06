@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und du sollst ⟨את⟩ den Altar des Goldes für das Räucherwerk stellen vor die Lade der Zeugnis, und du sollst ⟨את⟩ die Abdeckung des Eingangs anbringen für ⟨den⟩ Mischkan.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Und du sollst stellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "Altar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "des Goldes"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "für das Räucherwerk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "der Zeugnis"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "und du sollst anbringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Abdeckung"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "Abdeckung"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "des Eingangs"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "für den Mischkan"
+    }
+  ],
+  "timestamp": "2026-08-06T00:22:46.832871218Z",
+  "model": "glm-5.2"
+}

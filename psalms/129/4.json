@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 129,
+  "translation": "JHWH ⟨ist⟩ gerecht; ⟨er⟩ hat abgeschnitten die Stricke der Frevler.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צַדִּ֑יק",
+      "gloss": "gerecht"
+    },
+    {
+      "surface": "קִ֝צֵּ֗ץ",
+      "gloss": "hat abgeschnitten"
+    },
+    {
+      "surface": "עֲב֣וֹת",
+      "gloss": "die Stricke"
+    },
+    {
+      "surface": "רְשָׁעִֽים",
+      "gloss": "der Frevler"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:36.756582990Z",
+  "model": "glm-5.2"
+}

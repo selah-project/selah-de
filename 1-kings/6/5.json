@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und er baute an die Wand des Hauses einen Anbau ringsum, ⟨an⟩ ⟨את⟩ die Wände des Hauses ringsum, für ⟨den⟩ Hekal und für ⟨den⟩ Debir, und er machte Seitenräume ringsum.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Und er baute"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "⟨die⟩ Wand"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "einen Anbau"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wände"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "die Wände"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "für ⟨den⟩ Hekal"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "und für ⟨den⟩ Debir"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "und er machte"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "Seitenräume"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    }
+  ],
+  "timestamp": "2026-08-06T02:58:31.280007391Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und der Oberste der Mundschenken gedachte ⟨את⟩ Josefs nicht und vergaß ihn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gedachte"
+    },
+    {
+      "surface": "שר",
+      "gloss": "der Oberste"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "der Mundschenken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefs"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "und vergaß ihn"
+    }
+  ],
+  "timestamp": "2026-08-05T17:39:34.268040325Z",
+  "model": "glm-5.2"
+}

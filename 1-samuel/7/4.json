@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und die Söhne Jisraël schafften ⟨את⟩ die Baalim und ⟨את⟩ die Aschtarot fort, und sie dienten ⟨את⟩ JHWH allein.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "und sie schafften fort"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraëls"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "die Baalim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Aschtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "die Aschtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "und sie dienten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "allein"
+    }
+  ],
+  "timestamp": "2026-08-06T09:59:31.384471705Z",
+  "model": "glm-5.2"
+}

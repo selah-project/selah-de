@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Weshalb soll ich mich fürchten in Tagen des Bösen, ⟨wenn⟩ die Schuld meiner Fersen mich umringt?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "weshalb"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "soll ich mich fürchten"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in Tagen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "des Bösen"
+    },
+    {
+      "surface": "עון",
+      "gloss": "die Schuld"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "meiner Fersen"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "mich umringt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:20.308355670Z",
+  "model": "glm-5.2"
+}

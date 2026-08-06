@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Höre, Tochter, und sieh, und neige dein Ohr, und vergiss dein Volk und das Haus deines Vaters —",
+  "tokens": [
+    {
+      "surface": "שִׁמְעִי",
+      "gloss": "Höre"
+    },
+    {
+      "surface": "בַ֣ת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "וּ֭רְאִי",
+      "gloss": "und sieh"
+    },
+    {
+      "surface": "וְהַטִּ֣י",
+      "gloss": "und neige"
+    },
+    {
+      "surface": "אָזְנֵ֑ךָ",
+      "gloss": "dein Ohr"
+    },
+    {
+      "surface": "וְשִׁכְחִ֥י",
+      "gloss": "und vergiss"
+    },
+    {
+      "surface": "עַ֝מֵּ֗ךְ",
+      "gloss": "dein Volk"
+    },
+    {
+      "surface": "וּבֵ֥ית",
+      "gloss": "und ⟨das⟩ Haus"
+    },
+    {
+      "surface": "אָבִֽיךְ",
+      "gloss": "deines Vaters"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:52.618347778Z",
+  "model": "glm-5.2"
+}

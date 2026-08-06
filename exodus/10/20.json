@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und JHWH stärkte ⟨את⟩ das Herz ⟨des⟩ Paro, und ⟨er⟩ ließ ⟨את⟩ die Söhne Jisraels nicht ziehen.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "und ⟨er⟩ stärkte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Herz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ließ ziehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:34.495339647Z",
+  "model": "glm-5.2"
+}

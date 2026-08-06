@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Wahrlich, du ⟨bist⟩ ein El, der sich verbirgt, Elohim Jisraels, ein Retter.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "wahrlich"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ein El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "der sich verbirgt"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ein Retter"
+    }
+  ],
+  "timestamp": "2026-08-05T21:53:52.393473236Z",
+  "model": "glm-5.2"
+}

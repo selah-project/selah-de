@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und du schächte ⟨את⟩ den Stier vor JHWH, am Eingang des Zeltes der Begegnung.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "und du schächte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stier"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "den Stier"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am Eingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "des Zeltes"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:35.698408784Z",
+  "model": "glm-5.2"
+}

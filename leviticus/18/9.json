@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Die Blöße deiner Schwester — der Tochter deines Vaters oder der Tochter deiner Mutter, im Haus geboren oder draußen geboren — ihre Blöße sollst du nicht aufdecken.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Die Blöße"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "deiner Schwester"
+    },
+    {
+      "surface": "בת",
+      "gloss": "der Tochter"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "בת",
+      "gloss": "der Tochter"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "deiner Mutter"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "geboren"
+    },
+    {
+      "surface": "בית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "geboren"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "draußen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "sollst du aufdecken"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ihre Blöße"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:05.987320020Z",
+  "model": "glm-5.2"
+}

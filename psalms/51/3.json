@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Sei mir gnädig, Elohim, nach deinem Chessed, nach der Fülle deiner Erbarmungen tilge meine Vergehen.",
+  "tokens": [
+    {
+      "surface": "חָנֵּ֣נִי",
+      "gloss": "Sei mir gnädig"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כְּחַסְדֶּ֑ךָ",
+      "gloss": "nach deinem Chessed"
+    },
+    {
+      "surface": "כְּרֹ֥ב",
+      "gloss": "nach der Fülle"
+    },
+    {
+      "surface": "רַ֝חֲמֶ֗יךָ",
+      "gloss": "deiner Erbarmungen"
+    },
+    {
+      "surface": "מְחֵ֣ה",
+      "gloss": "tilge"
+    },
+    {
+      "surface": "פְשָׁעָֽי",
+      "gloss": "meine Vergehen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:50.974731452Z",
+  "model": "glm-5.2"
+}

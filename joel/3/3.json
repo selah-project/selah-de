@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ich werde Zeichen geben im Himmel und auf der Erde: Blut und Feuer und Rauchsäulen.",
+  "tokens": [
+    {
+      "surface": "וְנָֽתַתִּי֙",
+      "gloss": "und ich werde geben"
+    },
+    {
+      "surface": "מֽוֹפְתִ֔ים",
+      "gloss": "Zeichen"
+    },
+    {
+      "surface": "בַּשָּׁמַ֖יִם",
+      "gloss": "im Himmel"
+    },
+    {
+      "surface": "וּבָאָ֑רֶץ",
+      "gloss": "und auf der Erde"
+    },
+    {
+      "surface": "דָּ֣ם",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "וָאֵ֔שׁ",
+      "gloss": "und Feuer"
+    },
+    {
+      "surface": "וְתִֽימֲר֖וֹת",
+      "gloss": "und Säulen"
+    },
+    {
+      "surface": "עָשָֽׁן",
+      "gloss": "von Rauch"
+    }
+  ],
+  "timestamp": "2026-08-06T21:22:32.466275430Z",
+  "model": "glm-5.2"
+}

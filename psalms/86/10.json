@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 86,
+  "translation": "Denn du bist groß und tust Wunderdinge; du ⟨bist⟩ Elohim, du allein.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גָד֣וֹל",
+      "gloss": "groß"
+    },
+    {
+      "surface": "אַ֭תָּה",
+      "gloss": "du ⟨bist⟩"
+    },
+    {
+      "surface": "וְעֹשֵׂ֣ה",
+      "gloss": "und tust"
+    },
+    {
+      "surface": "נִפְלָא֑וֹת",
+      "gloss": "Wunderdinge"
+    },
+    {
+      "surface": "אַתָּ֖ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לְבַדֶּֽךָ",
+      "gloss": "du allein"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:02.221219616Z",
+  "model": "glm-5.2"
+}

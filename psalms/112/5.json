@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 112,
+  "translation": "Ein guter Mann ⟨ist⟩ gütig und leiht; ⟨er⟩ wird seine Dinge im Recht leiten.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "⟨ist⟩ gütig"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "und leiht"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "wird leiten"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "seine Dinge"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "im Recht"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:32.215312452Z",
+  "model": "glm-5.2"
+}

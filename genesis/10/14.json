@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "und ⟨את⟩ die Patrusim und ⟨את⟩ die Kasluchim, aus denen die Pelischtim hervorgingen, und ⟨את⟩ die Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "die Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "die Kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aus denen"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "hervorgingen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "die Kaftorim"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:42.894604976Z",
+  "model": "glm-5.2"
+}

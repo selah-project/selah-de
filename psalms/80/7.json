@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "Du machst uns zum Streit für unsere Nachbarn, und unsere Feinde spotten ⟨über⟩ sie.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Du machst uns"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "zum Streit"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "für unsere Nachbarn"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "und unsere Feinde"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "spotten"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨über⟩ sie"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:04.738441579Z",
+  "model": "glm-5.2"
+}

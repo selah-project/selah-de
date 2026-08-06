@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 64,
+  "translation": "Und jeder Mensch fürchtete ⟨sich⟩, und sie verkündeten das Tun Elohims, und über sein Wirken wurden sie einsichtig.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "und sie fürchteten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Menschen"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "und sie verkündeten"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "das Tun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "und über sein Wirken"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "wurden sie einsichtig"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:05.932227566Z",
+  "model": "glm-5.2"
+}

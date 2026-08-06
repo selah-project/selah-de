@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Du sollst deinen Bruder nicht hassen in deinem Herzen — korrelieren sollst du deinen Genossen, damit du keine Schuld auf ihn lädst.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִשְׂנָ֥א",
+      "gloss": "sollst du hassen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Bruder"
+    },
+    {
+      "surface": "אָחִ֖יךָ",
+      "gloss": "deinen Bruder"
+    },
+    {
+      "surface": "בִּלְבָבֶ֑ךָ",
+      "gloss": "in deinem Herzen"
+    },
+    {
+      "surface": "הוֹכֵ֤חַ",
+      "gloss": "korrelieren"
+    },
+    {
+      "surface": "תּוֹכִ֨יחַ֙",
+      "gloss": "sollst du"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Genossen"
+    },
+    {
+      "surface": "עֲמִיתֶ֔ךָ",
+      "gloss": "deinen Genossen"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תִשָּׂ֥א",
+      "gloss": "sollst du tragen"
+    },
+    {
+      "surface": "עָלָ֖יו",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "חֵֽטְא",
+      "gloss": "Schuld"
+    }
+  ],
+  "timestamp": "2026-08-06T15:39:47.876374918Z",
+  "model": "glm-5.2"
+}

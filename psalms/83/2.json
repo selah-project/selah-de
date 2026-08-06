@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 83,
+  "translation": "Elohim, ⟨es sei⟩ nicht still ⟨für⟩ dich, schweige nicht, und ⟨es sei⟩ nicht ruhig, El!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "still"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨für⟩ dich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "schweige"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "⟨es sei⟩ ruhig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:56.370168637Z",
+  "model": "glm-5.2"
+}

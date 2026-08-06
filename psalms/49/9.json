@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Und ⟨zu⟩ kostbar ist ⟨das⟩ Lösegeld ihrer Nefesch, und es endet für immer —",
+  "tokens": [
+    {
+      "surface": "וְיֵקַר",
+      "gloss": "und ⟨zu⟩ kostbar"
+    },
+    {
+      "surface": "פִּדְיוֹן",
+      "gloss": "⟨das⟩ Lösegeld"
+    },
+    {
+      "surface": "נַפְשָׁם",
+      "gloss": "ihrer Nefesch"
+    },
+    {
+      "surface": "וְחָדַל",
+      "gloss": "und es endet"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "für immer"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:45.597072357Z",
+  "model": "glm-5.2"
+}

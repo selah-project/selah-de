@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Für alles Vollkommene habe ich ein Ende gesehen — ⟨aber⟩ dein Gebot ist sehr weit.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "für alles"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "Vollkommene"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "habe ich gesehen"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ein Ende"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "weit"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "dein Gebot"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:14.091254660Z",
+  "model": "glm-5.2"
+}

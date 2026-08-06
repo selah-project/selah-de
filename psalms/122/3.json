@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 122,
+  "translation": "Jeruschalajim, ⟨die⟩ Gebaute, ⟨ist⟩ wie eine Stadt, die zusammengefügt ⟨ist⟩ zu ihr hin, vereint.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "⟨die⟩ Gebaute"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "wie eine Stadt"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "die zusammengefügt ⟨ist⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "zu ihr hin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "vereint"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:56.175773900Z",
+  "model": "glm-5.2"
+}

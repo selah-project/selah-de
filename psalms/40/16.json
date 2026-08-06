@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Lasset ⟨sie⟩ verwüstet werden wegen der Schande ihrer ⟨Taten⟩, die da sprechen zu mir: „Häh, häh!\"",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Lasset verwüstet werden"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "עקב",
+      "gloss": " ⟨der Folge⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ihrer Schande"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "die da sprechen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "האח",
+      "gloss": "„Häh,"
+    },
+    {
+      "surface": "האח",
+      "gloss": "häh!\""
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:12.543735685Z",
+  "model": "glm-5.2"
+}

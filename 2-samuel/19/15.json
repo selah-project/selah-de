@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und er neigte ⟨את⟩ das Herz aller Männer Jehudas wie ⟨das⟩ eines Mannes, und sie sandten zum König: Kehre zurück, du und all deine Knechte.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Und er neigte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Herz"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "wie ⟨das⟩ eines Mannes"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eines"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "und sie sandten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Kehre zurück"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "deine Knechte"
+    }
+  ],
+  "timestamp": "2026-08-05T21:22:20.471900488Z",
+  "model": "glm-5.2"
+}

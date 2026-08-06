@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Sondern ⟨jeder⟩ Mann wird in seiner Schuld sterben; jeder Mensch, der die saure Traube isst — seine Zähne, sie werden stumpf.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "⟨jeder⟩ Mann"
+    },
+    {
+      "surface": "בַּעֲוֺנ֖וֹ",
+      "gloss": "in seiner Schuld"
+    },
+    {
+      "surface": "יָמ֑וּת",
+      "gloss": "wird sterben"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "הָֽאָדָ֛ם",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "הָאֹכֵ֥ל",
+      "gloss": "der isst"
+    },
+    {
+      "surface": "הַבֹּ֖סֶר",
+      "gloss": "die saure Traube"
+    },
+    {
+      "surface": "תִּקְהֶ֥ינָה",
+      "gloss": "sie werden stumpf"
+    },
+    {
+      "surface": "שִׁנָּֽיו",
+      "gloss": "seine Zähne"
+    }
+  ],
+  "timestamp": "2026-08-06T15:55:48.210799286Z",
+  "model": "glm-5.2"
+}

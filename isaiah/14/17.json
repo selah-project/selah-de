@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "⟨der⟩ ⟨die⟩ Erde zur Wüste machte und ⟨seine⟩ Städte zerstörte, ⟨der⟩ seine Gefangenen nicht nach Hause entließ?",
+  "tokens": [
+    {
+      "surface": "שָׂ֥ם",
+      "gloss": "machte"
+    },
+    {
+      "surface": "תֵּבֵ֛ל",
+      "gloss": "⟨die⟩ Erde"
+    },
+    {
+      "surface": "כַּמִּדְבָּ֖ר",
+      "gloss": "zur Wüste"
+    },
+    {
+      "surface": "וְעָרָ֣יו",
+      "gloss": "und ⟨seine⟩ Städte"
+    },
+    {
+      "surface": "הָרָ֑ס",
+      "gloss": "zerstörte"
+    },
+    {
+      "surface": "אֲסִירָ֖יו",
+      "gloss": "seine Gefangenen"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "פָּתַ֥ח",
+      "gloss": "entließ"
+    },
+    {
+      "surface": "בָּֽיְתָה",
+      "gloss": "nach Hause"
+    }
+  ],
+  "timestamp": "2026-08-06T01:42:03.680060791Z",
+  "model": "glm-5.2"
+}

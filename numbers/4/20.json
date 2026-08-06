@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Sie sollen nicht hineingehen, um zu sehen, ⟨bei⟩ ⟨das⟩ Verschlucken ⟨von⟩ ⟨את⟩ dem Heiligtum, dass sie sterben.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "sollen sie hineingehen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "um zu sehen"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "⟨bei⟩ ⟨das⟩ Verschlucken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Heiligtum"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "das Heiligtum"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "dass sie sterben"
+    }
+  ],
+  "timestamp": "2026-08-05T20:30:42.586608672Z",
+  "model": "glm-5.2"
+}

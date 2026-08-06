@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Vielfach wasche mich von meiner Schuld, und von meiner Sünde reinige mich.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Vielfach"
+    },
+    {
+      "surface": "כַּבְּסֵ֣נִי",
+      "gloss": "wasche mich"
+    },
+    {
+      "surface": "מֵעֲוֺנִ֑י",
+      "gloss": "von meiner Schuld"
+    },
+    {
+      "surface": "וּֽמֵחַטָּאתִ֥י",
+      "gloss": "und von meiner Sünde"
+    },
+    {
+      "surface": "טַהֲרֵֽנִי",
+      "gloss": "reinige mich"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:50.974912426Z",
+  "model": "glm-5.2"
+}

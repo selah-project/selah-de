@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "und ⟨sie⟩ gaben ⟨את⟩ ihre Götter ins Feuer; denn nicht Elohim ⟨sind⟩ sie, sondern Werk von Menschenhänden, Holz und Stein, und ⟨so⟩ vernichteten sie sie.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "und ⟨sie⟩ gaben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Götter"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ihre Götter"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ins Feuer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨nur⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "Werk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "von Händen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Menschen"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "Holz"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "und Stein"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "und vernichteten sie"
+    }
+  ],
+  "timestamp": "2026-08-06T03:17:56.062834649Z",
+  "model": "glm-5.2"
+}

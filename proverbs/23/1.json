@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Wenn du dich hinsetzt, um zu essen ⟨mit⟩ ⟨dem⟩ Machthaber, verstehe genau, verstehe ⟨את⟩, was vor dir ist:",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תֵ֭שֵׁב",
+      "gloss": "du dich hinsetzt"
+    },
+    {
+      "surface": "לִלְח֣וֹם",
+      "gloss": "um zu essen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Machthaber"
+    },
+    {
+      "surface": "מוֹשֵׁ֑ל",
+      "gloss": "Machthaber"
+    },
+    {
+      "surface": "בִּ֥ין",
+      "gloss": "verstehe"
+    },
+    {
+      "surface": "תָּ֝בִ֗ין",
+      "gloss": "genau, verstehe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "was vor dir ist"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לְפָנֶֽיךָ",
+      "gloss": "vor dir ist"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:09.239492867Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Geteilte ⟨im Sinn⟩ habe ich gehasst, und deine Tora habe ich geliebt.",
+  "tokens": [
+    {
+      "surface": "סֵעֲפִ֥ים",
+      "gloss": "Geteilte ⟨im Sinn⟩"
+    },
+    {
+      "surface": "שָׂנֵ֑אתִי",
+      "gloss": "habe ich gehasst"
+    },
+    {
+      "surface": "וְֽתוֹרָתְךָ֥",
+      "gloss": "und deine Tora"
+    },
+    {
+      "surface": "אָהָֽבְתִּי",
+      "gloss": "habe ich geliebt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:39.727589198Z",
+  "model": "glm-5.2"
+}

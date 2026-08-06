@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "⟨את⟩ Wen wird er Erkenntnis lehren, und ⟨את⟩ wen wird er ⟨die⟩ Botschaft verstehen lassen? Entwöhnten von der Milch, Abgesetzten von den Brüsten?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wen"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "wird lehren"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "Erkenntnis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Wen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "wird verstehen lassen"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "Botschaft"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "Entwöhnten"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "von der Milch"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "Abgesetzten"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "von den Brüsten"
+    }
+  ],
+  "timestamp": "2026-08-05T21:48:51.214356566Z",
+  "model": "glm-5.2"
+}

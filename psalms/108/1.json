@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 108,
+  "translation": "Ein Lied, ein Maskil von Dawid.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ein Lied"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ein Maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:29.439306409Z",
+  "model": "glm-5.2"
+}

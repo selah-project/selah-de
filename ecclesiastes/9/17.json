@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Worte der Weisen werden in Ruhe gehört, ⟨mehr⟩ als ⟨das⟩ Geschrei ⟨eines⟩ Herrschenden unter den Toren.",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵ֣י",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "חֲכָמִ֔ים",
+      "gloss": "der Weisen"
+    },
+    {
+      "surface": "בְּנַ֖חַת",
+      "gloss": "in Ruhe"
+    },
+    {
+      "surface": "נִשְׁמָעִ֑ים",
+      "gloss": "werden gehört"
+    },
+    {
+      "surface": "מִזַּעֲקַ֥ת",
+      "gloss": "als ⟨das⟩ Geschrei"
+    },
+    {
+      "surface": "מוֹשֵׁ֖ל",
+      "gloss": "⟨eines⟩ Herrschenden"
+    },
+    {
+      "surface": "בַּכְּסִילִֽים",
+      "gloss": "unter den Toren"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:25.845915981Z",
+  "model": "glm-5.2"
+}

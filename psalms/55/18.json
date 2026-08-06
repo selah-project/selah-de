@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Abend und Morgen und Mittag sinne ich nach und stöhne, und ⟨er⟩ hört ⟨auf⟩ meine Stimme.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Abend"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "und Morgen"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "und Mittag"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "sinne ich nach"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "und stöhne"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "und ⟨er⟩ hört"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "meine Stimme"
+    }
+  ],
+  "timestamp": "2026-08-06T06:43:06.949514910Z",
+  "model": "glm-5.2"
+}

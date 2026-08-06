@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Denn ich habe nicht ⟨in⟩ einem Haus gewohnt seit dem Tag, an dem ich ⟨את⟩ die Söhne Jisraels aus Mizrajim heraufgeführt habe, und bis zu diesem Tag, sondern ich war einherziehend in einem Zelt und in einem Mischkan.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָׁשַ֨בְתִּי֙",
+      "gloss": "habe gewohnt"
+    },
+    {
+      "surface": "בְּבַ֔יִת",
+      "gloss": "in einem Haus"
+    },
+    {
+      "surface": "לְמִיּ֣וֹם",
+      "gloss": "seit dem Tag"
+    },
+    {
+      "surface": "הַעֲלֹתִ֞י",
+      "gloss": "an dem ich heraufgeführt habe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בְּנֵ֤י",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֙",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מִמִּצְרַ֔יִם",
+      "gloss": "aus Mizrajim"
+    },
+    {
+      "surface": "וְעַ֖ד",
+      "gloss": "und bis"
+    },
+    {
+      "surface": "הַיּ֣וֹם",
+      "gloss": "zu diesem Tag"
+    },
+    {
+      "surface": "הַזֶּ֑ה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "וָאֶֽהְיֶה֙",
+      "gloss": "sondern ich war"
+    },
+    {
+      "surface": "מִתְהַלֵּ֔ךְ",
+      "gloss": "einherziehend"
+    },
+    {
+      "surface": "בְּאֹ֖הֶל",
+      "gloss": "in einem Zelt"
+    },
+    {
+      "surface": "וּבְמִשְׁכָּֽן",
+      "gloss": "und in einem Mischkan"
+    }
+  ],
+  "timestamp": "2026-08-06T01:14:26.087560715Z",
+  "model": "glm-5.2"
+}

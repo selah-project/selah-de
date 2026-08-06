@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Lass den Gedemütigten nicht zurückkehren beschämt; Elender und Bedürftiger sollen deinen Namen preisen!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Lass nicht"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zurückkehren"
+    },
+    {
+      "surface": "דך",
+      "gloss": "der Gedemütigte"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "beschämt"
+    },
+    {
+      "surface": "עני",
+      "gloss": "Elender"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "und Bedürftiger"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "sollen preisen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:09.084394823Z",
+  "model": "glm-5.2"
+}

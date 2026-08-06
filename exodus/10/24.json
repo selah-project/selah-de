@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Paro rief zu Mosche und sagte: „Geht, dient ⟨את⟩ JHWH; nur eure Kleinvieh- ⟨und⟩ Rinderherden sollen zurückbleiben — auch eure Kleinen sollen mit euch gehen.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und ⟨er⟩ rief"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Geht"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "dient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nur"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "eure Kleinviehherden"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "und eure Rinderherden"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "sollen zurückbleiben"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "eure Kleinen"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "sollen gehen"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mit euch"
+    }
+  ],
+  "timestamp": "2026-08-06T20:17:57.153346796Z",
+  "model": "glm-5.2"
+}

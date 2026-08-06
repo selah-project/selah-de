@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und er richtete ⟨את⟩ die Säulen auf ⟨für⟩ die Halle des Tempels, und er richtete ⟨את⟩ die rechte Säule auf und rief ⟨את⟩ ihren Namen Jachin, und er richtete ⟨את⟩ die linke Säule auf und rief ⟨את⟩ ihren Namen Boas.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "und er richtete auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Säulen"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "die Säulen"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "für die Halle"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "des Tempels"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "und er richtete auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die rechte Säule"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "die Säule"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "rechte"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er rief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Namen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ihren Namen"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jachin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "und er richtete auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die linke Säule"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "die Säule"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "linke"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er rief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Namen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ihren Namen"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    }
+  ],
+  "timestamp": "2026-08-05T21:27:15.168445070Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Schaul nahm dreitausend ausgewählte Männer aus ganz Jisra'el und ging hin, ⟨um⟩ ⟨את⟩ Dawid und seine Männer zu suchen, an den Felsen der Bergziegen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "und nahm"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drei"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ausgewählte"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "aus ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und ging hin"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "zu suchen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "und seine Männer"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "פני",
+      "gloss": "den"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Felsen"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "der Bergziegen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:10:10.435302108Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "damit sie erkennen vom Aufgang der Sonne und vom Untergang, dass keiner ist außer mir. Ich bin JHWH, und ⟨es⟩ gibt keinen sonst.",
+  "tokens": [
+    {
+      "surface": "לְמַ֣עַן",
+      "gloss": "damit"
+    },
+    {
+      "surface": "יֵדְע֗וּ",
+      "gloss": "sie erkennen"
+    },
+    {
+      "surface": "מִמִּזְרַח",
+      "gloss": "vom Aufgang"
+    },
+    {
+      "surface": "שֶׁ֨מֶשׁ֙",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "וּמִמַּ֣עֲרָבָ֔הּ",
+      "gloss": "und vom Untergang"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אֶ֖פֶס",
+      "gloss": "keiner"
+    },
+    {
+      "surface": "בִּלְעָדָ֑י",
+      "gloss": "ist außer mir"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "bin JHWH"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "und ⟨es⟩ gibt keinen"
+    },
+    {
+      "surface": "עֽוֹד",
+      "gloss": "sonst"
+    }
+  ],
+  "timestamp": "2026-08-06T06:02:07.087231365Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 90,
+  "translation": "Bevor die Berge geboren wurden, und ⟨du⟩ die Erde und ⟨die⟩ Welt wehen ließest, und von Olam bis Olam, ⟨bist⟩ du El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Bevor"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "die Berge"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "geboren wurden"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "und … wehen ließest"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "und ⟨die⟩ Welt"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "und von Olam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:32.607146350Z",
+  "model": "glm-5.2"
+}

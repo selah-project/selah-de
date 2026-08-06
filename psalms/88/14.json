@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Und ich, zu dir, JHWH, schreie ich, und am Morgen kommt mein Gebet dir zuvor.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "schreie ich"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "und am Morgen"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mein Gebet"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "kommt dir zuvor"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:11.383001366Z",
+  "model": "glm-5.2"
+}

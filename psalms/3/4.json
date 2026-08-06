@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und du, JHWH, ⟨bist⟩ ein Schild um mich, meine Hoheit und ⟨der⟩, der mein Haupt erhebt.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Und du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ein Schild"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "um mich"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "meine Hoheit"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "und ⟨der⟩, der erhebt"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mein Haupt"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:25.159406860Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 21:16",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und es geschah, als Achsaw hörte, dass Nawot gestorben war, da machte sich Achsaw auf, hinabzugehen zum Weinberg Nawots, des Jesreeliters, um ihn in Besitz zu nehmen.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֛י",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כִּשְׁמֹ֥עַ",
+      "gloss": "als … hörte"
+    },
+    {
+      "surface": "אַחְאָ֖ב",
+      "gloss": "Achsaw"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "dass"
+    },
+    {
+      "surface": "מֵ֣ת",
+      "gloss": "gestorben war"
+    },
+    {
+      "surface": "נָב֑וֹת",
+      "gloss": "Nawot"
+    },
+    {
+      "surface": "וַיָּ֣קָם",
+      "gloss": "da machte sich … auf"
+    },
+    {
+      "surface": "אַחְאָ֗ב",
+      "gloss": "Achsaw"
+    },
+    {
+      "surface": "לָרֶ֛דֶת",
+      "gloss": "hinabzugehen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "כֶּ֛רֶם",
+      "gloss": "Weinberg"
+    },
+    {
+      "surface": "נָב֥וֹת",
+      "gloss": "Nawots"
+    },
+    {
+      "surface": "הַיִּזְרְעֵאלִ֖י",
+      "gloss": "des Jesreeliters"
+    },
+    {
+      "surface": "לְרִשְׁתּֽוֹ",
+      "gloss": "um ihn in Besitz zu nehmen"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:49.738091092Z",
+  "model": "glm-5.2"
+}

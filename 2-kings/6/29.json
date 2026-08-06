@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 6:29",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Da kochten wir ⟨את⟩ meinen Sohn und aßen ihn. Und ich sagte ihr am anderen Tag: Gib ⟨את⟩ deinen Sohn, dass wir ihn essen! — und sie versteckte ⟨את⟩ ihren Sohn.",
+  "tokens": [
+    {
+      "surface": "ונבשל",
+      "gloss": "Da kochten wir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Sohn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "meinen Sohn"
+    },
+    {
+      "surface": "ונאכלהו",
+      "gloss": "und aßen ihn"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und ich sagte"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "dem anderen"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Gib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Sohn"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "deinen Sohn"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "dass wir ihn essen"
+    },
+    {
+      "surface": "ותחבא",
+      "gloss": "und sie versteckte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Sohn"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ihren Sohn"
+    }
+  ],
+  "timestamp": "2026-08-05T21:35:25.645375836Z",
+  "model": "glm-5.2"
+}

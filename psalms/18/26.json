@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Mit dem Chassid erzeigst du dich chassid, mit dem unversehrten Helden erzeigst du dich unversehrt.",
+  "tokens": [
+    {
+      "surface": "עִם",
+      "gloss": "Mit"
+    },
+    {
+      "surface": "חָסִ֥יד",
+      "gloss": "dem Chassid"
+    },
+    {
+      "surface": "תִּתְחַסָּ֑ד",
+      "gloss": "erzeigst du dich chassid"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "גְּבַ֥ר",
+      "gloss": "dem Helden"
+    },
+    {
+      "surface": "תָּמִ֗ים",
+      "gloss": "unversehrten"
+    },
+    {
+      "surface": "תִּתַּמָּֽם",
+      "gloss": "erzeigst du dich unversehrt"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:39.029540881Z",
+  "model": "glm-5.2"
+}

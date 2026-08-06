@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und so hütet euch sehr für eure Nefesch, ⟨dass ihr⟩ ⟨euch⟩ der Liebe ⟨widmet⟩ ⟨את⟩ JHWH, eurem Elohim.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "Und so hütet euch"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "für eure Nefesch"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "⟨dass ihr⟩ ⟨euch⟩ der Liebe ⟨widmet⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eurem Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:55:14.495148559Z",
+  "model": "glm-5.2"
+}

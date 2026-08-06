@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und sie schrieb in den Briefen ⟨folgendes⟩: „Ruft ein Fasten aus, und setzt ⟨את⟩ Nawot an die Spitze des Volkes",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Und sie schrieb"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "in den Briefen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨folgendes⟩:"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Ruft aus"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ein Fasten"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "und setzt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nawot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nawot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "an die Spitze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    }
+  ],
+  "timestamp": "2026-08-05T21:32:39.198901112Z",
+  "model": "glm-5.2"
+}

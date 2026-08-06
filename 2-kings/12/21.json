@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und seine Knechte erhoben sich und schlossen ⟨eine⟩ Verschwörung, und sie schlugen ⟨את⟩ Joasch ⟨im⟩ Haus Millo, ⟨das⟩ hinabgeht nach Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "Und sie erhoben sich"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seine Knechte"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "und sie schlossen"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "Verschwörung"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "und sie schlugen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joasch"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joasch"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "hinabgeht"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-08-06T03:06:33.443960374Z",
+  "model": "glm-5.2"
+}

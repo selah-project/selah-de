@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Die Blöße ⟨der⟩ Frau deines Bruders sollst du nicht aufdecken. ⟨Die⟩ Blöße deines Bruders ⟨ist⟩ sie.",
+  "tokens": [
+    {
+      "surface": "עֶרְוַ֥ת",
+      "gloss": "Die Blöße"
+    },
+    {
+      "surface": "אֵֽשֶׁת",
+      "gloss": "⟨der⟩ Frau"
+    },
+    {
+      "surface": "אָחִ֖יךָ",
+      "gloss": "deines Bruders"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תְגַלֵּ֑ה",
+      "gloss": "sollst du aufdecken"
+    },
+    {
+      "surface": "עֶרְוַ֥ת",
+      "gloss": "⟨Die⟩ Blöße"
+    },
+    {
+      "surface": "אָחִ֖יךָ",
+      "gloss": "deines Bruders"
+    },
+    {
+      "surface": "הִֽוא",
+      "gloss": "⟨ist⟩ sie"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:25.200951281Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH bestellte einen großen Fisch, ⟨um⟩ ⟨את⟩ Jona zu verschlingen, und Jona war im Innern des Fisches drei Tage und drei Nächte.",
+  "tokens": [
+    {
+      "surface": "וַיְמַ֤ן",
+      "gloss": "Und bestellte"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דָּ֣ג",
+      "gloss": "einen Fisch"
+    },
+    {
+      "surface": "גָּד֔וֹל",
+      "gloss": "großen"
+    },
+    {
+      "surface": "לִבְלֹ֖עַ",
+      "gloss": "zu verschlingen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יוֹנָ֑ה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "וַיְהִ֤י",
+      "gloss": "und ⟨er⟩ war"
+    },
+    {
+      "surface": "יוֹנָה֙",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "בִּמְעֵ֣י",
+      "gloss": "im Innern"
+    },
+    {
+      "surface": "הַדָּ֔ג",
+      "gloss": "des Fisches"
+    },
+    {
+      "surface": "שְׁלֹשָׁ֥ה",
+      "gloss": "drei"
+    },
+    {
+      "surface": "יָמִ֖ים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "וּשְׁלֹשָׁ֥ה",
+      "gloss": "und drei"
+    },
+    {
+      "surface": "לֵילֽוֹת",
+      "gloss": "Nächte"
+    }
+  ],
+  "timestamp": "2026-08-06T04:01:03.624023022Z",
+  "model": "glm-5.2"
+}

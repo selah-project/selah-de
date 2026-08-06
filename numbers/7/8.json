@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨את⟩ vier Wagen und ⟨את⟩ acht Rinder gab er den Söhnen Merari, nach ihrem Dienst, unter der Hand Itamars, des Sohnes Aharons, des Kohen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "vier Wagen"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "Wagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "acht Rinder"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "acht"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "Rinder"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gab"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "nach"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ihrem Dienst"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "unter der Hand"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "des Sohnes"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "des Kohen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:15:38.761338105Z",
+  "model": "glm-5.2"
+}

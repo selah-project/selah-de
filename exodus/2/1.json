@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und es ging ein Mann vom Haus Levi ⟨hin⟩ und nahm ⟨את⟩ eine Tochter Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Und es ging"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "vom Haus"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "und nahm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eine Tochter Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "eine Tochter"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-06T14:49:43.853473292Z",
+  "model": "glm-5.2"
+}

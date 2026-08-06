@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und die Söhne Jisra'els taten ⟨das⟩ Böse in den Augen JHWHs, und sie vergaßen ⟨את⟩ JHWH, ihren Elohim, und sie dienten ⟨את⟩ den Baalim und ⟨את⟩ den Ascherot.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "und sie taten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Böse"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "Böse"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in den Augen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "und sie vergaßen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ihren Elohim"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "und sie dienten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "den Baalim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Ascherot"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "den Ascherot"
+    }
+  ],
+  "timestamp": "2026-08-06T00:55:49.294983008Z",
+  "model": "glm-5.2"
+}

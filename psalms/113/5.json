@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 113,
+  "translation": "Wer ⟨ist⟩ wie JHWH, unser Elohim, ⟨der⟩ sich erhebt, um zu sitzen?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "wie JHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "⟨der⟩ sich erhebt"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "um zu sitzen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:27.575109157Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Mein Fuß steht fest im Ebene-Land; in den Versammlungen will ich JHWH segnen.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "Mein Fuß"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "steht fest"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "im Ebene-Land"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "in den Versammlungen"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "will ich segnen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:17.797824688Z",
+  "model": "glm-5.2"
+}

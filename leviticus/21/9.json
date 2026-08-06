@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und ⟨wenn⟩ die Tochter eines Kohen sich entweiht, ⟨indem sie⟩ Unzucht treibt — ⟨את⟩ ihren Vater entweiht sie: im Feuer soll sie verbrannt werden.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Und ⟨eine⟩ Tochter"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eines Mannes"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "sich entweiht"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "Unzucht zu treiben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Vater"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ihres Vaters"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "entweiht"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "soll sie verbrannt werden"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:09.519268879Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Er neigte ⟨die⟩ Himmel und stieg hinab, und Wolkendunkel war unter seinen Füßen.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "und er neigte"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Himmel"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "und stieg hinab"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "und Wolkendunkel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "seinen Füßen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:36.450315341Z",
+  "model": "glm-5.2"
+}

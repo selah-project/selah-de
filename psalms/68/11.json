@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "⟨Deine⟩ Schar wohnt darin; in deiner Güte bereitest du ⟨es⟩ für den Armen, Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "⟨Deine⟩ Schar"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wohnt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "darin"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "bereitest du"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "in deiner Güte"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "für den Armen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:49.671310373Z",
+  "model": "glm-5.2"
+}

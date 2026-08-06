@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und JHWH erschien im Zelt in der Wolkensäule, und die Wolkensäule stand über dem Eingang des Zeltes.",
+  "tokens": [
+    {
+      "surface": "וַיֵּרָ֧א",
+      "gloss": "und es erschien"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בָּאֹ֖הֶל",
+      "gloss": "im Zelt"
+    },
+    {
+      "surface": "בְּעַמּ֣וּד",
+      "gloss": "in der Säule"
+    },
+    {
+      "surface": "עָנָ֑ן",
+      "gloss": "der Wolke"
+    },
+    {
+      "surface": "וַיַּעֲמֹ֛ד",
+      "gloss": "und sie stand"
+    },
+    {
+      "surface": "עַמּ֥וּד",
+      "gloss": "die Säule"
+    },
+    {
+      "surface": "הֶעָנָ֖ן",
+      "gloss": "der Wolke"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "פֶּ֥תַח",
+      "gloss": "dem Eingang"
+    },
+    {
+      "surface": "הָאֹֽהֶל",
+      "gloss": "des Zeltes"
+    }
+  ],
+  "timestamp": "2026-08-06T02:29:15.519389689Z",
+  "model": "glm-5.2"
+}

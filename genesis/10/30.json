@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ⟨ihr⟩ Wohnsitz war von Mescha, ⟨wenn man⟩ kommt ⟨nach⟩ Sefara, ⟨dem⟩ Berg des Ostens.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und war"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "⟨ihr⟩ Wohnsitz"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "von Mescha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "⟨wenn man⟩ kommt ⟨nach⟩"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Sefara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨dem⟩ Berg"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "des Ostens"
+    }
+  ],
+  "timestamp": "2026-08-06T00:03:56.765711713Z",
+  "model": "glm-5.2"
+}

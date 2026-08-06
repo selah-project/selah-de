@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Und ⟨er⟩ sprach, und ⟨er⟩ stellte auf einen Sturmwind (Ruach), und ⟨es⟩ hob empor ⟨seine⟩ Wellen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "und ⟨er⟩ stellte auf"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Wind (Ruach)"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "Sturm"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "und ⟨es⟩ hob empor"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "⟨seine⟩ Wellen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:07.373804986Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 57,
+  "translation": "Ich werde deine Zedaka verkünden und ⟨את⟩ deine Taten, und sie werden dir nicht nützen.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "werde verkünden"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "deine Zedaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "deine Taten"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "deine Taten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "werden dir nützen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:03:49.197453482Z",
+  "model": "glm-5.2"
+}

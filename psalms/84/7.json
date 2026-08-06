@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 84,
+  "translation": "Die Hinüberziehenden machen im Tal des Bacha ⟨aus ihm⟩ eine Quelle — auch als Spenden überzieht ihn der Frühregen.",
+  "tokens": [
+    {
+      "surface": "עֹבְרֵ֤י",
+      "gloss": "Die Hinüberziehenden"
+    },
+    {
+      "surface": "בְּעֵ֣מֶק",
+      "gloss": "im Tal"
+    },
+    {
+      "surface": "הַ֭בָּכָא",
+      "gloss": "des Bacha"
+    },
+    {
+      "surface": "מַעְיָ֣ן",
+      "gloss": "eine Quelle"
+    },
+    {
+      "surface": "יְשִׁיתֻ֑הוּ",
+      "gloss": "machen sie ⟨aus ihm⟩"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "בְּרָכ֗וֹת",
+      "gloss": "als Spenden"
+    },
+    {
+      "surface": "יַעְטֶּ֥ה",
+      "gloss": "überzieht"
+    },
+    {
+      "surface": "מוֹרֶֽה",
+      "gloss": "der Frühregen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:29.677293104Z",
+  "model": "glm-5.2"
+}

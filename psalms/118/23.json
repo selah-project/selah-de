@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Von ⟨את⟩ JHWH her ist ⟨dies⟩ geschehen; ⟨es⟩ ist ein Wunder in unseren Augen.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Von ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ist ⟨dies⟩ geschehen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨dies⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨es⟩ ist"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ein Wunder"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "in unseren Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:30.238092395Z",
+  "model": "glm-5.2"
+}

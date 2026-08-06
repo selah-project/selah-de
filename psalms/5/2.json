@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Meine Worte — JHWH, ⟨lenke⟩ ⟨dein⟩ Ohr auf ⟨sie⟩, achte auf mein Murmeln!",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Meine Worte"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "⟨lenke⟩ ⟨dein⟩ Ohr auf ⟨sie⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "achte auf"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "mein Murmeln"
+    }
+  ],
+  "timestamp": "2026-08-06T15:21:56.009418185Z",
+  "model": "glm-5.2"
+}

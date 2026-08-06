@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Wenn ihr aber das Böse tut, werdet ihr ⟨ausgetilgt⟩, sowohl ihr als auch euer König.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Wenn aber"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "das Böse"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ihr tut"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sowohl"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "גם",
+      "gloss": "als auch"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "euer König"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "werdet ihr ⟨ausgetilgt⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T02:41:15.253627441Z",
+  "model": "glm-5.2"
+}

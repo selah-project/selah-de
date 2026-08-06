@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Im Jahr, als der Tartan nach Aschdod kam, als Sargon, König von Aschur, ⟨ihn⟩ ⟨את⟩ dorthin sandte, ⟨und⟩ er kämpfte gegen Aschdod und eroberte ⟨es⟩.",
+  "tokens": [
+    {
+      "surface": "בִּשְׁנַ֨ת",
+      "gloss": "Im Jahr"
+    },
+    {
+      "surface": "בֹּ֤א",
+      "gloss": "als … kam"
+    },
+    {
+      "surface": "תַרְתָּן֙",
+      "gloss": "der Tartan"
+    },
+    {
+      "surface": "אַשְׁדּ֔וֹדָה",
+      "gloss": "nach Aschdod"
+    },
+    {
+      "surface": "בִּשְׁלֹ֣חַ",
+      "gloss": "als … sandte"
+    },
+    {
+      "surface": "אֹת֔וֹ",
+      "gloss": "⟨ihn⟩ ⟨את⟩",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סַֽרְג֖וֹן",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "König"
+    },
+    {
+      "surface": "אַשּׁ֑וּר",
+      "gloss": "von Aschur"
+    },
+    {
+      "surface": "וַיִּלָּ֥חֶם",
+      "gloss": "und ⟨er⟩ kämpfte"
+    },
+    {
+      "surface": "בְּאַשְׁדּ֖וֹד",
+      "gloss": "gegen Aschdod"
+    },
+    {
+      "surface": "וַֽיִּלְכְּדָֽהּ",
+      "gloss": "und eroberte ⟨es⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T03:13:56.833199730Z",
+  "model": "glm-5.2"
+}

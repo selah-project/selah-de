@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "⟨את⟩ dies dürft ihr essen von allem, was in den Wassern ist: alles, was ihm Flossen und Schuppen hat in den Wassern, in den Meeren und in den Flussbetten, ⟨את⟩ sie dürft ihr essen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dies"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dürft ihr essen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "von allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in den Wassern"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "Flossen"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "und Schuppen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in den Wassern"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in den Meeren"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "und in den Flussbetten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dürft ihr essen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:08:44.848034214Z",
+  "model": "glm-5.2"
+}

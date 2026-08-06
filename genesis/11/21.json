@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Reu lebte nachdem er ⟨את⟩ Serug gezeugt hatte zweihundert und sieben Jahre, und zeugte Söhne und Töchter.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "und lebte"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nachdem"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "er gezeugt hatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "und zweihundert"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "und zeugte"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "und Töchter"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:39.964042487Z",
+  "model": "glm-5.2"
+}

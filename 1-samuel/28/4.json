@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und die Pelischtim sammelten sich und kamen und schlugen ⟨ihr⟩ Lager auf in Schunem. Und Schaul sammelte ⟨את⟩ ganz Jisra'el, und sie schlugen ⟨ihr⟩ Lager auf am Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Und sie sammelten sich"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "und kamen"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "und schlugen ⟨ihr⟩ Lager auf"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "in Schunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "Und er sammelte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganz Jisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "und sie schlugen ⟨ihr⟩ Lager auf"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "am Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-06T01:11:44.382794333Z",
+  "model": "glm-5.2"
+}

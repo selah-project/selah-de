@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Denn zehn Zemed-Weinberge werden ⟨nur⟩ ein Bat ergeben, und die Saat eines Chomer wird ⟨nur⟩ ein Efa ergeben.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "Zemed-"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "Weinberge"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "werden ergeben"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ein Bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "[ein]"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "und die Saat"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "eines Chomer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wird ergeben"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ein Efa"
+    }
+  ],
+  "timestamp": "2026-08-05T21:43:28.539562304Z",
+  "model": "glm-5.2"
+}

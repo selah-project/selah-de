@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und JHWH, dein Elohim, wird dich bringen in das Land, das deine Väter in Besitz nahmen, und du wirst es in Besitz nehmen; und er wird dir Gutes tun und dich mehren ⟨über⟩ deine Väter.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "und wird dich bringen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "in Besitz nahmen"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "deine Väter"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "und du wirst es in Besitz nehmen"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "und er wird dir Gutes tun"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "und dich mehren"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "über deine Väter"
+    }
+  ],
+  "timestamp": "2026-08-05T20:50:56.155430572Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und Elohim rettete ⟨את⟩ das Vieh eures Vaters und gab ⟨es⟩ mir.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "und rettete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Vieh"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "das Vieh"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "eures Vaters"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T00:08:45.070597134Z",
+  "model": "glm-5.2"
+}

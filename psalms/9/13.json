@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Denn ⟨der⟩ Blut fordert, ⟨der⟩ erinnert sich ⟨את⟩ ihrer — ⟨er⟩ vergisst nicht den Schrei der Gedrückten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "fordert"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ihrer"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erinnert sich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "vergisst"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "den Schrei"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "der Gedrückten"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:56.637595573Z",
+  "model": "glm-5.2"
+}

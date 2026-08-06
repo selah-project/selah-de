@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Mizrajim zeugte ⟨את⟩ die Ludim und ⟨את⟩ die Anamim und ⟨את⟩ die Lehabim und ⟨את⟩ die Naphtuchim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Und Mizrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ludim"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "die Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "die Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Lehabim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "die Lehabim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Naphtuchim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "die Naphtuchim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:45:40.005438616Z",
+  "model": "glm-5.2"
+}

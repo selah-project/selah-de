@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Glückselig deine Männer, glückselig deine Knechte, diese, die ständig vor dir stehen, die ⟨את⟩ deine Weisheit hören!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "glückselig"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "deine Männer"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "glückselig"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "deine Knechte"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "die stehen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständig"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "die hören"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Weisheit"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "deine Weisheit"
+    }
+  ],
+  "timestamp": "2026-08-06T01:25:12.649627341Z",
+  "model": "glm-5.2"
+}

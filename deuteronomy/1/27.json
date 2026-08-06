@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ihr murrtet in euren Zelten und sagtet: „Aus Hass hat JHWH uns herausgeführt aus dem Land Mizrajim, um ⟨את⟩ uns in die Hand des Emori zu geben, um uns zu vernichten.“",
+  "tokens": [
+    {
+      "surface": "וַתֵּרָגְנוּ",
+      "gloss": "Und ihr murrtet"
+    },
+    {
+      "surface": "בְּאָהֳלֵיכֶם",
+      "gloss": "in euren Zelten"
+    },
+    {
+      "surface": "וַתֹּאמְרוּ",
+      "gloss": "und sagtet"
+    },
+    {
+      "surface": "בְּשִׂנְאַת",
+      "gloss": "Aus Hass"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֹתָנוּ",
+      "gloss": "⟨את⟩ uns",
+      "marks": "uns (als herausgeführte Objekt)"
+    },
+    {
+      "surface": "הוֹצִיאָנוּ",
+      "gloss": "hat herausgeführt"
+    },
+    {
+      "surface": "מֵאֶרֶץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "לָתֵת",
+      "gloss": "um zu geben"
+    },
+    {
+      "surface": "אֹתָנוּ",
+      "gloss": "⟨את⟩ uns",
+      "marks": "uns (als ausgelieferte Objekt)"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "הָאֱמֹרִי",
+      "gloss": "des Emori"
+    },
+    {
+      "surface": "לְהַשְׁמִידֵנוּ",
+      "gloss": "um uns zu vernichten"
+    }
+  ],
+  "timestamp": "2026-08-06T02:22:36.010569895Z",
+  "model": "glm-5.2"
+}

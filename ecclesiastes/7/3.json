@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Besser ⟨ist⟩ Verdruss als Lachen, denn bei Verdrossenheit des Gesichts wird das Herz gut.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "⟨ist⟩ Verdruss"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "als Lachen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "bei Verdrossenheit"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "des Gesichts"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "wird gut"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:50.261093360Z",
+  "model": "glm-5.2"
+}

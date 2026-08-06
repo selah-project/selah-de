@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Sogar Schakale ⟨haben⟩ die Brust dargeboten, ⟨haben⟩ ihre Jungen gesäugt; ⟨die⟩ Tochter meines Volkes ⟨ist⟩ geworden ⟨wie⟩ die Grausame — ja die Strauße in der Wüste.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Sogar"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "Schakale"
+    },
+    {
+      "surface": "חָלְצוּ",
+      "gloss": "⟨haben⟩ dargeboten"
+    },
+    {
+      "surface": "שַׁד",
+      "gloss": "die Brust"
+    },
+    {
+      "surface": "הֵינִיקוּ",
+      "gloss": "⟨haben⟩ gesäugt"
+    },
+    {
+      "surface": "גוּרֵיהֶן",
+      "gloss": "ihre Jungen"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "⟨die⟩ Tochter"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "meines Volkes"
+    },
+    {
+      "surface": "לְאַכְזָר",
+      "gloss": "⟨ist⟩ geworden ⟨wie⟩ die Grausame"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "die Strauße"
+    },
+    {
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "in der Wüste"
+    }
+  ],
+  "timestamp": "2026-08-06T04:41:07.146080249Z",
+  "model": "glm-5.2"
+}

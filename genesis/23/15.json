@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "„Mein Herr, höre mich: Land ⟨im Wert von⟩ vierhundert Schekel Silber — zwischen mir und dir, was ist das? Und ⟨את⟩ deinen Toten, begrabe!“",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "höre mich"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "Schekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "zwischen mir"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "und dir"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist das"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "deinen Toten"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "deinen Toten"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "begrabe"
+    }
+  ],
+  "timestamp": "2026-08-05T19:58:36.958756068Z",
+  "model": "glm-5.2"
+}

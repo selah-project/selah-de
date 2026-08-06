@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Eine Falle ⟨für⟩ ⟨den⟩ Menschen ist es, Heiliges unbedacht hinauszustoßen, und erst nach ⟨den⟩ Gelübden nachzuforschen.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "Falle"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "unbedacht hinauszustoßen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Heiliges"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "und erst nach"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "Gelübden"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "nachzuforschen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:22.284103946Z",
+  "model": "glm-5.2"
+}

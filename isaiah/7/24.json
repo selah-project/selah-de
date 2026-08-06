@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Mit Pfeilen und mit dem Bogen wird man dorthin kommen, denn Dornengestrüpp und Disteln wird die ganze Erde ⟨sein⟩.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "Mit Pfeilen"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "und mit dem Bogen"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "wird man kommen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "Dornengestrüpp"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "und Disteln"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wird ⟨sein⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T21:44:15.576520163Z",
+  "model": "glm-5.2"
+}

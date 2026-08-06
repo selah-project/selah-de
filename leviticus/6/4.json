@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und er ziehe ⟨את⟩ seine Kleider aus und lege andere Kleider an, und er schaffe ⟨את⟩ die Asche hinaus nach außerhalb des Lagers, an einen reinen Ort.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "und er ziehe aus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Kleider"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "und er lege an"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "Kleider"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "und er schaffe hinaus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Asche"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "die Asche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "des Lagers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "einen Ort"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "reinen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:34.904524010Z",
+  "model": "glm-5.2"
+}

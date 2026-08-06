@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Da glaubten sie seinem Wort, sie sangen sein Lob.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "Da glaubten ⟨sie⟩"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "seinem Wort"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "sie sangen"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sein Lob"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:50.842782293Z",
+  "model": "glm-5.2"
+}

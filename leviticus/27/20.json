@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und wenn er ⟨את⟩ das Feld nicht loslöst, und wenn er ⟨את⟩ das Feld einem anderen Mann verkauft hat, dann kann es nicht mehr losgelöst werden.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "er loslöst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Feld"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "das Feld"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "er verkauft hat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Feld"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "das Feld"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "einem Mann"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "(einem) anderen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "kann es losgelöst werden"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mehr"
+    }
+  ],
+  "timestamp": "2026-08-06T02:14:33.803763321Z",
+  "model": "glm-5.2"
+}

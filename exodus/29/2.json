@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und ungesäuertes Brot und ungesäuerte Fladen, angemengt mit Öl, und ungesäuerte Fladen, bestrichen mit Öl — aus Weizengrieß sollst du ⟨sie⟩ machen, ⟨את⟩ sie.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "Und Brot"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ungesäuertes"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "und Fladen"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "ungesäuerte"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "angemengt"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mit Öl"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "und Fladen"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ungesäuerte"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "bestrichen"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mit Öl"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "aus Grieß"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "von Weizen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sollst du machen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:35.024160983Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Ihr sollt nicht versuchen ⟨את⟩ JHWH, euren Elohim, so wie ihr ⟨ihn⟩ versucht habt in Massa.",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תְנַסּ֔וּ",
+      "gloss": "ihr sollt versuchen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶ֑ם",
+      "gloss": "euren Elohim"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "נִסִּיתֶ֖ם",
+      "gloss": "ihr versucht habt"
+    },
+    {
+      "surface": "בַּמַּסָּֽה",
+      "gloss": "in Massa"
+    }
+  ],
+  "timestamp": "2026-08-06T08:28:09.947521933Z",
+  "model": "glm-5.2"
+}

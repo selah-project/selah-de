@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Bäche von Wasser fließen herab aus meinen Augen, darüber dass ⟨sie⟩ deine Tora nicht bewahrt haben.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "Bäche"
+    },
+    {
+      "surface": "מים",
+      "gloss": "von Wasser"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "fließen herab"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "aus meinen Augen"
+    },
+    {
+      "surface": "על",
+      "gloss": "darüber dass"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "sie bewahrt haben"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "deine Tora"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:45.716245569Z",
+  "model": "glm-5.2"
+}

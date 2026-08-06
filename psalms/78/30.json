@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Nicht wandten sie ab von ihrem Verlangen — ⟨während⟩ noch ⟨das⟩ Essen in ihrem Mund ⟨war⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "wandten sie ab"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "von ihrem Verlangen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "noch"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "⟨das⟩ Essen"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "in ihrem Mund"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:50.533934191Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und wer ein Vieh schlägt, soll es erstatten, und wer einen Menschen schlägt, soll getötet werden.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "und wer schlägt"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "⟨ein⟩ Vieh"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "soll ⟨es⟩ erstatten"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "und wer schlägt"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨einen⟩ Menschen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "soll getötet werden"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:29.496786193Z",
+  "model": "glm-5.2"
+}

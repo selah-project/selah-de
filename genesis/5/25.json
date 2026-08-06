@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Metuschelach lebte siebenundachtzig Jahre und hundert Jahre, und er zeugte ⟨את⟩ Lamech.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "und er lebte"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuschelach"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "und achtzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "und hundert"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "und er zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lamech"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lamech"
+    }
+  ],
+  "timestamp": "2026-08-06T00:03:38.147264634Z",
+  "model": "glm-5.2"
+}

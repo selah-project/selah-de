@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ich werde die Königsherrschaft aus der Hand seines Sohnes nehmen und sie dir geben — ⟨את⟩ die zehn Stämme.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Und ich werde nehmen"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "die Königsherrschaft"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seines Sohnes"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "und sie geben"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die zehn Stämme"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "die zehn"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "Stämme"
+    }
+  ],
+  "timestamp": "2026-08-06T01:25:42.627948605Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und ⟨er⟩ ließ Ströme hervorkommen aus ⟨dem⟩ Felsen und ließ Wasser herabfließen wie Flüsse.",
+  "tokens": [
+    {
+      "surface": "וַיּוֹצִ֣א",
+      "gloss": "Und ⟨er⟩ ließ hervorkommen"
+    },
+    {
+      "surface": "נוֹזְלִ֣ים",
+      "gloss": "Ströme"
+    },
+    {
+      "surface": "מִסָּ֑לַע",
+      "gloss": "aus ⟨dem⟩ Felsen"
+    },
+    {
+      "surface": "וַיּ֖וֹרֶד",
+      "gloss": "und ließ herabfließen"
+    },
+    {
+      "surface": "כַּנְּהָר֣וֹת",
+      "gloss": "wie Flüsse"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "Wasser"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:32.990707419Z",
+  "model": "glm-5.2"
+}

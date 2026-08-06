@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 53,
+  "translation": "Haben ⟨denn⟩ die Täter von Unrecht keine Erkenntnis, die Esser meines Volkes ⟨wie⟩ Brot aßen? Elohim haben sie nicht angerufen.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "haben ⟨denn nicht⟩"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sie erkannten"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "Täter von"
+    },
+    {
+      "surface": "און",
+      "gloss": "Unrecht"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "Esser von"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meinem Volk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "aßen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "sie riefen an"
+    }
+  ],
+  "timestamp": "2026-08-06T06:43:04.222462976Z",
+  "model": "glm-5.2"
+}

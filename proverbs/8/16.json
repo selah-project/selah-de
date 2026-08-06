@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Durch mich herrschen Befehlshaber, und Würdenträger, alle Richter ⟨der⟩ Zedek.",
+  "tokens": [
+    {
+      "surface": "בִּ֭י",
+      "gloss": "Durch mich"
+    },
+    {
+      "surface": "שָׂרִ֣ים",
+      "gloss": "Befehlshaber"
+    },
+    {
+      "surface": "יָשֹׂ֑רוּ",
+      "gloss": "herrschen"
+    },
+    {
+      "surface": "וּ֝נְדִיבִ֗ים",
+      "gloss": "und Würdenträger"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שֹׁ֥פְטֵי",
+      "gloss": "Richter"
+    },
+    {
+      "surface": "צֶֽדֶק",
+      "gloss": "⟨der⟩ Zedek"
+    }
+  ],
+  "timestamp": "2026-08-05T23:09:50.200225640Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Denn du ⟨bist⟩ ⟨mein⟩ Elohim, ⟨meine⟩ Zuflucht — warum hast du mich verworfen? Warum wandle ich trauernd ⟨unter⟩ ⟨dem⟩ Druck ⟨des⟩ Feindes?",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אַתָּ֤ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מָֽעוּזִּי֮",
+      "gloss": "⟨meine⟩ Zuflucht"
+    },
+    {
+      "surface": "לָמָ֪ה",
+      "gloss": "warum"
+    },
+    {
+      "surface": "זְנַ֫חְתָּ֥נִי",
+      "gloss": "hast du mich verworfen"
+    },
+    {
+      "surface": "לָֽמָּה",
+      "gloss": "warum"
+    },
+    {
+      "surface": "קֹדֵ֥ר",
+      "gloss": "trauernd"
+    },
+    {
+      "surface": "אֶתְהַלֵּ֗ךְ",
+      "gloss": "wandle ich"
+    },
+    {
+      "surface": "בְּלַ֣חַץ",
+      "gloss": "⟨unter⟩ ⟨dem⟩ Druck"
+    },
+    {
+      "surface": "אוֹיֵֽב",
+      "gloss": "⟨des⟩ Feindes"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:33.462360377Z",
+  "model": "glm-5.2"
+}

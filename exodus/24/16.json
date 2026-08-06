@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 24:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und die Herrlichkeit von JHWH ließ sich nieder auf den Berg Sinai, und die Wolke bedeckte ihn sechs Tage lang. Und ⟨er⟩ rief zu Mosche am siebten Tag aus der Mitte der Wolke.",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "Und ließ sich nieder"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "die Herrlichkeit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הר",
+      "gloss": "den Berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "und bedeckte ihn"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "die Wolke"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sechs"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Und ⟨er⟩ rief"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "dem siebten"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "aus der Mitte"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "der Wolke"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:11.648274914Z",
+  "model": "glm-5.2"
+}

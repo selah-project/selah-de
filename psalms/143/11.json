@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 143,
+  "translation": "Um deines Namens willen, JHWH, belebe mich; in deiner Gerechtigkeit führ ⟨את⟩ meine Nefesch aus der Bedrängnis heraus.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Um … willen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deines Namens"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "belebe mich"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "in deiner Gerechtigkeit"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "führ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Nefesch"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "aus der Bedrängnis"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:18.911386026Z",
+  "model": "glm-5.2"
+}

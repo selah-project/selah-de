@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und ihr sollt an dem Tag, an dem ihr ⟨את⟩ das Omer schwingt, ein fehlerfreies männliches Lamm, einjährig, als Ola für JHWH bereiten.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Und ihr sollt bereiten"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "an dem ihr schwingt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "das Omer"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ein männliches Lamm"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fehlerfrei"
+    },
+    {
+      "surface": "בן",
+      "gloss": "von"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "einem Jahr"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "als Ola"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:45.725737083Z",
+  "model": "glm-5.2"
+}

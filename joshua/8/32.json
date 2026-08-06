@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er schrieb dort auf die Steine ⟨את⟩ eine Abschrift der Tora Mosches, die er vor den Söhnen Israels geschrieben hatte.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Und er schrieb"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "die Steine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eine Abschrift der Tora Mosches"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "eine Abschrift"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "der Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosches"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "er geschrieben hatte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-08-05T20:54:33.239950987Z",
+  "model": "glm-5.2"
+}

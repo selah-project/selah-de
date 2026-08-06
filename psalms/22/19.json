@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Sie teilen meine Kleider unter sich, und über mein Gewand werfen sie ⟨das⟩ Los.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "Sie teilen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "meine Kleider"
+    },
+    {
+      "surface": "להם",
+      "gloss": "unter sich"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und über"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "mein Gewand"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "werfen sie"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "⟨das⟩ Los"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:09.662892719Z",
+  "model": "glm-5.2"
+}

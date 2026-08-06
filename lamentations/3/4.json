@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Aufgezehrt hat er mein Fleisch und meine Haut, zerschlagen ⟨hat er⟩ meine Gebeine.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "aufgezehrt hat er"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mein Fleisch"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "und meine Haut"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "zerschlagen"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "meine Gebeine"
+    }
+  ],
+  "timestamp": "2026-08-06T07:08:15.444337187Z",
+  "model": "glm-5.2"
+}

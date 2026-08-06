@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Segub zeugte ⟨את⟩ Jaïr, und ⟨es⟩ wurden ihm dreiundzwanzig Städte im Land Gilad.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "und Segub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaïr"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jaïr"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ wurden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zwanzig"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "und drei"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-06T04:53:10.921875256Z",
+  "model": "glm-5.2"
+}

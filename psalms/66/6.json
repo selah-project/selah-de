@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Er wandelte das Meer ⟨in⟩ trockenes Land, ⟨durch⟩ den Strom gingen sie zu Fuß; dort freuen wir uns in ihm.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Er wandelte"
+    },
+    {
+      "surface": "ים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "⟨in⟩ trockenes Land"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "⟨durch⟩ den Strom"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "gingen sie"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "zu Fuß"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "freuen wir uns"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:01.352412919Z",
+  "model": "glm-5.2"
+}

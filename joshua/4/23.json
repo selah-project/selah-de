@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 4:23",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "denn JHWH, euer Elohim, hat ⟨את⟩ die Wasser des Jardén vor euch ausgetrocknet, bis ihr hinüberzogt — so wie JHWH, euer Elohim, ⟨es⟩ dem Schilfmeer tat, das er vor uns austrocknete, bis wir hinüberzogen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "hat ausgetrocknet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wasser"
+    },
+    {
+      "surface": "מי",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "des Jardén"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עברכם",
+      "gloss": "ihr hinüberzogt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "לים",
+      "gloss": "⟨es⟩ dem … Meer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Schilfmeer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "er austrocknete"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "vor uns"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "wir hinüberzogen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:53:33.688653494Z",
+  "model": "glm-5.2"
+}

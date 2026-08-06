@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 63,
+  "translation": "Und sie — ⟨zur⟩ Verwüstung suchen sie meine Nefesch; sie werden kommen in die Tiefen der Erde.",
+  "tokens": [
+    {
+      "surface": "וְהֵ֗מָּה",
+      "gloss": "Und sie"
+    },
+    {
+      "surface": "לְ֭שׁוֹאָה",
+      "gloss": "⟨zur⟩ Verwüstung"
+    },
+    {
+      "surface": "יְבַקְשׁ֣וּ",
+      "gloss": "suchen"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "יָ֝בֹ֗אוּ",
+      "gloss": "sie werden kommen"
+    },
+    {
+      "surface": "בְּֽתַחְתִּיּ֥וֹת",
+      "gloss": "in die Tiefen"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:59.131037164Z",
+  "model": "glm-5.2"
+}

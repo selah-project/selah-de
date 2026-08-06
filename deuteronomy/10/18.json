@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "⟨Er⟩ tut das Recht der Waise und der Witwe und liebt den Ger, ⟨um⟩ ihm Brot und Kleidung zu geben.",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂה",
+      "gloss": "⟨Er⟩ tut"
+    },
+    {
+      "surface": "מִשְׁפַּט",
+      "gloss": "das Recht"
+    },
+    {
+      "surface": "יָתוֹם",
+      "gloss": "der Waise"
+    },
+    {
+      "surface": "וְאַלְמָנָה",
+      "gloss": "und der Witwe"
+    },
+    {
+      "surface": "וְאֹהֵב",
+      "gloss": "und liebt"
+    },
+    {
+      "surface": "גֵּר",
+      "gloss": "den Ger"
+    },
+    {
+      "surface": "לָתֶת",
+      "gloss": "⟨um⟩ zu geben"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "וְשִׂמְלָה",
+      "gloss": "und Kleidung"
+    }
+  ],
+  "timestamp": "2026-08-05T20:45:14.307802185Z",
+  "model": "glm-5.2"
+}

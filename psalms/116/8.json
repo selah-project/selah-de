@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Denn du hast meine Nefesch vom Tod befreit, ⟨את⟩ mein Auge von der Träne, ⟨את⟩ meinen Fuß vom Stolpern.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "חִלַּ֥צְתָּ",
+      "gloss": "du hast befreit"
+    },
+    {
+      "surface": "נַפְשִׁ֗י",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "מִ֫מָּ֥וֶת",
+      "gloss": "vom Tod"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mein Auge"
+    },
+    {
+      "surface": "עֵינִ֥י",
+      "gloss": "mein Auge"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "דִּמְעָ֑ה",
+      "gloss": "der Träne"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Fuß"
+    },
+    {
+      "surface": "רַגְלִ֥י",
+      "gloss": "meinen Fuß"
+    },
+    {
+      "surface": "מִדֶּֽחִי",
+      "gloss": "vom Stolpern"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:56.398016063Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 148,
+  "translation": "⟨das⟩ Wild und alles Vieh, Kriechtiere und geflügelte Vögel",
+  "tokens": [
+    {
+      "surface": "הַֽחַיָּ֥ה",
+      "gloss": "⟨das⟩ Wild"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und alles"
+    },
+    {
+      "surface": "בְּהֵמָ֑ה",
+      "gloss": "Vieh"
+    },
+    {
+      "surface": "רֶ֝מֶשׂ",
+      "gloss": "Kriechtiere"
+    },
+    {
+      "surface": "וְצִפּ֥וֹר",
+      "gloss": "und ⟨die⟩ Vögel"
+    },
+    {
+      "surface": "כָּנָֽף",
+      "gloss": "geflügelte"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:41.012907453Z",
+  "model": "glm-5.2"
+}

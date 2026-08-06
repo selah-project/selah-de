@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und JHWH sagte zu ihm: „Weil ich mit dir ⟨bin⟩, wirst du ⟨את⟩ Midjan schlagen wie einen einzigen Mann.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Weil"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ich ⟨bin⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "wirst du schlagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "wie einen Mann"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einzigen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:56:26.751001203Z",
+  "model": "glm-5.2"
+}

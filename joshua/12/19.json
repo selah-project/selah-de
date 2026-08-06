@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 12:19",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "der König von Madon, einer; der König von Hazor, einer;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "von Madon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "von Hazor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    }
+  ],
+  "timestamp": "2026-08-05T20:55:06.423539487Z",
+  "model": "glm-5.2"
+}

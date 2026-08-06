@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 70,
+  "translation": "Und ⟨ich⟩ bin elend und bedürftig — Elohim, eile zu mir! Du bist meine Hilfe und mein Befreier, JHWH, säume nicht!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Und ⟨ich⟩"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bin elend"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "und bedürftig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "eile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "meine Hilfe"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "und mein Befreier"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "säume"
+    }
+  ],
+  "timestamp": "2026-08-06T20:40:08.714527970Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨er⟩ sprach: „Beim Gebären der Hebäerinnen ⟨werdet ihr⟩ ⟨את⟩ ⟨sie⟩ sehen auf den Gebärsteinen: Wenn ein Sohn er ⟨ist⟩, tötet ⟨ihn⟩, und wenn eine Tochter sie ⟨ist⟩, ⟨dann soll sie⟩ leben.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er sprach⟩"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "beim Gebären"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨sie⟩ (die Hebäerinnen)"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "der Hebäerinnen"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "⟨werdet ihr⟩ sehen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "den Gebärsteinen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ein Sohn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ⟨ist⟩"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "tötet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨ihn⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "בת",
+      "gloss": "eine Tochter"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sie ⟨ist⟩"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "⟨dann soll sie⟩ leben"
+    }
+  ],
+  "timestamp": "2026-08-06T00:12:08.282762022Z",
+  "model": "glm-5.2"
+}

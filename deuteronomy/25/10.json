@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und sein Name soll in Jisra'el gerufen werden: „Haus des Schuhgelösten.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "und es soll gerufen werden"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sein Name"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisra'el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "des Schuhgelösten"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "des Schuhs"
+    }
+  ],
+  "timestamp": "2026-08-06T19:31:16.491814502Z",
+  "model": "glm-5.2"
+}

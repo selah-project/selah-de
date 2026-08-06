@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und der König gab ⟨das⟩ Silber und ⟨das⟩ Gold in Jeruschalajim wie Steine, und ⟨die⟩ Zedern gab er wie Maulbeerfeigenbäume, die ⟨im⟩ Flachland ⟨wachsen⟩, in Fülle.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Und gab"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨das⟩ Silber"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "⟨das⟩ Silber"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨das⟩ Gold"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "und ⟨das⟩ Gold"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeruschalajim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "wie Steine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨die⟩ Zedern"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "und ⟨die⟩ Zedern"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gab ⟨er⟩"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "wie Maulbeerfeigenbäume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "⟨im⟩ Flachland"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "in Fülle"
+    }
+  ],
+  "timestamp": "2026-08-06T04:58:15.116308784Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und er entfernte aus allen Städten Jehudas ⟨את⟩ die Bamot und ⟨את⟩ die Sonnengötter-Bilder, und das Königreich war still vor ihm.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֨סַר֙",
+      "gloss": "und er entfernte"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "aus allen"
+    },
+    {
+      "surface": "עָרֵ֣י",
+      "gloss": "Städten"
+    },
+    {
+      "surface": "יְהוּדָ֔ה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Bamot"
+    },
+    {
+      "surface": "הַבָּמ֖וֹת",
+      "gloss": "die Bamot"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Sonnengötter-Bilder"
+    },
+    {
+      "surface": "הַֽחַמָּנִ֑ים",
+      "gloss": "die Sonnengötter-Bilder"
+    },
+    {
+      "surface": "וַתִּשְׁקֹ֥ט",
+      "gloss": "und ⟨es⟩ war still"
+    },
+    {
+      "surface": "הַמַּמְלָכָ֖ה",
+      "gloss": "das Königreich"
+    },
+    {
+      "surface": "לְפָנָֽיו",
+      "gloss": "vor ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T05:01:46.215694613Z",
+  "model": "glm-5.2"
+}

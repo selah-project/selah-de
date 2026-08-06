@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und Josef sagte zu ihnen: Das ⟨ist⟩ es, was ich zu euch gesagt habe, sagend: Späher seid ihr.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Das"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ich gesagt habe"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "zu euch"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sagend"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "Späher"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "seid ihr"
+    }
+  ],
+  "timestamp": "2026-08-06T05:11:21.938937771Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Mein Volk — seine Treiber sind ⟨nur⟩ Kinder, und Frauen herrschen über es. Mein Volk — die dich Seligpreisenden irren ⟨dich⟩ ab, und den Weg deiner Pfade haben sie verschlungen.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "seine Treiber"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "⟨nur⟩ Kinder"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "und Frauen"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "herrschen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "über es"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "die dich Seligpreisenden"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "irren ab"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "und den Weg"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "deiner Pfade"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "haben sie verschlungen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:43:13.756801529Z",
+  "model": "glm-5.2"
+}

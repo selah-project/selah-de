@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Denn bei dir ist ⟨der⟩ Quell des Lebens, in deinem Licht schauen wir Licht.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עִמְּךָ֣",
+      "gloss": "bei dir"
+    },
+    {
+      "surface": "מְק֣וֹר",
+      "gloss": "Quell"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "des Lebens"
+    },
+    {
+      "surface": "בְּאוֹרְךָ֗",
+      "gloss": "in deinem Licht"
+    },
+    {
+      "surface": "נִרְאֶ֥ה",
+      "gloss": "schauen wir"
+    },
+    {
+      "surface": "אֽוֹר",
+      "gloss": "Licht"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:37.384631076Z",
+  "model": "glm-5.2"
+}

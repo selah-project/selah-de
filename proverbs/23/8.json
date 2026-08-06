@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Deinen Bissen, den du gegessen hast, wirst du ausbrechen, ⟨und⟩ du wirst deine angenehmen Worte verschwendet haben.",
+  "tokens": [
+    {
+      "surface": "פִּֽתְךָ",
+      "gloss": "deinen Bissen"
+    },
+    {
+      "surface": "אָכַ֥לְתָּ",
+      "gloss": "du gegessen hast"
+    },
+    {
+      "surface": "תְקִיאֶ֑נָּה",
+      "gloss": "wirst du ausbrechen"
+    },
+    {
+      "surface": "וְ֝שִׁחַ֗תָּ",
+      "gloss": "und du wirst verschwendet haben"
+    },
+    {
+      "surface": "דְּבָרֶ֥יךָ",
+      "gloss": "deine Worte"
+    },
+    {
+      "surface": "הַנְּעִימִֽים",
+      "gloss": "die angenehmen"
+    }
+  ],
+  "timestamp": "2026-08-06T20:40:58.634876686Z",
+  "model": "glm-5.2"
+}

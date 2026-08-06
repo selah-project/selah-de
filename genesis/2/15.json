@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH Elohim nahm ⟨את⟩ den Menschen und ließ ihn ruhen im Garten von Eden, ihn zu bebauen und ihn zu bewahren.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "und nahm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Menschen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "und ließ ihn ruhen"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "im Garten"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "von Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "ihn zu bebauen"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "und ihn zu bewahren"
+    }
+  ],
+  "timestamp": "2026-08-06T08:12:19.844778052Z",
+  "model": "glm-5.2"
+}

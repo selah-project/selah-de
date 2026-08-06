@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Es klebt am Staub meine Nefesch — belebe mich nach deinem Wort.",
+  "tokens": [
+    {
+      "surface": "דָּֽבְקָ֣ה",
+      "gloss": "Es klebt"
+    },
+    {
+      "surface": "לֶעָפָ֣ר",
+      "gloss": "am Staub"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "חַ֝יֵּ֗נִי",
+      "gloss": "belebe mich"
+    },
+    {
+      "surface": "כִּדְבָרֶֽךָ",
+      "gloss": "nach deinem Wort"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:17.304439974Z",
+  "model": "glm-5.2"
+}

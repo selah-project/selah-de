@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 97,
+  "translation": "Es sollen sich schämen alle, die ⟨einen⟩ geschnitzten ⟨Götzen⟩ dienen, die sich rühmen in den Nichtigen — werft euch nieder vor ihm, alle Elohim!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Es sollen sich schämen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienen"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "⟨einen⟩ geschnitzten ⟨Götzen⟩"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "die sich rühmen"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "in den Nichtigen"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "werft euch nieder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:00.596195661Z",
+  "model": "glm-5.2"
+}

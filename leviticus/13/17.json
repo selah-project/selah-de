@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und der Kohen sieht ihn, und siehe, ⟨das⟩ Nega hat sich zu Weiß gewandelt, dann erklärt der Kohen ⟨את⟩ das Nega für rein — rein ist ⟨er⟩.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "und sieht ihn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "hat sich gewandelt"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "⟨das⟩ Nega"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "zu Weiß"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dann erklärt für rein"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Nega"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "das Nega"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist ⟨er⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T20:22:56.933507325Z",
+  "model": "glm-5.2"
+}

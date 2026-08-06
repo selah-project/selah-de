@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 119:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Du hast gescholten die Hochmütigen, ⟨die⟩ Verfluchten, die abirren von deinen Mizwot.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Du hast gescholten"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "die Hochmütigen"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "Verfluchten"
+    },
+    {
+      "surface": "השגים",
+      "gloss": "die abirren"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "von deinen Mizwot"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:55.574515294Z",
+  "model": "glm-5.2"
+}

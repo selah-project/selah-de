@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Für den Chorleiter. Ein Mismor von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für den Chorleiter"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mismor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:06.640071615Z",
+  "model": "glm-5.2"
+}

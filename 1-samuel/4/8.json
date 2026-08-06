@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Wehe uns! Wer wird uns retten aus der Hand dieser mächtigen Elohim? Das sind ⟨die⟩ Elohim, die ⟨את⟩ Mizrajim schlugen mit jeder Plage in der Wüste.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "wird retten"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "diese mächtigen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Das"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sind"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "die schlugen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mizrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit jeder"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "Plage"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    }
+  ],
+  "timestamp": "2026-08-06T20:23:29.331617942Z",
+  "model": "glm-5.2"
+}

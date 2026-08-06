@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich gedachte in der Nacht an deinen Namen, JHWH, und ich bewahrte deine Tora.",
+  "tokens": [
+    {
+      "surface": "זָ֘כַ֤רְתִּי",
+      "gloss": "Ich gedachte"
+    },
+    {
+      "surface": "בַלַּ֣יְלָה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "שִׁמְךָ֣",
+      "gloss": "an deinen Namen"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וָֽ֝אֶשְׁמְרָ֗ה",
+      "gloss": "und ich bewahrte"
+    },
+    {
+      "surface": "תּוֹרָתֶֽךָ",
+      "gloss": "deine Tora"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:51.230859344Z",
+  "model": "glm-5.2"
+}

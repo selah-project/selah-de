@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "und sie sagte zu Awraham: „Vertreibe diese Magd und ⟨את⟩ ihren Sohn, denn der Sohn dieser Magd wird nicht erben mit meinem Sohn, mit Jizchak.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "und sie sagte"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "zu Awraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Vertreibe"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "diese Magd"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihren Sohn"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ihren Sohn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "wird erben"
+    },
+    {
+      "surface": "בן",
+      "gloss": "der Sohn"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "der Magd"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "meinem Sohn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jizchak"
+    }
+  ],
+  "timestamp": "2026-08-06T14:47:11.756206575Z",
+  "model": "glm-5.2"
+}

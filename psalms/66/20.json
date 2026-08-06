@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Gesegnet ⟨sei⟩ Elohim, der mein Gebet nicht abwandte und ⟨auch nicht⟩ sein Chessed von mir.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "abwandte"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mein Gebet"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "und sein Chessed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "von mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:55.917861436Z",
+  "model": "glm-5.2"
+}

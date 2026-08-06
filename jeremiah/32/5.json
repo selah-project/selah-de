@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und Bawel wird ⟨את⟩ Tsidkijahu führen, und dort wird er sein, bis ich ihn heimsuche — Spruch JHWHs. Denn wenn ihr gegen die Kasdim kämpft, werdet ihr keinen Erfolg haben.",
+  "tokens": [
+    {
+      "surface": "וּבָבֶל",
+      "gloss": "Und Bawel"
+    },
+    {
+      "surface": "יוֹלִךְ",
+      "gloss": "wird führen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkijahu"
+    },
+    {
+      "surface": "צִדְקִיָּהוּ",
+      "gloss": "Tsidkijahu"
+    },
+    {
+      "surface": "וְשָׁם",
+      "gloss": "und dort"
+    },
+    {
+      "surface": "יִֽהְיֶה",
+      "gloss": "wird er sein"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "פָּקְדִי",
+      "gloss": "ich heimsuche"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn (Tsidkijahu)"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "Spruch"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "תִֽלָּחֲמוּ",
+      "gloss": "ihr kämpft"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "gegen",
+      "marks": "die Kasdim (Präposition, kein DOM-Aleph-Tav)"
+    },
+    {
+      "surface": "הַכַּשְׂדִּים",
+      "gloss": "die Kasdim"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַצְלִֽיחוּ",
+      "gloss": "werdet ihr Erfolg haben"
+    }
+  ],
+  "timestamp": "2026-08-06T22:44:15.665023514Z",
+  "model": "glm-5.2"
+}

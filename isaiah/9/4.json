@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Denn jeder Kampfschuh, ⟨der⟩ einherstolziert im Lärm, und jedes Gewand, gewälzt in Blut — ⟨es⟩ wird sein zum Verbrennen, Brennmaterial ⟨des⟩ Feuers.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "סְאוֹן֙",
+      "gloss": "Kampfschuh"
+    },
+    {
+      "surface": "סֹאֵ֣ן",
+      "gloss": "einherstolziert"
+    },
+    {
+      "surface": "בְּרַ֔עַשׁ",
+      "gloss": "im Lärm"
+    },
+    {
+      "surface": "וְשִׂמְלָ֖ה",
+      "gloss": "und Gewand"
+    },
+    {
+      "surface": "מְגוֹלָלָ֣ה",
+      "gloss": "gewälzt"
+    },
+    {
+      "surface": "בְדָמִ֑ים",
+      "gloss": "in Blut"
+    },
+    {
+      "surface": "וְהָיְתָ֥ה",
+      "gloss": "wird sein"
+    },
+    {
+      "surface": "לִשְׂרֵפָ֖ה",
+      "gloss": "zum Verbrennen"
+    },
+    {
+      "surface": "מַאֲכֹ֥לֶת",
+      "gloss": "Brennmaterial"
+    },
+    {
+      "surface": "אֵֽשׁ",
+      "gloss": "des Feuers"
+    }
+  ],
+  "timestamp": "2026-08-06T01:40:58.674065053Z",
+  "model": "glm-5.2"
+}

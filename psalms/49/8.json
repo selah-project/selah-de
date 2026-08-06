@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Ein Bruder kann keineswegs loskaufen — ein Mann kann nicht Elohim seinen Kopper geben:",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "ein Bruder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "kann loskaufen"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "kann erlösen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kann geben"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "seinen Kopper"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:20.308535872Z",
+  "model": "glm-5.2"
+}

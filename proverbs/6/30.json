@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Man verachtet ⟨keinen⟩ Dieb nicht, wenn er stiehlt, um seine Nefesch zu sättigen, weil er hungert.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָבוּזוּ",
+      "gloss": "verachtet man"
+    },
+    {
+      "surface": "לַגַּנָּב",
+      "gloss": "⟨einen⟩ Dieb"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יִגְנֹב",
+      "gloss": "er stiehlt"
+    },
+    {
+      "surface": "לְמַלֵּא",
+      "gloss": "um zu sättigen"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "seine Nefesch"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "יִרְעָב",
+      "gloss": "er hungert"
+    }
+  ],
+  "timestamp": "2026-08-06T04:26:28.451776134Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 101,
+  "translation": "Meine Augen ⟨sind gerichtet⟩ auf die Treuen des Landes, dass sie bei mir wohnen; wer auf dem Weg der Lauterkeit wandelt, der soll mir dienen.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "auf die Treuen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "zu wohnen"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bei mir"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "der Lauterkeit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "der"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "soll mir dienen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:52.536176532Z",
+  "model": "glm-5.2"
+}

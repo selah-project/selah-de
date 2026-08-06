@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 108,
+  "translation": "Wer ⟨wird⟩ mich bringen ⟨in die⟩ befestigte Stadt? Wer ⟨wird⟩ mich leiten bis nach Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "⟨wird⟩ mich bringen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "befestigte"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "⟨wird⟩ mich leiten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis nach"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:34.835768677Z",
+  "model": "glm-5.2"
+}

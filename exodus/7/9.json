@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 7:9",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "„Wenn Paro zu euch sprechen wird, ⟨und⟩ sagt: ‚Gibt euch ein Zeichen‘, dann sollst du zu Aharon sagen: Nimm ⟨את⟩ deinen Stab und wirf ⟨ihn⟩ vor Paro — er soll ein Tannin werden.“",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sprechen wird"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "zu euch"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und⟩ sagt"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Gibt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "ein Zeichen"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dann sollst du sagen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Nimm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Stab"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "deinen Stab"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "und wirf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨ihn⟩ vor"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "er soll werden"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "ein Tannin"
+    }
+  ],
+  "timestamp": "2026-08-06T02:01:18.306376185Z",
+  "model": "glm-5.2"
+}

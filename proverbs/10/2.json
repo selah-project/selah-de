@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Schätze der Bosheit nützen nicht, aber Zedaka rettet vom Tod.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "nützen"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "Schätze"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "der Bosheit"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "aber Zedaka"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "rettet"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "vom Tod"
+    }
+  ],
+  "timestamp": "2026-08-06T06:54:32.966252209Z",
+  "model": "glm-5.2"
+}

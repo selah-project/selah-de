@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und von Huschim zeugte ⟨er⟩ ⟨את⟩ Awitub und ⟨את⟩ Elpa'al.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "Und von Huschim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awitub"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Awitub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Elpa'al"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'al"
+    }
+  ],
+  "timestamp": "2026-08-05T23:48:15.080172449Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Nicht werde ich entweihen meinen Brit, und was von meinen Lippen ausgeht, nicht werde ich verändern.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "werde ich entweihen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "meinen Brit"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "und was ausgeht"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "von meinen Lippen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "werde ich verändern"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:47.015877360Z",
+  "model": "glm-5.2"
+}

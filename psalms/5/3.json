@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Horche auf die Stimme meines Schreis, mein König und mein Elohim, denn zu dir ⟨hin⟩ will ich beten!",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Horche auf"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "meines Schreis"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mein König"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "und mein Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir ⟨hin⟩"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "will ich beten"
+    }
+  ],
+  "timestamp": "2026-08-06T15:21:56.009523081Z",
+  "model": "glm-5.2"
+}

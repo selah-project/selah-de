@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Merkt auf mich, mein Volk, und mein Stamm, mir zu, hört! Denn Tora geht von mir aus, und mein Rechtspruch — den lasse ich als Licht für Völker ruhen.",
+  "tokens": [
+    {
+      "surface": "הַקְשִׁ֤יבוּ",
+      "gloss": "Merkt"
+    },
+    {
+      "surface": "אֵלַי֙",
+      "gloss": "auf mich"
+    },
+    {
+      "surface": "עַמִּ֔י",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "וּלְאוּמִּ֖י",
+      "gloss": "und mein Stamm"
+    },
+    {
+      "surface": "אֵלַ֣י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "הַאֲזִ֑ינוּ",
+      "gloss": "zu, hört"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "תוֹרָה֙",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "מֵאִתִּ֣י",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "תֵצֵ֔א",
+      "gloss": "geht aus"
+    },
+    {
+      "surface": "וּמִשְׁפָּטִ֔י",
+      "gloss": "und mein Rechtspruch"
+    },
+    {
+      "surface": "לְא֥וֹר",
+      "gloss": "als Licht"
+    },
+    {
+      "surface": "עַמִּ֖ים",
+      "gloss": "für Völker"
+    },
+    {
+      "surface": "אַרְגִּֽיעַ",
+      "gloss": "den lasse ich ruhen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:55:31.756970172Z",
+  "model": "glm-5.2"
+}

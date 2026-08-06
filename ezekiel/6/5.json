@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ich werde ⟨את⟩ die Leichname der Söhne Jisraels vor ihre Götzenbilder legen, und ich werde ⟨את⟩ eure Gebeine rings um eure Altäre zerstreuen.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "und ich werde geben\/legen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Leichname der Söhne Jisraels"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "Leichname"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "ihre Götzenbilder"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "und ich werde zerstreuen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eure Gebeine"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "eure Gebeine"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rings um"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "eure Altäre"
+    }
+  ],
+  "timestamp": "2026-08-06T03:43:04.439553939Z",
+  "model": "glm-5.2"
+}

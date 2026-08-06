@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Da versammelten sich alle Ältesten Jisra'els, und sie kamen zu Schmuël nach Rama.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "Da versammelten sich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "Ältesten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "und sie kamen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "nach Rama"
+    }
+  ],
+  "timestamp": "2026-08-05T21:08:59.234354931Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und JHWH stieg herab in der Wolke und stellte sich dort mit ihm hin, und er rief im Namen JHWHs.",
+  "tokens": [
+    {
+      "surface": "וַיֵּרֶד",
+      "gloss": "und stieg herab"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בֶּעָנָן",
+      "gloss": "in der Wolke"
+    },
+    {
+      "surface": "וַיִּתְיַצֵּב",
+      "gloss": "und stellte sich hin"
+    },
+    {
+      "surface": "עִמּוֹ",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "וַיִּקְרָא",
+      "gloss": "und rief"
+    },
+    {
+      "surface": "בְּשֵׁם",
+      "gloss": "im Namen"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:21.737512115Z",
+  "model": "glm-5.2"
+}

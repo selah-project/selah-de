@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und wenn der Kohen sieht, und siehe, der N-Strich ist verblasst nach dem Waschen ⟨seiner⟩, dann soll er ⟨ihn⟩ heraustrennen aus dem Kleidungsstück oder aus dem Leder oder aus dem Kettgarn oder aus dem Schussgarn.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sieht"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "verblasst"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "der N-Strich"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nach"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "dem Waschen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ seiner",
+      "marks": "den N-Strich"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "dann soll er heraustrennen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "den N-Strich \/ den betroffenen Teil"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "dem Kleidungsstück"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "העור",
+      "gloss": "dem Leder"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "dem Kettgarn"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "dem Schussgarn"
+    }
+  ],
+  "timestamp": "2026-08-06T19:28:00.961770700Z",
+  "model": "glm-5.2"
+}

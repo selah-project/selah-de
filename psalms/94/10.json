@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "⟨Er,⟩ der die Völker züchtigt — ⟨wird er⟩ nicht zurechtweisen? ⟨Er,⟩ der ⟨den⟩ Menschen Erkenntnis lehrt — ⟨—⟩",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "der züchtigt"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nicht ⟨?⟩"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "zurechtweisen"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "der lehrt"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨den⟩ Menschen"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Erkenntnis"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:18.045533763Z",
+  "model": "glm-5.2"
+}

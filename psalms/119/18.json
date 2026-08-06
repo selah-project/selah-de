@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Entblöße meine Augen, dass ich schaue die Wunder aus deiner Tora.",
+  "tokens": [
+    {
+      "surface": "גַּל",
+      "gloss": "Entblöße"
+    },
+    {
+      "surface": "עֵינַ֥י",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "וְאַבִּ֑יטָה",
+      "gloss": "dass ich schaue"
+    },
+    {
+      "surface": "נִ֝פְלָא֗וֹת",
+      "gloss": "die Wunder"
+    },
+    {
+      "surface": "מִתּוֹרָתֶֽךָ",
+      "gloss": "aus deiner Tora"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:54.412890219Z",
+  "model": "glm-5.2"
+}

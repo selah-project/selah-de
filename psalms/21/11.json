@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Ihre Frucht wirst du vernichten von der Erde, und ihre Nachkommenschaft von den Menschenkindern.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "ihre Frucht"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "von der Erde"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "wirst du vernichten"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "und ihre Nachkommenschaft"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "von den Kindern"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "der Menschen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:43.283114692Z",
+  "model": "glm-5.2"
+}

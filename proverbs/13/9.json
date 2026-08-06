@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Das Licht der Gerechten wird froh, aber die Lampe der Frevler erlischt.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Das Licht"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "der Gerechten"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "wird froh"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "aber die Lampe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "erlischt"
+    }
+  ],
+  "timestamp": "2026-08-06T10:34:49.568562055Z",
+  "model": "glm-5.2"
+}

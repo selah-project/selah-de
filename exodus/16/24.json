@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und sie legten ⟨את⟩ es bis zum Morgen hin, wie Mosche geboten hatte, und es stank nicht, und ⟨es⟩ war kein Gewürm darin.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "Und sie legten hin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "es"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "zum Morgen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "stank"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "und ⟨es⟩ kein Gewürm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "war"
+    },
+    {
+      "surface": "בו",
+      "gloss": "darin"
+    }
+  ],
+  "timestamp": "2026-08-06T00:17:04.362029435Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Hört dies, ⟨ihr⟩ Ältesten, und lauscht, alle Bewohner ⟨der⟩ Erde! Ist ⟨solches⟩ geschehen in euren Tagen, oder in den Tagen eurer Väter?",
+  "tokens": [
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "Hört"
+    },
+    {
+      "surface": "זֹאת֙",
+      "gloss": "dies"
+    },
+    {
+      "surface": "הַזְּקֵנִ֔ים",
+      "gloss": "⟨ihr⟩ Ältesten"
+    },
+    {
+      "surface": "וְהַֽאֲזִ֔ינוּ",
+      "gloss": "und lauscht"
+    },
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יוֹשְׁבֵ֣י",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "⟨der⟩ Erde"
+    },
+    {
+      "surface": "הֶהָ֤יְתָה",
+      "gloss": "Ist ⟨solches⟩ geschehen"
+    },
+    {
+      "surface": "זֹּאת֙",
+      "gloss": "dies"
+    },
+    {
+      "surface": "בִּֽימֵיכֶ֔ם",
+      "gloss": "in euren Tagen"
+    },
+    {
+      "surface": "וְאִ֖ם",
+      "gloss": "oder"
+    },
+    {
+      "surface": "בִּימֵ֥י",
+      "gloss": "in den Tagen"
+    },
+    {
+      "surface": "אֲבֹֽתֵיכֶֽם",
+      "gloss": "eurer Väter"
+    }
+  ],
+  "timestamp": "2026-08-06T06:30:50.912599437Z",
+  "model": "glm-5.2"
+}

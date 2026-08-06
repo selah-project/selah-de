@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Zurückkehren werden, die unter seinem Schatten wohnen, sie werden Getreide lebendig machen und blühen wie die Rebe, sein Gedenken wie der Wein des Libanon.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "zurückkehren werden"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die wohnen"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "unter seinem Schatten"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "sie werden lebendig machen"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "Getreide"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "und blühen"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "wie die Rebe"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "sein Gedenken"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "wie der Wein"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "des Libanon"
+    }
+  ],
+  "timestamp": "2026-08-06T06:30:44.792580867Z",
+  "model": "glm-5.2"
+}

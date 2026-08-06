@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und er brachte ⟨sie⟩ ⟨alle⟩ zusammen in Gewahrsam, drei Tage lang.",
+  "tokens": [
+    {
+      "surface": "וַיֶּאֱסֹף",
+      "gloss": "und er brachte zusammen"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מִשְׁמָר",
+      "gloss": "Gewahrsam"
+    },
+    {
+      "surface": "שְׁלֹשֶׁת",
+      "gloss": "drei"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-05T20:03:03.859987674Z",
+  "model": "glm-5.2"
+}

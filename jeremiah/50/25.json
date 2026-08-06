@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "JHWH hat ⟨את⟩ sein Zeughaus geöffnet und die Geräte seines Zorns herausgebracht, denn ein Werk ist es für Adonai JHWH der Heerscharen im Land der Kasdim.",
+  "tokens": [
+    {
+      "surface": "פָּתַח",
+      "gloss": "hat geöffnet"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sein Zeughaus"
+    },
+    {
+      "surface": "אוֹצָרוֹ",
+      "gloss": "sein Zeughaus"
+    },
+    {
+      "surface": "וַיּוֹצֵא",
+      "gloss": "und hat herausgebracht"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Geräte"
+    },
+    {
+      "surface": "כְּלֵי",
+      "gloss": "die Geräte"
+    },
+    {
+      "surface": "זַעְמוֹ",
+      "gloss": "seines Zorns"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מְלָאכָה",
+      "gloss": "ein Werk"
+    },
+    {
+      "surface": "הִיא",
+      "gloss": "ist (es)"
+    },
+    {
+      "surface": "לַאדֹנָי",
+      "gloss": "für Adonai"
+    },
+    {
+      "surface": "יְהוִה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צְבָאוֹת",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "כַּשְׂדִּים",
+      "gloss": "der Kasdim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:14:29.725554421Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Nicht sollst du ⟨mit⟩ ihnen und ⟨mit⟩ ihren Elohim einen Brit schließen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "sollst du schließen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mit ihnen"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "und mit ihren Elohim"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "einen Brit"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:51.404213348Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Denn der Sohn entehrt ⟨den⟩ Vater, die Tochter erhebt sich gegen ihre Mutter, die Schwiegertochter gegen ihre Schwiegermutter; die Feinde ⟨jedes⟩ Mannes — ⟨seine⟩ Hausgenossen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "der Sohn"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "entehrt"
+    },
+    {
+      "surface": "אב",
+      "gloss": "⟨den⟩ Vater"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die Tochter"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "erhebt sich"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "gegen ihre Mutter"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "die Schwiegertochter"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "gegen ihre Schwiegermutter"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "die Feinde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨jedes⟩ Mannes"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "⟨seine⟩ Hausgenossen"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨von⟩ seinem Haus"
+    }
+  ],
+  "timestamp": "2026-08-06T10:27:30.569185170Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ⟨er⟩ ließ es donnern in den Himmeln, JHWH, und der Höchste gab ⟨seine⟩ Stimme — Hagel und Feuersglut.",
+  "tokens": [
+    {
+      "surface": "וַיַּרְעֵ֬ם",
+      "gloss": "Und ⟨er⟩ ließ es donnern"
+    },
+    {
+      "surface": "בַּשָּׁמַ֨יִם",
+      "gloss": "in den Himmeln"
+    },
+    {
+      "surface": "יְֽהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְעֶלְיוֹן",
+      "gloss": "und der Höchste"
+    },
+    {
+      "surface": "יִתֵּ֣ן",
+      "gloss": "gab"
+    },
+    {
+      "surface": "קֹל֑וֹ",
+      "gloss": "⟨seine⟩ Stimme"
+    },
+    {
+      "surface": "בָּ֝רָ֗ד",
+      "gloss": "Hagel"
+    },
+    {
+      "surface": "וְגַֽחֲלֵי",
+      "gloss": "und Feuersglut"
+    },
+    {
+      "surface": "אֵֽשׁ",
+      "gloss": "Feuer"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:37.608479332Z",
+  "model": "glm-5.2"
+}

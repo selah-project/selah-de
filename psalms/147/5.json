@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "Groß ⟨ist⟩ Adonai, unser Herr, und reich an Kraft, ⟨und⟩ an seiner Einsicht ⟨gibt es⟩ keine Zahl.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Groß"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai, unser Herr"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "und reich an"
+    },
+    {
+      "surface": "כח",
+      "gloss": "Kraft"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "an seiner Einsicht"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨gibt es⟩ keine"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "Zahl"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:25.157412182Z",
+  "model": "glm-5.2"
+}

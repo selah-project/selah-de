@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Und ⟨er⟩ brachte mich zurück den Weg des Tores des äußeren Mischkan, das nach Osten gewandt ⟨ist⟩, und ⟨es⟩ war verschlossen.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨er⟩ brachte zurück"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mich",
+      "marks": "den Weg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "שער",
+      "gloss": "des Tores"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "des Mischkan"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "des äußeren"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "das gewandt ⟨ist⟩"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "nach Osten"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und ⟨es⟩"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "war verschlossen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:29:36.350087770Z",
+  "model": "glm-5.2"
+}

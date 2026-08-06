@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨die⟩ Söhne Jissaskars ⟨waren⟩: Tola und Pua, Jaschub und Schimron — vier.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "und ⟨die⟩ Söhne"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaskar"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "und Pua"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Jaschub"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "und Schimron"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    }
+  ],
+  "timestamp": "2026-08-06T04:54:39.529651637Z",
+  "model": "glm-5.2"
+}

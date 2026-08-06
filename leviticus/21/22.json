@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Das Brot seines Elohim, von den Hochheiligen und von den Heiligen, darf er essen.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "das Brot"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "seines Elohim"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "von den Hochheiligen"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "—"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "und von"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "den Heiligen"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "darf er essen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:15.014893148Z",
+  "model": "glm-5.2"
+}

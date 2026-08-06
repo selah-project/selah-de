@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ⟨er⟩ sprach zu ihnen: „Geht ⟨noch⟩ drei Tage und kommt zu mir zurück\", und das Volk ging.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "geht"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨noch⟩"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "und kommt zurück"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "und ⟨sie⟩ gingen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:13.341840506Z",
+  "model": "glm-5.2"
+}

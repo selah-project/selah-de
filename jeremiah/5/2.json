@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und wenn sie sagen: „So gewiss JHWH lebt\", dann schwören sie ⟨doch⟩ zur Lüge.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lebt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sie sagen"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "dann"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "zur Lüge"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "schwören sie"
+    }
+  ],
+  "timestamp": "2026-08-06T22:43:42.443285748Z",
+  "model": "glm-5.2"
+}

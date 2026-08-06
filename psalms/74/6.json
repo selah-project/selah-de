@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Und ⟨die⟩ ⟨את⟩ Schnitzereien davon — allesamt schlagen sie ⟨sie⟩ ein mit Beil und Hammerwerkzeugen, sie zerschmettern ⟨sie⟩.",
+  "tokens": [
+    {
+      "surface": "וְעַת",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "פִּתּוּחֶ֣יהָ",
+      "gloss": "⟨את⟩ Schnitzereien davon"
+    },
+    {
+      "surface": "יַ֑חַד",
+      "gloss": "allesamt"
+    },
+    {
+      "surface": "בְּכַשִּׁ֥יל",
+      "gloss": "mit Beil"
+    },
+    {
+      "surface": "וּכְפַלְפֶּ֗ס",
+      "gloss": "und Hammerwerkzeug"
+    },
+    {
+      "surface": "יְהַלְמוּן",
+      "gloss": "schlagen sie"
+    }
+  ],
+  "timestamp": "2026-08-06T09:16:21.646192782Z",
+  "model": "glm-5.2"
+}

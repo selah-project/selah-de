@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Die Gewalttat der Frevler wird sie fortschleppen, denn sie weigerten sich, Recht zu tun.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "Die Gewalttat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "wird sie fortschleppen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "sie weigerten sich"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zu tun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Recht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:26.357816457Z",
+  "model": "glm-5.2"
+}

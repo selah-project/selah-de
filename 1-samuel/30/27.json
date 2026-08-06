@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 30:27",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "⟨Denen⟩ in Bet-El und ⟨denen⟩ in Ramot-Negev und ⟨denen⟩ in Jattir.",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "⟨denen⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "und ⟨denen⟩"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "in Ramot"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "und ⟨denen⟩"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "in Jattir"
+    }
+  ],
+  "timestamp": "2026-08-06T01:11:47.067176191Z",
+  "model": "glm-5.2"
+}

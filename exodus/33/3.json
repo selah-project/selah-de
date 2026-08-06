@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "In ein Land, das von Milch und Honig fließt, denn ich werde nicht in deiner Mitte hinaufziehen, denn ⟨du⟩ bist ein hartnäckiges Volk, damit ich dich nicht auf dem Weg vernichte.",
+  "tokens": [
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "אֶ֛רֶץ",
+      "gloss": "ein Land"
+    },
+    {
+      "surface": "זָבַ֥ת",
+      "gloss": "das fließt"
+    },
+    {
+      "surface": "חָלָ֖ב",
+      "gloss": "von Milch"
+    },
+    {
+      "surface": "וּדְבָ֑שׁ",
+      "gloss": "und Honig"
+    },
+    {
+      "surface": "כִּי֩",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לֹ֨א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אֶֽעֱלֶ֜ה",
+      "gloss": "werde ich hinaufziehen"
+    },
+    {
+      "surface": "בְּקִרְבְּךָ֗",
+      "gloss": "in deiner Mitte"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "קְשֵׁה",
+      "gloss": "hartnäckiges"
+    },
+    {
+      "surface": "עֹ֨רֶף֙",
+      "gloss": "(Genick)"
+    },
+    {
+      "surface": "אַ֔תָּה",
+      "gloss": "du"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "אֲכַלְךָ֖",
+      "gloss": "ich dich vernichte"
+    },
+    {
+      "surface": "בַּדָּֽרֶךְ",
+      "gloss": "auf dem Weg"
+    }
+  ],
+  "timestamp": "2026-08-06T00:21:10.911444693Z",
+  "model": "glm-5.2"
+}

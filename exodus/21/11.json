@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und wenn er diese drei Dinge für sie nicht tut, soll sie umsonst herausgehen, ohne Silbergeld.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drei"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tut"
+    },
+    {
+      "surface": "לה",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "soll sie herausgehen"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "umsonst"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silbergeld"
+    }
+  ],
+  "timestamp": "2026-08-06T05:15:58.326379068Z",
+  "model": "glm-5.2"
+}

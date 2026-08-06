@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und er sandte ⟨את⟩ die jungen Männer der Söhne Jisra'els, und sie brachten Ola dar und schlachteten Selamim für JHWH — Jungstiere.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "und er sandte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die jungen Männer"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "die jungen Männer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "und sie brachten dar"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "Ola (das Aufsteigende)"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "und sie schlachteten"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "Schlachtopfer"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "Selamim (Friedensopfer)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "Jungstiere"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:03.947746922Z",
+  "model": "glm-5.2"
+}

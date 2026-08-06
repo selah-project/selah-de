@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und die Knechte Amons verschworen sich gegen ihn, und sie töteten ⟨את⟩ den König in seinem Haus.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "und sie verschworen sich"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die Knechte"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amons"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "gegen ihn"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "und sie töteten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den König"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in seinem Haus"
+    }
+  ],
+  "timestamp": "2026-08-05T21:39:50.250020578Z",
+  "model": "glm-5.2"
+}

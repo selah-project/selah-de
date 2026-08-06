@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und ⟨er⟩ stand auf und ging, und Jehonatan kam in die Stadt.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "und ⟨er⟩ stand auf"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und ging"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "und Jehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kam"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "in die Stadt"
+    }
+  ],
+  "timestamp": "2026-08-06T20:24:47.551712472Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Elohim hörte ⟨את⟩ ihr Stöhnen, und Elohim gedachte ⟨את⟩ seines Brit: ⟨את⟩ Awraham, ⟨את⟩ Jizchak und ⟨את⟩ Jaakow.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Und … hörte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Stöhnen"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ihr Stöhnen"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "und … gedachte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seines Brit"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "seines Brit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizchak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jizchak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:15.711885925Z",
+  "model": "glm-5.2"
+}

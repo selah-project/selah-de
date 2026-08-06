@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Denn ⟨du⟩ begehrst kein Schlachtopfer, sonst gäbe ich ⟨es⟩; Ola begehrst du nicht.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַחְפֹּ֣ץ",
+      "gloss": "begehrst"
+    },
+    {
+      "surface": "זֶ֣בַח",
+      "gloss": "Schlachtopfer"
+    },
+    {
+      "surface": "וְאֶתֵּ֑נָה",
+      "gloss": "sonst gäbe ich"
+    },
+    {
+      "surface": "ע֝וֹלָ֗ה",
+      "gloss": "Ola"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִרְצֶֽה",
+      "gloss": "begehrst du"
+    }
+  ],
+  "timestamp": "2026-08-06T19:51:23.967870189Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "wenn sie meine Ordnungen entweihen und meine Gebote nicht bewahren,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "meine Ordnungen"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "sie entweihen"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "und meine Gebote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "sie bewahren"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:36.314298715Z",
+  "model": "glm-5.2"
+}

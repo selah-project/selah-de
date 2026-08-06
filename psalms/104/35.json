@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Mögen sie aufhören, die Sünder, von der Erde, und ⟨die⟩ Frevler ⟨seien⟩ nichts mehr. Segne, meine Nefesch, ⟨את⟩ JHWH. Halleluja!",
+  "tokens": [
+    {
+      "surface": "יִתַּּמּוּ",
+      "gloss": "Mögen sie aufhören"
+    },
+    {
+      "surface": "חַטָּאִ֨ים",
+      "gloss": "die Sünder"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הָאָ֡רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "וּרְשָׁעִ֤ים",
+      "gloss": "und ⟨die⟩ Frevler"
+    },
+    {
+      "surface": "ע֤וֹד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "אֵינָ֗ם",
+      "gloss": "nichts"
+    },
+    {
+      "surface": "בָּרֲכִ֣י",
+      "gloss": "Segne"
+    },
+    {
+      "surface": "נַפְשִׁ֭י",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הַלְלוּ",
+      "gloss": "Preist"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:35.437554061Z",
+  "model": "glm-5.2"
+}

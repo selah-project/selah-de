@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Wer ⟨sich teilt⟩ mit einem Dieb, hasst seine Nefesch; ⟨er⟩ hört ⟨die⟩ Verfluchung und sagt es nicht an.",
+  "tokens": [
+    {
+      "surface": "חוֹלֵ֣ק",
+      "gloss": "wer teilt"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "גַּנָּ֭ב",
+      "gloss": "einem Dieb"
+    },
+    {
+      "surface": "שׂוֹנֵ֣א",
+      "gloss": "hasst"
+    },
+    {
+      "surface": "נַפְשׁ֑וֹ",
+      "gloss": "seine Nefesch"
+    },
+    {
+      "surface": "אָלָ֥ה",
+      "gloss": "Verfluchung"
+    },
+    {
+      "surface": "יִשְׁמַ֗ע",
+      "gloss": "hört"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יַגִּֽיד",
+      "gloss": "sagt an"
+    }
+  ],
+  "timestamp": "2026-08-05T23:15:10.494960936Z",
+  "model": "glm-5.2"
+}

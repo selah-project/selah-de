@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Du sahst vieles, ⟨aber⟩ du bewahrst ⟨es⟩ nicht. ⟨Ohren,⟩ die zum Hören geöffnet sind, ⟨aber⟩ er hört nicht.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "du sahst"
+    },
+    {
+      "surface": "רַבּ֖וֹת",
+      "gloss": "vieles"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "תִשְׁמֹ֑ר",
+      "gloss": "du bewahrst"
+    },
+    {
+      "surface": "פָּק֥וֹחַ",
+      "gloss": "das Öffnen"
+    },
+    {
+      "surface": "אָזְנַ֖יִם",
+      "gloss": "der Ohren"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "יִשְׁמָֽע",
+      "gloss": "er hört"
+    }
+  ],
+  "timestamp": "2026-08-05T21:52:57.754967797Z",
+  "model": "glm-5.2"
+}

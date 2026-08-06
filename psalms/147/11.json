@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "JHWH hat Gefallen an ⟨את⟩ seinen Ehrfürchtigen, ⟨an⟩ ⟨את⟩ den, die auf sein Chessed (Bundestreue) hoffen.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "hat Gefallen an"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Ehrfürchtigen"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "seinen Ehrfürchtigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die auf sein Chessed hoffen"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "die hoffen"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "auf sein Chessed (Bundestreue)"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:11.557318028Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Mosche schrieb ⟨את⟩ alle Worte JHWHs. Und er stand früh am Morgen auf und baute einen Altar unten am Berg und zwölf Mazzebot für die zwölf Stämme Jisraels.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "und schrieb"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Worte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "und stand früh auf"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "und baute"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "einen Altar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unten an"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dem Berg"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "und zwölf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "Mazzebot"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "für zwölf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "Stämme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:17.281152067Z",
+  "model": "glm-5.2"
+}

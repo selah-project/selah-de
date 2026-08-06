@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 2:14",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Meine Taube, in den Spalten des Felsens, im Versteck der Stufe, zeig mir ⟨את⟩ dein Aussehen, lass mich hören ⟨את⟩ deine Stimme! Denn deine Stimme ist süß, und dein Anblick ist lieblich.",
+  "tokens": [
+    {
+      "surface": "יונתי",
+      "gloss": "Meine Taube"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "in den Spalten"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "des Felsens"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "im Versteck"
+    },
+    {
+      "surface": "המדרגה",
+      "gloss": "der Stufe"
+    },
+    {
+      "surface": "הראיני",
+      "gloss": "zeig mir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Aussehen"
+    },
+    {
+      "surface": "מראיך",
+      "gloss": "dein Aussehen"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "lass mich hören"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Stimme"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "deine Stimme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "deine Stimme"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ist süß"
+    },
+    {
+      "surface": "ומראיך",
+      "gloss": "und dein Anblick"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ist lieblich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:38:21.702941693Z",
+  "model": "glm-5.2"
+}

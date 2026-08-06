@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ⟨der⟩ sie Verbrennende soll ⟨את⟩ sie ⟨als⟩ seine Kleider im Wasser waschen und seinen Leib im Wasser baden, und ⟨er ist⟩ unrein bis zum Abend.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "Und der Verbrennende"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "soll … waschen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "und … baden"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "seinen Leib"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "und … unrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "zum Abend"
+    }
+  ],
+  "timestamp": "2026-08-06T00:36:25.799250026Z",
+  "model": "glm-5.2"
+}

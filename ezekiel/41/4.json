@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Und er maß ⟨את⟩ seine Länge: zwanzig Ellen, und ⟨die⟩ Breite zwanzig Ellen, vor dem Gesicht des Hekals; und er sprach zu mir: „Dies ⟨ist⟩ heiliger Raum der Heiligen.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "und er maß"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Länge"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "seine Länge"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zwanzig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "und ⟨die⟩ Breite"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zwanzig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dem Gesicht"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "des Hekals"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiliger Raum"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "der Heiligen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:58:34.938804569Z",
+  "model": "glm-5.2"
+}

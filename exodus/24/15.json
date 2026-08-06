@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Mosche stieg hinauf auf den Berg, und die Wolke bedeckte ⟨את⟩ den Berg.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Und stieg hinauf"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "den Berg"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "und bedeckte"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "die Wolke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Berg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "den Berg"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:11.648085873Z",
+  "model": "glm-5.2"
+}

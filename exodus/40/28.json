@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und er hängte ⟨את⟩ die Abdeckung des Eingangs an den Mischkan.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֛שֶׂם",
+      "gloss": "Und er hängte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Abdeckung"
+    },
+    {
+      "surface": "מָסַ֥ךְ",
+      "gloss": "Abdeckung"
+    },
+    {
+      "surface": "הַפֶּ֖תַח",
+      "gloss": "des Eingangs"
+    },
+    {
+      "surface": "לַמִּשְׁכָּֽן",
+      "gloss": "an den Mischkan"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:04.936286643Z",
+  "model": "glm-5.2"
+}

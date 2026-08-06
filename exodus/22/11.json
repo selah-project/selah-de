@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und wenn ⟨es⟩ gestohlen wird, gestohlen von ihm, ⟨soll⟩ er erstatten ⟨seinen⟩ Besitzern.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "gestohlen wird"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "gestohlen"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "⟨soll⟩ erstatten"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "⟨seinen⟩ Besitzern"
+    }
+  ],
+  "timestamp": "2026-08-06T09:46:27.160313285Z",
+  "model": "glm-5.2"
+}

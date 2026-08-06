@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨seine⟩ Schwester, die Hammolechet, gebar ⟨את⟩ Ischhod und ⟨את⟩ Awiëser und ⟨את⟩ Machla.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Und ⟨seine⟩ Schwester"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "die Hammolechet"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ischhod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ischhod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Awiëser"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Awiëser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Machla"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machla"
+    }
+  ],
+  "timestamp": "2026-08-06T07:20:17.205802194Z",
+  "model": "glm-5.2"
+}

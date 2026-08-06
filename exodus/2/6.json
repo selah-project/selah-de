@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und sie öffnete und sah ihn — ⟨את⟩ das Kind —, und siehe, ein weinender Junge. Und sie empfand Erbarmen über ihn und sagte: „Von den Kindern der Hebräer ist ⟨das⟩ dieser.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "und sie öffnete"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "und sah ihn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "das Kind"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ein Junge"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "weinender"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "und sie empfand Erbarmen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "über ihn"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "von den Kindern"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "der Hebräer"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ist ⟨das⟩ dieser"
+    }
+  ],
+  "timestamp": "2026-08-06T09:44:32.617346593Z",
+  "model": "glm-5.2"
+}

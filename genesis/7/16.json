@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und die Hereinkommenden, Männchen und Weibchen von allem Fleisch, kamen ⟨hinein⟩, wie Elohim ihm geboten hatte. Und JHWH schloss ⟨die Arche⟩ hinter ihm zu.",
+  "tokens": [
+    {
+      "surface": "וְהַבָּאִ֗ים",
+      "gloss": "Und die Hereinkommenden"
+    },
+    {
+      "surface": "זָכָ֨ר",
+      "gloss": "Männchen"
+    },
+    {
+      "surface": "וּנְקֵבָ֤ה",
+      "gloss": "und Weibchen"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "von allem"
+    },
+    {
+      "surface": "בָּשָׂר֙",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "בָּ֔אוּ",
+      "gloss": "kamen ⟨hinein⟩"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צִוָּ֥ה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "ihn",
+      "marks": "Noach (als indirektes Objekt von צוה — kein ⟨את⟩-DOM, sondern Objektsuffix)"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וַיִּסְגֹּ֥ר",
+      "gloss": "Und JHWH schloss"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בְּעָדֽוֹ",
+      "gloss": "hinter ihm ⟨die Arche⟩ zu"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:29.088284464Z",
+  "model": "glm-5.2"
+}

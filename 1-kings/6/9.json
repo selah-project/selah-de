@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und er baute ⟨את⟩ das Haus und vollendete es. Und er verkleidete ⟨את⟩ das Haus mit Balken und Reihen von Zedern.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Und er baute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "und vollendete es"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "und er verkleidete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "mit Balken"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "und Reihen"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "von Zedern"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:25.881299777Z",
+  "model": "glm-5.2"
+}

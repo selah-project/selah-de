@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Verflucht ⟨ist⟩, wer schläft mit irgendeinem Vieh. Und das ganze Volk ⟨wird⟩ sagen: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "schipft"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jedem"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "Vieh"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und ⟨wird⟩ sagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:26:26.316107837Z",
+  "model": "glm-5.2"
+}

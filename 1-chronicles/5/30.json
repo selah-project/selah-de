@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Elasar zeugte ⟨את⟩ Pinchas, Pinchas zeugte ⟨את⟩ Awischua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awischua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Awischua"
+    }
+  ],
+  "timestamp": "2026-08-05T23:47:22.597715724Z",
+  "model": "glm-5.2"
+}

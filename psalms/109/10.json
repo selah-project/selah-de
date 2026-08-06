@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Und unstät sollen umherirren seine Söhne, ⟨sie⟩ sollen betteln und suchen aus ihren Ruinen.",
+  "tokens": [
+    {
+      "surface": "וְנ֤וֹעַ",
+      "gloss": "und unstät"
+    },
+    {
+      "surface": "יָנ֣וּעוּ",
+      "gloss": "sollen umherirren"
+    },
+    {
+      "surface": "בָנָ֣יו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "וְשִׁאֵ֑לוּ",
+      "gloss": "⟨sie⟩ sollen betteln"
+    },
+    {
+      "surface": "וְ֝דָרְשׁ֗וּ",
+      "gloss": "und ⟨sie⟩ sollen suchen"
+    },
+    {
+      "surface": "מֵחָרְבוֹתֵיהֶֽם",
+      "gloss": "aus ihren Ruinen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:17.504629188Z",
+  "model": "glm-5.2"
+}

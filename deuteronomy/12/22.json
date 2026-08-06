@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Nur, so wie ⟨man⟩ ⟨את⟩ die Gazelle und ⟨את⟩ den Hirsch isst, so sollst du es essen; der Unreine und der Reine sollen es gemeinsam essen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "isst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Gazelle"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "die Gazelle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Hirsch"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "den Hirsch"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "sollst du es essen"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "der Unreine"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "und der Reine"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "gemeinsam"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "sollen es essen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:43:55.420132427Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Eure Augen haben ⟨את⟩ das gesehen, was JHWH wegen Ba'al Pe'or getan hat: Denn jeder Mann, der Ba'al Pe'or nachfolgte, den hat JHWH, dein Elohim, aus deiner Mitte vertilgt.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "Eure Augen"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "haben gesehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was JHWH getan hat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "getan hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "wegen Ba'al"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pe'or"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nachfolgte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Ba'al Pe'or"
+    },
+    {
+      "surface": "בעל",
+      "gloss": ""
+    },
+    {
+      "surface": "פעור",
+      "gloss": ""
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "den hat vertilgt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "aus deiner Mitte"
+    }
+  ],
+  "timestamp": "2026-08-05T20:43:27.879023386Z",
+  "model": "glm-5.2"
+}

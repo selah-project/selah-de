@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und er stellte ⟨את⟩ den goldenen Altar ⟨in⟩ das Zelt der Begegnung, vor den Vorhang.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֛שֶׂם",
+      "gloss": "Und er stellte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den goldenen Altar"
+    },
+    {
+      "surface": "מִזְבַּ֥ח",
+      "gloss": "Altar"
+    },
+    {
+      "surface": "הַזָּהָ֖ב",
+      "gloss": "den goldenen"
+    },
+    {
+      "surface": "בְּאֹ֣הֶל",
+      "gloss": "⟨in⟩ das Zelt"
+    },
+    {
+      "surface": "מוֹעֵ֑ד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "הַפָּרֹֽכֶת",
+      "gloss": "den Vorhang"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:04.935979111Z",
+  "model": "glm-5.2"
+}

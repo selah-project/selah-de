@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und sie sandten zu Isebel, um zu sagen: Gesteinigt wurde Nawot, und er starb.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Und sie sandten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "um zu sagen"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "Gesteinigt wurde"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nawot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und er starb"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:46.193411215Z",
+  "model": "glm-5.2"
+}

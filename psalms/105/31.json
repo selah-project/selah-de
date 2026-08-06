@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Er sprach, und es kam Wildgesindel, Stechmücken in ihrem ganzen Gebiet.",
+  "tokens": [
+    {
+      "surface": "אָ֭מַר",
+      "gloss": "Er sprach"
+    },
+    {
+      "surface": "וַיָּבֹ֣א",
+      "gloss": "und es kam"
+    },
+    {
+      "surface": "עָרֹ֑ב",
+      "gloss": "Wildgesindel"
+    },
+    {
+      "surface": "כִּ֝נִּ֗ים",
+      "gloss": "Stechmücken"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "in ⟨ihrem⟩ ganzen"
+    },
+    {
+      "surface": "גְּבוּלָֽם",
+      "gloss": "Gebiet"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:44.100414579Z",
+  "model": "glm-5.2"
+}

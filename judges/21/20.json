@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und sie befahlen ⟨את⟩ die Söhne Binyamins und sagten: „Geht und legt euch in den Weinbergen in den Hinterhalt.“",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Und sie befahlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Binyamins"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamins"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagten"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Geht"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "und legt euch in den Hinterhalt"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "in den Weinbergen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:06:28.382024920Z",
+  "model": "glm-5.2"
+}

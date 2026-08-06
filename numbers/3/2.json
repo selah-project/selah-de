@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und dies ⟨sind⟩ die Namen der Söhne Aharons: der Erstgeborene Nadaw, und Awihu, Elasar und Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "die Namen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "der Erstgeborene"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadaw"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "und Awihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "und Itamar"
+    }
+  ],
+  "timestamp": "2026-08-06T00:31:34.929732822Z",
+  "model": "glm-5.2"
+}

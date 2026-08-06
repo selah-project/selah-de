@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Geht hinüber nach Tarschisch! Heult, ⟨ihr⟩ Bewohner der Küste!",
+  "tokens": [
+    {
+      "surface": "עִבְר֖וּ",
+      "gloss": "Geht hinüber"
+    },
+    {
+      "surface": "תַּרְשִׁ֑ישָׁה",
+      "gloss": "nach Tarschisch"
+    },
+    {
+      "surface": "הֵילִ֖ילוּ",
+      "gloss": "Heult"
+    },
+    {
+      "surface": "יֹ֥שְׁבֵי",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "אִֽי",
+      "gloss": "Küste"
+    }
+  ],
+  "timestamp": "2026-08-06T01:43:19.322407015Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Bis ich komme und ⟨את⟩ euch hole in ein Land wie euer Land, ein Land des Getreides und des Mostweins, ein Land des Brotes und der Weinberge.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בֹּאִ֕י",
+      "gloss": "ich komme"
+    },
+    {
+      "surface": "וְלָקַחְתִּ֥י",
+      "gloss": "und ⟨ich⟩ hole"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "ein Land"
+    },
+    {
+      "surface": "כְּאַרְצְכֶ֑ם",
+      "gloss": "wie euer Land"
+    },
+    {
+      "surface": "אֶ֤רֶץ",
+      "gloss": "ein Land"
+    },
+    {
+      "surface": "דָּגָן֙",
+      "gloss": "des Getreides"
+    },
+    {
+      "surface": "וְתִיר֔וֹשׁ",
+      "gloss": "und des Mostweins"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "ein Land"
+    },
+    {
+      "surface": "לֶ֖חֶם",
+      "gloss": "des Brotes"
+    },
+    {
+      "surface": "וּכְרָמִֽים",
+      "gloss": "und der Weinberge"
+    }
+  ],
+  "timestamp": "2026-08-05T21:50:43.926469970Z",
+  "model": "glm-5.2"
+}

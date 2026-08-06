@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Schelomo baute ⟨את⟩ Geser und ⟨את⟩ Bet-Choron, das untere.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Und baute"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geser"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Geser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Bet-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "das untere"
+    }
+  ],
+  "timestamp": "2026-08-05T21:27:54.893917503Z",
+  "model": "glm-5.2"
+}

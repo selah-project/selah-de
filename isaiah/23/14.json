@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Heult, Schiffe von Tarschisch, denn verwüstet ⟨ist⟩ eure Festung!",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Heult"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "Schiffe"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "von Tarschisch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "verwüstet"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "⟨ist⟩ eure Festung"
+    }
+  ],
+  "timestamp": "2026-08-05T21:48:09.703679578Z",
+  "model": "glm-5.2"
+}

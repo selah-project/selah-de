@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Mit unserer Nefesch bringen wir unser Brot herbei, vor dem Schwert der Wüste.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "Mit unserer Nefesch"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "bringen wir herbei"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "unser Brot"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "dem Schwert"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "der Wüste"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:14.887121011Z",
+  "model": "glm-5.2"
+}

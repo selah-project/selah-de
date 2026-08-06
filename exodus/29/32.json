@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und Aharon und seine Söhne sollen ⟨את⟩ das Fleisch des Widders und ⟨את⟩ das Brot, das im Korb ⟨ist⟩, essen, am Eingang des Zeltes der Begegnung.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Und ⟨sie sollen⟩ essen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Fleisch"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "des Widders"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "das Brot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "im Korb"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am Eingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "des Zeltes"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:34.274668478Z",
+  "model": "glm-5.2"
+}

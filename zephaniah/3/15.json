@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "JHWH hat deine Rechtsentscheide weggetan, er hat sich deinem Feind zugewandt. Der König von Jisra'el, JHWH, ⟨ist⟩ in deiner Mitte — ⟨du⟩ wirst Böses nicht mehr fürchten.",
+  "tokens": [
+    {
+      "surface": "הֵסִ֤יר",
+      "gloss": "hat weggetan"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מִשְׁפָּטַ֔יִךְ",
+      "gloss": "deine Rechtsentscheide"
+    },
+    {
+      "surface": "פִּנָּ֖ה",
+      "gloss": "er hat sich zugewandt"
+    },
+    {
+      "surface": "אֹֽיְבֵ֑ךְ",
+      "gloss": "deinem Feind"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "König"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֤",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בְּקִרְבֵּ֔ךְ",
+      "gloss": "in deiner Mitte"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִֽירְאִ֥י",
+      "gloss": "wirst ⟨du⟩ fürchten"
+    },
+    {
+      "surface": "רָ֖ע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "עֽוֹד",
+      "gloss": "mehr"
+    }
+  ],
+  "timestamp": "2026-08-06T06:35:46.724351170Z",
+  "model": "glm-5.2"
+}

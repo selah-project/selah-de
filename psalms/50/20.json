@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Du sitzt, gegen deinen Bruder redest du, gegen den Sohn deiner Mutter gibst du ⟨Anstoß⟩.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Du sitzt"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "gegen deinen Bruder"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "redest du"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "gegen den Sohn"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "deiner Mutter"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gibst du"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "⟨Anstoß⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:03.041856575Z",
+  "model": "glm-5.2"
+}

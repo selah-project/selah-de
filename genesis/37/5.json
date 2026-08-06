@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und Josséf träumte einen Traum und erzählte ⟨ihn⟩ seinen Brüdern, und sie fügten hinzu, ⟨ihn⟩ noch mehr zu hassen, ⟨ihn⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "Und träumte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josséf"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "einen Traum"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "und erzählte"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "seinen Brüdern"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "und sie fügten hinzu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "noch mehr"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "zu hassen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-05T17:39:06.075098390Z",
+  "model": "glm-5.2"
+}

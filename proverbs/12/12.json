@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Begehrt ein Frevler das Jagdnetz der Bösen, aber die Wurzel der Gerechten ⟨trägt Frucht⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "Begehrt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ein Frevler"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "das Jagdnetz"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "der Bösen"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "aber die Wurzel"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "der Gerechten"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨trägt Frucht⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:37.045632390Z",
+  "model": "glm-5.2"
+}

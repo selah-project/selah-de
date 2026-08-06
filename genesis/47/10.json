@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Und Jaakow segnete ⟨את⟩ Paro und ging hinaus von vor Paro.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Und ⟨er⟩ segnete"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "und ⟨er⟩ ging hinaus"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "von vor"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-08-06T05:12:35.703619858Z",
+  "model": "glm-5.2"
+}

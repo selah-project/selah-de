@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und Joab, der Sohn der Zeruja, erkannte, dass das Herz des Königs auf Awenschalom ⟨gerichtet⟩ war.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "und er erkannte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "der Zeruja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awenschalom"
+    }
+  ],
+  "timestamp": "2026-08-06T01:16:51.171237835Z",
+  "model": "glm-5.2"
+}

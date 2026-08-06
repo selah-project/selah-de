@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und du sollst dorthin stellen ⟨את⟩ die Lade ⟨der⟩ Zeugnis ⟨Urkunde⟩, und du sollst ⟨die⟩ Lade verdecken ⟨mit⟩ ⟨את⟩ dem Vorhang.",
+  "tokens": [
+    {
+      "surface": "וְשַׂמְתָּ֣",
+      "gloss": "und du sollst stellen"
+    },
+    {
+      "surface": "שָׁ֔ם",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "אֲר֣וֹן",
+      "gloss": "Lade"
+    },
+    {
+      "surface": "הָעֵד֑וּת",
+      "gloss": "Zeugnis"
+    },
+    {
+      "surface": "וְסַכֹּתָ֥",
+      "gloss": "und du sollst verdecken"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "הָאָרֹ֖ן",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Vorhang"
+    },
+    {
+      "surface": "הַפָּרֹֽכֶת",
+      "gloss": "Vorhang"
+    }
+  ],
+  "timestamp": "2026-08-06T00:22:51.316716490Z",
+  "model": "glm-5.2"
+}

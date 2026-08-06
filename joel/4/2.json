@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 4:2",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "und ich werde ⟨את⟩ alle Nationen sammeln und sie hinabbringen ins Tal Jehoschafat, und ich werde dort mit ihnen Gericht halten über mein Volk und mein Erbe Jisra'el, die sie unter den Nationen zerstreut und ⟨את⟩ mein Land aufgeteilt haben.",
+  "tokens": [
+    {
+      "surface": "וְקִבַּצְתִּי֙",
+      "gloss": "und ich werde sammeln"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "alle Nationen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הַגּוֹיִ֔ם",
+      "gloss": "Nationen"
+    },
+    {
+      "surface": "וְהוֹרַדְתִּ֛ים",
+      "gloss": "und ich werde sie hinabbringen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "עֵ֖מֶק",
+      "gloss": "Tal"
+    },
+    {
+      "surface": "יְהוֹשָׁפָ֑ט",
+      "gloss": "Jehoschafat"
+    },
+    {
+      "surface": "וְנִשְׁפַּטְתִּ֨י",
+      "gloss": "und ich werde Gericht halten"
+    },
+    {
+      "surface": "עִמָּ֜ם",
+      "gloss": "mit ihnen"
+    },
+    {
+      "surface": "שָׁ֗ם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "עַמִּ֨י",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "וְנַחֲלָתִ֤י",
+      "gloss": "und mein Erbe"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֙",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "פִּזְּר֣וּ",
+      "gloss": "sie zerstreut haben"
+    },
+    {
+      "surface": "בַגּוֹיִ֔ם",
+      "gloss": "unter den Nationen"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mein Land"
+    },
+    {
+      "surface": "אַרְצִ֖י",
+      "gloss": "mein Land"
+    },
+    {
+      "surface": "חִלֵּֽקוּ",
+      "gloss": "sie aufgeteilt haben"
+    }
+  ],
+  "timestamp": "2026-08-06T03:59:34.232639233Z",
+  "model": "glm-5.2"
+}

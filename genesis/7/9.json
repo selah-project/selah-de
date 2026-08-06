@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "je zwei und zwei kamen zu Noach, zur Arche, Männliches und Weibliches, wie Elohim ⟨את⟩ Noach geboten hatte.",
+  "tokens": [
+    {
+      "surface": "שְׁנַ֨יִם",
+      "gloss": "je zwei"
+    },
+    {
+      "surface": "שְׁנַ֜יִם",
+      "gloss": "und zwei"
+    },
+    {
+      "surface": "בָּ֧אוּ",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "נֹ֛חַ",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zur"
+    },
+    {
+      "surface": "הַתֵּבָ֖ה",
+      "gloss": "Arche"
+    },
+    {
+      "surface": "זָכָ֣ר",
+      "gloss": "Männliches"
+    },
+    {
+      "surface": "וּנְקֵבָ֑ה",
+      "gloss": "und Weibliches"
+    },
+    {
+      "surface": "כַּֽאֲשֶׁ֛ר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צִוָּ֥ה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נֹֽחַ",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-08-06T15:34:43.026701857Z",
+  "model": "glm-5.2"
+}

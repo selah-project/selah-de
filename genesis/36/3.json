@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "und ⟨את⟩ Basmat, die Tochter Jischmaels, der Schwester Nebajots.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die Tochter"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jischmaels"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "der Schwester"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebajots"
+    }
+  ],
+  "timestamp": "2026-08-05T20:01:41.780940946Z",
+  "model": "glm-5.2"
+}

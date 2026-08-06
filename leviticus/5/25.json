@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ⟨את⟩ seine Schuld soll er vor JHWH bringen, einen Widder, unversehrt, aus dem Kleinvieh, nach deiner Schätzung, als Schuldopfer, zum Kohen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Schuld"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "seine Schuld"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "soll er bringen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vor JHWH"
+    },
+    {
+      "surface": "איל",
+      "gloss": "einen Widder"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "unversehrt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dem Kleinvieh"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "nach deiner Schätzung"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "als Schuldopfer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "dem Kohen"
+    }
+  ],
+  "timestamp": "2026-08-06T20:13:30.119648732Z",
+  "model": "glm-5.2"
+}

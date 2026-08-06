@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und du sollst ⟨את⟩ die Gebote JHWHs, deines Elohim, bewahren, ⟨um⟩ zu gehen in seinen Wegen und ⟨um⟩ ihn zu fürchten.",
+  "tokens": [
+    {
+      "surface": "וְשָׁמַרְתָּ",
+      "gloss": "und du sollst bewahren"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Gebote"
+    },
+    {
+      "surface": "מִצְוֺת",
+      "gloss": "die Gebote"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "deines Elohim"
+    },
+    {
+      "surface": "לָלֶכֶת",
+      "gloss": "⟨um⟩ zu gehen"
+    },
+    {
+      "surface": "בִּדְרָכָיו",
+      "gloss": "in seinen Wegen"
+    },
+    {
+      "surface": "וּלְיִרְאָה",
+      "gloss": "und ⟨um⟩ zu fürchten"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T02:24:02.771075180Z",
+  "model": "glm-5.2"
+}

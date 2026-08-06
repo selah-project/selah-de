@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und ich nahm ⟨את⟩ euren Vater, ⟨את⟩ Awraham, von jenseits des Stromes, und ich ließ ihn gehen durch das ganze Land Kenaans, und ich mehrte ⟨את⟩ seinen Samen, und ich gab ihm ⟨את⟩ Jizchak.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Und ich nahm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "euren Vater"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "euren Vater"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "von jenseits"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "des Stromes"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "und ich ließ ihn gehen"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "durch das ganze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaans"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "und ich mehrte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Samen"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "seinen Samen"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "und ich gab"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizchak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jizchak"
+    }
+  ],
+  "timestamp": "2026-08-05T20:59:43.061371362Z",
+  "model": "glm-5.2"
+}

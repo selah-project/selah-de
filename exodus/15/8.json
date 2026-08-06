@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 15:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und durch den Hauch deiner Nase türmten sich die Wasser, standen wie ein Wall die Strömungen, erstarrten die Fluten im Herzen des Meeres.",
+  "tokens": [
+    {
+      "surface": "וברוח",
+      "gloss": "Und durch den Hauch"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "deiner Nase"
+    },
+    {
+      "surface": "נערמו",
+      "gloss": "türmten sich"
+    },
+    {
+      "surface": "מים",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "נצבו",
+      "gloss": "standen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wie"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ein Wall"
+    },
+    {
+      "surface": "נזלים",
+      "gloss": "die Strömungen"
+    },
+    {
+      "surface": "קפאו",
+      "gloss": "erstarrten"
+    },
+    {
+      "surface": "תהמת",
+      "gloss": "die Fluten"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "im Herzen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "des Meeres"
+    }
+  ],
+  "timestamp": "2026-08-06T00:16:37.514704091Z",
+  "model": "glm-5.2"
+}

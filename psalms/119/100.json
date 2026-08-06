@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Mehr als ⟨die⟩ Ältesten habe ich verstanden, denn deine Ordnungen habe ich bewahrt.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "mehr als ⟨die⟩ Ältesten"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "habe ich verstanden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "deine Ordnungen"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "habe ich bewahrt"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:59.433312784Z",
+  "model": "glm-5.2"
+}

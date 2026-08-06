@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Vertreibe den Spötter, und ⟨der⟩ Streit geht aus, und ⟨es⟩ enden Rechtsstreit und Schande.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "Vertreibe"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "den Spötter"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "und geht aus"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "Streit"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "und ⟨es⟩ enden"
+    },
+    {
+      "surface": "דין",
+      "gloss": "Rechtsstreit"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "und Schande"
+    }
+  ],
+  "timestamp": "2026-08-06T10:36:11.737318007Z",
+  "model": "glm-5.2"
+}

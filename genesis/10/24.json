@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Arpachschad zeugte ⟨את⟩ Schelach, und Schelach zeugte ⟨את⟩ Ewer.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Und Arpachschad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Schelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Schelach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "und Schelach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ewer"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ewer"
+    }
+  ],
+  "timestamp": "2026-08-06T08:12:25.391850027Z",
+  "model": "glm-5.2"
+}

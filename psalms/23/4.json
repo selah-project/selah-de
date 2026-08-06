@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Auch wenn ich gehe im Tal tiefster Finsternis, fürchte ich kein Unheil, denn du ⟨bist⟩ bei mir; dein Stecken und dein Stab, sie trösten mich.",
+  "tokens": [
+    {
+      "surface": "גַּ֤ם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "אֵלֵ֨ךְ",
+      "gloss": "ich gehe"
+    },
+    {
+      "surface": "בְּגֵ֪יא",
+      "gloss": "im Tal"
+    },
+    {
+      "surface": "צַלְמָ֡וֶת",
+      "gloss": "tiefster Finsternis"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אִ֘ירָ֤א",
+      "gloss": "fürchte ich"
+    },
+    {
+      "surface": "רָ֗ע",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עִמָּדִ֑י",
+      "gloss": "bei mir"
+    },
+    {
+      "surface": "שִׁבְטְךָ֥",
+      "gloss": "dein Stecken"
+    },
+    {
+      "surface": "וּ֝מִשְׁעַנְתֶּ֗ךָ",
+      "gloss": "und dein Stab"
+    },
+    {
+      "surface": "הֵ֣מָּה",
+      "gloss": "sie"
+    },
+    {
+      "surface": "יְנַֽחֲמֻֽנִי",
+      "gloss": "trösten mich"
+    }
+  ],
+  "timestamp": "2026-08-06T22:46:52.098851131Z",
+  "model": "glm-5.2"
+}

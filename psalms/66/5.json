@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Kommt und seht die Taten Elohims, furchtbar ⟨ist er⟩ in seinem Tun über den Menschenkindern.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kommt"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "und seht"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "die Taten"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "furchtbar"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "in seinem Tun"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Menschenkindern"
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:01.352212507Z",
+  "model": "glm-5.2"
+}

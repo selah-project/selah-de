@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Vergraben hat der Faule seine Hand in der Schüssel, es ermüdet ⟨ihn⟩, sie zurückzubringen zu seinem Mund.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "Vergraben"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "hat der Faule"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "in der Schüssel"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "es ermüdet"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "sie zurückzubringen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "seinem Mund"
+    }
+  ],
+  "timestamp": "2026-08-05T23:14:31.500629199Z",
+  "model": "glm-5.2"
+}

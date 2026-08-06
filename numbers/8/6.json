@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Nimm ⟨את⟩ die Lewijim aus der Mitte der Söhne Jisraels, und reinige ⟨את⟩ sie.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Nimm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lewijim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Lewijim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "aus der Mitte"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "und reinige"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    }
+  ],
+  "timestamp": "2026-08-06T02:15:57.292602130Z",
+  "model": "glm-5.2"
+}

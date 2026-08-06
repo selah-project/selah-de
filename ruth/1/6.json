@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 1:6",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Da machte sie sich auf, sie und ihre Schwiegertöchter, und kehrte zurück von den Feldern Moaws; denn sie hatte im Feld Moaws gehört, dass JHWH ⟨את⟩ sein Volk heimgesucht hatte, ihnen Brot zu geben.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Da machte sie sich auf"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "וכלתיה",
+      "gloss": "und ihre Schwiegertöchter"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "und kehrte zurück"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "von den Feldern"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaws"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "sie hatte gehört"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "im Feld"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaws"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "heimgesucht hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "zu geben"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    }
+  ],
+  "timestamp": "2026-08-06T10:38:18.620735430Z",
+  "model": "glm-5.2"
+}

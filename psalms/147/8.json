@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "⟨Er,⟩ der den Himmel mit Wolken bedeckt, der der Erde Regen bereitet, der Berge Gras sprießen lässt.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "der bedeckt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "den Himmel"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "mit Wolken"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "der bereitet"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "Regen"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "der sprießen lässt"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Berge"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "Gras"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:25.157760154Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Steh auf, Elohim, führe deinen Rechtsstreit! Gedenke deiner Schmach ⟨vonseiten⟩ des Toren allezeit!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "führe"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "deinen Rechtsstreit"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Gedenke"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "deiner Schmach"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨vonseiten⟩"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "des Toren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Zeit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:09.084789124Z",
+  "model": "glm-5.2"
+}

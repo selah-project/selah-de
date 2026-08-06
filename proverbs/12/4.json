@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Eine Frau der Tüchtigkeit ⟨ist⟩ die Krone ihres Mannes; aber die Beschämende ⟨ist⟩ wie Fäulnis in seinen Gebeinen.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "Eine Frau"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "der Tüchtigkeit"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "die Krone"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ihres Mannes"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "aber wie Fäulnis"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "in seinen Gebeinen"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "die Beschämende"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:38.316028099Z",
+  "model": "glm-5.2"
+}

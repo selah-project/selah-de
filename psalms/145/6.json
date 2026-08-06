@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Und ⟨die⟩ Stärke deiner Ehrfurcht gebietenden ⟨Taten⟩ werden sie sagen, und deine Größe will ich erzählen.",
+  "tokens": [
+    {
+      "surface": "וֶעֱז֣וּז",
+      "gloss": "und ⟨die⟩ Stärke"
+    },
+    {
+      "surface": "נוֹרְאֹתֶ֣יךָ",
+      "gloss": "deiner Ehrfurcht gebietenden ⟨Taten⟩"
+    },
+    {
+      "surface": "יֹאמֵ֑רוּ",
+      "gloss": "werden sie sagen"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "und deine Größe"
+    },
+    {
+      "surface": "אֲסַפְּרֶֽנָּה",
+      "gloss": "will ich erzählen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:04.049764861Z",
+  "model": "glm-5.2"
+}

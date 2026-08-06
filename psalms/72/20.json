@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Zu Ende ⟨sind⟩ die Gebete Dawids, des Sohnes Jischais.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Zu Ende"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "die Gebete"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "בן",
+      "gloss": "des Sohnes"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jischais"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:08.211148476Z",
+  "model": "glm-5.2"
+}

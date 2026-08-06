@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Man hoffte auf Schalom, aber ⟨es ist⟩ nichts Gutes ⟨da⟩; auf eine Zeit der Heilung, und siehe — Schrecken.",
+  "tokens": [
+    {
+      "surface": "קַוֵּה",
+      "gloss": "Man hoffte"
+    },
+    {
+      "surface": "לְשָׁלוֹם",
+      "gloss": "auf Schalom"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "aber ⟨es ist⟩ nichts"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "Gutes ⟨da⟩"
+    },
+    {
+      "surface": "לְעֵת",
+      "gloss": "auf eine Zeit"
+    },
+    {
+      "surface": "מַרְפֵּא",
+      "gloss": "der Heilung"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "בְעָתָה",
+      "gloss": "Schrecken"
+    }
+  ],
+  "timestamp": "2026-08-05T22:01:25.754619685Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Rauch stieg auf in seiner Nase, und Feuer aus seinem Mund fraß, Glut entbrannte von ihm.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "stieg auf"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Rauch"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "in seiner Nase"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "und Feuer"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "aus seinem Mund"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "fraß"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "Glut"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "entbrannte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "von ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:36.450123136Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und sie sagte: „Man gebe ⟨את⟩ Abischag, die Schunamitin, Adonija, deinem Bruder, zur Frau.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Und sie sagte"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "man gebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abischag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abischag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "die Schunamitin"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "dem Adonija"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "deinem Bruder"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "zur Frau"
+    }
+  ],
+  "timestamp": "2026-08-06T01:22:02.528952048Z",
+  "model": "glm-5.2"
+}

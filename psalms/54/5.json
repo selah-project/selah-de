@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 54,
+  "translation": "Denn Fremde standen auf gegen mich, und Gewalttätige suchten ⟨nach⟩ meiner Nefesch — sie haben Elohim nicht vor sich gestellt. Sela.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "זָרִ֨ים",
+      "gloss": "Fremde"
+    },
+    {
+      "surface": "קָ֤מוּ",
+      "gloss": "standen auf"
+    },
+    {
+      "surface": "עָלַ֗י",
+      "gloss": "gegen mich"
+    },
+    {
+      "surface": "וְֽ֭עָרִיצִים",
+      "gloss": "und Gewalttätige"
+    },
+    {
+      "surface": "בִּקְשׁ֣וּ",
+      "gloss": "suchten"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "nach meiner Nefesch"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שָׂ֨מוּ",
+      "gloss": "haben … gestellt"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לְנֶגְדָּ֣ם",
+      "gloss": "vor sich"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:07.142172188Z",
+  "model": "glm-5.2"
+}

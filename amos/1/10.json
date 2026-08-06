@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ich werde Feuer senden in die Mauer von Tzor, und es wird fressen ⟨ihre⟩ Paläste.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Und ich werde senden"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "in die Mauer"
+    },
+    {
+      "surface": "צר",
+      "gloss": "von Tzor"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "und es wird fressen"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "Paläste"
+    }
+  ],
+  "timestamp": "2026-08-06T06:31:05.201585190Z",
+  "model": "glm-5.2"
+}

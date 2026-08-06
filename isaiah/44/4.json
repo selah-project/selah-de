@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Und sie werden sprossen zwischen Gras, wie Pappeln an Wassergräben.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "Und sie werden sprossen"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "Gras"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "wie Pappeln"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "Wassergräben"
+    },
+    {
+      "surface": "מים",
+      "gloss": "von Wassern"
+    }
+  ],
+  "timestamp": "2026-08-05T21:53:49.631084737Z",
+  "model": "glm-5.2"
+}

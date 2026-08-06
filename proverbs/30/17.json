@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 30:17",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Ein Auge, das ⟨den⟩ Vater verhöhnt und ⟨die⟩ Weisung der Mutter verachtet — ⟨das⟩ picked die Raben des Tals aus, und die Jungen des Adlers fressen es.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "Ein Auge"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "das verhöhnt"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "⟨den⟩ Vater"
+    },
+    {
+      "surface": "ותבוז",
+      "gloss": "und verachtet"
+    },
+    {
+      "surface": "ליקהת",
+      "gloss": "⟨die⟩ Weisung"
+    },
+    {
+      "surface": "אם",
+      "gloss": "der Mutter"
+    },
+    {
+      "surface": "יקרוה",
+      "gloss": "picken … aus"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "die Raben"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "des Tals"
+    },
+    {
+      "surface": "ויאכלוה",
+      "gloss": "und … fressen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Jungen"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "des Adlers"
+    }
+  ],
+  "timestamp": "2026-08-06T20:41:09.373751587Z",
+  "model": "glm-5.2"
+}

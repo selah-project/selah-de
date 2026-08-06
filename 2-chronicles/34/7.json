@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und er zerschlug ⟨את⟩ die Altäre und ⟨את⟩ die Ascherim, und die Götzenbilder zermalmte er zu Staub, und alle Sonnengötterbilder hieb er ab im ganzen Land Jisra'el, und er kehrte zurück nach Jeruschalajim.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "Und er zerschlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Altäre"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "die Altäre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Ascherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "die Ascherim"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "und die Götzenbilder"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "zermalmte er"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "zu Staub"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "Sonnengötterbilder"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "hieb er ab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "im ganzen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und er kehrte zurück"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "nach Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:02:08.286525503Z",
+  "model": "glm-5.2"
+}

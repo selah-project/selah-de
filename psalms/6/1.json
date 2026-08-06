@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Für den Chorleiter, auf Saitenspiel, nach der Achten. Ein Mismor von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für den Chorleiter"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "auf Saitenspiel"
+    },
+    {
+      "surface": "על",
+      "gloss": "nach"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "der Achten"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mismor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:37.253181994Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 128,
+  "translation": "Siehe, denn so ⟨wird⟩ gesegnet ⟨der⟩ Mann, der JHWH fürchtet.",
+  "tokens": [
+    {
+      "surface": "הִנֵּה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יְבֹרַךְ",
+      "gloss": "⟨wird⟩ gesegnet"
+    },
+    {
+      "surface": "גָּבֶר",
+      "gloss": "⟨der⟩ Mann"
+    },
+    {
+      "surface": "יְרֵא",
+      "gloss": "der fürchtet"
+    },
+    {
+      "surface": "יְהוָֹה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:31.436706466Z",
+  "model": "glm-5.2"
+}

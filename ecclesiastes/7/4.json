@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Das Herz der Weisen ⟨ist⟩ im Trauerhaus, und das Herz der Toren im Haus der Freude.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Das Herz"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "der Weisen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "der Trauer"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "und das Herz"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "der Toren"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "der Freude"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:50.261202043Z",
+  "model": "glm-5.2"
+}

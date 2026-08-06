@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Ein weiser ⟨Mann⟩ ⟨ist⟩ stark an Kraft, und ein Mann der Erkenntnis stärkt ⟨die⟩ Macht.",
+  "tokens": [
+    {
+      "surface": "גֶּֽבֶר",
+      "gloss": "ein ⟨Mann⟩"
+    },
+    {
+      "surface": "חָכָ֥ם",
+      "gloss": "weiser"
+    },
+    {
+      "surface": "בַּע֑וֹז",
+      "gloss": "stark an Kraft"
+    },
+    {
+      "surface": "וְאִֽישׁ",
+      "gloss": "und ein Mann"
+    },
+    {
+      "surface": "דַּ֝֗עַת",
+      "gloss": "der Erkenntnis"
+    },
+    {
+      "surface": "מְאַמֶּץ",
+      "gloss": "stärkt"
+    },
+    {
+      "surface": "כֹּֽחַ",
+      "gloss": "⟨die⟩ Macht"
+    }
+  ],
+  "timestamp": "2026-08-06T10:35:28.387551217Z",
+  "model": "glm-5.2"
+}

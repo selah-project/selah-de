@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und wenn ⟨dein⟩ Korban ein Mincha im Topf ⟨ist⟩: Feinmehl in Öl soll gemacht werden.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ein Mincha"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "im Topf"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "dein Korban"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "Feinmehl"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "in Öl"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "soll gemacht werden"
+    }
+  ],
+  "timestamp": "2026-08-05T20:19:18.259139184Z",
+  "model": "glm-5.2"
+}

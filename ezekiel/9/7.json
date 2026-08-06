@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und er sagte zu ihnen: Macht das Haus unrein, und füllt die Höfe mit ⟨den⟩ Erschlagenen! Geht hinaus! Und sie gingen hinaus und schlugen in der Stadt ⟨zu⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "macht unrein"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "und füllt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Höfe"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "die Höfe"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "mit ⟨den⟩ Erschlagenen"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "geht hinaus"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "und sie gingen hinaus"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "und schlugen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt ⟨zu⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T22:17:53.384296752Z",
+  "model": "glm-5.2"
+}

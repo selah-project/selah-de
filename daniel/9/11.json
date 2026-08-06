@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 9:11",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ganz Jisra'el hat ⟨את⟩ deine Tora übertreten und sich abgewandt, um nicht zu hören auf deine Stimme. So hat sich über uns ergossen der Fluch und der Schwur, die geschrieben stehen in der Tora des Mosche, des Knechtes des Elohim, weil wir gegen ihn gesündigt haben.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "und ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "hat übertreten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Tora"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "deine Tora"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "und sich abgewandt"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "um nicht"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "zu hören"
+    },
+    {
+      "surface": "בקלך",
+      "gloss": "auf deine Stimme"
+    },
+    {
+      "surface": "ותתך",
+      "gloss": "so hat sich ergossen"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "über uns"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "der Fluch"
+    },
+    {
+      "surface": "והשבעה",
+      "gloss": "und der Schwur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "geschrieben stehen"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "in der Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "des Mosche"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "des Knechtes"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "wir gesündigt haben"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gegen ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T04:47:02.658439240Z",
+  "model": "glm-5.2"
+}

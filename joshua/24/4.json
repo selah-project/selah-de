@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und ich gab dem Jizchak ⟨את⟩ Jaakow und ⟨את⟩ Esaw; und ich gab dem Esaw ⟨את⟩ das Bergland Seir zum Besitznehmen. Und Jaakow und seine Söhne stiegen hinab nach Mizrajim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Und ich gab"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "dem Jizchak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakow"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Esaw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "und ich gab"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "dem Esaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Bergland Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "das Bergland"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "zum Besitznehmen"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "es"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Und Jaakow"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "stiegen hinab"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nach Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:59:43.061480466Z",
+  "model": "glm-5.2"
+}

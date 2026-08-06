@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Ich machte mir Wasserteiche, um aus ihnen zu tränken ⟨den⟩ Wald, der Bäume sprossen ließ.",
+  "tokens": [
+    {
+      "surface": "עָשִׂ֥יתִי",
+      "gloss": "machte"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בְּרֵכ֣וֹת",
+      "gloss": "Teiche"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "לְהַשְׁק֣וֹת",
+      "gloss": "um zu tränken"
+    },
+    {
+      "surface": "מֵהֶ֔ם",
+      "gloss": "aus ihnen"
+    },
+    {
+      "surface": "יַ֖עַר",
+      "gloss": "Wald"
+    },
+    {
+      "surface": "צוֹמֵ֥חַ",
+      "gloss": "sprossen ließ"
+    },
+    {
+      "surface": "עֵצִֽים",
+      "gloss": "Bäume"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:40.481948856Z",
+  "model": "glm-5.2"
+}

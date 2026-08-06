@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Ich werde JHWH sehr preisen mit meinem Mund, und inmitten Vieler werde ich ihn rühmen.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ich werde preisen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mit meinem Mund"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "und inmitten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Vieler"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "werde ich ihn rühmen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:29.235335537Z",
+  "model": "glm-5.2"
+}

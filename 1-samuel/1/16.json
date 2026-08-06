@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Gib ⟨את⟩ deine Magd nicht vor die Tochter Belijals; denn aus der Fülle meiner Klage und meines Grolles habe ich gesprochen bis hierher.“",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תִּתֵּן֙",
+      "gloss": "gib"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "deine Magd"
+    },
+    {
+      "surface": "אֲמָ֣תְךָ֔",
+      "gloss": "deine Magd"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "⟨die⟩ Tochter"
+    },
+    {
+      "surface": "בְּלִיָּ֑עַל",
+      "gloss": "Belijals"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מֵרֹ֥ב",
+      "gloss": "aus der Fülle"
+    },
+    {
+      "surface": "שִׂיחִ֛י",
+      "gloss": "meiner Klage"
+    },
+    {
+      "surface": "וכעסִ֖י",
+      "gloss": "und meines Grolles"
+    },
+    {
+      "surface": "דִּבַּ֥רְתִּי",
+      "gloss": "habe ich gesprochen"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הֵֽנָּה",
+      "gloss": "hierher"
+    }
+  ],
+  "timestamp": "2026-08-06T05:38:12.350169620Z",
+  "model": "glm-5.2"
+}

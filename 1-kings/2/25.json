@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und der König Schlomo entsandte durch die Hand Benajahus, des Sohnes Jehojadas, und ⟨jener⟩ traf ihn, und er starb.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und es entsandte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schlomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahus"
+    },
+    {
+      "surface": "בן",
+      "gloss": "des Sohnes"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojadas"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "und ⟨jener⟩ traf"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und er starb"
+    }
+  ],
+  "timestamp": "2026-08-06T02:56:41.150280833Z",
+  "model": "glm-5.2"
+}

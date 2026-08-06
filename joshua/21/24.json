@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ajalon und ⟨את⟩ seine Weidefläche, ⟨את⟩ Gat-Rimmon und ⟨את⟩ seine Weidefläche: vier Städte.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weidefläche"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seine Weidefläche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weidefläche"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seine Weidefläche"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    }
+  ],
+  "timestamp": "2026-08-06T05:32:34.568389053Z",
+  "model": "glm-5.2"
+}

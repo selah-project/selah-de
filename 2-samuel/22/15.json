@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und ⟨er⟩ schoss Pfeile und zerstreute ⟨sie⟩, Blitz, und versetzte ⟨sie⟩ in Schrecken.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַח",
+      "gloss": "Und schoss"
+    },
+    {
+      "surface": "חִצִּים",
+      "gloss": "Pfeile"
+    },
+    {
+      "surface": "וַיְפִיצֵם",
+      "gloss": "und zerstreute sie"
+    },
+    {
+      "surface": "בָּרָק",
+      "gloss": "Blitz"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "und versetzte sie in Schrecken"
+    }
+  ],
+  "timestamp": "2026-08-05T21:23:39.892962198Z",
+  "model": "glm-5.2"
+}

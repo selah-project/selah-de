@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Du lässt uns zurückweichen vor dem Bedränger, und die uns hassen, plündern für sich.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Du lässt (uns) zurückweichen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "rückwärts"
+    },
+    {
+      "surface": "מני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dem Bedränger"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "und die uns hassen"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "plündern"
+    },
+    {
+      "surface": "למו",
+      "gloss": "für sich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:10.886428361Z",
+  "model": "glm-5.2"
+}

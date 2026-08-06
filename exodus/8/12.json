@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und JHWH sprach zu Mosche: Sage zu Aharon: Strecke ⟨את⟩ deinen Stab aus und schlage ⟨את⟩ den Staub der Erde, und er soll zu Stechmücken werden in ganz ⟨der⟩ Erde Mizrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Sage"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Strecke aus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Stab"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "deinen Stab"
+    },
+    {
+      "surface": "והך",
+      "gloss": "und schlage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Staub"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "den Staub"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und es soll sein"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "zu Stechmücken"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ganz"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨der⟩ Erde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T14:51:11.947044877Z",
+  "model": "glm-5.2"
+}

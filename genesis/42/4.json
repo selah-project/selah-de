@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und ⟨את⟩ Binjamin, den Bruder Josefs, sandte Jaakow nicht ⟨את⟩ ⟨mit⟩ seinen Brüdern; denn er sprach: „Damit ihm nicht etwa ein Unheil begegnet.\"",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Bruder von"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sandte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Brüder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "er sprach"
+    },
+    {
+      "surface": "פן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "ihm begegnet"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ein Unheil"
+    }
+  ],
+  "timestamp": "2026-08-05T17:41:23.556829725Z",
+  "model": "glm-5.2"
+}

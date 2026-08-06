@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Ach bitte, JHWH, rette doch! Ach bitte, JHWH, lass doch gelingen!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "ach bitte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "rette"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ach bitte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "lass gelingen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:53.230469571Z",
+  "model": "glm-5.2"
+}

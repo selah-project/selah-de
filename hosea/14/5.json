@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Ich werde heilen ⟨את⟩ ihre Rückkehr-zurück, ich werde sie lieben freiwillig, denn zurückgewandt ist mein Zorn von ihm.",
+  "tokens": [
+    {
+      "surface": "אֶרְפָּא֙",
+      "gloss": "ich werde heilen"
+    },
+    {
+      "surface": "מְשׁ֣וּבָתָ֔ם",
+      "gloss": "ihre Rückkehr-zurück"
+    },
+    {
+      "surface": "אֹהֲבֵ֖ם",
+      "gloss": "ich werde sie lieben"
+    },
+    {
+      "surface": "נְדָב֑ה",
+      "gloss": "freiwillig"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שָׁ֥ב",
+      "gloss": "zurückgewandt ist"
+    },
+    {
+      "surface": "אַפִּ֖י",
+      "gloss": "mein Zorn"
+    },
+    {
+      "surface": "מִמֶּֽנּוּ",
+      "gloss": "von ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T06:30:40.876390924Z",
+  "model": "glm-5.2"
+}

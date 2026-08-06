@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Aber wenn die Herde schwach war, stellte er ⟨sie⟩ nicht ⟨hin⟩. So wurden die schwachen ⟨Tiere⟩ dem Lavan ⟨zuteil⟩ und die kräftigen dem Jaakow.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "Aber wenn … schwach war"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "die Herde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "stellte er ⟨hin⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "So wurden"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "die schwachen ⟨Tiere⟩"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "dem Lavan ⟨zuteil⟩"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "und die kräftigen"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "dem Jaakow"
+    }
+  ],
+  "timestamp": "2026-08-05T20:00:02.837604519Z",
+  "model": "glm-5.2"
+}

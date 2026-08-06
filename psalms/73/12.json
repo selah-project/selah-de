@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 73,
+  "translation": "Siehe, diese Ruchlosen, ⟨und⟩ ⟨die⟩ Sorglosen der Welt — sie haben ⟨sich⟩ Überfluss verschafft.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Ruchlosen"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "⟨und⟩ ⟨die⟩ Sorglosen"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "der Welt"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "sie haben ⟨sich⟩ verschafft"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "Überfluss"
+    }
+  ],
+  "timestamp": "2026-08-06T20:40:09.358989423Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und dies ist die Tora des Speisopfers: die Söhne Aharons sollen ⟨es⟩ ⟨את⟩ darbringen vor JHWH, an die Stirnseite des Altars.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ist die Tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "des Speisopfers"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sollen darbringen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "es (die Mincha)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die Stirnseite"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "des Altars"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:29.438720368Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 5:9",
+  "book": "job",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "⟨Der⟩ Große Dinge tut und ⟨für die⟩ kein Erforschen ⟨gibt⟩, Wunder bis ⟨es⟩ keine Zahl ⟨gibt⟩ —",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "⟨der⟩ tut"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "Große Dinge"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es gibt⟩ kein"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "Erforschen"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "Wunder"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨es⟩ keine"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "Zahl"
+    }
+  ],
+  "timestamp": "2026-08-05T23:16:58.270645855Z",
+  "model": "glm-5.2"
+}

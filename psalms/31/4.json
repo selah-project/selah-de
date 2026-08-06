@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Denn mein Fels und meine Bergfeste bist du, und um deines Namens willen leite mich und führe mich.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mein Fels"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "und meine Bergfeste"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "und um — willen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deines Namens"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "leite mich"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "und führe mich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:59.263223219Z",
+  "model": "glm-5.2"
+}

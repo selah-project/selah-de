@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "⟨Dem⟩ der Mizrajim schlug an ihren Erstgeborenen, denn für immer ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "לְמַכֵּה",
+      "gloss": "⟨Dem⟩ der schlug"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "בִּבְכוֹרֵיהֶם",
+      "gloss": "an ihren Erstgeborenen"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "חַסְדּוֹ",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:06.761160622Z",
+  "model": "glm-5.2"
+}

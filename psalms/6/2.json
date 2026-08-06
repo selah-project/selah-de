@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "JHWH, schelte mich nicht in deinem Zorn, und züchtige mich nicht in deiner Glut.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "in deinem Zorn"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "schelte mich"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "in deiner Glut"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "züchtige mich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:37.253370032Z",
+  "model": "glm-5.2"
+}

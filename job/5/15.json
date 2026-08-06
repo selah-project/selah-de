@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 5:15",
+  "book": "job",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ⟨er⟩ rettet vor dem Schwert, ⟨vor⟩ ihrem Mund, und aus der Hand des Starken den Bedürftigen.",
+  "tokens": [
+    {
+      "surface": "וישע",
+      "gloss": "und rettet"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "vor dem Schwert"
+    },
+    {
+      "surface": "מפיהם",
+      "gloss": "⟨vor⟩ ihrem Mund"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "und aus der Hand"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "des Starken"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den Bedürftigen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:17:04.204902886Z",
+  "model": "glm-5.2"
+}

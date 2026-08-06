@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Siehe, er geht an mir vorbei und ich sehe ⟨ihn⟩ nicht, und er zieht vorüber und ich verstehe ⟨es⟩ nicht.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "er geht vorbei"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "an mir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨ich⟩ ... nicht"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "sehe"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "und er zieht vorüber"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨ich⟩ ... nicht"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "verstehe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨es⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:33:20.603297413Z",
+  "model": "glm-5.2"
+}

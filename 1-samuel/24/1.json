@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Dawid stieg von dort hinauf und wohnte in den Bergfesten von En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "und stieg hinauf"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und wohnte"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "in den Bergfesten"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-06T02:45:25.933932118Z",
+  "model": "glm-5.2"
+}

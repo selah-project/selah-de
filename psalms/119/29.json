@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Den Weg der Lüge wende ab von mir, und ⟨mit⟩ deiner Tora beschenke mich.",
+  "tokens": [
+    {
+      "surface": "דֶּֽרֶךְ",
+      "gloss": "Weg"
+    },
+    {
+      "surface": "שֶׁ֭קֶר",
+      "gloss": "Lüge"
+    },
+    {
+      "surface": "הָסֵ֣ר",
+      "gloss": "wende ab"
+    },
+    {
+      "surface": "מִמֶּ֑נִּי",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "וְֽתוֹרָתְךָ֥",
+      "gloss": "und deiner Tora"
+    },
+    {
+      "surface": "חָנֵּֽנִי",
+      "gloss": "beschenke mich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:20.402613109Z",
+  "model": "glm-5.2"
+}

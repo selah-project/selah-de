@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 73,
+  "translation": "Was aber mich betrifft — fast waren abgeglitten meine Füße, wie nichts ⟨waren⟩ verschüttet meine Tritte.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֗י",
+      "gloss": "Was aber mich betrifft"
+    },
+    {
+      "surface": "כִּ֭מְעַט",
+      "gloss": "fast"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "waren abgeglitten"
+    },
+    {
+      "surface": "רַגְלָ֑י",
+      "gloss": "meine Füße"
+    },
+    {
+      "surface": "כְּ֝אַ֗יִן",
+      "gloss": "wie nichts"
+    },
+    {
+      "surface": "שָׁפַךְ",
+      "gloss": "⟨waren⟩ verschüttet"
+    },
+    {
+      "surface": "אֲשֻׁרָֽי",
+      "gloss": "meine Tritte"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:34.389553388Z",
+  "model": "glm-5.2"
+}

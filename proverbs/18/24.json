@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 18:24",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Ein Mann ⟨von⟩ Gefährten ⟨geht zugrunde⟩, aber es gibt einen Liebenden, der fester ⟨hält⟩ als ein Bruder.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ein Mann"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "⟨von⟩ Gefährten"
+    },
+    {
+      "surface": "להתרעע",
+      "gloss": "⟨geht zugrunde⟩"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "aber es gibt"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "einen Liebenden"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "der fester ⟨hält⟩"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "als ein Bruder"
+    }
+  ],
+  "timestamp": "2026-08-06T04:28:31.406451333Z",
+  "model": "glm-5.2"
+}

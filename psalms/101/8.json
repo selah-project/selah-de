@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 101,
+  "translation": "Morgens für Morgens werde ich ausrotten alle Ruchlosen der Erde, um auszurotten aus der Stadt JHWHs alle Täter des Unheils.",
+  "tokens": [
+    {
+      "surface": "לַבְּקָרִ֗ים",
+      "gloss": "Morgens für Morgens"
+    },
+    {
+      "surface": "אַצְמִ֥ית",
+      "gloss": "werde ich ausrotten"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רִשְׁעֵי",
+      "gloss": "Ruchlosen"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "לְהַכְרִ֥ית",
+      "gloss": "um auszurotten"
+    },
+    {
+      "surface": "מֵֽעִיר",
+      "gloss": "aus der Stadt"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פֹּ֥עֲלֵי",
+      "gloss": "Täter"
+    },
+    {
+      "surface": "אָֽוֶן",
+      "gloss": "des Unheils"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:10.963422111Z",
+  "model": "glm-5.2"
+}

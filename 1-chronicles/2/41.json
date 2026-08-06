@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Schallum zeugte ⟨את⟩ Jekamja, und Jekamja zeugte ⟨את⟩ Elischama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Und Schallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekamja"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Jekamja"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "und Jekamja"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elischama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elischama"
+    }
+  ],
+  "timestamp": "2026-08-06T04:52:48.375011997Z",
+  "model": "glm-5.2"
+}

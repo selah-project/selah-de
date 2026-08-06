@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 127,
+  "translation": "Umsonst ⟨für⟩ euch, die ihr früh aufsteht, spät euch hinsetzt, Esst das Brot der Mühsal — so gibt er seinem Geliebten Schlaf.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Umsonst"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "die ihr früh aufsteht"
+    },
+    {
+      "surface": "קום",
+      "gloss": "aufsteht"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "spät"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sich hinsetzen"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "esst"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "der Mühsal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gibt er"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "seinem Geliebten"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "Schlaf"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:36.247272472Z",
+  "model": "glm-5.2"
+}

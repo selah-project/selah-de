@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Wer aber an mir sündigt, ⟨tut⟩ Gewalt ⟨an⟩ seiner Nefesch; alle, die mich hassen, lieben den Tod.",
+  "tokens": [
+    {
+      "surface": "וחטאי",
+      "gloss": "Wer aber an mir sündigt"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Gewalt"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "seiner Nefesch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "die mich hassen"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "lieben"
+    },
+    {
+      "surface": "מות",
+      "gloss": "den Tod"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:01.784725789Z",
+  "model": "glm-5.2"
+}

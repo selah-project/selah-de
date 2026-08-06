@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und Dawid gab Schelomo, seinem Sohn, ⟨את⟩ die Bauzeichnung der Vorhalle und ⟨את⟩ ihrer Räume und seiner Schatzkammern und seiner Obergemächer und seiner inneren Kammern und das Haus der Kapporet.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Und gab"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seinem Sohn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Bauzeichnung der Vorhalle"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "die Bauzeichnung"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "der Vorhalle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihrer Räume"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "ihrer Räume"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "und seiner Schatzkammern"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "und seiner Obergemächer"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "und seiner Kammern"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "inneren"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "und das Haus"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "der Kapporet"
+    }
+  ],
+  "timestamp": "2026-08-06T04:59:02.895643695Z",
+  "model": "glm-5.2"
+}

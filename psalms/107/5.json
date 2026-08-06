@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Hungrige und auch Durstige — ihre Nefesch ⟨in⟩ ihnen verschläft.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Hungrige"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "Durstige"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ihre Nefesch"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in ihnen"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "verschläft"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:22.406386399Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Im Schweiß deiner Nase wirst du Brot essen, bis du zurückkehrst zur Erde, denn von ihr bist du genommen — denn Staub bist du, und zum Staub wirst du zurückkehren.",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "Im Schweiß"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "deiner Nase"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wirst du essen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "du zurückkehrst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "von ihr"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "bist du genommen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "Staub"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "Staub"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wirst du zurückkehren"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:07.954079545Z",
+  "model": "glm-5.2"
+}

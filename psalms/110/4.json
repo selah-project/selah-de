@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 110,
+  "translation": "Geschworen hat JHWH, und es wird ihn nicht gereuen: „Du bist Kohen für ewig nach der Weise Malki-Zedeks.“",
+  "tokens": [
+    {
+      "surface": "נִשְׁבַּ֤ע",
+      "gloss": "Geschworen hat"
+    },
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יִנָּחֵ֗ם",
+      "gloss": "wird es gereuen"
+    },
+    {
+      "surface": "אַתָּֽה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "כֹהֵ֥ן",
+      "gloss": "bist Kohen"
+    },
+    {
+      "surface": "לְעוֹלָ֑ם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "דִּבְרָתִ֗י",
+      "gloss": "der Weise"
+    },
+    {
+      "surface": "מַלְכִּי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צֶֽדֶק",
+      "gloss": "Zedeks"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:04.299136710Z",
+  "model": "glm-5.2"
+}

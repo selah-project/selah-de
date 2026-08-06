@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimna und ⟨את⟩ seine Weidefläche, ⟨את⟩ Nahalal und ⟨את⟩ seine Weidefläche: vier Städte.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Dimna"
+    },
+    {
+      "surface": "דִּמְנָה֙",
+      "gloss": "Dimna"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weidefläche"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֔הָ",
+      "gloss": "seine Weidefläche"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נַהֲלָ֖ל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weidefläche"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֑הָ",
+      "gloss": "seine Weidefläche"
+    },
+    {
+      "surface": "עָרִ֖ים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "אַרְבַּֽע",
+      "gloss": "vier"
+    }
+  ],
+  "timestamp": "2026-08-05T20:58:20.065050185Z",
+  "model": "glm-5.2"
+}

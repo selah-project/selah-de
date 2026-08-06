@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Siehe, ⟨er⟩ empfängt Unheil, und er wird schwanger von Mühsal und gebiert Trug.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "⟨er⟩ empfängt"
+    },
+    {
+      "surface": "און",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "und er wird schwanger"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "von Mühsal"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "und gebiert"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "Trug"
+    }
+  ],
+  "timestamp": "2026-08-06T04:08:46.711333466Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Sie riefen ein Fasten aus und setzten ⟨את⟩ Nawot an die Spitze des Volkes.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "Sie riefen aus"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ein Fasten"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "und setzten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nawot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nawot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "an die Spitze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    }
+  ],
+  "timestamp": "2026-08-05T21:32:39.199351453Z",
+  "model": "glm-5.2"
+}

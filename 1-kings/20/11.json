@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und der König von Jisraël antwortete und sagte: „Sagt ⟨ihm⟩: Der sich Gürtele rühme sich nicht wie der sich Entgürtende.“",
+  "tokens": [
+    {
+      "surface": "וַיַּ֤עַן",
+      "gloss": "Und ⟨er⟩ antwortete"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֙",
+      "gloss": "von Jisraël"
+    },
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "דַּבְּר֔וּ",
+      "gloss": "Sagt"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִתְהַלֵּ֥ל",
+      "gloss": "rühme sich"
+    },
+    {
+      "surface": "חֹגֵ֖ר",
+      "gloss": "der sich Gürtele"
+    },
+    {
+      "surface": "כִּמְפַתֵּֽחַ",
+      "gloss": "wie der sich Entgürtende"
+    }
+  ],
+  "timestamp": "2026-08-06T20:29:23.293122663Z",
+  "model": "glm-5.2"
+}

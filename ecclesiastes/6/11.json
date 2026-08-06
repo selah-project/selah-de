@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Denn es gibt viele Wörter, die das Hebel mehren — was ⟨ist der⟩ Vorteil für den Menschen?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יש",
+      "gloss": "es gibt"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "Wörter"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "viele"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "die mehren"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "das Hebel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "⟨ist der⟩ Vorteil"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "für den Menschen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:29.312464604Z",
+  "model": "glm-5.2"
+}

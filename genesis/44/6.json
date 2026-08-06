@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Und er holte sie ein, und er redete zu ihnen ⟨את⟩ diese Worte.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "Und er holte sie ein"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "und er redete"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Worte"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨die⟩ Worte"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    }
+  ],
+  "timestamp": "2026-08-06T00:10:39.272023275Z",
+  "model": "glm-5.2"
+}

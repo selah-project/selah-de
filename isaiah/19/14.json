@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "JHWH hat in ihrer Mitte einen Ruach der Verwirrung gemischt, und sie haben ⟨את⟩ Mizrajim verführt in all seinem Tun, wie ein Trunkener taumelt in seinem Erbrochenen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "hat gemischt"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in ihrer Mitte"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "einen Ruach"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "der Verwirrung"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "und sie haben verführt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mizrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in all"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "seinem Tun"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "wie das Taumeln"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "eines Trunkenen"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "in seinem Erbrochenen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:10:02.984732964Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Ich beschwöre ⟨אתכם⟩ euch, Töchter Jeruschalajims: Was weckt ihr auf, und was ruft ihr wach ⟨את⟩ die Liebe, bis es ihr gefällt?",
+  "tokens": [
+    {
+      "surface": "הִשְׁבַּ֥עְתִּי",
+      "gloss": "Ich beschwöre"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "euch (Töchter)"
+    },
+    {
+      "surface": "בְּנ֣וֹת",
+      "gloss": "Töchter"
+    },
+    {
+      "surface": "יְרוּשָׁלִָ֑ם",
+      "gloss": "Jeruschalajims"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "תָּעִ֧ירוּ",
+      "gloss": "weckt ihr auf"
+    },
+    {
+      "surface": "וּֽמַה",
+      "gloss": "und was"
+    },
+    {
+      "surface": "תְּעֹֽרְר֛וּ",
+      "gloss": "ruft ihr wach"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Liebe"
+    },
+    {
+      "surface": "הָאַהֲבָ֖ה",
+      "gloss": "die Liebe"
+    },
+    {
+      "surface": "עַ֥ד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "שֶׁתֶּחְפָּֽץ",
+      "gloss": "es ihr gefällt"
+    }
+  ],
+  "timestamp": "2026-08-06T07:07:24.385733786Z",
+  "model": "glm-5.2"
+}

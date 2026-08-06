@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und er richtete ⟨את⟩ Jisraël in den Tagen der Pelischtim, zwanzig Jahre.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Und er richtete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in den Tagen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zwanzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    }
+  ],
+  "timestamp": "2026-08-06T09:58:01.146477122Z",
+  "model": "glm-5.2"
+}

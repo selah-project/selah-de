@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Dies wird geschrieben werden für ⟨den⟩ späteren Tag, und ein Volk, das geschaffen wird, wird Jah preisen.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "wird geschrieben werden"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "für ⟨die⟩ Generation"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "spätere"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "und ein Volk"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "das geschaffen wird"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "wird preisen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:42.105596344Z",
+  "model": "glm-5.2"
+}

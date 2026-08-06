@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 15:10",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und jeder, der irgendetwas berührt, das unter ihm war, wird unrein bis zum Abend; und der sie trägt, soll seine Kleider waschen und sich im Wasser baden, und ⟨er⟩ ist unrein bis zum Abend.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "und jeder"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "der Berührende"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "irgendetwas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "war"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "unter ihm"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "wird unrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "zum Abend"
+    },
+    {
+      "surface": "והנושא",
+      "gloss": "und ⟨wer⟩ sie trägt"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "soll waschen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "und baden"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "und ⟨er⟩ ist unrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "zum Abend"
+    }
+  ],
+  "timestamp": "2026-08-06T00:26:45.921599598Z",
+  "model": "glm-5.2"
+}

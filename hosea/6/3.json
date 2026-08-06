@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ⟨lasst uns⟩ erkennen, ⟨lasst uns⟩ nachjagen, ⟨um⟩ JHWH ⟨את⟩ zu erkennen! Wie die Morgendämmerung ist sein Hervorgehen fest gegründet, und ⟨er⟩ wird kommen wie der Regen ⟨für⟩ uns, wie der Spätregen, ⟨der⟩ die Erde bewässert.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Und ⟨lasst uns⟩ erkennen"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "⟨lasst uns⟩ nachjagen"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "⟨um⟩ zu erkennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "Wie die Morgendämmerung"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ist fest gegründet"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "sein Hervorgehen"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "und ⟨er⟩ wird kommen"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "wie der Regen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨für⟩ uns"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "wie der Spätregen"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "⟨der⟩ bewässert"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T03:57:36.235839804Z",
+  "model": "glm-5.2"
+}

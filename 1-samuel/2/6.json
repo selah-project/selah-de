@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "JHWH tötet und macht lebendig, er führt hinab zum Scheol und führt hinauf.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "tötet"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "und macht lebendig"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "er führt hinab"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "zum Scheol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und führt hinauf"
+    }
+  ],
+  "timestamp": "2026-08-06T01:02:32.862393912Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "dann werde auch ich mit euch im Widerstand gehen und werde ⟨את⟩ euch, auch ich, siebenfach schlagen wegen eurer Sünden.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "dann werde ⟨ich⟩ gehen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mit euch"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "im Widerstand"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "und werde ⟨ich⟩ schlagen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siebenfach"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "eurer Sünden"
+    }
+  ],
+  "timestamp": "2026-08-06T00:30:18.349785916Z",
+  "model": "glm-5.2"
+}

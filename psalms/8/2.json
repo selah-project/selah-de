@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "JHWH, unser Adonai, wie majestätisch ⟨ist⟩ dein Name in aller Erde, der du ⟨deinen⟩ Hoheit gegeben hast über ⟨den⟩ Himmeln.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "unser Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "majestätisch"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dein Name"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in aller"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der du"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "gegeben hast"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "⟨deinen⟩ Hoheit"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨den⟩ Himmeln"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:55.256384419Z",
+  "model": "glm-5.2"
+}

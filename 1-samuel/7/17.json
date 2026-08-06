@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und seine Rückkehr ⟨war⟩ nach Ramata, denn ⟨dort⟩ war sein Haus, und dort richtete er ⟨את⟩ Jisra'el, und er baute dort einen Altar für JHWH.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "Und seine Rückkehr"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "nach Ramata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨dort⟩"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "war sein Haus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "und dort"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "richtete er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "und er baute"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "einen Altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T02:41:11.779285325Z",
+  "model": "glm-5.2"
+}

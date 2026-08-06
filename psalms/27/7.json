@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Höre, JHWH, meine Stimme! Ich rufe, und sei mir gnädig und antworte mir.",
+  "tokens": [
+    {
+      "surface": "שְׁמַע",
+      "gloss": "Höre"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "קוֹלִ֥י",
+      "gloss": "meine Stimme"
+    },
+    {
+      "surface": "אֶקְרָ֗א",
+      "gloss": "ich rufe"
+    },
+    {
+      "surface": "וְחָנֵּ֥נִי",
+      "gloss": "und sei mir gnädig"
+    },
+    {
+      "surface": "וַעֲנֵֽנִי",
+      "gloss": "und antworte mir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:06.115449124Z",
+  "model": "glm-5.2"
+}

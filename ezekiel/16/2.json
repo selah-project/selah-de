@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "„Menschensohn, mach Jeruschalajim ⟨kennen⟩ ⟨את⟩ ihre Abscheulichkeiten und ⟨את⟩ ihre Gräuel:“",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨Menschen-⟩"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "mach kennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruschalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Abscheulichkeiten"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "ihre Abscheulichkeiten"
+    }
+  ],
+  "timestamp": "2026-08-06T06:20:29.256964151Z",
+  "model": "glm-5.2"
+}

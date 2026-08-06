@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Da sagte er: „Nicht ich habe ⟨את⟩ Jisraël ins Unheil gestürzt, sondern du und das Haus deines Vaters, dadurch, dass ihr ⟨את⟩ die Mizwot von JHWH verlassen habt und den Baalim nachgegangen seid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "da sagte er"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "habe ich ins Unheil gestürzt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨vielmehr⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "und das Haus"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "dadurch dass ihr verlassen habt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Mizwot"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "die Mizwot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "und du bist gegangen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nach"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "den Baalim"
+    }
+  ],
+  "timestamp": "2026-08-06T05:50:51.763827645Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Nur ⟨wie⟩ ein Schattenbild geht ⟨ein⟩ Mann umher; nur um Hauch macht ⟨er sich⟩ unruhig; ⟨er⟩ häuft auf und weiß nicht, wer ⟨es⟩ sammeln wird.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nur"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "⟨wie⟩ ein Schattenbild"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "geht ⟨ein⟩ … umher"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nur"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "um Hauch"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "macht ⟨er sich⟩ unruhig"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "⟨er⟩ häuft auf"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨kenntt⟩ nicht"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weiß"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "⟨es⟩ sammeln wird"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:09.233974873Z",
+  "model": "glm-5.2"
+}

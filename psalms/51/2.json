@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Als Nawtan der Nawi zu ihm kam, nachdem er zu Bat-Schewa gekommen war.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Als … kam"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nawtan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "der Nawi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nachdem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekommen war"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Schewa"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:06.640261655Z",
+  "model": "glm-5.2"
+}

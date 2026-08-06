@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Eli sprach zu ihr: „Wie lange noch ⟨wirst du⟩ dich berauschen? Tu ⟨את⟩ deinen Wein von dir weg!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "zu ihr"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wann"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "du dich berauschen ⟨wirst⟩"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Tu weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Wein"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "deinen Wein"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "von dir weg"
+    }
+  ],
+  "timestamp": "2026-08-06T15:45:00.118266189Z",
+  "model": "glm-5.2"
+}

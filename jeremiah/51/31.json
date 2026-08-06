@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 51:31",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Läufer läuft einem Läufer entgegen, und ein Verkünder einem Verkündenden, um dem König von Bawel zu berichten, dass ⟨seine⟩ Stadt erobert ist — ⟨von⟩ Ende ⟨bis⟩ ⟨Ende⟩.",
+  "tokens": [
+    {
+      "surface": "רץ",
+      "gloss": "Läufer läuft"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "entgegen"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "(einem) Läufer"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "läuft"
+    },
+    {
+      "surface": "ומגיד",
+      "gloss": "und ein Verkünder"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "entgegen"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "(einem) Verkündenden"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "um zu berichten"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "von Bawel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "erobert ist"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "seine Stadt"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "von Ende (bis Ende)"
+    }
+  ],
+  "timestamp": "2026-08-05T22:15:12.101994892Z",
+  "model": "glm-5.2"
+}

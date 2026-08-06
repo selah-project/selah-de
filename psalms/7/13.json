@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Wenn ⟨er⟩ nicht umkehrt, ⟨wird⟩⟨er⟩ sein Schwert schärfen, seinen Bogen hat er gespannt und ⟨ihn⟩ bereitet.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "umkehrt"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sein Schwert"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "schärfen"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "seinen Bogen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hat er gespannt"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "und ⟨ihn⟩ bereitet"
+    }
+  ],
+  "timestamp": "2026-08-06T04:08:46.711010453Z",
+  "model": "glm-5.2"
+}

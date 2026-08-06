@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Auf dich bin ich geworfen worden vom Mutterschoß, vom Leib meiner Mutter ⟨bist du⟩ mein El — du bist es.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "bin ich geworfen worden"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "vom Mutterschoß"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "vom Leib"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "meiner Mutter"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mein El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du bist es"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:15.430406472Z",
+  "model": "glm-5.2"
+}

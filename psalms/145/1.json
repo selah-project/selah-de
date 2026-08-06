@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Ein Loblied von Dawid. Ich will dich erheben, mein Eloah, ⟨den⟩ König, und deinen Namen segnen für immer und ewig.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Ein Loblied"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ich will dich erheben"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "mein Eloah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨den⟩ König"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "und ich will segnen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und ewig"
+    }
+  ],
+  "timestamp": "2026-08-06T06:53:02.312222666Z",
+  "model": "glm-5.2"
+}

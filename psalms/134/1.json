@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 134,
+  "translation": "Ein Lied der Stufen. Siehe, preist ⟨את⟩ JHWH, alle Knechte JHWHs, ⟨die⟩ nachts stehen im Haus JHWHs!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ein Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "der Stufen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "preist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Knechte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "⟨die⟩ stehen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "nachts"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:47.417958040Z",
+  "model": "glm-5.2"
+}

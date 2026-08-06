@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Mit ⟨dem⟩ Reinen erzeigst du dich rein, und mit ⟨dem⟩ Verkehrten verfährst du windschief.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "⟨dem⟩ Reinen"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "erzeigst du dich rein"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "und mit"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "⟨dem⟩ Verkehrten"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "verfährst du windschief"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:38.191917831Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨er⟩ sprach: „Rufe seinen Namen Lo-Ammi (Nicht-mein-Volk), denn ihr seid nicht mein Volk, und ich werde nicht für euch ⟨da⟩ sein.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Rufe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "werde ⟨da⟩ sein"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    }
+  ],
+  "timestamp": "2026-08-06T10:24:31.780625533Z",
+  "model": "glm-5.2"
+}

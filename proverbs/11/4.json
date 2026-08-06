@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Reichtum nützt nicht am Tag des Zornes, aber Zedaka rettet vom Tod.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "nützt"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Reichtum"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "des Zornes"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "aber Zedaka"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "rettet"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "vom Tod"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:40.905582353Z",
+  "model": "glm-5.2"
+}

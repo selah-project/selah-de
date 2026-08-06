@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "und ⟨את⟩ den Tisch und ⟨את⟩ all seine Geräte und ⟨את⟩ die Menora und ⟨את⟩ ihre Geräte und ⟨את⟩ den Altar des Räucherwerks.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Tisch"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "den Tisch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all seine Geräte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "seine Geräte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "die Menora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Geräte"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ihre Geräte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Altar des Räucherwerks"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "des Räucherwerks"
+    }
+  ],
+  "timestamp": "2026-08-06T05:16:46.808997725Z",
+  "model": "glm-5.2"
+}

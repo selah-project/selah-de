@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 4:16",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "„Geh, versammle ⟨את⟩ alle Juden, die sich inuschanschán befinden, und fastet für mich, und esst nicht und trinkt nicht drei Tage, Nacht und Tag. Auch ich und meine Dienerinnen, wir fasten ebenso. Und so werde ich zum König hineingehen, was nicht nach der dát ist, und wenn ich umkomme, dann umgehe ich.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "versammle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Juden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Juden"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "die sich befinden"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "inuschanschán"
+    },
+    {
+      "surface": "וצומו",
+      "gloss": "und fastet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "für mich"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "esst"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "trinkt"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Nacht"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "und Tag"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "ונערתי",
+      "gloss": "und meine Dienerinnen"
+    },
+    {
+      "surface": "אצום",
+      "gloss": "werde fasten"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ebenso"
+    },
+    {
+      "surface": "ובכן",
+      "gloss": "und so"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "werde ⟨ich⟩ hineingehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "nach der dát"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "ich umkomme"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "⟨dann⟩ umgehe ich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:33:03.904877544Z",
+  "model": "glm-5.2"
+}

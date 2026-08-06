@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ⟨er⟩ ging hinüber zum Abhang gegenüber der Araba, nach Norden, und stieg hinab zur Araba.",
+  "tokens": [
+    {
+      "surface": "וְעָבַ֛ר",
+      "gloss": "und ⟨er⟩ ging hinüber"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "כֶּ֥תֶף",
+      "gloss": "Abhang"
+    },
+    {
+      "surface": "מוּל",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "הָֽעֲרָבָ֖ה",
+      "gloss": "der Araba"
+    },
+    {
+      "surface": "צָפ֑וֹנָה",
+      "gloss": "nach Norden"
+    },
+    {
+      "surface": "וְיָרַ֖ד",
+      "gloss": "und stieg hinab"
+    },
+    {
+      "surface": "הָעֲרָבָֽתָה",
+      "gloss": "zur Araba"
+    }
+  ],
+  "timestamp": "2026-08-05T20:58:09.947579829Z",
+  "model": "glm-5.2"
+}

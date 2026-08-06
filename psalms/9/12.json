@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Singtspielt dem JHWH, ⟨der⟩ wohnt in Zijon, verkündet unter den Völkern seine Taten!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Singtspielt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dem JHWH"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨der⟩ wohnt"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "in Zijon"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "verkündet"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "unter den Völkern"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "seine Taten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:39.080319019Z",
+  "model": "glm-5.2"
+}

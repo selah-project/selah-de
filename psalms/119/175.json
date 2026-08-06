@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Meine Nefesch lebe, und sie preise dich, und deine Rechtsbestimmungen helfen mir.",
+  "tokens": [
+    {
+      "surface": "תְּֽחִי",
+      "gloss": "lebe"
+    },
+    {
+      "surface": "נַ֭פְשִׁי",
+      "gloss": "Meine Nefesch"
+    },
+    {
+      "surface": "וּֽתְהַֽלְלֶ֑ךָּ",
+      "gloss": "und sie preise dich"
+    },
+    {
+      "surface": "וּֽמִשְׁפָּטֶ֥ךָ",
+      "gloss": "und deine Rechtsbestimmungen"
+    },
+    {
+      "surface": "יַעֲזְרֻֽנִי",
+      "gloss": "helfen mir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:58.169001372Z",
+  "model": "glm-5.2"
+}

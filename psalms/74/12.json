@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Und Elohim, mein König, ist von jeher ⟨der⟩ Wirkender von Rettungen inmitten der Erde.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Und Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mein König"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ist von jeher"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "⟨der⟩ Wirkende"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "von Rettungen"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:28.473466210Z",
+  "model": "glm-5.2"
+}

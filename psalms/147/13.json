@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "Denn ⟨er⟩ hat fest gemacht die Riegel deiner Tore, ⟨er⟩ hat gesegnet deine Söhne in deiner Mitte.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חִ֭זַּק",
+      "gloss": "hat fest gemacht"
+    },
+    {
+      "surface": "בְּרִיחֵ֣י",
+      "gloss": "die Riegel"
+    },
+    {
+      "surface": "שְׁעָרָ֑יִךְ",
+      "gloss": "deiner Tore"
+    },
+    {
+      "surface": "בֵּרַ֖ךְ",
+      "gloss": "hat gesegnet"
+    },
+    {
+      "surface": "בָּנַ֣יִךְ",
+      "gloss": "deine Söhne"
+    },
+    {
+      "surface": "בְּקִרְבֵּֽךְ",
+      "gloss": "in deiner Mitte"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:21.265942937Z",
+  "model": "glm-5.2"
+}

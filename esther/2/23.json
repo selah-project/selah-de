@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨die⟩ Sache wurde untersucht und ⟨wurde⟩ gefunden, und ⟨man⟩ hängte sie beide an ⟨ein⟩ Holz, und ⟨es⟩ wurde geschrieben ins Buch der Tagesereignisse vor dem König.",
+  "tokens": [
+    {
+      "surface": "וַיְבֻקַּשׁ",
+      "gloss": "und wurde untersucht"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "וַיִּמָּצֵא",
+      "gloss": "und ⟨wurde⟩ gefunden"
+    },
+    {
+      "surface": "וַיִּתָּלוּ",
+      "gloss": "und ⟨man⟩ hängte"
+    },
+    {
+      "surface": "שְׁנֵיהֶם",
+      "gloss": "sie beide"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "an"
+    },
+    {
+      "surface": "עֵץ",
+      "gloss": "Holz"
+    },
+    {
+      "surface": "וַיִּכָּתֵב",
+      "gloss": "und ⟨es⟩ wurde geschrieben"
+    },
+    {
+      "surface": "בְּסֵפֶר",
+      "gloss": "ins Buch"
+    },
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "der Ereignisse"
+    },
+    {
+      "surface": "הַיָּמִים",
+      "gloss": "der Tage"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "vor"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "dem König"
+    }
+  ],
+  "timestamp": "2026-08-06T07:10:33.153976258Z",
+  "model": "glm-5.2"
+}

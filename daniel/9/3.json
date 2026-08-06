@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ich richtete ⟨את⟩ mein Angesicht auf Adonai, den Elohim, um Bitte und Flehen zu suchen, mit Fasten und Sacktuch und Asche.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Und ich richtete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Angesicht"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mein Angesicht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "den Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "zu suchen"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "Bitte"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "und Flehen"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "mit Fasten"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "und Sacktuch"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "und Asche"
+    }
+  ],
+  "timestamp": "2026-08-05T23:37:16.411103614Z",
+  "model": "glm-5.2"
+}

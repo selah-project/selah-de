@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und JHWH, dein Elohim, wird ⟨את⟩ dein Herz und ⟨את⟩ das Herz deiner Nachkommen beschneiden, um JHWH, deinen Elohim, zu lieben mit deinem ganzen Herzen und mit deiner ganzen Nefesch, damit du lebst.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "und wird beschneiden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Herz"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dein Herz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Herz deiner Nachkommen"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "deiner Nachkommen"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "um zu lieben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH, deinen Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit deinem ganzen"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "und mit deiner ganzen"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "du lebst"
+    }
+  ],
+  "timestamp": "2026-08-05T20:50:56.155676032Z",
+  "model": "glm-5.2"
+}

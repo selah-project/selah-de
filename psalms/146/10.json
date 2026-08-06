@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 146,
+  "translation": "JHWH wird König sein für immer, dein Elohim, Zion, für Generation und Generation. Halleluja!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "wird König sein"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "für Generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "und Generation"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lobt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:13.034654115Z",
+  "model": "glm-5.2"
+}

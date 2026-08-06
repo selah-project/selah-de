@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und der König verhüllte ⟨את⟩ sein Angesicht, und der König schrie mit großer Stimme: „Mein Sohn, Awschalom! Awschalom, mein Sohn, mein Sohn!\"",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Und der König"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "verhüllte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Angesicht"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sein Angesicht"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "und schrie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Stimme"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "großer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Mein Sohn"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awschalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awschalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mein Sohn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mein Sohn"
+    }
+  ],
+  "timestamp": "2026-08-06T05:47:24.939151437Z",
+  "model": "glm-5.2"
+}

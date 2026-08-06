@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Hört und ⟨gebt acht⟩, ⟨erhebt euch⟩ nicht, denn JHWH hat gesprochen.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hört"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "und ⟨gebt acht⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "⟨erhebt euch⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hat gesprochen"
+    }
+  ],
+  "timestamp": "2026-08-06T21:20:10.846440012Z",
+  "model": "glm-5.2"
+}

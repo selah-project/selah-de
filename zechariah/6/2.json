@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Im ersten Streitwagen ⟨waren⟩ rote Pferde, und im zweiten Streitwagen ⟨waren⟩ schwarze Pferde.",
+  "tokens": [
+    {
+      "surface": "בַּמֶּרְכָּבָה",
+      "gloss": "im Streitwagen"
+    },
+    {
+      "surface": "הָרִאשׁוֹנָה",
+      "gloss": "ersten"
+    },
+    {
+      "surface": "סוּסִים",
+      "gloss": "Pferde"
+    },
+    {
+      "surface": "אֲדֻמִּים",
+      "gloss": "rote"
+    },
+    {
+      "surface": "וּבַמֶּרְכָּבָה",
+      "gloss": "und im Streitwagen"
+    },
+    {
+      "surface": "הַשֵּׁנִית",
+      "gloss": "zweiten"
+    },
+    {
+      "surface": "סוּסִים",
+      "gloss": "Pferde"
+    },
+    {
+      "surface": "שְׁחֹרִים",
+      "gloss": "schwarze"
+    }
+  ],
+  "timestamp": "2026-08-06T10:28:13.448094283Z",
+  "model": "glm-5.2"
+}

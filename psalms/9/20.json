@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Steh auf, JHWH! Nicht ⟨soll⟩ ⟨der⟩ Sterbliche stark werden! Lass Gojim gerichtet werden vor deinem Angesicht!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "⟨soll⟩ stark werden"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨der⟩ Sterbliche"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "lass gerichtet werden"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Gojim"
+    },
+    {
+      "surface": "על",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "deinem Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:34.047919343Z",
+  "model": "glm-5.2"
+}

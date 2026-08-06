@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und es wurde Schaul berichtet, dass Dawid nach Gat geflohen ⟨war⟩; und er fuhr nicht fort, ihn weiter zu suchen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "und es wurde berichtet"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "dem Schaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "geflohen ⟨war⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "גת",
+      "gloss": "nach Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "fuhr fort"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weiter"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "ihn zu suchen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:48:52.717148192Z",
+  "model": "glm-5.2"
+}

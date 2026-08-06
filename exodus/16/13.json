@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und es geschah am Abend: da stiegen die Wachteln herauf und bedeckten ⟨את⟩ das Lager. Und am Morgen war eine Schicht Tau rings um das Lager.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "am Abend"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "da stiegen herauf"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "die Wachteln"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "und bedeckten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Lager"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "das Lager"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "Und am Morgen"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "war"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "eine Schicht"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "Tau"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rings um"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "das Lager"
+    }
+  ],
+  "timestamp": "2026-08-05T20:10:40.520020866Z",
+  "model": "glm-5.2"
+}

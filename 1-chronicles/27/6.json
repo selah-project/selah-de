@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 27:6",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Dieser ⟨ist⟩ Benajahu, ⟨der⟩ Held der Dreißig, und über die Dreißig, und seine Abteilung ⟨hatte⟩ Ammisabad, seinen Sohn.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Dieser"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Held"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "der Dreißig"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und über"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "die Dreißig"
+    },
+    {
+      "surface": "ומחלקתו",
+      "gloss": "und seine Abteilung"
+    },
+    {
+      "surface": "עמיזבד",
+      "gloss": "Ammisabad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seinen Sohn"
+    }
+  ],
+  "timestamp": "2026-08-05T23:52:42.260148852Z",
+  "model": "glm-5.2"
+}

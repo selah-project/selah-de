@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Kommt, Söhne, hört mir zu: die Furcht JHWHs will ich euch lehren.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kommt"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hört"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir zu"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "die Furcht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "will ich euch lehren"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:26.390409634Z",
+  "model": "glm-5.2"
+}

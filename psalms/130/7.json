@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 130,
+  "translation": "Hoffe, Jisra'el, auf JHWH! Denn bei JHWH ⟨ist⟩ Chessed und reichlich ⟨ist⟩ bei ihm Lösung.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Hoffe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "und reichlich"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bei ihm"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "Lösung"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:24.116899157Z",
+  "model": "glm-5.2"
+}

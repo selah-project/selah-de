@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 41:20",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Von der Erde bis über dem Eingang ⟨waren⟩ die Kerubim und die Palmen gemacht, und ⟨an⟩ der Wand des Hekal.",
+  "tokens": [
+    {
+      "surface": "מהארץ",
+      "gloss": "von der Erde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "über"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "dem Eingang"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "die Kerubim"
+    },
+    {
+      "surface": "והתמרים",
+      "gloss": "und die Palmen"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "gemacht"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "und ⟨an⟩ ⟨der⟩ Wand"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "des Hekal"
+    }
+  ],
+  "timestamp": "2026-08-05T22:28:43.728344870Z",
+  "model": "glm-5.2"
+}

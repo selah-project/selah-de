@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "und Aharon und seine Söhne sollen daraus waschen ⟨את⟩ ihre Hände und ⟨את⟩ ihre Füße,",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "und sie sollen waschen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daraus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Hände"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ihre Hände"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Füße"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ihre Füße"
+    }
+  ],
+  "timestamp": "2026-08-06T19:27:21.041644721Z",
+  "model": "glm-5.2"
+}

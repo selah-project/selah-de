@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Er streckte seine Hände aus gegen ⟨die⟩ Friedlichen mit ihm, er entweihte ⟨את⟩ seinen Brit.",
+  "tokens": [
+    {
+      "surface": "שָׁלַ֣ח",
+      "gloss": "Er streckte aus"
+    },
+    {
+      "surface": "יָ֭דָיו",
+      "gloss": "seine Hände"
+    },
+    {
+      "surface": "בִּשְׁלֹמָ֗יו",
+      "gloss": "gegen die Friedlichen mit ihm"
+    },
+    {
+      "surface": "חִלֵּ֥ל",
+      "gloss": "er entweihte"
+    },
+    {
+      "surface": "בְּרִיתֽוֹ",
+      "gloss": "seinen Brit"
+    }
+  ],
+  "timestamp": "2026-08-06T10:30:43.394192376Z",
+  "model": "glm-5.2"
+}

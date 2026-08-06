@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 7:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und der große Hof, ringsum: drei Reihen von Quadersteinen und eine Reihe von geschnittenen Zedernbalken; und ⟨so war es⟩ für den Hof ⟨des⟩ Hauses JHWHs, den inneren, und für die Halle ⟨des⟩ Hauses.",
+  "tokens": [
+    {
+      "surface": "וְחָצֵ֨ר",
+      "gloss": "und ⟨der⟩ Hof"
+    },
+    {
+      "surface": "הַגְּדוֹלָ֜ה",
+      "gloss": "der große"
+    },
+    {
+      "surface": "סָבִ֗יב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "שְׁלֹשָׁה֙",
+      "gloss": "drei"
+    },
+    {
+      "surface": "טוּרִ֣ים",
+      "gloss": "Reihen"
+    },
+    {
+      "surface": "גָּזִ֔ית",
+      "gloss": "von Quadersteinen"
+    },
+    {
+      "surface": "וְט֖וּר",
+      "gloss": "und ⟨eine⟩ Reihe"
+    },
+    {
+      "surface": "כְּרֻתֹ֣ת",
+      "gloss": "von geschnittenen"
+    },
+    {
+      "surface": "אֲרָזִ֑ים",
+      "gloss": "Zedernbalken"
+    },
+    {
+      "surface": "וְלַחֲצַ֧ר",
+      "gloss": "und für ⟨den⟩ Hof"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "⟨des⟩ Hauses"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "הַפְּנִימִ֖ית",
+      "gloss": "den inneren"
+    },
+    {
+      "surface": "וּלְאֻלָ֥ם",
+      "gloss": "und für die Halle"
+    },
+    {
+      "surface": "הַבָּֽיִת",
+      "gloss": "⟨des⟩ Hauses"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:50.838039324Z",
+  "model": "glm-5.2"
+}

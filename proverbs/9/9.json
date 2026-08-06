@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Gib ⟨es⟩ dem Weisen, so wird er noch weiser; tu ⟨es⟩ dem Gerechten kund, so mehrt er ⟨seine⟩ Einsicht.",
+  "tokens": [
+    {
+      "surface": "תֵּן",
+      "gloss": "Gib"
+    },
+    {
+      "surface": "לְחָכָם",
+      "gloss": "dem Weisen"
+    },
+    {
+      "surface": "וְיֶחְכַּם",
+      "gloss": "so wird er noch weiser"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "noch"
+    },
+    {
+      "surface": "הוֹדַע",
+      "gloss": "tu kund"
+    },
+    {
+      "surface": "לְצַדִּיק",
+      "gloss": "dem Gerechten"
+    },
+    {
+      "surface": "וְיוֹסֶף",
+      "gloss": "so mehrt er"
+    },
+    {
+      "surface": "לֶקַח",
+      "gloss": "Einsicht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:28:06.080802443Z",
+  "model": "glm-5.2"
+}

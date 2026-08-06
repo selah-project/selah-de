@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und er stützt ⟨את⟩ seine Hand auf den Kopf der Chattat und schlachtet sie ⟨als⟩ Chattat an dem Ort, wo man ⟨את⟩ die Ola schlachtet.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "und er stützt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "den Kopf"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "der Chattat"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "und schlachtet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sie"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "als Chattat"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "an dem Ort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "man schlachtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die Ola"
+    }
+  ],
+  "timestamp": "2026-08-06T08:20:46.977261283Z",
+  "model": "glm-5.2"
+}

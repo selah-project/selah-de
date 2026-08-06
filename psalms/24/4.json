@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Rein ⟨an⟩ Händen und lauter ⟨im⟩ Herzen, der nicht hebt zur Leere seine Nefesch und nicht schwört zum Trug.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "Rein"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "Händen"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "und lauter"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hebt"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "zur Leere"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "seine Nefesch"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "schwört"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "zum Trug"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:13.484212463Z",
+  "model": "glm-5.2"
+}

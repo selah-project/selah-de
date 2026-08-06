@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ⟨es⟩ wurde ⟨von⟩ Schalom entfernt meine Nefesch, ich vergaß das Gute.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "und ⟨es⟩ wurde entfernt"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "⟨von⟩ Schalom"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "ich vergaß"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "das Gute"
+    }
+  ],
+  "timestamp": "2026-08-06T04:39:53.126274633Z",
+  "model": "glm-5.2"
+}

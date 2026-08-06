@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Denn JHWH hört ⟨auf⟩ die Bedürftigen, und ⟨את⟩ seine Gefangenen verachtet ⟨er⟩ nicht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hört"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨auf⟩"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "die Bedürftigen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Gefangenen"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "seine Gefangenen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "verachtet ⟨er⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:05.372898227Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Südwärts ⟨ gehörte es⟩ Efrajim, und nordwärts Menasche, und das Meer war seine Grenze. Und in Ascher stießen sie ⟨zusammen⟩, von Norden ⟨her⟩, und in Jissaschar, von Osten ⟨her⟩.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "südwärts"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "und nordwärts"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "Menasche"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und es war"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "seine Grenze"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "und in Ascher"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "stießen sie"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "von Norden"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "und in Jissaschar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "von Osten"
+    }
+  ],
+  "timestamp": "2026-08-05T20:57:12.200423915Z",
+  "model": "glm-5.2"
+}

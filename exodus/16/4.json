@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 16:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Da sprach JHWH zu Mosche: „Siehe, ich werde euch Brot regnen lassen vom Himmel herab, und das Volk soll hinausgehen und einsammeln, das Tageswort an seinem Tag, damit ich es prüfe, ob es in meiner Tora wandelt oder nicht.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Da sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Siehe, ich"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "werde regnen lassen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dem Himmel herab"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "und ⟨es⟩ soll hinausgehen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "und einsammeln"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "יום",
+      "gloss": "eines Tages"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "an seinem Tag"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "אנסנו",
+      "gloss": "ich es prüfe"
+    },
+    {
+      "surface": "הילך",
+      "gloss": "ob es wandelt"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "in meiner Tora"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    }
+  ],
+  "timestamp": "2026-08-06T02:03:45.727360519Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "⟨את⟩ das ganze Wort, das ich euch gebiete, ⟨das⟩ sollt ihr halten, zu tun; du sollst nichts dazutun darüber und nicht davontun davon.",
+  "tokens": [
+    {
+      "surface": "אֵ֣ת",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Wort"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "הַדָּבָ֗ר",
+      "gloss": "Wort"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אָנֹכִי֙",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מְצַוֶּ֣ה",
+      "gloss": "gebeiete"
+    },
+    {
+      "surface": "אֶתְכֶ֔ם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "אֹת֥וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "es (das Wort)"
+    },
+    {
+      "surface": "תִשְׁמְר֖וּ",
+      "gloss": "sollt ihr halten"
+    },
+    {
+      "surface": "לַעֲשׂ֑וֹת",
+      "gloss": "zu tun"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תֹסֵ֣ף",
+      "gloss": "sollst du dazutun"
+    },
+    {
+      "surface": "עָלָ֔יו",
+      "gloss": "darüber"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תִגְרַ֖ע",
+      "gloss": "davontun"
+    },
+    {
+      "surface": "מִמֶּֽנּוּ",
+      "gloss": "davon"
+    }
+  ],
+  "timestamp": "2026-08-05T20:46:20.439042247Z",
+  "model": "glm-5.2"
+}

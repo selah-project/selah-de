@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und ich werde den Schlüssel des Hauses Dawid auf seine Schulter legen, und er öffnet, und niemand schließt, und er schließt, und niemand öffnet.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "und ich werde legen"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "den Schlüssel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "seine Schulter"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "und er öffnet"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und niemand"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "schließt"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "und er schließt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und niemand"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "öffnet"
+    }
+  ],
+  "timestamp": "2026-08-06T05:59:11.281846036Z",
+  "model": "glm-5.2"
+}

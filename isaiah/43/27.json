@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Dein erster Vater hat gesündigt, und deine Fürsprecher ⟨haben⟩ gegen mich aufgelehnt.",
+  "tokens": [
+    {
+      "surface": "אָבִ֥יךָ",
+      "gloss": "Dein Vater"
+    },
+    {
+      "surface": "הָרִאשׁ֖וֹן",
+      "gloss": "der erste"
+    },
+    {
+      "surface": "חָטָ֑א",
+      "gloss": "hat gesündigt"
+    },
+    {
+      "surface": "וּמְלִיצֶ֖יךָ",
+      "gloss": "und deine Fürsprecher"
+    },
+    {
+      "surface": "פָּ֥שְׁעוּ",
+      "gloss": "haben aufgelehnt"
+    },
+    {
+      "surface": "בִֽי",
+      "gloss": "gegen mich"
+    }
+  ],
+  "timestamp": "2026-08-06T01:49:32.341634005Z",
+  "model": "glm-5.2"
+}

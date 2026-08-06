@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 22:4",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Gepriesen ⟨ist der⟩, ⟨den⟩ ich anrufe: JHWH, und vor meinen Feinden werde ich gerettet.",
+  "tokens": [
+    {
+      "surface": "מְהֻלָּ֖ל",
+      "gloss": "Gepriesen"
+    },
+    {
+      "surface": "אֶקְרָ֣א",
+      "gloss": "ich anrufe"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וּמֵאֹיְבַ֖י",
+      "gloss": "und vor meinen Feinden"
+    },
+    {
+      "surface": "אִוָּשֵֽׁעַ",
+      "gloss": "werde ich gerettet"
+    }
+  ],
+  "timestamp": "2026-08-06T01:19:41.178964832Z",
+  "model": "glm-5.2"
+}

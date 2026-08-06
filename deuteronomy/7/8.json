@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "sondern weil JHWH ⟨אתכם⟩ liebt und ⟨weil er⟩ ⟨את⟩ den Schwur einhielt, den er euren Vätern geschworen hat, hat JHWH ⟨אתכם⟩ herausgeführt mit starker Hand und dich losgekauft aus dem Sklavenhaus, aus der Hand des Paro, des Königs von Mizrajim.",
+  "tokens": [
+    {
+      "surface": "כִּי֩",
+      "gloss": "sondern weil"
+    },
+    {
+      "surface": "מֵֽאַהֲבַ֨ת",
+      "gloss": "wegen der Liebe"
+    },
+    {
+      "surface": "יְהוָ֜ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶתְכֶ֗ם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "euch (als Objekt der Liebe)"
+    },
+    {
+      "surface": "וּמִשָּׁמְר֤וּ",
+      "gloss": "und ⟨wegen⟩ dem Einhalten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Schwur"
+    },
+    {
+      "surface": "הַשְּׁבֻעָ֙ה",
+      "gloss": "den Schwur"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "den"
+    },
+    {
+      "surface": "נִשְׁבַּע֙",
+      "gloss": "er geschworen hat"
+    },
+    {
+      "surface": "לַאֲבֹ֣תֵיכֶ֔ם",
+      "gloss": "euren Vätern"
+    },
+    {
+      "surface": "הוֹצִ֧יא",
+      "gloss": "hat herausgeführt"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "euch (als Objekt der Herausführung)"
+    },
+    {
+      "surface": "בְּיָ֣ד",
+      "gloss": "mit der Hand"
+    },
+    {
+      "surface": "חֲזָקָ֑ה",
+      "gloss": "starken"
+    },
+    {
+      "surface": "וַֽיִּפְדְּךָ֙",
+      "gloss": "und dich losgekauft"
+    },
+    {
+      "surface": "מִבֵּ֣ית",
+      "gloss": "aus dem Haus"
+    },
+    {
+      "surface": "עֲבָדִ֔ים",
+      "gloss": "der Sklaven"
+    },
+    {
+      "surface": "מִיַּ֖ד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "פַּרְעֹ֥ה",
+      "gloss": "des Paro"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "מִצְרָֽיִם",
+      "gloss": "von Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:46.286434946Z",
+  "model": "glm-5.2"
+}

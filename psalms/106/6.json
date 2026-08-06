@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Wir haben gesündigt ⟨zusammen⟩ mit unseren Vätern, wir haben krumm gehandelt, wir haben ruchlos gehandelt.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "wir haben gesündigt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨zusammen⟩ mit"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "unseren Vätern"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "wir haben krumm gehandelt"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "wir haben ruchlos gehandelt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:02.227369905Z",
+  "model": "glm-5.2"
+}

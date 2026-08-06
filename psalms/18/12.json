@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Er setzte Finsternis als seinen Schlupf, rings um ihn her ⟨sein⟩ Zelt, Dunkelheit von Wasser, Wolkendichte der Wolkenfelder.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "er setzte"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "Finsternis"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "seinen Schlupf"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "rings um ihn her"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "⟨sein⟩ Zelt"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "Dunkelheit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "von Wasser"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "Wolkendichte"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "der Wolkenfelder"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:36.450528659Z",
+  "model": "glm-5.2"
+}

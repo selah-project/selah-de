@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und Jaakow stahl ⟨את⟩ das Herz Lawans, des Aramäers, indem er ihm nicht mitteilte, dass er floh.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "Und ⟨er⟩ stahl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Herz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawans"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "des Aramäers"
+    },
+    {
+      "surface": "על",
+      "gloss": "indem"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "er ihm mitteilte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "er floh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-08-05T17:36:56.378237338Z",
+  "model": "glm-5.2"
+}

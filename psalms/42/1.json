@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Für ⟨den⟩ Leiter. Ein Maskil von den Söhnen Korachs.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für ⟨den⟩ Leiter"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Ein Maskil"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "von den Söhnen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachs"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:14.054085120Z",
+  "model": "glm-5.2"
+}

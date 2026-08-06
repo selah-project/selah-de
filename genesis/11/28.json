@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Haran starb vor dem Angesicht Terachs, seines Vaters, im Land seiner Geburtsstätte, in Ur der Kasdim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Und ⟨er⟩ starb"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dem Angesicht"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachs"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "seiner Geburtsstätte"
+    },
+    {
+      "surface": "באור",
+      "gloss": "in Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "der Kasdim"
+    }
+  ],
+  "timestamp": "2026-08-06T14:46:54.685204413Z",
+  "model": "glm-5.2"
+}

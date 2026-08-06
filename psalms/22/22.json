@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Rette mich vor dem Maul des Löwen, und ⟨von⟩ den Hörnern der Remim — du hast mich erhört!",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Rette mich"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "vor dem Maul"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "des Löwen"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "und ⟨von⟩ den Hörnern"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "der Remim"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "du hast mich erhört"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:45.391709404Z",
+  "model": "glm-5.2"
+}

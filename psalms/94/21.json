@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "Sie rotten sich zusammen gegen die Nefesch des Gerechten, ⟨und⟩ unschuldiges Blut erklären sie für schuldig.",
+  "tokens": [
+    {
+      "surface": "יָ֭גוֹדּוּ",
+      "gloss": "Sie rotten sich zusammen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "נֶ֣פֶשׁ",
+      "gloss": "die Nefesch"
+    },
+    {
+      "surface": "צַדִּ֑יק",
+      "gloss": "des Gerechten"
+    },
+    {
+      "surface": "וְדָ֖ם",
+      "gloss": "⟨und⟩ Blut"
+    },
+    {
+      "surface": "נָקִ֣י",
+      "gloss": "unschuldiges"
+    },
+    {
+      "surface": "יַרְשִֽׁיעוּ",
+      "gloss": "erklären sie für schuldig"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:04.997746630Z",
+  "model": "glm-5.2"
+}

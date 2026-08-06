@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 110,
+  "translation": "Von Dawid. Ein Mismor. Ausspruch JHWHs zu meinem Herrn: „Setze dich zu meiner Rechten, bis ich deine Feinde ⟨zum⟩ Schemel für deine Füße lege.“",
+  "tokens": [
+    {
+      "surface": "לְדָוִ֗ד",
+      "gloss": "Von Dawid"
+    },
+    {
+      "surface": "מִ֫זְמ֥וֹר",
+      "gloss": "ein Mismor"
+    },
+    {
+      "surface": "נְאֻ֤ם",
+      "gloss": "Ausspruch"
+    },
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "לַֽאדֹנִ֗י",
+      "gloss": "zu meinem Herrn"
+    },
+    {
+      "surface": "שֵׁ֥ב",
+      "gloss": "Setze dich"
+    },
+    {
+      "surface": "לִֽימִינִ֑י",
+      "gloss": "zu meiner Rechten"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אָשִׁ֥ית",
+      "gloss": "ich lege"
+    },
+    {
+      "surface": "אֹ֝יְבֶ֗יךָ",
+      "gloss": "deine Feinde"
+    },
+    {
+      "surface": "הֲדֹ֣ם",
+      "gloss": "⟨zum⟩ Schemel"
+    },
+    {
+      "surface": "לְרַגְלֶֽיךָ",
+      "gloss": "für deine Füße"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:04.298655858Z",
+  "model": "glm-5.2"
+}

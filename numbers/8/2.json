@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "„Sprich zu Aharon und sag zu ihm: Wenn du ⟨את⟩ die Lampen aufrichtest, gegenüber der Vorderseite ⟨der⟩ Menora sollen die sieben Lampen leuchten.“",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Sprich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "und sag"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "Wenn du … aufrichtest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lampen"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "die Lampen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "מול",
+      "gloss": "<eingeschmolzen>"
+    },
+    {
+      "surface": "פני",
+      "gloss": "der Vorderseite"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "⟨der⟩ Menora"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "sollen leuchten"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "die sieben"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "Lampen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:16:06.692458123Z",
+  "model": "glm-5.2"
+}

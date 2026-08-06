@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und wer nicht sein Herz auf das Wort JHWHs gerichtet hatte, ⟨der⟩ ließ ⟨את⟩ seine Knechte und ⟨את⟩ sein Vieh auf dem Feld.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "und wer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gesetzt"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sein Herz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨das⟩ Wort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "und ⟨er⟩ ließ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Knechte"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seine Knechte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein Vieh"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "sein Vieh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "auf dem Feld"
+    }
+  ],
+  "timestamp": "2026-08-06T20:09:46.405386624Z",
+  "model": "glm-5.2"
+}

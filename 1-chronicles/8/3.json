@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨es waren⟩ Söhne dem Bela: Addar und Gera und Abihud.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Und ⟨es waren⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "dem Bela"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Addar"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "und Gera"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "und Abihud"
+    }
+  ],
+  "timestamp": "2026-08-06T07:20:22.709761207Z",
+  "model": "glm-5.2"
+}

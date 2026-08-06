@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "⟨Er⟩ zählt die Zahl der Sterne; ihnen allen ruft er ⟨die⟩ Namen zu.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "⟨Er⟩ zählt"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "die Zahl"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "der Sterne"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ihnen allen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "⟨die⟩ Namen"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ruft er zu"
+    }
+  ],
+  "timestamp": "2026-08-06T04:25:05.608344382Z",
+  "model": "glm-5.2"
+}

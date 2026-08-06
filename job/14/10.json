@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und ein Mann stirbt und ⟨wird⟩ schwach, und der Mensch verscheidet — und wo ist er?",
+  "tokens": [
+    {
+      "surface": "וְגֶ֣בֶר",
+      "gloss": "und ein Mann"
+    },
+    {
+      "surface": "יָ֭מוּת",
+      "gloss": "stirbt"
+    },
+    {
+      "surface": "וַֽיֶּחֱלָ֑שׁ",
+      "gloss": "und ⟨wird⟩ schwach"
+    },
+    {
+      "surface": "וַיִּגְוַ֖ע",
+      "gloss": "und verscheidet"
+    },
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "וְאַיּֽוֹ",
+      "gloss": "und wo ist er"
+    }
+  ],
+  "timestamp": "2026-08-05T23:18:52.578291965Z",
+  "model": "glm-5.2"
+}

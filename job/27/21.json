@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 27:21",
+  "book": "job",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Der Ostwind hebt ihn fort, und ⟨er⟩ geht dahin, und ⟨der Sturm⟩ schleudert ihn weg von seiner Stätte.",
+  "tokens": [
+    {
+      "surface": "יִשָּׂאֵהוּ",
+      "gloss": "hebt ihn fort"
+    },
+    {
+      "surface": "קָדִים",
+      "gloss": "der Ostwind"
+    },
+    {
+      "surface": "וְיֵלַךְ",
+      "gloss": "und ⟨er⟩ geht dahin"
+    },
+    {
+      "surface": "וְיִשְׂעֲרֵהוּ",
+      "gloss": "und ⟨der Sturm⟩ schleudert ihn weg"
+    },
+    {
+      "surface": "מִמְּקֹמוֹ",
+      "gloss": "von seiner Stätte"
+    }
+  ],
+  "timestamp": "2026-08-06T09:24:22.245853872Z",
+  "model": "glm-5.2"
+}

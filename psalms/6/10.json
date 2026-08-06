@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "JHWH hat mein Flehen gehört, JHWH ⟨wird⟩ mein Gebet annehmen.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hat gehört"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "mein Flehen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mein Gebet"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "annehmen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:39.738402069Z",
+  "model": "glm-5.2"
+}

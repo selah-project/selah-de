@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Denn wie Gras schnell werden sie abgemäht, und wie grünes Kraut verwelken sie.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כֶ֭חָצִיר",
+      "gloss": "wie Gras"
+    },
+    {
+      "surface": "מְהֵרָ֣ה",
+      "gloss": "schnell"
+    },
+    {
+      "surface": "יִמָּ֑לוּ",
+      "gloss": "werden sie abgemäht"
+    },
+    {
+      "surface": "וּכְיֶ֥רֶק",
+      "gloss": "und wie grünes"
+    },
+    {
+      "surface": "דֶּ֝֗שֶׁא",
+      "gloss": "Kraut"
+    },
+    {
+      "surface": "יִבּוֹלֽוּן",
+      "gloss": "verwelken sie"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:14.889474971Z",
+  "model": "glm-5.2"
+}

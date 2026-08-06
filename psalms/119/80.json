@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Mein Herz sei ungeteilt in deinen Bestimmungen, damit ich nicht beschämt werde.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sei"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ungeteilt"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "in deinen Bestimmungen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ich beschämt werde"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:58.975023542Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Schau ⟨hinab⟩ zur Brit, denn voll sind die Finsternisse der Erde — Wohnstätten ⟨des⟩ Gewaltsamen.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Schau"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "zur Brit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "voll sind"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "die Finsternisse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "Wohnstätten"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Gewaltsamen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:48.636743869Z",
+  "model": "glm-5.2"
+}

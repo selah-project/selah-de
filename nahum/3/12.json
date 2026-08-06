@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 3:12",
+  "book": "nahum",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Alle deine Festungen sind Feigen ⟨bei⟩ den Erstlingsfeigen — wenn sie schütteln, fallen sie in den Mund des Essers.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "deine Festungen"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "Feigen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨bei⟩"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "den Erstlingsfeigen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "sie schütteln"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "fallen sie"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "פי",
+      "gloss": "den Mund"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "des Essers"
+    }
+  ],
+  "timestamp": "2026-08-06T04:03:54.791698815Z",
+  "model": "glm-5.2"
+}

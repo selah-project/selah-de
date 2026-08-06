@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und ihr sollt ⟨את⟩ das Fleisch eurer Vorhaut beschneiden, und es wird zum Zeichen der Brit zwischen mir und zwischen euch.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Und ihr sollt beschneiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Fleisch eurer Vorhaut"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "das Fleisch"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "eurer Vorhaut"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und es wird sein"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "zum Zeichen"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "der Brit"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "zwischen mir"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "und zwischen euch"
+    }
+  ],
+  "timestamp": "2026-08-05T19:57:17.243000939Z",
+  "model": "glm-5.2"
+}

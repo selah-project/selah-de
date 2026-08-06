@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Bei ihrem Hineingehen zum Zelt der Begegnung und bei ihrem Nahen zum Altar wuschen sie sich, so wie JHWH ⟨את⟩ Mosche geboten hatte.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "Bei ihrem Hineingehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "und bei ihrem Nahen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "Altar"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "wuschen sie sich"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:04.041772195Z",
+  "model": "glm-5.2"
+}

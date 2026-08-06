@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Besser ⟨ist⟩ wenig mit Gerechtigkeit als viel Ertrag ohne Recht.",
+  "tokens": [
+    {
+      "surface": "טוֹב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "מְ֭עַט",
+      "gloss": "wenig"
+    },
+    {
+      "surface": "בִּצְדָקָ֑ה",
+      "gloss": "mit Gerechtigkeit"
+    },
+    {
+      "surface": "מֵרֹ֥ב",
+      "gloss": "als viel"
+    },
+    {
+      "surface": "תְּבוּא֗וֹת",
+      "gloss": "Ertrag"
+    },
+    {
+      "surface": "בְּלֹ֣א",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "מִשְׁפָּֽט",
+      "gloss": "Recht"
+    }
+  ],
+  "timestamp": "2026-08-06T06:55:59.775155419Z",
+  "model": "glm-5.2"
+}

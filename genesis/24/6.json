@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Awraham sagte zu ihm: „Hüte dich, dass du meinen Sohn nicht dorthin zurückbringst!“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Hüte dich"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du selbst"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dass … nicht"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "du zurückbringst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Sohn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "meinen Sohn"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dorthin"
+    }
+  ],
+  "timestamp": "2026-08-06T01:54:25.744774122Z",
+  "model": "glm-5.2"
+}

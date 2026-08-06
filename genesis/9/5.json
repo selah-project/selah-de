@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und jedoch ⟨werde ich⟩ ⟨את⟩ euer Blut — ⟨das⟩ eurer Nefeschot — einfordern; aus der Hand jedes lebenden Wesens werde ich es einfordern, und aus der Hand des Menschen, aus der Hand jedes Mannes ⟨seines⟩ Bruders, werde ich ⟨את⟩ die Nefesch des Menschen einfordern.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "und jedoch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "euer Blut"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "euer Blut"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "⟨für⟩ eurer Nefeschot"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "werde ich einfordern"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jedes"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lebenden Wesens"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "werde ich es einfordern"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "und aus der Hand"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jedes Mannes"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "Bruders"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "werde ich einfordern"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Nefesch des Menschen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die Nefesch"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "des Menschen"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:18.688631372Z",
+  "model": "glm-5.2"
+}

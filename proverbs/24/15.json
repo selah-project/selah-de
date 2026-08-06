@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 24:15",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Lege ⟨du⟩, Räscha, keinen Hinterhalt ⟨an⟩ die Wohnung ⟨des⟩ Zaddik, zerstöre ⟨nicht⟩ seine Ruhestätte!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "lege Hinterhalt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Räscha"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "an die Wohnung"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Zaddik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨nicht⟩"
+    },
+    {
+      "surface": "תשדד",
+      "gloss": "zerstöre"
+    },
+    {
+      "surface": "רבצו",
+      "gloss": "seine Ruhestätte"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:50.466165078Z",
+  "model": "glm-5.2"
+}

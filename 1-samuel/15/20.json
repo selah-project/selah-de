@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und Schaul sagte zu Schmuël: „Doch, ich habe auf die Stimme JHWHs gehört und bin den Weg gegangen, auf den mich JHWH geschickt hat, und habe ⟨את⟩ Agag, den König von Amalek, gebracht, und ⟨את⟩ Amalek dem Bann geweiht.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨Doch,⟩ ich habe"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "gehört"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "und ich bin gegangen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "mich geschickt hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "und ich habe gebracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "von Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "habe ich dem Bann geweiht"
+    }
+  ],
+  "timestamp": "2026-08-06T02:43:33.732127759Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Und mein Chessed werde ich nicht von ihm wegbrechen und nicht lügen in meiner Treue.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "und mein Chessed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "wegbrechen werde ich"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "lügen"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "in meiner Treue"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:47.015744901Z",
+  "model": "glm-5.2"
+}

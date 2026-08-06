@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Und sie fuhr fort, noch ⟨einen⟩ und gebar ⟨einen⟩ Sohn, und sie rief ⟨את⟩ seinen Namen Schela. Und er war in Kesib, als sie ihn gebar ⟨את⟩ ihn.",
+  "tokens": [
+    {
+      "surface": "וַתֹּסֶף",
+      "gloss": "und sie fuhr fort"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "noch"
+    },
+    {
+      "surface": "וַתֵּלֶד",
+      "gloss": "und sie gebar"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "⟨einen⟩ Sohn"
+    },
+    {
+      "surface": "וַתִּקְרָא",
+      "gloss": "und sie rief"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Namen"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "שֵׁלָה",
+      "gloss": "Schela"
+    },
+    {
+      "surface": "וְהָיָה",
+      "gloss": "und er war"
+    },
+    {
+      "surface": "בִּכְזִיב",
+      "gloss": "in Kesib"
+    },
+    {
+      "surface": "בְּלִדְתָּהּ",
+      "gloss": "als sie gebar"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-05T20:02:15.655902217Z",
+  "model": "glm-5.2"
+}

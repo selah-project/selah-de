@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und die Pelischtim sammelten ⟨את⟩ alle ihre Lager bei Afek, und Jisrael lagerte bei der Quelle, die bei Jisreel ist.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Und sie sammelten"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle ihre Lager"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ihre Lager"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "bei Afek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "und Jisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "lagerte"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "bei der Quelle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "bei Jisreel ist"
+    }
+  ],
+  "timestamp": "2026-08-06T01:11:57.201396649Z",
+  "model": "glm-5.2"
+}

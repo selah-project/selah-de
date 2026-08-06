@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Ich sagte: JHWH, erweise mir Chen, heile meine Nefesch, denn ich habe an dir gesündigt.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "erweise mir Chen"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "heile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "habe ich gesündigt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "an dir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:55.997899101Z",
+  "model": "glm-5.2"
+}

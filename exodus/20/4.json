@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Nicht sollst du dir machen ein Götzenbild noch irgendeine Gestalt, die in den Himmeln ist von oben, und die auf der Erde ist von unten, und die in den Wassern ist von unten zur Erde hin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sollst du machen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ein Götzenbild"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "noch irgendeine"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "Gestalt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in den Himmeln"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ist von oben"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "und die"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ist von unten"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "und die"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in den Wassern"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ist von unten"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zur Erde hin"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:23.581282836Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Hast du Augen aus Fleisch, oder wie ein Mensch sieht, siehst ⟨du⟩ auch?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "hast du Augen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aus Fleisch"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oder"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "wie … sieht"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ein Mensch"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "siehst ⟨du⟩ auch"
+    }
+  ],
+  "timestamp": "2026-08-05T23:18:27.305116246Z",
+  "model": "glm-5.2"
+}

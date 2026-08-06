@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Nicht gebacken als Gesäuertes — ⟨als⟩ ihr Anteil habe ich sie gegeben ⟨von⟩ meinen Feuergaben; hochheilig ⟨ist⟩ sie, wie die Chattat und wie die Ascham.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "gebacken"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "als Gesäuertes"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ihr Anteil"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "habe ich gegeben"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Speise)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "von meinen Feuergaben"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hochheilig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "—"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist sie"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "wie die Chattat"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "und wie die Ascham"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:26.761227908Z",
+  "model": "glm-5.2"
+}

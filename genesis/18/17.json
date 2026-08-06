@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und JHWH sprach: Soll ich vor Awraham verbergen, was ich tue?",
+  "tokens": [
+    {
+      "surface": "וַֽיהֹוָ֖ה",
+      "gloss": "Und JHWH"
+    },
+    {
+      "surface": "אָמָ֑ר",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "הַֽמְכַסֶּ֤ה",
+      "gloss": "Soll ⟨ich⟩ verbergen"
+    },
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מֵֽאַבְרָהָ֔ם",
+      "gloss": "vor Awraham"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "was"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "עֹשֶֽׂה",
+      "gloss": "tue"
+    }
+  ],
+  "timestamp": "2026-08-05T19:56:40.608899258Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und ⟨er⟩ sagte zu ihm: „So spricht Jiftach: Nicht genommen hat Jisra'el ⟨את⟩ das Land Moaw und ⟨את⟩ das Land der Söhne Ammon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "genommen hat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-06T15:43:54.435985035Z",
+  "model": "glm-5.2"
+}

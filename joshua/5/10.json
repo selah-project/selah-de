@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ⟨die⟩ Söhne Jisraels lagerten in Gilgal, und sie feierten ⟨את⟩ das Pesach am Vierzehnten des Monats, am Abend, in den Ebenen von Jericho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "und sie lagerten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "in Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "und sie feierten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "das Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "am Vierzehnten"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "יום",
+      "gloss": "–"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "am Abend"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "in den Ebenen"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "von Jericho"
+    }
+  ],
+  "timestamp": "2026-08-06T20:21:02.052940501Z",
+  "model": "glm-5.2"
+}

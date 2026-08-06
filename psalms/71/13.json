@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "Mögen sie schamrot enden, die Ankläger meiner Nefesch; mögen sie sich hüllen in Schmach und Schande, die mein Unheil suchen.",
+  "tokens": [
+    {
+      "surface": "יֵבֹ֣שׁוּ",
+      "gloss": "mögen sie schamrot werden"
+    },
+    {
+      "surface": "יִכְלוּ֮",
+      "gloss": "enden"
+    },
+    {
+      "surface": "שֹׂטְנֵ֪י",
+      "gloss": "die Ankläger"
+    },
+    {
+      "surface": "נַ֫פְשִׁ֥י",
+      "gloss": "meiner Nefesch"
+    },
+    {
+      "surface": "יַֽעֲט֣וּ",
+      "gloss": "mögen sich hüllen"
+    },
+    {
+      "surface": "חֶ֭רְפָּה",
+      "gloss": "in Schmach"
+    },
+    {
+      "surface": "וּכְלִמָּ֑ה",
+      "gloss": "und Schande"
+    },
+    {
+      "surface": "מְבַקְשֵׁ֗י",
+      "gloss": "die suchen"
+    },
+    {
+      "surface": "רָעָתִֽי",
+      "gloss": "mein Unheil"
+    }
+  ],
+  "timestamp": "2026-08-06T04:16:06.264637753Z",
+  "model": "glm-5.2"
+}

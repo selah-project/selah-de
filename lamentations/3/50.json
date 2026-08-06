@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "bis JHWH herabschaut und ⟨es⟩ sieht vom Himmel her.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "herabschaut"
+    },
+    {
+      "surface": "ורא",
+      "gloss": "und ⟨es⟩ sieht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "vom Himmel her"
+    }
+  ],
+  "timestamp": "2026-08-06T04:39:32.255466238Z",
+  "model": "glm-5.2"
+}

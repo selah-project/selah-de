@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und der Knecht legte ⟨את⟩ seine Hand unter den Oberschenkel Awrahams, seines Herrn, und er schwor ihm über diese Sache.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "und legte"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "der Knecht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "den Oberschenkel"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahams"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "seines Herrn"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "und er schwor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨die⟩ Sache"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diese"
+    }
+  ],
+  "timestamp": "2026-08-06T00:06:34.297473158Z",
+  "model": "glm-5.2"
+}

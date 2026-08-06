@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und als ich ⟨את⟩ dieses Wort hörte, zerriss ich ⟨את⟩ mein Gewand und meinen Mantel und raufte ⟨mir⟩ Haare von meinem Haupt und meinem Bart, und ich saß bestürzt da.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "Und als ich hörte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Wort"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "zerriss ich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Gewand"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mein Gewand"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "und meinen Mantel"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "und raufte"
+    },
+    {
+      "surface": "משער",
+      "gloss": "Haare von"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "meinem Haupt"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "und meinem Bart"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "und ich saß da"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "bestürzt"
+    }
+  ],
+  "timestamp": "2026-08-06T09:31:25.972067865Z",
+  "model": "glm-5.2"
+}

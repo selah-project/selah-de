@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und er verschied und starb, Awraham, in einem guten Alter, alt und satt ⟨an Jahren⟩, und wurde zu seinen Völkern versammelt.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "Und er verschied"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und starb"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "in einem Alter"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "guten"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "alt"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "und satt"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "und wurde versammelt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "seinen Völkern"
+    }
+  ],
+  "timestamp": "2026-08-05T17:35:19.676563209Z",
+  "model": "glm-5.2"
+}

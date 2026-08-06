@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Gnädig ⟨ist⟩ JHWH und gerecht, und unser Elohim ⟨ist⟩ barmherzig.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "gnädig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "und gerecht"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "und unser Elohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "barmherzig"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:39.221305320Z",
+  "model": "glm-5.2"
+}

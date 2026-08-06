@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨את⟩ eure Knechte und ⟨את⟩ eure Mägde und ⟨את⟩ eure besten jungen Männer und ⟨את⟩ eure Esel wird er nehmen und für seine Arbeit einsetzen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eure Knechte"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "eure Knechte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eure Mägde"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "eure Mägde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eure besten jungen Männer"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "eure jungen Männer"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "die besten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eure Esel"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "eure Esel"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "wird er nehmen"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "und einsetzen"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "für seine Arbeit"
+    }
+  ],
+  "timestamp": "2026-08-05T21:08:56.959806898Z",
+  "model": "glm-5.2"
+}

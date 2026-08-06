@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Denn um deinetwegen habe ich Schande getragen, Schmach hat bedeckt mein Angesicht.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עָ֭לֶיךָ",
+      "gloss": "um deinetwegen"
+    },
+    {
+      "surface": "נָשָׂ֣אתִי",
+      "gloss": "habe ich getragen"
+    },
+    {
+      "surface": "חֶרְפָּ֑ה",
+      "gloss": "Schande"
+    },
+    {
+      "surface": "כִּסְּתָ֖ה",
+      "gloss": "hat bedeckt"
+    },
+    {
+      "surface": "כְלִמָּ֣ה",
+      "gloss": "Schmach"
+    },
+    {
+      "surface": "פָּנָֽי",
+      "gloss": "mein Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:32.186565164Z",
+  "model": "glm-5.2"
+}

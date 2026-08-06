@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Sieh ⟨את⟩ das Werk des Elohim, denn wer kann ⟨את⟩ das, was er krumm gemacht hat, gerade machen?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Sieh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Werk"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "Werk"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kann"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "gerade machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was er krumm gemacht hat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das, was"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "er krumm gemacht hat"
+    }
+  ],
+  "timestamp": "2026-08-06T15:28:06.238131261Z",
+  "model": "glm-5.2"
+}

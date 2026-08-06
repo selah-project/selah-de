@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Was soll ich durchbohren? Nicht ⟨hat⟩ durchbohrt El. Und was soll ich schmähen? Nicht geschmäht ⟨hat⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "soll ich durchbohren"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "⟨hat⟩ durchbohrt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Und was"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "soll ich schmähen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "geschmäht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:37:36.264804118Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "„Befiehl ⟨את⟩ den Kohenim, den Trägern der Lade des Zeugnisses, dass sie heraufsteigen aus dem Jardén.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Befiehl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Kohenim"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "den Kohenim"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "den Trägern"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "der Lade"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "des Zeugnisses"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dass sie heraufsteigen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "dem Jardén"
+    }
+  ],
+  "timestamp": "2026-08-06T09:54:22.522267728Z",
+  "model": "glm-5.2"
+}

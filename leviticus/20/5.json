@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Dann werde ich, ich selbst, ⟨את⟩ mein Angesicht richten gegen jenen Mann und gegen seine Sippe, und ich werde ihn ausrotten und ⟨את⟩ alle, die ihm nachhurern, dem Molech nachzuhuren, aus der Mitte seines Volkes.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Dann werde ich richten"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich selbst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Angesicht"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mein Angesicht"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "gegen den Mann"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenen"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "und gegen seine Sippe"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "und ich werde ausrotten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "die nachhuren"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "nachzuhuren"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molech"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "aus der Mitte"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ihres Volkes"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:37.545227479Z",
+  "model": "glm-5.2"
+}

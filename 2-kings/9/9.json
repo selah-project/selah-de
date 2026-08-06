@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ich werde ⟨את⟩ das Haus Achabs geben wie das Haus Jarobeams, des Sohnes Newats, und wie das Haus Baaschas, des Sohnes Achijas.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Und ich werde geben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus Achabs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabs"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "wie das Haus"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeams"
+    },
+    {
+      "surface": "בן",
+      "gloss": "des Sohnes"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Newats"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "und wie das Haus"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baaschas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "des Sohnes"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achijas"
+    }
+  ],
+  "timestamp": "2026-08-06T08:47:43.258037543Z",
+  "model": "glm-5.2"
+}

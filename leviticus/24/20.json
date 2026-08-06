@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Bruch unter Bruch, Auge unter Auge, Zahn unter Zahn; wie er einen Makel in einem Menschen gibt, so soll in ihm gegeben werden.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Bruch"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Bruch"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Auge"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Auge"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Zahn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Zahn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "er gibt"
+    },
+    {
+      "surface": "מום",
+      "gloss": "einen Makel"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "in einem Menschen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "soll gegeben werden"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:44.839646024Z",
+  "model": "glm-5.2"
+}

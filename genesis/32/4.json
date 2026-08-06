@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und Jaakow schickte Boten vor sich hin zu Esaw, seinem Bruder, ins Land Seir, das Gefilde von Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und schickte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "Boten"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vor sich hin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seinem Bruder"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ins Land"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "das Gefilde"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "von Edom"
+    }
+  ],
+  "timestamp": "2026-08-05T20:01:11.503636930Z",
+  "model": "glm-5.2"
+}

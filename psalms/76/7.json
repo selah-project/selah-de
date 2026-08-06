@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 76,
+  "translation": "Von deinem Schelten, Elohim Jaakows, ⟨sind⟩ in Todesschlaf versenkt ⟨sowohl⟩ Wagen ⟨als auch⟩ Ross.",
+  "tokens": [
+    {
+      "surface": "מִ֭גַּעֲרָ֣תְךָ",
+      "gloss": "von deinem Schelten"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "Jaakows"
+    },
+    {
+      "surface": "נִ֝רְדָּ֗ם",
+      "gloss": "in Todesschlaf versenkt"
+    },
+    {
+      "surface": "וְרֶ֣כֶב",
+      "gloss": "Wagen"
+    },
+    {
+      "surface": "וָסֽוּס",
+      "gloss": "Ross"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:52.246226219Z",
+  "model": "glm-5.2"
+}

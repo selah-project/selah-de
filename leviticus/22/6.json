@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "die Nefesch, die ⟨es⟩ berührt, ⟨ist⟩ unrein bis zum Abend; und ⟨sie⟩ soll nicht essen von den heiligen Dingen, es sei denn, ⟨dass⟩ sie ihren Leib wäscht im Wasser.",
+  "tokens": [
+    {
+      "surface": "נֶפֶשׁ",
+      "gloss": "die Nefesch"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תִּגַּע",
+      "gloss": "berührt"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "es"
+    },
+    {
+      "surface": "וְטָמְאָה",
+      "gloss": "⟨ist⟩ unrein"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הָעָרֶב",
+      "gloss": "zum Abend"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und ⟨soll⟩ nicht"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "essen"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הַקֳּדָשִׁים",
+      "gloss": "den heiligen Dingen"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "es sei denn"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "dass"
+    },
+    {
+      "surface": "רָחַץ",
+      "gloss": "sie wäscht"
+    },
+    {
+      "surface": "בְּשָׂר֖וֹ",
+      "gloss": "ihren Leib"
+    },
+    {
+      "surface": "בַּמָּיִם",
+      "gloss": "im Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:01.956126736Z",
+  "model": "glm-5.2"
+}

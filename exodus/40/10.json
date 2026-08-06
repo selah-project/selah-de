@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und du sollst salben ⟨את⟩ den Altar des Aufsteigenden und ⟨את⟩ all seine Geräte, und du sollst ⟨את⟩ den Altar heiligen, und der Altar wird Höchstheiligtum sein.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "und du sollst salben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "Altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "des Aufsteigenden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all seine Geräte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "seine Geräte"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "und du sollst heiligen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und es wird sein"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "der Altar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Heiligtum"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "der Heiligtümer"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:50.643822424Z",
+  "model": "glm-5.2"
+}

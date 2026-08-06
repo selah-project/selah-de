@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Ich suchte ⟨את⟩ JHWH, und er antwortete mir, und aus all meinen Schrecken rettete er mich.",
+  "tokens": [
+    {
+      "surface": "דָּרַ֣שְׁתִּי",
+      "gloss": "Ich suchte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְעָנָ֑נִי",
+      "gloss": "und er antwortete mir"
+    },
+    {
+      "surface": "וּמִכָּל",
+      "gloss": "und aus all"
+    },
+    {
+      "surface": "מְ֝גוּרוֹתַ֗י",
+      "gloss": "meinen Schrecken"
+    },
+    {
+      "surface": "הִצִּילָֽנִי",
+      "gloss": "rettete er mich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:17.499219466Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 140,
+  "translation": "Gewiss, die Gerechten werden deinem Namen danken; die Aufrichtigen werden vor deinem Angesicht wohnen ⟨mit⟩ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gewiss"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "die Gerechten"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "werden danken"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "deinem Namen"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "werden wohnen"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "die Aufrichtigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinem Angesicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "deinem Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:10.933516548Z",
+  "model": "glm-5.2"
+}

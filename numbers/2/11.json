@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "und sein Heer und seine Gemusterten: sechsundvierzigtausend und fünfhundert.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "und sein Heer"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "und seine Gemusterten"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "sechs"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "undvierzig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "und fünf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    }
+  ],
+  "timestamp": "2026-08-06T02:15:25.568965741Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "JHWH richtet ⟨die⟩ Völker; schaffe mir Recht, JHWH, nach meiner Gerechtigkeit und nach meiner Lauterkeit über mir.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "richtet"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "schaffe mir Recht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "nach meiner Gerechtigkeit"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "und nach meiner Lauterkeit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "über mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:17.927016516Z",
+  "model": "glm-5.2"
+}

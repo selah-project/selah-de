@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 98,
+  "translation": "Spielt JHWH mit der Leier, mit der Leier und ⟨mit⟩ ⟨der⟩ Stimme des Lieds!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Spielt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "mit der Leier"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "mit der Leier"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "und ⟨der⟩ Stimme"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "des Lieds"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:03.047491204Z",
+  "model": "glm-5.2"
+}

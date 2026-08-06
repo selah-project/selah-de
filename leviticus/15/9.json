@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und jeder Sattel, auf dem der Saw reitet, wird unrein.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "und jeder"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "⟨der⟩ Sattel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "auf ⟨dem⟩"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "reitet"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "der Saw"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "wird unrein"
+    }
+  ],
+  "timestamp": "2026-08-06T00:26:45.921435547Z",
+  "model": "glm-5.2"
+}

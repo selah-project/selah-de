@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Wie ein Schatten beim Neigen gehe ich dahin, wie eine Heuschrecke werde ich weggeschüttelt.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "Wie ein Schatten"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "beim Neigen"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "gehe ich dahin"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "werde ich weggeschüttelt"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "wie eine Heuschrecke"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:37.470716599Z",
+  "model": "glm-5.2"
+}

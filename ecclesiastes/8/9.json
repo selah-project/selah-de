@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "⟨את⟩ all dies habe ich gesehen, und ich richtete ⟨את⟩ mein Herz auf jedes Tun, das unter der Sonne getan wird: eine Zeit, da der Mensch über ⟨dem⟩ Menschen herrscht, zu seinem Schaden.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dies"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "habe ich gesehen"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "und ⟨ich⟩ richtete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Herz"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "auf jedes"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "Tun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "getan wird"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "עת",
+      "gloss": "eine Zeit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "herrscht"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "über ⟨dem⟩ Menschen"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "zu ⟨seinem⟩ Schaden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T09:28:59.856384883Z",
+  "model": "glm-5.2"
+}

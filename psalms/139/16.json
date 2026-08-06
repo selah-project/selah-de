@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Mein Ungestaltetes sahen deine Augen, und auf dein Buch — sie alle wurden eingeschrieben; Tage wurden geformt, und ⟨noch⟩ war keiner von ihnen.",
+  "tokens": [
+    {
+      "surface": "גָּלְמִ֤י",
+      "gloss": "Mein Ungestaltetes"
+    },
+    {
+      "surface": "רָא֞וּ",
+      "gloss": "sahen"
+    },
+    {
+      "surface": "עֵינֶ֗יךָ",
+      "gloss": "deine Augen"
+    },
+    {
+      "surface": "וְעַֽל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "סִפְרְךָ֮",
+      "gloss": "dein Buch"
+    },
+    {
+      "surface": "כֻּלָּ֪ם",
+      "gloss": "sie alle"
+    },
+    {
+      "surface": "יִכָּ֫תֵ֥בוּ",
+      "gloss": "wurden eingeschrieben"
+    },
+    {
+      "surface": "יָמִ֥ים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "יֻצָּ֑רוּ",
+      "gloss": "wurden geformt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨noch⟩ war nicht"
+    },
+    {
+      "surface": "אֶחָ֣ד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "בָּהֶֽם",
+      "gloss": "von ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:20.741228161Z",
+  "model": "glm-5.2"
+}

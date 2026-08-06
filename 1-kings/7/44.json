@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "und ⟨את⟩ das ⟨eine⟩ Meer und ⟨את⟩ die zwölf Rinder unter dem Meer",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das eine Meer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "das ⟨eine⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die zwölf Rinder"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "die Rinder"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dem Meer"
+    }
+  ],
+  "timestamp": "2026-08-06T01:23:20.361082441Z",
+  "model": "glm-5.2"
+}

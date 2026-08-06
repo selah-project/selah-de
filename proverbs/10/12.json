@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Hass weckt Zänkereien, aber über alle Vergehen deckt Liebe ⟨zu⟩.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "Hass"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "weckt"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "Zänkereien"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "aber über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "Vergehen"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "deckt ⟨zu⟩"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "Liebe"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:05.650543577Z",
+  "model": "glm-5.2"
+}

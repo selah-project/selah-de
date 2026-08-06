@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und JHWH zerstreute sie von dort über ⟨das⟩ Angesicht der ganzen Erde, und sie hörten auf, die Stadt zu bauen.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "und zerstreute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨das⟩ Angesicht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "und sie hörten auf"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "zu bauen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:19.895124738Z",
+  "model": "glm-5.2"
+}

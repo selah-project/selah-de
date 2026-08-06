@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "„Und ihr sollt ⟨את⟩ das Land sehen, was es ist, und ⟨את⟩ das Volk, das darauf wohnt — ist es stark ⟨oder⟩ ist es schwach? Sind es wenige ⟨oder⟩ viele?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "Und ihr sollt sehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es ist"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "das wohnt"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "Ist es stark"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "ist es schwach"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "Sind es wenige"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oder"
+    },
+    {
+      "surface": "רב",
+      "gloss": "viele"
+    }
+  ],
+  "timestamp": "2026-08-05T20:33:30.540500591Z",
+  "model": "glm-5.2"
+}

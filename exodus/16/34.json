@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Wie JHWH ⟨es⟩ Mosche geboten hatte, so legte Aharon ⟨את⟩ es vor ⟨die⟩ Ladung zur Aufbewahrung.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "so legte"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "die Ladung"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "zur Aufbewahrung"
+    }
+  ],
+  "timestamp": "2026-08-05T20:10:09.698390435Z",
+  "model": "glm-5.2"
+}

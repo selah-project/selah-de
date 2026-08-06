@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Noomi nahm ⟨את⟩ das Kind und legte es in ihren Schoß und wurde ihm zur Pflegerin.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Und ⟨sie⟩ nahm"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "das Kind"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "und ⟨sie⟩ legte ⟨es⟩"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "in ihren Schoß"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "und ⟨sie⟩ wurde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "zur Pflegerin"
+    }
+  ],
+  "timestamp": "2026-08-05T23:27:43.696031823Z",
+  "model": "glm-5.2"
+}

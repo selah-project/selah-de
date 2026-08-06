@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und er sprach: „Ruf sie.“ Und er rief ⟨sie⟩, und sie stand im Eingang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Ruf"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sie"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er rief"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨sie⟩"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "und sie stand"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "im Eingang"
+    }
+  ],
+  "timestamp": "2026-08-06T05:53:37.205411009Z",
+  "model": "glm-5.2"
+}

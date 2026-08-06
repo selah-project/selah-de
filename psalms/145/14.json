@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "JHWH stützt alle Fallenden, und ⟨er⟩ richtet auf alle Gekrümmten.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "stützt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "Fallenden"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "und richtet auf"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "Gekrümmten"
+    }
+  ],
+  "timestamp": "2026-08-06T15:24:53.566642704Z",
+  "model": "glm-5.2"
+}

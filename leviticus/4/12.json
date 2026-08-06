@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und er soll ⟨את⟩ den ganzen Stier hinausbringen, nach draußen zum Lager, an einen reinen Ort, an die Schütte der Asche, und ihn verbrennen auf Holz, im Feuer; an der Schütte der Asche soll er verbrannt werden.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "und er soll hinausbringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ganzen Stier"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "Stier"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "draußen"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "zum Lager"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "einen Ort"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "reinen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "die Schütte"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "der Asche"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "und verbrennen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn",
+      "marks": "den ganzen Stier"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "Holz"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "der Schütte"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "der Asche"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "soll er verbrannt werden"
+    }
+  ],
+  "timestamp": "2026-08-06T02:09:12.700669408Z",
+  "model": "glm-5.2"
+}

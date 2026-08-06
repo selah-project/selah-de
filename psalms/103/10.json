@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "Nicht nach unseren Sünden hat ⟨er⟩ an uns gehandelt, und nicht nach unseren Verfehlungen hat ⟨er⟩ uns vergolten.",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "כַ֭חֲטָאֵינוּ",
+      "gloss": "nach unseren Sünden"
+    },
+    {
+      "surface": "עָ֣שָׂה",
+      "gloss": "hat gehandelt"
+    },
+    {
+      "surface": "לָ֑נוּ",
+      "gloss": "an uns"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "כַ֝עֲוֺנֹתֵ֗ינוּ",
+      "gloss": "nach unseren Verfehlungen"
+    },
+    {
+      "surface": "גָּמַ֥ל",
+      "gloss": "hat vergolten"
+    },
+    {
+      "surface": "עָלֵֽינוּ",
+      "gloss": "uns"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:29.204262329Z",
+  "model": "glm-5.2"
+}

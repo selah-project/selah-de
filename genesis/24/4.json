@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "sondern in mein Land und zu meiner Verwandtschaft sollst du gehen, und ⟨dort⟩ ⟨sollst⟩ du eine Frau für meinen Sohn, für Jizchak, nehmen.“",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mein Land"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "meiner Verwandtschaft"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "sollst du gehen"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "und ⟨sollst⟩ du … nehmen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "eine Frau"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "für meinen Sohn"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "für Jizchak"
+    }
+  ],
+  "timestamp": "2026-08-05T17:34:11.519049695Z",
+  "model": "glm-5.2"
+}

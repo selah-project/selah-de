@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und JHWH rettete ⟨את⟩ Jisra'el an jenem Tag aus der Hand Mizrajims, und Jisra'el sah ⟨את⟩ Mizrajim tot am Ufer des Meeres.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Und er rettete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "an Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajims"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mizrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "tot"
+    },
+    {
+      "surface": "על",
+      "gloss": "am"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "Ufer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "des Meeres"
+    }
+  ],
+  "timestamp": "2026-08-06T00:16:21.878683739Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 58,
+  "translation": "Wie eine Schnecke, ⟨die⟩ zerfließt — ⟨so⟩ geht ⟨jeder von ihnen⟩ ⟨dahin⟩; wie eine Fehlgeburt einer Frau, ⟨die⟩ die Sonne nicht geschaut hat.",
+  "tokens": [
+    {
+      "surface": "כְּמ֣וֹ",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "שַׁ֭בְּלוּל",
+      "gloss": "eine Schnecke"
+    },
+    {
+      "surface": "תֶּ֣מֶס",
+      "gloss": "⟨die⟩ zerfließt"
+    },
+    {
+      "surface": "יַהֲלֹ֑ךְ",
+      "gloss": "⟨so⟩ geht ⟨dahin⟩"
+    },
+    {
+      "surface": "נֵ֥פֶל",
+      "gloss": "wie eine Fehlgeburt"
+    },
+    {
+      "surface": "אֵ֝֗שֶׁת",
+      "gloss": "einer Frau"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "חָ֥זוּ",
+      "gloss": "geschaut hat"
+    },
+    {
+      "surface": "שָֽׁמֶשׁ",
+      "gloss": "die Sonne"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:48.203084514Z",
+  "model": "glm-5.2"
+}

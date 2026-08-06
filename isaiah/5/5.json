@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und nun, lassen Sie mich euch kundtun ⟨אתכם⟩, ⟨את⟩ was ich meinem Weinberg tue: ⟨Entfernen⟩ wird man seine Hecke, und ⟨er⟩ wird zur Weide; ⟨Einreißen⟩ wird man seine Mauer, und ⟨er⟩ zum Zertreten.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "lassen Sie mich kundtun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tue"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "meinem Weinberg"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "Entfernen"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "seine Hecke"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und ⟨er⟩ wird sein"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "zur Weide"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Einreißen"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "seine Mauer"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und ⟨er⟩ wird sein"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "zum Zertreten"
+    }
+  ],
+  "timestamp": "2026-08-05T21:42:57.030244190Z",
+  "model": "glm-5.2"
+}

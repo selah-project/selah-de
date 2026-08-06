@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und sie sagte zu ihrer Herrin: „Wäre doch mein Herr vor dem Nawi, der in Schomron ist, dann würde er ⟨את⟩ ihn von seinem Aussatz wegnehmen!",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Und sie sagte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "ihrer Herrin"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Wäre doch"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "dem Nawi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Schomron ist"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dann"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "würde er wegnehmen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "von seinem Aussatz"
+    }
+  ],
+  "timestamp": "2026-08-06T22:41:26.654317574Z",
+  "model": "glm-5.2"
+}

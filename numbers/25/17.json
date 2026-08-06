@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Bedrängt ⟨die⟩ Midjaniter, und schlagt ⟨את⟩ sie.",
+  "tokens": [
+    {
+      "surface": "צָר֖וֹר",
+      "gloss": "Bedrängt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Midjaniter"
+    },
+    {
+      "surface": "הַמִּדְיָנִ֑ים",
+      "gloss": "Midjaniter"
+    },
+    {
+      "surface": "וְהִכִּיתֶ֖ם",
+      "gloss": "und schlagt"
+    },
+    {
+      "surface": "אוֹתָֽם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie"
+    }
+  ],
+  "timestamp": "2026-08-05T20:38:08.306275160Z",
+  "model": "glm-5.2"
+}

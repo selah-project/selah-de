@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und er sagte: „⟨את⟩ meine Brüder suche ich. Sage mir doch, wo sie hüten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Brüder"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "meine Brüder"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "suche"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Sage"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hüten"
+    }
+  ],
+  "timestamp": "2026-08-06T09:42:39.455470271Z",
+  "model": "glm-5.2"
+}

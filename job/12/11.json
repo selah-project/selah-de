@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Prüft nicht ⟨die⟩ Ohr ⟨das⟩ Worte wie der Gaumen ⟨das⟩ Speise für sich schmeckt?",
+  "tokens": [
+    {
+      "surface": "הֲלֹא",
+      "gloss": "Prüft nicht"
+    },
+    {
+      "surface": "אֹ֭זֶן",
+      "gloss": "⟨die⟩ Ohr"
+    },
+    {
+      "surface": "מִלִּ֣ין",
+      "gloss": "⟨das⟩ Worte"
+    },
+    {
+      "surface": "תִּבְחָ֑ן",
+      "gloss": "wie"
+    },
+    {
+      "surface": "וְ֝חֵ֗ךְ",
+      "gloss": "der Gaumen"
+    },
+    {
+      "surface": "אֹ֣כֶל",
+      "gloss": "⟨das⟩ Speise"
+    },
+    {
+      "surface": "יִטְעַם",
+      "gloss": "schmeckt"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "für sich"
+    }
+  ],
+  "timestamp": "2026-08-06T07:01:06.007841634Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 81,
+  "translation": "Bald hätte ich ihre Feinde gebeugt, und auf ihre Bedränger meine Hand zurückgewendet.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Bald"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ihre Feinde"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "hätte ich gebeugt"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ihre Bedränger"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "hätte ich zurückgewendet"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "meine Hand"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:09.752563180Z",
+  "model": "glm-5.2"
+}

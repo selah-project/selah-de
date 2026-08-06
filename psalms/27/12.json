@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Gib mich nicht der Nefesch meiner Bedränger preis! Denn es haben sich gegen mich erhoben Zeugen der Lüge und ⟨einer, der⟩ Gewalt ausatmet.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "gib mich"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "der Nefesch"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "meiner Bedränger"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "haben sich erhoben"
+    },
+    {
+      "surface": "בי",
+      "gloss": "gegen mich"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "Zeugen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "der Lüge"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "und ⟨er⟩ atmet aus"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Gewalt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:47.429878073Z",
+  "model": "glm-5.2"
+}

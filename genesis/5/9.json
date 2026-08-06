@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Enosch lebte neunzig Jahre und zeugte ⟨את⟩ Kenan.",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִ֥י",
+      "gloss": "Und … lebte"
+    },
+    {
+      "surface": "אֱנ֖וֹשׁ",
+      "gloss": "Enosch"
+    },
+    {
+      "surface": "תִּשְׁעִ֣ים",
+      "gloss": "neunzig"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "וַיּ֖וֹלֶד",
+      "gloss": "und zeugte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קֵינָֽן",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-08-06T00:03:32.508438226Z",
+  "model": "glm-5.2"
+}

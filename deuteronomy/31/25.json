@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "da befahl Mosche ⟨את⟩ den Lewijm, den Trägern der Lade des Bundes JHWHs, und sagte:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "da befahl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lewijm"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "den Lewijm"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "den Trägern"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "der Lade"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "des Bundes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    }
+  ],
+  "timestamp": "2026-08-06T02:29:09.591228748Z",
+  "model": "glm-5.2"
+}

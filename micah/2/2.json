@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und sie begehren Felder und rauben ⟨sie⟩, und Häuser und nehmen ⟨sie⟩ weg; sie bedrücken ⟨den⟩ Mann und sein Haus, ⟨den⟩ Menschen und sein Erbteil.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "Und sie begehren"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "Felder"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "und rauben"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "und Häuser"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "und nehmen weg"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "sie bedrücken"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨den⟩ Mann"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "und sein Haus"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "⟨den⟩ Menschen"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "und sein Erbteil"
+    }
+  ],
+  "timestamp": "2026-08-06T06:33:42.000062650Z",
+  "model": "glm-5.2"
+}

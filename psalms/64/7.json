@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 64,
+  "translation": "Sie suchen ⟨das⟩ Unrecht aus — „wir haben ⟨es⟩ vollendet\", ⟨ein⟩ Suchen, ⟨das⟩ durchgesucht ist\" — und ⟨das⟩ Innere ⟨eines⟩ Mannes und ⟨das⟩ Herz ⟨sind⟩ tief.",
+  "tokens": [
+    {
+      "surface": "יַֽחְפְּֽשׂוּ",
+      "gloss": "Sie suchen aus"
+    },
+    {
+      "surface": "עוֹלֹ֗ת",
+      "gloss": "⟨das⟩ Unrecht"
+    },
+    {
+      "surface": "תַּ֭מְנוּ",
+      "gloss": "„wir haben vollendet"
+    },
+    {
+      "surface": "חֵ֣פֶשׂ",
+      "gloss": "⟨ein⟩ Suchen"
+    },
+    {
+      "surface": "מְחֻפָּ֑שׂ",
+      "gloss": "⟨das⟩ durchgesucht ist"
+    },
+    {
+      "surface": "וְקֶ֥רֶב",
+      "gloss": "und ⟨das⟩ Innere"
+    },
+    {
+      "surface": "אִ֝֗ישׁ",
+      "gloss": "⟨eines⟩ Mannes"
+    },
+    {
+      "surface": "וְלֵ֣ב",
+      "gloss": "und ⟨das⟩ Herz"
+    },
+    {
+      "surface": "עָמֹֽק",
+      "gloss": "tief"
+    }
+  ],
+  "timestamp": "2026-08-06T22:47:00.858406977Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 128,
+  "translation": "Deine Frau ⟨wie⟩ ein fruchttragender Weinstock, in den inneren Gemächern deines Hauses; deine Kinder wie Ölschößlinge, rings um deinen Tisch.",
+  "tokens": [
+    {
+      "surface": "אֶשְׁתְּךָ",
+      "gloss": "Deine Frau"
+    },
+    {
+      "surface": "כְּגֶפֶן",
+      "gloss": "⟨wie⟩ ein Weinstock"
+    },
+    {
+      "surface": "פֹּרִיָּה",
+      "gloss": "fruchttragender"
+    },
+    {
+      "surface": "בְּיַרְכְּתֵי",
+      "gloss": "in den inneren Gemächern"
+    },
+    {
+      "surface": "בֵּיתֶךָ",
+      "gloss": "deines Hauses"
+    },
+    {
+      "surface": "בָּנֶיךָ",
+      "gloss": "deine Kinder"
+    },
+    {
+      "surface": "כִּשְׁתִלֵי",
+      "gloss": "wie Schößlinge"
+    },
+    {
+      "surface": "זֵיתִים",
+      "gloss": "von Öl(bäumen)"
+    },
+    {
+      "surface": "סָבִיב",
+      "gloss": "rings um"
+    },
+    {
+      "surface": "לְשֻׁלְחָנֶךָ",
+      "gloss": "deinen Tisch"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:31.431362741Z",
+  "model": "glm-5.2"
+}

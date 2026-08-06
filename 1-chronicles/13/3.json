@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "und wollen wir ⟨את⟩ die Lade unseres Elohim zu uns zurückbringen, denn wir haben ⟨sie⟩ nicht gesucht in den Tagen Schauls.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "und wollen wir zurückbringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unseres Elohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "zu uns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "wir haben ⟨sie⟩ gesucht"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in den Tagen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    }
+  ],
+  "timestamp": "2026-08-06T09:33:59.536943971Z",
+  "model": "glm-5.2"
+}

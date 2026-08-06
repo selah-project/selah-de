@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Da erwachte Adonai wie ein Schlafender, wie ein Held, ⟨der⟩ aus Wein ⟨Ruf⟩ erschallt.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "Da erwachte"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "wie ein Schlafender"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "wie ein Held"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "⟨der⟩ Ruf erschallt"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "aus Wein"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:18.103402748Z",
+  "model": "glm-5.2"
+}

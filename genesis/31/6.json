@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und ihr wisst, dass ich mit all meiner Kraft ⟨את⟩ euren Vater gedient habe.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "und ihr"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "wisst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit all"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "meiner Kraft"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ich gedient habe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "euren Vater"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "euren Vater"
+    }
+  ],
+  "timestamp": "2026-08-06T01:56:53.624643007Z",
+  "model": "glm-5.2"
+}

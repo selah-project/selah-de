@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 54,
+  "translation": "Siehe, Elohim ⟨ist⟩ mein Helfer, Adonai ⟨ist⟩ bei denen, die meine Nefesch stützen.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֣ה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "אֱ֭לֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עֹזֵ֣ר",
+      "gloss": "mein Helfer"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "⟨für⟩ mich"
+    },
+    {
+      "surface": "אֲ֝דֹנָ֗י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בְּֽסֹמְכֵ֥י",
+      "gloss": "bei denen, die … stützen"
+    },
+    {
+      "surface": "נַפְשִֽׁי",
+      "gloss": "meine Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:07.142388621Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "⟨Man⟩ richtet ⟨den⟩ Tisch, deckt ⟨die⟩ Wache, ⟨man⟩ isst, ⟨man⟩ trinkt. Steht auf, ihr Fürsten, salbt ⟨den⟩ Schild!",
+  "tokens": [
+    {
+      "surface": "עָרֹךְ",
+      "gloss": "⟨Man⟩ richtet"
+    },
+    {
+      "surface": "הַשֻּׁלְחָן",
+      "gloss": "⟨den⟩ Tisch"
+    },
+    {
+      "surface": "צָפֹה",
+      "gloss": "deckt"
+    },
+    {
+      "surface": "הַצָּפִית",
+      "gloss": "⟨die⟩ Wache"
+    },
+    {
+      "surface": "אָכוֹל",
+      "gloss": "⟨man⟩ isst"
+    },
+    {
+      "surface": "שָׁתֹה",
+      "gloss": "⟨man⟩ trinkt"
+    },
+    {
+      "surface": "קוּמוּ",
+      "gloss": "Steht auf"
+    },
+    {
+      "surface": "הַשָּׂרִים",
+      "gloss": "ihr Fürsten"
+    },
+    {
+      "surface": "מָשְׁחוּ",
+      "gloss": "salbt"
+    },
+    {
+      "surface": "מָגֵן",
+      "gloss": "⟨den⟩ Schild"
+    }
+  ],
+  "timestamp": "2026-08-06T03:13:53.551533308Z",
+  "model": "glm-5.2"
+}

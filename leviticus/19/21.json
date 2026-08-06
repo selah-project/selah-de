@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ⟨er⟩ bringt ⟨את⟩ seine Schuld dar für JHWH, zum Eingang des Zeltes der Begegnung: einen Widder als Schuldopfer.",
+  "tokens": [
+    {
+      "surface": "וְהֵבִ֤יא",
+      "gloss": "und ⟨er⟩ bringt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Schuld"
+    },
+    {
+      "surface": "אֲשָׁמוֹ֙",
+      "gloss": "seine Schuld"
+    },
+    {
+      "surface": "לַֽיהוָ֔ה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פֶּ֖תַח",
+      "gloss": "Eingang"
+    },
+    {
+      "surface": "אֹ֣הֶל",
+      "gloss": "Zeltes"
+    },
+    {
+      "surface": "מוֹעֵ֑ד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "אֵ֖יל",
+      "gloss": "einen Widder"
+    },
+    {
+      "surface": "אָשָֽׁם",
+      "gloss": "als Schuldopfer"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:52.471345040Z",
+  "model": "glm-5.2"
+}

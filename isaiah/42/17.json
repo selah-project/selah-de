@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 42:17",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Sie weichen zurück, ⟨sie⟩ werden tief beschämt, die auf das Götzenbild vertrauen, die zum gegossenen Bild sprechen: „Ihr seid unsere Elohim.“",
+  "tokens": [
+    {
+      "surface": "נָסֹ֤גוּ",
+      "gloss": "sie weichen zurück"
+    },
+    {
+      "surface": "אָחוֹר֙",
+      "gloss": "rückwärts"
+    },
+    {
+      "surface": "יֵבֹ֣שׁוּ",
+      "gloss": "sie werden beschämt"
+    },
+    {
+      "surface": "בֹ֔שֶׁת",
+      "gloss": "tief"
+    },
+    {
+      "surface": "הַבֹּטְחִ֖ים",
+      "gloss": "die vertrauen"
+    },
+    {
+      "surface": "בַּפָּ֑סֶל",
+      "gloss": "auf das Götzenbild"
+    },
+    {
+      "surface": "הָאֹמְרִ֥ים",
+      "gloss": "die sprechen"
+    },
+    {
+      "surface": "לְמַסֵּכָ֖ה",
+      "gloss": "zum gegossenen Bild"
+    },
+    {
+      "surface": "אַתֶּ֥ם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "אֱלֹהֵֽינוּ",
+      "gloss": "unsere Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T21:52:57.754534495Z",
+  "model": "glm-5.2"
+}

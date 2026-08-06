@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 117,
+  "translation": "Denn stark über uns ⟨ist⟩ sein Chessed, und ⟨die⟩ Emet JHWH ⟨währt⟩ für immer — lobt Jah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "stark"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "über uns"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "und ⟨die⟩ Emet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lobt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:09.110560405Z",
+  "model": "glm-5.2"
+}

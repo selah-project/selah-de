@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Bela, Sohn des Asas, Sohn des Schema, Sohn des Joël — ⟨er⟩ wohnte in Aroër und bis Nevo und Baal-Meon.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "Und Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "des Asas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "des Schema"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "des Joël"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "wohnte"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "in Aroër"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und bis"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "und Baal-Meon"
+    },
+    {
+      "surface": "מעון",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T23:47:02.861724367Z",
+  "model": "glm-5.2"
+}

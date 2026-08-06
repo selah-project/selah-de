@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und sie schlachteten ⟨את⟩ den Stier, und sie brachten ⟨את⟩ den Jungen zu Eli.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "Und sie schlachteten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stier"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "den Stier"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "und sie brachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jungen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den Jungen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-06T20:23:20.210087474Z",
+  "model": "glm-5.2"
+}

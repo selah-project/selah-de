@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und Mosche nahm ⟨את⟩ die Wagen und ⟨את⟩ das Rindvieh, und er gab sie den Lewiim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und er nahm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wagen"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "die Wagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Rindvieh"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "das Rindvieh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und er gab"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Lewiim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:33:06.703841927Z",
+  "model": "glm-5.2"
+}

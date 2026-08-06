@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und Jaakow ging seines Weges, und Boten Elohims trafen ihn.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Und Jaakow"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ging"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "seines Weges"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "und trafen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Boten"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-08-05T20:01:11.503403694Z",
+  "model": "glm-5.2"
+}

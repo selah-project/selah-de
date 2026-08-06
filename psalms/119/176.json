@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich bin umhergeirrt wie ein verlorenes Schaf — suche deinen Knecht, denn deine Gebote habe ich nicht vergessen.",
+  "tokens": [
+    {
+      "surface": "תָּעִ֗יתִי",
+      "gloss": "Ich bin umhergeirrt"
+    },
+    {
+      "surface": "כְּשֶׂ֣ה",
+      "gloss": "wie ein Schaf"
+    },
+    {
+      "surface": "אֹ֭בֵד",
+      "gloss": "verlorenes"
+    },
+    {
+      "surface": "בַּקֵּ֣שׁ",
+      "gloss": "suche"
+    },
+    {
+      "surface": "עַבְדֶּ֑ךָ",
+      "gloss": "deinen Knecht"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מִ֝צְוֺתֶ֗יךָ",
+      "gloss": "deine Gebote"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שָׁכָֽחְתִּי",
+      "gloss": "habe ich vergessen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:58.169144783Z",
+  "model": "glm-5.2"
+}

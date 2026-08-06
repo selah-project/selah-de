@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Du rettest mich aus den Streitigkeiten ⟨des⟩ Volkes, du setzt mich zum Haupt der Nationen; ein Volk, das ich nicht kannte, dient mir.",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "Du rettest mich"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "aus den Streitigkeiten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨des⟩ Volkes"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "du setzt mich"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "zum Haupt"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "der Nationen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ich kannte"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "dient mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:46.946590960Z",
+  "model": "glm-5.2"
+}

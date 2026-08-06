@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und sie ließ sie an einem Seil durch das Fenster hinab, denn ihr Haus war in der Mauer ⟨eingebaut⟩, und an der Mauer wohnte sie.",
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "Und sie ließ sie hinab"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "an einem Seil"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "durch"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "das Fenster"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ihr Haus"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "in der Mauer"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "der Mauer"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "und an der Mauer"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "wohnte"
+    }
+  ],
+  "timestamp": "2026-08-05T20:53:31.546549953Z",
+  "model": "glm-5.2"
+}

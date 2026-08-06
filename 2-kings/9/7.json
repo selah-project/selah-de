@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und du wirst schlagen ⟨את⟩ das Haus Achabs, deines Herrn, und ich werde rächen das Blut meiner Knechte, der Nawiim, und das Blut aller Knechte JHWHs, aus der Hand Isewels.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "und du wirst schlagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus Achabs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabs"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "deines Herrn"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "und ich werde rächen"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "das Blut"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "meiner Knechte"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "der Nawiim"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "und das Blut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Knechte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isewels"
+    }
+  ],
+  "timestamp": "2026-08-06T01:33:19.494496124Z",
+  "model": "glm-5.2"
+}

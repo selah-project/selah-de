@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Ich dachte: Ich will sie versprengen, will ⟨ihre⟩ Erinnerung vor ⟨den⟩ Menschen vergehen lassen.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ich dachte"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "Ich will sie versprengen"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "will vergehen lassen"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "vor Menschen"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "Erinnerung"
+    }
+  ],
+  "timestamp": "2026-08-05T20:51:14.609559241Z",
+  "model": "glm-5.2"
+}

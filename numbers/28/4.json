@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "⟨את⟩ das eine Lamm sollst du bereiten am Morgen, und ⟨את⟩ das zweite Lamm sollst du bereiten zwischen den Abendzeiten.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das eine Lamm"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "das Lamm"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eine"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sollst du bereiten"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das zweite Lamm"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "das Lamm"
+    },
+    {
+      "surface": "השני",
+      "gloss": "zweite"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sollst du bereiten"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "den Abendzeiten"
+    }
+  ],
+  "timestamp": "2026-08-05T20:38:44.811001469Z",
+  "model": "glm-5.2"
+}

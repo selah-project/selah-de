@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ihr sollt meine Wache halten, ⟨um⟩ nicht ⟨zu⟩ tun von den Satzungen der Gräueltaten, die vor euch getan worden sind, und ihr sollt euch nicht durch sie unrein machen — ich bin JHWH, euer Elohim.",
+  "tokens": [
+    {
+      "surface": "וּשְׁמַרְתֶּ֣ם",
+      "gloss": "Und ihr sollt halten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Wache"
+    },
+    {
+      "surface": "מִשְׁמַרְתִּ֗י",
+      "gloss": "meine Wache"
+    },
+    {
+      "surface": "לְבִלְתִּ֨י",
+      "gloss": "⟨um⟩ nicht"
+    },
+    {
+      "surface": "עֲשׂ֜וֹת",
+      "gloss": "⟨zu⟩ tun"
+    },
+    {
+      "surface": "מֵחֻקּ֤וֹת",
+      "gloss": "von den Satzungen"
+    },
+    {
+      "surface": "הַתּֽוֹעֵבֹת֙",
+      "gloss": "der Gräueltaten"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נַעֲשׂ֣וּ",
+      "gloss": "getan worden sind"
+    },
+    {
+      "surface": "לִפְנֵיכֶ֔ם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תִֽטַּמְּא֖וּ",
+      "gloss": "sollt ihr unrein machen"
+    },
+    {
+      "surface": "בָּהֶ֑ם",
+      "gloss": "durch sie"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T08:22:23.100490229Z",
+  "model": "glm-5.2"
+}

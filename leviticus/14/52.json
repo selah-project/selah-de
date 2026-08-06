@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und er entsündigte ⟨את⟩ das Haus mit ⟨dem⟩ Blut des Vogels und mit ⟨dem⟩ lebenden Wasser und mit dem lebenden Vogel und mit ⟨dem⟩ Zedernholz und mit dem Esov und mit dem Scharlachfaden.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "und er entsündigte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mit ⟨dem⟩ Blut"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "des Vogels"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "und mit ⟨dem⟩ Wasser"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "des Lebenden"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "und mit ⟨dem⟩ Vogel"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "dem lebenden"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "und mit ⟨dem⟩ Holz"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "der Zeder"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "und mit dem Esov"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "und mit dem Scharlach(stoff)"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "des Wurms"
+    }
+  ],
+  "timestamp": "2026-08-06T05:19:58.798968172Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨es war⟩ ein Fundament ⟨aus⟩ kostbaren Steinen, großen Steinen — Steine von zehn Ellen und Steine von acht Ellen.",
+  "tokens": [
+    {
+      "surface": "וּמְיֻסָּ֕ד",
+      "gloss": "und ⟨ein⟩ Fundament"
+    },
+    {
+      "surface": "אֲבָנִ֥ים",
+      "gloss": "⟨aus⟩ Steinen"
+    },
+    {
+      "surface": "יְקָר֖וֹת",
+      "gloss": "kostbaren"
+    },
+    {
+      "surface": "אֲבָנִ֣ים",
+      "gloss": "Steinen"
+    },
+    {
+      "surface": "גְּדֹל֑וֹת",
+      "gloss": "großen"
+    },
+    {
+      "surface": "אַבְנֵי֙",
+      "gloss": "Steine von"
+    },
+    {
+      "surface": "עֶ֣שֶׂר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "אַמּ֔וֹת",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "וְאַבְנֵ֖י",
+      "gloss": "und Steine von"
+    },
+    {
+      "surface": "שְׁמֹנֶ֥ה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "אַמּֽוֹת",
+      "gloss": "Ellen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:50.837792381Z",
+  "model": "glm-5.2"
+}

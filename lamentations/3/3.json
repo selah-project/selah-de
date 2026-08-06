@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ja, gegen mich wendet er ⟨sich⟩ zurück, kehrt um seine Hand den ganzen Tag.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בי",
+      "gloss": "gegen mich"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wendet er zurück"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "kehrt um"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    }
+  ],
+  "timestamp": "2026-08-06T07:08:15.444137095Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 98,
+  "translation": "Ein Musikstück. Singt JHWH ⟨ein⟩ neues Lied, denn Wunder hat er getan, Rettung ihm ⟨brachte⟩ seine Rechte und sein heiliger Arm.",
+  "tokens": [
+    {
+      "surface": "מִזְמ֡וֹר",
+      "gloss": "Ein Musikstück"
+    },
+    {
+      "surface": "שִׁ֤ירוּ",
+      "gloss": "Singt"
+    },
+    {
+      "surface": "לַֽיהוָ֨ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שִׁ֣יר",
+      "gloss": "⟨ein⟩ Lied"
+    },
+    {
+      "surface": "חָ֭דָשׁ",
+      "gloss": "neues"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נִפְלָא֣וֹת",
+      "gloss": "Wunder"
+    },
+    {
+      "surface": "עָשָׂ֑ה",
+      "gloss": "hat er getan"
+    },
+    {
+      "surface": "הוֹשִֽׁיעָה",
+      "gloss": "Rettung"
+    },
+    {
+      "surface": "לּ֥וֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "יְ֝מִינ֗וֹ",
+      "gloss": "⟨brachte⟩ seine Rechte"
+    },
+    {
+      "surface": "וּזְר֥וֹעַ",
+      "gloss": "und sein"
+    },
+    {
+      "surface": "קָדְשֽׁוֹ",
+      "gloss": "heiliger Arm"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:08.652634585Z",
+  "model": "glm-5.2"
+}

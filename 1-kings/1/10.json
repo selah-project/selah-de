@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Aber ⟨את⟩ Natan, den Nawi, und Benajahu und ⟨את⟩ die Helden und ⟨את⟩ Schelomo, seinen Bruder, lud er nicht ein.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Aber ⟨את⟩",
+      "marks": "Natan, den Nawi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "den Nawi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "und Benajahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Helden"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "die Helden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Schelomo, seinen Bruder"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seinen Bruder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "lud er ein"
+    }
+  ],
+  "timestamp": "2026-08-05T21:24:47.486329071Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Und ⟨er⟩ machte ⟨את⟩ das Efod: Gold, Tekèleth und Argaman und Toschat des Scharlachwurms und gezwirnter Byssus.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "und machte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "das Efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "Tekèleth"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "und Argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "und Toschat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "des Scharlachwurms"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "und Byssus"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "gezwirnter"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:26.806630199Z",
+  "model": "glm-5.2"
+}

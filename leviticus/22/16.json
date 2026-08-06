@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "und ⟨sie⟩ ⟨dazu⟩ bringen, ⟨את⟩ die Schuld einer Verfehlung zu tragen, indem sie ⟨את⟩ ihre heiligen Gaben essen — denn ich bin JHWH, ⟨der⟩ sie heiligt.“",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "und ⟨sie⟩ bringen ⟨dazu⟩ zu tragen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "die Schuld"
+    },
+    {
+      "surface": "עון",
+      "gloss": "die Schuld"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "einer Verfehlung"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "indem sie essen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre heiligen Gaben"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "ihre heiligen Gaben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "heiligt ⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T00:28:50.180092244Z",
+  "model": "glm-5.2"
+}

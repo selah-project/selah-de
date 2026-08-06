@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und es geschah nach einigen Tagen, da trocknete der Bach aus, denn es war kein Regen im Land ⟨gefallen⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "nach dem Ende"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "⟨von⟩ Tagen"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "da trocknete aus"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "der Bach"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "היה",
+      "gloss": "war"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "Regen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:55.218496672Z",
+  "model": "glm-5.2"
+}

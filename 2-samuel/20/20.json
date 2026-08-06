@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Joaw antwortete und sagte: „Fern sei es, fern sei es mir, ⟨wenn⟩ ich verschlucke, und ⟨wenn⟩ ich zugrunde richte.“",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Und ⟨er⟩ antwortete"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Fern sei es"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "fern sei es"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨wenn⟩"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ich verschlucke"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "und ⟨wenn⟩"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ich zugrunde richte"
+    }
+  ],
+  "timestamp": "2026-08-06T02:53:50.497910787Z",
+  "model": "glm-5.2"
+}

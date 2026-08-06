@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Und ⟨mich⟩ hast du nicht gerufen, Jaakow, denn du bist meiner müde geworden, Jisraël.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "hast du gerufen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "bist du müde geworden"
+    },
+    {
+      "surface": "בי",
+      "gloss": "meiner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-06T01:49:19.728644268Z",
+  "model": "glm-5.2"
+}

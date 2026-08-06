@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Auf dem Pfad der Zedaka wandle ich, inmitten der Pfade des Rechtschlusses.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "Auf dem Pfad"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "der Zedaka"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "wandle ich"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "der Pfade"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "des Rechtschlusses"
+    }
+  ],
+  "timestamp": "2026-08-05T23:09:49.326962462Z",
+  "model": "glm-5.2"
+}

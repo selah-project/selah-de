@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und er sprach: „Was hast du getan? Die Stimme der Blute deines Bruders schreien zu mir von der Erde.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hast du getan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "der Blute"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "deines Bruders"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "schreien"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T21:05:11.292866516Z",
+  "model": "glm-5.2"
+}

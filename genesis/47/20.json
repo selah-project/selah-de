@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Und Josséf kaufte ⟨את⟩ die ganze Erde Mizrajims für Paro, denn ⟨die⟩ Mizrajim verkauften, jeder sein Feld, denn der Hunger war stark über ⟨ihnen⟩ geworden. Und die Erde wurde Paro ⟨gehören⟩.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "und kaufte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josséf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Erde Mizrajims"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajims"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "für Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "verkauften"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨die⟩ Mizrajim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "sein Feld"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "war stark"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "über ⟨ihnen⟩"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "der Hunger"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "und wurde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paro ⟨gehören⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T00:11:54.808846360Z",
+  "model": "glm-5.2"
+}

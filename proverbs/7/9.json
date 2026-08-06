@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "in der Dämmerung, am Abend des Tages, im Dunkel der Nacht und ⟨in⟩ Finsternis.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "in der Dämmerung"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "am Abend"
+    },
+    {
+      "surface": "יום",
+      "gloss": "des Tages"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "im Dunkel"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "der Nacht"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "und Finsternis"
+    }
+  ],
+  "timestamp": "2026-08-05T23:09:26.541609423Z",
+  "model": "glm-5.2"
+}

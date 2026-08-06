@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und Esaw wohnte im Bergland Seïr; Esaw, das ist Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Und wohnte"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "im Bergland"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "das ist"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-05T20:01:55.448070197Z",
+  "model": "glm-5.2"
+}

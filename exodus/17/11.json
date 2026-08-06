@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und es geschah: Sobald Mosche seine Hand erhob, wurde Jisra'el stark, und sobald er seine Hand sinken ließ, wurde Amalek stark.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sobald"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "erhob"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "wurde stark"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "und sobald"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "sinken ließ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "wurde stark"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-08-05T20:10:11.212035428Z",
+  "model": "glm-5.2"
+}

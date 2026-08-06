@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Und unser Vater sagte: „Kehrt zurück, kauft uns etwas Essen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "unser Vater"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "kehrt zurück"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kauft"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "etwas"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Essen"
+    }
+  ],
+  "timestamp": "2026-08-05T17:42:17.976642731Z",
+  "model": "glm-5.2"
+}

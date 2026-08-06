@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Da sagte ⟨ihr⟩ die Tochter des Paro: „Geh.“ Und das Mädchen ging und rief ⟨את⟩ die Mutter des Kindes.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Da sagte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ihr⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die Tochter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paros"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "Und … ging"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "das Mädchen"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "und rief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Mutter des Kindes"
+    },
+    {
+      "surface": "אם",
+      "gloss": "die Mutter"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "des Kindes"
+    }
+  ],
+  "timestamp": "2026-08-06T05:13:10.370989379Z",
+  "model": "glm-5.2"
+}

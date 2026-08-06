@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Da stand Jona auf und ging nach Ninwe, nach dem Wort JHWHs. Ninwe aber war eine große Stadt vor Elohim, eine Wegstrecke von drei Tagen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Da stand … auf"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und ging"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nach dem Wort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Ninwe aber"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "war"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "eine Stadt"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "große"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "eine Wegstrecke"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "von drei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tagen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:10:22.046265102Z",
+  "model": "glm-5.2"
+}

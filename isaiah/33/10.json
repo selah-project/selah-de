@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Jetzt werde ich aufstehen, spricht JHWH; jetzt werde ich mich erheben, jetzt werde ich ⟨mich⟩ aufrichten.",
+  "tokens": [
+    {
+      "surface": "עַתָּה",
+      "gloss": "Jetzt"
+    },
+    {
+      "surface": "אָקוּם",
+      "gloss": "werde ich aufstehen"
+    },
+    {
+      "surface": "יֹאמַר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עַתָּה",
+      "gloss": "jetzt"
+    },
+    {
+      "surface": "אֵרוֹמָם",
+      "gloss": "werde ich mich erheben"
+    },
+    {
+      "surface": "עַתָּה",
+      "gloss": "jetzt"
+    },
+    {
+      "surface": "אֶנָּשֵׂא",
+      "gloss": "werde ich ⟨mich⟩ aufrichten"
+    }
+  ],
+  "timestamp": "2026-08-06T20:32:26.904440852Z",
+  "model": "glm-5.2"
+}

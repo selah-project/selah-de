@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Ich kleide ⟨die⟩ Himmel in Dunkelheit und mache Sack ⟨zu⟩ ihrer Bedeckung.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Ich kleide"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨die⟩ Himmel"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "in Dunkelheit"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "und Sack"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "mache (ich)"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "ihrer Bedeckung"
+    }
+  ],
+  "timestamp": "2026-08-06T03:21:09.268982438Z",
+  "model": "glm-5.2"
+}

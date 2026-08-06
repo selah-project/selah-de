@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und der Mal'ach JHWHs sprach zu Elijahu: „Steig hinab ⟨את⟩ ihn, fürchte dich nicht vor seinem Angesicht.\" Und ⟨er⟩ stand auf und stieg hinab ⟨את⟩ ihn zu dem König.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "der Mal'ach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Steig hinab"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "fürchte dich"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "vor seinem Angesicht"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Und ⟨er⟩ stand auf"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "und stieg hinab"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    }
+  ],
+  "timestamp": "2026-08-06T22:41:03.432836312Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Schmuël hörte ⟨את⟩ alle Worte des Volkes und ⟨er⟩ sprach sie in den Ohren JHWHs.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Und hörte"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Worte des Volkes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "und sprach sie"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "in den Ohren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T20:23:39.383427571Z",
+  "model": "glm-5.2"
+}

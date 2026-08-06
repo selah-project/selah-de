@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Aharon und seine Söhne taten ⟨את⟩ alle ⟨die⟩ Worte, die JHWH geboten hatte, durch die Hand Mosches.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und es taten"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Worte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosches"
+    }
+  ],
+  "timestamp": "2026-08-05T20:21:22.013431354Z",
+  "model": "glm-5.2"
+}

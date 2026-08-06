@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 89:43",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Du hast die Rechte seiner Bedränger erhöht, ⟨du⟩ hast all seine Feinde frohlocken lassen.",
+  "tokens": [
+    {
+      "surface": "הֲ֭רִימוֹתָ",
+      "gloss": "du hast erhöht"
+    },
+    {
+      "surface": "יְמִ֣ין",
+      "gloss": "die Rechte"
+    },
+    {
+      "surface": "צָרָ֑יו",
+      "gloss": "seiner Bedränger"
+    },
+    {
+      "surface": "הִ֝שְׂמַ֗חְתָּ",
+      "gloss": "⟨du⟩ hast frohlocken lassen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אוֹיְבָֽיו",
+      "gloss": "seine Feinde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:36.288082778Z",
+  "model": "glm-5.2"
+}

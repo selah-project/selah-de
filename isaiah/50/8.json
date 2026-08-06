@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Nahe ist ⟨der⟩ mich gerechtspricht: Wer will mit mir rechten? Lasst uns zusammen treten! Wer ist der Herr meines Rechts? Er trete mir nahe!",
+  "tokens": [
+    {
+      "surface": "קָרוֹב֙",
+      "gloss": "nahe"
+    },
+    {
+      "surface": "מַצְדִּיקִ֔י",
+      "gloss": "ist 〈der〉 mich gerechtspricht"
+    },
+    {
+      "surface": "מִֽי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יָרִ֥יב",
+      "gloss": "will rechten"
+    },
+    {
+      "surface": "אִתִּ֖י",
+      "gloss": "mit mir"
+    },
+    {
+      "surface": "נַ֣עַמְדָה",
+      "gloss": "lasst uns treten"
+    },
+    {
+      "surface": "יָּ֑חַד",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "מִֽי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "בַ֥עַל",
+      "gloss": "ist der Herr"
+    },
+    {
+      "surface": "מִשְׁפָּטִ֖י",
+      "gloss": "meines Rechts"
+    },
+    {
+      "surface": "יִגַּ֥שׁ",
+      "gloss": "er trete nahe"
+    },
+    {
+      "surface": "אֵלָֽי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-05T21:54:58.607470398Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er nahm ⟨את⟩ das ganze Fett, das auf den Eingeweiden ⟨ist⟩, und ⟨את⟩ den Lappen der Leber und ⟨את⟩ die beiden Nieren und ⟨את⟩ ihr Fett, und Mosche ließ ⟨es⟩ aufsteigen auf dem Altar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "und nahm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Fett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "Fett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "den Eingeweiden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Lappen"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "den Lappen"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "der Leber"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die beiden Nieren"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "die beiden"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "Nieren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Fett"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ihr Fett"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "und ließ aufsteigen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "auf dem Altar"
+    }
+  ],
+  "timestamp": "2026-08-06T20:13:21.517445693Z",
+  "model": "glm-5.2"
+}

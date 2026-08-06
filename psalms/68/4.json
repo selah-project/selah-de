@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Und die Zaddikim sollen sich freuen, sie sollen jubeln vor ⟨dem⟩ Angesicht von Elohim, und sie sollen sich freuen mit Schmacha.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Und die Zaddikim"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sollen sich freuen"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "sie sollen jubeln"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨dem⟩ Angesicht von Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "und sie sollen sich freuen"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "mit Schmacha"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:11.963861274Z",
+  "model": "glm-5.2"
+}

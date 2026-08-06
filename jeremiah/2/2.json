@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 2:2",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Geh hin und rufe in die Ohren Jeruschalajims und sprich: So spricht JHWH: Ich gedenke an dich, die Chessed deiner Jugend, die Liebe deiner Brautzeit — dein Folgen hinter mir in der Wüste, im Land, das nicht besät ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "Geh hin"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "und rufe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "in die Ohren"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajims"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sprich"
+    },
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "ich gedenke"
+    },
+    {
+      "surface": "לך",
+      "gloss": "an dich"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "die Chessed"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "deiner Jugend"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "die Liebe"
+    },
+    {
+      "surface": "כלולתיך",
+      "gloss": "deiner Brautzeit"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "dein Folgen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hinter mir"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "das nicht"
+    },
+    {
+      "surface": "זרועה",
+      "gloss": "besät ⟨ist⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T03:24:17.052858265Z",
+  "model": "glm-5.2"
+}

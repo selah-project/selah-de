@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ⟨es wurde⟩ Dawid gemeldet, und er sammelte ⟨את⟩ ganz Jisraël, und er zog ⟨את⟩ den Jardan hinüber, und er kam nach Chelam. Und Aram stellte sich gegen Dawid auf, und sie kämpften mit ihm.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "und ⟨es wurde⟩ gemeldet"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "und er sammelte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganz Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "und er zog hinüber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jardan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "den Jardan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und er kam"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "nach Chelam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "und sie stellten sich auf"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "und sie kämpften"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T21:18:56.441477511Z",
+  "model": "glm-5.2"
+}

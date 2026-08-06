@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Sie merkt, dass ihr Gewinn gut ist — ⟨in⟩ der Nacht erlischt ⟨ihr⟩ ⟨die⟩ Lampe nicht.",
+  "tokens": [
+    {
+      "surface": "טָ֭עֲמָה",
+      "gloss": "Sie merkt"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "ט֣וֹב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "סַחְרָ֑הּ",
+      "gloss": "ihr Gewinn"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִכְבֶּ֖ה",
+      "gloss": "erlischt"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "⟨in⟩ der Nacht"
+    },
+    {
+      "surface": "נֵרָֽהּ",
+      "gloss": "⟨ihr⟩ ⟨die⟩ Lampe"
+    }
+  ],
+  "timestamp": "2026-08-05T23:15:46.647520612Z",
+  "model": "glm-5.2"
+}

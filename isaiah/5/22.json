@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 5:22",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Wehe ⟨den⟩ Helden ⟨im⟩ Wein-Trinken, und ⟨den⟩ Männern von Kraft ⟨im⟩ Mischen von Rauschtrank!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "⟨den⟩ Helden"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "⟨im⟩ Trinken"
+    },
+    {
+      "surface": "יין",
+      "gloss": "Wein"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "und ⟨den⟩ Männern"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "von Kraft"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "⟨im⟩ Mischen"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Rauschtrank"
+    }
+  ],
+  "timestamp": "2026-08-06T01:39:53.147661798Z",
+  "model": "glm-5.2"
+}

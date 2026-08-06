@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und das ganze Volk des Landes freute sich, und die Stadt war ruhig, und ⟨את⟩ Atalja töteten sie mit dem Schwert im Haus des Königs.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "und … freute sich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "und die Stadt"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "war ruhig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Atalja"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "töteten sie"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mit dem Schwert"
+    },
+    {
+      "surface": "בית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-06T05:55:32.800013953Z",
+  "model": "glm-5.2"
+}

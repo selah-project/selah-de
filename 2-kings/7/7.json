@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und sie standen auf und flohen in der Dämmerung, und sie ließen zurück ⟨את⟩ ihre Zelte und ⟨את⟩ ihre Pferde und ⟨את⟩ ihre Esel, das Lager, wie es ist, und flohen um ihrer Nefesch willen.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Und sie standen auf"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "und flohen"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "in der Dämmerung"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "und sie ließen zurück"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Zelte"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "ihre Zelte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Pferde"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ihre Pferde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Esel"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ihre Esel"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "das Lager"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "היא",
+      "gloss": "es ist"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "und flohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "um"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ihrer Nefesch willen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:09:35.199769934Z",
+  "model": "glm-5.2"
+}

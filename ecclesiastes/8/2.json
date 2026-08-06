@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Ich ⟨sage⟩: Den Mund ⟨des⟩ Königs ⟨sollst du⟩ bewahren, und ⟨das⟩ wegen ⟨des⟩ Wortes ⟨eines⟩ Schwur-Eides ⟨vor⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "Den Mund"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "⟨des⟩ Königs"
+    },
+    {
+      "surface": "שְׁמ֔וֹר",
+      "gloss": "⟨sollst du⟩ bewahren"
+    },
+    {
+      "surface": "וְעַ֕ל",
+      "gloss": "und ⟨das⟩ wegen"
+    },
+    {
+      "surface": "דִּבְרַ֖ת",
+      "gloss": "⟨des⟩ Wortes"
+    },
+    {
+      "surface": "שְׁבוּעַ֥ת",
+      "gloss": "⟨eines⟩ Schwur-Eides"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "⟨vor⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T19:54:18.390990615Z",
+  "model": "glm-5.2"
+}

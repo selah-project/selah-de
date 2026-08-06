@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und der ⟨Mann⟩, der ⟨את⟩ den Bock für Asasel loslässt, soll seine Kleider waschen und ⟨את⟩ sein Fleisch im Wasser baden, und danach darf er ins Lager kommen.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "Und der ⟨Mann⟩, der loslässt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Bock"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "den Bock"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "für Asasel"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "soll waschen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "und baden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Fleisch"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sein Fleisch"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "und danach"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨darauf⟩"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "darf er kommen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "das Lager"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:27.968718745Z",
+  "model": "glm-5.2"
+}

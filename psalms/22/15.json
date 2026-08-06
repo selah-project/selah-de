@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wie Wasser bin ich hingeschüttet, und ⟨es⟩ haben sich gelöst alle meine Gebeine. Mein Herz ⟨ist⟩ wie Wachs, zerschmolzen in meiner Mitte.",
+  "tokens": [
+    {
+      "surface": "כַּמַּ֥יִם",
+      "gloss": "wie Wasser"
+    },
+    {
+      "surface": "נִשְׁפַּכְתִּי֮",
+      "gloss": "bin ich hingeschüttet"
+    },
+    {
+      "surface": "וְהִתְפָּֽרְד֗וּ",
+      "gloss": "und ⟨es⟩ haben sich gelöst"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עַצְמ֫וֹתָ֥י",
+      "gloss": "meine Gebeine"
+    },
+    {
+      "surface": "הָיָ֣ה",
+      "gloss": "⟨ist⟩ geworden"
+    },
+    {
+      "surface": "לִ֭בִּי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "כַּדּוֹנָ֑ג",
+      "gloss": "wie Wachs"
+    },
+    {
+      "surface": "נָ֝מֵ֗ס",
+      "gloss": "zerschmolzen"
+    },
+    {
+      "surface": "בְּת֣וֹךְ",
+      "gloss": "in"
+    },
+    {
+      "surface": "מֵעָֽי",
+      "gloss": "meiner Mitte"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:02.372953428Z",
+  "model": "glm-5.2"
+}

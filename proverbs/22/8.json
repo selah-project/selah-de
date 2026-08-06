@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wer Unrecht sät, wird Unheil ernten, und ⟨der⟩ Stab seines Zornes wird vergehen.",
+  "tokens": [
+    {
+      "surface": "זוֹרֵעַ",
+      "gloss": "Wer sät"
+    },
+    {
+      "surface": "עַוְלָה",
+      "gloss": "Unrecht"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "wird ernten"
+    },
+    {
+      "surface": "אָוֶן",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "וְשֵׁבֶט",
+      "gloss": "und ⟨der⟩ Stab"
+    },
+    {
+      "surface": "עֶבְרָתוֹ",
+      "gloss": "seines Zornes"
+    },
+    {
+      "surface": "יִכְלֶה",
+      "gloss": "wird vergehen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:13:34.189474630Z",
+  "model": "glm-5.2"
+}

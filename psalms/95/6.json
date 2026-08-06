@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 95,
+  "translation": "Kommt, lasset uns anbeten und uns beugen, lasset uns knien vor JHWH, unserem Macher.",
+  "tokens": [
+    {
+      "surface": "בֹּאוּ",
+      "gloss": "Kommt"
+    },
+    {
+      "surface": "נִשְׁתַּחֲוֶה",
+      "gloss": "lasset uns anbeten"
+    },
+    {
+      "surface": "וְנִכְרָעָה",
+      "gloss": "und uns beugen"
+    },
+    {
+      "surface": "נִבְרְכָה",
+      "gloss": "lasset uns knien"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עֹשֵׂנוּ",
+      "gloss": "unserem Macher"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:38.074118523Z",
+  "model": "glm-5.2"
+}

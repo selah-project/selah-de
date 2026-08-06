@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 2:5",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Damit ich sie nicht ausziehe und nackt hinstelle wie am Tag ihrer Geburt, und sie lege wie die Wüste, und sie mache wie das dürre Land, und sie sterben lasse vor Durst.",
+  "tokens": [
+    {
+      "surface": "פֶּן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "אַפְשִׁיטֶ֣נָּה",
+      "gloss": "ich sie ausziehe"
+    },
+    {
+      "surface": "עֲרֻמָּ֔ה",
+      "gloss": "nackt"
+    },
+    {
+      "surface": "וְהִ֨צַּגְתִּ֔יהָ",
+      "gloss": "und hinstelle"
+    },
+    {
+      "surface": "כְּי֖וֹם",
+      "gloss": "wie am Tag"
+    },
+    {
+      "surface": "הִוָּֽלְדָ֑הּ",
+      "gloss": "ihrer Geburt"
+    },
+    {
+      "surface": "וְשַׂמְתִּ֣יהָ",
+      "gloss": "und sie lege"
+    },
+    {
+      "surface": "כַמִּדְבָּ֗ר",
+      "gloss": "wie die Wüste"
+    },
+    {
+      "surface": "וְשַׁתִּ֨הָ֙",
+      "gloss": "und sie mache"
+    },
+    {
+      "surface": "כְּאֶ֣רֶץ",
+      "gloss": "wie das Land"
+    },
+    {
+      "surface": "צִיָּ֔ה",
+      "gloss": "dürre"
+    },
+    {
+      "surface": "וַהֲמִתִּ֖יהָ",
+      "gloss": "und sie sterben lasse"
+    },
+    {
+      "surface": "בַּצָּמָֽא",
+      "gloss": "vor Durst"
+    }
+  ],
+  "timestamp": "2026-08-06T03:57:10.850289045Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und der ⟨eine⟩ sagte: „Lass dich bitten, und geh mit ⟨את⟩ deinen Knechten.“ Und er sagte: „Ich ⟨selbst⟩ werde gehen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "der ⟨eine⟩"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Lass dich bitten"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "und geh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Knechten"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "mit deinen Knechten"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "werde gehen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:34:32.383470340Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "⟨את⟩ dies dürft ihr essen von allem, was im Wasser ⟨ist⟩: alles, was Flossen und Schuppen hat, dürft ihr essen.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dies"
+    },
+    {
+      "surface": "זֶה֙",
+      "gloss": "dies"
+    },
+    {
+      "surface": "תֹּֽאכְל֔וּ",
+      "gloss": "dürft ihr essen"
+    },
+    {
+      "surface": "מִכֹּ֖ל",
+      "gloss": "von allem"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "was"
+    },
+    {
+      "surface": "בַּמָּ֑יִם",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "כֹּ֧ל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "was"
+    },
+    {
+      "surface": "ל֛וֹ",
+      "gloss": "hat"
+    },
+    {
+      "surface": "סְנַפִּ֥יר",
+      "gloss": "Flossen"
+    },
+    {
+      "surface": "וְקַשְׂקֶ֖שֶׂת",
+      "gloss": "und Schuppen"
+    },
+    {
+      "surface": "תֹּאכֵֽלוּ",
+      "gloss": "dürft ihr essen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:44:21.660416446Z",
+  "model": "glm-5.2"
+}

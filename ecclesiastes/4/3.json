@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und besser als beide ⟨ist⟩ der, ⟨את⟩ der noch nicht gewesen ist, der das böse Tun nicht gesehen hat, ⟨את⟩ das unter der Sonne getan wird.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "und besser"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "als beide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "der, der noch nicht gewesen ist"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "noch"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "היה",
+      "gloss": "gewesen ist"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gesehen hat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das böse Tun"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "das Tun"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "böse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "getan wird"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    }
+  ],
+  "timestamp": "2026-08-06T07:09:35.744862214Z",
+  "model": "glm-5.2"
+}

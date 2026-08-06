@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 26:18",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und er sprach: „Warum ⟨verfolgt⟩ mein Herr ⟨diesen⟩ seinen Knecht? Denn was habe ich getan, und was ⟨ist⟩ in meiner Hand Böses?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨diesen⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "⟨verfolgt⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨diesen⟩"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "seinen Knecht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "habe ich getan"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "und was"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "in meiner Hand"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Böses"
+    }
+  ],
+  "timestamp": "2026-08-06T20:25:20.533410940Z",
+  "model": "glm-5.2"
+}

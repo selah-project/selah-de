@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Du sollst ⟨einen⟩ Tauben nicht verfluchen, und vor ⟨einen⟩ Blinden sollst du kein Stolpern legen, und du sollst dich fürchten vor deinem Elohim — ich ⟨bin⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תְקַלֵּ֣ל",
+      "gloss": "sollst verfluchen"
+    },
+    {
+      "surface": "חֵרֵ֔שׁ",
+      "gloss": "Tauben"
+    },
+    {
+      "surface": "וְלִפְנֵ֣י",
+      "gloss": "und vor"
+    },
+    {
+      "surface": "עִוֵּ֔ר",
+      "gloss": "Blinden"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִתֵּ֖ן",
+      "gloss": "sollst legen"
+    },
+    {
+      "surface": "מִכְשֹׁ֑ל",
+      "gloss": "Stolpern"
+    },
+    {
+      "surface": "וְיָרֵ֥אתָ",
+      "gloss": "und du sollst fürchten"
+    },
+    {
+      "surface": "מֵּאֱלֹהֶ֖יךָ",
+      "gloss": "vor deinem Elohim"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T14:53:49.685484707Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Ein Wort sandte Adonai in Jaakow, und es fiel in Jisraël.",
+  "tokens": [
+    {
+      "surface": "דָּבָ֛ר",
+      "gloss": "ein Wort"
+    },
+    {
+      "surface": "שָׁלַ֥ח",
+      "gloss": "sandte"
+    },
+    {
+      "surface": "אֲדֹנָ֖י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בְּיַעֲקֹ֑ב",
+      "gloss": "in Jaakow"
+    },
+    {
+      "surface": "וְנָפַ֖ל",
+      "gloss": "und es fiel"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵֽל",
+      "gloss": "in Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-06T01:41:13.922628045Z",
+  "model": "glm-5.2"
+}

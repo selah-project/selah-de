@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und von deinem Schwert wirst du leben, und ⟨את⟩ deinen Bruder wirst du dienen. Und es wird geschehen: Wenn du dich losringst, wirst du sein Joch von deinem Nacken abschütteln.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Und von"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "deinem Schwert"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "wirst du leben"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Bruder"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "deinen Bruder"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "wirst du dienen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Und ⟨es⟩ wird geschehen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "du dich losringst"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "wirst du abschütteln"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "sein Joch"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "deinem Nacken"
+    }
+  ],
+  "timestamp": "2026-08-05T17:36:01.661301553Z",
+  "model": "glm-5.2"
+}

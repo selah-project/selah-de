@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 4:7",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und sie kamen in das Haus, er aber lag auf seinem Bett in seinem Schlafgemach, und sie schlugen ihn und töteten ihn und entfernten ⟨את⟩ sein Haupt, und sie nahmen ⟨את⟩ sein Haupt und gingen den Weg durch die Arava die ganze Nacht.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Und sie kamen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "in das Haus"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "er aber"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lag"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "seinem Bett"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "in ⟨seinem⟩ Gemach"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "seinem Schlafgemach"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "und sie schlugen ihn"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "und töteten ihn"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "und entfernten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Haupt"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sein Haupt"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "und sie nahmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Haupt"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sein Haupt"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "und gingen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "den Weg durch"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "die Arava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "Nacht"
+    }
+  ],
+  "timestamp": "2026-08-06T21:14:12.508933415Z",
+  "model": "glm-5.2"
+}

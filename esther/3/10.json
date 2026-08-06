@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und der König entfernte ⟨את⟩ sein Siegel von seiner Hand und gab ihn Haman, dem Sohn Hammedatas, dem Agagiter, dem Bedränger der Jehudim.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֧סַר",
+      "gloss": "Und es entfernte"
+    },
+    {
+      "surface": "הַמֶּ֛לֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sein Siegel"
+    },
+    {
+      "surface": "טַבַּעְתּ֖וֹ",
+      "gloss": "sein Siegel"
+    },
+    {
+      "surface": "מֵעַ֣ל",
+      "gloss": "von"
+    },
+    {
+      "surface": "יָד֑וֹ",
+      "gloss": "seiner Hand"
+    },
+    {
+      "surface": "וַֽיִּתְּנָ֗הּ",
+      "gloss": "und gab ihn"
+    },
+    {
+      "surface": "לְהָמָ֧ן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בֶּֽן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "הַמְּדָ֛תָא",
+      "gloss": "Hammedatas"
+    },
+    {
+      "surface": "הָאֲגָגִ֖י",
+      "gloss": "dem Agagiter"
+    },
+    {
+      "surface": "צֹרֵ֥ר",
+      "gloss": "Bedränger"
+    },
+    {
+      "surface": "הַיְּהוּדִֽים",
+      "gloss": "der Jehudim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:32:25.097880376Z",
+  "model": "glm-5.2"
+}

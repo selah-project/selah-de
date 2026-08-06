@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und JHWH sprach zu Mosche: „Geh zum Volk und heilige sie heute und morgen, und sie sollen ihre Gewänder waschen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "und heilige sie"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "und morgen"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "und sie sollen waschen"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ihre Gewänder"
+    }
+  ],
+  "timestamp": "2026-08-06T20:18:12.704591457Z",
+  "model": "glm-5.2"
+}

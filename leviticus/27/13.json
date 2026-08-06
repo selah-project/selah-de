@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und wenn ⟨er⟩ löst, soll ⟨er⟩ es lösen, und er soll sein Fünftel hinzufügen auf deinen Schätzwert.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "löst"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "soll ⟨er⟩ es lösen"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "und er soll hinzufügen"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "sein Fünftel"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "deinen Schätzwert"
+    }
+  ],
+  "timestamp": "2026-08-06T00:30:48.421286671Z",
+  "model": "glm-5.2"
+}

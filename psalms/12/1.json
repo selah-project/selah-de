@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Für den Chorsänger, nach der Achten. Ein Psalmdawid. Ein Maskil von den Söhnen Korachs.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Für den Chorsänger"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "הַשְּׁמִינִית",
+      "gloss": "der Achten"
+    },
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Ein Psalm"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T20:39:24.004476288Z",
+  "model": "glm-5.2"
+}

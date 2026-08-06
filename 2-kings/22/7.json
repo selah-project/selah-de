@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Nur ⟨soll⟩ das Silber, das in ihre Hand gegeben wurde, nicht mit ihnen verrechnet werden ⟨את־sie⟩, denn in Treue handeln sie.",
+  "tokens": [
+    {
+      "surface": "אַךְ",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יֵחָשֵׁב",
+      "gloss": "⟨soll⟩ verrechnet werden"
+    },
+    {
+      "surface": "אִתָּם",
+      "gloss": "⟨את־sie⟩",
+      "marks": "das Silber"
+    },
+    {
+      "surface": "הַכֶּסֶף",
+      "gloss": "das Silber"
+    },
+    {
+      "surface": "הַנִּתָּן",
+      "gloss": "das gegeben wurde"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "in"
+    },
+    {
+      "surface": "יָדָם",
+      "gloss": "ihre Hand"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בֶּאֱמוּנָה",
+      "gloss": "in Treue"
+    },
+    {
+      "surface": "הֵם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "עֹשִׂים",
+      "gloss": "handeln"
+    }
+  ],
+  "timestamp": "2026-08-06T20:31:51.279169556Z",
+  "model": "glm-5.2"
+}

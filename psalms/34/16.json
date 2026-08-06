@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Die Augen JHWHs ⟨sind⟩ auf den Gerechten gerichtet und ⟨seine⟩ Ohren auf ihr Schreien.",
+  "tokens": [
+    {
+      "surface": "עֵינֵ֣י",
+      "gloss": "Die Augen"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "צַדִּיקִ֑ים",
+      "gloss": "die Gerechten"
+    },
+    {
+      "surface": "וְ֝אָזְנָ֗יו",
+      "gloss": "und ⟨seine⟩ Ohren"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "שַׁוְעָתָֽם",
+      "gloss": "ihr Schreien"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:16.124428686Z",
+  "model": "glm-5.2"
+}

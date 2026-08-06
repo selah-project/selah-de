@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 50:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "„Mein Vater hat mich schwören lassen und gesagt: Siehe, ich sterbe. In meinem Grab, das ich mir gegraben habe im Land Kenaan, dort sollst du mich begraben. Und nun will ich hinaufziehen, ⟨bitte⟩, und ⟨את⟩ meinen Vater begraben, und ich werde zurückkehren.“",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "mein Vater"
+    },
+    {
+      "surface": "השביעני",
+      "gloss": "hat mich schwören lassen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und gesagt"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sterbe"
+    },
+    {
+      "surface": "בקברי",
+      "gloss": "in meinem Grab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "כריתי",
+      "gloss": "ich gegraben habe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dort"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "sollst du mich begraben"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "will ich hinaufziehen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨bitte⟩"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "und begraben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Vater"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meinen Vater"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "und ich werde zurückkehren"
+    }
+  ],
+  "timestamp": "2026-08-06T02:00:16.195031159Z",
+  "model": "glm-5.2"
+}

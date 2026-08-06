@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und am Tag, als ⟨man⟩ ⟨את⟩ den Mischkan aufrichtete, bedeckte die Wolke ⟨את⟩ den Mischkan, das Zelt des Zeugnisses, und am Abend war ⟨es⟩ über dem Mischkan wie das Aussehen von Feuer bis zum Morgen.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Und am Tag"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "aufrichtete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Mischkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "den Mischkan"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "bedeckte"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "die Wolke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Mischkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "den Mischkan"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "das Zelt"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "des Zeugnisses"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "und am Abend"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "war"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "dem Mischkan"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "wie das Aussehen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "von Feuer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "zum Morgen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:33:46.034294186Z",
+  "model": "glm-5.2"
+}

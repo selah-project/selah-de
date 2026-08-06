@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Beim Sterben eines Menschen, eines Rascha, geht die Hoffnung zugrunde, und die Erwartung der Starken ist zugrunde gegangen.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "Beim Sterben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "eines Menschen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "eines Rascha"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "geht zugrunde"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "die Hoffnung"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "und die Erwartung"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "der Starken"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "ist zugrunde gegangen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:38.334721719Z",
+  "model": "glm-5.2"
+}

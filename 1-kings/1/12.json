@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und nun, geh, ich will dir bitte einen Rat geben, und rette deine Nefesch und die Nefesch deines Sohnes Schelomo!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "geh"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ich will dir raten"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bitte"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "einen Rat"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "und rette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Nefesch"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "deine Nefesch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Nefesch deines Sohnes Schelomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die Nefesch"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "deines Sohnes"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    }
+  ],
+  "timestamp": "2026-08-05T21:24:47.486545894Z",
+  "model": "glm-5.2"
+}

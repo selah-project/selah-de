@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 26:13",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und du sollst sagen vor JHWH, deinem Elohim: „Ich habe das Geweihte ausgeräumt aus dem Haus, und auch habe ich es gegeben dem Lewi und dem Fremdling, der Waise und der Witwe, nach deinem ganzen Gebot, das du mir geboten hast. Ich habe nicht übertreten von deinen Geboten, und habe nicht vergessen.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "und du sollst sagen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinem Elohim"
+    },
+    {
+      "surface": "בערתי",
+      "gloss": "ich habe ausgeräumt"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "das Geweihte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dem Haus"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "habe ich es gegeben"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "dem Lewi"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "und dem Fremdling"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "der Waise"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "und der Witwe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nach deinem ganzen"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "Gebot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "צויתני",
+      "gloss": "du mir geboten hast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "habe ich übertreten"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "von deinen Geboten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "habe ich vergessen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:49:56.756707889Z",
+  "model": "glm-5.2"
+}

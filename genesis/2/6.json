@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨ein⟩ Dunst stieg auf von der Erde und tränkte ⟨את⟩ die ganze Oberfläche des Ackerbodens.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "und Dunst"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "stieg auf"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "und tränkte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Oberfläche"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Oberfläche"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "des Ackerbodens"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:19.305643089Z",
+  "model": "glm-5.2"
+}

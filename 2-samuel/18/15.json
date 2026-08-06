@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und zehn Burschen, die Träger von Joaws Geräten, umringten ⟨Abschalom⟩ und schlugen ⟨את⟩ Abschalom und töteten ihn.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "und sie umringten"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "Burschen"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "Träger von"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "Geräten"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaws"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "und sie schlugen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abschalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abschalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "und töteten ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T01:18:09.322429132Z",
+  "model": "glm-5.2"
+}

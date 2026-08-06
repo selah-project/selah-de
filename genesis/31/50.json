@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Wenn du ⟨את⟩ meine Töchter bedrängst, und wenn du Frauen nimmst über meine Töchter ⟨hinweg⟩ — ⟨da⟩ ⟨ist⟩ kein Mann bei uns: Sieh, Elohim ⟨ist⟩ Zeuge zwischen mir und dir!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "du bedrängst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Töchter"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "meine Töchter"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "du nimmst"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "Frauen"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "meine Töchter"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨da⟩ ⟨ist⟩ kein"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bei uns"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Sieh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Zeuge"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "zwischen mir"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "und zwischen dir"
+    }
+  ],
+  "timestamp": "2026-08-06T00:08:25.524966711Z",
+  "model": "glm-5.2"
+}

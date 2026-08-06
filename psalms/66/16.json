@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Kommt, hört, und ich will erzählen, alle, die ihr Elohim fürchtet, was er getan hat an meiner Nefesch.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hört"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "und ich will erzählen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "die ihr fürchtet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er getan hat"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "an meiner Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:59.205875577Z",
+  "model": "glm-5.2"
+}

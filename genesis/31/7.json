@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und euer Vater hat mich getäuscht und ⟨את⟩ meinen Lohn zehnmal gewechselt, aber Elohim hat ihm nicht erlaubt, mir zu schaden.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "Und euer Vater"
+    },
+    {
+      "surface": "התל",
+      "gloss": "hat getäuscht"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mich"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "und gewechselt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Lohn"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "meinen Lohn"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "hat erlaubt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "zu schaden"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T00:08:45.659202075Z",
+  "model": "glm-5.2"
+}

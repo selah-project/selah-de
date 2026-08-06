@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨es⟩ wurde in ihr gefunden: ein armer Mann, ein weiser, und ⟨er⟩ rettete durch seine Weisheit ⟨את⟩ die Stadt. Doch kein Mensch erinnerte sich ⟨an⟩ ⟨את⟩ jenen armen Mann.",
+  "tokens": [
+    {
+      "surface": "וּמָ֣צָא",
+      "gloss": "Und ⟨es⟩ wurde gefunden"
+    },
+    {
+      "surface": "בָ֗הּ",
+      "gloss": "in ihr"
+    },
+    {
+      "surface": "אִ֤ישׁ",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "מִסְכֵּן֙",
+      "gloss": "arm"
+    },
+    {
+      "surface": "חָכָ֔ם",
+      "gloss": "ein weiser"
+    },
+    {
+      "surface": "וּמִלַּט",
+      "gloss": "und ⟨er⟩ rettete"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Stadt"
+    },
+    {
+      "surface": "הָעִ֖יר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "בְּחָכְמָת֑וֹ",
+      "gloss": "durch seine Weisheit"
+    },
+    {
+      "surface": "וְאָדָם֙",
+      "gloss": "Doch ⟨kein⟩ Mensch"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "זָכַ֔ר",
+      "gloss": "erinnerte sich"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "jenen armen Mann"
+    },
+    {
+      "surface": "הָאִ֥ישׁ",
+      "gloss": "⟨an⟩ den Mann"
+    },
+    {
+      "surface": "הַמִּסְכֵּ֖ן",
+      "gloss": "armen"
+    },
+    {
+      "surface": "הַהּֽוּא",
+      "gloss": "jenen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:16.716420423Z",
+  "model": "glm-5.2"
+}

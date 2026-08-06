@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 8:12",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ein Heer wurde gegeben über das Ständige im Abfall, und es warf Emet zur Erde, und es handelte und hatte Erfolg.",
+  "tokens": [
+    {
+      "surface": "וצבא",
+      "gloss": "und ein Heer"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "wurde gegeben"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "das Ständige"
+    },
+    {
+      "surface": "בפשע",
+      "gloss": "im Abfall"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "und es warf"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Emet"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "und es handelte"
+    },
+    {
+      "surface": "והצליחה",
+      "gloss": "und hatte Erfolg"
+    }
+  ],
+  "timestamp": "2026-08-05T23:36:49.861575200Z",
+  "model": "glm-5.2"
+}

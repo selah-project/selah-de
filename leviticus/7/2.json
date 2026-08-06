@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "An dem Ort, wo man ⟨את⟩ die Ola schachtet, soll man ⟨את⟩ den Ascham schachten, und ⟨את⟩ sein Blut soll er ringsum an den Altar sprengen.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "An ⟨dem⟩ Ort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "man schachtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die Ola"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "soll man schachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Ascham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "den Ascham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein Blut"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sein Blut"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "soll er sprengen"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:29.168539268Z",
+  "model": "glm-5.2"
+}

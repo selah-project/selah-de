@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ich, ich sah, dass es einen Vorteil für die Weisheit gibt gegenüber der Torheit, wie der Vorteil des Lichts gegenüber der Finsternis.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "und ich sah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "dass es gibt"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "einen Vorteil"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "für die Weisheit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "der Torheit"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "wie der Vorteil"
+    },
+    {
+      "surface": "האור",
+      "gloss": "des Lichts"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "der Finsternis"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:53.025125151Z",
+  "model": "glm-5.2"
+}

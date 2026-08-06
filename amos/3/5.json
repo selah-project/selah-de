@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Fällt ein Vogel auf die Falle der Erde, und ⟨es ist⟩ kein Lockmittel für sie? Steigt die Falle vom Erdboden hoch, und ⟨es⟩ fängt nichts?",
+  "tokens": [
+    {
+      "surface": "הֲתִפֹּל",
+      "gloss": "Fällt"
+    },
+    {
+      "surface": "צִפּוֹר",
+      "gloss": "ein Vogel"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פַּח",
+      "gloss": "die Falle"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "וּמוֹקֵשׁ",
+      "gloss": "und ⟨ein⟩ Lockmittel"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "הֲיַֽעֲלֶה",
+      "gloss": "Steigt hoch"
+    },
+    {
+      "surface": "פַּח",
+      "gloss": "die Falle"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "vom"
+    },
+    {
+      "surface": "הָאֲדָמָה",
+      "gloss": "Erdboden"
+    },
+    {
+      "surface": "וְלָכֹד",
+      "gloss": "und ⟨es⟩ fängt"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִלְכֹּד",
+      "gloss": "[fängt]"
+    }
+  ],
+  "timestamp": "2026-08-05T22:35:12.040904896Z",
+  "model": "glm-5.2"
+}

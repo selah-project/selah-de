@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und ⟨את⟩ den Schwan und ⟨את⟩ den Pelikan und ⟨את⟩ den Geieradler,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Schwan"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "den Schwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Pelikan"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "den Pelikan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Geieradler"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "den Geieradler"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:02.529502935Z",
+  "model": "glm-5.2"
+}

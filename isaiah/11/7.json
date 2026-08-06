@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Kuh und Bär weiden beisammen, ⟨ihre⟩ Jungen lagern beisammen, und ⟨der⟩ Löwe frisst Stroh wie ⟨das⟩ Rind.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "und Kuh"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "und Bär"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "weiden"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "beisammen"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "lagern"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "⟨ihre⟩ Jungen"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "und ⟨der⟩ Löwe"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "wie ⟨das⟩ Rind"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "frisst"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "Stroh"
+    }
+  ],
+  "timestamp": "2026-08-06T03:13:26.511810728Z",
+  "model": "glm-5.2"
+}

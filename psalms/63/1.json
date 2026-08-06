@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 63,
+  "translation": "Ein Musikstück von Dawid, als er in der Wüste von Jehuda war.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Ein Musikstück"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "בִּהְיוֹתוֹ",
+      "gloss": "als ⟨er⟩ war"
+    },
+    {
+      "surface": "בְּמִדְבַּר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "von Jehuda"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:26.933889382Z",
+  "model": "glm-5.2"
+}

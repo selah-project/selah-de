@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Die Gerechten werden ⟨die⟩ Erde erben und für immer auf ihr wohnen.",
+  "tokens": [
+    {
+      "surface": "צַדִּיקִים",
+      "gloss": "Die Gerechten"
+    },
+    {
+      "surface": "יִירְשׁוּ",
+      "gloss": "werden erben"
+    },
+    {
+      "surface": "אָרֶץ",
+      "gloss": "⟨die⟩ Erde"
+    },
+    {
+      "surface": "וְיִשְׁכְּנוּ",
+      "gloss": "und werden wohnen"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "עָלֶיהָ",
+      "gloss": "auf ihr"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:16.416908318Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Unsere Väter haben gesündigt, sie sind ⟨nicht mehr⟩ — wir, ihre Schuldlasten ⟨haben wir⟩ getragen.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "Unsere Väter"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "haben gesündigt"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "sie sind nicht mehr"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wir"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ihre Schuldlasten"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "haben wir getragen"
+    }
+  ],
+  "timestamp": "2026-08-06T19:54:32.713007440Z",
+  "model": "glm-5.2"
+}

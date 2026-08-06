@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "zehn Rinder, gemästete, und zwanzig Rinder, Weide-⟨rinder⟩, und hundert Kleinvieh, außer dem Hirsch und der Gazelle und dem Damhirsch und den gemästeten ⟨Wachteln⟩.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Rinder"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "gemästete"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "und zwanzig"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Rinder"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "Weide-"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "und hundert"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "Kleinvieh"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "außer"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "dem Hirsch"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "und der Gazelle"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "und dem Damhirsch"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "und den gemästeten"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "⟨Wachteln⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:52.145903425Z",
+  "model": "glm-5.2"
+}

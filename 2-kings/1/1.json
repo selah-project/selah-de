@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Moab fiel ab von Jisra'el nach dem Tod Ahabs.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "und fiel ab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nach"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dem Tod"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabs"
+    }
+  ],
+  "timestamp": "2026-08-06T01:30:30.294571904Z",
+  "model": "glm-5.2"
+}

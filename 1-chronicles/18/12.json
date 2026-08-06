@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Awschaj, der Sohn der Zerujah, schlug ⟨את⟩ Edom im Tal des Salzes — achtzehntausend.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Und Awschaj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "der Sohn"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "der Zerujah"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "im Tal"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "des Salzes"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    }
+  ],
+  "timestamp": "2026-08-05T23:50:24.824795505Z",
+  "model": "glm-5.2"
+}

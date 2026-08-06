@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Schelomo baute ⟨את⟩ das Haus und vollendete es.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Und baute"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "und vollendete es"
+    }
+  ],
+  "timestamp": "2026-08-06T02:57:41.401334169Z",
+  "model": "glm-5.2"
+}

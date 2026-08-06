@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 53,
+  "translation": "Dort fürchteten sie sich in Schrecken — ⟨ein⟩ Schrecken, der nicht ⟨vorhanden⟩ war. Denn Elohim zerstreute die Gebeine deines Lagers. Du hast sie beschämt, denn Elohim hat sie verworfen.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "sie fürchteten sich"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "Schrecken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "היה",
+      "gloss": "war"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "Schrecken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "zerstreute"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "die Gebeine"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "deines Lagers"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "du hast beschämt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "hat sie verworfen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:43:04.222695762Z",
+  "model": "glm-5.2"
+}

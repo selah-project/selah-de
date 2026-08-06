@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und er fürchtete sich, stand auf und ging um seiner Nefesch willen, und er kam nach Be'er-Scheva, das Jehuda ⟨gehört⟩, und ließ ⟨את⟩ seinen Diener dort zurück.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "und er fürchtete sich"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "und stand auf"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und ging"
+    },
+    {
+      "surface": "אל",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "seiner Nefesch"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und er kam"
+    },
+    {
+      "surface": "באר",
+      "gloss": "nach Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Scheva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehuda ⟨gehört⟩"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "und ließ zurück"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Diener"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "seinen Diener"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-06T05:51:14.784789203Z",
+  "model": "glm-5.2"
+}

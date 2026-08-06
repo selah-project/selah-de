@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Deine Zedaka ⟨ist⟩ Zedek für immer, und deine Tora ⟨ist⟩ Emet.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Deine Zedaka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Zedek"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "und deine Tora"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Emet"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:53.469985592Z",
+  "model": "glm-5.2"
+}

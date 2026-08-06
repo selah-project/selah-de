@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Es fürchte vor JHWH alle ⟨Bewohner⟩ der Erde; vor Ihm schaudern alle Bewohner des Erdkreises.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Es fürchte"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "vor JHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "vor Ihm"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "schaudern"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "des Erdkreises"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:21.813700439Z",
+  "model": "glm-5.2"
+}

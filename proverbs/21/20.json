@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Ein begehrter Schatz und Öl ⟨sind⟩ in der Wohnung des Weisen, und ein törichter Mensch verschlingt es.",
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "Ein Schatz"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "begehrter"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "und Öl"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "in der Wohnung"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "des Weisen"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "und ein törichter"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "verschlingt es"
+    }
+  ],
+  "timestamp": "2026-08-06T06:56:32.958122750Z",
+  "model": "glm-5.2"
+}

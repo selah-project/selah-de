@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Toï, der König von Chamat, hörte, dass Dawid ⟨את⟩ die ganze Heeresmacht Hadadësers geschlagen hatte.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Und hörte"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toï"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "von Chamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "geschlagen hatte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Heeresmacht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "Heeresmacht"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadësers"
+    }
+  ],
+  "timestamp": "2026-08-06T02:50:46.975467536Z",
+  "model": "glm-5.2"
+}

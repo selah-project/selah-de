@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und ⟨du⟩ sollst sie auf die Pfosten deines Hauses schreiben und an deine Tore.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "und ⟨du⟩ sollst schreiben"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "die Pfosten"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "deines Hauses"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "und an deine Tore"
+    }
+  ],
+  "timestamp": "2026-08-06T00:43:16.089580768Z",
+  "model": "glm-5.2"
+}

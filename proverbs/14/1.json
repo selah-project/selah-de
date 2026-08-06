@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Die Weisheit von Frauen — ⟨sie⟩ hat ihr Haus gebaut, doch die Torheit reißt es mit ihren Händen ein.",
+  "tokens": [
+    {
+      "surface": "חַכְמ֣וֹת",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "נָ֭שִׁים",
+      "gloss": "von Frauen"
+    },
+    {
+      "surface": "בָּנְתָ֣ה",
+      "gloss": "hat gebaut"
+    },
+    {
+      "surface": "בֵיתָ֑הּ",
+      "gloss": "ihr Haus"
+    },
+    {
+      "surface": "וְ֝אִוֶּ֗לֶת",
+      "gloss": "doch die Torheit"
+    },
+    {
+      "surface": "בְּיָדֶ֥יהָ",
+      "gloss": "mit ihren Händen"
+    },
+    {
+      "surface": "תֶהֶרְסֶֽנּוּ",
+      "gloss": "reißt es ein"
+    }
+  ],
+  "timestamp": "2026-08-05T23:11:15.677395734Z",
+  "model": "glm-5.2"
+}

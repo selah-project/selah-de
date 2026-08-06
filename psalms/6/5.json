@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Kehre um, JHWH, rette meine Nefesch, rette mich um deines Chessed willen!",
+  "tokens": [
+    {
+      "surface": "שׁוּבָ֣ה",
+      "gloss": "Kehre um"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חַלְּצָ֣ה",
+      "gloss": "rette"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "ה֝וֹשִׁיעֵ֗נִי",
+      "gloss": "rette mich"
+    },
+    {
+      "surface": "לְמַ֣עַן",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "חַסְדֶּֽךָ",
+      "gloss": "deines Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:20.391440521Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Groß ⟨ist⟩ JHWH und sehr zu loben, in der Stadt unseres Elohim, ⟨dem⟩ Berg seiner Heiligkeit.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Groß"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "und zu loben"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unseres Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Berg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "seiner Heiligkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:17.510598326Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 18:22",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und sie sollen ⟨את⟩ das Volk richten zu jeder Zeit, und es soll sein: jede große Sache sollen sie zu dir bringen, und jede kleine Sache sollen sie selbst richten, und ⟨es⟩ wird leichter für dich, und sie werden ⟨die Last⟩ mit dir tragen.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "Und sie sollen richten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zu jeder"
+    },
+    {
+      "surface": "עת",
+      "gloss": "Zeit"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und es soll sein"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jede"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Sache"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "große"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "sollen sie bringen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und jede"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Sache"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kleine"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "sollen sie richten"
+    },
+    {
+      "surface": "הם",
+      "gloss": "selbst"
+    },
+    {
+      "surface": "והקל",
+      "gloss": "und ⟨es⟩ wird leichter"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "für dich"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "und sie werden tragen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "mit dir"
+    }
+  ],
+  "timestamp": "2026-08-06T14:50:24.386699400Z",
+  "model": "glm-5.2"
+}

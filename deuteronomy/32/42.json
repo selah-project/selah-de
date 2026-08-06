@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Ich tränke meine Pfeile mit Blut, und mein Schwert frisst Fleisch — mit Blut von Erschlagenen und Gefangenen, vom Haupt der Anführer des Feindes.",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "Ich tränke"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "meine Pfeile"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "mit Blut"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "und mein Schwert"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "frisst"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "mit Blut"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "von Erschlagenen"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "und Gefangenen"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "vom Haupt"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "der Anführer"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "des Feindes"
+    }
+  ],
+  "timestamp": "2026-08-05T20:51:57.080656174Z",
+  "model": "glm-5.2"
+}

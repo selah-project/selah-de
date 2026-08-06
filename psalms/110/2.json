@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 110,
+  "translation": "Den Stab deiner Macht wird JHWH senden von Zijon aus: „Herrsche inmitten deiner Feinde!“",
+  "tokens": [
+    {
+      "surface": "מַטֵּֽה",
+      "gloss": "den Stab"
+    },
+    {
+      "surface": "עֻזְּךָ֗",
+      "gloss": "deiner Macht"
+    },
+    {
+      "surface": "יִשְׁלַ֣ח",
+      "gloss": "wird senden"
+    },
+    {
+      "surface": "יְה֭וָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מִצִּיּ֑וֹן",
+      "gloss": "von Zijon aus"
+    },
+    {
+      "surface": "רְ֝דֵ֗ה",
+      "gloss": "Herrsche"
+    },
+    {
+      "surface": "בְּקֶ֣רֶב",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "אֹיְבֶֽיךָ",
+      "gloss": "deiner Feinde"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:04.298900707Z",
+  "model": "glm-5.2"
+}

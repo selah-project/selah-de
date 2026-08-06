@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Ich verstummte, in Stille; ich schwieg selbst vom Guten, und mein Schmerz ward aufgewühlt.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Ich verstummte"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "in Stille"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ich schwieg"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "selbst vom Guten"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "und mein Schmerz"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "ward aufgewühlt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:18.361897538Z",
+  "model": "glm-5.2"
+}

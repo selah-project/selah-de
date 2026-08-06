@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Ein brüllender Löwe und ein erpichter Bär — ⟨so ist⟩ ein rücksichtsloser Herrscher über ein dürftiges Volk.",
+  "tokens": [
+    {
+      "surface": "אֲרִי",
+      "gloss": "ein Löwe"
+    },
+    {
+      "surface": "נֹהֵם",
+      "gloss": "brüllender"
+    },
+    {
+      "surface": "וְדֹב",
+      "gloss": "und ein Bär"
+    },
+    {
+      "surface": "שׁוֹקֵק",
+      "gloss": "erpichteter"
+    },
+    {
+      "surface": "מֹשֵׁל",
+      "gloss": "Herrscher"
+    },
+    {
+      "surface": "רָשָׁע",
+      "gloss": "rücksichtsloser"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "דָּל",
+      "gloss": "dürftiges"
+    }
+  ],
+  "timestamp": "2026-08-06T04:31:02.863011770Z",
+  "model": "glm-5.2"
+}

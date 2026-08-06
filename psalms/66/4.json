@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Die ganze Erde wird sich vor dir niederwerfen und dir singen, sie wird deinem Namen singen. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Die ganze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "wird sich niederwerfen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "und singen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "sie wird singen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinem Namen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:49.635828121Z",
+  "model": "glm-5.2"
+}

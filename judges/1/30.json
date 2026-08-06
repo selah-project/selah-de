@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Sebulon vertrieb nicht ⟨את⟩ die Bewohner von Kitron und ⟨את⟩ die Bewohner von Nahalal, und der Kenaaniter wohnte in seiner Mitte, und sie wurden ⟨zu⟩ Fronarbeitern.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Sebulon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "vertrieb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Bewohner von Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "die Bewohner"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "von Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Bewohner von Nahalal"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "die Bewohner"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "von Nahalal"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und wohnte"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "der Kenaaniter"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in seiner Mitte"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "und sie wurden"
+    },
+    {
+      "surface": "למס",
+      "gloss": "zu Fronarbeitern"
+    }
+  ],
+  "timestamp": "2026-08-05T20:59:04.146008238Z",
+  "model": "glm-5.2"
+}

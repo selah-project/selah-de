@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Denn sie neigten gegen dich Böses; sie dachten eine Ränke aus — ⟨doch⟩ sie werden nicht können.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "sie neigten"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gegen dich"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "sie dachten aus"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "eine Ränke"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "sie werden können"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:43.283231320Z",
+  "model": "glm-5.2"
+}

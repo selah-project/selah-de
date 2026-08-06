@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "die in den Gräbern sitzen und in den Verstecken übernachten, die Schweinefleisch essen und ⟨von⟩ Verkommenem ⟨Speise⟩ — ihre Gefäße:",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "die sitzen"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "in den Gräbern"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "und in den Verstecken"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "übernachten"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "die essen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "das Schwein"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "und ⟨von⟩"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "Verkommenem"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "ihre Gefäße"
+    }
+  ],
+  "timestamp": "2026-08-06T06:04:48.056670601Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und jede Nefesch, die einen Verendeten oder Zerfleischten isst, ⟨gilt das⟩ beim Einheimischen wie beim Gär: ⟨Er⟩ soll seine Kleider waschen und sich im Wasser baden, und er ist unrein bis zum Abend, und dann ist er rein.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Und jede"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "isst"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "einen Verendeten"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "oder Zerfleischten"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "beim Einheimischen"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "wie beim Gär"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "⟨Er⟩ soll waschen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "und baden"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "und ist unrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "zum Abend"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "und ist rein"
+    }
+  ],
+  "timestamp": "2026-08-05T20:24:59.372961213Z",
+  "model": "glm-5.2"
+}

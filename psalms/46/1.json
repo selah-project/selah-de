@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Dem Chorleiter, den Söhnen Korachs, nach ›Alamot‹, ein Lied.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "קֹרַח",
+      "gloss": "Korachs"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "עֲלָמוֹת",
+      "gloss": "›Alamot‹"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "ein Lied"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:18.001041512Z",
+  "model": "glm-5.2"
+}

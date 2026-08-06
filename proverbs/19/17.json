@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Wer ⟨dem⟩ Armen Gnade erweist, leiht ⟨dem⟩ JHWH, und ⟨sein⟩ Wohltun wird Er ihm vergelten.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "leiht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "Gnade erweist"
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨dem⟩ Armen"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "und ⟨sein⟩ Wohltun"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "wird Er vergelten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T23:12:36.263184723Z",
+  "model": "glm-5.2"
+}

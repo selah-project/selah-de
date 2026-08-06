@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und wenn du dich weigerst ⟨sie⟩ ziehen zu lassen, siehe, ich schlage ⟨את⟩ dein ganzes Gebiet mit Fröschen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "du dich weigerst"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ziehen zu lassen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "schlage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein ganzes Gebiet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganzes"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "dein Gebiet"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "mit Fröschen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:10.381141818Z",
+  "model": "glm-5.2"
+}

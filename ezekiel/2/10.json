@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und er breitete sie vor mir aus, und sie ⟨war⟩ beschrieben vorne und hinten, und geschrieben ⟨standen⟩ darauf Klagelieder und Wehklage und Wehe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "und er breitete aus"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie (die Rolle)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor mir"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "beschrieben"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "vorne"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "und hinten"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "und geschrieben"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "Klagelieder"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "und Wehklage"
+    },
+    {
+      "surface": "והי",
+      "gloss": "und Wehe"
+    }
+  ],
+  "timestamp": "2026-08-06T09:01:39.805863136Z",
+  "model": "glm-5.2"
+}

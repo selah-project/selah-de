@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und ⟨die⟩ Einbrüche der Stadt Dawid saht ihr, denn sie waren zahlreich geworden, und ihr sammeltet ⟨את⟩ die Wasser des unteren Beckens.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Einbrüche"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "Einbrüche"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "saht ihr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "sie waren zahlreich geworden"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "und ihr sammeltet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wasser"
+    },
+    {
+      "surface": "מי",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "des Beckens"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "des unteren"
+    }
+  ],
+  "timestamp": "2026-08-06T01:43:17.694564355Z",
+  "model": "glm-5.2"
+}

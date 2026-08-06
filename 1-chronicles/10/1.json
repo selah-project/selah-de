@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und die Pelischtim kämpften gegen Jisra'el, und ⟨die⟩ Männer Jisra'els flohen vor den Pelischtim, und ⟨es⟩ fielen Erschlagene am Berg Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "und die Pelischtim"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "kämpften"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "gegen Jisra'el"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "und ⟨sie⟩ flohen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨die⟩ Männer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "den Pelischtim"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "und ⟨es⟩ fielen"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "Erschlagene"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "am Berg"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-06T07:20:58.317407886Z",
+  "model": "glm-5.2"
+}

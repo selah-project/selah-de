@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Womit reinigt ein junger Mann ⟨את⟩ seinen Weg? Um zu bewahren nach deinem Wort.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Womit"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "reinigt"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ein junger Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Weg"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "seinen Weg"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "um zu bewahren"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "nach deinem Wort"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:47.980206285Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ich werde euch wegführen aus ⟨dem Übrigen⟩ nach Dameszek, spricht JHWH, Elohim der Zebaot — ⟨sein⟩ Name.",
+  "tokens": [
+    {
+      "surface": "וְהִגְלֵיתִ֥י",
+      "gloss": "Und ich werde wegführen"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch (als Objekt der Wegführung)"
+    },
+    {
+      "surface": "מֵהָ֣לְאָה",
+      "gloss": "aus ⟨dem Übrigen⟩"
+    },
+    {
+      "surface": "לְדַמָּ֑שֶׂק",
+      "gloss": "nach Dameszek"
+    },
+    {
+      "surface": "אָמַ֛ר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֵֽי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "der Zebaot"
+    },
+    {
+      "surface": "שְׁמֽוֹ",
+      "gloss": "⟨sein⟩ Name"
+    }
+  ],
+  "timestamp": "2026-08-05T22:34:21.827519583Z",
+  "model": "glm-5.2"
+}

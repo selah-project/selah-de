@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 27:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Denn die befestigte Stadt steht einsam da, ⟨eine⟩ aufgegebene und verlassene Wohnstätte wie die Wüste. Dort weidet ein Kalb, und dort lagert ⟨es⟩ und frißt ihre Zweige kahl.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עִיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "בְּצוּרָה",
+      "gloss": "befestigte"
+    },
+    {
+      "surface": "בָּדָד",
+      "gloss": "einsam"
+    },
+    {
+      "surface": "נָוֶה",
+      "gloss": "Wohnstätte"
+    },
+    {
+      "surface": "מְשֻׁלָּח",
+      "gloss": "aufgegeben"
+    },
+    {
+      "surface": "וְנֶעֱזָב",
+      "gloss": "und verlassen"
+    },
+    {
+      "surface": "כַּמִּדְבָּר",
+      "gloss": "wie die Wüste"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "יִרְעֶה",
+      "gloss": "weidet"
+    },
+    {
+      "surface": "עֵגֶל",
+      "gloss": "ein Kalb"
+    },
+    {
+      "surface": "וְשָׁם",
+      "gloss": "und dort"
+    },
+    {
+      "surface": "יִרְבַּץ",
+      "gloss": "lagert"
+    },
+    {
+      "surface": "וְכִלָּה",
+      "gloss": "und frißt kahl"
+    },
+    {
+      "surface": "סְעִפֶיהָ",
+      "gloss": "ihre Zweige"
+    }
+  ],
+  "timestamp": "2026-08-06T01:44:48.910300733Z",
+  "model": "glm-5.2"
+}

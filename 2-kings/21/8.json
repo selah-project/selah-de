@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 21:8",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und ich werde den Fuß Jisraels nicht mehr vom Boden weichen lassen, den ich ihren Vätern gegeben habe — nur dass sie darauf achten, nach allem zu handeln, was ich ihnen geboten habe, und nach der ganzen Tora, die mein Knecht Mosche ⟨את⟩ ihnen geboten hat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "werde ich … hinzufügen"
+    },
+    {
+      "surface": "להניד",
+      "gloss": "weichen lassen"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "den Fuß"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dem Boden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ich gegeben habe"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ihren Vätern"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dass"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "sie darauf achten"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zu handeln"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nach allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "ich ihnen geboten habe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "und nach der ganzen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ihnen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mein Knecht"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    }
+  ],
+  "timestamp": "2026-08-06T01:37:31.481657207Z",
+  "model": "glm-5.2"
+}

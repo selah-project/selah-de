@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Er sende deine Hilfe vom Heiligtum, und vom Zijon aus stütze er dich.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Er sende"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "deine Hilfe"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "vom Heiligtum"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "und vom Zijon aus"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "stütze er dich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:59.021455352Z",
+  "model": "glm-5.2"
+}

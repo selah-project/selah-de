@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Awigajil gebar ⟨את⟩ Amasa, und der Vater Amasas ⟨war⟩ Jeter, der Jischmaëlit.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Und Awigajil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "und der Vater"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasas"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "der Jischmaëlit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:46:36.733762833Z",
+  "model": "glm-5.2"
+}

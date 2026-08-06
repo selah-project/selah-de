@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Denn alle seine Rechtsbestimmungen ⟨standen⟩ vor mir, und seine Ordnungen habe ich nicht von mir gewandt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "seine Rechtsbestimmungen"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "vor mir"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "und seine Ordnungen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "habe ich gewandt"
+    },
+    {
+      "surface": "מני",
+      "gloss": "von mir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:15.198564356Z",
+  "model": "glm-5.2"
+}

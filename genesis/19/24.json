@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und JHWH ließ regnen auf Sedom und auf Amora Schwefel und Feuer, von ⟨bei⟩ JHWH, vom Himmel her.",
+  "tokens": [
+    {
+      "surface": "וַֽיהוָ֗ה",
+      "gloss": "Und JHWH"
+    },
+    {
+      "surface": "הִמְטִ֧יר",
+      "gloss": "ließ regnen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "סְדֹ֛ם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "עֲמֹרָ֖ה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "גָּפְרִ֣ית",
+      "gloss": "Schwefel"
+    },
+    {
+      "surface": "וָאֵ֑שׁ",
+      "gloss": "und Feuer"
+    },
+    {
+      "surface": "מֵאֵ֥ת",
+      "gloss": "von ⟨bei⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הַשָּׁמָֽיִם",
+      "gloss": "dem Himmel"
+    }
+  ],
+  "timestamp": "2026-08-06T00:05:42.638731002Z",
+  "model": "glm-5.2"
+}

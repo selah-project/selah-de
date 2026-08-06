@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Diese sind die Festzeiten JHWHs, heilige Einberufungen, die ihr ausrufen sollt ⟨für⟩ ⟨את⟩ sie zu ihrer festgesetzten Zeit.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Diese"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "sind die Festzeiten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "Einberufungen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ihr ausrufen sollt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Festzeiten) zu ihrer festgesetzten Zeit"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "zu ihrer festgesetzten Zeit"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:20.573235218Z",
+  "model": "glm-5.2"
+}

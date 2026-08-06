@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Hört das Wort JHWHs, ihr Anführer von Sodom! Vernimmt ⟨die⟩ Tora unseres Elohim, ⟨ihr⟩ Volk von Gomorra!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hört"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "ihr Anführer"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "von Sodom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "Vernimmt"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unseres Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "von Gomorra"
+    }
+  ],
+  "timestamp": "2026-08-05T21:41:47.590601765Z",
+  "model": "glm-5.2"
+}

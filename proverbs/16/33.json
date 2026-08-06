@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "In den Gewandbausch wird ⟨man⟩ das Los werfen, und ⟨seine⟩ ganze Entscheidung ⟨kommt⟩ von JHWH.",
+  "tokens": [
+    {
+      "surface": "בַּ֭חֵיק",
+      "gloss": "In den Gewandbausch"
+    },
+    {
+      "surface": "יוּטַ֣ל",
+      "gloss": "wird geworfen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Los"
+    },
+    {
+      "surface": "הַגּוֹרָ֑ל",
+      "gloss": "das Los"
+    },
+    {
+      "surface": "וּ֝מֵיְהוָ֗ה",
+      "gloss": "und von JHWH"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "ganze"
+    },
+    {
+      "surface": "מִשְׁפָּטֽוֹ",
+      "gloss": "⟨seine⟩ Entscheidung"
+    }
+  ],
+  "timestamp": "2026-08-06T10:34:30.651085667Z",
+  "model": "glm-5.2"
+}

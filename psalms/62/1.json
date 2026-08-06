@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Für den Chorleiter, auf Jedutun. Ein Mizmor von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für den Chorleiter"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:35.935470878Z",
+  "model": "glm-5.2"
+}

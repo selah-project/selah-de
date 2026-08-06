@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "⟨Der⟩ die Balken seiner Obergemächer in den Wassern richtet ⟨ein⟩, ⟨der⟩ die Wolken zu seinem Wagen macht, ⟨der⟩ einhergeht auf den Flügeln der Ruach.",
+  "tokens": [
+    {
+      "surface": "הַ֥מְקָרֶֽה",
+      "gloss": "richtet ein"
+    },
+    {
+      "surface": "בַמַּ֗יִם",
+      "gloss": "in den Wassern"
+    },
+    {
+      "surface": "עֲֽלִיּ֫וֹתָ֥יו",
+      "gloss": "seiner Obergemächer"
+    },
+    {
+      "surface": "הַשָּׂם",
+      "gloss": "macht"
+    },
+    {
+      "surface": "עָבִ֥ים",
+      "gloss": "die Wolken"
+    },
+    {
+      "surface": "רְכוּב֑וֹ",
+      "gloss": "zu seinem Wagen"
+    },
+    {
+      "surface": "הַֽ֝מְהַלֵּ֗ךְ",
+      "gloss": "einhergeht"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כַּנְפֵי",
+      "gloss": "den Flügeln"
+    },
+    {
+      "surface": "רֽוּחַ",
+      "gloss": "der Ruach"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:33.340136800Z",
+  "model": "glm-5.2"
+}

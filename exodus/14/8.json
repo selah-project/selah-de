@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und JHWH stärkte ⟨את⟩ das Herz des Paro, des Königs von Mizrajim, und er jagte hinter den Söhnen Jisraels her; ⟨während⟩ die Söhne Jisraels auszogen mit erhobener Hand.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "und er stärkte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Herz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "des Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "von Mizrajim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "und er jagte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "auszogen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mit Hand"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "erhobener"
+    }
+  ],
+  "timestamp": "2026-08-06T00:15:41.234955895Z",
+  "model": "glm-5.2"
+}

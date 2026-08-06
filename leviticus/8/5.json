@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Mosche sprach zur Versammlung: „Dies ist die Sache, die JHWH zu tun geboten hat.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "der Versammlung"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ist die Sache"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zu tun"
+    }
+  ],
+  "timestamp": "2026-08-05T20:21:18.982405951Z",
+  "model": "glm-5.2"
+}

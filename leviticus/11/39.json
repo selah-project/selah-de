@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 11:39",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und wenn von dem Vieh stirbt, das euch ⟨zur⟩ Speise ⟨gegeben ist⟩ — wer sein Aas berührt, wird unrein bis zum Abend.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "stirbt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dem Vieh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨gegeben ist⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "⟨zur⟩ Speise"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wer berührt"
+    },
+    {
+      "surface": "בנבלתה",
+      "gloss": "sein Aas"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "wird unrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "zum Abend"
+    }
+  ],
+  "timestamp": "2026-08-05T20:22:30.717054036Z",
+  "model": "glm-5.2"
+}

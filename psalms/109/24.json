@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Meine Knie wanken vom Fasten, und mein Fleisch schwindet ohne Fett.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Meine Knie"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "wanken"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "vom Fasten"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "und mein Fleisch"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "schwindet"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ohne Fett"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:37.470794432Z",
+  "model": "glm-5.2"
+}

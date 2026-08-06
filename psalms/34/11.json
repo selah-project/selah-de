@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Junglöwen verarmten und hungerten, aber die JHWH Suchen, ⟨ihnen⟩ wird kein Gutes mangeln.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Junglöwen"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "verarmten"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "und hungerten"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "aber die Suchen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "wird mangeln"
+    },
+    {
+      "surface": "כל",
+      "gloss": "irgendein"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gutes"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:26.390319257Z",
+  "model": "glm-5.2"
+}

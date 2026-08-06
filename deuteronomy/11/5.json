@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und was ⟨er⟩ euch in der Wüste tat, bis ihr an diesen Ort kamt —",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "und was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "ihr kamt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "an"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨diesen⟩ Ort"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:43:34.743935918Z",
+  "model": "glm-5.2"
+}

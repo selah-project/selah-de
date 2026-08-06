@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und er richtete ⟨את⟩ Jisra'el dreiundzwanzig Jahre. Und er starb und wurde in Schamir begraben.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "und er richtete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zwanzig"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "und drei"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und er starb"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "und ⟨er⟩ wurde begraben"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "in Schamir"
+    }
+  ],
+  "timestamp": "2026-08-06T00:59:00.591650573Z",
+  "model": "glm-5.2"
+}

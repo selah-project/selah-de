@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "Dem, der ⟨sein⟩ Volk führte in der Wüste, denn für ewig ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Dem, der führte"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨sein⟩ Volk"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:02.481818064Z",
+  "model": "glm-5.2"
+}

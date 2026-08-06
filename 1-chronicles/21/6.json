@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Lewi und Binjamin musterte er nicht in ihrer Mitte, denn das Wort des Königs war verabscheut ⟨bei⟩ Joaw.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "und Lewi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "und Binjamin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "musterte"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "in ihrer Mitte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "war verabscheut"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨bei⟩",
+      "marks": "Joaw"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    }
+  ],
+  "timestamp": "2026-08-05T23:51:39.385155344Z",
+  "model": "glm-5.2"
+}

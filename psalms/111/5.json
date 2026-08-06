@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 111,
+  "translation": "Speise gab er seinen Ehrfürchtigen; ⟨er⟩ gedenkt für immer seines Brit.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "Speise"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gab"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "seinen Ehrfürchtigen"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "⟨er⟩ gedenkt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "seines Brit"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:20.392127356Z",
+  "model": "glm-5.2"
+}

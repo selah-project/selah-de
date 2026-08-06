@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und ⟨את⟩ seine Söhne sollst du heranbringen, und du sollst sie bekleiden mit Leibhemden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "sollst du heranbringen"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "und du sollst sie bekleiden"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mit Leibhemden"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:50.386901626Z",
+  "model": "glm-5.2"
+}

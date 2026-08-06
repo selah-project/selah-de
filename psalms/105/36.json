@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Und er schlug jeden Erstgeborenen in ihrem Land, den Erstling all ihrer Kraft.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Und er schlug"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "Erstgeborenen"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "in ihrem Land"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "den Erstling"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ihrer Kraft"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:28.136878375Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Und es sprach der König Tsidkijah: „Siehe, er ist in eurer Hand, denn ⟨es gibt⟩ nichts, was der König gegen euch ⟨את⟩ vermag.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und es sprach"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in eurer Hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nicht \/ ⟨es gibt⟩ nicht"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "vermag"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch — der König vermag gegen euch"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eine Sache \/ nichts"
+    }
+  ],
+  "timestamp": "2026-08-06T06:14:44.889888661Z",
+  "model": "glm-5.2"
+}

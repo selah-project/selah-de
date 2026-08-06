@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Den Fremden magst du eintreiben; was aber dein Bruder ⟨bei⟩ dir ⟨hat⟩, das soll deine Hand bei dir loslassen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Fremden"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "den Fremden"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "magst du eintreiben"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "was aber"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ist"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dein"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Bruder"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "deinen Bruder"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "soll loslassen"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:32.001854500Z",
+  "model": "glm-5.2"
+}

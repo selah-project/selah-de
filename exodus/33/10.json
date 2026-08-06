@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und ⟨es⟩ sah ganz das Volk ⟨את⟩ die Wolkensäule stehen am Eingang des Zelts, und ganz das Volk stand auf und warf sich nieder, jeder am Eingang seines Zeltes.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wolkensäule"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "die Säule"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "der Wolke"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stehen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am Eingang"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "des Zelts"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "und stand auf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "und warf sich nieder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am Eingang"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "seines Zeltes"
+    }
+  ],
+  "timestamp": "2026-08-06T00:21:30.301267659Z",
+  "model": "glm-5.2"
+}

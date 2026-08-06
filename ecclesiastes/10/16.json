@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Wehe dir, Land, dessen König ⟨ein⟩ Knabe ⟨ist⟩, und deine Fürsten am Morgen essen!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "dessen König"
+    },
+    {
+      "surface": "נער",
+      "gloss": "⟨ein⟩ Knappe"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "und deine Fürsten"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "essen"
+    }
+  ],
+  "timestamp": "2026-08-06T16:04:44.748818336Z",
+  "model": "glm-5.2"
+}

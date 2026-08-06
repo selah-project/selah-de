@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und Josef sprach zu ihnen am dritten Tag: „Tut dies, und ihr werdet leben — ⟨denn⟩ Elohim fürchte ich.“",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אֲלֵהֶם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "יוֹסֵף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בַּיּוֹם",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "הַשְּׁלִישִׁי",
+      "gloss": "dem dritten"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "dies"
+    },
+    {
+      "surface": "עֲשׂוּ",
+      "gloss": "tut"
+    },
+    {
+      "surface": "וִחְיוּ",
+      "gloss": "und ihr werdet leben"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "הָאֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יָרֵא",
+      "gloss": "fürchte"
+    }
+  ],
+  "timestamp": "2026-08-05T20:03:03.860205791Z",
+  "model": "glm-5.2"
+}

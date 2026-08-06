@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und er wusch ⟨את⟩ das Innere und ⟨את⟩ die Schienbeine, und er ließ ⟨es⟩ über der Ola auf dem Altar aufsteigen.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "und er wusch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Innere"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "das Innere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Schienbeine"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "die Schienbeine"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "und er ließ aufsteigen"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "der Ola"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "dem Altar"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:46.265668691Z",
+  "model": "glm-5.2"
+}

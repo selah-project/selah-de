@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 137,
+  "translation": "Wie sollen wir singen ⟨את⟩ das Lied JHWHs auf fremder Erde?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "sollen wir singen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Lied JHWHs"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "das Lied"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "fremder"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:04.937771413Z",
+  "model": "glm-5.2"
+}

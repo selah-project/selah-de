@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Dawid sprach zu Schaul: Warum hörst du ⟨auf⟩ ⟨את⟩ die Worte von Menschen, die sagen: „Siehe, Dawid sucht ⟨dein⟩ Unglück“?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "zu Schaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hörst du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "von Menschen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "die sagen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "sucht"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "dein Unglück"
+    }
+  ],
+  "timestamp": "2026-08-06T22:37:56.295116696Z",
+  "model": "glm-5.2"
+}

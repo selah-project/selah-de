@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und JHWH tat so, und es kam הערב (das Gewimmel), schwer, ⟨in⟩ das Haus des Paro und ⟨in⟩ das Haus seiner Knechte, und im ganzen Land Mizrajim wurde das Land vernichtet vor dem הערב (Gewimmel).",
+  "tokens": [
+    {
+      "surface": "וַיַּ֤עַשׂ",
+      "gloss": "und … tat"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כֵּ֔ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "וַיָּבֹא֙",
+      "gloss": "und es kam"
+    },
+    {
+      "surface": "עָרֹ֣ב",
+      "gloss": "הערב (das Gewimmel)"
+    },
+    {
+      "surface": "כָּבֵ֔ד",
+      "gloss": "schwer"
+    },
+    {
+      "surface": "בֵּ֥יתָה",
+      "gloss": "⟨in⟩ das Haus"
+    },
+    {
+      "surface": "פַרְעֹ֖ה",
+      "gloss": "des Paro"
+    },
+    {
+      "surface": "וּבֵ֣ית",
+      "gloss": "und ⟨in⟩ das Haus"
+    },
+    {
+      "surface": "עֲבָדָ֑יו",
+      "gloss": "seiner Knechte"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "und im ganzen"
+    },
+    {
+      "surface": "אֶ֧רֶץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "מִצְרַ֛יִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "תִּשָּׁחֵ֥ת",
+      "gloss": "wurde vernichtet"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "מִפְּנֵ֥י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "הֶעָרֹֽב",
+      "gloss": "dem הערב (Gewimmel)"
+    }
+  ],
+  "timestamp": "2026-08-06T08:18:42.065603260Z",
+  "model": "glm-5.2"
+}

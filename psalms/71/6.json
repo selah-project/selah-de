@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "Auf dich habe ich mich gestützt ⟨von⟩ Mutterleib an, ⟨von⟩ den Eingeweiden meiner Mutter ⟨bist⟩ du mein Hervorbringer; in dir ⟨ist⟩ mein Lob ständig.",
+  "tokens": [
+    {
+      "surface": "עָלֶ֤יךָ",
+      "gloss": "Auf dich"
+    },
+    {
+      "surface": "נִסְמַ֬כְתִּי",
+      "gloss": "habe ich mich gestützt"
+    },
+    {
+      "surface": "מִבֶּ֗טֶן",
+      "gloss": "⟨von⟩ Mutterleib an"
+    },
+    {
+      "surface": "מִמְּעֵ֣י",
+      "gloss": "⟨von⟩ den Eingeweiden"
+    },
+    {
+      "surface": "אִמִּ֣י",
+      "gloss": "meiner Mutter"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "גוֹזִ֑י",
+      "gloss": "mein Hervorbringer"
+    },
+    {
+      "surface": "בְּךָ֖",
+      "gloss": "in dir"
+    },
+    {
+      "surface": "תְהִלָּתִ֣י",
+      "gloss": "mein Lob"
+    },
+    {
+      "surface": "תָמִֽיד",
+      "gloss": "ständig"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:55.533771263Z",
+  "model": "glm-5.2"
+}

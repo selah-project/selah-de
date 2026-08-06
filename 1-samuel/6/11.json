@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und sie legten ⟨את⟩ die Lade JHWHs auf den Wagen und ⟨את⟩ die Kiste und ⟨את⟩ die goldenen Mäuse und ⟨את⟩ die Abbilder ihrer Beulen.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "und sie legten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade JHWHs"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "den Wagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Kiste"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "die Kiste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die goldenen Mäuse"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "die Mäuse"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goldenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Abbilder ihrer Beulen"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "die Abbilder"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "ihrer Beulen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:37:25.209574412Z",
+  "model": "glm-5.2"
+}

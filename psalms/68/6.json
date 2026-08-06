@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Vater der Waisen und Richter der Witwen ⟨ist⟩ Elohim in seiner heiligen Wohnung.",
+  "tokens": [
+    {
+      "surface": "אֲבִ֣י",
+      "gloss": "Vater"
+    },
+    {
+      "surface": "יְ֭תוֹמִים",
+      "gloss": "der Waisen"
+    },
+    {
+      "surface": "וְדַיַּ֣ן",
+      "gloss": "und Richter"
+    },
+    {
+      "surface": "אַלְמָנ֑וֹת",
+      "gloss": "der Witwen"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בִּמְע֥וֹן",
+      "gloss": "in ⟨seiner⟩ Wohnung"
+    },
+    {
+      "surface": "קָדְשֽׁוֹ",
+      "gloss": "seiner heiligen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:24.963491992Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨את⟩ den rechten Schenkel sollt ihr als Teruma dem Kohen geben, von den Schlachtopfern eurer Schelamim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den rechten Schenkel"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "den Schenkel"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "rechten"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "sollt ihr geben"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "als Teruma"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "dem Kohen"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "von den Schlachtopfern"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "eurer Schelamim"
+    }
+  ],
+  "timestamp": "2026-08-06T02:08:46.273484764Z",
+  "model": "glm-5.2"
+}

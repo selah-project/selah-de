@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "Und ⟨er⟩ ließ ⟨את⟩ ihr Unheil auf sie zurückkommen, und durch ihre Bosheit rottete er sie aus — rottete sie aus, JHWH, unser Elohim.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֤שֶׁב",
+      "gloss": "Und ⟨er⟩ ließ zurückkommen"
+    },
+    {
+      "surface": "עֲלֵיהֶ֨ם",
+      "gloss": "auf sie"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Unheil"
+    },
+    {
+      "surface": "אוֹנָ֗ם",
+      "gloss": "ihr Unheil"
+    },
+    {
+      "surface": "וּבְרָעָתָ֥ם",
+      "gloss": "und durch ihre Bosheit"
+    },
+    {
+      "surface": "יַצְמִיתֵ֑ם",
+      "gloss": "rottete er sie aus"
+    },
+    {
+      "surface": "יַ֝צְמִיתֵ֗ם",
+      "gloss": "rottete er sie aus"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֵֽינוּ",
+      "gloss": "unser Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:04.998079662Z",
+  "model": "glm-5.2"
+}

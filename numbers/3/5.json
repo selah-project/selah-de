@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und JHWH sprach zu Mosche ⟨und sagte⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und sagte⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T00:31:40.293811167Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Wasser strömten, ⟨die⟩ dichten Wolken; ⟨ein⟩ Stimme gaben die Wolkenfelder; auch deine Pfeile flogen dahin.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "strömten"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "⟨die⟩ dichten Wolken"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨eine⟩ Stimme"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gaben"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "Wolkenfelder"
+    },
+    {
+      "surface": "אף",
+      "gloss": "auch"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "deine Pfeile"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "flogen dahin"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:28.351553745Z",
+  "model": "glm-5.2"
+}

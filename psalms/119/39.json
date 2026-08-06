@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Lass vergehen meine Schmach, die ich gefürchtet ⟨habe⟩, denn deine Rechtsprüche sind gut.",
+  "tokens": [
+    {
+      "surface": "הַעֲבֵ֣ר",
+      "gloss": "Lass vergehen"
+    },
+    {
+      "surface": "חֶ֭רְפָּתִי",
+      "gloss": "meine Schmach"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יָגֹ֑רְתִּי",
+      "gloss": "ich gefürchtet habe"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מִשְׁפָּטֶ֣יךָ",
+      "gloss": "deine Rechtsprüche"
+    },
+    {
+      "surface": "טוֹבִֽים",
+      "gloss": "sind gut"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:06.659093679Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Schnell eilt der ⟨Gebückte⟩, um befreit zu werden, und er stirbt nicht ⟨hinab⟩ zur Grube, und sein Brot wird ihm nicht fehlen.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "schnell eilt"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "der ⟨Gebückte⟩"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "um befreit zu werden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "stirbt er"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "zur Grube"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "wird fehlen"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "sein Brot"
+    }
+  ],
+  "timestamp": "2026-08-05T21:55:33.896432847Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Geschlagen ist Ephrajim, ihre Wurzel ist verdorrt, Frucht bringen sie nicht mehr. Auch wenn sie gebären, so werde ich töten dieliebsten ⟨Kinder⟩ ihres Leibes.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "geschlagen ist"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "ihre Wurzel"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ist verdorrt"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "Frucht"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nicht mehr"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "bringen sie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "sie gebären"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "so werde ich töten"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "dieliebsten"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "⟨Kinder⟩ ihres Leibes"
+    }
+  ],
+  "timestamp": "2026-08-05T22:31:56.813055754Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ich werde mir zu Zeugen nehmen vertrauenswürdige Zeugen: ⟨את⟩ Urija, den Kohen, und ⟨את⟩ Secharja, den Sohn Jewerekjahus.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Und ich werde bezeugen lassen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "Zeugen"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "vertrauenswürdige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "den Kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Secharja"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Secharja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den Sohn"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jewerekjahus"
+    }
+  ],
+  "timestamp": "2026-08-06T08:51:24.656100683Z",
+  "model": "glm-5.2"
+}

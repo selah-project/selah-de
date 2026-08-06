@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Wälze von mir hinweg Schmach und Verachtung, denn deine Zeugnisse habe ich bewahrt.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Wälze hinweg"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "Schmach"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "und Verachtung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "deine Zeugnisse"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "habe ich bewahrt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:55.574720786Z",
+  "model": "glm-5.2"
+}

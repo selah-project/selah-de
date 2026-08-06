@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und wer ist der Mann, der sich eine Frau verlobt und sie nicht genommen hat? Er soll gehen und zu seinem Haus zurückkehren, damit er nicht im Krieg stirbt und ein anderer Mann sie nimmt.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Und wer"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ist der Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "sich verlobt hat"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "eine Frau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "genommen hat"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "Er soll gehen"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und zurückkehren"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "zu seinem Haus"
+    },
+    {
+      "surface": "פן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "er stirbt"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "im Krieg"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "und ein Mann"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ein anderer"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "sie nimmt"
+    }
+  ],
+  "timestamp": "2026-08-05T20:47:18.837966943Z",
+  "model": "glm-5.2"
+}

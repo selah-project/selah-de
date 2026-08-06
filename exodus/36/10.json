@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und er verband ⟨את⟩ die fünf Behangdecken, eine an die andere, und fünf Behangdecken verband er, eine an die andere.",
+  "tokens": [
+    {
+      "surface": "וַיְחַבֵּר",
+      "gloss": "Und er verband"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die fünf Behangdecken"
+    },
+    {
+      "surface": "חֲמֵשׁ",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "הַיְרִיעֹת",
+      "gloss": "Behangdecken"
+    },
+    {
+      "surface": "אַחַת",
+      "gloss": "eine"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "an"
+    },
+    {
+      "surface": "אֶחָת",
+      "gloss": "die andere"
+    },
+    {
+      "surface": "וְחָמֵשׁ",
+      "gloss": "und ⟨die⟩ fünf"
+    },
+    {
+      "surface": "יְרִיעֹת",
+      "gloss": "Behangdecken"
+    },
+    {
+      "surface": "חִבַּר",
+      "gloss": "verbindete"
+    },
+    {
+      "surface": "אַחַת",
+      "gloss": "eine"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "an"
+    },
+    {
+      "surface": "אֶחָת",
+      "gloss": "die andere"
+    }
+  ],
+  "timestamp": "2026-08-06T02:07:39.564829719Z",
+  "model": "glm-5.2"
+}

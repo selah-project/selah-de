@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Es sei die Herrlichkeit JHWHs für immer; JHWH freue sich in seinen Werken!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Es sei"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "die Herrlichkeit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "freue sich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "in seinen Werken"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:14.538735993Z",
+  "model": "glm-5.2"
+}

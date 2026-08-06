@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Bis wann, JHWH, habe ich geschrien, und du hörst nicht ⟨zu⟩? Ich rufe dir ⟨wegen⟩ Gewalt zu, und du rettest nicht.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "אָנָה",
+      "gloss": "wann"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שִׁוַּעְתִּי",
+      "gloss": "habe ich geschrien"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und ⟨du⟩ nicht"
+    },
+    {
+      "surface": "תִּשְׁמָע",
+      "gloss": "hörst"
+    },
+    {
+      "surface": "אֶזְעַק",
+      "gloss": "Ich rufe zu"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "dir"
+    },
+    {
+      "surface": "חָמָס",
+      "gloss": "Gewalt"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und ⟨du⟩ nicht"
+    },
+    {
+      "surface": "תוֹשִׁיעַ",
+      "gloss": "retttest"
+    }
+  ],
+  "timestamp": "2026-08-06T09:10:55.903302804Z",
+  "model": "glm-5.2"
+}

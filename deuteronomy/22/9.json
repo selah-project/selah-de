@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Du sollst deinen Weinberg nicht mit zweierlei besäen, damit nicht ⟨die ganze⟩ Ernte geheiligt werde — ⟨sowohl⟩ die Saat, die du säst, als auch der Ertrag des Weinbergs.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִזְרַ֥ע",
+      "gloss": "sollst du besäen"
+    },
+    {
+      "surface": "כַּרְמְךָ֖",
+      "gloss": "deinen Weinberg"
+    },
+    {
+      "surface": "כִּלְאָ֑יִם",
+      "gloss": "mit zweierlei"
+    },
+    {
+      "surface": "פֵּן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "תִּקְדַּ֗שׁ",
+      "gloss": "geheiligt werde"
+    },
+    {
+      "surface": "הַמְלֵאָ֤ה",
+      "gloss": "⟨die ganze⟩ Ernte"
+    },
+    {
+      "surface": "הַזֶּ֨רַע֙",
+      "gloss": "die Saat"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תִּזְרָ֔ע",
+      "gloss": "du säst"
+    },
+    {
+      "surface": "וּתְבוּאַ֖ת",
+      "gloss": "als auch der Ertrag"
+    },
+    {
+      "surface": "הַכָּֽרֶם",
+      "gloss": "des Weinbergs"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:12.866945768Z",
+  "model": "glm-5.2"
+}

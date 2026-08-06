@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 7:3",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Nun ⟨über⟩ dich das Ende! Und ich werde meinen Zorn senden auf dich und dich richten nach deinen Wegen und auf dich legen ⟨את⟩ all deine Gräuel.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "das Ende"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨über⟩ dich"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "Und ich werde senden"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "meinen Zorn"
+    },
+    {
+      "surface": "בך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "ושפטתיך",
+      "gloss": "und dich richten"
+    },
+    {
+      "surface": "כדרכיך",
+      "gloss": "nach deinen Wegen"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "und ⟨ich werde⟩ legen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all deine Gräuel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "deine Gräuel"
+    }
+  ],
+  "timestamp": "2026-08-05T22:17:05.068779052Z",
+  "model": "glm-5.2"
+}

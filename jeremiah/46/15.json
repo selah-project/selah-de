@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Warum ward dein Stier niedergeschabt? Er ⟨konnte⟩ nicht stehen, denn JHWH stieß ihn nieder.",
+  "tokens": [
+    {
+      "surface": "מַדּוּעַ",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "נִסְחַף",
+      "gloss": "ward niedergeschabt"
+    },
+    {
+      "surface": "אַבִּירֶיךָ",
+      "gloss": "dein Stier"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עָמַד",
+      "gloss": "stehen"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הֲדָפוֹ",
+      "gloss": "stieß ihn nieder"
+    }
+  ],
+  "timestamp": "2026-08-05T22:12:25.410826394Z",
+  "model": "glm-5.2"
+}

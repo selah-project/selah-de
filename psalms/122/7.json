@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 122,
+  "translation": "Es sei Schalom in deinen Mauern, Ruhe in deinen Palästen.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Es sei"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "in deinen Mauern"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "Ruhe"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "in deinen Palästen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:18.722498564Z",
+  "model": "glm-5.2"
+}

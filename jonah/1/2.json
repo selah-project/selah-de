@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "„Steh auf, geh nach Ninive, der großen Stadt, und rufe gegen sie, denn ihre Bosheit ist vor mein Angesicht hinaufgestiegen.“",
+  "tokens": [
+    {
+      "surface": "ק֠וּם",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "לֵ֧ךְ",
+      "gloss": "geh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "נִֽינְוֵ֛ה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "הָעִ֥יר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "הַגְּדוֹלָ֖ה",
+      "gloss": "großen"
+    },
+    {
+      "surface": "וּקְרָ֣א",
+      "gloss": "und rufe"
+    },
+    {
+      "surface": "עָלֶ֑יהָ",
+      "gloss": "gegen sie"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עָלְתָ֥ה",
+      "gloss": "ist hinaufgestiegen"
+    },
+    {
+      "surface": "רָעָתָ֖ם",
+      "gloss": "ihre Bosheit"
+    },
+    {
+      "surface": "לְפָנָֽי",
+      "gloss": "vor mein Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:00:57.036253269Z",
+  "model": "glm-5.2"
+}

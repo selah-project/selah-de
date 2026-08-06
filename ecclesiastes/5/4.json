@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Besser, dass du nicht gelobst, als dass du gelobst und nicht erfüllst.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dass"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "du gelobst"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "als dass du gelobst"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "erfüllst"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:06.810554475Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Ein wenig wird dein Knecht ⟨den⟩ Jardén überqueren, ⟨zusammen mit⟩ dem König, und warum sollte der König mir diese Vergeltung erweisen?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ein wenig"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "wird überqueren"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "dein Knecht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardén"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨zusammen mit⟩",
+      "marks": "dem König"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "und warum"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "sollte mir erweisen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "Vergeltung"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "diese"
+    }
+  ],
+  "timestamp": "2026-08-06T10:05:45.909889413Z",
+  "model": "glm-5.2"
+}

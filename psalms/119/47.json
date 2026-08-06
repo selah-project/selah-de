@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Und ich ergötze mich an deinen Mitzwot, die ich liebe.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "und ich ergötze mich"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "an deinen Mitzwot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ich liebe"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:49.276385916Z",
+  "model": "glm-5.2"
+}

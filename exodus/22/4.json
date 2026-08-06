@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wenn ein Mann ⟨das Vieh⟩ ⟨את⟩ ein Feld oder einen Weinberg abweiden lässt und es ⟨im⟩ Feld eines anderen weidet: vom Besten seines Feldes und vom Besten seines Weinbergs soll er erstatten.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "יַבְעֶר",
+      "gloss": "abweiden lässt"
+    },
+    {
+      "surface": "אִישׁ֙",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "שָׂדֶ֣ה",
+      "gloss": "ein Feld"
+    },
+    {
+      "surface": "א֥וֹ",
+      "gloss": "oder"
+    },
+    {
+      "surface": "כֶ֔רֶם",
+      "gloss": "einen Weinberg"
+    },
+    {
+      "surface": "וְשִׁלַּח֙",
+      "gloss": "und ⟨das Vieh⟩ eintrieb"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Vieh"
+    },
+    {
+      "surface": "בְעִירָה",
+      "gloss": "das Vieh"
+    },
+    {
+      "surface": "וּבִעֵ֖ר",
+      "gloss": "und ⟨es⟩ weidete"
+    },
+    {
+      "surface": "בִּשְׂדֵ֣ה",
+      "gloss": "im Feld"
+    },
+    {
+      "surface": "אַחֵ֑ר",
+      "gloss": "eines anderen"
+    },
+    {
+      "surface": "מֵיטַ֥ב",
+      "gloss": "vom Besten"
+    },
+    {
+      "surface": "שָׂדֵ֛הוּ",
+      "gloss": "seines Feldes"
+    },
+    {
+      "surface": "וּמֵיטַ֥ב",
+      "gloss": "und vom Besten"
+    },
+    {
+      "surface": "כַּרְמ֖וֹ",
+      "gloss": "seines Weinbergs"
+    },
+    {
+      "surface": "יְשַׁלֵּֽם",
+      "gloss": "soll er erstatten"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:40.459712936Z",
+  "model": "glm-5.2"
+}

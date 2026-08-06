@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 6:8",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Man bringe ein königliches Gewand, das der König getragen hat, und ⟨ein⟩ Pferd, auf dem der König geritten ist, und auf dessen Kopf eine Krone des Königtums gesetzt wird!",
+  "tokens": [
+    {
+      "surface": "יביאו",
+      "gloss": "Man bringe"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "ein Gewand"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "königliches"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "getragen hat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨es⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "und ⟨ein⟩ Pferd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "auf dem"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "geritten ist"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ⟨ihm⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "und auf dessen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gesetzt wird"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "eine Krone"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "des Königtums"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "auf ⟨dessen⟩ Kopf"
+    }
+  ],
+  "timestamp": "2026-08-06T07:11:40.531749802Z",
+  "model": "glm-5.2"
+}

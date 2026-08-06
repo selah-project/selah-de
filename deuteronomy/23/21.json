@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 23:21",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Dem Fremden darfst du Zins auferlegen, aber deinem Bruder darfst du ⟨keinen⟩ Zins auferlegen, damit JHWH, dein Elohim, dich segnet in allem, worauf du deine Hand richtest, auf das Land, dahin du kommst, um es in Besitz zu nehmen.",
+  "tokens": [
+    {
+      "surface": "לנכרי",
+      "gloss": "dem Fremden"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "darfst du Zins auferlegen"
+    },
+    {
+      "surface": "ולאחיך",
+      "gloss": "aber deinem Bruder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "darfst du Zins auferlegen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "dich segnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in allem"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "worauf du richtest"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommst"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dahin"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "um es in Besitz zu nehmen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:46:36.423733920Z",
+  "model": "glm-5.2"
+}

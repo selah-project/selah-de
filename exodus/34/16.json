@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "und du ⟨dann⟩ von seinen Töchtern ⟨welche⟩ deinen Söhern nimmst und seine Töchter ihren Göttern nachhuren und ⟨sie⟩ ⟨את⟩ deine Söhne ihren Göttern nachhurren lassen.",
+  "tokens": [
+    {
+      "surface": "וְלָקַחְתָּ֥",
+      "gloss": "und du nimmst"
+    },
+    {
+      "surface": "מִבְּנֹתָ֖יו",
+      "gloss": "von seinen Töchtern"
+    },
+    {
+      "surface": "לְבָנֶ֑יךָ",
+      "gloss": "deinen Söhnen"
+    },
+    {
+      "surface": "וְזָנ֣וּ",
+      "gloss": "und ⟨sie⟩ huren"
+    },
+    {
+      "surface": "בְנֹתָ֗יו",
+      "gloss": "seine Töchter"
+    },
+    {
+      "surface": "אַחֲרֵי֙",
+      "gloss": "nach"
+    },
+    {
+      "surface": "אֱלֹ֣הֵיהֶ֔ן",
+      "gloss": "ihren Göttern"
+    },
+    {
+      "surface": "וְהִזְנוּ֙",
+      "gloss": "und lassen huren"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "deine Söhne"
+    },
+    {
+      "surface": "בָּנֶ֔יךָ",
+      "gloss": "deine Söhne"
+    },
+    {
+      "surface": "אַחֲרֵ֖י",
+      "gloss": "nach"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶֽן",
+      "gloss": "ihren Göttern"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:16.009777860Z",
+  "model": "glm-5.2"
+}

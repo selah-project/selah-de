@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Wenn du deinem Nächsten irgendeine Darlehenssache gibst, sollst du nicht in sein Haus hineingehen, um sein Pfand zu pfänden.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תַשֶּׁ֥ה",
+      "gloss": "du gibst"
+    },
+    {
+      "surface": "בְרֵֽעֲךָ",
+      "gloss": "deinem Nächsten"
+    },
+    {
+      "surface": "מַשַּׁ֣את",
+      "gloss": "eine Darlehenssache"
+    },
+    {
+      "surface": "מְא֑וּמָה",
+      "gloss": "irgendeine"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תָבֹ֥א",
+      "gloss": "sollst du hineingehen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בֵּית֖וֹ",
+      "gloss": "sein Haus"
+    },
+    {
+      "surface": "לַעֲבֹ֥ט",
+      "gloss": "um zu pfänden"
+    },
+    {
+      "surface": "עֲבֹטֽוֹ",
+      "gloss": "sein Pfand"
+    }
+  ],
+  "timestamp": "2026-08-06T14:57:10.736489101Z",
+  "model": "glm-5.2"
+}

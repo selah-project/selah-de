@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 1:1",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und es geschah im dreißigsten Jahr, im vierten, am fünften des Monats, und ich war inmitten der Gola am Fluss Kewar, da öffneten sich die Himmel, und ich sah Erscheinungen von Elohim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "im dreißigsten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahr"
+    },
+    {
+      "surface": "ברביעי",
+      "gloss": "im vierten"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "am fünften"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "der Gola"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Fluss"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Kewar"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "öffneten sich"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die Himmel"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "und ich sah"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "Erscheinungen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "von Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T09:01:07.114249608Z",
+  "model": "glm-5.2"
+}

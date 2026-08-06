@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und zwölf Löwen standen dort auf den sechs Stufen, auf dieser und auf jener Seite; ⟨so etwas⟩ wurde für kein ⟨anderes⟩ Königreich gemacht.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "und zwölf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨zwölf⟩"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "Löwen"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "standen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "שש",
+      "gloss": "den sechs"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Stufen"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "auf dieser"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "und auf jener Seite"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "wurde gemacht"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so etwas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "für ⟨kein⟩"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "Königreich"
+    }
+  ],
+  "timestamp": "2026-08-05T21:29:08.307465496Z",
+  "model": "glm-5.2"
+}

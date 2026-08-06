@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Dich sahen ⟨die⟩ Wasser, Elohim; dich sahen ⟨die⟩ Wasser, sie gerieten in Wehen; auch ⟨die⟩ Urfluten erzitterten.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "dich sahen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "dich sahen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "gerieten in Wehen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "auch"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "erzitterten"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "Urfluten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:28.351158229Z",
+  "model": "glm-5.2"
+}

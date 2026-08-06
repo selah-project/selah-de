@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "und ⟨את⟩ die Decke aus Widderfellen, den rotgefärbten, und ⟨את⟩ die Decke aus Tachasch-Fellen und ⟨את⟩ den Vorhang des Schirmvorhangs.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Decke aus Widderfellen"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "die Decke"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "aus Fellen"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "der Widder"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "den rotgefärbten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Decke aus Tachasch-Fellen"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "die Decke"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "aus Fellen"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "der Tachasch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Vorhang"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "den Vorhang"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "des Schirmvorhangs"
+    }
+  ],
+  "timestamp": "2026-08-06T00:23:10.852580226Z",
+  "model": "glm-5.2"
+}

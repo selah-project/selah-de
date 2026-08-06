@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨את⟩ das Haus Jehuda werde ich erbarmen, und ich werde sie retten durch JHWH, ihren Elohim, und nicht werde ich sie retten durch Bogen und durch Schwert und durch Krieg, durch Rosse und durch Reiter.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "werde ich erbarmen"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "und ich werde sie retten"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "durch JHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ihren Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "werde ich sie retten"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "durch Bogen"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "und durch Schwert"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "und durch Krieg"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "durch Rosse"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "und durch Reiter"
+    }
+  ],
+  "timestamp": "2026-08-05T22:30:26.812035277Z",
+  "model": "glm-5.2"
+}

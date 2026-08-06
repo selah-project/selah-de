@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨את⟩ Haschawja und mit ihm Jeschaja, von den Söhnen Meraris, seine Brüder und ihre Söhne, zwanzig.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haschawja"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Haschawja"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "und mit ihm"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Jeschaja"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "von den Söhnen"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Meraris"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "und ihre Söhne"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zwanzig"
+    }
+  ],
+  "timestamp": "2026-08-06T16:05:12.743367303Z",
+  "model": "glm-5.2"
+}

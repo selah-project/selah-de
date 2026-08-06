@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 6:15",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Denn ein eifersüchtiger ⟨Gott⟩ ist JHWH, dein Elohim, in deiner Mitte — damit sich nicht entzündet der Zorn JHWHs, deines Elohim, gegen dich und er dich vertilgt von der Fläche der Erde.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אֵ֥ל",
+      "gloss": "ein ⟨Gott⟩"
+    },
+    {
+      "surface": "קַנָּ֛א",
+      "gloss": "eifersüchtiger"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "בְּקִרְבֶּ֑ךָ",
+      "gloss": "in deiner Mitte"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "יֶ֠חֱרֶה",
+      "gloss": "sich entzündet"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "der Zorn"
+    },
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אֱלֹהֶ֨יךָ֙",
+      "gloss": "deines Elohim"
+    },
+    {
+      "surface": "בָּ֔ךְ",
+      "gloss": "gegen dich"
+    },
+    {
+      "surface": "וְהִשְׁמִ֣ידְךָ֔",
+      "gloss": "und er dich vertilgt"
+    },
+    {
+      "surface": "מֵעַ֖ל",
+      "gloss": "von"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "der Fläche"
+    },
+    {
+      "surface": "הָאֲדָמָֽה",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T08:28:09.947325519Z",
+  "model": "glm-5.2"
+}

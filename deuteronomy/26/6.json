@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und die Mizrim taten uns ⟨את⟩ Böses an und unterdrückten uns, und sie legten auf uns harte Fronarbeit.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "Und sie taten Böses an"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "uns"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "die Mizrim"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "und unterdrückten uns"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "und sie legten"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "auf uns"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "Fronarbeit"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "harte"
+    }
+  ],
+  "timestamp": "2026-08-06T00:47:03.625703179Z",
+  "model": "glm-5.2"
+}

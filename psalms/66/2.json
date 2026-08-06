@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Singt dem Ruhm seines Namens, gebt seinem Lob Glanz.",
+  "tokens": [
+    {
+      "surface": "זַמְּר֥וּ",
+      "gloss": "Singt"
+    },
+    {
+      "surface": "כְּבֽוֹד",
+      "gloss": "dem Ruhm"
+    },
+    {
+      "surface": "שְׁמ֑וֹ",
+      "gloss": "seines Namens"
+    },
+    {
+      "surface": "שִׂ֥ימוּ",
+      "gloss": "gebt"
+    },
+    {
+      "surface": "כָ֝ב֗וֹד",
+      "gloss": "Glanz"
+    },
+    {
+      "surface": "תְּהִלָּתֽוֹ",
+      "gloss": "seinem Lob"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:33.336340510Z",
+  "model": "glm-5.2"
+}

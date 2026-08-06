@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und die Söhne Chets antworteten ⟨את⟩ Awraham, indem sie ihm sagten:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Und antworteten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem sie sagten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T09:41:14.565109674Z",
+  "model": "glm-5.2"
+}

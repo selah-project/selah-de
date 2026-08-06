@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und sie stiegen von der Höhe ⟨hinab⟩, ⟨in⟩ die Stadt, und ⟨er⟩ redete mit Schaul auf dem Dach.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Und sie stiegen hinab"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "von der Höhe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "und ⟨er⟩ redete"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "dem Dach"
+    }
+  ],
+  "timestamp": "2026-08-06T19:35:08.484102705Z",
+  "model": "glm-5.2"
+}

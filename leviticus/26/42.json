@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und ich werde ⟨את⟩ meinen Brit mit Jaakow gedenken und auch ⟨את⟩ meinen Brit mit Jizchak und auch ⟨את⟩ meinen Brit mit Awraham werde ich gedenken, und das Land werde ich gedenken.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "und ich werde gedenken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Brit"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "meinen Brit"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "mit Jaakow"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Brit"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "meinen Brit"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "mit Jizchak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Brit"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "meinen Brit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "mit Awraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "werde ich gedenken"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "und das Land"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "werde ich gedenken"
+    }
+  ],
+  "timestamp": "2026-08-06T05:22:12.444984834Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Ein Beisasse und ein Lohnarbeiter sollen nicht davon essen.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "Ein Beisasse"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "und ein Lohnarbeiter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sollen essen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "davon"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:51.880080160Z",
+  "model": "glm-5.2"
+}

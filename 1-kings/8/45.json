@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "dann höre ⟨du⟩ in den Himmeln ⟨את⟩ ihr Gebet und ⟨את⟩ ihr Flehen, und verschaffe ihnen Recht.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dann höre"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "in den Himmeln"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Gebet"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ihr Gebet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihr Flehen"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ihr Flehen"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "und verschaffe"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ihnen Recht"
+    }
+  ],
+  "timestamp": "2026-08-06T01:24:36.517660470Z",
+  "model": "glm-5.2"
+}

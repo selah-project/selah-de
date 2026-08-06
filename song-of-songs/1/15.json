@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Siehe, du bist schön, meine Freundin, siehe, du bist schön, deine Augen sind Tauben.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "du bist schön"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "meine Freundin"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "du bist schön"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "deine Augen"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "sind Tauben"
+    }
+  ],
+  "timestamp": "2026-08-05T23:25:48.932447380Z",
+  "model": "glm-5.2"
+}

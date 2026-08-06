@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Und du, JHWH, du wirst über sie lachen, du wirst spotten über alle Völker.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Und du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "du wirst lachen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "über sie"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "du wirst spotten"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "über alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Völker"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:05.320561557Z",
+  "model": "glm-5.2"
+}

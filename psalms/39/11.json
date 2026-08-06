@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Wende ab von mir deinen Schlag — vom Andrang deiner Hand bin ich dahingerafft.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "wende ab"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "deinen Schlag"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "vom Andrang"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deiner Hand"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "bin dahingerafft"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:19.764236638Z",
+  "model": "glm-5.2"
+}

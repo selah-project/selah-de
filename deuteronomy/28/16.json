@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Verflucht bist du in der Stadt, und verflucht bist du auf dem Feld.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "und verflucht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "auf dem Feld"
+    }
+  ],
+  "timestamp": "2026-08-06T20:15:20.110245495Z",
+  "model": "glm-5.2"
+}

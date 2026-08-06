@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Mit vollkommenem Hasse hasse ich sie; zu Feinden sind sie mir geworden.",
+  "tokens": [
+    {
+      "surface": "תַּכְלִ֣ית",
+      "gloss": "Mit Vollendung"
+    },
+    {
+      "surface": "שִׂנְאָ֣ה",
+      "gloss": "Hass"
+    },
+    {
+      "surface": "שְׂנֵאתִ֑ים",
+      "gloss": "hasse ich sie"
+    },
+    {
+      "surface": "לְ֝אוֹיְבִ֗ים",
+      "gloss": "zu Feinden"
+    },
+    {
+      "surface": "הָ֣יוּ",
+      "gloss": "sind sie geworden"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:31.884969895Z",
+  "model": "glm-5.2"
+}

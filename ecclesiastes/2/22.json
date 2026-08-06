@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Denn was ⟨bleibt⟩ ⟨dem⟩ Menschen von all seiner Mühe und vom Sinnen seines Herzens, mit dem er sich müht unter der Sonne?",
+  "tokens": [
+    {
+      "surface": "כִּ֠י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מֶֽה",
+      "gloss": "was"
+    },
+    {
+      "surface": "הֹוֶ֤ה",
+      "gloss": "⟨bleibt⟩"
+    },
+    {
+      "surface": "לָֽאָדָם֙",
+      "gloss": "⟨dem⟩ Menschen"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "von all"
+    },
+    {
+      "surface": "עֲמָל֔וֹ",
+      "gloss": "seiner Mühe"
+    },
+    {
+      "surface": "וּבְרַעְי֖וֹן",
+      "gloss": "und vom Sinnen"
+    },
+    {
+      "surface": "לִבּ֑וֹ",
+      "gloss": "seines Herzens"
+    },
+    {
+      "surface": "שֶׁה֥וּא",
+      "gloss": "mit dem"
+    },
+    {
+      "surface": "עָמֵ֖ל",
+      "gloss": "er sich müht"
+    },
+    {
+      "surface": "תַּ֥חַת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "הַשָּֽׁמֶשׁ",
+      "gloss": "der Sonne"
+    }
+  ],
+  "timestamp": "2026-08-06T07:09:01.615965111Z",
+  "model": "glm-5.2"
+}

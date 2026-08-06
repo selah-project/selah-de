@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und wenn ihr ein Schlachtopfer der Schelamim für JHWH schlachtet, sollt ihr es ⟨zu⟩ eurer Annahme schlachten.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ihr schlachtet"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ein Schlachtopfer"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "der Schelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "⟨zu⟩ eurer Annahme"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "sollt ihr es schlachten"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:53.833408879Z",
+  "model": "glm-5.2"
+}

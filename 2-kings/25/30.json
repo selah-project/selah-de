@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und ⟨was⟩ seine Speise ⟨betrifft⟩, eine tägliche Speise wurde ihm gegeben, seiten des Königs, das Wort eines Tages an seinem Tag, alle Tage seines Lebens.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "und seine Speise"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "eine Speise"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tägliche"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "wurde gegeben"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seiten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "יום",
+      "gloss": "eines Tages"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "an seinem Tag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "seines Lebens"
+    }
+  ],
+  "timestamp": "2026-08-06T01:38:57.012883256Z",
+  "model": "glm-5.2"
+}

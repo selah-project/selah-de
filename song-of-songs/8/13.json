@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Du, die du in den Gärten wohnst — Gefährten lauschen deiner Stimme — lass mich ⟨sie⟩ hören!",
+  "tokens": [
+    {
+      "surface": "הַיוֹשֶׁ֣בֶת",
+      "gloss": "Du, die du wohnst"
+    },
+    {
+      "surface": "בַּגַּנִּ֗ים",
+      "gloss": "in den Gärten"
+    },
+    {
+      "surface": "חֲבֵרִ֛ים",
+      "gloss": "Gefährten"
+    },
+    {
+      "surface": "מַקְשִׁיבִ֥ים",
+      "gloss": "lauschen"
+    },
+    {
+      "surface": "לְקוֹלֵ֖ךְ",
+      "gloss": "deiner Stimme"
+    },
+    {
+      "surface": "הַשְׁמִיעִֽינִי",
+      "gloss": "lass mich ⟨sie⟩ hören"
+    }
+  ],
+  "timestamp": "2026-08-05T23:26:19.902706512Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und sein Vater und seine Mutter sollen ihn packen und ⟨ihn⟩ ⟨את⟩ zu den Ältesten seiner Stadt und zum Tor seines Ortes hinausführen.",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "und sie sollen packen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sein Vater"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "und seine Mutter"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "und sie sollen hinausführen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "den Ältesten"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "seiner Stadt"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dem Tor"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "seines Ortes"
+    }
+  ],
+  "timestamp": "2026-08-06T00:46:29.396056207Z",
+  "model": "glm-5.2"
+}

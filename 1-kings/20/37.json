@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ⟨er⟩ fand einen anderen Mann und sagte: „Schlag mich doch!\" Und der Mann schlug ⟨ihn⟩, beim Schlagen, und ⟨er⟩ verletzte.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "Und ⟨er⟩ fand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "einen Mann"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "einen anderen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "Schlag mich"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "Und ⟨er⟩ schlug ⟨ihn⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "beim Schlagen"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "und ⟨er⟩ verletzte"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:40.403406565Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Schaul hatte ⟨ein⟩ böses Auge auf ⟨את⟩ Dawid, von jenem Tag an und weiterhin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es war"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "böses (Auge)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "von dem Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "und weiterhin"
+    }
+  ],
+  "timestamp": "2026-08-06T08:38:34.912102910Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Denn die Arme der Frevler werden zerbrochen, aber JHWH stützt ⟨die⟩ Gerechten.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "זְרוֹע֣וֹת",
+      "gloss": "die Arme"
+    },
+    {
+      "surface": "רְ֭שָׁעִים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "תִּשָּׁבַ֑רְנָה",
+      "gloss": "werden zerbrochen"
+    },
+    {
+      "surface": "וְסוֹמֵ֖ךְ",
+      "gloss": "aber stützt"
+    },
+    {
+      "surface": "צַדִּיקִ֣ים",
+      "gloss": "Gerechte"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:06.541564880Z",
+  "model": "glm-5.2"
+}

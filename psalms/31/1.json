@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Dem Chorleiter. Ein Maskil von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "dem Chorleiter"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ein Maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:59.262873966Z",
+  "model": "glm-5.2"
+}

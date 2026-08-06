@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Preist, ihr Völker, unseren Elohim, und lasst hören die Stimme seines Lobes!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Preist"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ihr Völker"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unseren Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "und lasst hören"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "seines Lobes"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:01.352654080Z",
+  "model": "glm-5.2"
+}

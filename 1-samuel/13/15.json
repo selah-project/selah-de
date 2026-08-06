@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und Schmuel machte sich auf und stieg hinauf von Gilgal ⟨nach⟩ Giv'a Binjamins. Und Schaul musterte ⟨את⟩ das Volk, das sich bei ihm befand, etwa sechshundert Mann.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "und machte sich auf"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und stieg hinauf"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "⟨nach⟩ Giv'a"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamins"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "und musterte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "das sich befand"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bei ihm"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "etwa sechshundert"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    }
+  ],
+  "timestamp": "2026-08-06T02:42:10.127418516Z",
+  "model": "glm-5.2"
+}

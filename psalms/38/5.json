@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Denn meine Schuldigkeiten sind über mein Haupt hinweggegangen, wie eine schwere Last sind sie mir zu schwer geworden.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "עֲ֭וֺנֹתַי",
+      "gloss": "meine Schuldigkeiten"
+    },
+    {
+      "surface": "עָבְר֣וּ",
+      "gloss": "sind hinweggegangen"
+    },
+    {
+      "surface": "רֹאשִׁ֑י",
+      "gloss": "über mein Haupt"
+    },
+    {
+      "surface": "כְּמַשָּׂ֥א",
+      "gloss": "wie eine Last"
+    },
+    {
+      "surface": "כָ֝בֵ֗ד",
+      "gloss": "schwer"
+    },
+    {
+      "surface": "יִכְבְּד֥וּ",
+      "gloss": "sind sie zu schwer geworden"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "für mich"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:43.572300780Z",
+  "model": "glm-5.2"
+}

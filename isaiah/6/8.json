@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ich hörte ⟨את⟩ die Stimme Adonais, der sagte: Wen ⟨soll⟩ ich ⟨als Boten⟩ aussenden, und wer wird für uns gehen? Und ich sagte: Hier bin ich, sende mich!",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "und ich hörte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stimme"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonais"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "der sagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "soll ich aussenden"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "und wer"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "wird gehen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "für uns"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und ich sagte"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hier bin ich"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "sende mich"
+    }
+  ],
+  "timestamp": "2026-08-06T01:39:59.226633302Z",
+  "model": "glm-5.2"
+}

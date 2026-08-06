@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Dein Silber sollst du ihm nicht geben gegen Zins, und gegen Aufschlag sollst du ihm deine Speise nicht geben.",
+  "tokens": [
+    {
+      "surface": "אֶ֨ת",
+      "gloss": "⟨את⟩",
+      "marks": "dein Silber"
+    },
+    {
+      "surface": "כַּסְפְּךָ֔",
+      "gloss": "dein Silber"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּתֵּ֥ן",
+      "gloss": "sollst du geben"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "בְּנֶ֑שֶׁךְ",
+      "gloss": "gegen Zins"
+    },
+    {
+      "surface": "וּבְמַרְבִּ֖ית",
+      "gloss": "und gegen Aufschlag"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּתֵּ֥ן",
+      "gloss": "sollst du geben"
+    },
+    {
+      "surface": "אָכְלֶֽךָ",
+      "gloss": "deine Speise"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:48.157973848Z",
+  "model": "glm-5.2"
+}

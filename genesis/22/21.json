@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "⟨את⟩ Uz, seinen Erstgeborenen, und ⟨את⟩ Bus, seinen Bruder, und ⟨את⟩ Kemuel, den Vater Arams.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uz"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uz"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "seinen Erstgeborenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Bus"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Bus"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seinen Bruder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "den Vater"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arams"
+    }
+  ],
+  "timestamp": "2026-08-06T00:06:09.353435052Z",
+  "model": "glm-5.2"
+}

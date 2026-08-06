@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 86,
+  "translation": "Wende dich mir zu und sei mir gnädig, gib deine Stärke deinem Knecht, und rette den Sohn deiner Magd.",
+  "tokens": [
+    {
+      "surface": "פְּנֵ֥ה",
+      "gloss": "Wende dich"
+    },
+    {
+      "surface": "אֵלַ֗י",
+      "gloss": "mir zu"
+    },
+    {
+      "surface": "וְחָ֫נֵּ֥נִי",
+      "gloss": "und sei mir gnädig"
+    },
+    {
+      "surface": "תְּנָֽה",
+      "gloss": "gib"
+    },
+    {
+      "surface": "עֻזְּךָ֥",
+      "gloss": "deine Stärke"
+    },
+    {
+      "surface": "לְעַבְדֶּ֑ךָ",
+      "gloss": "deinem Knecht"
+    },
+    {
+      "surface": "וְ֝הוֹשִׁ֗יעָה",
+      "gloss": "und rette"
+    },
+    {
+      "surface": "לְבֶן",
+      "gloss": "den Sohn"
+    },
+    {
+      "surface": "אֲמָתֶֽךָ",
+      "gloss": "deiner Magd"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:21.742995480Z",
+  "model": "glm-5.2"
+}

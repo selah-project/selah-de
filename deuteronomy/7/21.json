@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Fürchte dich nicht vor ihnen, denn JHWH, dein Elohim, ⟨ist⟩ in deiner Mitte, ⟨ein⟩ El, groß und furchtbar.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַעֲרֹץ",
+      "gloss": "fürchte dich"
+    },
+    {
+      "surface": "מִפְּנֵיהֶם",
+      "gloss": "vor ihnen"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "בְּקִרְבְּךָ",
+      "gloss": "in deiner Mitte"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גָּדוֹל",
+      "gloss": "groß"
+    },
+    {
+      "surface": "וְנוֹרָא",
+      "gloss": "und furchtbar"
+    }
+  ],
+  "timestamp": "2026-08-06T00:43:03.999665911Z",
+  "model": "glm-5.2"
+}

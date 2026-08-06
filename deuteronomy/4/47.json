@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und sie nahmen ⟨את⟩ sein Land in Besitz und ⟨את⟩ das Land des Og, des Königs des Baschan, der zwei Könige der Emoriter, die jenseits des Jardan ⟨waren⟩, gegen Aufgang der Sonne.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Und sie nahmen in Besitz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sein Land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "des Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "des Baschan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "der zwei"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "der Emoriter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "jenseits"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "des Jardan"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "gegen Aufgang"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "der Sonne"
+    }
+  ],
+  "timestamp": "2026-08-06T00:41:41.660346837Z",
+  "model": "glm-5.2"
+}

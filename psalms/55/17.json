@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Ich — zu Elohim rufe ich, und JHWH rettet mich.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "rufe ich"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "und JHWH"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "rettet mich"
+    }
+  ],
+  "timestamp": "2026-08-06T06:43:06.949340819Z",
+  "model": "glm-5.2"
+}

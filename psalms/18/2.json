@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und er sagte: „Ich habe Erbarmen mit dir, JHWH, meine Stärke.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Ich habe Erbarmen mit dir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "meine Stärke"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:12.568347686Z",
+  "model": "glm-5.2"
+}

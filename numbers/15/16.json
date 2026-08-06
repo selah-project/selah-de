@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Eine Tora und ein Recht soll ⟨für⟩ euch sein und für den Fremdling, den Fremdling, ⟨der⟩ bei euch ⟨wohnt⟩.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Eine Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eine"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "und ein Recht"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ein"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "und für den Fremdling"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "den Fremdling"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "bei euch"
+    }
+  ],
+  "timestamp": "2026-08-06T05:24:32.974411689Z",
+  "model": "glm-5.2"
+}

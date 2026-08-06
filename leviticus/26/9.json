@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "und ich werde mich euch zuwenden und euch fruchtbar machen und euch mehren, und ich werde ⟨את⟩ meinen Brit aufrichten mit euch.",
+  "tokens": [
+    {
+      "surface": "וּפָנִיתִי",
+      "gloss": "und ich werde mich zuwenden"
+    },
+    {
+      "surface": "אֲלֵיכֶם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "וְהִפְרֵיתִי",
+      "gloss": "und ich werde fruchtbar machen"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch (Objekt der Fruchtbarmachung)"
+    },
+    {
+      "surface": "וְהִרְבֵּיתִי",
+      "gloss": "und ich werde mehren"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch (Objekt der Mehrung)"
+    },
+    {
+      "surface": "וַהֲקִימֹתִי",
+      "gloss": "und ich werde aufrichten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Brit"
+    },
+    {
+      "surface": "בְּרִיתִי",
+      "gloss": "meinen Brit"
+    },
+    {
+      "surface": "אִתְּכֶם",
+      "gloss": "mit euch"
+    }
+  ],
+  "timestamp": "2026-08-06T02:14:11.901793027Z",
+  "model": "glm-5.2"
+}

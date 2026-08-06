@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ich habe zu dir gesagt: Schick ⟨את⟩ meinen Sohn fort, damit er mir dient! Aber du hast geweigert, ihn fortzuschicken. Siehe, ich ⟨werde⟩ ⟨את⟩ deinen Sohn, deinen Erstgeborenen, töten.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Und ich habe gesagt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Schick fort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Sohn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "meinen Sohn"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "damit er mir dient"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "aber du hast geweigert"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "ihn fortzuschicken"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "⟨werde⟩ töten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Sohn"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "deinen Sohn"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "deinen Erstgeborenen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:06:58.596254318Z",
+  "model": "glm-5.2"
+}

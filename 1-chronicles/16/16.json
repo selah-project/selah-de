@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "den er mit ⟨את⟩ Awraham schneiden ließ, und seinen Schwur Jizchaks gegenüber.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "er schneiden ließ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "mit Awraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "und seinen Schwur"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jizchaks gegenüber"
+    }
+  ],
+  "timestamp": "2026-08-05T23:50:24.279579187Z",
+  "model": "glm-5.2"
+}

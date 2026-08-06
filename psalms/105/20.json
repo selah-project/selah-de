@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "⟨Ein⟩ König sandte ⟨und⟩ ließ ihn frei, der Herrscher der Völker — ⟨und⟩ er löste ihn.",
+  "tokens": [
+    {
+      "surface": "שָׁלַח",
+      "gloss": "sandte"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "⟨Ein⟩ König"
+    },
+    {
+      "surface": "וַיַּתִּירֵהוּ",
+      "gloss": "⟨und⟩ ließ ihn frei"
+    },
+    {
+      "surface": "מֹשֵׁל",
+      "gloss": "der Herrscher"
+    },
+    {
+      "surface": "עַמִּים",
+      "gloss": "der Völker"
+    },
+    {
+      "surface": "וַיְפַתְּחֵהוּ",
+      "gloss": "⟨und⟩ er löste ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:36.877667659Z",
+  "model": "glm-5.2"
+}

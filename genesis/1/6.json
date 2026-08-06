@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim sprach: „Es werde ein Raqia in der Mitte der Wasser, und es scheide ⟨zwischen⟩ Wasser und Wasser.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "es werde"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "ein Raqia"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in der Mitte"
+    },
+    {
+      "surface": "המים",
+      "gloss": "der Wasser"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und es scheide"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "(scheidend)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "למים",
+      "gloss": "und ⟨von⟩ Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T20:01:21.155467910Z",
+  "model": "glm-5.2"
+}

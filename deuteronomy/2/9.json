@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH sprach zu mir: Bedränge nicht ⟨את⟩ Moaw, und entfachte nicht ⟨gegen⟩ sie Krieg, denn ich werde dir nicht geben von seinem Land als Besitz, denn den Söhnen Lot habe ich ⟨את⟩ Ar als Besitz gegeben.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "bedränge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moaw"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "entfachte"
+    },
+    {
+      "surface": "בם",
+      "gloss": "gegen sie"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "Krieg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "werde ich geben"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "von seinem Land"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "als Besitz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "habe ich gegeben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "als Besitz"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:10.045935543Z",
+  "model": "glm-5.2"
+}

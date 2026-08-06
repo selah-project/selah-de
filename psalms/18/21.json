@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "JHWH hat mir vergolten nach meiner Gerechtigkeit, nach der Reinheit meiner Hände hat er mir zurückgegeben.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "hat mir vergolten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "nach meiner Gerechtigkeit"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "nach der Reinheit"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "meiner Hände"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "hat er zurückgegeben"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:15.198292965Z",
+  "model": "glm-5.2"
+}

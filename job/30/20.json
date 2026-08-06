@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Ich rufe zu dir, und du antwortest mir nicht; ⟨ich⟩ stehe da, und du starrst mich an.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "ich rufe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "antwortest mir"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "⟨ich⟩ stehe da"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "und du starrst an"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:22:24.236648010Z",
+  "model": "glm-5.2"
+}

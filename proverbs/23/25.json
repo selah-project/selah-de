@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Es freue sich dein Vater und deine Mutter, und sie juble, ⟨die⟩ dich geboren hat.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "es freue sich"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "dein Vater"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "und deine Mutter"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "und sie juble"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "⟨die⟩ dich geboren hat"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:18.509004994Z",
+  "model": "glm-5.2"
+}

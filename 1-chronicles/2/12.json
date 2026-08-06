@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Boas zeugte ⟨את⟩ Oved, und Oved zeugte ⟨את⟩ Jischai.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Und Boas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "und Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jischai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jischai"
+    }
+  ],
+  "timestamp": "2026-08-05T23:45:59.022279967Z",
+  "model": "glm-5.2"
+}

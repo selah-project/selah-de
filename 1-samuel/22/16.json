@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und der König sprach: „Sterben wirst du sterben, Achimelech, du und das ganze Haus deines Vaters.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sterben"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "wirst du sterben"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelech"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und das ganze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    }
+  ],
+  "timestamp": "2026-08-06T20:24:52.511479613Z",
+  "model": "glm-5.2"
+}

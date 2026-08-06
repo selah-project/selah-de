@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Die Erde erbebte, auch die Himmel tropften vor dem Angesicht von Elohim — dieser Sinai — vor dem Angesicht von Elohim, dem Elohim Jisraels.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Die Erde"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "erbebte"
+    },
+    {
+      "surface": "אף",
+      "gloss": "auch"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die Himmel"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "tropften"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor dem Angesicht von"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor dem Angesicht von"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dem Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:49.670956491Z",
+  "model": "glm-5.2"
+}

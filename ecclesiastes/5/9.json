@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Wer Silber liebt, wird ⟨an⟩ Silber nicht satt, und wer ⟨die⟩ Fülle liebt, ⟨an⟩ Ertrag — ⟨der⟩ kommt nicht: auch das ist Hebel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Wer liebt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "wird satt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨an⟩ Silber"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "und wer"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liebt"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "⟨die⟩ Fülle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "⟨an⟩ Ertrag"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "זה",
+      "gloss": "das"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ist Hebel"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:09.068541374Z",
+  "model": "glm-5.2"
+}

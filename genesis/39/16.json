@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Und sie legte sein Kleidungsstück bei sich nieder, bis ⟨das⟩ Kommen ihres Herrn in sein Haus.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "und sie legte nieder"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "sein Kleidungsstück"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "bei ihr"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "⟨das⟩ Kommen"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ihres Herrn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sein Haus"
+    }
+  ],
+  "timestamp": "2026-08-06T00:10:07.573231338Z",
+  "model": "glm-5.2"
+}

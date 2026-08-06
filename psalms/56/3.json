@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 56,
+  "translation": "Meine Bedränger schnappen nach mir den ganzen Tag, denn viele sind es, die gegen mich kämpfen, ⟨o⟩ Höchster.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "schnappen nach mir"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "Meine Bedränger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "viele"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "die kämpfen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gegen mich"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Höchster"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:38.855146393Z",
+  "model": "glm-5.2"
+}

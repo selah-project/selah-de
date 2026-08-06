@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "JHWH, du wirst uns Schalom bestimmen, denn auch all unsere Taten hast du für uns gewirkt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "du wirst bestimmen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "unsere Taten"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "hast du gewirkt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "für uns"
+    }
+  ],
+  "timestamp": "2026-08-05T21:47:16.301269660Z",
+  "model": "glm-5.2"
+}

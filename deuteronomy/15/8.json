@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "sondern ⟨du sollst⟩ ihm ⟨את⟩ deine Hand weit öffnen und ihm darleihen, genug für seinen Mangel, der ihm fehlt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "öffnen"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "sollst du öffnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "und darleihen"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "sollst du ihm darleihen"
+    },
+    {
+      "surface": "די",
+      "gloss": "genug"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "für seinen Mangel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "fehlt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T20:14:41.508216897Z",
+  "model": "glm-5.2"
+}

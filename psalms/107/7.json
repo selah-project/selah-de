@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Und er ließ sie schreiten auf einem geraden Weg, zu gehen zu einer Stadt ⟨der⟩ Wohnung.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Und er ließ sie schreiten"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf einem Weg"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "geraden"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "zu gehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "einer Stadt"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "Wohnung"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:22.406657670Z",
+  "model": "glm-5.2"
+}

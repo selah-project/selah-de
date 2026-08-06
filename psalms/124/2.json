@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 124,
+  "translation": "wenn nicht JHWH für uns gewesen wäre, beim Aufstehen von Menschen gegen uns,",
+  "tokens": [
+    {
+      "surface": "לוּלֵ֣י",
+      "gloss": "wenn nicht"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שֶׁהָ֣יָה",
+      "gloss": "der gewesen wäre"
+    },
+    {
+      "surface": "לָ֑נוּ",
+      "gloss": "für uns"
+    },
+    {
+      "surface": "בְּק֖וּם",
+      "gloss": "beim Aufstehen"
+    },
+    {
+      "surface": "עָלֵ֣ינוּ",
+      "gloss": "gegen uns"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "von Menschen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:34.943565258Z",
+  "model": "glm-5.2"
+}

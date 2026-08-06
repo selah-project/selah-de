@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "⟨את⟩ meine Rechtsbestimmungen sollt ihr tun und ⟨את⟩ meine Satzungen sollt ihr halten, um in ihnen zu gehen — ich ⟨bin⟩ JHWH, euer Elohim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Rechtsbestimmungen"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "meine Rechtsbestimmungen"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sollt ihr tun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "meine Satzungen"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "meine Satzungen"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "sollt ihr halten"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "um zu gehen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in ihnen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:24:50.493225033Z",
+  "model": "glm-5.2"
+}

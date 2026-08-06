@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und ⟨wenn⟩ an ⟨einem⟩ Fleisch, in seiner Haut, ein Geschwür ist und ⟨es⟩ heilt,",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "und ⟨an ⟨einem⟩⟩ Fleisch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨wenn⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ist"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "seiner Haut"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ein Geschwür"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "und ⟨es⟩ heilt"
+    }
+  ],
+  "timestamp": "2026-08-05T20:22:56.933743868Z",
+  "model": "glm-5.2"
+}

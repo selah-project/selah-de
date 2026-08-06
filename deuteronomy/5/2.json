@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "JHWH, unser Elohim, hat ⟨mit⟩ uns einen Brit in Chorew geschlossen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "hat geschlossen"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "⟨mit⟩ uns"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "einen Brit"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "in Chorew"
+    }
+  ],
+  "timestamp": "2026-08-06T19:31:25.282994645Z",
+  "model": "glm-5.2"
+}

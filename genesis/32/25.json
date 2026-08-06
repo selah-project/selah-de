@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Jaakow blieb allein, ⟨und⟩ ein Mann rang mit ihm, bis ⟨der⟩ Morgen aufstieg.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "und ⟨er⟩ blieb"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "allein"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "und ⟨er⟩ rang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "aufstieg"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "⟨der⟩ Morgen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:09:22.735306435Z",
+  "model": "glm-5.2"
+}

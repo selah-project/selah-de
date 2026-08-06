@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ⟨sie⟩ bedeckten ⟨את⟩ das Auge des ganzen Landes, und das Land verdunkelte sich, und ⟨sie⟩ fraßen ⟨את⟩ alles Kraut des Landes und ⟨את⟩ alle Frucht des Baumes, die der Hagel übriggelassen hatte; und es blieb nichts Grünes übrig am Baum und am Kraut des Feldes im ganzen Land Mizrajim.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "und ⟨sie⟩ bedeckten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Auge"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Auge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "des ganzen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Landes"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "und verdunkelte sich"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "und ⟨sie⟩ fraßen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles Kraut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "Kraut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Frucht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "Frucht"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "des Baumes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "übriggelassen hatte"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "der Hagel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "blieb übrig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "irgendetwas"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "Grünes"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "am Baum"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "und am Kraut"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "im ganzen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T08:18:00.986590985Z",
+  "model": "glm-5.2"
+}

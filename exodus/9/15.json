@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Denn ⟨hätte ich⟩ jetzt meine Hand ausgestreckt und dich ⟨sowohl⟩ als ⟨auch⟩ ⟨את⟩ dein Volk mit der Seuche getroffen, dann wärst du von der Erde ausgetilgt worden.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עַתָּה֙",
+      "gloss": "jetzt"
+    },
+    {
+      "surface": "שָׁלַ֣חְתִּי",
+      "gloss": "(hätte ich) ausgestreckt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Hand"
+    },
+    {
+      "surface": "יָדִ֔י",
+      "gloss": "meine Hand"
+    },
+    {
+      "surface": "וָאַ֥ךְ",
+      "gloss": "und ⟨sowohl⟩"
+    },
+    {
+      "surface": "אוֹתְךָ֛",
+      "gloss": "dich ⟨als⟩"
+    },
+    {
+      "surface": "וְאֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "dein Volk"
+    },
+    {
+      "surface": "עַמְּךָ֖",
+      "gloss": "dein Volk"
+    },
+    {
+      "surface": "בַּדָּ֑בֶר",
+      "gloss": "mit der Seuche"
+    },
+    {
+      "surface": "וְתִכָּחֵ֖ד",
+      "gloss": "und du wärst ausgetilgt"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:45.195764217Z",
+  "model": "glm-5.2"
+}

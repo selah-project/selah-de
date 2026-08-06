@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Gebaut, gebaut habe ich ⟨ein⟩ Haus der Wohnstätte für dich, ⟨einen⟩ festen Ort für dein Sitzen für Äonen.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "gebaut"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "habe ich gebaut"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ein Haus"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "der Wohnstätte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "für dich"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ein fester Ort"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "für dein Sitzen"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "für Äonen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:58:46.566227375Z",
+  "model": "glm-5.2"
+}

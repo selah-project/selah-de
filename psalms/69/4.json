@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Ich bin erschöpft ⟨von⟩ meinem Rufen, vertrocknet ist meine Kehle, ⟨meine⟩ Augen sind am Erlöschen, ⟨dass ich⟩ warte auf meinen Elohim.",
+  "tokens": [
+    {
+      "surface": "יָגַ֣עְתִּי",
+      "gloss": "Ich bin erschöpft"
+    },
+    {
+      "surface": "בְּקָרְאִ֑י",
+      "gloss": "⟨von⟩ meinem Rufen"
+    },
+    {
+      "surface": "נִחַ֪ר",
+      "gloss": "vertrocknet"
+    },
+    {
+      "surface": "גְּרוֹנִ֥י",
+      "gloss": "ist meine Kehle"
+    },
+    {
+      "surface": "כָּ֥לוּ",
+      "gloss": "sind am Erlöschen"
+    },
+    {
+      "surface": "עֵינַ֗י",
+      "gloss": "⟨meine⟩ Augen"
+    },
+    {
+      "surface": "מְיַחֵ֥ל",
+      "gloss": "⟨dass ich⟩ warte"
+    },
+    {
+      "surface": "לֵ֝אלֹהָ֗י",
+      "gloss": "auf meinen Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:42.585311451Z",
+  "model": "glm-5.2"
+}

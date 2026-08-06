@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Der Elohim Jisraels hat gesprochen, ⟨und⟩ zu mir geredet hat der Fels Jisraels: Ein Herrscher über Menschen, gerecht, herrschend in der Furcht Elohim⟨s⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "hat gesprochen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Der Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hat geredet"
+    },
+    {
+      "surface": "צור",
+      "gloss": "der Fels"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "Ein Herrscher"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "über Menschen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "gerecht"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "herrscht"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "in der Furcht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim⟨s⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T21:23:40.269822896Z",
+  "model": "glm-5.2"
+}

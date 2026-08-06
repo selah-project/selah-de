@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und es kamen alle Weisen, die das ganze Werk des Heiligtums machten, ⟨את⟩ jeder Mann von seiner Arbeit, die sie machten.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Und ⟨es⟩ kamen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "die Weisen"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "die machten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Werk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "Werk"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "des Heiligtums"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "von seiner Arbeit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "machten"
+    }
+  ],
+  "timestamp": "2026-08-06T02:08:16.385554907Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Die Lippen des Gerechten kennen Wohlgefallen, doch der Mund der Frevler ⟨ist⟩ Verdrehung.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Die Lippen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "des Gerechten"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "kennen"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "Wohlgefallen"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "doch der Mund"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "⟨ist⟩ Verdrehung"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:38.178001464Z",
+  "model": "glm-5.2"
+}

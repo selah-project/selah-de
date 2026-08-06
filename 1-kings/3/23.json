@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und der König sprach: „Diese ⟨sagt⟩: ‚Mein Sohn ist der lebende und dein Sohn der tote', und diese ⟨sagt⟩: ‚Nein, sondern dein Sohn ist der tote und mein Sohn der lebende.'“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Diese"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "⟨sagt⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mein Sohn"
+    },
+    {
+      "surface": "החי",
+      "gloss": "der lebende"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "und dein Sohn"
+    },
+    {
+      "surface": "המת",
+      "gloss": "der tote"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "und diese"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "⟨sagt⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nein"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "dein Sohn"
+    },
+    {
+      "surface": "המת",
+      "gloss": "der tote"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "und mein Sohn"
+    },
+    {
+      "surface": "החי",
+      "gloss": "der lebende"
+    }
+  ],
+  "timestamp": "2026-08-06T01:22:14.805712984Z",
+  "model": "glm-5.2"
+}

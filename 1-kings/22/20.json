@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und JHWH sprach: Wer wird ⟨את⟩ Achab verführen, dass er hinaufzieht und fällt in Ramot-Gilad? Und der eine sagte dies, und der andere sagte jenes.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "wird verführen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und er hinaufzieht"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "und fällt"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "in Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "זה",
+      "gloss": "der eine"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "und der andere"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagte"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "jenes"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:54.228268895Z",
+  "model": "glm-5.2"
+}

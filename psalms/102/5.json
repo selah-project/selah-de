@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Geschlagen wurde ich wie Gras, und vertrocknet ist mein Herz, denn ich habe vergessen, mein Brot zu essen.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "geschlagen wurde ich"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "wie Gras"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "und vertrocknet ist"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ich habe vergessen"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "zu essen"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mein Brot"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:46.577056657Z",
+  "model": "glm-5.2"
+}

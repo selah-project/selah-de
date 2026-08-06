@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Es stehen auf Zeugen der Gewalt — Dinge, die ich nicht kannte, fragen sie mich ab.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "Es stehen auf"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "Zeugen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "der Gewalt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— Dinge, die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ich kannte"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "fragen sie mich ab"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:02.056695540Z",
+  "model": "glm-5.2"
+}

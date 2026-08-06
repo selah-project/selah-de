@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und er verhöhnte ⟨את⟩ Jisra'el, und Jehonatan, der Sohn Schimas, des Bruders Dawids, erschlug ihn.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "und er verhöhnte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "und erschlug ihn"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Schimas"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Bruders"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    }
+  ],
+  "timestamp": "2026-08-05T21:23:01.098034781Z",
+  "model": "glm-5.2"
+}

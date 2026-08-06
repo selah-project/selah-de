@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Ein geknicktes Rohr bricht er nicht, und einen glimmenden Docht löscht er nicht aus — in Emet bringt er ⟨das⟩ Recht hinaus.",
+  "tokens": [
+    {
+      "surface": "קָנֶה",
+      "gloss": "Rohr"
+    },
+    {
+      "surface": "רָצוּץ",
+      "gloss": "geknicktes"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִשְׁבּוֹר",
+      "gloss": "bricht er"
+    },
+    {
+      "surface": "וּפִשְׁתָּה",
+      "gloss": "und einen Docht"
+    },
+    {
+      "surface": "כֵהָה",
+      "gloss": "glimmenden"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יְכַבֶּנָּה",
+      "gloss": "löscht er aus"
+    },
+    {
+      "surface": "לֶאֱמֶת",
+      "gloss": "in Emet"
+    },
+    {
+      "surface": "יוֹצִיא",
+      "gloss": "wird hinausbringen"
+    },
+    {
+      "surface": "מִשְׁפָּט",
+      "gloss": "Recht"
+    }
+  ],
+  "timestamp": "2026-08-06T03:18:29.214522631Z",
+  "model": "glm-5.2"
+}

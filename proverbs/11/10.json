@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Im Gedeihen der Gerechten jauchzt die Stadt, und beim Untergang der Frevler ⟨ertönt⟩ ein Jubelruf.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "im Gedeihen"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "der Gerechten"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "jauchzt"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "und beim Untergang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ein Jubelruf"
+    }
+  ],
+  "timestamp": "2026-08-06T09:21:08.340468393Z",
+  "model": "glm-5.2"
+}

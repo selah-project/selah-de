@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "der ⟨vieles⟩ an Völkern schlug und mächtige Könige tötete:",
+  "tokens": [
+    {
+      "surface": "שֶֽׁ֭הִכָּה",
+      "gloss": "der schlug"
+    },
+    {
+      "surface": "גּוֹיִ֣ם",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "vieles"
+    },
+    {
+      "surface": "וְ֝הָרַ֗ג",
+      "gloss": "und tötete"
+    },
+    {
+      "surface": "מְלָכִ֥ים",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "עֲצוּמִֽים",
+      "gloss": "mächtige"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:34.919435441Z",
+  "model": "glm-5.2"
+}

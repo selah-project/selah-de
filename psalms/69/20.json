@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Du, du kennst ⟨את⟩ meine Schmach und meine Schande und meine Entwürdigung; vor dir ⟨sind⟩ all meine Bedränger.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "du kennst"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "meine Schmach"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "und meine Schande"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "und meine Entwürdigung"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "meine Bedränger"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:03.771820316Z",
+  "model": "glm-5.2"
+}

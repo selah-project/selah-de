@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und er ließ darauf aufsteigen Räucherwerk der Gewürze, so wie JHWH ⟨את⟩ Mosche geboten hatte.",
+  "tokens": [
+    {
+      "surface": "וַיַּקְטֵ֥ר",
+      "gloss": "Und er ließ aufsteigen"
+    },
+    {
+      "surface": "עָל֖יו",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "קְטֹ֣רֶת",
+      "gloss": "Räucherwerk"
+    },
+    {
+      "surface": "סַמִּ֑ים",
+      "gloss": "der Gewürze"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "צִוָּ֥ה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "מֹשֶֽׁה",
+      "gloss": "Mosche"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:04.936121419Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Denn auch Finsternis verfinstert ⟨sich⟩ nicht von dir, und Nacht leuchtet wie der Tag; wie die Finsternis, so das Licht.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Denn auch"
+    },
+    {
+      "surface": "חֹשֶׁךְ",
+      "gloss": "Finsternis"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יַחְשִׁיךְ",
+      "gloss": "verfinstert ⟨sich⟩"
+    },
+    {
+      "surface": "מִמֶּךָ",
+      "gloss": "von dir"
+    },
+    {
+      "surface": "וְלַיְלָה",
+      "gloss": "und Nacht"
+    },
+    {
+      "surface": "כַּיּוֹם",
+      "gloss": "wie der Tag"
+    },
+    {
+      "surface": "יָאִיר",
+      "gloss": "leuchtet"
+    },
+    {
+      "surface": "כַּחֲשֵׁיכָה",
+      "gloss": "wie die Finsternis"
+    },
+    {
+      "surface": "כָּאוֹרָה",
+      "gloss": "so das Licht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:44.566301294Z",
+  "model": "glm-5.2"
+}

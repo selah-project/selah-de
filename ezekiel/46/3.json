@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 46:3",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Und das Volk des Landes soll sich niederwerfen am Eingang jenes Tors, an den Schabbatot und an den Neumondtagen, vor JHWH.",
+  "tokens": [
+    {
+      "surface": "וְהִשְׁתַּחֲו֣וּ",
+      "gloss": "Und ⟨sie⟩ sollen sich niederwerfen"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "הָאָ֗רֶץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "פֶּ֚תַח",
+      "gloss": "am Eingang"
+    },
+    {
+      "surface": "הַשַּׁ֣עַר",
+      "gloss": "des Tors"
+    },
+    {
+      "surface": "הַה֔וּא",
+      "gloss": "jenes"
+    },
+    {
+      "surface": "בַּשַּׁבָּת֖וֹת",
+      "gloss": "an den Schabbatot"
+    },
+    {
+      "surface": "וּבֶחֳדָשִׁ֑ים",
+      "gloss": "und an den Neumondtagen"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T03:55:15.691827253Z",
+  "model": "glm-5.2"
+}

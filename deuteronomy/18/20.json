@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 18:20",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Doch der Nawi, der sich anmaßen wird, ein Wort in meinem Namen zu reden, ⟨את⟩ was ich ihm nicht zu reden befohlen habe, und ⟨der⟩ im Namen anderer Elohim reden wird — ⟨auch⟩ jener Nawi muss sterben.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Doch"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "der Nawi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יזיד",
+      "gloss": "sich anmaßen wird"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "zu reden"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ein Wort"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "in meinem Namen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "צויתיו",
+      "gloss": "ich ihm befohlen habe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "zu reden"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "und der"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "reden wird"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "im Namen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "anderer"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "muss sterben"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "jener Nawi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jener"
+    }
+  ],
+  "timestamp": "2026-08-05T20:46:55.391872669Z",
+  "model": "glm-5.2"
+}

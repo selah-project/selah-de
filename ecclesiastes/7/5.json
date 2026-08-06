@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Besser ⟨ist es⟩, die Zurechtweisung eines Weisen zu hören, als ⟨dass⟩ ein Mensch das Lied der Toren hört.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "zu hören"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "die Zurechtweisung"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "eines Weisen"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "als ⟨dass⟩ ein Mensch"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hört"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "das Lied"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "der Toren"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:25.209129007Z",
+  "model": "glm-5.2"
+}

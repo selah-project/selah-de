@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Er öffnete den Felsen, und Wasser strömten heraus, sie flossen in den Trockenheiten ⟨wie⟩ ein Strom.",
+  "tokens": [
+    {
+      "surface": "פָּ֣תַח",
+      "gloss": "öffnete"
+    },
+    {
+      "surface": "צ֭וּר",
+      "gloss": "Felsen"
+    },
+    {
+      "surface": "וַיָּז֣וּבוּ",
+      "gloss": "und sie strömten heraus"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "הָ֝לְכ֗וּ",
+      "gloss": "sie flossen"
+    },
+    {
+      "surface": "בַּצִּיּ֥וֹת",
+      "gloss": "in den Trockenheiten"
+    },
+    {
+      "surface": "נָהָֽר",
+      "gloss": "ein Strom"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:21.190494595Z",
+  "model": "glm-5.2"
+}

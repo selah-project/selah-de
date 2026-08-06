@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Fürchtet ⟨את⟩ JHWH, seine Heiligen, denn ⟨es gibt⟩ keinen Mangel denen, die ihn fürchten.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Fürchtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "seine Heiligen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨es gibt⟩ keinen"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "Mangel"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "denen, die ihn fürchten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:26.390222668Z",
+  "model": "glm-5.2"
+}

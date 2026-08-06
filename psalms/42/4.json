@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "⟨Sie⟩ war mir meine Träne ⟨wie⟩ Brot Tag und Nacht, indem ⟨sie⟩ zu mir sagen den ganzen Tag: „Wo ist dein Elohim?“",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "war"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "meine Träne"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "und Nacht"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "indem ⟨sie⟩ sagen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Wo ist"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim?"
+    }
+  ],
+  "timestamp": "2026-08-06T10:30:51.897182822Z",
+  "model": "glm-5.2"
+}

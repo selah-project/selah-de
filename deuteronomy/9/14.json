@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Lass von mir ab, und ich werde sie vernichten, und ich werde ⟨את⟩ ihren Namen auslöschen unter dem Himmel, und ich werde dich zu einem Volk machen, mächtig und zahlreicher als jenes.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Lass ab"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "und ich werde sie vernichten"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "und ich werde auslöschen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Namen"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ihren Namen"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dem Himmel"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "und ich werde machen"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ dich",
+      "marks": "dich"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "zu einem Volk"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "mächtig"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "und zahlreich"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "als jenes"
+    }
+  ],
+  "timestamp": "2026-08-06T00:42:47.146285600Z",
+  "model": "glm-5.2"
+}

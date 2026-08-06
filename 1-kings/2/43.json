@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und warum hast du den Schwur JHWHs nicht bewahrt und ⟨את⟩ das Gebot, das ich dir auferlegt habe?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "und warum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "hast du bewahrt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Schwur JHWHs"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "Schwur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "das Gebot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ich auferlegt habe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-05T21:25:37.003918012Z",
+  "model": "glm-5.2"
+}

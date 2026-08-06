@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und der Mensch gab Namen allem Vieh und ⟨dem⟩ Geflügel des Himmels und allem Lebendigen des Feldes. Doch für den Menschen fand sich kein Ezer als Gegenüber.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "und ⟨er⟩ gab Namen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "Namen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "allem"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "Vieh"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "und ⟨dem⟩ Geflügel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "und allem"
+    },
+    {
+      "surface": "חית",
+      "gloss": "Lebendigen"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "für den Menschen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "fand sich"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "als Gegenüber"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:17.928160197Z",
+  "model": "glm-5.2"
+}

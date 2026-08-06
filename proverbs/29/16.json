@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Wenn die Frevler sich mehren, mehrt sich ⟨die⟩ Abtrünnigkeit, aber die Gerechten werden bei ihrem Sturz zusehen.",
+  "tokens": [
+    {
+      "surface": "בִּרְב֣וֹת",
+      "gloss": "Wenn … sich mehren"
+    },
+    {
+      "surface": "רְ֭שָׁעִים",
+      "gloss": "die Frevler"
+    },
+    {
+      "surface": "יִרְבֶּה",
+      "gloss": "mehrt sich"
+    },
+    {
+      "surface": "פָּ֑שַׁע",
+      "gloss": "Abtrünnigkeit"
+    },
+    {
+      "surface": "וְ֝צַדִּיקִ֗ים",
+      "gloss": "aber die Gerechten"
+    },
+    {
+      "surface": "בְּֽמַפַּלְתָּ֥ם",
+      "gloss": "bei ihrem Sturz"
+    },
+    {
+      "surface": "יִרְאֽוּ",
+      "gloss": "werden zusehen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:23.057940123Z",
+  "model": "glm-5.2"
+}

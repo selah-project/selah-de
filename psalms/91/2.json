@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "sage ich zu JHWH: „Meine Zuflucht und meine Festung, mein Elohim — ⟨auf⟩ ihn vertraue ich.“",
+  "tokens": [
+    {
+      "surface": "אֹמַר",
+      "gloss": "sage ich"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "zu JHWH"
+    },
+    {
+      "surface": "מַחְסִי",
+      "gloss": "Meine Zuflucht"
+    },
+    {
+      "surface": "וּמְצוּדָתִי",
+      "gloss": "und meine Festung"
+    },
+    {
+      "surface": "אֱלֹהַי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "אֶבְטַח",
+      "gloss": "vertraue ich"
+    },
+    {
+      "surface": "בוֹ",
+      "gloss": "⟨auf⟩ ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:50.208655061Z",
+  "model": "glm-5.2"
+}

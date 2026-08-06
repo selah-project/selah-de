@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Gesegnet ⟨sei⟩ JHWH, Elohim, Elohim Jisraels, ⟨der⟩ Wunderbares tut, er allein.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨sei⟩ JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "עשה",
+      "gloss": " ⟨der⟩ tut"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "Wunderbares"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "er allein"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:35.778335642Z",
+  "model": "glm-5.2"
+}

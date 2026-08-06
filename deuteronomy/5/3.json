@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Nicht ⟨mit⟩ ⟨את⟩ unseren Vätern hat JHWH ⟨את⟩ diese Brit geschlossen, sondern ⟨mit⟩ uns, wir, diese hier, heute, wir alle, Lebende.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unseren Vätern"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "unseren Vätern"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "hat geschlossen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Brit"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "die Brit"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "diese"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨mit⟩ uns"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wir"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "wir alle"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "Lebende"
+    }
+  ],
+  "timestamp": "2026-08-06T00:42:20.336412500Z",
+  "model": "glm-5.2"
+}

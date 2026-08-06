@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ich — mit der Stimme der Toda will ich dir schlachten; was ich gelobt habe, will ich erfüllen. ⟨Die⟩ Rettung ⟨gehört⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִי",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "בְּקוֹל",
+      "gloss": "mit der Stimme"
+    },
+    {
+      "surface": "תוֹדָה",
+      "gloss": "der Toda"
+    },
+    {
+      "surface": "אֶזְבְּחָה",
+      "gloss": "will ich schlachten"
+    },
+    {
+      "surface": "לָּךְ",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "was"
+    },
+    {
+      "surface": "נָדַרְתִּי",
+      "gloss": "ich gelobt habe"
+    },
+    {
+      "surface": "אֲשַׁלֵּמָה",
+      "gloss": "will ich erfüllen"
+    },
+    {
+      "surface": "יְשׁוּעָתָה",
+      "gloss": "⟨Die⟩ Rettung"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "⟨gehört⟩ JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T04:00:41.535026010Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 10:17",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und nun, vergib doch ⟨mir⟩ meine Sünde, nur diesmal, und legt Fürbitte ein bei JHWH, eurem Elohim, dass er von mir abwendet nur ⟨את⟩ diesen Tod.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "שא",
+      "gloss": "vergib"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "meine Sünde"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nur"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "diesmal"
+    },
+    {
+      "surface": "והעתירו",
+      "gloss": "und legt Fürbitte ein"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bei JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eurem Elohim"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "dass er abwendet"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diesen Tod"
+    },
+    {
+      "surface": "המות",
+      "gloss": "diesen Tod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:27.255584306Z",
+  "model": "glm-5.2"
+}

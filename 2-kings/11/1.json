@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und als Atalja, die Mutter Ahasjas, sah, dass ihr Sohn tot war, stand sie auf und rottete ⟨את⟩ ganze Nachkommenschaft der Königsherrschaft aus.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Und Atalja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Mutter"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahasjas"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "sah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "מת",
+      "gloss": "tot war"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ihr Sohn"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "stand sie auf"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "rottete aus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganze Nachkommenschaft"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganze"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "Nachkommenschaft"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "der Königsherrschaft"
+    }
+  ],
+  "timestamp": "2026-08-05T21:38:17.120949070Z",
+  "model": "glm-5.2"
+}

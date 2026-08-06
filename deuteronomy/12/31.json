@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 12:31",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Nicht sollst du so tun für JHWH, deinen Elohim — denn jeden Gräuel, den JHWH hasst, haben sie ihren Göttern getan: denn sogar ⟨את⟩ ihre Söhne und ⟨את⟩ ihre Töchter verbrannten sie im Feuer ihren Göttern.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַעֲשֶׂ֣ה",
+      "gloss": "sollst du tun"
+    },
+    {
+      "surface": "כֵ֔ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "לַיהוָ֖ה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֑יךָ",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "כִּי֩",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "תּוֹעֲבַ֨ת",
+      "gloss": "Gräuel"
+    },
+    {
+      "surface": "יְהוָ֜ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "den"
+    },
+    {
+      "surface": "שָׂנֵ֗א",
+      "gloss": "hasst"
+    },
+    {
+      "surface": "עָשׂ֥וּ",
+      "gloss": "haben sie getan"
+    },
+    {
+      "surface": "לֵאלֹהֵיהֶ֖ם",
+      "gloss": "ihren Göttern"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גַ֤ם",
+      "gloss": "sogar"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Söhne"
+    },
+    {
+      "surface": "בְּנֵיהֶם֙",
+      "gloss": "ihre Söhne"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Töchter"
+    },
+    {
+      "surface": "בְּנֹ֣תֵיהֶ֔ם",
+      "gloss": "ihre Töchter"
+    },
+    {
+      "surface": "יִשְׂרְפ֥וּ",
+      "gloss": "verbrannten sie"
+    },
+    {
+      "surface": "בָאֵ֖שׁ",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "לֵֽאלֹהֵיהֶֽם",
+      "gloss": "ihren Göttern"
+    }
+  ],
+  "timestamp": "2026-08-06T00:44:12.487483357Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Durch Trägheit sinkt das Gebälk ein, und durch schlaffe Hände tropft das Haus.",
+  "tokens": [
+    {
+      "surface": "בַּעֲצַלְתַּ֖יִם",
+      "gloss": "Durch Trägheit"
+    },
+    {
+      "surface": "יִמַּ֣ךְ",
+      "gloss": "sinkt ⟨es⟩ ein"
+    },
+    {
+      "surface": "הַמְּקָרֶ֑ה",
+      "gloss": "das Gebälk"
+    },
+    {
+      "surface": "וּבְשִׁפְל֥וּת",
+      "gloss": "und durch Schlaffheit"
+    },
+    {
+      "surface": "יָדַ֖יִם",
+      "gloss": "der Hände"
+    },
+    {
+      "surface": "יִדְלֹ֥ף",
+      "gloss": "tropft"
+    },
+    {
+      "surface": "הַבָּֽיִת",
+      "gloss": "das Haus"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:11.142261281Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Dein ⟨sind⟩ die Himmel, ja auch dein ⟨ist die⟩ Erde; die Welt und ihre Fülle — du hast sie gegründet.",
+  "tokens": [
+    {
+      "surface": "לְךָ֣",
+      "gloss": "dein"
+    },
+    {
+      "surface": "שָׁ֭מַיִם",
+      "gloss": "die Himmel"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "ja auch"
+    },
+    {
+      "surface": "לְךָ֥",
+      "gloss": "dein"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "תֵּבֵ֥ל",
+      "gloss": "die Welt"
+    },
+    {
+      "surface": "וּ֝מְלֹאָ֗הּ",
+      "gloss": "und ihre Fülle"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יְסַדְתָּֽם",
+      "gloss": "hast sie gegründet"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:29.269651056Z",
+  "model": "glm-5.2"
+}

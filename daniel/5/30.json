@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "In jener Nacht wurde Belschazzar, der König der Kasdäer, getötet.",
+  "tokens": [
+    {
+      "surface": "בֵּ֚הּ",
+      "gloss": "In"
+    },
+    {
+      "surface": "בְּלֵ֣ילְיָ֔א",
+      "gloss": "jener Nacht"
+    },
+    {
+      "surface": "קְטִ֕יל",
+      "gloss": "wurde getötet"
+    },
+    {
+      "surface": "בֵּלְאשַׁצַּ֖ר",
+      "gloss": "Belschazzar"
+    },
+    {
+      "surface": "מַלְכָּ֥א",
+      "gloss": "der König"
+    },
+    {
+      "surface": "כַּשְׂדִּיָּֽא",
+      "gloss": "der Kasdäer"
+    }
+  ],
+  "timestamp": "2026-08-06T07:12:48.444086932Z",
+  "model": "glm-5.2"
+}

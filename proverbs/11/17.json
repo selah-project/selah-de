@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Ein Mann, ⟨der⟩ seiner Nefesch Gutes erweist, ⟨ist⟩ Chessed, ⟨aber⟩ wer sein eigenes Fleisch quält, ⟨ist⟩ grausam.",
+  "tokens": [
+    {
+      "surface": "גֹּמֵל",
+      "gloss": "erweist Gutes"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "seiner Nefesch"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "Ein Mann"
+    },
+    {
+      "surface": "חָסֶד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "וְעֹכֵר",
+      "gloss": "⟨aber⟩ wer quält"
+    },
+    {
+      "surface": "שְׁאֵרוֹ",
+      "gloss": "sein eigenes Fleisch"
+    },
+    {
+      "surface": "אַכְזָרִי",
+      "gloss": "grausam"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:43.188297170Z",
+  "model": "glm-5.2"
+}

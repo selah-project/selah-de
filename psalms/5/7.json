@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Du wirst zugrunde richten ⟨die⟩ Lügenredner. Ein Mann der Bluttaten und der Täuschung — JHWH verabscheut ⟨ihn⟩.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "Du wirst zugrunde richten"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨die⟩ Redner"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "der Lüge"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ein Mann"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "der Bluttaten"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "und der Täuschung"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "verabscheut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:40.935751550Z",
+  "model": "glm-5.2"
+}

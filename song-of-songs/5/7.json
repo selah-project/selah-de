@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Die Wächter, die in der Stadt umhergingen, fanden mich, sie schlugen mich, sie verwundeten mich; die Wächter der Mauern hoben ⟨את⟩ meinen Schleier von mir auf.",
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "fanden mich"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "die Wächter"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "die umhergingen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "sie schlugen mich"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "sie verwundeten mich"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "hoben auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Schleier"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "meinen Schleier"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "die Wächter"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "der Mauern"
+    }
+  ],
+  "timestamp": "2026-08-06T10:38:30.079553460Z",
+  "model": "glm-5.2"
+}

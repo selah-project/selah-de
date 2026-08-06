@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "⟨את⟩ zwei Wagen und ⟨את⟩ vier Rinder gab er den Söhnen Gerschon, nach ihrem Dienst.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zwei Wagen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "Wagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "vier Rinder"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "vier"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "Rinder"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gab"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerschon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "nach"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ihrem Dienst"
+    }
+  ],
+  "timestamp": "2026-08-06T02:15:38.761072616Z",
+  "model": "glm-5.2"
+}

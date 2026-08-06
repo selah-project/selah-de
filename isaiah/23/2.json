@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 23,
+  "translation": " Verstummt, ihr Bewohner der Küste! ⟨Ein⟩ Händler ⟨von⟩ Tzidon, der das Meer überquerte — ⟨euch⟩ haben sie gefüllt.",
+  "tokens": [
+    {
+      "surface": "דֹּמּוּ",
+      "gloss": "Verstummt"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "ihr Bewohner"
+    },
+    {
+      "surface": "אִי",
+      "gloss": "der Küste"
+    },
+    {
+      "surface": "סֹחֵר",
+      "gloss": "Händler"
+    },
+    {
+      "surface": "צִידוֹן",
+      "gloss": "Tzidon(s)"
+    },
+    {
+      "surface": "עֹבֵר",
+      "gloss": "der überquerte"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "מִלְאֽוּךְ",
+      "gloss": "haben sie ⟨euch⟩ gefüllt"
+    }
+  ],
+  "timestamp": "2026-08-06T03:15:39.975438734Z",
+  "model": "glm-5.2"
+}

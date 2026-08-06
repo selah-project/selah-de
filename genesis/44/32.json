@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Denn dein Knecht hat für den Jungen bei meinem Vater gebürgt, ⟨als⟩ ⟨ich⟩ sagte: Wenn ich ihn nicht zu dir bringe, dann werde ich gegen meinen Vater alle Tage schuldig sein.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "dein Knecht"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hat gebürgt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jungen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "der Junge"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meinem Vater"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sagte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "ich ihn bringe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "dann werde ich schuldig sein"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "gegen meinen Vater"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-05T17:42:19.591184022Z",
+  "model": "glm-5.2"
+}

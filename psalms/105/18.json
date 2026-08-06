@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Sie demütigten seine Füße in Fesseln, in Eisen kam seine Nefesch —",
+  "tokens": [
+    {
+      "surface": "עִנּ֣וּ",
+      "gloss": "Sie demütigten"
+    },
+    {
+      "surface": "בַכֶּ֣בֶל",
+      "gloss": "in Fesseln"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "seine Füße"
+    },
+    {
+      "surface": "בַּ֝רְזֶ֗ל",
+      "gloss": "in Eisen"
+    },
+    {
+      "surface": "בָּ֣אָה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "נַפְשֽׁוֹ",
+      "gloss": "seine Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:42.110753992Z",
+  "model": "glm-5.2"
+}

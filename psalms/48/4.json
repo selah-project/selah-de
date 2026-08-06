@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Elohim — in ihren Palästen ⟨ist er⟩ als Zuflucht bekannt.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "in ihren Palästen"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "⟨ist⟩ bekannt"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "als Zuflucht"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:17.510863084Z",
+  "model": "glm-5.2"
+}

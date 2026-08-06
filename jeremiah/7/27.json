@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und du sollst zu ihnen sprechen ⟨את⟩ all diese Worte, aber sie werden nicht auf dich hören; und du sollst zu ihnen rufen, aber sie werden dir nicht antworten.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Und du sollst sprechen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all diese Worte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨die⟩ Worte"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "werden sie hören"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "und du sollst rufen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "werden sie dir antworten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:00:50.127235721Z",
+  "model": "glm-5.2"
+}

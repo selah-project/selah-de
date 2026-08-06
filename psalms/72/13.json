@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Er wird sich erbarmen über ⟨den⟩ Geringen und ⟨den⟩ Bedürftigen, und die Nefeschot der Bedürftigen wird er retten.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "wird sich erbarmen"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨den⟩ Geringen"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "und ⟨den⟩ Bedürftigen"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "und die Nefeschot"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "der Bedürftigen"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "wird er retten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:46.774653975Z",
+  "model": "glm-5.2"
+}

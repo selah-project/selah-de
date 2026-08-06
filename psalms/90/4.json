@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 90,
+  "translation": "Denn tausend Jahre sind in deinen Augen wie der gestrige Tag, wenn er vorübergeht, und ⟨wie⟩ eine Nachtwache in der Nacht.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אֶ֪לֶף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "שָׁנִ֡ים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "בְּֽעֵינֶ֗יךָ",
+      "gloss": "in deinen Augen"
+    },
+    {
+      "surface": "כְּי֣וֹם",
+      "gloss": "wie der Tag"
+    },
+    {
+      "surface": "אֶ֭תְמוֹל",
+      "gloss": "gestrigen"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יַעֲבֹ֑ר",
+      "gloss": "er vorübergeht"
+    },
+    {
+      "surface": "וְאַשְׁמוּרָ֥ה",
+      "gloss": "und ⟨wie⟩ eine Wache"
+    },
+    {
+      "surface": "בַלָּֽיְלָה",
+      "gloss": "in der Nacht"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:29.456251799Z",
+  "model": "glm-5.2"
+}

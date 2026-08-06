@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 11:20",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und es geschieht: wenn der Zorn des Königs aufsteigt und er zu dir sagt: Warum seid ihr herangetreten an die Stadt, um zu kämpfen? Wusstet ihr nicht ⟨את⟩ das, was sie von der Mauer herabschießen?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "und es geschieht"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "aufsteigt"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "der Zorn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und er sagt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "warum"
+    },
+    {
+      "surface": "נגשתם",
+      "gloss": "seid ihr herangetreten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "um zu kämpfen"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "wusstet ihr nicht"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "[wusstet ihr]"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "ירו",
+      "gloss": "sie schießen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "der Mauer"
+    }
+  ],
+  "timestamp": "2026-08-06T01:15:31.664588973Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und sie ließen ⟨את⟩ die Lade des Elohim auf einen neuen Wagen fahren, aus dem Haus Awjinadaws, und Ussa und Achjo lenkten den Wagen.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "Und sie ließen fahren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Lade"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "einen Wagen"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "neuen"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aus dem Haus"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Awjinadaws"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "und Ussa"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "und Achjo"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "lenkten"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "den Wagen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:33:55.581862576Z",
+  "model": "glm-5.2"
+}

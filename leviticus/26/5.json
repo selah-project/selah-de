@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und ⟨es wird⟩ euch die Dreschzeit ⟨את⟩ die Weinlese einholen, und die Weinlese wird ⟨את⟩ die Saat einholen, und ihr werdet euer Brot essen bis zur Sättigung und in eurem Land wohnen in Sicherheit.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "und ⟨es wird⟩ einholen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "die Dreschzeit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Weinlese"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "die Weinlese"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "und die Weinlese"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "wird einholen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Saat"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "die Saat"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "und ihr werdet essen"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "euer Brot"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "bis zur Sättigung"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "und ihr werdet wohnen"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "in Sicherheit"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "in eurem Land"
+    }
+  ],
+  "timestamp": "2026-08-06T05:21:27.286629306Z",
+  "model": "glm-5.2"
+}

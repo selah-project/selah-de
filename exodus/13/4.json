@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Heute zieht ihr aus, im Monat des Awib.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Heute"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "zieht aus"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "im Monat"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "des Awib"
+    }
+  ],
+  "timestamp": "2026-08-06T00:15:26.309533643Z",
+  "model": "glm-5.2"
+}

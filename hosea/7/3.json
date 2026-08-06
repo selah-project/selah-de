@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Mit ihrer Bosheit erfreuen sie ⟨den⟩ König, und mit ihren Lügen ⟨die⟩ Fürsten.",
+  "tokens": [
+    {
+      "surface": "בְּרָעָתָ֖ם",
+      "gloss": "Mit ihrer Bosheit"
+    },
+    {
+      "surface": "יְשַׂמְּח֖וּ",
+      "gloss": "erfreuen sie"
+    },
+    {
+      "surface": "מֶ֑לֶךְ",
+      "gloss": "⟨den⟩ König"
+    },
+    {
+      "surface": "וּבְכַחֲשֵׁיהֶֽם",
+      "gloss": "und mit ihren Lügen"
+    },
+    {
+      "surface": "שָׂרִֽים",
+      "gloss": "⟨die⟩ Fürsten"
+    }
+  ],
+  "timestamp": "2026-08-06T03:57:38.850895489Z",
+  "model": "glm-5.2"
+}

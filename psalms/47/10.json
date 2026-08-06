@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Die Edlen der Völker sind versammelt worden ⟨als⟩ ⟨das⟩ Volk des Elohim Awrahams. Denn dem Elohim ⟨gehören⟩ die Schilde der Erde; er ist sehr erhaben.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "Die Edlen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "der Völker"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "sind versammelt worden"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨als⟩ ⟨das⟩ Volk"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahams"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "dem Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "die Schilde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "er ist erhaben"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:38.116137158Z",
+  "model": "glm-5.2"
+}

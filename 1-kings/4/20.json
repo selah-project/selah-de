@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Jehudah und Israel ⟨waren⟩ viele, wie der Sand, der am Meer ⟨liegt⟩, an Menge, essend und trinkend und sich freuend.",
+  "tokens": [
+    {
+      "surface": "יְהוּדָ֤ה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "וְיִשְׂרָאֵל֙",
+      "gloss": "und Israel"
+    },
+    {
+      "surface": "רַבִּ֔ים",
+      "gloss": "viele"
+    },
+    {
+      "surface": "כַּח֥וֹל",
+      "gloss": "wie der Sand"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "der"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "am"
+    },
+    {
+      "surface": "הַיָּ֖ם",
+      "gloss": "Meer"
+    },
+    {
+      "surface": "לָרֹ֑ב",
+      "gloss": "an Menge"
+    },
+    {
+      "surface": "אֹכְלִ֥ים",
+      "gloss": "essend"
+    },
+    {
+      "surface": "וְשֹׁתִ֖ים",
+      "gloss": "und trinkend"
+    },
+    {
+      "surface": "וּשְׂמֵחִֽים",
+      "gloss": "und sich freuend"
+    }
+  ],
+  "timestamp": "2026-08-06T01:23:00.165196788Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Ruf doch — ob ⟨es⟩ einen gibt, ⟨der⟩ dir antwortet, und zu wem von den Heiligen wendest du dich?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Ruf"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ob ⟨es⟩ einen gibt"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "dir antwortet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wem"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "den Heiligen"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "wendest du dich"
+    }
+  ],
+  "timestamp": "2026-08-06T09:23:00.582302729Z",
+  "model": "glm-5.2"
+}

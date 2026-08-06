@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "„Rührt meine Gesalbten nicht an, und meinen Nawiim tut nichts Böses!“",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "rührt an"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "meine Gesalbten"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "und meinen Nawiim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "tut Böses"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:28.228942532Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 24:2",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und JHWH sandte gegen ihn ⟨את⟩ die Streifschar der Kasdäer und ⟨את⟩ die Streifschar von Aram und ⟨את⟩ die Streifschar von Moaw und ⟨את⟩ die Streifschar der Söhne Ammons, und er sandte sie gegen Jehuda, um es zugrunde zu richten — nach dem Wort JHWHs, das er durch die Hand seiner Knechte, der Nawijim, gesprochen hatte.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und ⟨er⟩ sandte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gegen ihn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Streifschar der Kasdäer"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "die Streifschar"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "der Kasdäer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Streifschar von Aram"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "die Streifschar"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "von Aram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Streifschar von Moaw"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "die Streifschar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "von Moaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Streifschar der Söhne Ammons"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "die Streifschar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "und ⟨er⟩ sandte sie"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "gegen Jehuda"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "um es zugrunde zu richten"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nach dem Wort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "er gesprochen hatte"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seiner Knechte"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "der Nawijim"
+    }
+  ],
+  "timestamp": "2026-08-06T08:49:33.895579289Z",
+  "model": "glm-5.2"
+}

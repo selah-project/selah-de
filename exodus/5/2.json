@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Paro sagte: „Wer ist JHWH, dass ich auf seine Stimme hören sollte, um ⟨את⟩ Jisrael loszuschicken? Ich kenne ⟨את⟩ JHWH nicht, und auch ⟨את⟩ Jisrael werde ich nicht losschicken.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ich hören sollte"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "auf seine Stimme"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "um loszuschicken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ich kenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "werde ich losschicken"
+    }
+  ],
+  "timestamp": "2026-08-06T02:01:23.550845518Z",
+  "model": "glm-5.2"
+}

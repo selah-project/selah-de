@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Heiß ward mein Herz in meinem Innern; während ich sann, entbrannte Feuer — ich redete mit meiner Zunge.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Heiß"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "in meinem Innern"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "während ich sann"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "entbrannte"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ich redete"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "mit meiner Zunge"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:18.362025939Z",
+  "model": "glm-5.2"
+}

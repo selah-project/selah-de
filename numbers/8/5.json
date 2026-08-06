@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und JHWH sprach zu Mosche, ⟨und sprach⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und sprach⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T02:15:57.292394914Z",
+  "model": "glm-5.2"
+}

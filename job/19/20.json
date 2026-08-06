@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "An meiner Haut und an meinem Fleisch klebt mein Gebein, und ⟨ich⟩ bin entkommen mit der Haut meiner Zähne.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "an meiner Haut"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "und an meinem Fleisch"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "klebt"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mein Gebein"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "und ⟨ich⟩ bin entkommen"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "mit der Haut"
+    },
+    {
+      "surface": "שני",
+      "gloss": "meiner Zähne"
+    }
+  ],
+  "timestamp": "2026-08-05T23:20:38.194008108Z",
+  "model": "glm-5.2"
+}

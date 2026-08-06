@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Alle Völker, klatscht ⟨in die⟩ Hand! Jauchzt Elohim zu mit der Stimme des Jubels!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "klatscht"
+    },
+    {
+      "surface": "כף",
+      "gloss": "⟨in die⟩ Hand"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Jauchzt"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "zu mit der Stimme"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "des Jubels"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:06.730096632Z",
+  "model": "glm-5.2"
+}

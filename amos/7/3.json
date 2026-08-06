@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "JHWH ließ sich ⟨das⟩ gereuen um dies: „Es soll nicht geschehen\", sprach JHWH.",
+  "tokens": [
+    {
+      "surface": "נִחַ֥ם",
+      "gloss": "ließ sich gereuen"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "um"
+    },
+    {
+      "surface": "זֹ֑את",
+      "gloss": "dies"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִהְיֶ֖ה",
+      "gloss": "soll geschehen"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T22:45:58.276185625Z",
+  "model": "glm-5.2"
+}

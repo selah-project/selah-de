@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Er kehrt nicht mehr zurück zu seinem Haus, und sein Ort erkennt ihn nicht mehr.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kehrt ⟨er⟩ zurück"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "zu seinem Haus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "erkennt ⟨er ihn⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "sein Ort"
+    }
+  ],
+  "timestamp": "2026-08-06T04:32:46.427627264Z",
+  "model": "glm-5.2"
+}

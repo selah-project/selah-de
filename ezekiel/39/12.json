@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Und ⟨sie⟩, das Haus Israel, werden sie begraben, um ⟨את⟩ das Land zu reinigen — sieben Monate lang.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "Und ⟨sie⟩ werden ⟨sie⟩ begraben"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "zu reinigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "Monate"
+    }
+  ],
+  "timestamp": "2026-08-06T15:18:33.985487134Z",
+  "model": "glm-5.2"
+}

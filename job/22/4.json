@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Ist es aus Furcht vor dir, dass er dich zurechtweist, dass er ⟨mit⟩ dir ⟨in⟩ ⟨das⟩ Gericht kommt?",
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "Ist es aus Furcht vor dir"
+    },
+    {
+      "surface": "יכיחך",
+      "gloss": "dass er dich zurechtweist"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dass er ⟨in⟩ kommt"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨mit⟩ dir"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨das⟩ Gericht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:20:44.519111557Z",
+  "model": "glm-5.2"
+}

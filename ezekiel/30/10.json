@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "So spricht Adonai JHWH: Und ich werde ⟨את⟩ die Menge Mizrajims ein Ende machen lassen durch die Hand Nebukadrezars, des Königs von Bawel.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "und ich werde ein Ende machen lassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Menge Mizrajims"
+    },
+    {
+      "surface": "המון",
+      "gloss": "die Menge"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajims"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadrezars"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "von Bawel"
+    }
+  ],
+  "timestamp": "2026-08-06T03:51:17.606839466Z",
+  "model": "glm-5.2"
+}

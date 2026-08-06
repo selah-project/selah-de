@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ich, ich sagte: Weisheit ist besser als Stärke. Doch die Weisheit des Armen wird verachtet, und seine Worte werden nicht gehört.",
+  "tokens": [
+    {
+      "surface": "וְאָמַ֣רְתִּי",
+      "gloss": "Und ich sagte"
+    },
+    {
+      "surface": "אָ֔נִי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "טוֹבָ֥ה",
+      "gloss": "ist besser"
+    },
+    {
+      "surface": "חָכְמָ֖ה",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "מִגְּבוּרָ֑ה",
+      "gloss": "als Stärke"
+    },
+    {
+      "surface": "וְחָכְמַ֤ת",
+      "gloss": "Doch die Weisheit"
+    },
+    {
+      "surface": "הַמִּסְכֵּן֙",
+      "gloss": "des Armen"
+    },
+    {
+      "surface": "בְּזוּיָ֔ה",
+      "gloss": "wird verachtet"
+    },
+    {
+      "surface": "וּדְבָרָ֖יו",
+      "gloss": "und seine Worte"
+    },
+    {
+      "surface": "אֵינָ֥ם",
+      "gloss": "werden nicht"
+    },
+    {
+      "surface": "נִשְׁמָעִֽים",
+      "gloss": "gehört"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:16.716534747Z",
+  "model": "glm-5.2"
+}

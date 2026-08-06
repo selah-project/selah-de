@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und die oberen Zellen ⟨waren⟩ verkürzt, denn ⟨die⟩ Galerien fraßen von ihnen weg — von den unteren und von den mittleren ⟨im⟩ Bau.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "Und die Zellen"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "die oberen"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "waren verkürzt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "fraßen weg"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "die Galerien"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "von ihnen"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "von den unteren"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "und von den mittleren"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "Bau"
+    }
+  ],
+  "timestamp": "2026-08-05T22:29:06.755160748Z",
+  "model": "glm-5.2"
+}

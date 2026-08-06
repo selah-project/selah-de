@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Es sagen nun ⟨die⟩ Nachkommen Aharons: „Denn für immer ⟨währt⟩ sein Chessed.“",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Es sagen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨die⟩ Nachkommen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:35.830080016Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und die Söhne Jisra'els flohen vor Jehuda, und Elohim gab sie in ihre Hand.",
+  "tokens": [
+    {
+      "surface": "וַיָּנ֥וּסוּ",
+      "gloss": "Und sie flohen"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "מִפְּנֵ֣י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וַיִּתְּנֵ֥ם",
+      "gloss": "und gab sie"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּיָדָֽם",
+      "gloss": "in ihre Hand"
+    }
+  ],
+  "timestamp": "2026-08-05T23:56:41.393719434Z",
+  "model": "glm-5.2"
+}

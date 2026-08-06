@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und sie gebar ihm Söhne: ⟨את⟩ Jeusch und ⟨את⟩ Schemarja und ⟨את⟩ Saham.",
+  "tokens": [
+    {
+      "surface": "וַתֵּ֥לֶד",
+      "gloss": "und sie gebar"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "בָּנִ֑ים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Jeusch"
+    },
+    {
+      "surface": "יְע֥וּשׁ",
+      "gloss": "Jeusch"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Schemarja"
+    },
+    {
+      "surface": "שְׁמַרְיָ֖ה",
+      "gloss": "Schemarja"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Saham"
+    },
+    {
+      "surface": "זָֽהַם",
+      "gloss": "Saham"
+    }
+  ],
+  "timestamp": "2026-08-05T23:56:32.772474139Z",
+  "model": "glm-5.2"
+}

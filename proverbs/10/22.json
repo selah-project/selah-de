@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Der Segen JHWHs, er macht reich, und ⟨er⟩ fügt keine Mühsal hinzu ⟨dazu⟩.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "Der Segen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "היא",
+      "gloss": "er"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "macht reich"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨er⟩ nicht"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "fügt hinzu"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "Mühsal"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "⟨dazu⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:09.982584183Z",
+  "model": "glm-5.2"
+}

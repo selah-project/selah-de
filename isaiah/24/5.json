@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und die Erde ist entweiht unter ihren Bewohnern, denn ⟨sie⟩ haben die Tora übertreten, haben die Ordnung verändert, haben ⟨den⟩ Brit (Bund) der Ewigkeit gebrochen.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "und die Erde"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "ist entweiht"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ihren Bewohnern"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "haben übertreten"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "haben verändert"
+    },
+    {
+      "surface": "חק",
+      "gloss": "die Ordnung"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "haben gebrochen"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨den⟩ Brit (Bund)"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "der Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T03:15:28.723186757Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und der Knecht erzählte Jizchak ⟨את⟩ alle die Dinge, die er getan hatte.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "Und erzählte"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "der Knecht"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "dem Jizchak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle die Dinge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die Dinge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er getan hatte"
+    }
+  ],
+  "timestamp": "2026-08-06T20:03:01.045430609Z",
+  "model": "glm-5.2"
+}

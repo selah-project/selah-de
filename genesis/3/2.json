@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und die Frau sprach zur Schlange: „Von der Frucht der Bäume des Gartens essen wir.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Und ⟨sie⟩ sprach"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "der Schlange"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Von der Frucht"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "der Bäume"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "des Gartens"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "essen wir"
+    }
+  ],
+  "timestamp": "2026-08-06T01:51:55.963247180Z",
+  "model": "glm-5.2"
+}

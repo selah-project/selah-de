@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 18:16",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "und ⟨er hat⟩ keinen Menschen bedrückt, ein Pfand hat er nicht gepfändet, und Raub hat er nicht geraubt; sein Brot hat er dem Hungrigen gegeben und den Nackten mit einem Kleid bedeckt.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "und ⟨keinen⟩ Menschen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הונה",
+      "gloss": "hat bedrückt"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ein Pfand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "hat gepfändet"
+    },
+    {
+      "surface": "וגזלה",
+      "gloss": "und Raub"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "hat geraubt"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "sein Brot"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "dem Hungrigen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hat gegeben"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "und den Nackten"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "hat bedeckt"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "mit einem Kleid"
+    }
+  ],
+  "timestamp": "2026-08-06T06:21:24.464428089Z",
+  "model": "glm-5.2"
+}

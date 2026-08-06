@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Ich will JHWH besingen, in meinem Leben; ich will spielen, meinem Elohim, während ich noch bin.",
+  "tokens": [
+    {
+      "surface": "אָשִׁ֣ירָה",
+      "gloss": "Ich will besingen"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בְּחַיָּ֑י",
+      "gloss": "in meinem Leben"
+    },
+    {
+      "surface": "אֲזַמְּרָ֖ה",
+      "gloss": "ich will spielen"
+    },
+    {
+      "surface": "לֵאלֹהַ֣י",
+      "gloss": "meinem Elohim"
+    },
+    {
+      "surface": "בְּעוֹדִֽי",
+      "gloss": "während ich noch bin"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:35.437206291Z",
+  "model": "glm-5.2"
+}

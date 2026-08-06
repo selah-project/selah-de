@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Er sitzt im Hinterhalt der Höfe, in Verstecken tötet er den Unschuldigen; seine Augen lauern auf den Wehrlosen.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Er sitzt"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "im Hinterhalt"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "der Höfe"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "in Verstecken"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "tötet er"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "den Unschuldigen"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "seine Augen"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "auf den Wehrlosen"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "lauern"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:10.369792391Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und er stützte ⟨את⟩ seine Hände auf ihn und gebot ihm, so wie JHWH gesprochen hatte durch die Hand Mosches.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "und er stützte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Hände"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "seine Hände"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "und gebot ihm"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesprochen hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosches"
+    }
+  ],
+  "timestamp": "2026-08-06T00:38:28.003823625Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und wenn ein Stier ⟨את⟩ einen Mann oder ⟨את⟩ eine Frau spießt und ⟨sie⟩ sterben, soll der Stier gesteinigt werden, ja gesteinigt, und sein Fleisch soll nicht gegessen werden, und der Besitzer des Stieres ist unschuldig.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "spießt"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ein Stier"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "einen Mann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eine Frau"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Frau"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "und ⟨sie⟩ sterben"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "Steinigung"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "soll gesteinigt werden"
+    },
+    {
+      "surface": "השור",
+      "gloss": "der Stier"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "soll gegessen werden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Fleisch"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sein Fleisch"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "und der Besitzer"
+    },
+    {
+      "surface": "השור",
+      "gloss": "des Stieres"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ist unschuldig"
+    }
+  ],
+  "timestamp": "2026-08-06T02:04:55.531715793Z",
+  "model": "glm-5.2"
+}

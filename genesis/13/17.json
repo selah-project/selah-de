@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Steh auf, geh durch das Land in seiner Länge und seiner Breite, denn dir werde ich es geben.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "geh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "durch das Land"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "in seiner Länge"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "und seiner Breite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "werde ich es geben"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:53.097584842Z",
+  "model": "glm-5.2"
+}

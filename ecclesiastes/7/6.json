@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Denn wie das Prasseln der Dornen unter dem Topf, so ⟨ist⟩ das Lachen des Toren — und auch das ⟨ist⟩ Hebel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "wie das Prasseln"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "der Dornen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "dem Topf"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "das Lachen"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "des Toren"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "זה",
+      "gloss": "das"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:25.209344729Z",
+  "model": "glm-5.2"
+}

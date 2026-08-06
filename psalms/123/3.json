@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 123,
+  "translation": "Sei uns gnädig, JHWH, sei uns gnädig! Denn reichlich sind wir gesättigt mit Verachtung.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Sei uns gnädig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "sei uns gnädig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "רב",
+      "gloss": "reichlich"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "sind wir gesättigt"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "mit Verachtung"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:28.902695108Z",
+  "model": "glm-5.2"
+}

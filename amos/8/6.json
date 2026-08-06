@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "um Bedürftige um Silber zu kaufen und ⟨den⟩ Armen für ⟨ein Paar⟩ Schuhe, und Spreu des Getreides zu verkaufen?",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "um zu kaufen"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "um Silber"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "Bedürftige"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "und ⟨den⟩ Armen"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "für"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "⟨ein Paar⟩ Schuhe"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "und Spreu"
+    },
+    {
+      "surface": "בר",
+      "gloss": "des Getreides"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "zu verkaufen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:01:54.224843975Z",
+  "model": "glm-5.2"
+}

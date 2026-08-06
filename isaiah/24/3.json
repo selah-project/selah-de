@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Ausleerend wird ausleerend die Erde, und geplündert wird geplündert; denn JHWH hat ⟨את⟩ dieses Wort geredet.",
+  "tokens": [
+    {
+      "surface": "הִבּ֧וֹק",
+      "gloss": "ausleerend"
+    },
+    {
+      "surface": "תִּבּ֛וֹק",
+      "gloss": "wird ausleerend"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "וְהִבּ֣וֹז",
+      "gloss": "und geplündert"
+    },
+    {
+      "surface": "תִּבּ֑וֹז",
+      "gloss": "wird geplündert"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דִּבֶּ֖ר",
+      "gloss": "hat geredet"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Wort"
+    },
+    {
+      "surface": "הַדָּבָ֥ר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "הַזֶּֽה",
+      "gloss": "dieses"
+    }
+  ],
+  "timestamp": "2026-08-06T05:58:56.299558588Z",
+  "model": "glm-5.2"
+}

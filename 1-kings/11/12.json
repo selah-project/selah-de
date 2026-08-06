@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Nur — in deinen Tagen will ich es nicht tun, um Dawids, deines Vaters, willen; aus der Hand deines Sohnes werde ich es zerreißen.",
+  "tokens": [
+    {
+      "surface": "אַךְ",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "בְּיָמֶ֨יךָ֙",
+      "gloss": "in deinen Tagen"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אֶעֱשֶׂ֔נָּה",
+      "gloss": "will ich es tun"
+    },
+    {
+      "surface": "לְמַ֖עַן",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "דָּוִ֣ד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "אָבִ֑יךָ",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "מִיַּ֥ד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "בִּנְךָ֖",
+      "gloss": "deines Sohnes"
+    },
+    {
+      "surface": "אֶקְרָעֶֽנָּה",
+      "gloss": "werde ich es zerreißen"
+    }
+  ],
+  "timestamp": "2026-08-06T20:28:41.346198829Z",
+  "model": "glm-5.2"
+}

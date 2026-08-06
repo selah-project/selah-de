@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und sie vergaßen seine Taten und seine Wunder, die er sie sehen ließ.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "und sie vergaßen"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "seine Taten"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "und seine Wunder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "er sie sehen ließ"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:11.785429911Z",
+  "model": "glm-5.2"
+}

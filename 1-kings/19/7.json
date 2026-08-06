@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und der Mal'ach JHWH kehrte zurück ein zweites Mal und rührte ihn an, und er sprach: „Steh auf, iss, denn zu groß ist ⟨von dir aus⟩ der Weg.“",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "und er kehrte zurück"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "der Mal'ach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ein zweites Mal"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "und rührte an"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "iss"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zu groß"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "von dir aus"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "der Weg"
+    }
+  ],
+  "timestamp": "2026-08-06T03:02:23.654238712Z",
+  "model": "glm-5.2"
+}

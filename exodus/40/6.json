@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und du sollst ⟨את⟩ den Altar der Ola stellen vor den Eingang des Mischkan, des Zeltes der Begegnung.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Und du sollst stellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "Altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "der Ola"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "den Eingang"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "des Mischkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "des Zeltes"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    }
+  ],
+  "timestamp": "2026-08-06T00:22:46.833101509Z",
+  "model": "glm-5.2"
+}

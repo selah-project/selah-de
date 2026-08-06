@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Jeder half seinem Nächsten, ⟨את⟩ ⟨seinen⟩ Gefährten, und ⟨jeder⟩ sagte zu seinem Bruder: „Sei stark!\"",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "jeder ⟨Mann⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Nächsten"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "seinem Nächsten"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "half"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "und zu seinem Bruder"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sagte"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Sei stark!"
+    }
+  ],
+  "timestamp": "2026-08-05T21:52:04.155950585Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und Mosche beendete, zu sprechen ⟨את⟩ all diese Worte zu ganz Jisra'el.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "und ⟨er⟩ beendete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "zu sprechen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all diese Worte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "diese Worte"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨diese⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-06T05:30:28.278656103Z",
+  "model": "glm-5.2"
+}

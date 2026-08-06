@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Dies ⟨ist⟩ die Salbung Aharons und die Salbung seiner Söhne, von den Feueropfern JHWHs, am Tag, da man ⟨את⟩ sie heranbrachte, als Kohen zu dienen dem JHWH.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "die Salbung"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "und die Salbung"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seiner Söhne"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "von den Feueropfern"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "man heranbrachte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "als Kohen zu dienen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dem JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:55.844579611Z",
+  "model": "glm-5.2"
+}

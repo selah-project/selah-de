@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Knechte haben über uns geherrscht — ⟨es gibt keinen, der⟩ Befreiung ⟨bringt⟩ aus ihrer Hand.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "Knechte"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "haben geherrscht"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "über uns"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "Befreiung"
+    },
+    {
+      "surface": "אין",
+      "gloss": "es gibt keinen"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "aus ihrer Hand"
+    }
+  ],
+  "timestamp": "2026-08-06T19:54:32.713111063Z",
+  "model": "glm-5.2"
+}

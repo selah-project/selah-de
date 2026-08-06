@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und die Knechte Schauls sagten zu ihm: „Siehe doch, ⟨ein⟩ böser Geist Elohim schreckt dich.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "und sagten"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die Knechte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨ein⟩ Geist"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "böser"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "schreckt dich"
+    }
+  ],
+  "timestamp": "2026-08-05T21:12:06.786219679Z",
+  "model": "glm-5.2"
+}

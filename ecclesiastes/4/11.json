@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Auch wenn zwei liegen, ⟨dann⟩ ist ihnen warm; wie aber soll dem Einen warm werden?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Auch"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "liegen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "⟨dann⟩ ⟨ist⟩ warm"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "wie aber dem Einen"
+    },
+    {
+      "surface": "איך",
+      "gloss": "soll"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "warm werden"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:13.266200834Z",
+  "model": "glm-5.2"
+}

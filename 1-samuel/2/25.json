@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 2:25",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Wenn ein Mann gegen ⟨einen⟩ Mann sündigt, ⟨dann⟩ wird Elohim ⟨ihn⟩ richten; wenn aber ein Mann gegen JHWH sündigt, wer wird für ihn eintreten? Und sie hörten nicht auf die Stimme ihres Vaters, denn JHWH wollte sie töten.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "sündigt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "gegen ⟨einen⟩ Mann"
+    },
+    {
+      "surface": "ופללו",
+      "gloss": "⟨dann⟩ wird richten"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wenn aber"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "gegen JHWH"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "sündigt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "wird eintreten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "für ihn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Und ⟨sie⟩ nicht"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hörten"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ihres Vaters"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wollte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "להמיתם",
+      "gloss": "sie töten"
+    }
+  ],
+  "timestamp": "2026-08-06T01:03:03.772808518Z",
+  "model": "glm-5.2"
+}

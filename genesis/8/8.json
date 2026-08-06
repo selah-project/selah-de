@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨er⟩ sandte ⟨את⟩ die Taube von sich aus, um zu sehen, ob das Wasser sich vermindert hatte vom Erdboden hin.",
+  "tokens": [
+    {
+      "surface": "וַיְשַׁלַּ֥ח",
+      "gloss": "und ⟨er⟩ sandte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Taube"
+    },
+    {
+      "surface": "הַיּוֹנָ֖ה",
+      "gloss": "die Taube"
+    },
+    {
+      "surface": "מֵאִתֹּ֑ו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "לִרְאוֹת֙",
+      "gloss": "um zu sehen"
+    },
+    {
+      "surface": "הֲקַלּוּ֣",
+      "gloss": "ob … sich vermindert hatten"
+    },
+    {
+      "surface": "הַמַּ֔יִם",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "מֵעַ֖ל",
+      "gloss": "von … hin"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "⟨der Fläche⟩"
+    },
+    {
+      "surface": "הָאֲדָמָֽה",
+      "gloss": "des Erdbodens"
+    }
+  ],
+  "timestamp": "2026-08-06T19:23:29.173956838Z",
+  "model": "glm-5.2"
+}

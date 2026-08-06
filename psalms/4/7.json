@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Viele sagen: „Wer wird uns ⟨das⟩ Gute sehen lassen?\" — hebe über uns das Licht deines Angesichts, JHWH!",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Viele"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "sagen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "wird uns sehen lassen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gute"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "hebe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "über uns"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Licht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "deines Angesichts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T22:46:36.223008604Z",
+  "model": "glm-5.2"
+}

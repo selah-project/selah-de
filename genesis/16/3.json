@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und Sarai, ⟨die⟩ Frau Awrahams, nahm ⟨את⟩ Hagar, die Mizrija, ihre Magd, am Ende von zehn Jahren ⟨des⟩ Wohnens Awrahams im Land Kenaan, und gab ⟨את⟩ sie Awraham, ihrem Mann, ihm zur Frau.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "und nahm"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨die⟩ Frau"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awrahams"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagar"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "die Mizrija"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "ihre Magd"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "am Ende von"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "⟨des⟩ Wohnens"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awrahams"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie Awraham"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ihrem Mann"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "zur Frau"
+    }
+  ],
+  "timestamp": "2026-08-06T00:04:39.819716129Z",
+  "model": "glm-5.2"
+}

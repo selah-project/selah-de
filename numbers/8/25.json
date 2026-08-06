@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und von ⟨einem Sohn von⟩ fünfzig Jahren soll er zurückkehren vom Heerdienst der Arbeit, und ⟨er⟩ soll nicht mehr dienen.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "und von ⟨einem Sohn von⟩"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fünfzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "soll er zurückkehren"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "vom Heerdienst"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "der Arbeit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨soll⟩ nicht"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "dienen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mehr"
+    }
+  ],
+  "timestamp": "2026-08-06T05:23:08.958840979Z",
+  "model": "glm-5.2"
+}

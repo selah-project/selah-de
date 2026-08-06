@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und Dawid hörte in der Wüste, dass Nabal ⟨את⟩ seine Herde schor.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Und ⟨er⟩ hörte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "schor"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Herde"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "seine Herde"
+    }
+  ],
+  "timestamp": "2026-08-06T02:46:11.706350028Z",
+  "model": "glm-5.2"
+}

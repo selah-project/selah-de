@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Deine Pfeile ⟨sind⟩ geschärft — Völker fallen unter dir — ins Herz der Feinde des Königs.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "Deine Pfeile"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "geschärft"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "unter dir"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "fallen"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ins Herz"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "der Feinde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:30.746398699Z",
+  "model": "glm-5.2"
+}

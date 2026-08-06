@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und sie versuchten und empörten sich gegen ⟨את⟩ Elohim, den Höchsten, und seine Zeugungen hielten sie nicht.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "Und sie versuchten"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "und empörten sich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "den Höchsten"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "und seine Zeugungen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "sie hielten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:39.190496441Z",
+  "model": "glm-5.2"
+}

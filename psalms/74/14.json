@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Du zerschmettertest die Köpfe des Liwjaatan, gabst ihn ⟨als⟩ Speise dem Volk, den Wüstenbewohnern.",
+  "tokens": [
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "רִ֭צַּצְתָּ",
+      "gloss": "zerschmettertest"
+    },
+    {
+      "surface": "רָאשֵׁ֣י",
+      "gloss": "die Köpfe"
+    },
+    {
+      "surface": "לִוְיָתָ֑ן",
+      "gloss": "des Liwjaatan"
+    },
+    {
+      "surface": "תִּתְּנֶ֥נּוּ",
+      "gloss": "gabst ihn"
+    },
+    {
+      "surface": "מַאֲכָ֗ל",
+      "gloss": "⟨als⟩ Speise"
+    },
+    {
+      "surface": "לְעָ֣ם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "לְצִיִּֽים",
+      "gloss": "den Wüstenbewohnern"
+    }
+  ],
+  "timestamp": "2026-08-06T09:16:18.189794618Z",
+  "model": "glm-5.2"
+}

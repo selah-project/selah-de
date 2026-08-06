@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 38:33",
+  "book": "job",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Kennst du die Ordnungen des Himmels, ⟨oder⟩ stellst du ⟨seine⟩ Herrschaft auf ⟨der⟩ Erde ein?",
+  "tokens": [
+    {
+      "surface": "הֲ֭יָדַעְתָּ",
+      "gloss": "Kennst du"
+    },
+    {
+      "surface": "חֻקּ֣וֹת",
+      "gloss": "die Ordnungen"
+    },
+    {
+      "surface": "שָׁמָ֑יִם",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "⟨oder⟩"
+    },
+    {
+      "surface": "תָּשִׂ֖ים",
+      "gloss": "stellst du … ein"
+    },
+    {
+      "surface": "מִשְׁטָר֣וֹ",
+      "gloss": "⟨seine⟩ Herrschaft"
+    },
+    {
+      "surface": "בָאָֽרֶץ",
+      "gloss": "auf ⟨der⟩ Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T07:05:05.908495176Z",
+  "model": "glm-5.2"
+}

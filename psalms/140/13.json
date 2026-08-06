@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 140,
+  "translation": "Ich weiß, dass JHWH ⟨das⟩ Recht des Elenden tun wird, das Verfahren der Dürftigen.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ich weiß"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tun wird"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דין",
+      "gloss": "⟨das⟩ Recht"
+    },
+    {
+      "surface": "עני",
+      "gloss": "des Elenden"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "das Verfahren"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "der Dürftigen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:10.933288020Z",
+  "model": "glm-5.2"
+}

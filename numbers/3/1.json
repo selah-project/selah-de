@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und dies ⟨sind⟩ die Geschlechter Aharons und Mosches am Tag, ⟨an dem⟩ JHWH ⟨את⟩ Mosche redete auf dem Berg Sinai.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "die Geschlechter"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "und Mosches"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "redete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "auf dem Berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-06T00:31:34.929529625Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 9:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨euer⟩ Schrecken und ⟨eure⟩ Furcht sei auf allem Getier der Erde und auf allem Geflügel des Himmels, allem, was sich auf dem Ackerboden regt, und allen Fischen des Meeres — in ⟨eure⟩ Hand sind sie gegeben.",
+  "tokens": [
+    {
+      "surface": "ומוראכם",
+      "gloss": "Und ⟨euer⟩ Schrecken"
+    },
+    {
+      "surface": "וחתכם",
+      "gloss": "und ⟨eure⟩ Furcht"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allem"
+    },
+    {
+      "surface": "חית",
+      "gloss": "Getier"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allem"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "Geflügel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "sich regt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "auf dem Ackerboden"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "und allen"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "Fischen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "des Meeres"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in ⟨eure⟩ Hand"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "sind sie gegeben"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:14.103683072Z",
+  "model": "glm-5.2"
+}

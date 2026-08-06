@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Dawid machte ⟨sich⟩ einen Namen, als er zurückkehrte vom Niederschlagen ⟨את⟩ Arams im Salztal — achtzehntausend.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und machte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "einen Namen"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "als er zurückkehrte"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "vom Niederschlagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arams"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "im Tal"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Salz"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    }
+  ],
+  "timestamp": "2026-08-06T05:44:41.426882651Z",
+  "model": "glm-5.2"
+}

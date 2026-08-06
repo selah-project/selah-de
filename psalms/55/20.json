@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Möge El hören und sie antworten, und ⟨der⟩ Thronende der Urzeit — Sela: ⟨es sind⟩ solche, ⟨bei denen⟩ es keinen Wechsel für sie gibt, und Elohim fürchten sie nicht.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "möge hören"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "und sie antworten"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨der⟩ Thronende"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "der Urzeit"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨es sind⟩ solche, ⟨bei denen⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "es gibt keinen"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "Wechsel"
+    },
+    {
+      "surface": "למו",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sie fürchten"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T20:39:56.270155403Z",
+  "model": "glm-5.2"
+}

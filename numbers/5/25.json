@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und der Kohen nahm aus der Hand der Frau ⟨את⟩ das Achtopfer der Eifersucht und schwang ⟨את⟩ das Opfer vor JHWH, und er brachte es ⟨an⟩ den Altar.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Und der Kohen nahm"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "der Frau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Achtopfer der Eifersucht"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "das Achtopfer"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "der Eifersucht"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "und schwang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Opfer"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "das Opfer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "und er brachte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "es",
+      "marks": "es (an den Altar)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨an⟩"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    }
+  ],
+  "timestamp": "2026-08-05T20:30:42.610184446Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und sie luden ⟨את⟩ ihr Getreide auf ihre Esel und gingen von dort.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Und sie luden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Getreide"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ihr Getreide"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ihre Esel"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "und gingen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    }
+  ],
+  "timestamp": "2026-08-06T00:10:47.144958112Z",
+  "model": "glm-5.2"
+}

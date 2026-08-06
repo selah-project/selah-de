@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und das ganze Vieh und die Beute der Städte plünderten wir für uns.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Und das ganze"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "Vieh"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "und die Beute"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "der Städte"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "plünderten wir"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "für uns"
+    }
+  ],
+  "timestamp": "2026-08-06T00:41:49.431677575Z",
+  "model": "glm-5.2"
+}

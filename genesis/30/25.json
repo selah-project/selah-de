@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und es geschah, als Rachel ⟨את⟩ Josef geboren hatte, da sagte Jaakow zu Lawan: „Schick mich weg, dass ich gehe zu meinem Ort und zu meinem Land.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "als"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebar"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Schick mich weg"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dass ich gehe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "meinem Ort"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "und zu meinem Land"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:56.909254829Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Rühmt euch in seinem heiligen Namen, ⟨es⟩ freut sich ⟨das⟩ Herz derer, die JHWH suchen!",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Rühmt euch"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in ⟨seinem⟩ Namen"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "seiner Heiligkeit"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "⟨es⟩ freut sich"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨das⟩ Herz"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "derer, die … suchen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:38.912694958Z",
+  "model": "glm-5.2"
+}

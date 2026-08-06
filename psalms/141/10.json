@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 141,
+  "translation": "Mögen die Frevler in ihre eigenen Netze stürzen, ⟨während⟩ ich ⟨davonkomme⟩, bis ⟨ich⟩ vorüberziehe.",
+  "tokens": [
+    {
+      "surface": "יִפְּל֣וּ",
+      "gloss": "Mögen stürzen"
+    },
+    {
+      "surface": "בְמַכְמֹרָ֣יו",
+      "gloss": "in ihre Netze"
+    },
+    {
+      "surface": "רְשָׁעִ֑ים",
+      "gloss": "die Frevler"
+    },
+    {
+      "surface": "יַ֥חַד",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "אָ֝נֹכִ֗י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "עַֽד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אעבֽוֹר",
+      "gloss": "vorüberziehe"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:49.125538764Z",
+  "model": "glm-5.2"
+}

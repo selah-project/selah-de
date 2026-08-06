@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Da nahm Chanun ⟨את⟩ die Knechte Dawids und schor sie und schlug ⟨את⟩ ihre Gewänder zur Hälfte bis zur Hüfte und sandte sie weg.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Da nahm"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Knechte Dawids"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die Knechte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "und schor sie"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "und schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Gewänder"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ihre Gewänder"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "zur Hälfte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "zur Hüfte"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "und sandte sie weg"
+    }
+  ],
+  "timestamp": "2026-08-06T19:55:52.727634757Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Da warf sich Awraham nieder vor dem Volk des Landes.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁתַּ֨חוּ֙",
+      "gloss": "da warf sich nieder"
+    },
+    {
+      "surface": "אַבְרָהָ֔ם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "עַ֥ם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "des Landes"
+    }
+  ],
+  "timestamp": "2026-08-06T09:41:22.611310815Z",
+  "model": "glm-5.2"
+}

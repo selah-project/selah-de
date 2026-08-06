@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Denn wer ist ein Eloah außerhalb von JHWH? Und wer ein Fels außer unserem Eloheim?",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "wer"
+    },
+    {
+      "surface": "אֱ֭לוֹהַּ",
+      "gloss": "ein Eloah"
+    },
+    {
+      "surface": "מִבַּלְעֲדֵ֣י",
+      "gloss": "außerhalb von"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וּמִ֥י",
+      "gloss": "Und wer"
+    },
+    {
+      "surface": "צ֝֗וּר",
+      "gloss": "ein Fels"
+    },
+    {
+      "surface": "זוּלָתִ֥י",
+      "gloss": "außer"
+    },
+    {
+      "surface": "אֱלֹהֵֽינוּ",
+      "gloss": "unserem Eloheim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:48.976455719Z",
+  "model": "glm-5.2"
+}

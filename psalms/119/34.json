@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Lass mich verstehen, und ich will ⟨sie⟩ bewahren, ⟨deine⟩ Tora, und ich will ⟨sie⟩ einhalten mit ganzem Herzen.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "Lass mich verstehen"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "und ich will bewahren"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "deine Tora"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "und ich will einhalten"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit ganzem"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herzen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:04.729341004Z",
+  "model": "glm-5.2"
+}

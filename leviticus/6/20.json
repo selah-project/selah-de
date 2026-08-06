@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Jeder, der ihr Fleisch berührt, wird geheiligt, und ⟨was⟩ von ihrem Blut auf ⟨ein⟩ Kleid gespritzt wird — worauf ⟨es⟩ darauf gespritzt wird, sollst du waschen, an heiliger Stätte.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Jeder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "berührt"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "ihr Fleisch"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "wird ⟨er⟩ geheiligt"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "und ⟨was⟩"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "gespritzt wird"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "von ihrem Blut"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "⟨ein⟩ Kleid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "worauf"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "⟨es⟩ gespritzt wird"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "sollst du waschen"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "an ⟨der⟩ Stätte"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiliger"
+    }
+  ],
+  "timestamp": "2026-08-06T09:47:55.938715520Z",
+  "model": "glm-5.2"
+}

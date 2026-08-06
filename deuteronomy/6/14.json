@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Nicht sollt ihr gehen hinter anderen Elohims, von den Elohims der Völker, die rings um euch her ⟨sind⟩.",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תֵֽלְכ֔וּן",
+      "gloss": "sollt ihr gehen"
+    },
+    {
+      "surface": "אַחֲרֵ֖י",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "אֲחֵרִ֑ים",
+      "gloss": "anderen"
+    },
+    {
+      "surface": "מֵאֱלֹהֵי֙",
+      "gloss": "von den Elohims"
+    },
+    {
+      "surface": "הָֽעַמִּ֔ים",
+      "gloss": "der Völker"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "סְבִיבוֹתֵיכֶֽם",
+      "gloss": "rings um euch her"
+    }
+  ],
+  "timestamp": "2026-08-06T05:27:04.617823298Z",
+  "model": "glm-5.2"
+}

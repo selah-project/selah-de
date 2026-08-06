@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Paro hörte ⟨את⟩ dieses Wort, und er suchte Mosche zu töten. Da floh Mosche vor dem Angesicht Paros und wohnte im Land Midjan, und er saß am Brunnen.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַ֤ע",
+      "gloss": "und er hörte"
+    },
+    {
+      "surface": "פַּרְעֹה֙",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Wort"
+    },
+    {
+      "surface": "הַדָּבָ֣ר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "הַזֶּ֔ה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "וַיְבַקֵּ֖שׁ",
+      "gloss": "und er suchte"
+    },
+    {
+      "surface": "לַהֲרֹ֣ג",
+      "gloss": "zu töten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "מֹשֶׁ֑ה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "וַיִּבְרַ֤ח",
+      "gloss": "und er floh"
+    },
+    {
+      "surface": "מֹשֶׁה֙",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "מִפְּנֵ֣י",
+      "gloss": "vor dem Angesicht"
+    },
+    {
+      "surface": "פַרְעֹ֔ה",
+      "gloss": "Paros"
+    },
+    {
+      "surface": "וַיֵּ֥שֶׁב",
+      "gloss": "und er wohnte"
+    },
+    {
+      "surface": "בְּאֶֽרֶץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "מִדְיָ֖ן",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "וַיֵּ֥שֶׁב",
+      "gloss": "und er saß"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "an"
+    },
+    {
+      "surface": "הַבְּאֵֽר",
+      "gloss": "dem Brunnen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:13:18.309545375Z",
+  "model": "glm-5.2"
+}

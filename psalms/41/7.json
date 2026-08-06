@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Und ⟨ wenn ⟩ einer kommt, ⟨ um ⟩ zu besuchen — Lüge redet sein Herz, sammelt Unheil für sich; ⟨ er ⟩ geht hinaus ⟨ auf ⟩ die Straße, ⟨ und ⟩ redet.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und ⟨wenn⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "⟨um⟩ zu besuchen"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Lüge"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "redet"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sein Herz"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "sammelt"
+    },
+    {
+      "surface": "און",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "für sich"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "⟨er⟩ geht hinaus"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "⟨auf⟩ die Straße"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "⟨und⟩ redet"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:55.998346617Z",
+  "model": "glm-5.2"
+}

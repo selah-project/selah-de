@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Unsere Schritte — jetzt haben sie mich umringt, ⟨und⟩ ihre Augen haben sie darauf gerichtet, ⟨mich⟩ zur Erde zu beugen.",
+  "tokens": [
+    {
+      "surface": "אַ֭שֻׁרֵינוּ",
+      "gloss": "unsere Schritte"
+    },
+    {
+      "surface": "עַתָּ֣ה",
+      "gloss": "jetzt"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "haben sie mich umringt"
+    },
+    {
+      "surface": "עֵינֵיהֶ֥ם",
+      "gloss": "ihre Augen"
+    },
+    {
+      "surface": "יָ֝שִׁ֗יתוּ",
+      "gloss": "haben sie gerichtet"
+    },
+    {
+      "surface": "לִנְט֥וֹת",
+      "gloss": "zu beugen"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "zur Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:56.937197485Z",
+  "model": "glm-5.2"
+}

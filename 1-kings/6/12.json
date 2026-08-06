@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 6:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "„Dieses Haus, das du baust — wenn du in meinen Ordnungen gehst und ⟨את⟩ meine Rechtsbestimmungen tust und ⟨את⟩ all meine Gebote hältst, in ihnen zu gehen, dann werde ich ⟨את⟩ mein Wort mit dir bestätigen, das ich zu Dawid, deinem Vater, geredet habe.",
+  "tokens": [
+    {
+      "surface": "הבית",
+      "gloss": "⟨Das⟩ Haus"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Dieses"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "baust"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "du gehst"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "in meinen Ordnungen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Rechtsbestimmungen"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "meine Rechtsbestimmungen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tust"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "und ⟨du⟩ hältst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all meine Gebote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "meine Gebote"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "zu gehen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in ihnen"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "dann werde ich bestätigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Wort"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mein Wort"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ich geredet habe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deinem Vater"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:25.881640923Z",
+  "model": "glm-5.2"
+}

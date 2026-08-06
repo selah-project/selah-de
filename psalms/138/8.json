@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 138,
+  "translation": "JHWH wird vollenden für mich. JHWH, dein Chessed ⟨währt⟩ in Ewigkeit; die Werke deiner Hände — gib nicht auf!",
+  "tokens": [
+    {
+      "surface": "יְהוָה֮",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יִגְמֹ֪ר",
+      "gloss": "wird vollenden"
+    },
+    {
+      "surface": "בַּ֫עֲדִ֥י",
+      "gloss": "für mich"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חַסְדְּךָ֣",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "לְעוֹלָ֑ם",
+      "gloss": "in Ewigkeit"
+    },
+    {
+      "surface": "מַעֲשֵׂ֖י",
+      "gloss": "die Werke"
+    },
+    {
+      "surface": "יָדֶ֣יךָ",
+      "gloss": "deiner Hände"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תֶּֽרֶף",
+      "gloss": "gib auf"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:21.945227286Z",
+  "model": "glm-5.2"
+}

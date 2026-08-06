@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und er sagte: „Komm mit mir und sieh meinen Eifer für JHWH.\" Und sie ließen ihn auf seinem Wagen fahren.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "לְכָה",
+      "gloss": "Komm"
+    },
+    {
+      "surface": "אִתִּי",
+      "gloss": "mit mir"
+    },
+    {
+      "surface": "וּרְאֵה",
+      "gloss": "und sieh"
+    },
+    {
+      "surface": "בְּקִנְאָתִי",
+      "gloss": "meinen Eifer"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "וַיַּרְכִּבוּ",
+      "gloss": "Und sie ließen fahren"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn"
+    },
+    {
+      "surface": "בְּרִכְבּוֹ",
+      "gloss": "auf seinem Wagen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:37:18.643026029Z",
+  "model": "glm-5.2"
+}

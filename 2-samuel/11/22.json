@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und der Bote ging und kam und berichtete Dawid ⟨את⟩ alles, was Joab ihm aufgetragen hatte.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Und … ging"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "der Bote"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und kam"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "und berichtete"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "er ihm aufgetragen hatte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    }
+  ],
+  "timestamp": "2026-08-06T01:15:38.948841288Z",
+  "model": "glm-5.2"
+}

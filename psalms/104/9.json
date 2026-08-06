@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Eine Grenze hast du gesetzt — sie werden nicht hinübergehen, sie werden nicht umkehren, um die Erde zu bedecken.",
+  "tokens": [
+    {
+      "surface": "גְּֽבוּל",
+      "gloss": "Eine Grenze"
+    },
+    {
+      "surface": "שַׂ֭מְתָּ",
+      "gloss": "hast du gesetzt"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יַֽעֲבֹר֑וּן",
+      "gloss": "sie werden hinübergehen"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יְ֝שׁוּב֗וּן",
+      "gloss": "sie werden umkehren"
+    },
+    {
+      "surface": "לְכַסּ֥וֹת",
+      "gloss": "um zu bedecken"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:37.684120106Z",
+  "model": "glm-5.2"
+}

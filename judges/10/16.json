@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und sie entfernten ⟨את⟩ die Elohim der Fremde aus ihrer Mitte und dienten ⟨את⟩ JHWH. Und seine Nefesch kurzte sich über der Mühsal Jisraëls.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Und sie entfernten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Elohim der Fremde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "der Fremde"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "aus ihrer Mitte"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "und dienten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "und kurzte sich"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "seine Nefesch"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "über der Mühsal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraëls"
+    }
+  ],
+  "timestamp": "2026-08-06T08:34:56.284914061Z",
+  "model": "glm-5.2"
+}

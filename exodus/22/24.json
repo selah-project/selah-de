@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wenn du ⟨als⟩ Geld leihst ⟨את⟩ meinem Volk, ⟨את⟩ dem Armen bei dir, sollst du ihm nicht sein wie ein Gläubiger; nicht sollt ihr auf ihn legen Zins.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Geld"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "du leihst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinem Volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meinem Volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem Armen"
+    },
+    {
+      "surface": "העני",
+      "gloss": "den Armen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bei dir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sollst du sein"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "wie ein Gläubiger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "sollt ihr legen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "Zins"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:50.801545763Z",
+  "model": "glm-5.2"
+}

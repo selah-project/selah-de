@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und nach ihm richtete ⟨את⟩ Jisraël: Ibzan aus Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Und er richtete"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nach ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibzan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aus Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lechem"
+    }
+  ],
+  "timestamp": "2026-08-06T09:57:32.247436718Z",
+  "model": "glm-5.2"
+}

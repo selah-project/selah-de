@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Außer der Ola des Morgens, die zur Ola des Tamid ⟨gehört⟩, sollt ihr ⟨את⟩ diese machen.",
+  "tokens": [
+    {
+      "surface": "מִלְּבַד",
+      "gloss": "außer"
+    },
+    {
+      "surface": "עֹלַת",
+      "gloss": "Ola"
+    },
+    {
+      "surface": "הַבֹּקֶר",
+      "gloss": "des Morgens"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לְעֹלַת",
+      "gloss": "zur Ola"
+    },
+    {
+      "surface": "הַתָּמִיד",
+      "gloss": "des Tamid"
+    },
+    {
+      "surface": "תַּעֲשׂוּ",
+      "gloss": "sollt ihr machen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "diese"
+    },
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "diese"
+    }
+  ],
+  "timestamp": "2026-08-06T08:26:44.086111248Z",
+  "model": "glm-5.2"
+}

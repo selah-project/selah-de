@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 24:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und er ließ die Kamele niederknien außerhalb der Stadt, bei ⟨der⟩ Quelle der Wasser, zur Zeit des Abends, zur Zeit, da die Schöpferinnen hinausgehen ⟨und⟩ ⟨Wasser⟩ ⟨schöpfen⟩.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Und er liest niederknien"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "die Kamele"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bei"
+    },
+    {
+      "surface": "באר",
+      "gloss": "⟨der⟩ Quelle"
+    },
+    {
+      "surface": "המים",
+      "gloss": "der Wasser"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "zur Zeit"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "des Abends"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "zur Zeit"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "da … hinausgehen"
+    },
+    {
+      "surface": "השאבת",
+      "gloss": "die Schöpferinnen"
+    }
+  ],
+  "timestamp": "2026-08-06T20:02:38.044749227Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 84,
+  "translation": "Dem Chorleiter, auf die Gitit. Von den Söhnen Korachs. Ein Mismor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "die Gitit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Von den Söhnen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachs"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mismor"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:41.144857030Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 1:15",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und am Ende von zehn Tagen zeigte sich ihr Anblick besser und wohlgenährter an Fleisch als ⟨bei⟩ allen jungen Männern, die ⟨את⟩ die Speise des Königs aßen.",
+  "tokens": [
+    {
+      "surface": "וּמִקְצָת֙",
+      "gloss": "und am Ende von"
+    },
+    {
+      "surface": "יָמִ֣ים",
+      "gloss": "Tagen"
+    },
+    {
+      "surface": "עֲשָׂרָ֔ה",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "נִרְאָ֤ה",
+      "gloss": "zeigte sich"
+    },
+    {
+      "surface": "מַרְאֵיהֶם֙",
+      "gloss": "ihr Anblick"
+    },
+    {
+      "surface": "ט֔וֹב",
+      "gloss": "besser"
+    },
+    {
+      "surface": "וּבְרִיאֵ֖י",
+      "gloss": "und wohlgenährter an"
+    },
+    {
+      "surface": "בָּשָׂ֑ר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "als ⟨bei⟩"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "הַיְלָדִ֔ים",
+      "gloss": "jungen Männern"
+    },
+    {
+      "surface": "הָאֹ֣כְלִ֔ים",
+      "gloss": "die aßen"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "die Speise"
+    },
+    {
+      "surface": "פַּתְבַּ֥ג",
+      "gloss": "Speise"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-06T04:44:34.373892279Z",
+  "model": "glm-5.2"
+}

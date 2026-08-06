@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 51:20",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Ein Kriegshammer bist du mir, ⟨mein⟩ Werkzeug des Krieges, und ich zerschmettere mit dir Nationen und vernichte mit dir Königreiche.",
+  "tokens": [
+    {
+      "surface": "מַפֵּץ",
+      "gloss": "Ein Kriegshammer"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "כְּלֵ֖י",
+      "gloss": "Werkzeug"
+    },
+    {
+      "surface": "מִלְחָמָ֑ה",
+      "gloss": "des Krieges"
+    },
+    {
+      "surface": "וְנִפַּצְתִּ֤י",
+      "gloss": "und ich zerschmettere"
+    },
+    {
+      "surface": "בְךָ֙",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "גּוֹיִ֔ם",
+      "gloss": "Nationen"
+    },
+    {
+      "surface": "וְהִשְׁחַתִּ֥י",
+      "gloss": "und vernichte"
+    },
+    {
+      "surface": "בְךָ֖",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "מַמְלָכֽוֹת",
+      "gloss": "Königreiche"
+    }
+  ],
+  "timestamp": "2026-08-06T03:40:51.683593291Z",
+  "model": "glm-5.2"
+}

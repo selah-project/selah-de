@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und auch ⟨את⟩ die Hornisse wird JHWH, dein Elohim, unter sie senden, bis ⟨es⟩ Vernichtung gibt für die Übriggebliebenen und die Versteckten vor dir.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Und auch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Hornisse"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "die Hornisse"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "wird … senden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "unter sie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "⟨es⟩ Vernichtung gibt"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "für die Übriggebliebenen"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "und die Versteckten"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "vor dir"
+    }
+  ],
+  "timestamp": "2026-08-06T00:42:51.984982689Z",
+  "model": "glm-5.2"
+}

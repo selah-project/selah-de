@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 125,
+  "translation": "Tu Gutes, JHWH, den Guten und ⟨den⟩ Aufrichtigen in ihren Herzen.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Tu Gutes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "den Guten"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "und ⟨den⟩ Aufrichtigen"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "in ihren Herzen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:16.276716003Z",
+  "model": "glm-5.2"
+}

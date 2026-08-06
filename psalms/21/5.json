@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Leben bat er von dir, du gabst ⟨es⟩ ihm — Länge der Tage, für immer und ewig.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Leben"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bat"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "von dir"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "du gabst"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "Länge"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "der Tage"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und ewig"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:51.778424766Z",
+  "model": "glm-5.2"
+}

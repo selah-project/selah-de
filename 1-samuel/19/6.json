@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Schaul hörte auf die Stimme Yehonatans, und Schaul schwor: „So wahr JHWH lebt — er wird nicht getötet werden.“",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "und hörte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatans"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "und schwor"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lebt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "er wird getötet werden"
+    }
+  ],
+  "timestamp": "2026-08-06T02:45:41.345369067Z",
+  "model": "glm-5.2"
+}

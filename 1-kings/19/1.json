@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Ahab berichtete ⟨der⟩ Isebel ⟨את⟩ alles, was Elia getan hatte, und ⟨את⟩ alles, wie er ⟨את⟩ alle Nawi'im mit dem Schwert erschlagen hatte.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "und er berichtete"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "⟨der⟩ Isebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "getan hatte"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "erschlagen hatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "die Nawi'im"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mit dem Schwert"
+    }
+  ],
+  "timestamp": "2026-08-06T05:51:04.396316701Z",
+  "model": "glm-5.2"
+}

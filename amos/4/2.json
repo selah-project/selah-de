@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Geschworen hat Adonai JHWH bei seiner Heiligung: Siehe, Tage kommen über euch, und ⟨man⟩ wird euch wegnehmen ⟨את⟩ mit Haken, und euren Rest ⟨mit⟩ Fischhaken.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Geschworen hat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "bei seiner Heiligung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kommen"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "über euch"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "und ⟨man⟩ wird wegnehmen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "mit Haken"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "und euren Rest"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "mit Kochtöpfen"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "Fischfang"
+    }
+  ],
+  "timestamp": "2026-08-06T06:32:00.387216962Z",
+  "model": "glm-5.2"
+}

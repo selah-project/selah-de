@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "In Buntgewebe wird sie dem König zugeführt; Jungfrauen hinter ihr, ihre Gefährtinnen, werden dir zugebracht.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "in Buntgewebe"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "wird sie zugeführt"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "Jungfrauen"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "hinter ihr"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "ihre Gefährtinnen"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "werden zugebracht"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:55.281031279Z",
+  "model": "glm-5.2"
+}

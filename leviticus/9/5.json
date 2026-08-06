@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und sie nahmen ⟨את⟩ das, was Mosche geboten hatte, ⟨an⟩ die Vorderseite des Zeltes der Begegnung, und die ganze Versammlung nahte heran und stellte sich vor JHWH.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "und sie nahmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was Mosche geboten hatte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das, was"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨an⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die Vorderseite"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "des Zeltes"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "und es nahte heran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "und stellte sich"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T14:53:35.883167443Z",
+  "model": "glm-5.2"
+}

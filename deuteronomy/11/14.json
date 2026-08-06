@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "dann werde ich den Regen eures Landes geben zu seiner Zeit, Frühregen und Spätregen, und du wirst dein Korn, deinen Most und dein Öl sammeln.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dann werde ich geben"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "den Regen"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "eures Landes"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "zu seiner Zeit"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "Frühregen"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "und Spätregen"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "und du wirst sammeln"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "dein Korn"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "deinen Most"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "und dein Öl"
+    }
+  ],
+  "timestamp": "2026-08-06T09:53:39.148532387Z",
+  "model": "glm-5.2"
+}

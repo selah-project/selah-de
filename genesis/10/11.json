@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Aus jenem Land zog Aschur ⟨aus⟩ und baute ⟨את⟩ Ninwe und ⟨את⟩ Rechobot-Ir und ⟨את⟩ Kelach.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Aus"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jenem Land"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "zog … ⟨aus⟩"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aschur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "und baute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninwe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Rechobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Kelach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelach"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:49.953599181Z",
+  "model": "glm-5.2"
+}

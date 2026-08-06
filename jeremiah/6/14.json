@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und sie heilten ⟨את⟩ den Bruch meines Volks nachlässig, indem ⟨sie⟩ sagten: „Schalom, Schalom\", aber ⟨da⟩ ist kein Schalom.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "Und sie heilten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Bruch"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Bruch"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meines Volks"
+    },
+    {
+      "surface": "על",
+      "gloss": "nachlässig"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "leichtfertig"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨sie⟩ sagten"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aber ⟨da⟩ ist kein"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    }
+  ],
+  "timestamp": "2026-08-06T22:43:47.028188444Z",
+  "model": "glm-5.2"
+}

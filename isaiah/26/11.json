@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "JHWH, deine Hand ist erhoben — sie sehen nicht. Sie werden sehen und beschämt werden durch den Eifer ⟨für das⟩ Volk; ja, Feuer, deine Bedränger, wird es sie verzehren.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ist erhoben"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "sie sehen"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "sie werden sehen"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "und beschämt werden"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "durch den Eifer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨für das⟩ Volk"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "deine Bedränger"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "wird es sie verzehren"
+    }
+  ],
+  "timestamp": "2026-08-05T21:47:16.301181737Z",
+  "model": "glm-5.2"
+}

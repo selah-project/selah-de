@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Mosche nahm die Hälfte des Blutes und tat ⟨sie⟩ in Schalen, und ⟨die⟩ Hälfte des Blutes sprengte er auf den Altar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "und er nahm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "die Hälfte"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "des Blutes"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "und er tat"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "in Schalen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "und ⟨die⟩ Hälfte"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "des Blutes"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "sprengte er"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:03.947996221Z",
+  "model": "glm-5.2"
+}

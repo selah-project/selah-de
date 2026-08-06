@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Lasst los und erkennt, dass ich Elohim ⟨bin⟩; ich werde erhoben ⟨sein⟩ unter den Nationen, ich werde erhoben ⟨sein⟩ auf der Erde.",
+  "tokens": [
+    {
+      "surface": "הַרְפּ֣וּ",
+      "gloss": "Lasst los"
+    },
+    {
+      "surface": "וּ֭דְעוּ",
+      "gloss": "und erkennt"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אָנֹכִ֣י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אָר֥וּם",
+      "gloss": "ich werde erhoben"
+    },
+    {
+      "surface": "בַּ֝גּוֹיִ֗ם",
+      "gloss": "unter den Nationen"
+    },
+    {
+      "surface": "אָר֥וּם",
+      "gloss": "ich werde erhoben"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "auf der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T10:30:53.966136037Z",
+  "model": "glm-5.2"
+}

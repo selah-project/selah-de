@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 30:27",
+  "book": "job",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Mein Inneres kochte und ⟨es⟩ ruhte nicht; ⟨es⟩ kam mir zuvor die Tage meines Elends.",
+  "tokens": [
+    {
+      "surface": "מעי",
+      "gloss": "Mein Inneres"
+    },
+    {
+      "surface": "רתחו",
+      "gloss": "kochte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨es⟩ ruhte nicht"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "⟨leer — in Verbindung mit ולא als „und ruhte nicht\" aufgelöst⟩"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "kam mir zuvor"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die Tage"
+    },
+    {
+      "surface": "עני",
+      "gloss": "meines Elends"
+    }
+  ],
+  "timestamp": "2026-08-06T04:36:22.781307175Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Achimaaz zeugte ⟨את⟩ Asarja, und Asarja zeugte ⟨את⟩ Jochanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Und Achimaaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Asarja"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "und Asarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jochanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochanan"
+    }
+  ],
+  "timestamp": "2026-08-06T09:32:54.792464375Z",
+  "model": "glm-5.2"
+}

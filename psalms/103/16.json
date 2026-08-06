@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "Denn ein Windhauch zieht darüber hin, und er ist nicht mehr, und seine Stätte erkennt ihn nicht wieder.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "ר֣וּחַ",
+      "gloss": "ein Windhauch"
+    },
+    {
+      "surface": "עָֽבְרָה",
+      "gloss": "zieht … hin"
+    },
+    {
+      "surface": "בּ֣וֹ",
+      "gloss": "darüber"
+    },
+    {
+      "surface": "וְאֵינֶ֑נּוּ",
+      "gloss": "und er ist nicht mehr"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יַכִּירֶ֖נּוּ",
+      "gloss": "erkennt ihn … wieder"
+    },
+    {
+      "surface": "ע֣וֹד",
+      "gloss": "nochmals"
+    },
+    {
+      "surface": "מְקוֹמֽוֹ",
+      "gloss": "seine Stätte"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:30.958784012Z",
+  "model": "glm-5.2"
+}

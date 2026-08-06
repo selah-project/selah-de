@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Du hast mein Herz geprüft, ⟨es⟩ heimgesucht in der Nacht, mich geläutert — du findest nichts; mein Vorhaben: nicht ⟨soll⟩ mein Mund übertreten.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Du hast geprüft"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "heimgesucht"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "mich geläutert"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "du findest"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "mein Vorhaben"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "⟨soll⟩ übertreten"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mein Mund"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:24.771869885Z",
+  "model": "glm-5.2"
+}

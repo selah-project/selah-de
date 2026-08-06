@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Nebukadnezar, der König von Bawel, kam ⟨gegen⟩ die Stadt, während seine Knechte sie belagerten.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "und ⟨er⟩ kam"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnezar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "von Bawel"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨gegen⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "und seine Knechte"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "belagerten"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sie"
+    }
+  ],
+  "timestamp": "2026-08-05T21:41:16.005732222Z",
+  "model": "glm-5.2"
+}

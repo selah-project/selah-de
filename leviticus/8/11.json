@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er sprengte davon auf den Altar, siebenmal, und er salbte ⟨את⟩ den Altar und ⟨את⟩ all seine Geräte und ⟨את⟩ das Becken und ⟨את⟩ seine Basis, um sie zu heiligen.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "Und er sprengte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "davon"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sieben⟨mal⟩"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "Male"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "und er salbte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all seine Geräte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "seine Geräte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Becken"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "das Becken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Basis"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "seine Basis"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "um sie zu heiligen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:57.898781987Z",
+  "model": "glm-5.2"
+}

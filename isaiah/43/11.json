@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Ich, ich ⟨bin⟩ JHWH, und außer mir ⟨gibt es⟩ keinen Retter.",
+  "tokens": [
+    {
+      "surface": "אָנֹכִ֥י",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "אָנֹכִ֖י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "und ⟨es gibt⟩ nicht"
+    },
+    {
+      "surface": "מִבַּלְעָדַ֖י",
+      "gloss": "außer mir"
+    },
+    {
+      "surface": "מוֹשִֽׁיעַ",
+      "gloss": "einen Retter"
+    }
+  ],
+  "timestamp": "2026-08-06T03:19:10.383421439Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "die da sagen: ‚⟨Es ist⟩ nicht nahe ⟨die Zeit⟩, Häuser zu bauen. ⟨Sie⟩ ⟨ist⟩ der Topf, und wir ⟨sind⟩ das Fleisch.‘",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "die sagen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "nahe"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "zu bauen"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "Häuser"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "der Topf"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "und wir"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "das Fleisch"
+    }
+  ],
+  "timestamp": "2026-08-05T22:17:46.677138790Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und wenn du auf meinen Wegen gehst, um meine Ordnungen und meine Gebote zu bewahren, wie Dawid, dein Vater, gegangen ist, dann werde ich ⟨את⟩ deine Tage verlängern.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "du gehst"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "auf meinen Wegen"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "um zu bewahren"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "meine Ordnungen"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "und meine Gebote"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gegangen ist"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "dein Vater"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "dann werde ich verlängern"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Tage"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "deine Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T05:49:19.843125783Z",
+  "model": "glm-5.2"
+}

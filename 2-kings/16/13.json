@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und er ließ ⟨את⟩ seine Ola in Rauch aufgehen und ⟨את⟩ seine Mincha, und er spendete ⟨את⟩ seinen Nesek, und er sprengte ⟨את⟩ das Blut der Schelamim, die ihm ⟨gehörten⟩, auf den Altar.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "und er ließ in Rauch aufgehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Ola"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "seine Ola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "seine Mincha"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "und er spendete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Nesek"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "seinen Nesek"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "und er sprengte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Blut"
+    },
+    {
+      "surface": "דם",
+      "gloss": "das Blut"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "der Schelamim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    }
+  ],
+  "timestamp": "2026-08-05T21:39:13.973486911Z",
+  "model": "glm-5.2"
+}

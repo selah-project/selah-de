@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 148,
+  "translation": "Lobt ihn, Sonne und Mond, lobt ihn, all die Sterne des Lichts!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lobt ihn"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Sonne"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "und Mond"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lobt ihn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "die Sterne"
+    },
+    {
+      "surface": "אור",
+      "gloss": "des Lichts"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:41.887842829Z",
+  "model": "glm-5.2"
+}

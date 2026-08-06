@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Du sollst nicht als Verleumder umhergehen unter deinen Völkern; du sollst nicht stehen ⟨bei⟩ ⟨dem⟩ Blut deines Nächsten — ich ⟨bin⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תֵלֵ֤ךְ",
+      "gloss": "sollst umhergehen"
+    },
+    {
+      "surface": "רָכִיל֙",
+      "gloss": "als Verleumder"
+    },
+    {
+      "surface": "בְּעַמֶּ֔יךָ",
+      "gloss": "unter deinen Völkern"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַעֲמֹ֖ד",
+      "gloss": "sollst stehen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "bei"
+    },
+    {
+      "surface": "דַּ֣ם",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "רֵעֶ֑ךָ",
+      "gloss": "deines Nächsten"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T14:53:49.685662797Z",
+  "model": "glm-5.2"
+}

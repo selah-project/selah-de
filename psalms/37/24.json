@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Fällt er, so wird er nicht hingeworfen; denn JHWH stützt seine Hand.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fällt"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "er"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "wird hingeworfen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "stützt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:38.305937746Z",
+  "model": "glm-5.2"
+}

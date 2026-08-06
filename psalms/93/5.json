@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 93,
+  "translation": "Deine Zeugnisse ⟨sind⟩ sehr bewährt, deinem Haus ⟨geziemt⟩ Heiligkeit, JHWH, für die Länge der Tage.",
+  "tokens": [
+    {
+      "surface": "עֵֽדֹתֶ֨יךָ",
+      "gloss": "Deine Zeugnisse"
+    },
+    {
+      "surface": "נֶאֶמְנ֬וּ",
+      "gloss": "sind bewährt"
+    },
+    {
+      "surface": "מְאֹ֗ד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "לְבֵיתְךָ֥",
+      "gloss": "deinem Haus"
+    },
+    {
+      "surface": "נַאֲוָה",
+      "gloss": "⟨geziemt⟩"
+    },
+    {
+      "surface": "קֹ֑דֶשׁ",
+      "gloss": "Heiligkeit"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לְאֹ֣רֶךְ",
+      "gloss": "für die Länge"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "der Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:41.916886440Z",
+  "model": "glm-5.2"
+}

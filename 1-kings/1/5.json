@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 1:5",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Adonija, Sohn der Chagit, erhob sich ⟨und sagte⟩: „Ich werde König sein\", und er machte sich ⟨einen⟩ Wagen und Reiter und fünfzig Mann Läufer vor ihm her.",
+  "tokens": [
+    {
+      "surface": "ואדניה",
+      "gloss": "Und Adonija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "der Chagit"
+    },
+    {
+      "surface": "מתנשא",
+      "gloss": "erhob sich"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und sagte⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "אמלך",
+      "gloss": "werde König sein"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "und er machte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sich"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "⟨einen⟩ Wagen"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "und Reiter"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "und fünfzig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "Läufer"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vor ihm her"
+    }
+  ],
+  "timestamp": "2026-08-06T22:39:49.593062261Z",
+  "model": "glm-5.2"
+}

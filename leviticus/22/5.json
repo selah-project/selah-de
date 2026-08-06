@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 22:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "oder ein Mann, der irgendein Gewürm berührt, durch das er unrein wird für ihn, oder durch einen Menschen, durch den er unrein wird für ihn, bei all seiner Unreinheit —",
+  "tokens": [
+    {
+      "surface": "אוֹ",
+      "gloss": "oder"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יִגַּע",
+      "gloss": "berührt"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "irgendein"
+    },
+    {
+      "surface": "שֶׁרֶץ",
+      "gloss": "Gewürm"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "durch das"
+    },
+    {
+      "surface": "יִטְמָא",
+      "gloss": "er unrein wird"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "für ihn"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "oder"
+    },
+    {
+      "surface": "בְאָדָם",
+      "gloss": "durch einen Menschen"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "durch den"
+    },
+    {
+      "surface": "יִטְמָא",
+      "gloss": "er unrein wird"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "für ihn"
+    },
+    {
+      "surface": "לְכֹל",
+      "gloss": "bei all"
+    },
+    {
+      "surface": "טֻמְאָתוֹ",
+      "gloss": "seiner Unreinheit"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:01.955734560Z",
+  "model": "glm-5.2"
+}

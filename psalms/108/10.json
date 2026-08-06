@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 108,
+  "translation": "Moaw ⟨ist⟩ mein Waschtopf, auf Edom werfe ich meinen Schuh, über Pleschet jauchze ich.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moaw"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "⟨Wasch⟩topf"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mein Wasch-"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "werfe ich"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "meinen Schuh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "über"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pleschet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "jauchze ich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:34.835680113Z",
+  "model": "glm-5.2"
+}

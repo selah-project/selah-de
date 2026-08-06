@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Ich ⟨bin⟩ JHWH, dein Elohim, der ich dich herausgeführt habe aus dem Land Mizrajim, aus dem Sklavenhaus.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ich dich herausgeführt habe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aus dem Haus"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "der Sklaven"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:23.581015552Z",
+  "model": "glm-5.2"
+}

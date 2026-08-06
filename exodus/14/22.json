@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und die Söhne Jisraels gingen mitten ins Meer hinein, auf das Trockene, und ⟨die⟩ Wasser ⟨waren⟩ ihnen eine Mauer zur Rechten und zur Linken.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Und sie gingen hinein"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mitten ins"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Meer"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "auf das Trockene"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "und ⟨die⟩ Wasser"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "eine Mauer"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "zur Rechten"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "und zur Linken"
+    }
+  ],
+  "timestamp": "2026-08-06T00:16:23.647542480Z",
+  "model": "glm-5.2"
+}

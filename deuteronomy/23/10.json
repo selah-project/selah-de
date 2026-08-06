@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Wenn du ⟨mit⟩ einem Heerlager gegen deine Feinde ausziehst, dann hüte dich vor jeder bösen Sache.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "du ausziehst"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "Heerlager"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "deine Feinde"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "dann hüte dich"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "vor jeder"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Sache"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bösen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:42.382530643Z",
+  "model": "glm-5.2"
+}

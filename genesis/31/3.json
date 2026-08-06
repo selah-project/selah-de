@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und JHWH sprach zu Jaakow: „Kehre zurück in das Land deiner Väter und zu deiner Verwandtschaft, und ich werde mit dir sein.“",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "und … sprach"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "שׁוּב",
+      "gloss": "Kehre zurück"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אֲבֹתֶיךָ",
+      "gloss": "deiner Väter"
+    },
+    {
+      "surface": "וּלְמוֹלַדְתֶּךָ",
+      "gloss": "und zu deiner Verwandtschaft"
+    },
+    {
+      "surface": "וְאֶהְיֶה",
+      "gloss": "und ich werde sein"
+    },
+    {
+      "surface": "עִמָּךְ",
+      "gloss": "mit dir"
+    }
+  ],
+  "timestamp": "2026-08-05T17:37:20.024757173Z",
+  "model": "glm-5.2"
+}

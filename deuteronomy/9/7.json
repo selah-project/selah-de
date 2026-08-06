@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 9:7",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Gedenke, vergiss nicht, ⟨את⟩ das, womit du JHWH, deinen Elohim, in der Wüste zum Zorn gereizt hast; von dem Tag an, an dem du aus dem Land Mizrajim ausgezogen bist, bis ihr an diesen Ort kamt, ⟨seid⟩ ihr widerspenstig gewesen mit JHWH.",
+  "tokens": [
+    {
+      "surface": "זְכֹר֙",
+      "gloss": "Gedenke"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּשְׁכַּ֗ח",
+      "gloss": "vergiss"
+    },
+    {
+      "surface": "אֵ֧ת",
+      "gloss": "⟨את⟩",
+      "marks": "das, womit du … gereizt hast"
+    },
+    {
+      "surface": "אֲשֶׁ֛ר",
+      "gloss": "das, womit"
+    },
+    {
+      "surface": "הִקְצַ֛פְתָּ",
+      "gloss": "du … zum Zorn gereizt hast"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֑ר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "לְמִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הַיּ֞וֹם",
+      "gloss": "dem Tag"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "an dem"
+    },
+    {
+      "surface": "יָצָ֣אתָ",
+      "gloss": "du ausgezogen bist"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מִצְרַ֗יִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בֹּֽאֲכֶם֙",
+      "gloss": "ihr kamt"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "an"
+    },
+    {
+      "surface": "הַמָּק֣וֹם",
+      "gloss": "Ort"
+    },
+    {
+      "surface": "הַזֶּ֔ה",
+      "gloss": "diesen"
+    },
+    {
+      "surface": "מַמְרִ֥ים",
+      "gloss": "widwerspenstig"
+    },
+    {
+      "surface": "הֱיִיתֶ֖ם",
+      "gloss": "⟨seid⟩ ihr … gewesen"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:34.355136028Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Bewahre, mein Sohn, das Gebot deines Vaters, und verlass nicht die Tora deiner Mutter.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Bewahre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mein Sohn"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "das Gebot"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "verlass"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "deiner Mutter"
+    }
+  ],
+  "timestamp": "2026-08-06T06:54:26.485162730Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ⟨es⟩ geschah danach, da starb der König der Söhne Ammons, und Chanun, sein Sohn, wurde König an seiner Stelle.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und ⟨es⟩ geschah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "danach"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "וימת",
+      "gloss": "da starb"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "und ⟨er⟩ wurde König"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sein Sohn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seiner Stelle"
+    }
+  ],
+  "timestamp": "2026-08-06T21:14:22.841967881Z",
+  "model": "glm-5.2"
+}

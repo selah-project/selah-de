@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Ich will jauchzen und mich freuen in deinem Chessed (Huld), ⟨der⟩ du ⟨את⟩ meine Bedrängnis gesehen hast, du hast gekannt die Bedrängnisse meiner Nefesch.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Ich will jauchzen"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "und mich freuen"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "in deinem Chessed (Huld)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨der⟩"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "du gesehen hast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Bedrängnis"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "meine Bedrängnis"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "du hast gekannt"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "die Bedrängnisse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meiner Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:39.206288471Z",
+  "model": "glm-5.2"
+}

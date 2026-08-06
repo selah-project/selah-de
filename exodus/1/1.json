@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und dies ⟨sind⟩ die Namen der Söhne Jisraels, die nach Mizrajim kamen: ⟨את⟩ Jaakow, ⟨ein⟩ Mann und ⟨sein⟩ Haus, sie kamen.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "die Namen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "die kamen"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "nach Mizrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakow"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨ein⟩ Mann"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "und ⟨sein⟩ Haus"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sie kamen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:00:01.950791016Z",
+  "model": "glm-5.2"
+}

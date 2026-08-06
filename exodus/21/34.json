@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "der Besitzer der Grube soll Ersatz leisten, Silber soll er dessen Besitzer zurückgeben, und ⟨das⟩ Tote soll ihm gehören.",
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "der Besitzer"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "der Grube"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "soll Ersatz leisten"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "soll er zurückgeben"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "dessen Besitzer"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "und ⟨das⟩ Tote"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T05:15:56.796192079Z",
+  "model": "glm-5.2"
+}

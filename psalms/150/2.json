@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 150,
+  "translation": "Lobt ihn für seine Machttaten, lobt ihn nach der Fülle seiner Hoheit!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lobt ihn"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "für seine Machttaten"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lobt ihn"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "nach der Fülle"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "seiner Hoheit"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:46.134704792Z",
+  "model": "glm-5.2"
+}

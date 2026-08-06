@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Meine Feinde sagen: „Böses ⟨ widerfährt ⟩ mir. Wann wird er sterben und sein Name vergehen?“",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Meine Feinde"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sagen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Wann"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wird er sterben"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "und ⟨wird⟩ vergehen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sein Name"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:55.998213116Z",
+  "model": "glm-5.2"
+}

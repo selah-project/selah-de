@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "In deine Hand befehle ich meinen Geist, ⟨את⟩ mich hast du eingelöst, JHWH, El der Emet (Wahrheit).",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "In deine Hand"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "befehle ich"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "meinen Geist"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "hast du eingelöst"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "der Emet (Wahrheit)"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:39.205491349Z",
+  "model": "glm-5.2"
+}

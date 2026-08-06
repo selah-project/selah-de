@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Die Augen JHWHs bewahren Erkenntnis, ⟨aber⟩ ⟨er⟩ kehrt um die Worte des Verräters.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Die Augen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "bewahren"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Erkenntnis"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "⟨aber⟩ ⟨er⟩ kehrt um"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "des Verräters"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:03.758865542Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Wenn ihr in meinen Chuqqim geht und ⟨את⟩ meine Mizwot bewahrt und sie tut —",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "בְּחֻקֹּתַ֖י",
+      "gloss": "in meinen Chuqqim"
+    },
+    {
+      "surface": "תֵּלֵ֑כוּ",
+      "gloss": "ihr geht"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Mizwot"
+    },
+    {
+      "surface": "מִצְוֺתַ֣י",
+      "gloss": "meine Mizwot"
+    },
+    {
+      "surface": "תִּשְׁמְר֔וּ",
+      "gloss": "und ⟨ihr⟩ bewahrt"
+    },
+    {
+      "surface": "וַעֲשִׂיתֶ֖ם",
+      "gloss": "und ⟨ihr⟩ tut"
+    },
+    {
+      "surface": "אֹתָֽם",
+      "gloss": "sie"
+    }
+  ],
+  "timestamp": "2026-08-06T05:21:52.345219001Z",
+  "model": "glm-5.2"
+}

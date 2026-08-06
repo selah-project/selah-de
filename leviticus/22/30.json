@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "An ⟨demselben⟩ Tag soll ⟨es⟩ gegessen werden; ihr sollt nichts davon übrig lassen bis ⟨zum⟩ Morgen. Ich ⟨bin⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "An Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "demselben"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "soll gegessen werden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "sollt ihr übrig lassen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "davon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Morgen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:28:39.050056542Z",
+  "model": "glm-5.2"
+}

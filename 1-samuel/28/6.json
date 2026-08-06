@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und Schaul fragte in JHWH, und JHWH antwortete ihm nicht, weder in Träumen noch in den Urim noch in den Nawi'im.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Und fragte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in JHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "antwortete ihm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "גם",
+      "gloss": "weder"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "in Träumen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "noch"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "in den Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "noch"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "in den Nawi'im"
+    }
+  ],
+  "timestamp": "2026-08-06T01:11:42.301115766Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Hebt eure Häupter, ihr Tore, und ⟨seid⟩ erhoben, ihr Eingänge der Ewigkeit, und ⟨es⟩ kommt ⟨ein⟩ König der Herrlichkeit.",
+  "tokens": [
+    {
+      "surface": "שְׂאוּ",
+      "gloss": "Hebt"
+    },
+    {
+      "surface": "שְׁעָרִים",
+      "gloss": "ihr Tore"
+    },
+    {
+      "surface": "רָאשֵׁיכֶם",
+      "gloss": "eure Häupter"
+    },
+    {
+      "surface": "וְהִנָּשְׂאוּ",
+      "gloss": "und ⟨seid⟩ erhoben"
+    },
+    {
+      "surface": "פִּתְחֵי",
+      "gloss": "ihr Eingänge"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "der Ewigkeit"
+    },
+    {
+      "surface": "וְיָבֹא",
+      "gloss": "und ⟨es⟩ kommt"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "⟨ein⟩ König"
+    },
+    {
+      "surface": "הַכָּבוֹד",
+      "gloss": "der Herrlichkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:39.128697107Z",
+  "model": "glm-5.2"
+}

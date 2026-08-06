@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "und ⟨את⟩ die zehn Gestelle und ⟨את⟩ die zehn Kessel auf den Gestellen",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die zehn Gestelle"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "die Gestelle"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die zehn Kessel"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "die Kessel"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "den Gestellen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:23:20.360888611Z",
+  "model": "glm-5.2"
+}

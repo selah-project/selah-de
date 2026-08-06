@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und sie sollen ⟨את⟩ die heiligen Gaben der Söhne Jisraels nicht entweihen, ⟨את⟩ die sie JHWH erheben —",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "sollen entweihen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die heiligen Gaben"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "die heiligen Gaben"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sie erheben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "sie erheben"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH ⟨zu⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T00:28:50.179864729Z",
+  "model": "glm-5.2"
+}

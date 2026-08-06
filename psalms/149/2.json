@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 149,
+  "translation": "Es freue sich Jisra'el in seinem Schöpfer, die Söhne Zijons sollen jauchzen in ihrem König!",
+  "tokens": [
+    {
+      "surface": "יִשְׂמַח",
+      "gloss": "Es freue sich"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "בְּעֹשָׂיו",
+      "gloss": "in seinem Schöpfer"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "Zijons"
+    },
+    {
+      "surface": "יָגִילוּ",
+      "gloss": "sollen jauchzen"
+    },
+    {
+      "surface": "בְמַלְכָּם",
+      "gloss": "in ihrem König"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:47.610677052Z",
+  "model": "glm-5.2"
+}

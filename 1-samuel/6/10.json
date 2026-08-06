@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und die Männer taten so und nahmen zwei milchgebende Kühe und spannten sie vor den Wagen, und ⟨את⟩ ihre Kälber sperrten sie im Haus ein.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "und sie taten"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "und sie nahmen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "Kühe"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "milchgebende"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "und sie spannten sie"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "vor den Wagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Kälber"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ihre Kälber"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sperrten sie ein"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    }
+  ],
+  "timestamp": "2026-08-06T08:37:25.209466850Z",
+  "model": "glm-5.2"
+}

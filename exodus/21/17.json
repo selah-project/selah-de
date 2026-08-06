@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und wer seinen Vater und seine Mutter verflucht — dem Tod soll er getötet werden.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "und wer verflucht"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seinen Vater"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "und seine Mutter"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dem Tod"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "soll er getötet werden"
+    }
+  ],
+  "timestamp": "2026-08-06T02:04:54.285023319Z",
+  "model": "glm-5.2"
+}

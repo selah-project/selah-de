@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Ein Hüter des Gebots hält seine Nefesch, wer aber seine Wege verachtet, wird sterben.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ein Hüter"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "des Gebots"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hält"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "seine Nefesch"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "wer aber verachtet"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "seine Wege"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wird sterben"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:02.308784636Z",
+  "model": "glm-5.2"
+}

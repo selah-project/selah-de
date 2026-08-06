@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "der aus Jeruschalajim weggeführt worden war, mit den Weggeführten, die weggeführt worden waren mit Jekonja, dem König von Jehuda, den Newukadnezar, der König von Bawel, weggeführt hatte.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "weggeführt worden war"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "aus Jeruschalajim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "den Weggeführten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "weggeführt worden waren"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Jekonja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "weggeführt hatte"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Newukadnezar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "von Bawel"
+    }
+  ],
+  "timestamp": "2026-08-05T23:32:51.077253694Z",
+  "model": "glm-5.2"
+}

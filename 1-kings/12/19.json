@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "So fielen ⟨die Stämme⟩ Jisra'els vom Haus Dawids ab, bis auf diesen Tag.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "So fielen ⟨die Stämme⟩ ab"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "vom Haus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis auf"
+    },
+    {
+      "surface": "היום",
+      "gloss": "diesen Tag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:28:47.044080042Z",
+  "model": "glm-5.2"
+}

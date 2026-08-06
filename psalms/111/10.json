@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 111,
+  "translation": "Der Anfang der Weisheit ⟨ist⟩ die Furcht JHWHs; gutes Verständnis haben alle, die sie tun. Sein Lob steht fest für immer.",
+  "tokens": [
+    {
+      "surface": "רֵאשִׁית",
+      "gloss": "Der Anfang"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "der Weisheit"
+    },
+    {
+      "surface": "יִרְאַת",
+      "gloss": "die Furcht"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "שֵׂכֶל",
+      "gloss": "Verständnis"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "gutes"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "עֹשֵׂיהֶם",
+      "gloss": "die sie tun"
+    },
+    {
+      "surface": "תְּהִלָּתוֹ",
+      "gloss": "Sein Lob"
+    },
+    {
+      "surface": "עֹמֶדֶת",
+      "gloss": "steht fest"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "für immer"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:50.723094459Z",
+  "model": "glm-5.2"
+}

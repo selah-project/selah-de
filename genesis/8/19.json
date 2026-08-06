@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 8:19",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Alle ⟨die⟩ lebende Kreatur, alles Gewürm und alles Gevögel — alles, was auf der Erde kriecht, nach ihren Sippen, ging hinaus aus der Arche.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "⟨die⟩ lebende Kreatur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "Gewürm"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alles"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "Gevögel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "was kriecht"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "למשפחתיהם",
+      "gloss": "nach ihren Sippen"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ging hinaus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "der Arche"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:24.175767687Z",
+  "model": "glm-5.2"
+}

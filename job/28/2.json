@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Eisen wird aus dem Staub genommen, und Gestein ⟨wird⟩ zu Kupfer gegossen.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "Eisen"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "aus dem Staub"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "wird genommen"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "und Gestein"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "⟨wird⟩ gegossen"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "zu Kupfer"
+    }
+  ],
+  "timestamp": "2026-08-05T23:22:05.676485846Z",
+  "model": "glm-5.2"
+}

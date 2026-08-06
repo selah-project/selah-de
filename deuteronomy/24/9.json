@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Gedenke ⟨את⟩ das, was JHWH, dein Elohim, der Mirjam tat, auf dem Weg, bei eurem Auszug aus Mizrajim.",
+  "tokens": [
+    {
+      "surface": "זָכ֕וֹר",
+      "gloss": "Gedenke"
+    },
+    {
+      "surface": "אֵ֧ת",
+      "gloss": "⟨את⟩",
+      "marks": "das, was JHWH der Mirjam tat"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das, was"
+    },
+    {
+      "surface": "עָשָׂ֛ה",
+      "gloss": "tat"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "לְמִרְיָ֑ם",
+      "gloss": "der Mirjam"
+    },
+    {
+      "surface": "בַּדֶּ֖רֶךְ",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "בְּצֵאתְכֶ֥ם",
+      "gloss": "bei eurem Auszug"
+    },
+    {
+      "surface": "מִמִּצְרָֽיִם",
+      "gloss": "aus Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T14:57:10.736266835Z",
+  "model": "glm-5.2"
+}

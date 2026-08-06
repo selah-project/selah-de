@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "⟨Der⟩ ⟨da⟩ sättigt mit Gut dein ⟨ә⟩ Schmuck — ⟨du⟩ erneuerst dich wie ⟨dem⟩ Adler deine Jugend.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "⟨Der⟩ ⟨da⟩ sättigt"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "mit Gut"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "dein ⟨ә⟩ Schmuck"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "⟨du⟩ erneuerst dich"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "wie ⟨dem⟩ Adler"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "deine Jugend"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:17.994548487Z",
+  "model": "glm-5.2"
+}

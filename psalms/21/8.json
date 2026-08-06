@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Denn der König vertraut auf JHWH, und durch ⟨den⟩ Chessed des Höchsten — ⟨er⟩ wird nicht wanken.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertraut"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "auf JHWH"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "und durch Chessed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "des Höchsten"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "wird ⟨er⟩ wanken"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:51.778917881Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Awraham wies ⟨את⟩ Awimelech zurecht wegen der Wasserquelle, die die Knechte von Awimelech geraubt hatten.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "und wies zurecht"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "באר",
+      "gloss": "der Quelle"
+    },
+    {
+      "surface": "המים",
+      "gloss": "des Wassers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "geraubt hatten"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die Knechte von"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    }
+  ],
+  "timestamp": "2026-08-06T09:41:05.523392714Z",
+  "model": "glm-5.2"
+}

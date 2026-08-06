@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Sie haben sich verdorben — nicht seine Söhne, ⟨ihr⟩ Makel —, eine verdrehte und verknotete Generation.",
+  "tokens": [
+    {
+      "surface": "שִׁחֵ֥ת",
+      "gloss": "haben verdorben"
+    },
+    {
+      "surface": "ל֛וֹ",
+      "gloss": "sich"
+    },
+    {
+      "surface": "לֹ֖א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בָּנָ֣יו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "מוּמָ֑ם",
+      "gloss": "⟨ihr⟩ Makel"
+    },
+    {
+      "surface": "דּ֥וֹר",
+      "gloss": "eine Generation"
+    },
+    {
+      "surface": "עִקֵּ֖שׁ",
+      "gloss": "verdrehte"
+    },
+    {
+      "surface": "וּפְתַלְתֹּֽל",
+      "gloss": "und verknotete"
+    }
+  ],
+  "timestamp": "2026-08-05T20:52:01.776405326Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Jehudah und Jisra'el saßen in Sicherheit, jeder unter seinem Weinstock und unter seinem Feigenbaum, von Dan bis Be'er-Scheva, alle Tage Schelomos.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨sie⟩ saßen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "und Jisra'el"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "in Sicherheit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "seinem Weinstock"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "und unter"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "seinem Feigenbaum"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "von Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Scheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomos"
+    }
+  ],
+  "timestamp": "2026-08-06T05:49:12.144565286Z",
+  "model": "glm-5.2"
+}

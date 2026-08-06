@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 12:30",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und Paro stand auf in der Nacht, er und all seine Knechte und all ⟨die⟩ Mizrajim, und es war ein großes Schreien in Mizrajim, denn ⟨es gab⟩ kein Haus, in dem nicht ein Toter ⟨war⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Und ⟨Paro⟩ stand auf"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seine Knechte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨die⟩ Mizrajim"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "und es war"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ein Schreien"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "großes"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mizrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨es gab⟩ kein"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in dem"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ein Toter"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:40.261999846Z",
+  "model": "glm-5.2"
+}

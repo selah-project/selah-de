@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und ⟨את⟩ die Käuze und ⟨את⟩ den Wüstenläufer und ⟨את⟩ die große Eule,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Käuze"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "die Käuze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Wüstenläufer"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "den Wüstenläufer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die große Eule"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "die große Eule"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:02.529340738Z",
+  "model": "glm-5.2"
+}

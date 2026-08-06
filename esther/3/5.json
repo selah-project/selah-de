@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Haman sah, dass Mordechai nicht die Knie beugte und sich nicht vor ihm niederwarf, und Haman füllte sich mit Zorn.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Und sah"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "die Knie beugte"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "und sich niederwarf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "und füllte sich"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "mit Zorn"
+    }
+  ],
+  "timestamp": "2026-08-06T09:29:21.929527287Z",
+  "model": "glm-5.2"
+}

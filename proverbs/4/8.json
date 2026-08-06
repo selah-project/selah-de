@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 4:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Erhebe sie, ⟨und⟩ sie wird dich erhöhen, sie wird dich ehren, wenn du sie umarmst!",
+  "tokens": [
+    {
+      "surface": "סַלְסְלֶ֥הָ",
+      "gloss": "Erhebe sie"
+    },
+    {
+      "surface": "וּֽתְרוֹמְמֶ֑ךָּ",
+      "gloss": "⟨und⟩ sie wird dich erhöhen"
+    },
+    {
+      "surface": "תְ֝כַבֵּ֗דְךָ",
+      "gloss": "sie wird dich ehren"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "תְחַבְּקֶֽנָּה",
+      "gloss": "du sie umarmst"
+    }
+  ],
+  "timestamp": "2026-08-05T23:08:48.956180439Z",
+  "model": "glm-5.2"
+}

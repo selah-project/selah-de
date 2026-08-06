@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "Furchtbar ⟨ist⟩, was du in Gerechtigkeit an uns tust, Elohim unseres Heils, ⟨die⟩ Zuversicht aller Enden der Erde und des fernen Meeres.",
+  "tokens": [
+    {
+      "surface": "נוֹרָאֹ֨ת",
+      "gloss": "Furchtbar"
+    },
+    {
+      "surface": "בְּצֶ֣דֶק",
+      "gloss": "in Gerechtigkeit"
+    },
+    {
+      "surface": "תַּעֲנֵ֑נוּ",
+      "gloss": "an uns tust"
+    },
+    {
+      "surface": "אֱלֹהֵ֥י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יִשְׁעֵֽנוּ",
+      "gloss": "unseres Heils"
+    },
+    {
+      "surface": "מִבְטַ֥ח",
+      "gloss": "Zuversicht"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "קַצְוֵ֥י",
+      "gloss": "Enden"
+    },
+    {
+      "surface": "אֶ֝֗רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "וְיָ֣ם",
+      "gloss": "und ⟨des⟩ Meeres"
+    },
+    {
+      "surface": "רְחֹקִֽים",
+      "gloss": "fernen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:02.989964362Z",
+  "model": "glm-5.2"
+}

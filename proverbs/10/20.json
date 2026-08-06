@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Ausgewähltes Silber ⟨ist⟩ die Zunge des Gerechten, das Herz der Frevler ⟨ist⟩ wie wenig.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "Ausgewähltes"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "die Zunge"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "des Gerechten"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "⟨ist⟩ wie wenig"
+    }
+  ],
+  "timestamp": "2026-08-06T06:54:47.057456151Z",
+  "model": "glm-5.2"
+}

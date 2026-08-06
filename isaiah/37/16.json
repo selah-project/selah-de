@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "„JHWH der Heerscharen, Elohim Jisraels, ⟨der⟩ du thronst über den Kerubim, du ⟨bist⟩ der Elohim, du allein, für alle Königreiche der Erde — du hast ⟨את⟩ die Himmel und ⟨את⟩ die Erde gemacht.“",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "thronst"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "über den Kerubim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨bist⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "der Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "du allein"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "für alle"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "Königreiche"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hast gemacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Himmel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die Himmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T06:00:41.931295570Z",
+  "model": "glm-5.2"
+}

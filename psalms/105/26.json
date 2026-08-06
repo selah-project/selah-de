@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Er sandte Mosche, seinen Knecht, Aharon, den er erwählt hatte.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Er sandte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "seinen Knecht"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "er erwählt hatte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:20.621028423Z",
+  "model": "glm-5.2"
+}

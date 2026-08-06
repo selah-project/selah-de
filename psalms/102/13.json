@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Du aber, JHWH, thronst für immer, ⟨und⟩ dein Gedenken für Generation und Generation.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Du aber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "thronst"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "⟨und⟩ dein Gedenken"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "für Generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "und Generation"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:59.302026767Z",
+  "model": "glm-5.2"
+}

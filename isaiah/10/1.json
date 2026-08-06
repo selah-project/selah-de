@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Weh ⟨denen⟩, die Unrechts-Bestimmungen bestimmen, und ⟨denen⟩, die Bedrückendes aufschreiben, das sie aufgeschrieben haben!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Weh"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "⟨die⟩ bestimmen"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "Bestimmungen"
+    },
+    {
+      "surface": "און",
+      "gloss": "Unrecht"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "und ⟨die⟩ aufschreiben"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "Bedrückendes"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "das sie aufgeschrieben haben"
+    }
+  ],
+  "timestamp": "2026-08-06T05:58:23.645853017Z",
+  "model": "glm-5.2"
+}

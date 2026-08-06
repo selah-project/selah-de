@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Einen Beutel Silber hat er ⟨in⟩ ⟨seiner⟩ Hand genommen, am Tag des Vollmonds wird er ⟨in⟩ ⟨sein⟩ Haus kommen.",
+  "tokens": [
+    {
+      "surface": "צְֽרוֹר",
+      "gloss": "Einen Beutel"
+    },
+    {
+      "surface": "הַ֭כֶּסֶף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "לָקַ֣ח",
+      "gloss": "hat er genommen"
+    },
+    {
+      "surface": "בְּיָד֑וֹ",
+      "gloss": "⟨in⟩ ⟨seiner⟩ Hand"
+    },
+    {
+      "surface": "לְי֥וֹם",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "הַ֝כֵּ֗סֶא",
+      "gloss": "des Vollmonds"
+    },
+    {
+      "surface": "יָבֹ֥א",
+      "gloss": "wird er kommen"
+    },
+    {
+      "surface": "בֵיתֽוֹ",
+      "gloss": "⟨in⟩ ⟨sein⟩ Haus"
+    }
+  ],
+  "timestamp": "2026-08-05T23:09:46.993003352Z",
+  "model": "glm-5.2"
+}

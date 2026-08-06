@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und der König Koresch brachte ⟨את⟩ die Geräte des Hauses JHWHs heraus, die Nebukadnezzar aus Jeruschalajim herausgebracht ⟨und⟩ sie im Haus seines Gottes niedergelegt hatte.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Und der König"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresch"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "brachte heraus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Geräte"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "die Geräte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "herausgebracht"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnezzar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "aus Jeruschalajim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "und niedergelegt hatte"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "seines Gottes"
+    }
+  ],
+  "timestamp": "2026-08-05T23:38:28.265606024Z",
+  "model": "glm-5.2"
+}

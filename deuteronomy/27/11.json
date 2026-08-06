@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und Mosche gebot ⟨את⟩ dem Volk an jenem Tag, indem ⟨er⟩ sagte:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Und es gebot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "an ⟨dem⟩ Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨er⟩ sagte"
+    }
+  ],
+  "timestamp": "2026-08-05T20:49:34.654169497Z",
+  "model": "glm-5.2"
+}

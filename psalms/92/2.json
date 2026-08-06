@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 92,
+  "translation": "Gut ⟨ist es⟩, JHWH zu danken, und deinem Namen zu spielen, ⟨du⟩ Eljon —",
+  "tokens": [
+    {
+      "surface": "טוֹב",
+      "gloss": "Gut"
+    },
+    {
+      "surface": "לְהֹדוֹת",
+      "gloss": "zu danken"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וּלְזַמֵּר",
+      "gloss": "und zu spielen"
+    },
+    {
+      "surface": "לְשִׁמְךָ",
+      "gloss": "deinem Namen"
+    },
+    {
+      "surface": "עֶלְיוֹן",
+      "gloss": "Eljon"
+    }
+  ],
+  "timestamp": "2026-08-05T23:00:57.830315008Z",
+  "model": "glm-5.2"
+}

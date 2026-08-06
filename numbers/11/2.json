@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und das Volk schrie zu Mosche, und Mosche betete zu JHWH, und das Feuer legte sich.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "und ⟨es⟩ schrie"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "und ⟨er⟩ betete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "und ⟨es⟩ legte sich"
+    },
+    {
+      "surface": "האש",
+      "gloss": "das Feuer"
+    }
+  ],
+  "timestamp": "2026-08-06T00:33:56.961027573Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und sie heilten ⟨את⟩ den Bruch der Tochter meines Volkes leichtfertig, indem sie sagten: „Schalom, Schalom\", und ⟨es gibt⟩ keinen Schalom.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "und sie heilten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Bruch"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Bruch"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meines Volkes"
+    },
+    {
+      "surface": "על",
+      "gloss": "leichtfertig"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "[siehe gloss]"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem sie sagten"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es gibt⟩ keinen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    }
+  ],
+  "timestamp": "2026-08-06T22:43:49.813814659Z",
+  "model": "glm-5.2"
+}

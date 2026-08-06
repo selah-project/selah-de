@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Jene ⟨vertrauen⟩ auf Wagen und jene auf Pferde; wir aber, im Namen JHWHs, unseres Elohim, rufen wir aus.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Jene"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "auf Wagen"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "und jene"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "auf Pferde"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "wir aber"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "im Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unseres Elohim"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "rufen wir aus"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:28.530029160Z",
+  "model": "glm-5.2"
+}

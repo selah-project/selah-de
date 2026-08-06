@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "Lobe, Jeruschalajim, ⟨את⟩ JHWH; lobe deinen Elohim, Tzion!",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Lobe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "lobe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:11.557411862Z",
+  "model": "glm-5.2"
+}

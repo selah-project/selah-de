@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und das Volk stahl sich an jenem Tag hinein, in die Stadt zu kommen, wie das Volk sich stiehlt, das beschämt ist in seiner Flucht, im Krieg.",
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "und stahl sich hinein"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "zu kommen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "in die Stadt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "sich stiehlt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "das beschämt ist"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "in seiner Flucht"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "im Krieg"
+    }
+  ],
+  "timestamp": "2026-08-05T21:22:15.206215899Z",
+  "model": "glm-5.2"
+}

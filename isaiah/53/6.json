@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 53,
+  "translation": "Wir alle wie Schafe haben uns verirrt, ⟨jeder⟩ hat sich abgewandt auf seinen ⟨eigenen⟩ Weg; und JHWH hat ⟨auf⟩ ihn treffen lassen ⟨את⟩ die Schuld unsrer aller.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "wir alle"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "wie Schafe"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "haben uns verirrt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "auf seinen Weg"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "haben uns abgewandt"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "und JHWH"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "hat treffen lassen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Schuld"
+    },
+    {
+      "surface": "עון",
+      "gloss": "Schuld"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "unsrer aller"
+    }
+  ],
+  "timestamp": "2026-08-06T03:23:11.850543109Z",
+  "model": "glm-5.2"
+}

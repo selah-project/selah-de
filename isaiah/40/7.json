@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Vertrocknet ⟨ist⟩ Gras, verwelkt Blüte — denn Ruach JHWH, ⟨sie⟩ wehte darin: ja, Gras ⟨ist⟩ das Volk.",
+  "tokens": [
+    {
+      "surface": "יָבֵ֤שׁ",
+      "gloss": "Vertrocknet"
+    },
+    {
+      "surface": "חָצִיר֙",
+      "gloss": "Gras"
+    },
+    {
+      "surface": "נָ֣בֵֽל",
+      "gloss": "verwelkt"
+    },
+    {
+      "surface": "צִ֔יץ",
+      "gloss": "Blüte"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ר֥וּחַ",
+      "gloss": "Ruach"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "נָ֣שְׁבָה",
+      "gloss": "wehte"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "darin"
+    },
+    {
+      "surface": "אָכֵ֥ן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חָצִ֖יר",
+      "gloss": "Gras"
+    },
+    {
+      "surface": "הָעָֽם",
+      "gloss": "das Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T20:32:41.584581286Z",
+  "model": "glm-5.2"
+}

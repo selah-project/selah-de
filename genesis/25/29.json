@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und Jaakow kochte ⟨ein⟩ Gericht, und Esaw kam vom Feld, und ⟨er⟩ war erschöpft.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "und kochte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "Gericht"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und ⟨er⟩ kam"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dem Feld"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und ⟨er⟩"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "war erschöpft"
+    }
+  ],
+  "timestamp": "2026-08-06T20:03:24.892302998Z",
+  "model": "glm-5.2"
+}

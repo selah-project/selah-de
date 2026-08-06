@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Er biete dem, der ihn schlägt, ⟨die⟩ Wange dar, er werde satt an Schmach.",
+  "tokens": [
+    {
+      "surface": "יִתֵּן",
+      "gloss": "er biete dar"
+    },
+    {
+      "surface": "לְמַכֵּהוּ",
+      "gloss": "dem, der ihn schlägt"
+    },
+    {
+      "surface": "לְחִי",
+      "gloss": "⟨die⟩ Wange"
+    },
+    {
+      "surface": "יִשְׂבַּע",
+      "gloss": "er werde satt"
+    },
+    {
+      "surface": "בְּחֶרְפָּה",
+      "gloss": "an Schmach"
+    }
+  ],
+  "timestamp": "2026-08-06T07:08:29.953674373Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 150,
+  "translation": "Alles, was Odem hat, lobe Jah! Lobt Jah!",
+  "tokens": [
+    {
+      "surface": "כֹּ֣ל",
+      "gloss": "Alles"
+    },
+    {
+      "surface": "הַ֭נְּשָׁמָה",
+      "gloss": "was Odem hat"
+    },
+    {
+      "surface": "תְּהַלֵּ֥ל",
+      "gloss": "lobe"
+    },
+    {
+      "surface": "יָ֗הּ",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:50.970065508Z",
+  "model": "glm-5.2"
+}

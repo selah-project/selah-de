@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Die Lippen eines Gerechten weiden viele, aber Toren sterben am Mangel ⟨an⟩ Herz.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Die Lippen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "eines Gerechten"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "weiden"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "viele"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "aber Toren"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "am Mangel"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨an⟩ Herz"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "sterben"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:09.982377168Z",
+  "model": "glm-5.2"
+}

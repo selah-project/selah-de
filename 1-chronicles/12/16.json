@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Diese sind es, die ⟨את⟩ den Jordan überquerten, im ersten Monat, als er über alle seine Ufer strömte, und ⟨die⟩ alle Täler zur Flucht brachten, ⟨את⟩ alles, ⟨sowohl⟩ nach Osten als auch nach Westen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Diese"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sind es"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "überquerten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "im Monat"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "dem ersten"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "als er"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "strömte über"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "seine Ufer"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "und zur Flucht brachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles (die Täler)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "Täler"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "nach Osten"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "und nach Westen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:55:41.042085194Z",
+  "model": "glm-5.2"
+}

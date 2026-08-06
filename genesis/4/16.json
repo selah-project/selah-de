@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Kajin ging weg vom Angesicht JHWHs, und ⟨er⟩ wohnte im Land Nod, östlich von Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "und ging weg"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "vom Angesicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und wohnte"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "östlich von"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-08-06T21:05:10.633611650Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Ausgetrocknet wie ein Tonscherben ⟨ist⟩ meine Kraft, und meine Zunge klebt an meinem Gaumen, und zum Staub des Todes legst du mich.",
+  "tokens": [
+    {
+      "surface": "יָ֘בֵ֤שׁ",
+      "gloss": "ausgetrocknet"
+    },
+    {
+      "surface": "כַּחֶ֨רֶשׂ",
+      "gloss": "wie ein Tonscherben"
+    },
+    {
+      "surface": "כֹּחִ֗י",
+      "gloss": "meine Kraft"
+    },
+    {
+      "surface": "וּ֭לְשׁוֹנִי",
+      "gloss": "und meine Zunge"
+    },
+    {
+      "surface": "מֻדְבָּ֣ק",
+      "gloss": "klebt"
+    },
+    {
+      "surface": "מַלְקוֹחָ֑י",
+      "gloss": "an meinem Gaumen"
+    },
+    {
+      "surface": "וְֽלַעֲפַר",
+      "gloss": "und zum Staub"
+    },
+    {
+      "surface": "מָ֥וֶת",
+      "gloss": "des Todes"
+    },
+    {
+      "surface": "תִּשְׁפְּתֵֽנִי",
+      "gloss": "legst du mich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:02.373136395Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und wenn ein Mann ⟨את⟩ seine Tochter als Sklavin verkauft, soll sie nicht hinausgehen wie das Hinausgehen der Sklaven.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "verkauft"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Tochter"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "seine Tochter"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "als Sklavin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "soll sie hinausgehen"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "wie das Hinausgehen"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "der Sklaven"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:24.448289871Z",
+  "model": "glm-5.2"
+}

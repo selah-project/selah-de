@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ich war ungeteilt mit ihm, und ich hielt mich fern von meiner Schuld.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Und ich war"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ungeteilt"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "und ich hielt mich fern"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "von meiner Schuld"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:15.198655925Z",
+  "model": "glm-5.2"
+}

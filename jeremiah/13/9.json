@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "So spricht JHWH: Ebenso werde ich zugrunde richten ⟨את⟩ den Stolz von Jehuda und ⟨את⟩ den großen Stolz von Jeruschalajim.",
+  "tokens": [
+    {
+      "surface": "כֹּ֖ה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כָּ֠כָה",
+      "gloss": "ebenso"
+    },
+    {
+      "surface": "אַשְׁחִ֞ית",
+      "gloss": "werde ich zugrunde richten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Stolz"
+    },
+    {
+      "surface": "גְּא֧וֹן",
+      "gloss": "Stolz"
+    },
+    {
+      "surface": "יְהוּדָ֛ה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Stolz"
+    },
+    {
+      "surface": "גְּא֥וֹן",
+      "gloss": "Stolz"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֖ם",
+      "gloss": "von Jeruschalajim"
+    },
+    {
+      "surface": "הָרָֽב",
+      "gloss": "den großen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:02:49.527867929Z",
+  "model": "glm-5.2"
+}

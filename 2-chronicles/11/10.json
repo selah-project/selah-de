@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und ⟨את⟩ Zora und ⟨את⟩ Ajalon und ⟨את⟩ Chevron, die ⟨sich⟩ in Jehuda und in Binjamin befinden, befestigte Städte",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Zora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Jehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "und in Binjamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "befestigte"
+    }
+  ],
+  "timestamp": "2026-08-06T07:25:47.682518520Z",
+  "model": "glm-5.2"
+}

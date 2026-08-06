@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Meine Nefesch bringt er zurück, er leitet mich auf Pfaden des Zedek, um seines Namens willen.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "bringt er zurück"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "er leitet mich"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "auf Pfaden"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "des Zedek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seines Namens willen"
+    }
+  ],
+  "timestamp": "2026-08-06T21:23:51.499733564Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 33:20",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und über Gad sagte er: Gesegnet ⟨sei⟩, ⟨der⟩ Gad Raum macht. Wie eine Löwin wohnt ⟨er⟩ und zerreißt ⟨den⟩ Arm, ja ⟨den⟩ Scheitel.",
+  "tokens": [
+    {
+      "surface": "ולגד",
+      "gloss": "Und über Gad"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagte er"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "מרחיב",
+      "gloss": "Raum macht"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "Wie eine Löwin"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "wohnt"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "und zerreißt"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "Arm"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "Scheitel"
+    }
+  ],
+  "timestamp": "2026-08-06T08:31:01.275002988Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und warum entmutigt ihr ⟨את⟩ das Herz der Söhne Jisraels, hinüberzuziehen in das Land, das JHWH ihnen gegeben hat?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Und warum"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "entmutigt ihr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Herz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "hinüberzuziehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegeben hat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T21:08:48.312467673Z",
+  "model": "glm-5.2"
+}

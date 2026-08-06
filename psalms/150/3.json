@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 150,
+  "translation": "Lobt ihn mit dem Schofarblasen, lobt ihn mit Nevel und Kinor!",
+  "tokens": [
+    {
+      "surface": "הַֽ֭לְלוּהוּ",
+      "gloss": "Lobt ihn"
+    },
+    {
+      "surface": "בְּתֵ֣קַע",
+      "gloss": "mit dem Blasen"
+    },
+    {
+      "surface": "שׁוֹפָ֑ר",
+      "gloss": "Schofar"
+    },
+    {
+      "surface": "הַֽ֝לְל֗וּהוּ",
+      "gloss": "lobt ihn"
+    },
+    {
+      "surface": "בְּנֵ֣בֶל",
+      "gloss": "mit Nevel"
+    },
+    {
+      "surface": "וְכִנּֽוֹר",
+      "gloss": "und Kinor"
+    }
+  ],
+  "timestamp": "2026-08-06T06:53:28.597114610Z",
+  "model": "glm-5.2"
+}

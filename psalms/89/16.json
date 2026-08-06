@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Glückselig ⟨das⟩ Volk, das den Jubelruf kennt: JHWH, im Licht deines Angesichts wandeln sie.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Glückselig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "das kennt"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "den Jubelruf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "באור",
+      "gloss": "im Licht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "deines Angesichts"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "wandeln sie"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:07.143594346Z",
+  "model": "glm-5.2"
+}

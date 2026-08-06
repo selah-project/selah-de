@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und da erhob die ganze Eda ⟨ihre⟩ Stimme, und sie gaben ⟨את⟩ ihre Stimme, und das Volk weinte in jener Nacht.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "und erhob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "Eda"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "und sie gaben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Stimme"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ihre Stimme"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "und weinte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jener"
+    }
+  ],
+  "timestamp": "2026-08-06T02:17:13.811546542Z",
+  "model": "glm-5.2"
+}

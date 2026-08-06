@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Alle Speise verabscheut ihre Nefesch, und sie gelangten bis zu den Toren des Todes.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Speise"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "verabscheut"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ihre Nefesch"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "und sie gelangten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "den Toren"
+    },
+    {
+      "surface": "מות",
+      "gloss": "des Todes"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:54.344323375Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ich werde an dir tun ⟨את⟩ das, was ich nicht getan habe, und ⟨את⟩ das, was ich nicht tun werde, ihm gleich, hinfort, wegen all deiner Gräuel.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Und ich werde tun"
+    },
+    {
+      "surface": "בך",
+      "gloss": "an dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was ich nicht getan habe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das, was"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ich getan habe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das, was ich nicht tun werde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das, was"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ich tun werde"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ihm gleich"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hinfort"
+    },
+    {
+      "surface": "יען",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "deiner Gräuel"
+    }
+  ],
+  "timestamp": "2026-08-06T22:45:02.954956586Z",
+  "model": "glm-5.2"
+}

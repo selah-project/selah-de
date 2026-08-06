@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Das Ganze ⟨ist⟩ abgewichen, gemeinsam ⟨sind sie⟩ verdorben — es gibt keinen, der Gutes tut, nicht ⟨auch nur⟩ einen.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "das Ganze"
+    },
+    {
+      "surface": "סר",
+      "gloss": "abgewichen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "gemeinsam"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "verdorb(en)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "es gibt keinen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der tut"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch nur"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:21.315044834Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und Aharon sprach: „Es entbrenne nicht der Zorn meines Herrn. Du kennst ⟨את⟩ das Volk, dass es im Bösen ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "entbrenne"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Zorn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "meines Herrn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kennst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "im Bösen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es ⟨ist⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T02:07:19.788834953Z",
+  "model": "glm-5.2"
+}

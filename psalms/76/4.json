@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 76,
+  "translation": "Dort zerbrach ⟨er⟩ die Feuerpfeile des Bogens, ⟨den⟩ Schild und Schwert und Krieg. Sela.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Dort"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "zerbrach"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "die Feuerpfeile"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "des Bogens"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "⟨den⟩ Schild"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "und Schwert"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "und Krieg"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:25.248575775Z",
+  "model": "glm-5.2"
+}

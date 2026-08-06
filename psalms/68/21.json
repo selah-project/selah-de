@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Der El ⟨ist⟩ uns ein El der Rettungen, und JHWH, Adonai, ⟨gehören⟩ die Ausgänge des Todes.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "der El"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ein El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "der Rettungen"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "und JHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למות",
+      "gloss": "des Todes"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "die Ausgänge"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:28.922798561Z",
+  "model": "glm-5.2"
+}

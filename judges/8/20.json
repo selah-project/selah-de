@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er sprach zu Jeter, seinem Erstgeborenen: „Steh auf, töte ⟨את⟩ sie.“ Aber der Junge zog sein Schwert nicht, denn er fürchtete sich, denn er war noch ein Junge.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "zu Jeter"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "seinem Erstgeborenen"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "töte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Aber … nicht"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "zog"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "der Junge"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sein Schwert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "er fürchtete sich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "er noch"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ein Junge"
+    }
+  ],
+  "timestamp": "2026-08-06T00:58:15.720987021Z",
+  "model": "glm-5.2"
+}

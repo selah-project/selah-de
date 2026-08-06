@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Diese von den Söhnen Gad, Häupter des Heeres: der Kleinste ⟨entspricht⟩ einem von hundert, und der Große einem von tausend.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Diese"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "von den Söhnen"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "Häupter"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "des Heeres"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "für ⟨eine⟩ Hundertschaft"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "der Kleine"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "und der Große"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "für ⟨eine⟩ Tausendschaft"
+    }
+  ],
+  "timestamp": "2026-08-06T04:55:41.041984096Z",
+  "model": "glm-5.2"
+}

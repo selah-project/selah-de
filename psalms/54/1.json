@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 54,
+  "translation": "Dem Chorleiter, auf Saitenspiel, eine Unterweisung, von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "auf Saitenspiel"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "eine Unterweisung"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:37.860457187Z",
+  "model": "glm-5.2"
+}

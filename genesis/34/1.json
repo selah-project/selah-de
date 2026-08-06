@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und Dina, die Tochter Leas, die sie dem Jaakow geboren hatte, ging hinaus, um die Töchter des Landes zu sehen.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "und ging hinaus"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "sie geboren hatte"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "dem Jaakow"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "um zu sehen"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "die Töchter"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    }
+  ],
+  "timestamp": "2026-08-05T17:38:11.150172937Z",
+  "model": "glm-5.2"
+}

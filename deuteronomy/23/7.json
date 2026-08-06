@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Nicht sollst du suchen ihr Schalom und ihr Wohl, alle deine Tage, bis in Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "sollst du suchen"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "ihr Schalom"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "und ihr Wohl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "deine Tage"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bis in Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:34.146447820Z",
+  "model": "glm-5.2"
+}

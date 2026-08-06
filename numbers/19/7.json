@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 19:7",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und der Kohen soll seine Kleider waschen und seinen Leib im Wasser baden, und danach darf er ⟨in⟩ das Mischkan kommen, und der Kohen ⟨ist⟩ unrein bis zum Abend.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "Und … soll waschen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "und … baden"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "seinen Leib"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "und danach"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "darf er kommen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨in⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "das Mischkan"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "und … ⟨ist⟩ unrein"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "zum Abend"
+    }
+  ],
+  "timestamp": "2026-08-06T00:36:25.799080554Z",
+  "model": "glm-5.2"
+}

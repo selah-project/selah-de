@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 73,
+  "translation": "Und ich — beständig ⟨bin ich⟩ bei dir. Du ergriffst meine rechte Hand.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständig"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bei dir"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "Du ergriffst"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨die⟩ Hand"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "meine rechte"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:03.029481128Z",
+  "model": "glm-5.2"
+}

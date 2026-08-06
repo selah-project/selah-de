@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "In seinen Tagen fiel Edom ab, ⟨entronnen⟩ der Hand Jehudas, und sie setzten über sich einen König ein.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "In seinen Tagen"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "fiel … ab"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "unter \/ ⟨entronnen⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "der Hand"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "und sie setzten … ein"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "über sich"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "einen König"
+    }
+  ],
+  "timestamp": "2026-08-05T21:35:41.479341805Z",
+  "model": "glm-5.2"
+}

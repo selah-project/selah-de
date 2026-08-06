@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Da kam Mosche und rief zu den Ältesten des Volkes und legte vor sie ⟨את⟩ alle diese Worte, die JHWH ihm geboten hatte.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Da kam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und rief"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "zu den Ältesten"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "und legte"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "vor sie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle diese Worte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "diese Worte"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T14:51:13.575764444Z",
+  "model": "glm-5.2"
+}

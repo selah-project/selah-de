@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Da antwortete das Volk und sagte: „Fern sei es von uns, JHWH zu verlassen, um anderen Elohim zu dienen!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Da antwortete"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Fern sei es"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "von uns"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "zu verlassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "um zu dienen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "anderen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:54:58.368932939Z",
+  "model": "glm-5.2"
+}

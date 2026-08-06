@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Zelten sollst du zelten ⟨את⟩ den ganzen Ertrag deines Samens, ⟨der⟩ herauskommt vom Feld, Jahr für Jahr.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "zelten sollst du"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "zelten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ganzen Ertrag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "Ertrag"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "deines Samens"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "der herauskommt"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "vom Feld"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahr"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "für Jahr"
+    }
+  ],
+  "timestamp": "2026-08-05T20:46:18.145808519Z",
+  "model": "glm-5.2"
+}

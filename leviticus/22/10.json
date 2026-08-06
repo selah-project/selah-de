@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und jeder Fremde soll nichts von dem Heiligen essen; ⟨ein⟩ Beisasse eines Kohen und ein Lohnarbeiter sollen nichts von dem Heiligen essen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Und jeder"
+    },
+    {
+      "surface": "זר",
+      "gloss": "Fremde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "soll essen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "von dem Heiligen"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "Beisasse"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "eines Kohen"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "und ⟨ein⟩ Lohnarbeiter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sollen essen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "von dem Heiligen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:28:51.969253901Z",
+  "model": "glm-5.2"
+}

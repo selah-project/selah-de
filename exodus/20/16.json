@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Du sollst nicht antworten gegen deinen Nächsten ⟨als⟩ Zeuge der Trugrede.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַעֲנֶה",
+      "gloss": "sollst du antworten"
+    },
+    {
+      "surface": "בְרֵעֲךָ",
+      "gloss": "gegen deinen Nächsten"
+    },
+    {
+      "surface": "עֵד",
+      "gloss": "Zeuge"
+    },
+    {
+      "surface": "שָׁקֶר",
+      "gloss": "der Trugrede"
+    }
+  ],
+  "timestamp": "2026-08-06T00:17:25.905892490Z",
+  "model": "glm-5.2"
+}

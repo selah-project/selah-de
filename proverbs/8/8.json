@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 8:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "In Zedek (Gerechtigkeit) ⟨sind⟩ alle Worte meines Mundes; es ist in ihnen nichts Verschlungenes und Verdrehtes.",
+  "tokens": [
+    {
+      "surface": "בצדק",
+      "gloss": "In Zedek (Gerechtigkeit)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "פי",
+      "gloss": "meines Mundes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "es ist nichts"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in ihnen"
+    },
+    {
+      "surface": "נפתל",
+      "gloss": "Verschlungenes"
+    },
+    {
+      "surface": "ועקש",
+      "gloss": "und Verdrehtes"
+    }
+  ],
+  "timestamp": "2026-08-05T23:09:37.531376536Z",
+  "model": "glm-5.2"
+}

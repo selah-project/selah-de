@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Eine Zeit zu töten und eine Zeit zu heilen, eine Zeit einzureißen und eine Zeit zu bauen.",
+  "tokens": [
+    {
+      "surface": "עֵת",
+      "gloss": "Eine Zeit"
+    },
+    {
+      "surface": "לַהֲרֹג",
+      "gloss": "zu töten"
+    },
+    {
+      "surface": "וְעֵת",
+      "gloss": "und eine Zeit"
+    },
+    {
+      "surface": "לִרְפֹּא",
+      "gloss": "zu heilen"
+    },
+    {
+      "surface": "עֵת",
+      "gloss": "eine Zeit"
+    },
+    {
+      "surface": "לִפְרֹץ",
+      "gloss": "einzureißen"
+    },
+    {
+      "surface": "וְעֵת",
+      "gloss": "und eine Zeit"
+    },
+    {
+      "surface": "לִבְנֹת",
+      "gloss": "zu bauen"
+    }
+  ],
+  "timestamp": "2026-08-06T07:08:50.036097596Z",
+  "model": "glm-5.2"
+}

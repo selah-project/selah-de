@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Schmuël kannte JHWH ⟨את⟩ noch nicht, und ⟨das⟩ Wort JHWHs war ihm noch nicht offenbart worden.",
+  "tokens": [
+    {
+      "surface": "וּשְׁמוּאֵל֕",
+      "gloss": "Und Schmuël"
+    },
+    {
+      "surface": "טֶ֖רֶם",
+      "gloss": "noch nicht"
+    },
+    {
+      "surface": "יָדַ֣ע",
+      "gloss": "kannte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְטֶ֛רֶם",
+      "gloss": "und noch nicht"
+    },
+    {
+      "surface": "יִגָּלֶ֥ה",
+      "gloss": "war offenbart worden"
+    },
+    {
+      "surface": "אֵלָ֖יו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "⟨das⟩ Wort"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-05T21:07:42.857977048Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich stimmte dein Angesicht mit ganzem Herzen, sei mir gnädig nach deiner Aussage.",
+  "tokens": [
+    {
+      "surface": "חִלִּ֣יתִי",
+      "gloss": "Ich stimmte"
+    },
+    {
+      "surface": "פָנֶ֣יךָ",
+      "gloss": "dein Angesicht"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "mit ganzem"
+    },
+    {
+      "surface": "לֵ֑ב",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "חָ֝נֵּ֗נִי",
+      "gloss": "sei mir gnädig"
+    },
+    {
+      "surface": "כְּאִמְרָתֶֽךָ",
+      "gloss": "nach deiner Aussage"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:06.205859234Z",
+  "model": "glm-5.2"
+}

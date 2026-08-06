@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Joaw sandte ⟨einen Boten⟩ und berichtete Dawid ⟨את⟩ alle Worte des Krieges.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "und er sandte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "und berichtete"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Worte des Krieges"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "des Krieges"
+    }
+  ],
+  "timestamp": "2026-08-06T01:15:43.232108963Z",
+  "model": "glm-5.2"
+}

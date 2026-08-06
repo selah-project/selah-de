@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Antworte ⟨dem⟩ Toren nach seiner Torheit, damit er nicht in ⟨seinen⟩ Augen weise ⟨wird⟩!",
+  "tokens": [
+    {
+      "surface": "עֲנֵה",
+      "gloss": "Antworte"
+    },
+    {
+      "surface": "כְ֭סִיל",
+      "gloss": "Toren"
+    },
+    {
+      "surface": "כְּאִוַּלְתּ֑וֹ",
+      "gloss": "nach seiner Torheit"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "יִהְיֶ֖ה",
+      "gloss": "er werde"
+    },
+    {
+      "surface": "חָכָ֣ם",
+      "gloss": "weise"
+    },
+    {
+      "surface": "בְּעֵינָֽיו",
+      "gloss": "in seinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:14:17.687385189Z",
+  "model": "glm-5.2"
+}

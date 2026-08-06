@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und die Söhne Jisraels sollen ⟨את⟩ den Schabbat halten, um ⟨את⟩ den Schabbat zu tun für ihre Generationen — ⟨als⟩ ewige Brit.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Und sollen halten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Schabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "den Schabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "um zu tun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Schabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "den Schabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "für ihre Generationen"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Brit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewige"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:43.359754056Z",
+  "model": "glm-5.2"
+}

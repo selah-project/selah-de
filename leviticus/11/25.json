@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und jeder, der ⟨etwas⟩ von ihrem Aas trägt, soll seine Kleider waschen und unrein sein bis zum Abend.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "und jeder"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "der trägt"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "von ihrem Aas"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "soll waschen"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "und unrein ⟨sein⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "zum Abend"
+    }
+  ],
+  "timestamp": "2026-08-06T08:22:10.894359507Z",
+  "model": "glm-5.2"
+}

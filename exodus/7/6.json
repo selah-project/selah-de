@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und Mosche und Aharon taten ⟨es⟩; wie JHWH ihnen geboten hatte, ⟨so⟩ taten sie.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "und tat"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "וְאַהֲרֹ֑ן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֨ר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צִוָּ֧ה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עָשֽׂוּ",
+      "gloss": "taten sie"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:50.665337373Z",
+  "model": "glm-5.2"
+}

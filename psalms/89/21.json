@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Ich habe Dawid, meinen Knecht, gefunden — mit meinem heiligen Öl habe ich ihn gesalbt.",
+  "tokens": [
+    {
+      "surface": "מָ֭צָאתִי",
+      "gloss": "Ich habe gefunden"
+    },
+    {
+      "surface": "דָּוִ֣ד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עַבְדִּ֑י",
+      "gloss": "meinen Knecht"
+    },
+    {
+      "surface": "בְּשֶׁ֖מֶן",
+      "gloss": "mit Öl"
+    },
+    {
+      "surface": "קָדְשִׁ֣י",
+      "gloss": "meinem heiligen"
+    },
+    {
+      "surface": "מְשַׁחְתִּֽיו",
+      "gloss": "habe ich ihn gesalbt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:24.401637958Z",
+  "model": "glm-5.2"
+}

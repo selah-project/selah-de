@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Denn König der ganzen Erde ⟨ist⟩ Elohim. Besingt einsichtig!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "כל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "Besingt"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "einsichtig"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:06.802088883Z",
+  "model": "glm-5.2"
+}

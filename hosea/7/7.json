@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Alle ⟨von ihnen⟩ glühen wie ⟨ein⟩ Backofen, und sie fraßen ⟨את⟩ ihre Richter; alle ihre Könige fielen — keiner ist unter ihnen, der zu mir ruft.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "glühen"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "wie ⟨ein⟩ Backofen"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "und sie fraßen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Richter"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "ihre Richter"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ihre Könige"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "fielen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "keiner ist"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "der ruft"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "unter ihnen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    }
+  ],
+  "timestamp": "2026-08-06T03:57:00.889665505Z",
+  "model": "glm-5.2"
+}

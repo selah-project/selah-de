@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und nun, kehre um und geh in Schalom, und tue nichts Böses in den Augen der Fürsten der Pelischtim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kehre um"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "und geh"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in Schalom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sollst du tun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in den Augen"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "der Fürsten"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "der Pelischtim"
+    }
+  ],
+  "timestamp": "2026-08-06T01:12:15.124393787Z",
+  "model": "glm-5.2"
+}

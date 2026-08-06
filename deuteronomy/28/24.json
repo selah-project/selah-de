@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "JHWH wird ⟨את⟩ den Regen deines Landes zu Staub und zu Pulver geben; vom Himmel wird er auf dich herabkommen, bis du vertilgt bist.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "wird geben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Regen"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "den Regen"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "deines Landes"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "Staub"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "und Pulver"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dem Himmel"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "wird herabkommen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "du vertilgt bist"
+    }
+  ],
+  "timestamp": "2026-08-06T00:47:39.235171107Z",
+  "model": "glm-5.2"
+}

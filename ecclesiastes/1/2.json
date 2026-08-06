@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Hauch der Haeche, sagte Kohëlet, Hauch der Haeche — das Ganze ⟨ist⟩ Hauch.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Hauch"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "der Haeche"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagte"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohëlet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hauch"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "der Haeche"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "das Ganze"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hauch"
+    }
+  ],
+  "timestamp": "2026-08-06T04:40:53.332677124Z",
+  "model": "glm-5.2"
+}

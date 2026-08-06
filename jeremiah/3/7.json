@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ich sagte: Nachdem sie ⟨את⟩ all diese Dinge getan ⟨hat⟩, ⟨wird sie⟩ zu mir umkehren — aber sie kehrte nicht um. Und ihre treulose Schwester, Jehuda, sah ⟨es⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Und ich sagte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Nachdem"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "sie getan hatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all diese Dinge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese Dinge"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "⟨wird sie⟩ umkehren"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "kehrte sie um"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "treulose"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "ihre Schwester"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-08-06T08:55:04.651474862Z",
+  "model": "glm-5.2"
+}

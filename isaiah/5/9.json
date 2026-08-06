@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "In meinen Ohren ⟨sprach⟩ JHWH der Zewaot: Fürwahr, viele Häuser zur Verwüstung werden sie werden, große und schöne, ohne Bewohner.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "in meinen Ohren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Zewaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fürwahr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "[Schwurpartikel]"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "Häuser"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "viele"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "zur Verwüstung"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "werden sie werden"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "große"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "und schöne"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Bewohner"
+    }
+  ],
+  "timestamp": "2026-08-05T21:43:28.539369918Z",
+  "model": "glm-5.2"
+}

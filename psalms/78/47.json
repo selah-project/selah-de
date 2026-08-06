@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Er erschlug mit Hagel ⟨ihre⟩ Reben und ⟨ihre⟩ Sykomoren mit ⟨dem〉 Schlossenregen.",
+  "tokens": [
+    {
+      "surface": "יַהֲרֹ֣ג",
+      "gloss": "Er erschlug"
+    },
+    {
+      "surface": "בַּבָּרָ֣ד",
+      "gloss": "mit Hagel"
+    },
+    {
+      "surface": "גַּפְנָ֑ם",
+      "gloss": "ihre Reben"
+    },
+    {
+      "surface": "וְ֝שִׁקְמוֹתָ֗ם",
+      "gloss": "und ⟨ihre⟩ Sykomoren"
+    },
+    {
+      "surface": "בַּֽחֲנָמַֽל",
+      "gloss": "mit Schlossenregen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:31.423002400Z",
+  "model": "glm-5.2"
+}

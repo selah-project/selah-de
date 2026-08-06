@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 15:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Denn JHWH, dein Elohim, ⟨wird⟩ dich segnen, so wie er zu dir geredet ⟨hat⟩, und du wirst vielen Völkern leihen, du aber wirst nicht leihen ⟨müssen⟩, und du wirst über viele Völker herrschen, über dich aber werden sie nicht herrschen.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֨יךָ֙",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "בֵּֽרַכְךָ֔",
+      "gloss": "dich segnen"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֖ר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "er geredet"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "וְהַֽעֲבַטְתָּ֞",
+      "gloss": "und du wirst leihen"
+    },
+    {
+      "surface": "גּוֹיִ֣ם",
+      "gloss": "Völkern"
+    },
+    {
+      "surface": "רַבִּ֗ים",
+      "gloss": "vielen"
+    },
+    {
+      "surface": "וְאַתָּה֙",
+      "gloss": "du aber"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַעֲבֹ֔ט",
+      "gloss": "wirst leihen"
+    },
+    {
+      "surface": "וּמָֽשַׁלְתָּ֙",
+      "gloss": "und du wirst herrschen"
+    },
+    {
+      "surface": "בְּגוֹיִ֣ם",
+      "gloss": "über Völker"
+    },
+    {
+      "surface": "רַבִּ֔ים",
+      "gloss": "vielen"
+    },
+    {
+      "surface": "וּבְךָ֖",
+      "gloss": "über dich"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִמְשֹֽׁלוּ",
+      "gloss": "werden sie herrschen"
+    }
+  ],
+  "timestamp": "2026-08-06T20:20:26.786904427Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und der Kohen befiehlt, und sie entfernen ⟨את⟩ die Steine, in denen der Befall ⟨ist⟩, und werfen sie hinaus, ⟨את⟩ sie, außerhalb der Stadt an einen unreinen Ort.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "und befiehlt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "und sie entfernen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Steine"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "die Steine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "in ihnen"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "der Befall"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "und sie werfen"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "einen Ort"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unreinen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:23:52.562994409Z",
+  "model": "glm-5.2"
+}

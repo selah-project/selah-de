@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Ein Gräuel ⟨für⟩ JHWH ⟨ist⟩ der Weg des Frevlers, aber wer Gerechtigkeit nachjagt, liebt er.",
+  "tokens": [
+    {
+      "surface": "תּוֹעֲבַ֣ת",
+      "gloss": "Ein Gräuel"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דֶּ֣רֶךְ",
+      "gloss": "der Weg"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "des Frevlers"
+    },
+    {
+      "surface": "וּמְרַדֵּ֖ף",
+      "gloss": "aber wer nachjagt"
+    },
+    {
+      "surface": "צְדָקָ֣ה",
+      "gloss": "Gerechtigkeit"
+    },
+    {
+      "surface": "יֶאֱהָֽב",
+      "gloss": "liebt er"
+    }
+  ],
+  "timestamp": "2026-08-06T06:55:16.555368991Z",
+  "model": "glm-5.2"
+}

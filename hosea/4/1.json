@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 4:1",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Hört das Wort JHWHs, Söhne Jisraels! Denn JHWH hat ⟨einen⟩ Rechtsstreit mit den Bewohnern ⟨der⟩ Erde: Denn da ist keine Emet und keine Chessed und keine Erkenntnis Elohim ⟨in⟩ der Erde.",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֥וּ",
+      "gloss": "Hört"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "רִ֤יב",
+      "gloss": "ein Rechtsstreit"
+    },
+    {
+      "surface": "לַֽיהוָה֙",
+      "gloss": "steht JHWH zu"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יוֹשְׁבֵ֣י",
+      "gloss": "den Bewohnern"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "כִּ֠י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "da ist keine"
+    },
+    {
+      "surface": "אֱמֶ֧ת",
+      "gloss": "Emet"
+    },
+    {
+      "surface": "וְֽאֵין",
+      "gloss": "und keine"
+    },
+    {
+      "surface": "חֶ֛סֶד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "וְאֵֽין",
+      "gloss": "und keine"
+    },
+    {
+      "surface": "דַּ֥עַת",
+      "gloss": "Erkenntnis"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "in der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:31:17.847821494Z",
+  "model": "glm-5.2"
+}

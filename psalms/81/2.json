@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 81,
+  "translation": "Jauchzt Elohim, unserer Stärke! Blast ⟨dem⟩ Elohim Jaakows!",
+  "tokens": [
+    {
+      "surface": "הַ֭רְנִינוּ",
+      "gloss": "Jauchzt"
+    },
+    {
+      "surface": "לֵאלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עֻזֵּ֑נוּ",
+      "gloss": "unserer Stärke"
+    },
+    {
+      "surface": "הָ֝רִ֗יעוּ",
+      "gloss": "Blast"
+    },
+    {
+      "surface": "לֵאלֹהֵ֥י",
+      "gloss": "⟨dem⟩ Elohim"
+    },
+    {
+      "surface": "יַעֲקֹֽב",
+      "gloss": "Jaakows"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:49.133844055Z",
+  "model": "glm-5.2"
+}

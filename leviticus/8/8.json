@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er legte ihm ⟨את⟩ das Brustschild auf, und er gab ⟨in⟩ das Brustschild ⟨את⟩ die Urim und ⟨את⟩ die Tummim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Und er legte auf"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Brustschild"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "das Brustschild"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und er gab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨in⟩"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "das Brustschild"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "die Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Tummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "die Tummim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:21:18.982959586Z",
+  "model": "glm-5.2"
+}

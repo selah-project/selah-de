@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Begehre nicht ihre Schönheit in deinem Herzen, und lass dich nicht fangen von ihren Wimpern.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "begehre"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "ihre Schönheit"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "in deinem Herzen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "lass dich fangen"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "von ihren Wimpern"
+    }
+  ],
+  "timestamp": "2026-08-05T23:09:43.025745171Z",
+  "model": "glm-5.2"
+}

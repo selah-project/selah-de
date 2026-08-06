@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 130,
+  "translation": "Und ⟨er⟩ wird ⟨את⟩ Jisra'el lösen von all seinen Schuldverwicklungen.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Und ⟨er⟩"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "wird lösen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "von all"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "seinen Schuldverwicklungen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:24.117026096Z",
+  "model": "glm-5.2"
+}

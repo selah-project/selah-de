@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und JHWH sprach: „Sehend habe ich ⟨את⟩ das Elend meines Volkes gesehen, das in Mizrajim ist, und ⟨את⟩ ihr Schreien habe ich gehört wegen ⟨seiner⟩ Treiber, denn ich kenne ⟨את⟩ seine Schmerzen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Sehend"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "habe ich gesehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Elend"
+    },
+    {
+      "surface": "עני",
+      "gloss": "das Elend"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meines Volkes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mizrajim ist"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihr Schreien"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ihr Schreien"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "habe ich gehört"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "seiner Treiber"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ich kenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Schmerzen"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "seine Schmerzen"
+    }
+  ],
+  "timestamp": "2026-08-06T21:06:47.436240694Z",
+  "model": "glm-5.2"
+}

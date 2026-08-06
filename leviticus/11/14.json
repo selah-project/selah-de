@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und ⟨את⟩ die Da'a und ⟨את⟩ die Aja, nach ihrer Art.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Da'a"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "die Da'a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Aja"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "die Aja"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "nach ihrer Art"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:07.074400120Z",
+  "model": "glm-5.2"
+}

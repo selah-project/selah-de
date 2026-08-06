@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 29:21",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "die einen Menschen mit einem Wort zur Sünde verleiten, und dem, der im Tor zurechtweist, ⟨eine⟩ Falle stellen, und ⟨den⟩ Gerechten ins Nichts abbiegen —",
+  "tokens": [
+    {
+      "surface": "מַחֲטִיאֵ֤י",
+      "gloss": "die … zur Sünde verleiten"
+    },
+    {
+      "surface": "אָדָם֙",
+      "gloss": "einen Menschen"
+    },
+    {
+      "surface": "בְּדָבָ֔ר",
+      "gloss": "mit einem Wort"
+    },
+    {
+      "surface": "וְלַמּוֹכִ֥יחַ",
+      "gloss": "und dem, der zurechtweist"
+    },
+    {
+      "surface": "בַּשַּׁ֖עַר",
+      "gloss": "im Tor"
+    },
+    {
+      "surface": "יְקֹשׁ֑וּן",
+      "gloss": "⟨eine⟩ Falle stellen"
+    },
+    {
+      "surface": "וַיַּטּ֥וּ",
+      "gloss": "und abbogen"
+    },
+    {
+      "surface": "בַתֹּ֖הוּ",
+      "gloss": "ins Nichts"
+    },
+    {
+      "surface": "צַדִּֽיק",
+      "gloss": "⟨den⟩ Gerechten"
+    }
+  ],
+  "timestamp": "2026-08-06T08:51:50.968598202Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Mein Herz rast, meine Kraft hat mich verlassen, und das Licht meiner Augen — auch das ist nicht bei mir.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "rast"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "hat mich verlassen"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "meine Kraft"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "und das Licht"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meiner Augen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "הם",
+      "gloss": "das"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ist nicht"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "bei mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:59.969529703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Vom Mann bis zur Frau sollt ihr ⟨sie⟩ wegschicken, nach draußen ⟨vom⟩ Lager sollt ihr sie wegschicken, und sie sollen ⟨את⟩ ihr Lager nicht unrein machen, in dessen Mitte ich wohne, inmitten von ihnen.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "Vom Mann"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "zur Frau"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "sollt ihr ⟨sie⟩ wegschicken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "draußen"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "⟨vom⟩ Lager"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "sollt ihr sie wegschicken"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨sie⟩ sollen nicht"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "unrein machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Lager"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ihr Lager"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in dessen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "wohne"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "inmitten von ihnen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:30:26.050533119Z",
+  "model": "glm-5.2"
+}

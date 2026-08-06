@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und JHWH sprach zu Mosche: „Schreib dies als Erinnerung in das Buch, und lege es in die Ohren Jehoschuas; denn ich werde ganz und gar auslöschen — ich werde ⟨את⟩ das Gedenken Amaleks auslöschen von unter dem Himmel.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Schreib"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dies"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "als Erinnerung"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in das Buch"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "und lege"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "in die Ohren"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschuas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "auslöschen"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "werde ich ganz und gar auslöschen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Gedenken"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "das Gedenken"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleks"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "von unter"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dem Himmel"
+    }
+  ],
+  "timestamp": "2026-08-06T02:03:47.029011525Z",
+  "model": "glm-5.2"
+}

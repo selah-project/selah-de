@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Jehoschua entließ ⟨את⟩ das Volk, jeden zu seinem Erbteil.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und er entließ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "zu seinem Erbteil"
+    }
+  ],
+  "timestamp": "2026-08-06T09:56:34.100906647Z",
+  "model": "glm-5.2"
+}

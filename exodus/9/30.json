@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Du aber und deine Knechte — ich weiß, dass ihr noch nicht erschreckt seid vor dem Angesicht JHWHs, Elohim.“",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "und deine Knechte"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ich weiß"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "noch nicht"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ihr erschreckt seid"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor dem Angesicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:07:05.657819235Z",
+  "model": "glm-5.2"
+}

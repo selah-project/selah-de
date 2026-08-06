@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Wenn du unseren Bruder mit uns sendest, werden wir hinabgehen und dir Nahrung kaufen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "du sendest"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sendest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unseren Bruder"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "unseren Bruder"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "mit uns"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "werden wir hinabgehen"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "und werden kaufen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Nahrung"
+    }
+  ],
+  "timestamp": "2026-08-05T17:41:16.223816339Z",
+  "model": "glm-5.2"
+}

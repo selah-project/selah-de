@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Meine Stimme ⟨zu⟩ Elohim, und ich schreie; meine Stimme ⟨zu⟩ Elohim, und ⟨er⟩ neigt ⟨mir⟩ ⟨das⟩ Ohr zu.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Meine Stimme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zu⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "und ich schreie"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "meine Stimme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zu⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "und ⟨er⟩ neigt ⟨mir⟩ ⟨das⟩ Ohr zu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨mir⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:02.758649917Z",
+  "model": "glm-5.2"
+}

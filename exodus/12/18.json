@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Im Ersten, am Vierzehnten des Monats, am Abend, sollt ihr Mazza essen — bis zum Einundzwanzigsten des Monats, am Abend.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "im Ersten"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "am Vier"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehnten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "am Abend"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sollt ihr essen"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "Mazza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zum Tag"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "undzwanzigsten"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "am Abend"
+    }
+  ],
+  "timestamp": "2026-08-06T00:15:52.942411229Z",
+  "model": "glm-5.2"
+}

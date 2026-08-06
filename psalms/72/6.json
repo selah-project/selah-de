@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Er steige herab wie Regen auf ⟨das⟩ Gemähte, wie Regenschauer, ⟨die⟩ die Erde träufen.",
+  "tokens": [
+    {
+      "surface": "יֵ֭רֵד",
+      "gloss": "er steige herab"
+    },
+    {
+      "surface": "כְּמָטָ֣ר",
+      "gloss": "wie Regen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "גֵּ֑ז",
+      "gloss": "Gemähtes"
+    },
+    {
+      "surface": "כִּ֝רְבִיבִ֗ים",
+      "gloss": "wie Regenschauer"
+    },
+    {
+      "surface": "זַרְזִ֥יף",
+      "gloss": "träufend"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:16:12.538961833Z",
+  "model": "glm-5.2"
+}

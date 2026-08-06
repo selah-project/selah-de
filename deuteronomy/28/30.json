@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Eine Frau wirst du dir verloben, und ein anderer Mann wird sie beschlafen; ein Haus wirst du bauen, und du wirst nicht darin wohnen; einen Weinberg wirst du pflanzen, und du wirst ihn nicht nutzen.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "Eine Frau"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "wirst du dir verloben"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "und ein Mann"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ein anderer"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "wird sie beschlafen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ein Haus"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "wirst du bauen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "wirst du wohnen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "darin"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "einen Weinberg"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "wirst du pflanzen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "wirst du ihn nutzen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:29:45.185048526Z",
+  "model": "glm-5.2"
+}

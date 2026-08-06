@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Meine Gelübde an JHWH will ich einlösen, ja, vor ⟨allem⟩ Volk, seinem, nun.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Meine Gelübde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an JHWH"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "will ich einlösen"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "ja, vor"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nun"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨allem⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Volk, seinem"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:42.334870636Z",
+  "model": "glm-5.2"
+}

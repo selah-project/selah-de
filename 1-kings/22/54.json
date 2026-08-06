@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und er diente ⟨את⟩ dem Baal und warf sich vor ihm nieder und erzürnte ⟨את⟩ JHWH, den Elohim von Jisra'el, nach allem, was sein Vater getan hatte.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "und er diente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "den Baal"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "und warf sich nieder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "und erzürnte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "den Elohim von"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nach allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "getan hatte"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sein Vater"
+    }
+  ],
+  "timestamp": "2026-08-06T01:30:23.436949565Z",
+  "model": "glm-5.2"
+}

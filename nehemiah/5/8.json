@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 5:8",
+  "book": "nehemiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ich sagte zu ihnen: Wir, wir haben ⟨את⟩ unsere Brüder, die Jehudim, die den Völkern verkauft worden waren, freigekauft — entsprechend unserem Vermögen. Und auch ihr verkauft ⟨את⟩ eure Brüder, und sie sollen an uns verkauft werden? Und sie schwiegen und fanden kein Wort.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "Und ich sagte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wir"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "wir haben freigekauft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unsere Brüder"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "unsere Brüder"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "die Jehudim"
+    },
+    {
+      "surface": "הנמכרים",
+      "gloss": "die verkauft worden waren"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "den Völkern"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "entsprechend"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unserem Vermögen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "verkauft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eure Brüder"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "eure Brüder"
+    },
+    {
+      "surface": "ונמכרו",
+      "gloss": "und sie sollen verkauft werden"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "an uns"
+    },
+    {
+      "surface": "ויחרישו",
+      "gloss": "und sie schwiegen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "fanden"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ein Wort"
+    }
+  ],
+  "timestamp": "2026-08-06T20:44:02.837074062Z",
+  "model": "glm-5.2"
+}

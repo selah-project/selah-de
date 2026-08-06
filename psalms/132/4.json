@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "wenn ich Schlaf meinen Augen ⟨gebe⟩, meinen Lidern Schlummer —",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "אֶתֵּ֣ן",
+      "gloss": "ich ⟨gebe⟩"
+    },
+    {
+      "surface": "שְׁנַ֣ת",
+      "gloss": "Schlaf"
+    },
+    {
+      "surface": "לְעֵינָ֑י",
+      "gloss": "meinen Augen"
+    },
+    {
+      "surface": "לְֽעַפְעַפַּ֥י",
+      "gloss": "meinen Lidern"
+    },
+    {
+      "surface": "תְּנוּמָֽה",
+      "gloss": "Schlummer"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:06.767265194Z",
+  "model": "glm-5.2"
+}

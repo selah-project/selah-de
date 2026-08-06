@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ⟨die⟩ Königin von Schewa hörte ⟨את⟩ das Gerücht von Schelomo, zum Namen JHWHs, und sie kam, um ihn mit Rätseln zu prüfen.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Und ⟨die⟩ Königin"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "von Schewa"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hörte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Gerücht"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Gerücht"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "von Schelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "zum Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "und sie kam"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "um ihn zu prüfen"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "mit Rätseln"
+    }
+  ],
+  "timestamp": "2026-08-05T21:28:46.393546435Z",
+  "model": "glm-5.2"
+}

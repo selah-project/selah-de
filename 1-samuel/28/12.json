@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und die Frau sah ⟨את⟩ Schmuël und schrie auf mit großer Stimme. Und die Frau sagte zu Schaul, ⟨um zu sagen⟩: Warum hast du mich getäuscht? Und ⟨du⟩ bist Schaul!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Und sie sah"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Schmuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "und sie schrie auf"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mit Stimme"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "großer"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Und sie sagte"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨um zu sagen⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "hast du mich getäuscht"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "und ⟨du⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    }
+  ],
+  "timestamp": "2026-08-06T05:43:31.439832129Z",
+  "model": "glm-5.2"
+}

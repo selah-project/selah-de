@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und JHWH, dein Elohim, wird sie vor dich geben und ⟨sie⟩ in große Bestürzung stürzen, bis ⟨sie⟩ vernichtet sind.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "Und … wird sie geben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vor dich"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "und ⟨wird sie⟩ stürzen"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "in Bestürzung"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "große"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "sie vernichtet sind"
+    }
+  ],
+  "timestamp": "2026-08-06T00:42:45.221500251Z",
+  "model": "glm-5.2"
+}

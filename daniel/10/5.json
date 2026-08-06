@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ich erhob ⟨את⟩ meine Augen und sah, und siehe, ein Mann, bekleidet mit Leinen, und seine Hüften waren umgürtet mit Gold von Ufas.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Und ich erhob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Augen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨ein⟩"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "bekleidet"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "mit Leinen"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "und seine Hüften"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "waren umgürtet"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "mit Gold"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "von Ufas"
+    }
+  ],
+  "timestamp": "2026-08-06T07:13:24.895035503Z",
+  "model": "glm-5.2"
+}

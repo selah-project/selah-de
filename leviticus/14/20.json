@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und der Kohen lässt ⟨את⟩ die Ola und ⟨את⟩ die Mincha auf dem Altar aufsteigen; und der Kohen erwirkt Sühne für ihn, ⟨und⟩ er wird rein.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Und lässt aufsteigen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die Ola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "die Mincha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "auf dem Altar"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "und erwirkt Sühne"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "für ihn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "und ⟨er⟩ wird rein"
+    }
+  ],
+  "timestamp": "2026-08-06T05:20:17.411971522Z",
+  "model": "glm-5.2"
+}

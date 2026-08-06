@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Ein Zaddik wird aus der Bedrängnis herausgerissen, und ein Rascha kommt an seine Stelle.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Ein Zaddik"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "aus der Bedrängnis"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "wird herausgerissen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und kommt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ein Rascha"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seine Stelle"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:38.334820051Z",
+  "model": "glm-5.2"
+}

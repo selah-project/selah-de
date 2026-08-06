@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "und er soll ⟨את⟩ seine Hand auf den Kopf der Chattat stützen und ⟨את⟩ die Chattat schlachten am Ort der Ola",
+  "tokens": [
+    {
+      "surface": "וְסָמַךְ֙",
+      "gloss": "und er soll stützen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Hand"
+    },
+    {
+      "surface": "יָד֔וֹ",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "רֹ֣אשׁ",
+      "gloss": "den Kopf"
+    },
+    {
+      "surface": "הַֽחַטָּ֑את",
+      "gloss": "der Chattat"
+    },
+    {
+      "surface": "וְשָׁחַט֙",
+      "gloss": "und schlachten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Chattat"
+    },
+    {
+      "surface": "הַ֣חַטָּ֔את",
+      "gloss": "die Chattat"
+    },
+    {
+      "surface": "בִּמְק֖וֹם",
+      "gloss": "am Ort"
+    },
+    {
+      "surface": "הָעֹלָֽה",
+      "gloss": "der Ola"
+    }
+  ],
+  "timestamp": "2026-08-06T22:32:51.996064913Z",
+  "model": "glm-5.2"
+}

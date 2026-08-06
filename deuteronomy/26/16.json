@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "„Diesen Tag hat JHWH, dein Elohim, dir geboten zu tun ⟨את⟩ diese Satzungen und ⟨את⟩ die Rechtsbestimmungen; und du sollst sie halten und tun mit ganzem Herzen und mit ganzer Nefesch.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Diesen Tag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "hat geboten"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zu tun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Satzungen"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "die Satzungen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Rechtsbestimmungen"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "die Rechtsbestimmungen"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "und du sollst halten"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "und tun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "die Satzungen und Rechtsbestimmungen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit ganzem"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "und mit ganzer"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-05T20:49:56.757202055Z",
+  "model": "glm-5.2"
+}

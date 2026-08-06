@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ich hasste ⟨את⟩ das Leben, denn das Tun, das getan wird unter der Sonne, ⟨ist⟩ böse für mich; denn das Ganze ⟨ist⟩ Hauch und Haschen nach Wind.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Und ich hasste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Leben"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "das Leben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "רע",
+      "gloss": "böse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "für mich"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "das Tun"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "das getan wird"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "das Ganze"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hauch"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "und Haschen nach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Wind"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:57.099519082Z",
+  "model": "glm-5.2"
+}

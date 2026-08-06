@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und das ganze Volk brach ⟨את⟩ die goldenen Ringe ab, die in ihren Ohren waren, und sie brachten ⟨sie⟩ zu Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "Und sie brachen ab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goldenen Ringe"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "die Ringe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "golden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "in ihren Ohren"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "und sie brachten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-06T20:18:36.026026372Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Eschton zeugte ⟨את⟩ Bet-Rafa und ⟨את⟩ Paseach und ⟨את⟩ Tachina, ⟨den⟩ Vater von Ir-Nachasch. Dies ⟨sind⟩ die Männer von Recha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Und Eschton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Paseach"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Tachina"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tachina"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Vater"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "von Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachasch"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "von Recha"
+    }
+  ],
+  "timestamp": "2026-08-06T10:42:46.189062333Z",
+  "model": "glm-5.2"
+}

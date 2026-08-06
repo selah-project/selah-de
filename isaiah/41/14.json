@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 41:14",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Fürchte dich nicht, du Winde, Jaakow, ⟨und⟩ ihr Männer von Jisra'el! Ich habe dir geholfen, Spruch JHWHs, und dein Goel ⟨ist⟩ der Heilige Jisra'els.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּֽירְאִי֙",
+      "gloss": "fürchte dich"
+    },
+    {
+      "surface": "תּוֹלַ֣עַת",
+      "gloss": "du Winde"
+    },
+    {
+      "surface": "יַֽעֲקֹ֔ב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "מְתֵ֖י",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "עֲזַרְתִּיךָ֙",
+      "gloss": "habe dir geholfen"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "Spruch"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וְגֹאֲלֵ֖ךְ",
+      "gloss": "und dein Goel"
+    },
+    {
+      "surface": "קְד֥וֹשׁ",
+      "gloss": "der Heilige"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Jisra'els"
+    }
+  ],
+  "timestamp": "2026-08-05T21:52:55.694603770Z",
+  "model": "glm-5.2"
+}

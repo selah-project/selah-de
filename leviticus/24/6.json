@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und du sollst ⟨את⟩ sie legen, zwei Schichten, ⟨je⟩ sechs ⟨auf⟩ die Schicht, auf den reinen Tisch, vor JHWH.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "und du sollst legen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "Schichten"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sechs"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "auf die Schicht"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "den Tisch"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "reinen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:42.063108824Z",
+  "model": "glm-5.2"
+}

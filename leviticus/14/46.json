@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und ⟨wer⟩ in das Haus hineingeht, alle Tage ⟨seiner⟩ Einschließung, wird unrein sein bis zum Abend.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "und der Hineingehende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "seiner Einschließung"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn — das Haus"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "wird unrein sein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "zum Abend"
+    }
+  ],
+  "timestamp": "2026-08-06T02:11:31.262461369Z",
+  "model": "glm-5.2"
+}

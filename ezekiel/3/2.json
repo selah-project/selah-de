@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ich öffnete ⟨את⟩ meinen Mund, und er ließ mich ⟨את⟩ diese Rolle essen.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Und ich öffnete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Mund"
+    },
+    {
+      "surface": "פי",
+      "gloss": "meinen Mund"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "und er ließ mich essen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Rolle"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "die Rolle"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "diese"
+    }
+  ],
+  "timestamp": "2026-08-06T03:43:19.867115621Z",
+  "model": "glm-5.2"
+}

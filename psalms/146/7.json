@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 146,
+  "translation": "⟨der⟩ Recht schafft den Bedrückten, ⟨der⟩ Brot gibt den Hungrigen, JHWH löst die Gefangenen —",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂ֤ה",
+      "gloss": "⟨der⟩ schafft"
+    },
+    {
+      "surface": "מִשְׁפָּ֨ט",
+      "gloss": "Recht"
+    },
+    {
+      "surface": "לָעֲשׁוּקִ֗ים",
+      "gloss": "den Bedrückten"
+    },
+    {
+      "surface": "נֹתֵ֣ן",
+      "gloss": "⟨der⟩ gibt"
+    },
+    {
+      "surface": "לֶ֭חֶם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "לָרְעֵבִ֑ים",
+      "gloss": "den Hungrigen"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מַתִּ֥יר",
+      "gloss": "löst"
+    },
+    {
+      "surface": "אֲסוּרִֽים",
+      "gloss": "die Gefangenen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:25:08.025860035Z",
+  "model": "glm-5.2"
+}

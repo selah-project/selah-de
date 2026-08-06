@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und er stärkte ⟨את⟩ die Festungen und setzte in sie Befehlshaber ⟨ein⟩ und Vorräte an Speise und Öl und Wein.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "und er stärkte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Festungen"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "die Festungen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und er setzte"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in sie"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "Befehlshaber"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "und Vorräte"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "Speise"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "und Öl"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "und Wein"
+    }
+  ],
+  "timestamp": "2026-08-06T07:26:25.527779246Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Mosche führte ⟨את⟩ das Volk hinaus, Elohim zu begegnen, aus dem Lager, und sie stellten sich auf am Fuß des Berges.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "und er führte hinaus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "zu begegnen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "dem Lager"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "und sie stellten sich auf"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "am Fuß"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "des Berges"
+    }
+  ],
+  "timestamp": "2026-08-06T02:05:25.465609960Z",
+  "model": "glm-5.2"
+}

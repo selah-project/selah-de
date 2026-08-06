@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und die Pelischtim nahmen ⟨את⟩ die Lade des Elohim und brachten sie ⟨in das⟩ Haus Dagons und stellten sie neben Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Und … nahmen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Lade"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "und brachten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "sie",
+      "marks": "(Objektmarker: sie → die Lade)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagons"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "und stellten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "sie",
+      "marks": "(Objektmarker: sie → die Lade)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "neben"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-06T05:38:33.286015294Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 83,
+  "translation": "Gegen dein Volk schmieden sie Ratschluss, und sie beraten sich gegen deine Bergungen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Gegen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dein Volk"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "schmieden sie"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "Ratschluss"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "und sie beraten sich"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "deine Bergungen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:56.370467151Z",
+  "model": "glm-5.2"
+}

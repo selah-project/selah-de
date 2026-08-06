@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "Dem, der große Wunder tut, allein — denn für immer ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Dem, der … tut"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "Wunder"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "große"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "allein"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:05.092412408Z",
+  "model": "glm-5.2"
+}

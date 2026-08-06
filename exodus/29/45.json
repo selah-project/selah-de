@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 29:45",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und ich werde wohnen in der Mitte der Söhne Jisraels, und ich werde ihnen sein zu Elohim.",
+  "tokens": [
+    {
+      "surface": "וְשָׁכַנְתִּי",
+      "gloss": "Und ich werde wohnen"
+    },
+    {
+      "surface": "בְּתוֹךְ",
+      "gloss": "in der Mitte"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "וְהָיִיתִי",
+      "gloss": "und ich werde sein"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "לֵאלֹהִים",
+      "gloss": "zu Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T22:32:46.055261733Z",
+  "model": "glm-5.2"
+}

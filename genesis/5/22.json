@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Chanoch wandelte mit ⟨dem⟩ Elohim, nachdem er ⟨את⟩ Metuschelach gezeugt hatte, dreihundert Jahre, und zeugte Söhne und Töchter.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "Und wandelte"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoch"
+    },
+    {
+      "surface": "את",
+      "gloss": "mit ⟨⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨dem⟩ Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nachdem"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "er gezeugt hatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metuschelach"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuschelach"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "und zeugte"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "und Töchter"
+    }
+  ],
+  "timestamp": "2026-08-06T09:39:57.366696665Z",
+  "model": "glm-5.2"
+}

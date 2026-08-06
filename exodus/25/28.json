@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und du sollst ⟨את⟩ die Stangen machen aus Schittimholz und sie mit Gold überziehen, und ⟨dadurch⟩ soll ⟨את⟩ der Tisch getragen werden mit ihnen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Und du sollst machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stangen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "die Stangen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "aus Holz"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Schittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "und ⟨du sollst⟩ überziehen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "und ⟨es⟩ soll getragen werden"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mit ihnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Tisch"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "den Tisch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:12.308612844Z",
+  "model": "glm-5.2"
+}

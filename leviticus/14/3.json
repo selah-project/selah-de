@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und der Kohen geht hinaus, nach außerhalb des Lagers, und der Kohen sieht, und siehe, ⟨wenn⟩ der Schlag des Zaraat geheilt ist vom Zarua —",
+  "tokens": [
+    {
+      "surface": "וְיָצָא֙",
+      "gloss": "und geht hinaus"
+    },
+    {
+      "surface": "הַכֹּהֵ֔ן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "מִח֖וּץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "לַֽמַּחֲנֶ֑ה",
+      "gloss": "des Lagers"
+    },
+    {
+      "surface": "וְרָאָה֙",
+      "gloss": "und sieht"
+    },
+    {
+      "surface": "הַכֹּהֵ֔ן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "וְהִנֵּ֛ה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "נִרְפָּ֥א",
+      "gloss": "ist geheilt"
+    },
+    {
+      "surface": "נֶֽגַע",
+      "gloss": "der Schlag"
+    },
+    {
+      "surface": "הַצָּרַ֖עַת",
+      "gloss": "des Zaraat"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "vom"
+    },
+    {
+      "surface": "הַצָּרֽוּעַ",
+      "gloss": "Zarua"
+    }
+  ],
+  "timestamp": "2026-08-06T00:26:10.022902098Z",
+  "model": "glm-5.2"
+}

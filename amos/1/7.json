@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ich werde Feuer senden ⟨gegen⟩ die Mauer von Asa, und ⟨es⟩ wird fressen ⟨ihre⟩ Burgen.",
+  "tokens": [
+    {
+      "surface": "וְשִׁלַּ֥חְתִּי",
+      "gloss": "und ich werde senden"
+    },
+    {
+      "surface": "אֵ֖שׁ",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "בְּחוֹמַ֣ת",
+      "gloss": "gegen die Mauer"
+    },
+    {
+      "surface": "עַזָּ֑ה",
+      "gloss": "von Asa"
+    },
+    {
+      "surface": "וְאָכְלָ֖ה",
+      "gloss": "und ⟨es⟩ wird fressen"
+    },
+    {
+      "surface": "אַרְמְנֹתֶֽיהָ",
+      "gloss": "ihre Burgen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:33:59.054638392Z",
+  "model": "glm-5.2"
+}

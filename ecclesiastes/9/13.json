@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Auch das habe ich gesehen: Weisheit unter der Sonne, und ⟨sie⟩ ist groß ⟨für⟩ mich.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Auch"
+    },
+    {
+      "surface": "זֹ֛ה",
+      "gloss": "das"
+    },
+    {
+      "surface": "רָאִ֥יתִי",
+      "gloss": "habe ich gesehen"
+    },
+    {
+      "surface": "חָכְמָ֖ה",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "הַשָּׁ֑מֶשׁ",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "וּגְדוֹלָ֥ה",
+      "gloss": "und ⟨sie⟩ ist groß"
+    },
+    {
+      "surface": "הִ֖יא",
+      "gloss": "⟨sie⟩"
+    },
+    {
+      "surface": "אֵלָֽי",
+      "gloss": "⟨für⟩ mich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:16.716098322Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Reiße mich weg von den Tätern von Unheil, und von Männern des Blutes rette mich!",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Reiße mich weg"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "von den Tätern von"
+    },
+    {
+      "surface": "און",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "und von Männern des"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Blutes"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "rette mich"
+    }
+  ],
+  "timestamp": "2026-08-06T06:43:43.740009734Z",
+  "model": "glm-5.2"
+}

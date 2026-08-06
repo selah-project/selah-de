@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "So machten eure Väter, als ich ⟨את⟩ sie von Qadesch-Barnea aussandte, um ⟨את⟩ das Land zu sehen.",
+  "tokens": [
+    {
+      "surface": "כֹּ֥ה",
+      "gloss": "So"
+    },
+    {
+      "surface": "עָשׂ֖וּ",
+      "gloss": "machten"
+    },
+    {
+      "surface": "אֲבֹתֵיכֶ֑ם",
+      "gloss": "eure Väter"
+    },
+    {
+      "surface": "בְּשָׁלְחִ֥י",
+      "gloss": "als ich … aussandte"
+    },
+    {
+      "surface": "אֹתָ֛ם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "מִקָּדֵ֥שׁ",
+      "gloss": "von Qadesch"
+    },
+    {
+      "surface": "בַּרְנֵ֖עַ",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לִרְא֥וֹת",
+      "gloss": "um … zu sehen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "das Land"
+    }
+  ],
+  "timestamp": "2026-08-06T22:33:41.134295070Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Geh und sage zu Dawid, meinem Knecht: So spricht JHWH: Nicht du wirst mir ⟨das⟩ Haus bauen zum Wohnen.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "und sage"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "meinem Knecht"
+    },
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "wirst … bauen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨das⟩ Haus"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "zum Wohnen"
+    }
+  ],
+  "timestamp": "2026-08-06T07:22:01.839706001Z",
+  "model": "glm-5.2"
+}

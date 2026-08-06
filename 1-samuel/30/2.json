@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und sie führten ⟨את⟩ die Frauen, die darin waren, gefangen, vom Kleinen bis zum Großen; sie töteten niemand, sondern trieben ⟨sie⟩ weg und gingen ihres Weges.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Und sie führten gefangen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Frauen"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "die Frauen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בה",
+      "gloss": "darin waren"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "vom Kleinen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "Großen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "sie töteten"
+    },
+    {
+      "surface": "איש",
+      "gloss": "niemand"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "sondern trieben weg"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "und gingen"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "ihres Weges"
+    }
+  ],
+  "timestamp": "2026-08-05T21:16:41.765798200Z",
+  "model": "glm-5.2"
+}

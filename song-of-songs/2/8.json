@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Die Stimme meines Geliebten! Siehe, ⟨da⟩ kommt er, springend über die Berge, hüpfend über die Hügel.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "meines Geliebten"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "da"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommt er"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "springend"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "die Berge"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "hüpfend"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "die Hügel"
+    }
+  ],
+  "timestamp": "2026-08-05T23:26:00.087802629Z",
+  "model": "glm-5.2"
+}

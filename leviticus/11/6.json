@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨את⟩ den Arnebet, weil sie ⟨das⟩ Wiederkäuen hochbringt — sie ⟨ist⟩ es, aber ⟨die⟩ Spalte hat sie nicht gespalten — unrein ⟨ist⟩ sie für euch.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Arnebet"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "der Arnebet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "hochbringt"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "Wiederkäuen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "aber ⟨die⟩ Spalte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "hat gespalten"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "unrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    }
+  ],
+  "timestamp": "2026-08-06T05:19:14.566079747Z",
+  "model": "glm-5.2"
+}

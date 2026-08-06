@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und JHWH Elohim rief den Menschen und sprach zu ihm: „Wo bist du?“",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "und rief"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "wo bist du"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:06.190865865Z",
+  "model": "glm-5.2"
+}

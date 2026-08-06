@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 11:21",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Wer schlug ⟨את⟩ Awimelech, den Sohn Jerubeschets? Hat nicht eine Frau ein Stück eines Mühlsteins auf ihn geworfen von der Mauer herab, sodass er in Tebez starb? Warum seid ihr so nahe an die Mauer herangerückt? ⟨Und⟩ du ⟨sollst⟩ sagen: Auch dein Knecht Urija, der Chetiter, ⟨ist⟩ tot.'",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "ירבשת",
+      "gloss": "Jerubeschets"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Hat nicht"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "eine Frau"
+    },
+    {
+      "surface": "השליכה",
+      "gloss": "geworfen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "ein Stück"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "eines Mühlsteins"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von … herab"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "der Mauer"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und er starb"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "in Tebez"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "נגשתם",
+      "gloss": "seid ihr herangerückt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "die Mauer"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "und du ⟨sollst⟩ sagen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Auch"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "dein Knecht"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "der Chetiter"
+    },
+    {
+      "surface": "מת",
+      "gloss": "tot"
+    }
+  ],
+  "timestamp": "2026-08-06T01:15:38.948600827Z",
+  "model": "glm-5.2"
+}

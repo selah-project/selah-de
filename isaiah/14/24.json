@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Geschworen hat JHWH der Heerscharen, ⟨und⟩ gesagt: Gewiss, wie ich es mir vorgestellt habe, so ist es geschehen, und wie ich es geplant habe, so wird es bestehen bleiben.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Geschworen hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und⟩ gesagt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Gewiss"
+    },
+    {
+      "surface": "לא",
+      "gloss": "(so wahr)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ich es mir vorgestellt habe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ist es geschehen"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "und wie"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "ich es geplant habe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "es"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "wird bestehen bleiben"
+    }
+  ],
+  "timestamp": "2026-08-05T21:45:59.705781515Z",
+  "model": "glm-5.2"
+}

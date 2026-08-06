@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Ein König, ⟨der⟩ sitzt auf ⟨dem⟩ Thron ⟨des⟩ Rechts, ⟨der⟩ streut ⟨mit⟩ seinen Augen alles Bose ⟨weg⟩.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ein König"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨der⟩ sitzt"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "⟨dem⟩ Thron"
+    },
+    {
+      "surface": "דין",
+      "gloss": "⟨des⟩ Rechts"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "⟨der⟩ streut"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "⟨mit⟩ seinen Augen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böse"
+    }
+  ],
+  "timestamp": "2026-08-05T23:12:52.190911119Z",
+  "model": "glm-5.2"
+}

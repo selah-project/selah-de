@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Ihr Land wimmelte von Fröschen, in den Gemächern ihrer Könige.",
+  "tokens": [
+    {
+      "surface": "שָׁרַ֣ץ",
+      "gloss": "wimmelte"
+    },
+    {
+      "surface": "אַרְצָ֣ם",
+      "gloss": "Ihr Land"
+    },
+    {
+      "surface": "צְפַרְדְּעִ֑ים",
+      "gloss": "von Fröschen"
+    },
+    {
+      "surface": "בְּ֝חַדְרֵ֗י",
+      "gloss": "in den Gemächern"
+    },
+    {
+      "surface": "מַלְכֵיהֶֽם",
+      "gloss": "ihrer Könige"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:44.100231290Z",
+  "model": "glm-5.2"
+}

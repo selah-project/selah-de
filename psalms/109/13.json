@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Sein Ende sei zum Ausrotten, in ⟨einem⟩ anderen Geschlecht werde ihr Name ausgelöscht.",
+  "tokens": [
+    {
+      "surface": "יְהִֽי",
+      "gloss": "sei"
+    },
+    {
+      "surface": "אַחֲרִית֥וֹ",
+      "gloss": "sein Ende"
+    },
+    {
+      "surface": "לְהַכְרִ֑ית",
+      "gloss": "zum Ausrotten"
+    },
+    {
+      "surface": "בְּד֥וֹר",
+      "gloss": "in Geschlecht"
+    },
+    {
+      "surface": "אַ֝חֵ֗ר",
+      "gloss": "⟨einem⟩ anderen"
+    },
+    {
+      "surface": "יִמַּ֥ח",
+      "gloss": "werde ausgelöscht"
+    },
+    {
+      "surface": "שְׁמָֽם",
+      "gloss": "ihr Name"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:18.476074959Z",
+  "model": "glm-5.2"
+}

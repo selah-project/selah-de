@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Und sie besäten Felder und pflanzten Weinberge, und sie brachten Frucht hinzu-Ertrag.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "Und sie besäten"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "Felder"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "und pflanzten"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "Weinberge"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "und sie brachten"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "Frucht"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "hinzu-Ertrag"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:13.622612199Z",
+  "model": "glm-5.2"
+}

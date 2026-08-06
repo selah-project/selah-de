@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "⟨את⟩ die Vorhänge des Vorhofs, ⟨את⟩ seine Säulen und ⟨את⟩ seine Sockel, und ⟨את⟩ die Abdeckung des Tors des Vorhofs,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Vorhänge"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "die Vorhänge"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "des Vorhofs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Säulen"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "seine Säulen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Sockel"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "seine Sockel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Abdeckung"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "die Abdeckung"
+    },
+    {
+      "surface": "שער",
+      "gloss": "des Tors"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "des Vorhofs"
+    }
+  ],
+  "timestamp": "2026-08-06T05:17:50.809633975Z",
+  "model": "glm-5.2"
+}

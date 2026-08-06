@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und wenn ⟨ihm keine⟩ Tochter ⟨ist⟩, sollt ihr ⟨את⟩ sein Erbe seinen Brüdern geben.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "keine"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "sollt ihr geben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Erbe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sein Erbe"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "seinen Brüdern"
+    }
+  ],
+  "timestamp": "2026-08-05T20:38:08.842539672Z",
+  "model": "glm-5.2"
+}

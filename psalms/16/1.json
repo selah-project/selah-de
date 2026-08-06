@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Eine Gravur von Dawid. Beschütze mich, El, denn ich habe bei dir Zuflucht gesucht.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Eine Gravur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Beschütze mich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "habe ich Zuflucht gesucht"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bei dir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:33.341064352Z",
+  "model": "glm-5.2"
+}

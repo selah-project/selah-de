@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Dem Chorleiter, auf Schoschanim. Von Dawid.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֬חַ",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "שׁוֹשַׁנִּ֬ים",
+      "gloss": "Schoschanim"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:17.412066997Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Und ⟨es⟩ war böse in den Augen JHWHs, was er tat, und ⟨er⟩ tötete auch ⟨את⟩ ihn.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "Und ⟨es⟩ war böse"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in den Augen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er tat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und ⟨er⟩ tötete"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T08:15:53.945000133Z",
+  "model": "glm-5.2"
+}

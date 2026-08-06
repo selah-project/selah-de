@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "der König von Schimron-Meron, einer; der König von Akschaf, einer;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "von Schimron"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "-Meron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "von Akschaf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    }
+  ],
+  "timestamp": "2026-08-05T20:55:06.423646026Z",
+  "model": "glm-5.2"
+}

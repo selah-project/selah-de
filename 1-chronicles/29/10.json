@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und Dawid segnete ⟨את⟩ JHWH vor den Augen der ganzen Versammlung, und Dawid sagte: „Gesegnet ⟨bist⟩ du, JHWH, Elohim Jisra'els, unseres Vaters, von Ewigkeit bis Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Und er segnete"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "vor den Augen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨bist⟩ du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "unseres Vaters"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "von Ewigkeit"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:53:17.568565082Z",
+  "model": "glm-5.2"
+}

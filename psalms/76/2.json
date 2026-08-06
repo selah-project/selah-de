@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 76,
+  "translation": "Bekannt ⟨ist⟩ Elohim in Jehuda, in Jisrael ⟨ist⟩ groß sein Name.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Bekannt"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Jehuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisrael"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groß"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sein Name"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:25.248239185Z",
+  "model": "glm-5.2"
+}

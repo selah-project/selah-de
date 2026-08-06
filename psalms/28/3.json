@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Zieh mich nicht hin mit den Frevlern und mit den Tätern von Unheil, die Schalom reden mit ihren Gefährten, ⟨während⟩ Übel ⟨ist⟩ in ihrem Herzen!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "zieh mich hin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "den Frevlern"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "und mit"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "den Tätern von"
+    },
+    {
+      "surface": "און",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die reden"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "ihren Gefährten"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "und Übel"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "in ihrem Herzen"
+    }
+  ],
+  "timestamp": "2026-08-06T16:00:54.613139328Z",
+  "model": "glm-5.2"
+}

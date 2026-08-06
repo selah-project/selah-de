@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und JHWH sprach zu mir: Steh auf, brich auf zum Marsch vor dem Volk ⟨her⟩, ⟨damit⟩ sie kommen und ⟨את⟩ das Land in Besitz nehmen, das ich ihren Vätern geschworen habe, ihnen zu geben.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "קוּם",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "לֵךְ",
+      "gloss": "brich auf"
+    },
+    {
+      "surface": "לְמַסַּע",
+      "gloss": "zum Marsch"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "vor"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "וְיָבֹאוּ",
+      "gloss": "und sie kommen"
+    },
+    {
+      "surface": "וְיִֽרְשׁוּ",
+      "gloss": "und ⟨es⟩ in Besitz nehmen"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נִשְׁבַּעְתִּי",
+      "gloss": "ich geschworen habe"
+    },
+    {
+      "surface": "לַאֲבֹתָם",
+      "gloss": "ihren Vätern"
+    },
+    {
+      "surface": "לָתֵת",
+      "gloss": "zu geben"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:23:22.113579082Z",
+  "model": "glm-5.2"
+}

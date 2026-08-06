@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und der König antwortete ⟨את⟩ das Volk hart, und er verließ ⟨את⟩ den Rat der Ältesten, den sie ihm geraten hatten.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Und antwortete"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hart"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "und er verließ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Rat"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "den Rat"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "der Ältesten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "sie ihm geraten hatten"
+    }
+  ],
+  "timestamp": "2026-08-06T21:15:57.096325107Z",
+  "model": "glm-5.2"
+}

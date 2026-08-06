@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "⟨Meinen⟩ Bogen habe ich ⟨את⟩ in die Wolke gegeben, und er sei zum Zeichen der Brit zwischen mir und der Erde.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Meinen Bogen"
+    },
+    {
+      "surface": "קַשְׁתִּ֕י",
+      "gloss": "meinen Bogen"
+    },
+    {
+      "surface": "נָתַ֖תִּי",
+      "gloss": "habe ich gegeben"
+    },
+    {
+      "surface": "בֶּֽעָנָ֑ן",
+      "gloss": "in die Wolke"
+    },
+    {
+      "surface": "וְהָֽיְתָה֙",
+      "gloss": "und er sei"
+    },
+    {
+      "surface": "לְא֣וֹת",
+      "gloss": "zum Zeichen"
+    },
+    {
+      "surface": "בְּרִ֔ית",
+      "gloss": "der Brit"
+    },
+    {
+      "surface": "בֵּינִ֖י",
+      "gloss": "zwischen mir"
+    },
+    {
+      "surface": "וּבֵ֥ין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:38.453666091Z",
+  "model": "glm-5.2"
+}

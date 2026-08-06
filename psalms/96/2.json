@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 96,
+  "translation": "Singt für JHWH, segnet seinen Namen, verkündet von Tag zu Tag seine Rettung!",
+  "tokens": [
+    {
+      "surface": "שִׁ֣ירוּ",
+      "gloss": "Singt"
+    },
+    {
+      "surface": "לַ֭יהוָה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "בָּרֲכ֣וּ",
+      "gloss": "segnet"
+    },
+    {
+      "surface": "שְׁמ֑וֹ",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "בַּשְּׂר֥וּ",
+      "gloss": "verkündet"
+    },
+    {
+      "surface": "מִיּֽוֹם",
+      "gloss": "von Tag"
+    },
+    {
+      "surface": "לְ֝י֗וֹם",
+      "gloss": "zu Tag"
+    },
+    {
+      "surface": "יְשׁוּעָתֽוֹ",
+      "gloss": "seine Rettung"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:46.183863148Z",
+  "model": "glm-5.2"
+}

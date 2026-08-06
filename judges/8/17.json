@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨את⟩ den Turm von Pnuël riss er nieder, und er erschlug ⟨את⟩ die Männer der Stadt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Und ⟨את⟩",
+      "marks": "den Turm von Pnuël"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "Turm"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Pnuël"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "riss er nieder"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "und er erschlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Männer der Stadt"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    }
+  ],
+  "timestamp": "2026-08-06T19:33:29.457096350Z",
+  "model": "glm-5.2"
+}

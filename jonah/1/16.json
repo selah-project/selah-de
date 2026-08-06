@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und die Männer fürchteten eine große Furcht ⟨vor⟩ ⟨את⟩ JHWH und schlachteten ein Schlachtopfer für JHWH und gelobten Gelübde.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Und die Männer fürchteten"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "eine Furcht"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "große"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "und schlachteten"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ein Schlachtopfer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "und gelobten"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "Gelübde"
+    }
+  ],
+  "timestamp": "2026-08-06T10:26:48.445770715Z",
+  "model": "glm-5.2"
+}

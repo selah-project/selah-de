@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "und du sollst das Ganze auf die Hände Ahrons legen und auf die Hände seiner Söhne, und du sollst ⟨את⟩ sie als Schwingung darbringen vor JHWH.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "und du sollst legen"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "das Ganze"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "die Hände"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrons"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "die Hände"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seiner Söhne"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "und du sollst darbringen als Schwingung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "Schwingung"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:42.587509522Z",
+  "model": "glm-5.2"
+}

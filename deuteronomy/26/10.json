@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und nun, siehe, ich habe ⟨את⟩ die Erstlinge ⟨von⟩ der Frucht ⟨des⟩ Bodens gebracht, die du mir gegeben hast, JHWH; und du sollst es niederlegen vor JHWH, deinem Elohim, und dich niederwerfen vor JHWH, deinem Elohim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "habe ich gebracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erstlinge"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "die Erstlinge"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "Frucht"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "Boden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "du gegeben hast"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "und du sollst ⟨es⟩ niederlegen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinem Elohim"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "und dich niederwerfen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinem Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T05:29:39.489270378Z",
+  "model": "glm-5.2"
+}

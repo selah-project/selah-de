@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Und das ganze Haus Josséfs und seine Brüder und das Haus seines Vaters — nur ihre Kinder und ihre Schafherden und ihre Rinderherden ließen sie zurück im Land Goschen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "und das ganze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josséfs"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "und seine Brüder"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "und ⟨das⟩ Haus"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nur"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ihre Kinder"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "und ihre Schafherden"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "und ihre Rinderherden"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ließen sie zurück"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goschen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:59:56.204804208Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und sie brachen auf von Sukkot und schlugen ⟨ihr⟩ Lager auf in Etam, am Rand der Wüste.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Und sie brachen auf"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "von Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "und schlugen Lager auf"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "in Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "am Rand"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "der Wüste"
+    }
+  ],
+  "timestamp": "2026-08-05T20:09:26.855512322Z",
+  "model": "glm-5.2"
+}

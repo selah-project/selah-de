@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "und ⟨את⟩ Je'uz und ⟨את⟩ Schawja und ⟨את⟩ Mirma. Diese ⟨sind⟩ seine Söhne, Häupter der Väter.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Je'uz"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Je'uz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Schawja"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Schawja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Mirma"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Diese"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "Häupter"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "der Väter"
+    }
+  ],
+  "timestamp": "2026-08-05T23:48:15.080016213Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "indem ⟨sie⟩ sagen: „Elohim hat ihn verlassen. Jagt ihn und greift ihn, denn es gibt keinen, der rettet.“",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨sie⟩ sagen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "hat ihn verlassen"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "jagt ihn"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "und greift ihn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "es gibt keinen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "der rettet"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:26.950524886Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Söhne Jehudas: Perez, Chetzron, ⟨und⟩ Karmi, ⟨und⟩ Chur ⟨und⟩ Schowal.",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "פֶּרֶץ",
+      "gloss": "Perez"
+    },
+    {
+      "surface": "חֶצְרוֹן",
+      "gloss": "Chetzron"
+    },
+    {
+      "surface": "וְכַרְמִי",
+      "gloss": "und Karmi"
+    },
+    {
+      "surface": "וְחוּר",
+      "gloss": "und Chur"
+    },
+    {
+      "surface": "וְשׁוֹבָל",
+      "gloss": "und Schowal"
+    }
+  ],
+  "timestamp": "2026-08-06T09:33:16.259917979Z",
+  "model": "glm-5.2"
+}

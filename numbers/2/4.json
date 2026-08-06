@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "und sein Heeresverband und seine Gemusterten: vierundsiebzigtausend und sechshundert.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "und sein Heeresverband"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "und seine Gemusterten"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "undsiebzig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "und sechs"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    }
+  ],
+  "timestamp": "2026-08-05T20:29:48.039470534Z",
+  "model": "glm-5.2"
+}

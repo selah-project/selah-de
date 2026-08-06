@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 9:12",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Denn auch kennt der Mensch ⟨את⟩ seine Zeit nicht: wie die Fische, die gefasst werden in einem bösen Netz, und wie die Vögel, die festgehalten werden in der Falle — so werden sie gefangen, die Menschenkinder, zur bösen Zeit, wenn sie über sie plötzlich fällt.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יֵדַע",
+      "gloss": "kennt"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Zeit"
+    },
+    {
+      "surface": "עִתּוֹ",
+      "gloss": "seine Zeit"
+    },
+    {
+      "surface": "כַּדָּגִים",
+      "gloss": "wie die Fische"
+    },
+    {
+      "surface": "שֶׁנֶּאֱחָזִים",
+      "gloss": "die gefasst werden"
+    },
+    {
+      "surface": "בִּמְצוֹדָה",
+      "gloss": "in einem Netz"
+    },
+    {
+      "surface": "רָעָה",
+      "gloss": "bösen"
+    },
+    {
+      "surface": "וְכַצִּפֳּרִים",
+      "gloss": "und wie die Vögel"
+    },
+    {
+      "surface": "הָאֲחֻזוֹת",
+      "gloss": "die festgehalten werden"
+    },
+    {
+      "surface": "בַּפָּח",
+      "gloss": "in der Falle"
+    },
+    {
+      "surface": "כָּהֵם",
+      "gloss": "so"
+    },
+    {
+      "surface": "יוּקָשִׁים",
+      "gloss": "werden sie gefangen"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "die Menschenkinder"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": ""
+    },
+    {
+      "surface": "לְעֵת",
+      "gloss": "zur Zeit"
+    },
+    {
+      "surface": "רָעָה",
+      "gloss": "bösen"
+    },
+    {
+      "surface": "כְּשֶׁתִּפּוֹל",
+      "gloss": "wenn sie fällt"
+    },
+    {
+      "surface": "עֲלֵיהֶם",
+      "gloss": "über sie"
+    },
+    {
+      "surface": "פִּתְאֹם",
+      "gloss": "plötzlich"
+    }
+  ],
+  "timestamp": "2026-08-06T09:28:58.550719176Z",
+  "model": "glm-5.2"
+}

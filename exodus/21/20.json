@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und wenn ein Mann ⟨את⟩ seinen Sklaven oder ⟨את⟩ seine Sklavin mit dem Stock schlägt und er unter seiner Hand stirbt — gerächt soll er gerächt werden.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "schlägt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Sklaven"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "seinen Sklaven"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Sklavin"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "seine Sklavin"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "mit dem Stock"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "und stirbt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seiner Hand"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "gerächt"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "soll er gerächt werden"
+    }
+  ],
+  "timestamp": "2026-08-06T02:04:54.285600547Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und es erhob sich ein neuer König über Mizrajim, der Josef nicht kannte ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Und es erhob sich"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ein König"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "neuer"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kannte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    }
+  ],
+  "timestamp": "2026-08-05T20:04:09.387852168Z",
+  "model": "glm-5.2"
+}

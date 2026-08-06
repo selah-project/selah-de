@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Wie sie sollen ihre Hersteller sein, all ⟨die⟩, die auf sie vertrauen.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "wie sie"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sollen sein"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ihre Hersteller"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertrauen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "auf sie"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:34.782839424Z",
+  "model": "glm-5.2"
+}

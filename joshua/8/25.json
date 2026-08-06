@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und es geschah: alle, die an jenem Tag fielen, vom Mann bis zur Frau, zwölftausend — alle Männer von Haj.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "die fielen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "vom Mann"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "⟨der⟩ Frau"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zwölf-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-tausend)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Männer von"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haj"
+    }
+  ],
+  "timestamp": "2026-08-05T20:54:30.998266115Z",
+  "model": "glm-5.2"
+}

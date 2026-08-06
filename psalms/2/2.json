@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Stellen sich auf die Könige der Erde, und die Mächtigen rotten sich zusammen gegen JHWH und gegen ⟨seinen⟩ Maschiach —",
+  "tokens": [
+    {
+      "surface": "יִ֥תְיַצְּב֨וּ",
+      "gloss": "Stellen sich auf"
+    },
+    {
+      "surface": "מַלְכֵי",
+      "gloss": "die Könige"
+    },
+    {
+      "surface": "אֶ֗רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "וְרוֹזְנִ֥ים",
+      "gloss": "und die Mächtigen"
+    },
+    {
+      "surface": "נֽוֹסְדוּ",
+      "gloss": "rotten sich zusammen"
+    },
+    {
+      "surface": "יָ֑חַד",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "und gegen"
+    },
+    {
+      "surface": "מְשִׁיחֽוֹ",
+      "gloss": "⟨seinen⟩ Maschiach"
+    }
+  ],
+  "timestamp": "2026-08-05T22:43:31.096843917Z",
+  "model": "glm-5.2"
+}

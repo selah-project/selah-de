@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Führe ⟨heraus⟩ ⟨das⟩ Volk, ⟨das⟩ blind ⟨ist⟩, und ⟨das⟩ Augen hat, und Taube, und ⟨die⟩ Ohren ⟨sind⟩ ihnen.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Führe ⟨heraus⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨das⟩ Volk"
+    },
+    {
+      "surface": "עור",
+      "gloss": "⟨das⟩ blind ⟨ist⟩"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "und ⟨das⟩ Augen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hat"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "und Taube"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "und ⟨die⟩ Ohren"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨sind⟩ ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:12:05.820827611Z",
+  "model": "glm-5.2"
+}

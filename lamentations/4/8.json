@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Düsterer als Schwärze ⟨ist⟩ ihre Gestalt geworden, auf den Straßen werden sie nicht mehr erkannt; ihre Haut klebt an ihren Gebeinen, vertrocknet ⟨ist sie⟩ geworden wie Holz.",
+  "tokens": [
+    {
+      "surface": "חָשַׁ֤ךְ",
+      "gloss": "düsterer"
+    },
+    {
+      "surface": "מִשְּׁחוֹר֙",
+      "gloss": "als Schwärze"
+    },
+    {
+      "surface": "תָּֽאֳרָ֔ם",
+      "gloss": "ihre Gestalt"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נִכְּר֖וּ",
+      "gloss": "werden sie erkannt"
+    },
+    {
+      "surface": "בַּחוּצ֑וֹת",
+      "gloss": "auf den Straßen"
+    },
+    {
+      "surface": "צָפַ֤ד",
+      "gloss": "klebt"
+    },
+    {
+      "surface": "עוֹרָם֙",
+      "gloss": "ihre Haut"
+    },
+    {
+      "surface": "עַ֔ל",
+      "gloss": "an"
+    },
+    {
+      "surface": "עַצְמָ֔ם",
+      "gloss": "ihren Gebeinen"
+    },
+    {
+      "surface": "יָבֵ֖שׁ",
+      "gloss": "vertrocknet"
+    },
+    {
+      "surface": "הָיָ֥ה",
+      "gloss": "ist geworden"
+    },
+    {
+      "surface": "כָעֵֽץ",
+      "gloss": "wie Holz"
+    }
+  ],
+  "timestamp": "2026-08-06T15:28:12.421552032Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und der Schwiegervater von Mosche sagte zu ihm: „Nicht gut ⟨ist⟩ die Sache, die du tust.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "der Schwiegervater"
+    },
+    {
+      "surface": "משה",
+      "gloss": "von Mosche"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tust"
+    }
+  ],
+  "timestamp": "2026-08-06T02:04:25.297811805Z",
+  "model": "glm-5.2"
+}

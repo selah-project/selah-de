@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Reiß mich weg von meinen Feinden, mein Elohim; ⟨von⟩ denen, die gegen mich aufstehen, mach mich unerreichbar.",
+  "tokens": [
+    {
+      "surface": "הַצִּילֵ֖נִי",
+      "gloss": "Reiß mich weg"
+    },
+    {
+      "surface": "מֵאֹיְבַ֥י",
+      "gloss": "von meinen Feinden"
+    },
+    {
+      "surface": "אֱלֹהָ֑י",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "מִּמִתְקוֹמְמַ֥י",
+      "gloss": "⟨von⟩ denen, die gegen mich aufstehen"
+    },
+    {
+      "surface": "תְּשַׂגְּבֵֽנִי",
+      "gloss": "mach mich unerreichbar"
+    }
+  ],
+  "timestamp": "2026-08-06T21:24:08.721758228Z",
+  "model": "glm-5.2"
+}

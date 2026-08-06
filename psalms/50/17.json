@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Du aber hasst Zucht, und wirfst meine Worte hinter dich.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Du aber"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "hasst"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "Zucht"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "und wirfst"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "meine Worte"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "hinter dich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:03.041496320Z",
+  "model": "glm-5.2"
+}

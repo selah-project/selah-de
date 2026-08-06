@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 125,
+  "translation": "Jeruschalajim — Berge ⟨sind⟩ rings um sie ⟨her⟩. Und JHWH ⟨ist⟩ rings um sein Volk, von nun an und bis in Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Berge"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rings"
+    },
+    {
+      "surface": "לה",
+      "gloss": "um sie"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Und JHWH"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rings"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "um sein Volk"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "von nun an"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:16.276376268Z",
+  "model": "glm-5.2"
+}

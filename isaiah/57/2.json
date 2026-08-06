@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 57,
+  "translation": "Er kommt ⟨in⟩ Schalom, sie ruhen auf ihren Betten, ⟨ein jeder,⟩ der aufrichtig geht.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "Er kommt"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨in⟩ Schalom"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "sie ruhen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "ihren Betten"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨ein jeder,⟩ der geht"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "aufrichtig"
+    }
+  ],
+  "timestamp": "2026-08-06T06:03:37.847904921Z",
+  "model": "glm-5.2"
+}

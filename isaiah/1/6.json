@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Von der Sohle des Fußes bis zum Kopf ist an ihm nichts Heiles: Wunde und Strieme und frische Mal — nicht ⟨wurde⟩ ⟨sie⟩ zusammengepresst und nicht verbunden und nicht mit Öl erweicht.",
+  "tokens": [
+    {
+      "surface": "מִכַּף",
+      "gloss": "von der Sohle"
+    },
+    {
+      "surface": "רֶ֤גֶל",
+      "gloss": "des Fußes"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "רֹאשׁ֙",
+      "gloss": "Kopf"
+    },
+    {
+      "surface": "אֵֽין",
+      "gloss": "es ist nicht"
+    },
+    {
+      "surface": "בּ֣וֹ",
+      "gloss": "an ihm"
+    },
+    {
+      "surface": "מְתֹ֔ם",
+      "gloss": "Heiles"
+    },
+    {
+      "surface": "פֶּ֥צַע",
+      "gloss": "Wunde"
+    },
+    {
+      "surface": "וְחַבּוּרָ֖ה",
+      "gloss": "und Strieme"
+    },
+    {
+      "surface": "וּמַכָּ֣ה",
+      "gloss": "und Mal"
+    },
+    {
+      "surface": "טְרִיָּ֑ה",
+      "gloss": "frische"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "זֹ֨רוּ֙",
+      "gloss": "wurde zusammengepresst"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "חֻבָּ֔שׁוּ",
+      "gloss": "verbunden"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "רֻכְּכָ֖ה",
+      "gloss": "wurde erweicht"
+    },
+    {
+      "surface": "בַּשָּֽׁמֶן",
+      "gloss": "mit Öl"
+    }
+  ],
+  "timestamp": "2026-08-06T03:10:20.604045997Z",
+  "model": "glm-5.2"
+}

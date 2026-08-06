@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und ⟨את⟩ Aharon und ⟨את⟩ seine Söhne sollst du heranbringen zum Eingang des Zeltes der Begegnung, und du sollst ⟨את⟩ sie waschen im Wasser.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "sollst du heranbringen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Eingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "des Zeltes"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "und du sollst waschen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:35.024417105Z",
+  "model": "glm-5.2"
+}

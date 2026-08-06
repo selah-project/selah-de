@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 137,
+  "translation": "An Weiden in ihrer Mitte hängten wir unsere Kinorot auf.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "An"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "Weiden"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "in ihrer Mitte"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "hingen wir"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "unsere Kinorot"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:04.937589286Z",
+  "model": "glm-5.2"
+}

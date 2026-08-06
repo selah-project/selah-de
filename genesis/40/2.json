@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Da wurde Paro zornig über seine beiden Höflinge, über den Obermundschenk und über den Oberbäcker.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "da wurde zornig"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die beiden"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "seine Höflinge"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "שר",
+      "gloss": "den Ober-"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mundschenk"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und über"
+    },
+    {
+      "surface": "שר",
+      "gloss": "den Ober-"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "bäcker"
+    }
+  ],
+  "timestamp": "2026-08-05T20:02:10.956272887Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und es geschah am Ende von vierzig Tagen, da öffnete Noach ⟨את⟩ das Fenster der Tewa, das er gemacht hatte.",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "am Ende"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "von vierzig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tagen"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "da öffnete"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Fenster"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "das Fenster"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "der Tewa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er gemacht hatte"
+    }
+  ],
+  "timestamp": "2026-08-06T00:03:36.624498208Z",
+  "model": "glm-5.2"
+}

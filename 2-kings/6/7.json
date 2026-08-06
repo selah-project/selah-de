@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und er sprach: Heb ⟨es⟩ auf. Und er streckte seine Hand aus und nahm ⟨es⟩.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "הָרֵם",
+      "gloss": "Heb auf"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "⟨für dich⟩"
+    },
+    {
+      "surface": "וַיִּשְׁלַח",
+      "gloss": "und er streckte … aus"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "וַיִּקָּחֵהוּ",
+      "gloss": "und nahm ⟨es⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T01:32:19.092287972Z",
+  "model": "glm-5.2"
+}

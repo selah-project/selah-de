@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "„Erhebe ⟨את⟩ das Haupt der Söhne Kehats aus der Mitte der Söhne Levi, nach ihren Sippen, nach ihren Vaterhäusern:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Erhebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haupt"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "das Haupt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehats"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "aus der Mitte"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nach ihren Sippen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nach"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ihren Vaterhäusern"
+    }
+  ],
+  "timestamp": "2026-08-05T20:30:09.667676437Z",
+  "model": "glm-5.2"
+}

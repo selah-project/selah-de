@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und seine Tochter ⟨war⟩ Scheera. Sie baute ⟨את⟩ Bet-Choron, das untere, und ⟨את⟩ das obere, und ⟨את⟩ Uzen-Scheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "Und seine Tochter"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Scheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "sie baute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "das untere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das obere"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "das obere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Uzen-Scheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "-Scheera"
+    }
+  ],
+  "timestamp": "2026-08-06T07:20:39.325286858Z",
+  "model": "glm-5.2"
+}

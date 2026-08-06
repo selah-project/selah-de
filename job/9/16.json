@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Wenn ⟨ich⟩ rufe und er mir antwortet — ⟨so⟩ glaube ich nicht, dass er auf meine Stimme achtet.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ich rufe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "und er mir antwortet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "glaube ich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "er … achtet"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "auf meine Stimme"
+    }
+  ],
+  "timestamp": "2026-08-05T23:17:50.925503555Z",
+  "model": "glm-5.2"
+}

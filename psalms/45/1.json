@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Für den Chorsänger, auf Schoschanim, für die Söhne Korachs, ein Maskil, ein Lied der Liebesweisen.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für den Chorsänger"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Schoschanim (Lilien)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "für die Söhne"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachs"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ein Maskil (ein belehrendes Gedicht)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ein Lied"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "der Liebesweisen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:30:17.653882791Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und er brachte heran ⟨את⟩ die Ola und bereitete sie nach der Rechtsordnung.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "und er brachte heran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die Ola"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "und bereitete sie"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "nach der Rechtsordnung"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:50.146415104Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 86,
+  "translation": "Ich prese dich, Adonai, mein Elohim, mit meinem ganzen Herzen und verherrliche deinen Namen für ⟨die⟩ Weltzeit.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ich preise dich"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit ganzem"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "meinem Herzen"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "und verherrliche"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ⟨die⟩ Weltzeit"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:21.312817713Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und die Kohen und die Lewiten reinigten sich, und sie reinigten ⟨את⟩ das Volk und ⟨את⟩ die Tore und ⟨את⟩ die Mauer.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "und reinigten sich"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die Kohen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "und die Lewiten"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "und sie reinigten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Tore"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "die Tore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Mauer"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "die Mauer"
+    }
+  ],
+  "timestamp": "2026-08-06T04:51:53.347309100Z",
+  "model": "glm-5.2"
+}

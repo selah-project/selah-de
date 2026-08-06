@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Sichon, den König des Emori, und Og, den König des Baschan, und alle Königreiche Kenaans —",
+  "tokens": [
+    {
+      "surface": "לְסִיח֤וֹן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "den König"
+    },
+    {
+      "surface": "הָאֱמֹרִ֗י",
+      "gloss": "des Emori"
+    },
+    {
+      "surface": "וּ֭לְעוֹג",
+      "gloss": "und Og"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "den König"
+    },
+    {
+      "surface": "הַבָּשָׁ֑ן",
+      "gloss": "des Baschan"
+    },
+    {
+      "surface": "וּ֝לְכֹ֗ל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "מַמְלְכ֥וֹת",
+      "gloss": "Königreiche"
+    },
+    {
+      "surface": "כְּנָֽעַן",
+      "gloss": "Kenaans"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:34.919556758Z",
+  "model": "glm-5.2"
+}

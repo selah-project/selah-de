@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Joaw also und Awischaj, sein Bruder, töteten Awner, weil ⟨er⟩ ⟨את⟩ Asahel, ihren Bruder, bei Givon im Kampf getötet hatte.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "und Joaw"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "und Awischaj"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sein Bruder"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "töteten"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Awner"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dass"
+    },
+    {
+      "surface": "המית",
+      "gloss": "er getötet hatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ihren Bruder"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "bei Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "im Kampf"
+    }
+  ],
+  "timestamp": "2026-08-06T08:41:10.307578292Z",
+  "model": "glm-5.2"
+}

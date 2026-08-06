@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Haman nahm ⟨את⟩ das Gewand und ⟨את⟩ das Pferd und bekleidete ⟨את⟩ Mordechai und setzte ihn auf den Platz der Stadt und rief vor ihm her: So soll ⟨es⟩ dem Mann getan werden, den der König zu ehren wünscht.",
+  "tokens": [
+    {
+      "surface": "וַיִּקַּ֤ח",
+      "gloss": "und ⟨er⟩ nahm"
+    },
+    {
+      "surface": "הָמָן֙",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Gewand"
+    },
+    {
+      "surface": "הַלְּב֣וּשׁ",
+      "gloss": "das Gewand"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Pferd"
+    },
+    {
+      "surface": "הַסּ֔וּס",
+      "gloss": "das Pferd"
+    },
+    {
+      "surface": "וַיַּלְבֵּ֖שׁ",
+      "gloss": "und bekleidete"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechai"
+    },
+    {
+      "surface": "מָרְדֳּכָ֑י",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "וַיַּרְכִּיבֵ֨הוּ֙",
+      "gloss": "und setzte ihn"
+    },
+    {
+      "surface": "בִּרְח֣וֹב",
+      "gloss": "auf den Platz"
+    },
+    {
+      "surface": "הָעִ֔יר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "וַיִּקְרָ֣א",
+      "gloss": "und rief"
+    },
+    {
+      "surface": "לְפָנָ֔יו",
+      "gloss": "vor ihm her"
+    },
+    {
+      "surface": "כָּ֚כָה",
+      "gloss": "so"
+    },
+    {
+      "surface": "יֵעָשֶׂ֣ה",
+      "gloss": "soll getan werden"
+    },
+    {
+      "surface": "לָאִ֔ישׁ",
+      "gloss": "dem Mann"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "den"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "חָפֵ֥ץ",
+      "gloss": "wünscht"
+    },
+    {
+      "surface": "בִּיקָרֽוֹ",
+      "gloss": "zu ehren"
+    }
+  ],
+  "timestamp": "2026-08-06T04:44:09.254441340Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und ⟨von⟩ ⟨את⟩ der Versammlung der Söhne Jisraels soll er nehmen zwei Ziegenböcke der Ziegen für die Chattat und einen Widder für die Ola.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "und ⟨von⟩ ⟨את⟩",
+      "marks": "der Versammlung"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "soll er nehmen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "Böcke"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "der Ziegen"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "für die Chattat"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "und ⟨einen⟩ Widder"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einen"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "für die Ola"
+    }
+  ],
+  "timestamp": "2026-08-06T05:20:57.111666912Z",
+  "model": "glm-5.2"
+}

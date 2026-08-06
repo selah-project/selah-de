@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Mein Auge verwelkt vor Elend. Ich rufe dich an, JHWH, jeden Tag, ich breite meine Hände aus zu dir.",
+  "tokens": [
+    {
+      "surface": "עֵינִ֥י",
+      "gloss": "mein Auge"
+    },
+    {
+      "surface": "דָאֲבָ֗ה",
+      "gloss": "verwelkt"
+    },
+    {
+      "surface": "מִנִּ֫י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "עֹ֥נִי",
+      "gloss": "Elend"
+    },
+    {
+      "surface": "קְרָאתִ֣יךָ",
+      "gloss": "rufe ich dich an"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "י֑וֹם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "שִׁטַּ֖חְתִּי",
+      "gloss": "breite ich aus"
+    },
+    {
+      "surface": "אֵלֶ֣יךָ",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "כַפָּֽי",
+      "gloss": "meine Hände"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:01.494351902Z",
+  "model": "glm-5.2"
+}

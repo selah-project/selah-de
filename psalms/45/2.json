@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Es wallt mein Herz von einem guten Wort, ich sage: „Meine Werke ⟨gelten⟩ ⟨dem⟩ König.“ Meine Zunge ⟨ist⟩ der Griffel eines schnellen Schreibers.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "Es wallt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "von einem Wort"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ich sage"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "meine Werke"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨dem⟩ König"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "meine Zunge"
+    },
+    {
+      "surface": "עט",
+      "gloss": "der Griffel"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "eines Schreibers"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "eines schnellen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:30:17.655559808Z",
+  "model": "glm-5.2"
+}

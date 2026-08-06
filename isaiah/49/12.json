@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Siehe, diese werden aus der Ferne kommen, und siehe, diese vom Norden und vom Meer, und diese aus dem Land von Sinim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "aus der Ferne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "werden kommen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "vom Norden"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "und vom Meer"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "und diese"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "von Sinim"
+    }
+  ],
+  "timestamp": "2026-08-05T21:54:39.446714002Z",
+  "model": "glm-5.2"
+}

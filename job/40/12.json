@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 40:12",
+  "book": "job",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Sieh jeden Hochmütigen, beuge ihn nieder, und zertritt die Frevler ⟨dort, wo sie stehen⟩!",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Sieh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "Hochmütigen"
+    },
+    {
+      "surface": "הכניעהו",
+      "gloss": "beuge ihn nieder"
+    },
+    {
+      "surface": "והדך",
+      "gloss": "und zertritt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die Frevler"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "⟨dort, wo sie stehen⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T23:25:00.306780362Z",
+  "model": "glm-5.2"
+}

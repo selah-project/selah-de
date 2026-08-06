@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Denn alle Tische — voll waren sie ⟨von⟩ Erbrochenem, Kot — kein ⟨reiner⟩ Ort ⟨ist⟩ mehr da.",
+  "tokens": [
+    {
+      "surface": "כִּ֚י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שֻׁלְחָנ֔וֹת",
+      "gloss": "Tische"
+    },
+    {
+      "surface": "מָלְא֖וּ",
+      "gloss": "voll waren"
+    },
+    {
+      "surface": "קִ֣יא",
+      "gloss": "⟨von⟩ Erbrochenem"
+    },
+    {
+      "surface": "צֹאָ֑ה",
+      "gloss": "Kot"
+    },
+    {
+      "surface": "בְּלִ֖י",
+      "gloss": "kein"
+    },
+    {
+      "surface": "מָקֽוֹם",
+      "gloss": "Ort"
+    }
+  ],
+  "timestamp": "2026-08-05T21:48:56.743459158Z",
+  "model": "glm-5.2"
+}

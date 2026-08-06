@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "den Hirsch und die Gazelle und ⟨den Damhirsch⟩ und ⟨die Steinziege⟩ und ⟨den Dischon⟩ und ⟨den Wildstier⟩ und ⟨den Bergbock⟩.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "den Hirsch"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "und die Gazelle"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "und ⟨den Damhirsch⟩"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "und ⟨die Steinziege⟩"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "und ⟨den Dischon⟩"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "und ⟨den Wildstier⟩"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "und ⟨den Bergbock⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:56.410851530Z",
+  "model": "glm-5.2"
+}

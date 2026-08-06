@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ⟨את⟩ den Eingang des Debir machte er: Türen von Ölholz; der Türpfosten ⟨war⟩ ein Fünftel ⟨der Wand⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Eingang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "den Eingang"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "des Debir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "machte er"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "Türen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "von"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "Ölholz"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "der Türpfosten"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "Pfosten"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "ein Fünftel"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:13.542139008Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und ⟨ihr⟩ sollt nicht bedrücken — ein Mann ⟨את⟩ seinen Nächsten — und ⟨du⟩ sollst dich fürchten vor deinem Elohim; denn ich bin JHWH, euer Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "sollt ⟨ihr⟩ bedrücken"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Nächsten"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "seinen Nächsten"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "und ⟨du⟩ sollst dich fürchten"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "vor deinem Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:29:43.121103340Z",
+  "model": "glm-5.2"
+}

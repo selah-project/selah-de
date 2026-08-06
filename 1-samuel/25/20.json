@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und es geschah: ⟨sie⟩ ritt auf dem Esel und stieg im Verborgenen des Berges hinab, und siehe, Dawid und seine Männer stiegen herab, ihr entgegen, und sie traf ⟨את⟩ sie.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨sie⟩"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "ritt"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "dem Esel"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "und stieg hinab"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "im Verborgenen"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "des Berges"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "und seine Männer"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "stiegen herab"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "ihr entgegen"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "und sie traf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    }
+  ],
+  "timestamp": "2026-08-06T19:35:57.193155212Z",
+  "model": "glm-5.2"
+}

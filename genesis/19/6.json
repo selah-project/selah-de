@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Lot ging zu ihnen hinaus ⟨an⟩ den Eingang, und die Tür schloss er hinter sich.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Und ging hinaus"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "den Eingang"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "und die Tür"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "schloss"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hinter sich"
+    }
+  ],
+  "timestamp": "2026-08-05T19:57:11.875016939Z",
+  "model": "glm-5.2"
+}

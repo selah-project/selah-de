@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und sie berichteten Dawid und sagten: „Siehe, Pelischtim kämpfen gegen Qeila und plündern ⟨את⟩ die Tennen.“",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Und sie berichteten"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagten"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelischtim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "kämpfen"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "gegen Qeila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "plündern"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Tennen"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "die Tennen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:42:39.685472210Z",
+  "model": "glm-5.2"
+}

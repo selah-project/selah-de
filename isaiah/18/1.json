@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Wehe ⟨der⟩ Erde des Schwirrens von Flügeln, die jenseits der Ströme von Kusch ⟨liegt⟩.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨der⟩ Erde"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "des Schwirrens"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "von Flügeln"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "jenseits"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "der Ströme von"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusch"
+    }
+  ],
+  "timestamp": "2026-08-05T21:46:51.623441240Z",
+  "model": "glm-5.2"
+}

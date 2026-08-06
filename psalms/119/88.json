@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Nach deinem Chessed belebe mich, dann werde ich ⟨die⟩ Zeugnis deines Mundes bewahren.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "Nach deinem Chessed"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "belebe mich"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "dann werde ich bewahren"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Zeugnis"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "deines Mundes"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:47.051312281Z",
+  "model": "glm-5.2"
+}

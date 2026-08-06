@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Noach baute einen Altar für JHWH, und er nahm von allem Vieh, dem reinen, und von allem Gevögel, dem reinen, und ließ Olot aufsteigen auf dem Altar.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Und baute"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "einen Altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "und nahm"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "von allem"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "Vieh"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "dem reinen"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "und von allem"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "Gevögel"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "dem reinen"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und ließ aufsteigen"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "Olot"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "auf dem Altar"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:24.175888683Z",
+  "model": "glm-5.2"
+}

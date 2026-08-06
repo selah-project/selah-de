@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 83,
+  "translation": "Denn sie berieten ⟨das⟩ Herz miteinander, ⟨mit⟩ dir schlossen sie eine Brit.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "נוֹעֲצ֣וּ",
+      "gloss": "sie berieten"
+    },
+    {
+      "surface": "לֵ֣ב",
+      "gloss": "⟨das⟩ Herz"
+    },
+    {
+      "surface": "יַחְדָּ֑ו",
+      "gloss": "miteinander"
+    },
+    {
+      "surface": "עָ֝לֶ֗יךָ",
+      "gloss": "⟨mit⟩ dir"
+    },
+    {
+      "surface": "בְרִ֣ית",
+      "gloss": "eine Brit"
+    },
+    {
+      "surface": "יִכְרֹֽתוּ",
+      "gloss": "schlossen sie"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:01.862472389Z",
+  "model": "glm-5.2"
+}

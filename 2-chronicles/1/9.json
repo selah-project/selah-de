@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 1:9",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Nun, JHWH, Elohim — ⟨es⟩ sei bestätigt ⟨dein⟩ Wort mit Dawid, meinem Vater, denn ⟨du⟩ hast mich zum König gemacht über ein Volk, zahlreich wie der Staub der Erde.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "⟨es⟩ sei bestätigt"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "⟨dein⟩ Wort"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meinem Vater"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨du⟩"
+    },
+    {
+      "surface": "המלכתני",
+      "gloss": "hast mich zum König gemacht"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zahlreich"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "wie der Staub"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T10:45:09.865961661Z",
+  "model": "glm-5.2"
+}

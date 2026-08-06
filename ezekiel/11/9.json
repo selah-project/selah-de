@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ich werde euch herausführen aus ⟨ihrer⟩ Mitte und euch geben in die Hand von Fremden, und ich werde an euch Gerichte vollziehen.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "und ich werde herausführen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "aus ihrer Mitte"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "und ich werde geben"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "von Fremden"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "und ich werde tun"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "an euch"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "Gerichte"
+    }
+  ],
+  "timestamp": "2026-08-06T15:15:32.517047036Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Ein König ⟨hält⟩ durch Recht ⟨die⟩ Erde aufrecht; ⟨aber⟩ ein Mann der Abgaben reißt sie nieder.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Ein König"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "durch Recht"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "⟨hält⟩ aufrecht"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨die⟩ Erde"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "⟨aber⟩ ein Mann"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "der Abgaben"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "reißt sie nieder"
+    }
+  ],
+  "timestamp": "2026-08-06T15:25:45.685597579Z",
+  "model": "glm-5.2"
+}

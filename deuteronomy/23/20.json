@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Du sollst deinem Bruder keinen Neschech geben: Neschech von Silber, Neschech von Speise, Neschech von jeder Sache, die man verleiht.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "sollst du geben"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "deinem Bruder"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "einen Neschech"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "von Silber"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "Neschech"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "von Speise"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "Neschech"
+    },
+    {
+      "surface": "כל",
+      "gloss": "von jeder"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Sache"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨die⟩"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "man verleiht"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:05.224605287Z",
+  "model": "glm-5.2"
+}

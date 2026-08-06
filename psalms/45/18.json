@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Ich will deinen Namen in alle Geschlechter hinein in Erinnerung bringen; darum werden die Völkerschaften dich preisen für immer und ewig.",
+  "tokens": [
+    {
+      "surface": "אַזְכִּ֣ירָה",
+      "gloss": "Ich will … in Erinnerung bringen"
+    },
+    {
+      "surface": "שִׁ֭מְךָ",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "in alle"
+    },
+    {
+      "surface": "דֹּ֣ר",
+      "gloss": "Geschlechter"
+    },
+    {
+      "surface": "וָדֹ֑ר",
+      "gloss": "hinein"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "darum"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "(werden)"
+    },
+    {
+      "surface": "עַמִּ֥ים",
+      "gloss": "die Völkerschaften"
+    },
+    {
+      "surface": "יְ֝הוֹדֻ֗ךָ",
+      "gloss": "dich preisen"
+    },
+    {
+      "surface": "לְעֹלָ֥ם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "וָעֶֽד",
+      "gloss": "und ewig"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:43.627179581Z",
+  "model": "glm-5.2"
+}

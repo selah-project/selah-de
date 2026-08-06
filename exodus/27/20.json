@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und du, befiehl ⟨את⟩ die Söhne Jisraels, und sie sollen zu dir bringen Öl vom Olivenbaum, rein, gestoßen, für ⟨die⟩ Beleuchtung, um ⟨die⟩ Lampe beständig aufsteigen zu lassen.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Und du"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "befiehl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "und sie sollen bringen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "Öl"
+    },
+    {
+      "surface": "זית",
+      "gloss": "vom Olivenbaum"
+    },
+    {
+      "surface": "זך",
+      "gloss": "rein"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "gestoßen"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "für ⟨die⟩ Beleuchtung"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "um aufsteigen zu lassen"
+    },
+    {
+      "surface": "נר",
+      "gloss": "⟨die⟩ Lampe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständig"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:38.425902054Z",
+  "model": "glm-5.2"
+}

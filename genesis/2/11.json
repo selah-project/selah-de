@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Der Name des einen ⟨ist⟩ Pischon — ⟨er⟩ ⟨ist⟩ der, der umfließt ⟨את⟩ das ganze Land von Chawila, wo das Gold ist.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Der Name"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "des einen"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pischon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩ ⟨ist⟩ der"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "der umfließt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Land von Chawila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "von Chawila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "das Gold"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:08.191548142Z",
+  "model": "glm-5.2"
+}

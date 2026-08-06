@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er baute ⟨את⟩ Tadmor in der Wüste und ⟨את⟩ alle Städte der Vorratskammern, die er in Chamat gebaut hatte.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Und er baute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Städte der Vorratskammern"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "der Vorratskammern"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "er gebaut hatte"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "in Chamat"
+    }
+  ],
+  "timestamp": "2026-08-05T23:55:13.118567402Z",
+  "model": "glm-5.2"
+}

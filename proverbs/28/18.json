@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Wer unbestechlich geht, wird gerettet; wer aber krumme ⟨Wege⟩ geht, stürzt auf einmal.",
+  "tokens": [
+    {
+      "surface": "הוֹלֵ֣ךְ",
+      "gloss": "Wer geht"
+    },
+    {
+      "surface": "תָּ֭מִים",
+      "gloss": "unbestechlich"
+    },
+    {
+      "surface": "יִוָּשֵׁ֑עַ",
+      "gloss": "wird gerettet"
+    },
+    {
+      "surface": "וְנֶעְקַ֥שׁ",
+      "gloss": "wer aber krumme"
+    },
+    {
+      "surface": "דְּ֝רָכַ֗יִם",
+      "gloss": "Wege geht"
+    },
+    {
+      "surface": "יִפּ֥וֹל",
+      "gloss": "stürzt"
+    },
+    {
+      "surface": "בְּאֶחָֽת",
+      "gloss": "auf einmal"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:08.300092439Z",
+  "model": "glm-5.2"
+}

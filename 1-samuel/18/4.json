@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Jehonatan zog sich aus ⟨את⟩ den Mantel, der auf ihm war, und gab ihn Dawid, und ⟨auch⟩ seine Kleider bis zu seinem Schwert und bis zu seinem Bogen und bis zu seinem Gürtel.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "Und ⟨er⟩ zog sich aus"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Mantel"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "den Mantel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ihm war"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "und gab ihn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "und seine Kleider"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "seinem Schwert"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "seinem Bogen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "seinem Gürtel"
+    }
+  ],
+  "timestamp": "2026-08-05T21:12:01.345567745Z",
+  "model": "glm-5.2"
+}

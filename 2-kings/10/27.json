@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und sie rissen ⟨את⟩ die Mazzeba des Baal nieder und rissen ⟨את⟩ das Haus des Baal nieder und machten es zu Latrinen bis auf diesen Tag.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Und sie rissen nieder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Mazzeba"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "die Mazzeba"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "des Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "und rissen nieder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "des Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "und machten es"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "zu Latrinen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis auf"
+    },
+    {
+      "surface": "היום",
+      "gloss": "diesen Tag"
+    }
+  ],
+  "timestamp": "2026-08-06T03:06:34.936867942Z",
+  "model": "glm-5.2"
+}

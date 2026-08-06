@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Oder wenn das rohe Fleisch zurückkehrt und sich zu Weiß verwandelt ⟨hat⟩, kommt ⟨er⟩ zum Kohen.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "zurückkehrt"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "das Fleisch"
+    },
+    {
+      "surface": "החי",
+      "gloss": "das rohe"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "und sich verwandelt"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "zu Weiß"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "dem Kohen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:48:09.320671251Z",
+  "model": "glm-5.2"
+}

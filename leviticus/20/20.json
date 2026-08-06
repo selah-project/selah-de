@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ein Mann, der mit der Frau seines Onkels liegt — die Blöße seines Onkels hat er aufgedeckt; ihre Sünde sollen sie tragen, kinderlos sollen sie sterben.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Und ein Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "liegt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨mit⟩",
+      "marks": "der Frau seines Onkels"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "der Frau seines Onkels"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "die Blöße"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "seines Onkels"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "hat er aufgedeckt"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "ihre Sünde"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "sollen sie tragen"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "kinderlos"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sollen sie sterben"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:07.390791381Z",
+  "model": "glm-5.2"
+}

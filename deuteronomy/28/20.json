@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "JHWH wird auf dich senden ⟨את⟩ den Fluch, ⟨את⟩ die Verwirrung und ⟨את⟩ die Androhung, bei allem, was deine Hand ergreift, was du tust, bis du vertilgt bist und bis du schnell zugrunde gehst, wegen der Bosheit deiner Taten, ⟨weil⟩ du mich verlassen hast.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "wird senden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Fluch"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "den Fluch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Verwirrung"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "die Verwirrung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Androhung"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "die Androhung"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bei allem"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "was du ergreifst"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du tust"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "du vertilgt bist"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und bis"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "du zugrunde gehst"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "schnell"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "der Bosheit"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "deiner Taten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨weil⟩"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "du mich verlassen hast"
+    }
+  ],
+  "timestamp": "2026-08-06T00:47:42.076547731Z",
+  "model": "glm-5.2"
+}

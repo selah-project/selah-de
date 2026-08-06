@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 137,
+  "translation": "Denn dort forderten unsere Gefangennehmer ⟨von⟩ uns Worte eines Liedes, und unsere Quälenden ⟨riefen⟩ Freude: „Singt uns ⟨von⟩ einem Lied Tziyons!“",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "forderten ⟨von⟩ uns"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "unsere Gefangennehmer"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "eines Liedes"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "und unsere Quälenden"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "Freude"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Singt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "⟨von⟩ einem Lied"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyons"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:04.937676266Z",
+  "model": "glm-5.2"
+}

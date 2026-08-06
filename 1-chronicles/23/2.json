@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und ⟨er⟩ versammelte ⟨את⟩ alle Oberen Jisrara'els und die Kohen und die Leviwim.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Und ⟨er⟩ versammelte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Oberen Jisra'els"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Oberen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "und die Kohen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "und die Leviwim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:51:48.281466890Z",
+  "model": "glm-5.2"
+}

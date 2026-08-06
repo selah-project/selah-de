@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Am Tag eures Schlachtens soll es gegessen werden und am folgenden Tag; und was übrig bleibt bis zum dritten Tag, soll im Feuer verbrannt werden.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Am Tag"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "eures Schlachtens"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "soll es gegessen werden"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "und am folgenden Tag"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "und was übrig bleibt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zum Tag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "dritten"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "soll verbrannt werden"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:53.833611666Z",
+  "model": "glm-5.2"
+}

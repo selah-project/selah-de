@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Da stand Ijob auf und zerriss ⟨את⟩ sein Obergewand und schor ⟨את⟩ sein Haupt und fiel zur Erde und warf sich nieder.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "da stand auf"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "und zerriss"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Obergewand"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "sein Obergewand"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "und schor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Haupt"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sein Haupt"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "und fiel"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "und warf sich nieder"
+    }
+  ],
+  "timestamp": "2026-08-06T09:23:32.529784772Z",
+  "model": "glm-5.2"
+}

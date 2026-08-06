@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Haben ⟨die⟩ Götter der Völker, die meine Väter vernichteten, sie gerettet — ⟨את⟩ Gosan und ⟨את⟩ Charan und Rezef und die Söhne von Eden, die in Telassar ⟨waren⟩?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Haben … gerettet"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Götter"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "der Völker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "vernichteten"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "meine Väter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gosan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gosan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "und Rezef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "und die Söhne"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "von Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "in Telassar"
+    }
+  ],
+  "timestamp": "2026-08-06T10:11:32.933683773Z",
+  "model": "glm-5.2"
+}

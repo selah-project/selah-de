@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Wer Zuverlässigkeit haucht, verkündet Zedek, ⟨aber⟩ ein Zeuge von Lügen ⟨ist⟩ Betrug.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "Wer … haucht"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "Zuverlässigkeit"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "verkündet"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Zedek"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨aber⟩ ein Zeuge"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "von Lügen"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Betrug"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:20.584866497Z",
+  "model": "glm-5.2"
+}

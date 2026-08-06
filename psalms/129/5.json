@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 129,
+  "translation": "Es sollen sich schämen und zurückweichen, alle, die Zijon hassen.",
+  "tokens": [
+    {
+      "surface": "יֵ֭בֹשׁוּ",
+      "gloss": "Es sollen sich schämen"
+    },
+    {
+      "surface": "וְיִסֹּ֣גוּ",
+      "gloss": "und zurückweichen"
+    },
+    {
+      "surface": "אָח֑וֹר",
+      "gloss": "rückwärts"
+    },
+    {
+      "surface": "כֹּ֝֗ל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שֹׂנְאֵ֥י",
+      "gloss": "die hassen"
+    },
+    {
+      "surface": "צִיּֽוֹן",
+      "gloss": "Zijon"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:26.609902537Z",
+  "model": "glm-5.2"
+}

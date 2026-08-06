@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Und sie wanderten von Nation zu Nation, von einem Königreich zu einem anderen Volk.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "Und sie wanderten"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "von Nation"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "Nation"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "von einem Königreich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "einem anderen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:28.228486579Z",
+  "model": "glm-5.2"
+}

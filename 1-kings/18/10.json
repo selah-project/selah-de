@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "„So gewiss JHWH, dein Elohim, lebt: Wenn ⟨es⟩ ⟨ein⟩ Volk oder ⟨ein⟩ Königreich gibt, wohin mein Herr dich nicht gesandt hat, um dich zu suchen, und sie sagten: ‚Er ist nicht hier', dann ließ er ⟨את⟩ das Königreich und ⟨את⟩ das Volk schwören, dass man dich nicht finden würde.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "lebend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יש",
+      "gloss": "es gibt"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "oder ein Königreich"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wohin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gesandt hat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "um dich zu suchen"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "und sie sagten"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er ist nicht"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "und er ließ schwören"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Königreich"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "das Königreich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "man dich finden würde"
+    }
+  ],
+  "timestamp": "2026-08-06T03:02:02.049754024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Verflucht ⟨ist⟩, wer schläft mit seiner Schwester, der Tochter seines Vaters oder der Tochter seiner Mutter. Und das ganze Volk ⟨wird⟩ sagen: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "schläft"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "seiner Schwester"
+    },
+    {
+      "surface": "בת",
+      "gloss": "der Tochter"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "בת",
+      "gloss": "der Tochter"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "seiner Mutter"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und ⟨wird⟩ sagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:26:26.316352987Z",
+  "model": "glm-5.2"
+}

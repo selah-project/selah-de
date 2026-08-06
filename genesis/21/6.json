@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Sara sagte: „Lachen hat mir Elohim bereitet; jeder, der ⟨es⟩ hört, wird mir zulachen.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Und ⟨sie⟩ sagte"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "Lachen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hat bereitet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "der ⟨es⟩ hört"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "wird zulachen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T08:13:02.605353969Z",
+  "model": "glm-5.2"
+}

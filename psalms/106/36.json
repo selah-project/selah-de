@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und sie dienten ⟨את⟩ ihre Götzen, und diese wurden ihnen zur Falle.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Und sie dienten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Götzen"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ihre Götzen"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "und diese wurden"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "zur Falle"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:54.771867323Z",
+  "model": "glm-5.2"
+}

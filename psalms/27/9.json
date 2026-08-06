@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Verbirg dein Angesicht nicht vor mir, neige deinen Knecht nicht im Zorn ⟨zurück⟩! Du bist meine Hilfe gewesen — wirf mich nicht weg und verlass mich nicht, Elohim meines Heils!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "verbirg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Angesicht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "vor mir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תט",
+      "gloss": "neige"
+    },
+    {
+      "surface": "באף",
+      "gloss": "im Zorn"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "deinen Knecht"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "meine Hilfe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "du bist gewesen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "wirf mich weg"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "verlass mich"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "meines Heils"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:47.429441458Z",
+  "model": "glm-5.2"
+}

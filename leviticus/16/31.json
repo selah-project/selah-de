@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Schabbat Schabbaton ist ⟨er⟩ für euch, und ihr sollt ⟨את⟩ eure Nefesch demütigen — eine ewige Satzung.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Schabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Schabbaton"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ist"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "und ihr sollt demütigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eure Nefesch"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "eure Nefesch"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "eine Satzung"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewige"
+    }
+  ],
+  "timestamp": "2026-08-05T20:24:21.354429307Z",
+  "model": "glm-5.2"
+}

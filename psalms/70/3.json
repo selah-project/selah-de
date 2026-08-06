@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 70,
+  "translation": "Es sollen sich schämen und sich entsetzen, die meine Nefesch suchen; sie sollen zurückweichen und beschämt werden, die mein Unheil begehren.",
+  "tokens": [
+    {
+      "surface": "יֵבֹ֣שׁוּ",
+      "gloss": "Es sollen sich schämen"
+    },
+    {
+      "surface": "וְיַחְפְּרוּ֮",
+      "gloss": "und sich entsetzen"
+    },
+    {
+      "surface": "מְבַקְשֵׁ֪י",
+      "gloss": "die suchen"
+    },
+    {
+      "surface": "נַ֫פְשִׁ֥י",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "יִסֹּ֣גוּ",
+      "gloss": "sie sollen zurückweichen"
+    },
+    {
+      "surface": "אָ֭חוֹר",
+      "gloss": "hinten"
+    },
+    {
+      "surface": "וְיִכָּלְמ֑וּ",
+      "gloss": "und beschämt werden"
+    },
+    {
+      "surface": "חֲ֝פֵצֵ֗י",
+      "gloss": "die begehren"
+    },
+    {
+      "surface": "רָעָתִֽי",
+      "gloss": "mein Unheil"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:39.079494405Z",
+  "model": "glm-5.2"
+}

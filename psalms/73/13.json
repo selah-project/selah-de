@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 73,
+  "translation": "Fürwahr — vergeblich habe ich mein Herz rein gehalten, und in Unschuld meine Hände gewaschen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fürwahr"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "vergeblich"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "habe ich rein gehalten"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "und ⟨ich⟩ habe gewaschen"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "in Unschuld"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "meine Hände"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:19.283641336Z",
+  "model": "glm-5.2"
+}

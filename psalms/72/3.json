@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Berge mögen Schalom ⟨dem⟩ Volk tragen, und ⟨die⟩ Hügel ⟨durch⟩ Zedaka.",
+  "tokens": [
+    {
+      "surface": "יִשְׂאוּ",
+      "gloss": "mögen tragen"
+    },
+    {
+      "surface": "הָרִ֓ים",
+      "gloss": "Berge"
+    },
+    {
+      "surface": "שָׁ֘ל֥וֹם",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "לָעָ֑ם",
+      "gloss": "⟨dem⟩ Volk"
+    },
+    {
+      "surface": "וּ֝גְבָע֗וֹת",
+      "gloss": "und ⟨die⟩ Hügel"
+    },
+    {
+      "surface": "בִּצְדָקָֽה",
+      "gloss": "⟨durch⟩ Zedaka"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:25.269587256Z",
+  "model": "glm-5.2"
+}

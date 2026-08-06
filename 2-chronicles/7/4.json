@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und der König und das ganze Volk schlachteten Schlachtopfer vor JHWH.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Und der König"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ⟨das⟩ ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "schlachteten"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Schlachtopfer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T23:55:50.774312979Z",
+  "model": "glm-5.2"
+}

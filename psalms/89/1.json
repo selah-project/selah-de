@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Eine Unterweisung von Eitan, dem Esrachiter.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Unterweisung"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "von Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "dem Esrachiter"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:08.589781192Z",
+  "model": "glm-5.2"
+}

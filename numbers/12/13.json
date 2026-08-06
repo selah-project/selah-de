@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Da schrie Mosche zu JHWH und sagte: „El, bitte, heile, bitte, sie!“",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Da schrie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bitte"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "heile"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bitte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sie"
+    }
+  ],
+  "timestamp": "2026-08-05T20:32:46.204366916Z",
+  "model": "glm-5.2"
+}

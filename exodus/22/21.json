@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Jede Witwe und ⟨jedes⟩ Waisenkind sollt ihr nicht bedrücken.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "jede"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "Witwe"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "und Waisenkind"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "sollt ihr bedrücken"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:50.801080852Z",
+  "model": "glm-5.2"
+}

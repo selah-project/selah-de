@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Und ich werde wandeln im Weiten, denn ⟨deine⟩ Bestimmungen habe ich gesucht.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "und ich werde wandeln"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "im Weiten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "⟨deine⟩ Bestimmungen"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "habe ich gesucht"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:44.504864937Z",
+  "model": "glm-5.2"
+}

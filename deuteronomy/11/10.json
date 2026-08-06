@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 11:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Denn das Land, in das du dorthin kommst, um es in Besitz zu nehmen, ⟨ist⟩ nicht wie das Land Mizrajim, aus dem ihr herausgegangen seid, wo du ⟨את⟩ deinen Samen säst und mit deinem Fuß bewässerst, wie einen Gemüsegarten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "[Relativpronomen]"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommst"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "um es in Besitz zu nehmen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "wie das Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "[Kopula-Pronomen]"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aus [Relativpronomen]"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "ihr herausgegangen seid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "du säst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Samen"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "deinen Samen"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "und bewässerst"
+    },
+    {
+      "surface": "ברגלך",
+      "gloss": "mit deinem Fuß"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "wie einen Garten"
+    },
+    {
+      "surface": "הירק",
+      "gloss": "der Gemüse[pflanzen]"
+    }
+  ],
+  "timestamp": "2026-08-06T19:31:09.625818130Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und sie murrten in ihren Zelten, sie hörten nicht auf die Stimme JHWHs.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "Und sie murrten"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "in ihren Zelten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sie hörten"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:18.581418260Z",
+  "model": "glm-5.2"
+}

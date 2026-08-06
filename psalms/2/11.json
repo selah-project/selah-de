@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Dient ⟨את⟩ JHWH mit Ehrfurcht, und jubelt mit Zittern!",
+  "tokens": [
+    {
+      "surface": "עִבְד֣וּ",
+      "gloss": "Dient"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בְּיִרְאָ֑ה",
+      "gloss": "mit Ehrfurcht"
+    },
+    {
+      "surface": "וְ֝גִ֗ילוּ",
+      "gloss": "und jubelt"
+    },
+    {
+      "surface": "בִּרְעָדָֽה",
+      "gloss": "mit Zittern"
+    }
+  ],
+  "timestamp": "2026-08-05T22:43:02.272811529Z",
+  "model": "glm-5.2"
+}

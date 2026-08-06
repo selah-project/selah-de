@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und sie vergaßen ⟨את⟩ JHWH, ihren Elohim, und er verkaufte sie in die Hand von Sisra, ⟨dem⟩ Befehlshaber ⟨des⟩ Heeres von Chazor, und in die Hand der Pelischtim und in die Hand des Königs von Moaw, und sie kämpften gegen sie.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּשְׁכְּח֖וּ",
+      "gloss": "und sie vergaßen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶ֑ם",
+      "gloss": "ihren Elohim"
+    },
+    {
+      "surface": "וַיִּמְכֹּ֣ר",
+      "gloss": "und er verkaufte"
+    },
+    {
+      "surface": "אֹתָ֡ם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "בְּיַ֣ד",
+      "gloss": "in die Hand von"
+    },
+    {
+      "surface": "סִֽיסְרָ֩א",
+      "gloss": "Sisra"
+    },
+    {
+      "surface": "שַׂ֨ר",
+      "gloss": "Befehlshaber"
+    },
+    {
+      "surface": "צְבָ֜א",
+      "gloss": "Heeres"
+    },
+    {
+      "surface": "חָצ֛וֹר",
+      "gloss": "Chazor"
+    },
+    {
+      "surface": "וּבְיַ֨ד",
+      "gloss": "und in die Hand ⟨der⟩"
+    },
+    {
+      "surface": "פְּלִשְׁתִּ֗ים",
+      "gloss": "Pelischtim"
+    },
+    {
+      "surface": "וּבְיַ֛ד",
+      "gloss": "und in die Hand ⟨des⟩"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "Königs"
+    },
+    {
+      "surface": "מוֹאָ֖ב",
+      "gloss": "von Moaw"
+    },
+    {
+      "surface": "וַיִָּּחֲמ֥וּ",
+      "gloss": "und sie kämpften"
+    },
+    {
+      "surface": "בָּֽם",
+      "gloss": "gegen sie"
+    }
+  ],
+  "timestamp": "2026-08-06T15:45:48.285222004Z",
+  "model": "glm-5.2"
+}

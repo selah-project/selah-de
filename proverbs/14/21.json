@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Sein ⟨Genosse⟩ verachten ⟨ist⟩ Sünde, aber ⟨wer⟩ ⟨den⟩ Elenden Gnade erweist — Glück ⟨auf⟩ ⟨ihn⟩!",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "verachten"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sein ⟨Genosse⟩"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "Sünde"
+    },
+    {
+      "surface": "ומחונן",
+      "gloss": "aber ⟨wer⟩ Gnade erweist"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "⟨den⟩ Elenden"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "Glück ⟨auf⟩ ⟨ihn⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:26:57.006666369Z",
+  "model": "glm-5.2"
+}

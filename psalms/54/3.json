@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 54,
+  "translation": "Elohim, durch deinen Namen rette mich, und durch deine Stärke ⟨richte⟩ mich!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "durch deinen Namen"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "rette mich"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "und durch deine Stärke"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "⟨richte⟩ mich"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:37.861432887Z",
+  "model": "glm-5.2"
+}

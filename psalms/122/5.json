@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 122,
+  "translation": "Denn dorthin wurden Throne gesetzt ⟨für⟩ Gericht, Throne ⟨für⟩ das Haus Dawid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wurden gesetzt"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "Throne"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "⟨für⟩ Gericht"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "Throne"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨für⟩ das Haus"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:18.722177848Z",
+  "model": "glm-5.2"
+}

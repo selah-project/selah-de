@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Im Bergland und in der Schefela und in der Arava und an den Abhängen und in der Wüste und im Negev: der Chetiter, der Emoriter und der Kanaaniter, der Perisiter, der Chiwiter und der Jebusiter.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "Im Bergland"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "und in der Schefela"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "und in der Arava"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "und an den Abhängen"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "und in der Wüste"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "und im Negev"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "der Chetiter"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "der Emoriter"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "und der Kanaaniter"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "der Perisiter"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "der Chiwiter"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "und der Jebusiter"
+    }
+  ],
+  "timestamp": "2026-08-06T00:52:31.336741806Z",
+  "model": "glm-5.2"
+}

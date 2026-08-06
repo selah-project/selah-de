@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich eilte und zögerte nicht, deine Gebote zu bewahren.",
+  "tokens": [
+    {
+      "surface": "חַ֭שְׁתִּי",
+      "gloss": "Ich eilte"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "הִתְמַהְמָ֑הְתִּי",
+      "gloss": "zögerte"
+    },
+    {
+      "surface": "לִ֝שְׁמֹ֗ר",
+      "gloss": "zu bewahren"
+    },
+    {
+      "surface": "מִצְוֺתֶֽיךָ",
+      "gloss": "deine Gebote"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:06.206109644Z",
+  "model": "glm-5.2"
+}

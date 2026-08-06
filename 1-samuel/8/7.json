@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und JHWH sprach zu Schmuël: Höre auf die Stimme des Volkes, nach allem, was sie zu dir sagen. Denn nicht dich haben sie verworfen, sondern mich haben sie verworfen, ⟨dass ich⟩ nicht über sie regiere.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Höre"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nach allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sie sagen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dich"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "haben sie verworfen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "haben sie verworfen"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "zu regieren"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "über sie"
+    }
+  ],
+  "timestamp": "2026-08-06T01:04:49.792890008Z",
+  "model": "glm-5.2"
+}

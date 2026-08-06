@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 10:8",
+  "book": "zechariah",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Ich werde ihnen pfeifen und sie sammeln, denn ich habe sie ausgelöst, und sie werden sich mehren wie ⟨sie⟩ sich gemehrt ⟨haben⟩.",
+  "tokens": [
+    {
+      "surface": "אשרקה",
+      "gloss": "werde ich pfeifen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "und sie sammeln"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "פדיתים",
+      "gloss": "ich habe sie ausgelöst"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "und sie werden sich mehren"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wie"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "sie sich gemehrt haben"
+    }
+  ],
+  "timestamp": "2026-08-06T04:07:08.433313099Z",
+  "model": "glm-5.2"
+}

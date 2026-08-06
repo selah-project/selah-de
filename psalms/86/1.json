@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 86,
+  "translation": "Ein Gebet von Dawid. Neige, JHWH, ⟨dein⟩ Ohr, antworte mir, denn arm und bedürftig bin ich.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Gebet"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Neige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "⟨dein⟩ Ohr"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antworte mir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "und bedürftig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "bin ich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:07.034961796Z",
+  "model": "glm-5.2"
+}

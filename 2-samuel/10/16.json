@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Hadad-eser sandte und führte ⟨את⟩ Aram aus, das von jenseits des Stromes ⟨war⟩, und sie kamen nach Helam; und Schowach, der Befehlshaber des Heeres des Hadad-eser, ⟨war⟩ vor ihrem Gesicht.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und sandte"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadad-eser"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "und führte aus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "von jenseits"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "des Stromes"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "und sie kamen"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "nach Helam"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "und Schowach"
+    },
+    {
+      "surface": "שר",
+      "gloss": "der Befehlshaber"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "des Heeres"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "des Hadad-eser"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "vor ihrem Gesicht"
+    }
+  ],
+  "timestamp": "2026-08-06T02:51:16.342311737Z",
+  "model": "glm-5.2"
+}

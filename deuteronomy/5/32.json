@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ihr sollt darauf achten zu tun, wie JHWH, euer Elohim, ⟨euch⟩ geboten hat — ihr sollt nicht abweichen, ⟨nach⟩ rechts oder links.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Und ihr sollt achten"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zu tun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨euch⟩",
+      "marks": "euch (als Objektmarker)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "ihr sollt abweichen"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "rechts"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "oder links"
+    }
+  ],
+  "timestamp": "2026-08-06T05:27:17.888140964Z",
+  "model": "glm-5.2"
+}

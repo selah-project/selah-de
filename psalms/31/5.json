@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Führe mich heraus aus dem Netz, das sie mir gelegt haben, denn du bist meine Festung.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "Führe mich heraus"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "aus dem Netz"
+    },
+    {
+      "surface": "זו",
+      "gloss": "das"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "sie gelegt haben"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "meine Festung"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:39.204917662Z",
+  "model": "glm-5.2"
+}

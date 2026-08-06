@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und JHWH segnete ⟨את⟩ das Ende Hiobs mehr als seinen Anfang, und es wurden ihm vierzehntausend Kleinvieh und sechstausend Kamele und tausend Gespanne Rinder und tausend Eselinnen.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "und JHWH"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "segnete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Ende Hiobs"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "das Ende"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Hiobs"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "mehr als seinen Anfang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und es wurden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "Kleinvieh"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "und sechs"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "Kamele"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "und tausend"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "Gespanne"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Rinder"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "und tausend"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "Eselinnen"
+    }
+  ],
+  "timestamp": "2026-08-06T07:05:58.595731098Z",
+  "model": "glm-5.2"
+}

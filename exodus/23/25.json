@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und ihr werdet dienen ⟨את⟩ JHWH, eurem Elohim, und er wird segnen ⟨את⟩ dein Brot und ⟨את⟩ dein Wasser, und ich werde Krankheit aus deiner Mitte hinwegnehmen.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "und ihr werdet dienen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eurem Elohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "und er wird segnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Brot"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "dein Brot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "dein Wasser"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "dein Wasser"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "und ich werde hinwegnehmen"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Krankheit"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "aus deiner Mitte"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:46.786637608Z",
+  "model": "glm-5.2"
+}

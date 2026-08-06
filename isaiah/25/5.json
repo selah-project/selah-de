@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Wie Dürre im dürren Land — ⟨das⟩ Getöse der Fremden ⟨bringst⟩ du ⟨zum⟩ Schweigen. Wie Dürre im Schatten einer Wolke — das Lied der Gewalttätigen wird gedämpft.",
+  "tokens": [
+    {
+      "surface": "כְּחֹ֣רֶב",
+      "gloss": "wie Dürre"
+    },
+    {
+      "surface": "בְּצָי֔וֹן",
+      "gloss": "im dürren Land"
+    },
+    {
+      "surface": "שְׁא֥וֹן",
+      "gloss": "⟨das⟩ Getöse"
+    },
+    {
+      "surface": "זָרִ֖ים",
+      "gloss": "der Fremden"
+    },
+    {
+      "surface": "תַּכְנִ֑יעַ",
+      "gloss": "⟨bringst⟩ du ⟨zum⟩ Schweigen"
+    },
+    {
+      "surface": "חֹ֚רֶב",
+      "gloss": "Dürre"
+    },
+    {
+      "surface": "בְּצֵ֣ל",
+      "gloss": "im Schatten"
+    },
+    {
+      "surface": "עָ֔ב",
+      "gloss": "einer Wolke"
+    },
+    {
+      "surface": "זְמִ֥יר",
+      "gloss": "das Lied"
+    },
+    {
+      "surface": "עָֽרִיצִ֖ים",
+      "gloss": "der Gewalttätigen"
+    },
+    {
+      "surface": "יַעֲנֶֽה",
+      "gloss": "wird gedämpft"
+    }
+  ],
+  "timestamp": "2026-08-06T19:44:57.189693550Z",
+  "model": "glm-5.2"
+}

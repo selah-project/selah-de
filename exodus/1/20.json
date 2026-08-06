@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim tat den Hebammen Gutes, und das Volk wurde zahlreich und wurde sehr mächtig.",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֥יטֶב",
+      "gloss": "Und ⟨er⟩ tat Gutes"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לַֽמְיַלְּדֹ֑ת",
+      "gloss": "den Hebammen"
+    },
+    {
+      "surface": "וַיִּ֧רֶב",
+      "gloss": "und das Volk wurde zahlreich"
+    },
+    {
+      "surface": "הָעָ֛ם",
+      "gloss": "⟨das Volk⟩"
+    },
+    {
+      "surface": "וַיַּֽעַצְמ֖וּ",
+      "gloss": "und sie wurden mächtig"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T00:12:02.745479Z",
+  "model": "glm-5.2"
+}

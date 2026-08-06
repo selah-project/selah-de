@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Jisra'el vergaß ⟨את⟩ seinen Macher und baute Paläste, und Jehuda vermehrte befestigte Städte. Ich aber werde Feuer senden in seine Städte, und es wird fressen seine Burgen.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁכַּ֨ח",
+      "gloss": "Und vergaß"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֜ל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Macher"
+    },
+    {
+      "surface": "עֹשֵׂ֗הוּ",
+      "gloss": "seinen Macher"
+    },
+    {
+      "surface": "וַיִּ֨בֶן֙",
+      "gloss": "und baute"
+    },
+    {
+      "surface": "הֵֽיכָל֔וֹת",
+      "gloss": "Paläste"
+    },
+    {
+      "surface": "וִֽיהוּדָ֕ה",
+      "gloss": "und Jehuda"
+    },
+    {
+      "surface": "הִרְבָּ֖ה",
+      "gloss": "vermehrte"
+    },
+    {
+      "surface": "עָרִ֣ים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "בְּצֻר֑וֹת",
+      "gloss": "befestigte"
+    },
+    {
+      "surface": "וְשִׁלַּחְתִּי",
+      "gloss": "Ich aber werde senden"
+    },
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "בְּעָרָ֔יו",
+      "gloss": "in seine Städte"
+    },
+    {
+      "surface": "וְאָכְלָ֖ה",
+      "gloss": "und es wird fressen"
+    },
+    {
+      "surface": "אַרְמְנֹתֶֽיהָ",
+      "gloss": "seine Burgen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:31:35.403586553Z",
+  "model": "glm-5.2"
+}

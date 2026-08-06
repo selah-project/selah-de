@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "⟨Ein⟩ Wind, zu voll von diesen, kommt mir zu. Jetzt werde auch ich ⟨את⟩ sie richten, ⟨sie⟩ — Gerichte.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "⟨ein⟩ Wind"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "zu voll"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "von diesen"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir zu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Jetzt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אני",
+      "gloss": "werde ich"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "richten"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "Gerichte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie (das Volk und Jeruschalajim)"
+    }
+  ],
+  "timestamp": "2026-08-05T21:59:26.064450053Z",
+  "model": "glm-5.2"
+}

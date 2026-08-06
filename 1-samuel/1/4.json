@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨als⟩ der Tag ⟨kam⟩, opferte Elkana und gab Peninna, seiner Frau, und all ihren Söhnen und ihren Töchtern Portionen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es war⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "der Tag"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "und opferte"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Peninna"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seiner Frau"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ihren Söhnen"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "und ihren Töchchtern"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "Portionen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:07:06.186156256Z",
+  "model": "glm-5.2"
+}

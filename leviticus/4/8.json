@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨את⟩ das ganze Fett des Stiers der Chattat soll er davon wegheben: ⟨את⟩ das Fett, das den inneren Teil bedeckt, und ⟨את⟩ alles Fett, das auf dem inneren Teil ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Fett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "Fett"
+    },
+    {
+      "surface": "פר",
+      "gloss": "des Stiers"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "der Chattat"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "soll er wegheben"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "davon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Fett"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "das Fett"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "das bedeckt"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "dem inneren Teil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alles Fett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "Fett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "dem inneren Teil"
+    }
+  ],
+  "timestamp": "2026-08-06T00:23:52.807339120Z",
+  "model": "glm-5.2"
+}

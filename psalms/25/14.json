@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Der Sod von JHWH ⟨gehört⟩ seinen Ehrfürchtigen, und sein Brit, um sie erkennen zu lassen.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "der Sod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "seinen Ehrfürchtigen"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "und sein Brit"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "um sie erkennen zu lassen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:32.365736650Z",
+  "model": "glm-5.2"
+}

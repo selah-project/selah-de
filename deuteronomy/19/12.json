@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "dann sollen die Ältesten seiner Stadt schicken und ⟨את⟩ ihn von dort holen und ⟨את⟩ ihn in die Hand des Goel des Blutes geben, dass er stirbt.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "dann sollen … schicken"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die Ältesten"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "seiner Stadt"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "und … holen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "und … geben"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "des Goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "des Blutes"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dass er stirbt"
+    }
+  ],
+  "timestamp": "2026-08-06T14:56:33.224352568Z",
+  "model": "glm-5.2"
+}

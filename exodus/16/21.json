@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und sie sammelten ⟨את⟩ es Morgen für Morgen, jeder nach seinem Essensmaß; und ⟨als⟩ die Sonne heiß wurde, zerschmolz es.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "Und sie sammelten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "es"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "Morgen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "für Morgen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "nach"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "seinem Essensmaß"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "und ⟨als⟩ heiß wurde"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die Sonne"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "zerschmolz es"
+    }
+  ],
+  "timestamp": "2026-08-06T21:07:11.398123024Z",
+  "model": "glm-5.2"
+}

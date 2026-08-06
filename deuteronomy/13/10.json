@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Sondern töten sollst du ihn töten — deine Hand soll ⟨die erste⟩ an ihm sein, ihn zu töten, und die Hand des ganzen Volkes ⟨danach⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "töten"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "sollst du ihn töten"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "בו",
+      "gloss": "an ihm"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "als Erste"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ihn zu töten"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "und ⟨die⟩ Hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "des ganzen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volkes"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "als Letzte"
+    }
+  ],
+  "timestamp": "2026-08-05T20:45:49.043419550Z",
+  "model": "glm-5.2"
+}

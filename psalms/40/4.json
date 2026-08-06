@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und er legte in meinen Mund ein neues Lied, einen Lobpreis unserem Elohim. Viele werden es sehen und sich fürchten und auf JHWH vertrauen.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "und er legte"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in meinen Mund"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ein Lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "neues"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "einen Lobpreis"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "unserem Elohim"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "werden sehen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Viele"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "und sich fürchten"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "und vertrauen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "auf JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:21.115124311Z",
+  "model": "glm-5.2"
+}

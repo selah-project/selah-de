@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Beim Gehen wird dein Schritt nicht beengt ⟨werden⟩, und wenn du läufst, wirst du nicht straucheln.",
+  "tokens": [
+    {
+      "surface": "בְּֽ֭לֶכְתְּךָ",
+      "gloss": "beim Gehen"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יֵצַ֣ר",
+      "gloss": "wird beengt ⟨werden⟩"
+    },
+    {
+      "surface": "צַעֲדֶ֑ךָ",
+      "gloss": "dein Schritt"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "תָּ֝ר֗וּץ",
+      "gloss": "du läufst"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּכָּשֵֽׁל",
+      "gloss": "wirst du straucheln"
+    }
+  ],
+  "timestamp": "2026-08-05T23:08:21.041551570Z",
+  "model": "glm-5.2"
+}

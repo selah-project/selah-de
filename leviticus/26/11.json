@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und ich werde meinen Mischkan in eure Mitte geben, und meine Nefesch wird ⟨euch⟩ nicht verabscheuen, ⟨את⟩ euch.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Und ich werde geben"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "meinen Mischkan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "in eure Mitte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "wird verabscheuen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    }
+  ],
+  "timestamp": "2026-08-06T05:21:49.190088527Z",
+  "model": "glm-5.2"
+}

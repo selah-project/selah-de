@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Seht, ich habe ⟨את⟩ das Land vor euch hingegeben. Kommt und nehmt ⟨את⟩ das Land in Besitz, das JHWH euren Vätern geschworen hat — dem Awraham, dem Jizchak und dem Jaakow —, es ihnen und ihrem Samen nach ihnen zu geben.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Seht"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ich habe … hingegeben"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "באו",
+      "gloss": "Kommt"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "und nehmt … in Besitz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "geschworen hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "euren Vätern"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "dem Awraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "dem Jizchak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "und dem Jaakow"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "zu geben"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "und ihrem Samen"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "nach ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:26:34.555701317Z",
+  "model": "glm-5.2"
+}

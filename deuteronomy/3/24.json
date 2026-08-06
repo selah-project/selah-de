@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Adonai, JHWH, du hast begonnen, ⟨את⟩ deinen Knecht ⟨את⟩ deine Größe und ⟨את⟩ deine starke Hand sehen zu lassen. Wer ist wie El, im Himmel und auf der Erde, der tun könnte wie deine Taten und wie deine Macht?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "hast begonnen"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "sehen zu lassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Knecht"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "deinen Knecht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Größe"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "deine Größe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "deine starke Hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "starke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(—)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wie El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "im Himmel"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "und auf der Erde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tun könnte"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "wie deine Taten"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "und wie deine Macht"
+    }
+  ],
+  "timestamp": "2026-08-05T20:43:12.827010595Z",
+  "model": "glm-5.2"
+}

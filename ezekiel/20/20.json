@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ⟨את⟩ meine Schabbatot heiligt, und sie sollen ⟨sein⟩ zum Zeichen zwischen mir und zwischen euch, um zu erkennen, dass ich JHWH ⟨bin⟩, euer Elohim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Schabbatot"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "meine Schabbatot"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "heiligt"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "und sie sollen"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "zum Zeichen"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "zwischen mir"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "und zwischen euch"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "um zu erkennen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T06:21:43.627411909Z",
+  "model": "glm-5.2"
+}

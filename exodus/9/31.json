@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und der Flachs und die Gerste wurden geschlagen, denn die Gerste ⟨war⟩ Ähre und der Flachs ⟨war⟩ Blüte.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "und der Flachs"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "und die Gerste"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "wurde geschlagen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "die Gerste"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "Ähre"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "und der Flachs"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "Blüte"
+    }
+  ],
+  "timestamp": "2026-08-05T20:07:05.657946164Z",
+  "model": "glm-5.2"
+}

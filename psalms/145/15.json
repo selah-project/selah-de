@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Die Augen aller warten auf dich, und du gibst ihnen ⟨את⟩ ihre Speise zu ihrer Zeit.",
+  "tokens": [
+    {
+      "surface": "עֵֽינֵי",
+      "gloss": "Die Augen"
+    },
+    {
+      "surface": "כֹ֭ל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "אֵלֶ֣יךָ",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "יְשַׂבֵּ֑רוּ",
+      "gloss": "warten"
+    },
+    {
+      "surface": "וְאַתָּ֤ה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "נֽוֹתֵן",
+      "gloss": "gibst"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Speise"
+    },
+    {
+      "surface": "אָכְלָ֣ם",
+      "gloss": "ihre Speise"
+    },
+    {
+      "surface": "בְּעִתּֽוֹ",
+      "gloss": "zu ihrer Zeit"
+    }
+  ],
+  "timestamp": "2026-08-06T06:53:14.962320109Z",
+  "model": "glm-5.2"
+}

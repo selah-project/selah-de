@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "JHWH antworte dir am Tag der Bedrängnis, der Name des Elohim von Jaakow ⟨setze⟩ dich ⟨auf die Höhe⟩.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "antworte dir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "der Bedrängnis"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "⟨setze⟩ dich ⟨auf die Höhe⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der Name"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "des Elohim von"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:59.021358602Z",
+  "model": "glm-5.2"
+}

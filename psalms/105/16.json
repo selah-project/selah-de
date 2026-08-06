@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Und er rief eine Hungersnot herbei über das Land, jeden Stab des Brotes zerbrach er.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und er rief herbei"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "eine Hungersnot"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Stab"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "des Brotes"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "zerbrach er"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:28.229129368Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 83,
+  "translation": "Lied, Musikstück für Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Musikstück"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "für Asaf"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:56.369958476Z",
+  "model": "glm-5.2"
+}

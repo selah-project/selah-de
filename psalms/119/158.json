@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich sah Treulose und war entsetzt, ⟨weil⟩ sie dein Wort nicht bewahrten.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ich sah"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "Treulose"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "und war entsetzt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨weil⟩"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dein Wort"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "sie bewahrten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:03.560563148Z",
+  "model": "glm-5.2"
+}

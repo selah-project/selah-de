@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 84,
+  "translation": "Es sehnt sich, ⟨und⟩ sogar vergeht meine Nefesch nach den Höfen JHWHs; mein Herz und mein Fleisch jauchzen ⟨hin⟩ zu El, dem Lebendigen.",
+  "tokens": [
+    {
+      "surface": "נִכְסְפָ֬ה",
+      "gloss": "Es sehnt sich"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "und sogar"
+    },
+    {
+      "surface": "כָּלְתָ֨ה",
+      "gloss": "vergeht"
+    },
+    {
+      "surface": "נַפְשִׁי֮",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "לְחַצְר֪וֹת",
+      "gloss": "nach den Höfen"
+    },
+    {
+      "surface": "יְה֫וָ֥ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "לִבִּ֥י",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "וּבְשָׂרִ֑י",
+      "gloss": "und mein Fleisch"
+    },
+    {
+      "surface": "יְ֝רַנְּנ֗וּ",
+      "gloss": "jauchzen"
+    },
+    {
+      "surface": "אֶ֣ל",
+      "gloss": "hin zu"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חָֽי",
+      "gloss": "dem Lebendigen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:48.432059923Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "JHWH gibt Stärke seinem Volk, JHWH segnet ⟨את⟩ sein Volk mit Schalom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עז",
+      "gloss": "Stärke"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "seinem Volk"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "segnet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "mit Schalom"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:41.778872137Z",
+  "model": "glm-5.2"
+}

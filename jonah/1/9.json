@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und er sprach zu ihnen: „Ein Iwri bin ich, und ⟨את⟩ JHWH, den Elohim des Himmels, fürchte ich, der ⟨את⟩ das Meer und ⟨את⟩ das Trockene gemacht hat.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ein Iwri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "bin ich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "den Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fürchte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gemacht hat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Meer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das Trockene"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "das Trockene"
+    }
+  ],
+  "timestamp": "2026-08-06T15:20:41.061421645Z",
+  "model": "glm-5.2"
+}

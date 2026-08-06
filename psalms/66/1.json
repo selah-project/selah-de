@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Dem Chorleiter. Ein Lied, ein Maskil. Jauchzt Elohim, all ⟨die⟩ Erde!",
+  "tokens": [
+    {
+      "surface": "לַ֭מְנַצֵּחַ",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "שִׁ֣יר",
+      "gloss": "Ein Lied"
+    },
+    {
+      "surface": "מִזְמ֑וֹר",
+      "gloss": "ein Maskil"
+    },
+    {
+      "surface": "הָרִ֥יעוּ",
+      "gloss": "Jauchzt"
+    },
+    {
+      "surface": "לֵ֝אלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:33.334977799Z",
+  "model": "glm-5.2"
+}

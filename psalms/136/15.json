@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "und Paro und ⟨seine⟩ Streitmacht ins Schilfmeer schüttelte, denn für ewig ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "und schüttelte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "und ⟨seine⟩ Streitmacht"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ins Meer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Schilf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:02.481734670Z",
+  "model": "glm-5.2"
+}

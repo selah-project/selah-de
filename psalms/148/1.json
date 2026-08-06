@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 148,
+  "translation": "Lobt Jah! Lobt ⟨את⟩ JHWH von den Himmeln her, lobt ihn in den Höhen!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "den Himmeln her"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lobt ihn"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "in den Höhen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:41.887513534Z",
+  "model": "glm-5.2"
+}

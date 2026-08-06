@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Und alle Könige werden sich vor ihm niederwerfen, alle Nationen werden ihm dienen.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "Und werden sich niederwerfen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Nationen"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "werden ihm dienen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:29.183386756Z",
+  "model": "glm-5.2"
+}

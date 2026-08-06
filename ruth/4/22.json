@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Oved zeugte ⟨את⟩ Jischai, und Jischai zeugte ⟨את⟩ Dawid.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Und Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jischai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jischai"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "und Jischai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-05T23:27:29.835337092Z",
+  "model": "glm-5.2"
+}

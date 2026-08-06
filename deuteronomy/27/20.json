@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Verflucht ⟨ist⟩, wer mit der Frau seines Vaters schläft — denn er hat die Decke seines Vaters aufgedeckt. Und das ganze Volk ⟨soll⟩ sagen: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "wer schläft"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "der Frau"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "er hat aufgedeckt"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "die Decke"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und sagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:29:33.347221702Z",
+  "model": "glm-5.2"
+}

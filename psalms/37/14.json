@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Ein Schwert haben Frevler gezückt und ihren Bogen gespannt, um ⟨den⟩ Elenden und ⟨den⟩ Bedürftigen zu Fall zu bringen, die Aufrichtigen ⟨des⟩ Weges zu schlachten.",
+  "tokens": [
+    {
+      "surface": "חֶרֶב",
+      "gloss": "Ein Schwert"
+    },
+    {
+      "surface": "פָּתְחוּ",
+      "gloss": "haben gezückt"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "Frevler"
+    },
+    {
+      "surface": "וְדָרְכוּ",
+      "gloss": "und gespannt"
+    },
+    {
+      "surface": "קַשְׁתָּם",
+      "gloss": "ihren Bogen"
+    },
+    {
+      "surface": "לְהַפִּיל",
+      "gloss": "zu Fall zu bringen"
+    },
+    {
+      "surface": "עָנִי",
+      "gloss": "⟨den⟩ Elenden"
+    },
+    {
+      "surface": "וְאֶבְיוֹן",
+      "gloss": "und ⟨den⟩ Bedürftigen"
+    },
+    {
+      "surface": "לִטְבֹּחַ",
+      "gloss": "zu schlachten"
+    },
+    {
+      "surface": "יְשָׁרֵי",
+      "gloss": "die Aufrichtigen"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "⟨des⟩ Weges"
+    }
+  ],
+  "timestamp": "2026-08-06T21:23:59.215416035Z",
+  "model": "glm-5.2"
+}

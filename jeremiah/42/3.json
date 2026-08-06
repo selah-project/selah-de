@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "und ⟨es möge⟩ uns JHWH, dein Elohim, ⟨את⟩ den Weg sagen, auf dem wir gehen sollen, und ⟨את⟩ das Wort, das wir tun sollen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "und ⟨es möge⟩ sagen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Weg"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "der Weg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "wir gehen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "auf ihm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "wir tun"
+    }
+  ],
+  "timestamp": "2026-08-06T10:19:06.263449464Z",
+  "model": "glm-5.2"
+}

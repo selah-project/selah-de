@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 154,
+  "ref": "psalms 119:154",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Führe ⟨meinen⟩ Rechtsstreit und löse mich aus, nach deinem Wort belebe mich.",
+  "tokens": [
+    {
+      "surface": "רִיבָ֣ה",
+      "gloss": "Führe ⟨den⟩ Rechtsstreit"
+    },
+    {
+      "surface": "רִיבִי֭",
+      "gloss": "meinen Rechtsstreit"
+    },
+    {
+      "surface": "וּגְאָלֵ֑נִי",
+      "gloss": "und löse mich aus"
+    },
+    {
+      "surface": "לְאִמְרָתְךָ֥",
+      "gloss": "nach deinem Wort"
+    },
+    {
+      "surface": "חַיֵּֽנִי",
+      "gloss": "belebe mich"
+    }
+  ],
+  "timestamp": "2026-08-06T22:47:06.340972864Z",
+  "model": "glm-5.2"
+}

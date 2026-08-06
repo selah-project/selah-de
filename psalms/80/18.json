@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "Deine Hand sei über ⟨dem⟩ Mann deiner Rechten, über ⟨dem⟩ Menschensohn, den du dir stark gemacht hast.",
+  "tokens": [
+    {
+      "surface": "תְּֽהִי",
+      "gloss": "sei"
+    },
+    {
+      "surface": "יָ֭דְךָ",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "⟨dem⟩ Mann"
+    },
+    {
+      "surface": "יְמִינֶ֑ךָ",
+      "gloss": "deiner Rechten"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "⟨dem⟩ Sohn"
+    },
+    {
+      "surface": "אָ֝דָ֗ם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "אִמַּ֥צְתָּ",
+      "gloss": "den du stark gemacht hast"
+    },
+    {
+      "surface": "לָּֽךְ",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:12.990263284Z",
+  "model": "glm-5.2"
+}

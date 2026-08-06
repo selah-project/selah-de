@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Das Krumme kann nicht gerade gemacht werden, und was fehlt, kann nicht gezählt werden.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "das Krumme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kann"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "gerade gemacht werden"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "und was fehlt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kann"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "gezählt werden"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:46.619048309Z",
+  "model": "glm-5.2"
+}

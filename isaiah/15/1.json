@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Ausspruch über Moaw: Denn in einer Nacht verwüstet ⟨wurde⟩ Ar von Moaw, ⟨es⟩ verstummte. Denn in einer Nacht verwüstet ⟨wurde⟩ Kir von Moaw, ⟨es⟩ verstummte.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ausspruch"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "über Moaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "in einer Nacht"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "verwüstet wurde"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "von Moaw"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "verstummte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "in einer Nacht"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "verwüstet wurde"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "von Moaw"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "verstummte"
+    }
+  ],
+  "timestamp": "2026-08-05T21:46:45.551946066Z",
+  "model": "glm-5.2"
+}

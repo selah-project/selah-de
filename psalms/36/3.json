@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Denn er glättete ⟨es⟩ für sich in seinen Augen, sein Unrecht zu finden, ⟨um es⟩ zu hassen.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הֶחֱלִ֣יק",
+      "gloss": "er glättete"
+    },
+    {
+      "surface": "אֵלָ֣יו",
+      "gloss": "für sich"
+    },
+    {
+      "surface": "בְּעֵינָ֑יו",
+      "gloss": "in seinen Augen"
+    },
+    {
+      "surface": "לִמְצֹ֖א",
+      "gloss": "zu finden"
+    },
+    {
+      "surface": "עֲוֺנ֣וֹ",
+      "gloss": "sein Unrecht"
+    },
+    {
+      "surface": "לִשְׂנֹֽא",
+      "gloss": "zu hassen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:30.947403782Z",
+  "model": "glm-5.2"
+}

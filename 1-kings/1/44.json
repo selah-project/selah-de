@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 1:44",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und der König hat ⟨mit⟩ ihm gesandt ⟨את⟩ Zadok den Kohen und ⟨את⟩ Natan den Nawi und Benajahu, Sohn Jehojadas, und die Kreti und die Pleleti, und sie haben ihn reiten lassen auf der Maultierstute des Königs.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und ⟨er⟩ hat gesandt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Zadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "den Kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "den Nawi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "und Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojadas"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "und die Kreti"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "und die Pleleti"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "und sie haben reiten lassen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn (Schelomo)"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פרדת",
+      "gloss": "der Maultierstute"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-06T10:05:35.721110474Z",
+  "model": "glm-5.2"
+}

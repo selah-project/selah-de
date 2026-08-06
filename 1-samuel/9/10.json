@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Schaul sagte zu seinem Knecht: „Dein Wort ⟨ist⟩ gut. Komm, ⟨lasst uns⟩ gehen.“ Und sie gingen zur Stadt, wo der Mann haElohim ⟨war⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "zu seinem Knecht"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Dein Wort"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Komm"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "⟨lasst uns⟩ gehen"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Und sie gingen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zur"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "איש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "haElohim"
+    }
+  ],
+  "timestamp": "2026-08-05T21:09:57.740824808Z",
+  "model": "glm-5.2"
+}

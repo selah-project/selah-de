@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und sie werden eine Versammlung gegen dich heraufführen und dich ⟨את⟩ steinigen mit Steinen und dich zerhauen mit ihren Schwertern.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "und sie werden heraufführen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gegen dich"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "eine Versammlung"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "und sie werden steinigen"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "dich"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "mit Steinen"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "und dich zerhauen"
+    },
+    {
+      "surface": "בחרבותיהם",
+      "gloss": "mit ihren Schwertern"
+    }
+  ],
+  "timestamp": "2026-08-06T06:20:32.221663626Z",
+  "model": "glm-5.2"
+}

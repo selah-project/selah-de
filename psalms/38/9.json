@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Ich bin betäubt und zerschmettert bis zum Äußersten, ich habe gebrüllt vom Stöhnen meines Herzens.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "ich bin betäubt"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "und zerschmettert"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zum Äußersten"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ich habe gebrüllt"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "vom Stöhnen"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "meines Herzens"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:59.969209487Z",
+  "model": "glm-5.2"
+}

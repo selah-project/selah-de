@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und der Mensch sprach: „Die Frau, die du mir ⟨als Gefährtin⟩ gegeben hast, ⟨sie⟩ gab mir vom Baum, und ich aß.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "du gegeben hast"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mir ⟨als Gefährtin⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨sie⟩"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "gab"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "vom"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "Baum"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "und ich aß"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:06.191321044Z",
+  "model": "glm-5.2"
+}

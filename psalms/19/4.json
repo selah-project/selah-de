@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Kein Wort und keine Worte — ⟨es fehlt⟩, ⟨dass⟩ ihre Stimme gehört wird.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Kein"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Wort"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und keine"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨es fehlt⟩"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "⟨dass⟩ gehört wird"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ihre Stimme"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:55.255348248Z",
+  "model": "glm-5.2"
+}

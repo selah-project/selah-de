@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Verlass sie nicht, ⟨und⟩ sie wird dich behüten; liebe sie, ⟨und⟩ sie wird dich beschützen!",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תַּעַזְבֶ֥הָ",
+      "gloss": "verlass sie"
+    },
+    {
+      "surface": "וְתִשְׁמְרֶ֑ךָּ",
+      "gloss": "⟨und⟩ sie wird dich behüten"
+    },
+    {
+      "surface": "אֱהָבֶ֥הָ",
+      "gloss": "liebe sie"
+    },
+    {
+      "surface": "וְתִצְּרֶֽךָּ",
+      "gloss": "⟨und⟩ sie wird dich beschützen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:08:48.955849100Z",
+  "model": "glm-5.2"
+}

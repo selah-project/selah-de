@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Er ⟨wird⟩ ein Haus bauen für meinen Namen, und ich ⟨werde⟩ ⟨את⟩ den Thron seines Königtums festigen bis in Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wird bauen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ein Haus"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "für meinen Namen"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "und ich werde festigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Thron"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "Thron"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "seines Königtums"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T21:18:08.634955169Z",
+  "model": "glm-5.2"
+}

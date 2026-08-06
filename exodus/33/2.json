@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und ich werde vor dir her senden einen Boten, und ich werde vertreiben ⟨את⟩ den Kenaaniter, den Emori und den Chitti und den Perisi, den Chiwwi und den Jebusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Und ich werde senden"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vor dir her"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "einen Boten"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "und ich werde vertreiben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Kenaaniter"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "den Kenaaniter"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "den Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "und den Chitti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "und den Perisi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "den Chiwwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "und den Jebusi"
+    }
+  ],
+  "timestamp": "2026-08-06T02:06:51.081859362Z",
+  "model": "glm-5.2"
+}

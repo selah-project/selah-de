@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 83,
+  "translation": "Mache ihre Edlen wie Orew und wie Se'ew, und wie Sebach und wie Zalmunna, alle ihre Fürsten —",
+  "tokens": [
+    {
+      "surface": "שִׁיתֵ֣מוֹ",
+      "gloss": "Mache"
+    },
+    {
+      "surface": "נְ֭דִיבֵמוֹ",
+      "gloss": "ihre Edlen"
+    },
+    {
+      "surface": "כְּעֹרֵ֣ב",
+      "gloss": "wie Orew"
+    },
+    {
+      "surface": "וְכִזְאֵ֑ב",
+      "gloss": "und wie Se'ew"
+    },
+    {
+      "surface": "וּֽכְזֶ֥בַח",
+      "gloss": "und wie Sebach"
+    },
+    {
+      "surface": "וּ֝כְצַלְמֻנָּ֗ע",
+      "gloss": "und wie Zalmunna"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "נְסִיכֵֽמוֹ",
+      "gloss": "ihre Fürsten"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:46.262075515Z",
+  "model": "glm-5.2"
+}

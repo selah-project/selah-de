@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "Der ⟨du⟩ Gebet hörst, zu dir ⟨wird⟩ alles Fleisch kommen.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hörst"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "Gebet"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "⟨wird⟩ kommen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:02.151200266Z",
+  "model": "glm-5.2"
+}

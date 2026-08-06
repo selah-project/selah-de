@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er wartete noch sieben weitere Tage und fuhr fort, ⟨את⟩ die Taube aus der Arche hinauszuschicken.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "und er wartete"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "noch"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "weitere"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "und fuhr fort"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hinauszuschicken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Taube"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "die Taube"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "der Arche"
+    }
+  ],
+  "timestamp": "2026-08-06T09:40:18.125406601Z",
+  "model": "glm-5.2"
+}

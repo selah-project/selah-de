@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und wenn ⟨es⟩ eine Frau ⟨ist⟩, dann ⟨soll sein⟩ deine Schätzung dreißig Schekel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "eine Frau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨es⟩ … ⟨ist⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dann ⟨soll sein⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "deine Schätzung"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dreißig"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "Schekel"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:57.936003733Z",
+  "model": "glm-5.2"
+}

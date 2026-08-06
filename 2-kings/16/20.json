@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und Ahas legte sich zu seinen Vätern und wurde begraben bei seinen Vätern in der Stadt Dawids. Und sein Sohn Chiskija wurde König an seiner Stelle.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Und legte sich"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seinen Vätern"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "und wurde begraben"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seinen Vätern"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "Und wurde König"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chiskija"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sein Sohn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seiner Stelle"
+    }
+  ],
+  "timestamp": "2026-08-05T21:38:59.668239817Z",
+  "model": "glm-5.2"
+}

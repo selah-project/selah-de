@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "der zu seinem Vater und zu seiner Mutter sagte: ‚Ich habe ihn nicht gesehen', und ⟨את⟩ seine Brüder nicht erkannte, und ⟨את⟩ seine Söhne nicht kannte — denn sie hüteten dein Wort, und deinen Brit bewahren sie.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "der sagte"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "zu seinem Vater"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "und zu seiner Mutter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ich habe ihn gesehen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Brüder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "erkannte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kannte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "sie hüteten"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dein Wort"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "und deinen Brit"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "bewahren sie"
+    }
+  ],
+  "timestamp": "2026-08-06T02:29:00.382544492Z",
+  "model": "glm-5.2"
+}

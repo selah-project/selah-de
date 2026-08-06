@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Denn zu Ende gegangen in Kummer ⟨sind⟩ mein Leben und meine Jahre in Seufzen; gestrauchelt um meiner Schuld willen ⟨ist⟩ meine Kraft, und meine Gebeine ⟨sind〉 geschwunden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zu Ende gegangen"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "in Kummer"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mein Leben"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "und meine Jahre"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "in Seufzen"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "gestrauchelt"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "um meiner Schuld willen"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "meine Kraft"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "und meine Gebeine"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "geschwunden"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:45.009945149Z",
+  "model": "glm-5.2"
+}

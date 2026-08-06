@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Gehen zwei zusammen, außer sie haben sich verabredet?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Gehen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "außer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "sie sich verabredet haben"
+    }
+  ],
+  "timestamp": "2026-08-05T22:35:23.231489263Z",
+  "model": "glm-5.2"
+}

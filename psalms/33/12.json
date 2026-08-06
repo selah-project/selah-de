@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Glückselig ⟨die⟩ Völkerschaft, deren Elohim JHWH ⟨ist⟩ — ⟨das⟩ Volk, das er sich zum Erbteil erwählt hat.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֣י",
+      "gloss": "Glückselig"
+    },
+    {
+      "surface": "הַ֭גּוֹי",
+      "gloss": "die Völkerschaft"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "deren"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהָ֑יו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הָעָ֓ם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "בָּחַ֖ר",
+      "gloss": "erwählt hat"
+    },
+    {
+      "surface": "לְנַחֲלָ֣ה",
+      "gloss": "zum Erbteil"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "sich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:18.256311725Z",
+  "model": "glm-5.2"
+}

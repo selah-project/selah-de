@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wer Reinheit des Herzens liebt — Chen ⟨sind⟩ seine Lippen, ein König ⟨ist⟩ sein Freund.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "liebt"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "Reinheit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "des Herzens"
+    },
+    {
+      "surface": "חן",
+      "gloss": "Chen"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "seine Lippen"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sein Freund"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ein König"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:03.758642977Z",
+  "model": "glm-5.2"
+}

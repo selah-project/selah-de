@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und meine Nefesch ist sehr erschrocken — und ⟨du⟩, JHWH, wie lange?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Und meine Nefesch"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ist erschrocken"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨du⟩ ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wann"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:37.253600863Z",
+  "model": "glm-5.2"
+}

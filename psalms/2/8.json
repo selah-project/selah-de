@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "„Erbitte von mir, und ich will ⟨die⟩ Nationen ⟨als⟩ dein Erbteil geben und ⟨die⟩ Enden ⟨der⟩ Erde ⟨zum⟩ Besitz.“",
+  "tokens": [
+    {
+      "surface": "שְׁאַ֤ל",
+      "gloss": "Erbitte"
+    },
+    {
+      "surface": "מִמֶּ֗נִּי",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "וְאֶתְּנָ֣ה",
+      "gloss": "und ich will geben"
+    },
+    {
+      "surface": "ג֭וֹיִם",
+      "gloss": "Nationen"
+    },
+    {
+      "surface": "נַחֲלָתֶ֑ךָ",
+      "gloss": "dein Erbteil"
+    },
+    {
+      "surface": "וַ֝אֲחֻזָּתְךָ֗",
+      "gloss": "und deinen Besitz"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "Enden"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:43:09.606307133Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Denn ⟨er⟩ — er sprach, und es war; ⟨er⟩ gebot, und es stand da.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "er"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "וַיֶּ֑הִי",
+      "gloss": "und es war"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "er"
+    },
+    {
+      "surface": "צִ֝וָּ֗ה",
+      "gloss": "gebot"
+    },
+    {
+      "surface": "וַֽיַּעֲמֹֽד",
+      "gloss": "und es stand da"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:18.255705430Z",
+  "model": "glm-5.2"
+}

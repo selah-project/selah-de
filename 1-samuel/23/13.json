@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 23:13",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Dawid machte sich auf, er und seine Männer, etwa sechshundert Mann, und sie zogen aus Qeila aus und gingen umher, wohin ⟨immer⟩ sie gehen konnten. Und Schaul wurde berichtet, dass Dawid aus Qeila entronnen ⟨war⟩, und er hörte auf auszuziehen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "und machte sich auf"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "und seine Männer"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "etwa sechs"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "und sie zogen aus"
+    },
+    {
+      "surface": "מקעלה",
+      "gloss": "aus Qeila"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "und sie gingen umher"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "wohin"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "sie gehen konnten"
+    },
+    {
+      "surface": "ולשאול",
+      "gloss": "und ⟨dem⟩ Schaul"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "wurde berichtet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "entronnen ⟨war⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מקעילה",
+      "gloss": "aus Qeila"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "und er hörte auf"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "auszuziehen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:46:25.872340270Z",
+  "model": "glm-5.2"
+}

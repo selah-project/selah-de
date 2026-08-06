@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und die Ruach Elohims kam über Schaul, als er ⟨את⟩ diese Worte hörte, und sein Zorn entbrannte sehr.",
+  "tokens": [
+    {
+      "surface": "וַתִּצְלַח",
+      "gloss": "Und kam"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "die Ruach"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "שָׁאוּל",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "בְּשָׁמְעוֹ",
+      "gloss": "als er hörte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "diese Worte"
+    },
+    {
+      "surface": "הַדְּבָרִים",
+      "gloss": "diese Worte"
+    },
+    {
+      "surface": "הָאֵלֶּה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "וַיִּחַר",
+      "gloss": "und entbrannte"
+    },
+    {
+      "surface": "אַפּוֹ",
+      "gloss": "sein Zorn"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T21:12:20.519985209Z",
+  "model": "glm-5.2"
+}

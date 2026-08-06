@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Ich habe Gerechtigkeit verkündet in großer Versammlung — siehe, meine Lippen hielt ich nicht zurück; JHWH, du ⟨hast es⟩ gewusst.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ich habe verkündet"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Gerechtigkeit"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in Versammlung"
+    },
+    {
+      "surface": "רב",
+      "gloss": "großer"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "meine Lippen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "hielt ich zurück"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "⟨hast es⟩ gewusst"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:20.261914354Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und das Volk murrte über Mosche ⟨und sprach⟩: „Was sollen wir trinken?“",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "Und ⟨es⟩ murrte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und sprach⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "sollen wir trinken"
+    }
+  ],
+  "timestamp": "2026-08-06T20:18:03.696853263Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und Jeschua zeugte ⟨את⟩ Jojakim, und Jojakim zeugte ⟨את⟩ Eljaschib, und Eljaschib ⟨zeugte⟩ ⟨את⟩ Jojada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Und Jeschua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "und Jojakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljaschib"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljaschib"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "und Eljaschib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojada"
+    }
+  ],
+  "timestamp": "2026-08-05T23:44:42.648264764Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨את⟩ diese sollt ihr verabscheuen vom Geflügel; sie sollen nicht gegessen werden — Abscheu sind sie: ⟨את⟩ den Nescher und ⟨את⟩ den Peres und ⟨את⟩ die Asnija.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "diese"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "sollt ihr verabscheuen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "dem Geflügel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sollen sie gegessen werden"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "Abscheu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sind sie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Nescher"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "den Nescher"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "den Peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Asnija"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "die Asnija"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:07.074186632Z",
+  "model": "glm-5.2"
+}

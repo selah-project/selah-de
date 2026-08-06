@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Diese Dinge hast du getan, und ⟨ich⟩ schwieg. Du bildest dir ein, ich sei wie du. Doch ich werde dich zurechtweisen und ⟨es⟩ vor deinen Augen aufreihen.",
+  "tokens": [
+    {
+      "surface": "אֵ֤לֶּה",
+      "gloss": "Diese Dinge"
+    },
+    {
+      "surface": "עָשִׂ֨יתָ",
+      "gloss": "hast du getan"
+    },
+    {
+      "surface": "וְֽהֶחֱרַ֗שְׁתִּי",
+      "gloss": "und ⟨ich⟩ schwieg"
+    },
+    {
+      "surface": "דִּמִּ֗יתָ",
+      "gloss": "du bildest dir ein"
+    },
+    {
+      "surface": "הֱֽיוֹת",
+      "gloss": "zu sein"
+    },
+    {
+      "surface": "אֶֽהְיֶ֥ה",
+      "gloss": "ich sei"
+    },
+    {
+      "surface": "כָמ֑וֹךָ",
+      "gloss": "wie du"
+    },
+    {
+      "surface": "אוֹכִיחֲךָ֖",
+      "gloss": "werde ich dich zurechtweisen"
+    },
+    {
+      "surface": "וְאֶֽעֶרְכָ֣ה",
+      "gloss": "und ⟨ich⟩ werde aufreihen"
+    },
+    {
+      "surface": "לְעֵינֶֽיךָ",
+      "gloss": "vor deinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:13.738497947Z",
+  "model": "glm-5.2"
+}

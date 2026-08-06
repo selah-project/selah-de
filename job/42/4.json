@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Höre doch, und ich will reden; ich will dich fragen, und lass mich erkennen!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Höre"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "will reden"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ich will dich fragen"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "und lass mich erkennen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:25:32.131259784Z",
+  "model": "glm-5.2"
+}

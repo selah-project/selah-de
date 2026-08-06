@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ein mächtiger König wird aufstehen und ⟨wird⟩ eine große Herrschaft ausüben und ⟨wird⟩ nach seinem Willen handeln.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "Und ⟨er⟩ wird aufstehen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ein König"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mächtiger"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "und ⟨wird⟩ ausüben"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "eine Herrschaft"
+    },
+    {
+      "surface": "רב",
+      "gloss": "große"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "und ⟨wird⟩ handeln"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "nach seinem Willen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:38:18.245138367Z",
+  "model": "glm-5.2"
+}

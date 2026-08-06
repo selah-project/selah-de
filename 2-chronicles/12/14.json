@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und er tat das Böse, denn er richtete sein Herz nicht darauf, ⟨את⟩ JHWH zu suchen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und er tat"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "das Böse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "richtete … darauf"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sein Herz"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "zu suchen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T23:56:59.010348864Z",
+  "model": "glm-5.2"
+}

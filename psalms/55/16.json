@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Möge Verödung über sie kommen, mögen sie lebendig zum Scheol hinabfahren, denn Bosheiten ⟨sind⟩ in ihren Wohnungen, in ihrer Mitte —",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "Verödung"
+    },
+    {
+      "surface": "עָלֵ֗ימוֹ",
+      "gloss": "über sie"
+    },
+    {
+      "surface": "יֵרְד֣וּ",
+      "gloss": "mögen sie hinabfahren"
+    },
+    {
+      "surface": "שְׁא֣וֹל",
+      "gloss": "zum Scheol"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "lebendig"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "רָע֖וֹת",
+      "gloss": "Bosheiten"
+    },
+    {
+      "surface": "בִּמְגוּרָ֣ם",
+      "gloss": "in ihren Wohnungen"
+    },
+    {
+      "surface": "בְּקִרְבָּֽם",
+      "gloss": "in ihrer Mitte"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:25.338757492Z",
+  "model": "glm-5.2"
+}

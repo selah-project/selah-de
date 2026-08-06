@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim machte ⟨את⟩ die Feste und schied zwischen den Wassern, die unterhalb der Feste ⟨sind⟩, und zwischen den Wassern, die oberhalb der Feste ⟨sind⟩. Und es ward so.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֣עַשׂ",
+      "gloss": "Und machte"
+    },
+    {
+      "surface": "אֱלֹהִים֮",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Festa"
+    },
+    {
+      "surface": "הָרָקִיעַ֒",
+      "gloss": "die Feste"
+    },
+    {
+      "surface": "וַיַּבְדֵּ֗ל",
+      "gloss": "und schied"
+    },
+    {
+      "surface": "בֵּ֤ין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "הַמַּ֨יִם֙",
+      "gloss": "den Wassern"
+    },
+    {
+      "surface": "אֲשֶׁר֙",
+      "gloss": "die"
+    },
+    {
+      "surface": "מִתַּ֣חַת",
+      "gloss": "unterhalb"
+    },
+    {
+      "surface": "לָרָקִ֔יעַ",
+      "gloss": "der Feste"
+    },
+    {
+      "surface": "וּבֵ֣ין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "הַמַּ֔יִם",
+      "gloss": "den Wassern"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "מֵעַ֣ל",
+      "gloss": "oberhalb"
+    },
+    {
+      "surface": "לָרָקִ֑יעַ",
+      "gloss": "der Feste"
+    },
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "Und es ward"
+    },
+    {
+      "surface": "כֵּֽן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-08-06T00:03:14.352889914Z",
+  "model": "glm-5.2"
+}

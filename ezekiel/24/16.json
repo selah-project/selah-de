@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 24:16",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Menschensohn, siehe, ich nehme von dir ⟨את⟩ die Begierde deiner Augen durch einen Schlag, und du sollst nicht klagen und nicht weinen, und deine Träne soll nicht kommen.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨von⟩ Adam \/ ⟨des⟩ Menschen"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "siehe, ich"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nehme"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "von dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Begierde deiner Augen"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "die Begierde"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "deiner Augen"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "durch einen Schlag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תספד",
+      "gloss": "sollst ⟨du⟩ klagen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "weinen"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "soll kommen"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "deine Träne"
+    }
+  ],
+  "timestamp": "2026-08-06T06:23:02.031756324Z",
+  "model": "glm-5.2"
+}

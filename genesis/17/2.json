@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und ich werde meine Brit setzen zwischen mir und dir, und ich werde dich ⟨את⟩ sehr, sehr mehren.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Und ich werde setzen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "meine Brit"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "zwischen mir"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "und dir"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "und ich werde mehren"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "dich"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sehr,"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T08:12:48.156371807Z",
+  "model": "glm-5.2"
+}

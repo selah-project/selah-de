@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "So spricht JHWH der Heerscharen: Siehe, ich rette ⟨את⟩ mein Volk aus dem Land des Aufgangs und aus dem Land des Untergangs der Sonne.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "siehe, ich"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "rette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "des Aufgangs"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "und aus dem Land"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "des Untergangs"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    }
+  ],
+  "timestamp": "2026-08-05T22:41:44.464401945Z",
+  "model": "glm-5.2"
+}

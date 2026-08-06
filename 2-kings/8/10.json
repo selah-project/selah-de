@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Elischá sprach zu ihm: Geh, sag: ⟨Du wirst⟩ gewiss ⟨wieder⟩ gesunden! Aber JHWH hat mir gezeigt, dass er sterben wird, ⟨er⟩ wird gewiss sterben.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elischá"
+    },
+    {
+      "surface": "לך",
+      "gloss": "geh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨doch⟩ \/ nicht"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "leben"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "du wirst leben"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "und ⟨er⟩ hat ⟨es⟩ mir gezeigt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Sterben"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wird ⟨er⟩ sterben"
+    }
+  ],
+  "timestamp": "2026-08-06T20:31:12.542739895Z",
+  "model": "glm-5.2"
+}

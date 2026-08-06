@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Sebul, der Fürst der Stadt, hörte ⟨את⟩ die Worte von Gaal, dem Sohn Eweds, und sein Zorn entbrannte.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Und ⟨er⟩ hörte"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Sebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Fürst"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "געל",
+      "gloss": "von Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ewed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "und entbrannte"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sein Zorn"
+    }
+  ],
+  "timestamp": "2026-08-06T08:34:08.654375089Z",
+  "model": "glm-5.2"
+}

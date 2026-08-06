@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Meine Tage sind schneller ⟨als⟩ ein Webstoß, und sie sind zu Ende gegangen ohne Hoffnung.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "meine Tage"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sind schneller"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨als⟩"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ein Webstoß"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "und sie sind zu Ende gegangen"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "Hoffnung"
+    }
+  ],
+  "timestamp": "2026-08-06T10:35:42.696458008Z",
+  "model": "glm-5.2"
+}

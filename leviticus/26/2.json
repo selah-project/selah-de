@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "⟨את⟩ meine Schabbate sollt ihr halten, und mein Heiligtum sollt ihr fürchten — ich ⟨bin⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Schabbate"
+    },
+    {
+      "surface": "שַׁבְּתֹתַ֣י",
+      "gloss": "meine Schabbate"
+    },
+    {
+      "surface": "תִּשְׁמֹ֔רוּ",
+      "gloss": "sollt ihr halten"
+    },
+    {
+      "surface": "וּמִקְדָּשִׁ֖י",
+      "gloss": "und mein Heiligtum"
+    },
+    {
+      "surface": "תִּירָ֑אוּ",
+      "gloss": "sollt ihr fürchten"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:30:17.711778642Z",
+  "model": "glm-5.2"
+}

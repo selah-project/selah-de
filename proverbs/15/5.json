@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Ein Tor verachtet ⟨die⟩ Zucht seines Vaters, aber wer Zurechtweisung bewahrt, handelt klug.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "Ein Tor"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "verachtet"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "⟨die⟩ Zucht"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "aber wer bewahrt"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "Zurechtweisung"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "handelt klug"
+    }
+  ],
+  "timestamp": "2026-08-06T09:21:48.188073524Z",
+  "model": "glm-5.2"
+}

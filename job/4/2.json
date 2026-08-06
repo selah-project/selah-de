@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Wenn jemand ein Wort an dich wagt, wird es dich ermüden? ⟨Aber⟩ ⟨wer⟩ das Anhalten bei Worten ⟨vermag⟩ — wer vermag es?",
+  "tokens": [
+    {
+      "surface": "הֲנִסָּ֬ה",
+      "gloss": "Wenn ⟨jemand⟩ wagt"
+    },
+    {
+      "surface": "דָבָ֣ר",
+      "gloss": "ein Wort"
+    },
+    {
+      "surface": "אֵלֶ֣יךָ",
+      "gloss": "an dich"
+    },
+    {
+      "surface": "תִּלְאֶ֑ה",
+      "gloss": "wird ⟨es dich⟩ ermüden"
+    },
+    {
+      "surface": "וַעְצֹ֥ר",
+      "gloss": "⟨Aber⟩ ⟨wer⟩ das Anhalten"
+    },
+    {
+      "surface": "בְּמִלִּ֗ין",
+      "gloss": "bei Worten"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יוּכָֽל",
+      "gloss": "vermag es"
+    }
+  ],
+  "timestamp": "2026-08-06T06:59:41.118308366Z",
+  "model": "glm-5.2"
+}

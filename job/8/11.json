@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Wächst Papyrus ohne Sumpf? Gedeiht Schilfgras ohne Wasser?",
+  "tokens": [
+    {
+      "surface": "הֲיִגְאֶה",
+      "gloss": "Wächst"
+    },
+    {
+      "surface": "גֹּמֶא",
+      "gloss": "Papyrus"
+    },
+    {
+      "surface": "בְלֹא",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "בִצָּה",
+      "gloss": "Sumpf"
+    },
+    {
+      "surface": "יִשְׂגֶה",
+      "gloss": "Gedeiht"
+    },
+    {
+      "surface": "אָחוּ",
+      "gloss": "Schilfgras"
+    },
+    {
+      "surface": "בְלִי",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "מָיִם",
+      "gloss": "Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T04:33:06.821374251Z",
+  "model": "glm-5.2"
+}

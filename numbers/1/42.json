@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Die Söhne Naftalis, ihre Geschlechter nach ihren Sippen, nach dem Haus ihrer Väter, in der Zahl der Namen, von zwanzig Jahren und darüber, jeder, der zum Heer auszieht —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalis"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ihre Geschlechter"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nach ihren Sippen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nach dem Haus"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ihrer Väter"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "in der Zahl"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "der Namen"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "von"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zwanzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "und darüber"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "der auszieht"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "zum Heer"
+    }
+  ],
+  "timestamp": "2026-08-06T02:14:51.652462766Z",
+  "model": "glm-5.2"
+}

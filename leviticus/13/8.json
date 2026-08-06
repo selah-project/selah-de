@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und der Kohen sieht ⟨hin⟩, und siehe, die Mispachat hat sich ausgebreitet in der Haut, dann erklärt der Kohen ihn für unrein: Zaraat ist es.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Und sieht"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "hat sich ausgebreitet"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "die Mispachat"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "in der Haut"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "dann erklärt er ihn für unrein"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "Zaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist es"
+    }
+  ],
+  "timestamp": "2026-08-06T22:34:30.894711233Z",
+  "model": "glm-5.2"
+}

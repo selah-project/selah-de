@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Erhebe ⟨את⟩ den Kopf der Söhne Gerschons, auch sie, nach dem Haus ihrer Väter, nach ihren Sippen —",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Erhebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Kopf"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Kopf"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerschons"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nach dem Haus"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ihrer Väter"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nach ihren Sippen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:15:23.500082465Z",
+  "model": "glm-5.2"
+}

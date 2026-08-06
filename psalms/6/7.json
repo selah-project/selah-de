@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Ich bin erschöpft von meinem Seufzen, jede Nacht schwemme ich mein Bett, mit meinen Tränen löse ich mein Lager auf.",
+  "tokens": [
+    {
+      "surface": "יָגַ֤עְתִּי",
+      "gloss": "Ich bin erschöpft"
+    },
+    {
+      "surface": "בְּֽאַנְחָתִ֗י",
+      "gloss": "von meinem Seufzen"
+    },
+    {
+      "surface": "אַשְׂחֶ֣ה",
+      "gloss": "schwemme ich"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "jede"
+    },
+    {
+      "surface": "לַיְלָה",
+      "gloss": "Nacht"
+    },
+    {
+      "surface": "מִטָּתִ֑י",
+      "gloss": "mein Bett"
+    },
+    {
+      "surface": "בְּ֝דִמְעָתִ֗י",
+      "gloss": "mit meinen Tränen"
+    },
+    {
+      "surface": "עַרְשִׂ֥י",
+      "gloss": "mein Lager"
+    },
+    {
+      "surface": "אַמְסֶֽה",
+      "gloss": "löse ich auf"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:20.391767230Z",
+  "model": "glm-5.2"
+}

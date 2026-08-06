@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ich will ⟨doch⟩ aufstehen, nun, und umhergehen in der Stadt, in den Gassen und auf den Plätzen; ich will ⟨את⟩ den suchen, den meine Nefesch liebt — ich suchte ihn und fand ihn nicht.",
+  "tokens": [
+    {
+      "surface": "אָקוּמָה נָּא",
+      "gloss": "ich will ⟨doch⟩ aufstehen, nun"
+    },
+    {
+      "surface": "וַאֲסוֹבְבָה",
+      "gloss": "und umhergehen"
+    },
+    {
+      "surface": "בָּעִיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "בַּשְּׁוָקִים",
+      "gloss": "in den Gassen"
+    },
+    {
+      "surface": "וּבָרְחֹבוֹת",
+      "gloss": "und auf den Plätzen"
+    },
+    {
+      "surface": "אֲבַקְשָׁה",
+      "gloss": "ich will suchen"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "den, den meine Nefesch liebt"
+    },
+    {
+      "surface": "שֶׁאָהֲבָה",
+      "gloss": "den … liebt"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "בִּקַּשְׁתִּיו",
+      "gloss": "ich suchte ihn"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "מְצָאתִיו",
+      "gloss": "fand ich ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T07:06:04.713817867Z",
+  "model": "glm-5.2"
+}

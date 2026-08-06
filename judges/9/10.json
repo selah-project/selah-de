@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨die⟩ Bäume sagten zum Feigenbaum: Geh, ⟨du⟩, herrsche über uns!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sagten"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "die Bäume"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "zum Feigenbaum"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "geh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "herrsche"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "über uns"
+    }
+  ],
+  "timestamp": "2026-08-06T20:22:06.446395765Z",
+  "model": "glm-5.2"
+}

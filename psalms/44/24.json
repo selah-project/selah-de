@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Wach auf! Warum schläfst du, Adonai? ⟨Erwache!⟩ Verwirf uns nicht für immer!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Wach auf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "warum"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "schläfst du"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "⟨Erwache!⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "verwirf"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "für immer"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:30.580576152Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und JHWH, euer Elohim, ⟨er⟩ wird sie von eurem Angesicht wegstoßen und sie ⟨את⟩ vor euch vertreiben, und ihr werdet ⟨את⟩ ihr Land in Besitz nehmen, so wie JHWH, euer Elohim, zu euch geredet hat.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Und JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "wird sie wegstoßen"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "von eurem Angesicht"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "und vertreiben"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Nationen)"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "und ihr werdet in Besitz nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ihr Land"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geredet hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "zu euch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:54:41.200339027Z",
+  "model": "glm-5.2"
+}

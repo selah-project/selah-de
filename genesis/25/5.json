@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und Awraham gab ⟨את⟩ alles, was ihm ⟨gehörte⟩, Jizchak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles, was ihm gehörte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "dem Jizchak"
+    }
+  ],
+  "timestamp": "2026-08-05T17:35:19.676077048Z",
+  "model": "glm-5.2"
+}

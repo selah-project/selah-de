@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "JHWH, euer Elohim, der vor euch hergeht, ⟨er⟩ wird für euch kämpfen, gemäß allem, was er mit euch in Mizrajim vor euren Augen getan hat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "der da geht"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "vor euch her"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "wird kämpfen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gemäß allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er getan hat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "mit euch"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mizrajim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "vor euren Augen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:04.488752423Z",
+  "model": "glm-5.2"
+}

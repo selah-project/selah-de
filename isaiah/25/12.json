@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und ⟨die⟩ Feste ⟨der⟩ Höhe deiner Mauern — niedergestürzt hat er, erniedrigt, zu Boden gebracht bis zum Staub.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "und ⟨die⟩ Feste"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "⟨der⟩ Höhe"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "deiner Mauern"
+    },
+    {
+      "surface": "השח",
+      "gloss": "niedergestürzt hat er"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "erniedrigt"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "zu Boden gebracht"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bis zur Erde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "zum Staub"
+    }
+  ],
+  "timestamp": "2026-08-05T21:47:29.526265122Z",
+  "model": "glm-5.2"
+}

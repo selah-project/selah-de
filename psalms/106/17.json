@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Die Erde tat sich auf und verschlang ⟨את⟩ Datan, und sie bedeckte die Versammlung von Awiram.",
+  "tokens": [
+    {
+      "surface": "תִּפְתַּח",
+      "gloss": "tat sich auf"
+    },
+    {
+      "surface": "אֶ֭רֶץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "וַתִּבְלַ֣ע",
+      "gloss": "und verschlang"
+    },
+    {
+      "surface": "דָּתָ֑ן",
+      "gloss": "⟨את⟩ Datan",
+      "marks": "Datan"
+    },
+    {
+      "surface": "וּתְכַ֗ס",
+      "gloss": "und sie bedeckte"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "עֲדַ֥ת",
+      "gloss": "die Versammlung"
+    },
+    {
+      "surface": "אֲבִירָֽם",
+      "gloss": "von Awiram"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:50.499171284Z",
+  "model": "glm-5.2"
+}

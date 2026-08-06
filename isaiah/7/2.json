@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨es wurde⟩ dem Haus Dawids berichtet, das sagte: „Aram ist gegen Efraim gezogen.“ Da zitterte sein Herz und das Herz seines Volkes wie das Zittern der Waldbäume vor dem Wind.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "und ⟨es wurde⟩ berichtet"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "dem Haus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "das sagte"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "ist gezogen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "und da zitterte"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sein Herz"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "und das Herz"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "seines Volkes"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "wie das Zittern"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "der Bäume"
+    },
+    {
+      "surface": "יער",
+      "gloss": "des Waldes"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dem Wind"
+    }
+  ],
+  "timestamp": "2026-08-06T19:43:06.113822070Z",
+  "model": "glm-5.2"
+}

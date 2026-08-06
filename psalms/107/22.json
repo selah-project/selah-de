@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Und sie sollen Schlachtopfer des Dankes opfern und seine Taten erzählen mit Jubel.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Und sie sollen opfern"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "Schlachtopfer"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "des Dankes"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "und erzählen"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "seine Taten"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "mit Jubel"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:03.765328790Z",
+  "model": "glm-5.2"
+}

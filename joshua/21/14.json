@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "und ⟨את⟩ Jattir und ⟨את⟩ seine Weideflächen, und ⟨את⟩ Eschtemoa und ⟨את⟩ seine Weideflächen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Jattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weideflächen"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seine Weideflächen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Eschtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eschtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weideflächen"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seine Weideflächen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:58:22.271665095Z",
+  "model": "glm-5.2"
+}

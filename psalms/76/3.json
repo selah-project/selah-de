@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 76,
+  "translation": "Und ⟨es war⟩ in Schalem seine Hütte und seine Wohnung in Tzion.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und ⟨es war⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "in Schalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "seine Hütte"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "und seine Wohnung"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tzion"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:25.248411803Z",
+  "model": "glm-5.2"
+}

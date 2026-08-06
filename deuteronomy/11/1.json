@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und du sollst JHWH, deinen Elohim, lieben, ⟨und⟩ sollst seine Wachhaltung halten und seine Ordnungen und seine Rechtsbestimmungen und seine Gebote alle Tage.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "und du sollst lieben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH, deinen Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "und sollst halten"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "seine Wachhaltung"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "und seine Ordnungen"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "und seine Rechtsbestimmungen"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "und seine Gebote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-05T20:45:31.134616760Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und nun, JHWH, nimm doch ⟨את⟩ meine Nefesch von mir, denn mein Tod ist besser als mein Leben.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "קח",
+      "gloss": "nimm"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Nefesch"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "besser"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ist mein Tod"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "als mein Leben"
+    }
+  ],
+  "timestamp": "2026-08-06T04:01:25.134021883Z",
+  "model": "glm-5.2"
+}

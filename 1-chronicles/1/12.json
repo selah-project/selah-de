@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "und ⟨את⟩ die Patrussim und ⟨את⟩ die Kasluchim, von denen die Pelischtim ausgingen, und ⟨את⟩ die Kaptorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Patrussim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "die Patrussim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "die Kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "von denen"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ausgingen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Kaptorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "die Kaptorim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:45:40.005548421Z",
+  "model": "glm-5.2"
+}

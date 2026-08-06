@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Seht, ich lege heute vor euch hin ⟨den⟩ Segen und ⟨den⟩ Fluch:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "seht"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "lege hin"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "Segen"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "und Fluch"
+    }
+  ],
+  "timestamp": "2026-08-05T20:45:43.041145316Z",
+  "model": "glm-5.2"
+}

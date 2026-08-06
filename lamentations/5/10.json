@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Unsere Haut hat sich zusammengeschrumpft ⟨wie⟩ ein Ofen, wegen der Gluten des Hungers.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "Unsere Haut"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "wie ein Ofen"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "hat sich zusammengeschrumpft"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "der Gluten"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "des Hungers"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:14.887318978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 8:28",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er ging ⟨mit⟩ ⟨את⟩ Joram, Sohn des Achaw, zum Krieg gegen Chasael, König von Aram, in Ramot-Gil'ad. Und die Aramäer schlugen ⟨את⟩ Joram.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Und er ging"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "mit Joram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "des Achaw"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "zum Krieg"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chasael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "von Aram"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "in Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "Und sie schlugen"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "die Aramäer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    }
+  ],
+  "timestamp": "2026-08-05T21:36:06.595705043Z",
+  "model": "glm-5.2"
+}

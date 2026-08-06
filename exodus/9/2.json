@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Denn wenn du dich weigerst ⟨sie⟩ zu entlassen, und du ⟨sie⟩ noch festhältst —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "du dich weigerst"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "zu entlassen"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "und du noch"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "festhältst"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sie"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:12.820098561Z",
+  "model": "glm-5.2"
+}

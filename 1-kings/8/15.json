@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er sagte: „Gesegnet ⟨sei⟩ JHWH, ⟨der⟩ Elohim Jisraels, der ⟨es⟩ mit seinem Mund geredet ⟨hat⟩ ⟨über⟩ ⟨את⟩ Dawid, meinen Vater, und mit seiner Hand erfüllt ⟨hat⟩, indem ⟨er⟩ sprach:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "gesegnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geredet hat"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mit seinem Mund"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meinen Vater"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "und mit seiner Hand"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "erfüllt hat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem er sprach"
+    }
+  ],
+  "timestamp": "2026-08-06T01:23:39.133188721Z",
+  "model": "glm-5.2"
+}

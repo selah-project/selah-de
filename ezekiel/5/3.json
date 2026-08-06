@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und du sollst von dort nehmen eine kleine Anzahl, gezählt, und sie einbinden in deine Flügel〈saumborte〉.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Und du sollst nehmen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "eine kleine Anzahl"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "gezählt"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "und ⟨sie⟩ einbinden"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "in deine Flügel"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "in deine Flügel"
+    }
+  ],
+  "timestamp": "2026-08-06T09:01:54.991337462Z",
+  "model": "glm-5.2"
+}

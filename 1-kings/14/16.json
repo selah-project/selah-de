@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und er wird ⟨את⟩ Jisra'el dahingeben wegen der Sünden Jarobams, die er beging und mit denen er ⟨את⟩ Jisra'el sündigen ließ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Und er wird dahingeben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "der Sünden"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobams"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "er beging"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "und mit denen"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "er sündigen ließ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:40.548987027Z",
+  "model": "glm-5.2"
+}

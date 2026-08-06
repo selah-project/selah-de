@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und noch eine kleine Weile, und ⟨es gibt keinen⟩ Frevler, und du schaust nach seiner Stätte — und ⟨er ist⟩ nicht ⟨da⟩.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "und noch"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "eine kleine Weile"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es gibt keinen⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Frevler"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "und du schaust"
+    },
+    {
+      "surface": "על",
+      "gloss": "nach"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "seiner Stätte"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "und ⟨er ist⟩ nicht ⟨da⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:52.362683637Z",
+  "model": "glm-5.2"
+}

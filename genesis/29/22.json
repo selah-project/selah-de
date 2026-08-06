@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und Lawan versammelte ⟨את⟩ alle Männer des Ortes und machte ein Gastmahl.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "und versammelte"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Männer des Ortes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "des Ortes"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "und machte"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ein Gastmahl"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:41.151856436Z",
+  "model": "glm-5.2"
+}

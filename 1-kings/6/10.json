@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und er baute ⟨את⟩ den Anbau am ganzen Haus, fünf Ellen seine Höhe, und er erfasste ⟨את⟩ das Haus mit Zedernholz.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Und er baute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Anbau"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "den Anbau"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨dem⟩ Haus"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "seine Höhe"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "und er erfasste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "mit Holz von"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "Zedern"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:25.881466452Z",
+  "model": "glm-5.2"
+}

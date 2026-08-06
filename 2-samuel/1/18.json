@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 1:18",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨er⟩ sagte, ⟨man solle⟩ die Söhne Jehudas ⟨das⟩ Bogenschießen lehren. Siehe, ⟨sie ist⟩ geschrieben im Buch des Jaschar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "⟨man solle⟩ lehren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "⟨das⟩ Bogen(schießen)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "⟨sie ist⟩ geschrieben"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Buch"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "des Jaschar"
+    }
+  ],
+  "timestamp": "2026-08-06T02:48:10.844202513Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Denn gerade ⟨ist⟩ das Wort JHWHs, und all sein Tun ⟨ist⟩ in Emut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "gerade"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "sein Tun"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "in Emut"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:32.073748056Z",
+  "model": "glm-5.2"
+}

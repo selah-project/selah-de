@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH Elohim gebot dem Menschen und sprach: „Von jedem Baum des Gartens darfst du essen — essen sollst du!",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "und gebot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "von jedem"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "Baum"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "des Gartens"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "essen"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sollst du essen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:12:19.844954297Z",
+  "model": "glm-5.2"
+}

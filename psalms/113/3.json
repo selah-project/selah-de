@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 113,
+  "translation": "Vom Aufgang der Sonne bis zu ⟨ihrem⟩ Eingang — gelobt ⟨ist⟩ der Name JHWHs.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "vom Aufgang"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "⟨ihrem⟩ Eingang"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "gelobt ⟨ist⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der Name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:20.499167281Z",
+  "model": "glm-5.2"
+}

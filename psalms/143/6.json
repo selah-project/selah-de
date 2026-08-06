@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 143,
+  "translation": "Ich breitete aus meine Hände zu dir, meine Nefesch ⟨ist⟩ wie ein erschöpftes Land — dir ⟨gehört sie⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Ich breitete aus"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "meine Hände"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "wie ein Land"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "erschöpftes"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:41.568639478Z",
+  "model": "glm-5.2"
+}

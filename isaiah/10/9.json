@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Ist ⟨es⟩ nicht wie Karkemisch, Kalno? Ist ⟨es⟩ nicht wie Arpad, Chamat? Ist ⟨es⟩ nicht wie Damascus, Schomron?",
+  "tokens": [
+    {
+      "surface": "הֲלֹ֥א",
+      "gloss": "Ist ⟨es⟩ nicht"
+    },
+    {
+      "surface": "כְּכַרְכְּמִ֖ישׁ",
+      "gloss": "wie Karkemisch"
+    },
+    {
+      "surface": "כַּלְנ֑וֹ",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "Ist"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "כְאַרְפַּד֙",
+      "gloss": "wie Arpad"
+    },
+    {
+      "surface": "חֲמָ֔ת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "Ist"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "כְדַמֶּ֖שֶׂק",
+      "gloss": "wie Damascus"
+    },
+    {
+      "surface": "שֹׁמְרֽוֹן",
+      "gloss": "Schomron"
+    }
+  ],
+  "timestamp": "2026-08-06T01:41:08.431116931Z",
+  "model": "glm-5.2"
+}

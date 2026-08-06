@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und er gab ⟨sein⟩ Volk dem Schwert preis und über seiner Erbenschaft entbrannte er.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "und er gab preis"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "dem Schwert"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "und über seiner Erbenschaft"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "entbrannte er"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:18.124913443Z",
+  "model": "glm-5.2"
+}

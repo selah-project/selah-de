@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und er spannte ⟨את⟩ seinen Wagen an und nahm ⟨את⟩ sein Volk mit sich.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "und er spannte an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Wagen"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "seinen Wagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein Volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nahm"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit sich"
+    }
+  ],
+  "timestamp": "2026-08-06T08:18:44.784306886Z",
+  "model": "glm-5.2"
+}

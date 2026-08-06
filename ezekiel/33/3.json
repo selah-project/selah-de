@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "und er sieht ⟨את⟩ das Schwert kommen über das Land und stößt in den Schofar und warnt ⟨את⟩ das Volk —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "und er sieht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Schwert"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "das Schwert"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kommen"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "und stößt"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "in den Schofar"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "und warnt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T03:52:44.034287713Z",
+  "model": "glm-5.2"
+}

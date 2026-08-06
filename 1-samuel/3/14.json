@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und deshalb habe ich dem Haus Eli geschworen: Wenn die Schuld des Hauses Eli gesühnt wird durch Schlachtopfer und durch Speisegabe — ⟨dann geschieht es⟩ für immer ⟨nicht⟩.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "und deshalb"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "habe ich geschworen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "dem Haus"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "gesühnt wird"
+    },
+    {
+      "surface": "עון",
+      "gloss": "die Schuld"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "durch Schlachtopfer"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "und durch Speisegabe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "für"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "immer"
+    }
+  ],
+  "timestamp": "2026-08-06T01:02:39.243789767Z",
+  "model": "glm-5.2"
+}

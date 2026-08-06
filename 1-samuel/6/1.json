@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ⟨die⟩ Lade JHWHs war im Feld der Pelischtim sieben Monate.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ war"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨die⟩ Lade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "im Feld"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "Monate"
+    }
+  ],
+  "timestamp": "2026-08-06T01:04:07.392433668Z",
+  "model": "glm-5.2"
+}

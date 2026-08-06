@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Die Emim wohnten früher darin, ein großes und zahlreiches und hohes Volk wie die Anakim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Die Emim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "früher"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wohnten"
+    },
+    {
+      "surface": "בה",
+      "gloss": "darin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "großes"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "und zahlreiches"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "und hohes"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "wie die Anakim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:10.046172014Z",
+  "model": "glm-5.2"
+}

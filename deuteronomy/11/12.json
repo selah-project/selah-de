@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "⟨ein⟩ Land, das JHWH, dein Elohim, ⟨את⟩ sie sucht, beständig — die Augen JHWHs, deines Elohim, ⟨sind⟩ auf ihr, vom Anfang des Jahres bis zum Ende des Jahres.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "⟨ein⟩ Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "sucht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständig"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "die Augen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deines Elohim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "auf ihr"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "vom Anfang"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "des Jahres"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und bis"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "zum Ende"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨des⟩ Jahres"
+    }
+  ],
+  "timestamp": "2026-08-06T09:53:16.229897128Z",
+  "model": "glm-5.2"
+}

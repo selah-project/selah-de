@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Ein Gerechter isst zur Sättigung seiner Nefesch, aber der Bauch der Frevler ⟨wird⟩ Mangel ⟨leiden⟩.",
+  "tokens": [
+    {
+      "surface": "צַדִּיק",
+      "gloss": "Ein Gerechter"
+    },
+    {
+      "surface": "אֹכֵל",
+      "gloss": "isst"
+    },
+    {
+      "surface": "לְשֹׂבַע",
+      "gloss": "zur Sättigung"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "seiner Nefesch"
+    },
+    {
+      "surface": "וּבֶטֶן",
+      "gloss": "aber der Bauch"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "תֶּחְסָר",
+      "gloss": "⟨wird⟩ Mangel ⟨leiden⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:44.086887585Z",
+  "model": "glm-5.2"
+}

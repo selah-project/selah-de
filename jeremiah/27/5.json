@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Ich ⟨bin es⟩, ich habe ⟨את⟩ die Erde gemacht, ⟨את⟩ den Menschen und ⟨את⟩ das Vieh, das auf der Fläche der Erde ⟨ist⟩, mit meiner großen Kraft und mit meinem ausgestreckten Arm, und ich gebe sie dem, der recht ist in meinen Augen.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "habe gemacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Menschen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Vieh"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "das Vieh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פני",
+      "gloss": "der Fläche"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "mit meiner Kraft"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "der großen"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "und mit meinem Arm"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "dem ausgestreckten"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "und ich gebe sie"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "dem, der"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "recht ist"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in meinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:07:45.741427512Z",
+  "model": "glm-5.2"
+}

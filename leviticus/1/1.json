@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und er rief zu Mosche, und JHWH redete zu ihm aus dem Zelt der Begegnung, indem ⟨er sprach⟩:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "und er rief"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "und ⟨er⟩ redete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "aus dem Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨er sprach⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T08:20:25.850274526Z",
+  "model": "glm-5.2"
+}

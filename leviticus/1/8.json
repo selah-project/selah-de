@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und die Söhne Aharons, die Kohen, sollen ⟨את⟩ die Stücke schichten, ⟨את⟩ den Kopf und ⟨את⟩ das Fett, auf das Holz, das auf dem Feuer ⟨ist⟩, das auf dem Altar ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "und sie sollen schichten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stücke"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "die Stücke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Kopf"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "den Kopf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Fett"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "das Fett"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "das Holz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dem Feuer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dem Altar"
+    }
+  ],
+  "timestamp": "2026-08-06T00:23:25.891854515Z",
+  "model": "glm-5.2"
+}

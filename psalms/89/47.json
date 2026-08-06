@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Bis wann, JHWH, wirst du dich ⟨dich⟩ verbergen für immer? Wird deine Glut brennen wie Feuer?",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "מָ֣ה",
+      "gloss": "wann"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תִּסָּתֵ֣ר",
+      "gloss": "wirst du verbergen"
+    },
+    {
+      "surface": "לָנֶ֑צַח",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "תִּבְעַ֖ר",
+      "gloss": "Wird brennen"
+    },
+    {
+      "surface": "כְּמ֣וֹ",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "חֲמָתֶֽךָ",
+      "gloss": "deine Glut"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:43.681797688Z",
+  "model": "glm-5.2"
+}

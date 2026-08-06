@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Schlacke — ⟨sie⟩ hast du beseitigt, alle Frevler der Erde; darum liebe ich deine Zeugnisse.",
+  "tokens": [
+    {
+      "surface": "סִגִ֗ים",
+      "gloss": "Schlacke"
+    },
+    {
+      "surface": "הִשְׁבַּ֥תָּ",
+      "gloss": "hast du beseitigt"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רִשְׁעֵי",
+      "gloss": "Frevler"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "לָ֝כֵ֗ן",
+      "gloss": "darum"
+    },
+    {
+      "surface": "אָהַ֥בְתִּי",
+      "gloss": "liebe ich"
+    },
+    {
+      "surface": "עֵדֹתֶֽיךָ",
+      "gloss": "deine Zeugnisse"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:28.305776196Z",
+  "model": "glm-5.2"
+}

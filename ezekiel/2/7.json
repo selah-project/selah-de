@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und du sollst ⟨את⟩ meine Worte zu ihnen sprechen, ob sie hören oder ob sie es lassen — denn ein rebellisches ⟨Haus⟩ sind sie.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "und du sollst sprechen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "meine Worte"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "sie hören"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "oder ob"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "sie es lassen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "rebellisch"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sind sie"
+    }
+  ],
+  "timestamp": "2026-08-06T09:01:39.805435899Z",
+  "model": "glm-5.2"
+}

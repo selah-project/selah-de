@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Dein Chessed sei, JHWH, über uns, wie wir auf dich hoffen.",
+  "tokens": [
+    {
+      "surface": "יְהִֽי",
+      "gloss": "sei"
+    },
+    {
+      "surface": "חַסְדְּךָ֣",
+      "gloss": "Dein Chessed"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עָלֵ֑ינוּ",
+      "gloss": "über uns"
+    },
+    {
+      "surface": "כַּ֝אֲשֶׁ֗ר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יִחַ֥לְנוּ",
+      "gloss": "wir hoffen"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "auf dich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:23.664917612Z",
+  "model": "glm-5.2"
+}

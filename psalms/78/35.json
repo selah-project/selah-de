@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und sie gedachten, dass Elohim ihr Fels ⟨war⟩, und El Eljon ihr Goel.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּזְכְּרוּ",
+      "gloss": "Und sie gedachten"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוּרָם",
+      "gloss": "ihr Fels"
+    },
+    {
+      "surface": "וְאֵל",
+      "gloss": "und El"
+    },
+    {
+      "surface": "עֶלְיוֹן",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "גֹּאֲלָם",
+      "gloss": "ihr Goel"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:17.761919317Z",
+  "model": "glm-5.2"
+}

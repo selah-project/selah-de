@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 141,
+  "translation": "Steh gefestigt, mein Gebet, als Räucherwerk vor dein Angesicht, das Erheben meiner Hände als Abend-Mincha.",
+  "tokens": [
+    {
+      "surface": "תִּכּ֤וֹן",
+      "gloss": "Steh gefestigt"
+    },
+    {
+      "surface": "תְפִלָּתִ֣י",
+      "gloss": "mein Gebet"
+    },
+    {
+      "surface": "קְטֹ֣רֶת",
+      "gloss": "als Räucherwerk"
+    },
+    {
+      "surface": "לְפָנֶ֑יךָ",
+      "gloss": "vor dein Angesicht"
+    },
+    {
+      "surface": "מַֽשְׂאַ֥ת",
+      "gloss": "das Erheben"
+    },
+    {
+      "surface": "כַּ֝פַּ֗י",
+      "gloss": "meiner Hände"
+    },
+    {
+      "surface": "מִנְחַת",
+      "gloss": "als Mincha"
+    },
+    {
+      "surface": "עָֽרֶב",
+      "gloss": "Abend-"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:36.249305844Z",
+  "model": "glm-5.2"
+}

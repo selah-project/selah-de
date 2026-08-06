@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 1:5",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Wacht auf, Trunkene, und weint, und heult, alle ihr Weintrinker, über ⟨den⟩ Most, denn er ist weggeschnitten von eurem Mund!",
+  "tokens": [
+    {
+      "surface": "הָקִ֤יצוּ",
+      "gloss": "Wacht auf"
+    },
+    {
+      "surface": "שִׁכּוֹרִים֙",
+      "gloss": "Trunkene"
+    },
+    {
+      "surface": "וּבְכ֔וּ",
+      "gloss": "und weint"
+    },
+    {
+      "surface": "וְהֵילִ֖לוּ",
+      "gloss": "und heult"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שֹׁ֣תֵי",
+      "gloss": "Trinker"
+    },
+    {
+      "surface": "יָ֑יִן",
+      "gloss": "des Weins"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "עָסִ֕יס",
+      "gloss": "⟨den⟩ Most"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נִכְרַ֖ת",
+      "gloss": "er ist weggeschnitten"
+    },
+    {
+      "surface": "מִפִּיכֶֽם",
+      "gloss": "von eurem Mund"
+    }
+  ],
+  "timestamp": "2026-08-05T22:33:17.531300936Z",
+  "model": "glm-5.2"
+}

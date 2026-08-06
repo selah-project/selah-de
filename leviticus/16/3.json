@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Hiermit soll Aharon ⟨in⟩ das Heiligtum kommen: mit einem Stier, einem Sohn des Rindviehs, als Chattat und mit einem Widder als Ola.",
+  "tokens": [
+    {
+      "surface": "בְּזֹ֛את",
+      "gloss": "Hiermit"
+    },
+    {
+      "surface": "יָבֹ֥א",
+      "gloss": "soll kommen"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨in⟩"
+    },
+    {
+      "surface": "הַקֹּ֑דֶשׁ",
+      "gloss": "das Heiligtum"
+    },
+    {
+      "surface": "בְּפַ֧ר",
+      "gloss": "mit einem Stier"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "einem Sohn"
+    },
+    {
+      "surface": "בָּקָ֛ר",
+      "gloss": "des Rindviehs"
+    },
+    {
+      "surface": "לְחַטָּ֖את",
+      "gloss": "als Chattat"
+    },
+    {
+      "surface": "וְאַ֥יִל",
+      "gloss": "und ⟨mit⟩ einem Widder"
+    },
+    {
+      "surface": "לְעֹלָֽה",
+      "gloss": "als Ola"
+    }
+  ],
+  "timestamp": "2026-08-06T15:40:08.570995813Z",
+  "model": "glm-5.2"
+}

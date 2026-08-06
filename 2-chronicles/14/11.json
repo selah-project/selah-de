@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und JHWH schlug ⟨את⟩ die Kuschiter vor Asa und vor Jehuda, und die Kuschiter flohen.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Und schlug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kuschiter"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "die Kuschiter"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "und vor"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "und flohen"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "die Kuschiter"
+    }
+  ],
+  "timestamp": "2026-08-06T07:26:40.143168154Z",
+  "model": "glm-5.2"
+}

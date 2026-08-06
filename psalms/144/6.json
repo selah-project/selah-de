@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 144,
+  "translation": "Blitze den Blitz, und zerstreue sie, sende deine Pfeile, und verwirre sie.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Blitze"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "den Blitz"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "und zerstreue sie"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sende"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "deine Pfeile"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "und verwirre sie"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:34.367373488Z",
+  "model": "glm-5.2"
+}

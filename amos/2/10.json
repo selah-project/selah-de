@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨ich⟩ — ich führte euch herauf aus dem Land Mizrajim und leitete euch ⟨אתכם⟩ ⟨durch⟩ die Wüste vierzig Jahre, um ⟨את⟩ das Land des Emori in Besitz zu nehmen.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "führte ich herauf"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "euch (von Mizrajim herauf)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "und leitete"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "euch (durch die Wüste)"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "vierzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "um … in Besitz zu nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land des Emori"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "des Emori"
+    }
+  ],
+  "timestamp": "2026-08-06T06:31:27.750132987Z",
+  "model": "glm-5.2"
+}

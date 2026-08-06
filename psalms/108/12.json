@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 108,
+  "translation": "Hast du nicht, Elohim, uns verstoßen, und ⟨gehst⟩ nicht aus, Elohim, mit unseren Heeren?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hast ⟨du⟩ nicht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "uns verstoßen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨gehst⟩ nicht"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "aus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "mit unseren Heeren"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:34.835852230Z",
+  "model": "glm-5.2"
+}

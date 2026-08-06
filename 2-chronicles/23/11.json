@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 23:11",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und sie führten ⟨את⟩ den Sohn des Königs heraus und legten auf ihn ⟨את⟩ die Krone und ⟨את⟩ das Zeugnis, und sie machten ihn zum König, und Jehojada und seine Söhne salbten ihn. Und sie riefen: „Es lebe der König!“",
+  "tokens": [
+    {
+      "surface": "ויוציאו",
+      "gloss": "und sie führten heraus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Sohn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den Sohn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "und sie legten"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Krone"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "die Krone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Zeugnis"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "das Zeugnis"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "und sie machten zum König"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "und sie salbten ihn"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "und sie riefen"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "es lebe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    }
+  ],
+  "timestamp": "2026-08-05T23:59:07.543504675Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Darum ⟨verwerfe ich mich⟩ und lasse mich trösten über Staub und Asche.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "Darum"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "אֶמְאַ֣ס",
+      "gloss": "⟨verwerfe ich mich⟩"
+    },
+    {
+      "surface": "וְנִחַ֑מְתִּי",
+      "gloss": "und lasse mich trösten"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "עָפָ֥ר",
+      "gloss": "Staub"
+    },
+    {
+      "surface": "וָאֵֽפֶר",
+      "gloss": "und Asche"
+    }
+  ],
+  "timestamp": "2026-08-06T07:05:34.908544492Z",
+  "model": "glm-5.2"
+}

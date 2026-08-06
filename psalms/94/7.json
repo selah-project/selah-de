@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "Und sie sagten: „Nicht sieht Jah, und nicht versteht ⟨der⟩ Elohim Jaakows.“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sie sagten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sieht"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "versteht"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨der⟩ Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakows"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:27.150967945Z",
+  "model": "glm-5.2"
+}

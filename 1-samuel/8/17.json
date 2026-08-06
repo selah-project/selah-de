@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Euer Kleinvieh wird er verzehnten, und ihr werdet ihm zu Knechten ⟨sein⟩.",
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "euer Kleinvieh"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "wird er verzehnten"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "und ihr"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "werdet ⟨sein⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "zu Knechten"
+    }
+  ],
+  "timestamp": "2026-08-05T21:08:51.655790184Z",
+  "model": "glm-5.2"
+}

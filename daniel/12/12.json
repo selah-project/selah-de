@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Glückselig ⟨der⟩, ⟨der⟩ ausharrt und ⟨die⟩ tausenddreihundertfünfunddreißig Tage erreicht.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Glückselig"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "⟨der⟩, ⟨der⟩ ausharrt"
+    },
+    {
+      "surface": "ומגיע",
+      "gloss": "und erreicht"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "⟨die⟩ … Tage"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dreißig"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "undfünf"
+    }
+  ],
+  "timestamp": "2026-08-05T23:37:30.634881970Z",
+  "model": "glm-5.2"
+}

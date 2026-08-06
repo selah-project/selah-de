@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Jeder Kluge handelt mit Wissen, und ein Tor breitet Torheit aus.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "Jeder"
+    },
+    {
+      "surface": "עָ֭רוּם",
+      "gloss": "Kluge"
+    },
+    {
+      "surface": "יַעֲשֶׂ֣ה",
+      "gloss": "handelt"
+    },
+    {
+      "surface": "בְדָ֑עַת",
+      "gloss": "mit Wissen"
+    },
+    {
+      "surface": "וּ֝כְסִ֗יל",
+      "gloss": "und ein Tor"
+    },
+    {
+      "surface": "יִפְרֹ֥שׂ",
+      "gloss": "breitet aus"
+    },
+    {
+      "surface": "אִוֶּֽלֶת",
+      "gloss": "Torheit"
+    }
+  ],
+  "timestamp": "2026-08-06T09:21:53.422153230Z",
+  "model": "glm-5.2"
+}

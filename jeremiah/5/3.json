@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "JHWH, ⟨sind⟩ deine Augen nicht ⟨auf⟩ Treue ⟨gerichtet⟩? Du hast ⟨את⟩ sie geschlagen, aber sie wurden nicht krank; du hast sie vernichtet, aber sie weigerten sich, Zucht anzunehmen. Sie haben ihre Gesichter härter gemacht als Fels; sie weigerten sich, umzukehren.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "deine Augen"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nicht ⟨?⟩"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "Treue"
+    },
+    {
+      "surface": "הכיתה",
+      "gloss": "du hast geschlagen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "wurden krank"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "du hast vernichtet"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "sie weigerten sich"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "anzunehmen"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "Zucht"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "sie haben härter gemacht"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ihre Gesichter"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "als Fels"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "sie weigerten sich"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "umzukehren"
+    }
+  ],
+  "timestamp": "2026-08-06T06:06:47.158239092Z",
+  "model": "glm-5.2"
+}

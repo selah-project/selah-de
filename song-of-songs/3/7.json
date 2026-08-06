@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Siehe, seine Sänfte, ⟨die⟩ Schelomos! Sechzig Helden rings um sie her, von den Helden Jisraels.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֗ה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "מִטָּתוֹ֙",
+      "gloss": "seine Sänfte"
+    },
+    {
+      "surface": "שֶׁלִּשְׁלֹמֹ֔ה",
+      "gloss": "Schelomos"
+    },
+    {
+      "surface": "שִׁשִּׁ֥ים",
+      "gloss": "Sechzig"
+    },
+    {
+      "surface": "גִּבֹּרִ֖ים",
+      "gloss": "Helden"
+    },
+    {
+      "surface": "סָבִ֣יב",
+      "gloss": "rings"
+    },
+    {
+      "surface": "לָ֑הּ",
+      "gloss": "um sie her"
+    },
+    {
+      "surface": "מִגִּבֹּרֵ֖י",
+      "gloss": "von den Helden"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-05T23:25:56.234261487Z",
+  "model": "glm-5.2"
+}

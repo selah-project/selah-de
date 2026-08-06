@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 16:9",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und Mosche sagte zu Aharon: „Sag zur ganzen Versammlung der Söhne Jisra'els: ‚Tretet heran vor JHWH, denn er hat ⟨את⟩ euer Murren gehört.'“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Sag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "Tretet heran"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "er hat gehört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "euer Murren"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "euer Murren"
+    }
+  ],
+  "timestamp": "2026-08-05T20:10:19.191233327Z",
+  "model": "glm-5.2"
+}

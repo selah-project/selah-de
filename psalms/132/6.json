@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "Siehe, wir haben ⟨es⟩ gehört in Efrata, wir haben ⟨es⟩ gefunden auf den Fluren des Waldes.",
+  "tokens": [
+    {
+      "surface": "הִנֵּֽה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "שְׁמַֽעֲנ֥וּהָ",
+      "gloss": "wir haben ⟨es⟩ gehört"
+    },
+    {
+      "surface": "בְאֶפְרָ֑תָה",
+      "gloss": "in Efrata"
+    },
+    {
+      "surface": "מְ֝צָאנ֗וּהָ",
+      "gloss": "wir haben ⟨es⟩ gefunden"
+    },
+    {
+      "surface": "בִּשְׂדֵי",
+      "gloss": "auf den Fluren"
+    },
+    {
+      "surface": "יָֽעַר",
+      "gloss": "des Waldes"
+    }
+  ],
+  "timestamp": "2026-08-06T06:51:23.705388222Z",
+  "model": "glm-5.2"
+}

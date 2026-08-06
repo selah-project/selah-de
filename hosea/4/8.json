@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Die Sünde meines Volkes fressen sie, und nach ihrer Schuld giert ihre Nefesch.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "Sünde"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meines Volkes"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "fressen sie"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nach"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ihrer Schuld"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "begehrt"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ihre Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-05T22:30:28.419038295Z",
+  "model": "glm-5.2"
+}

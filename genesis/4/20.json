@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Ada gebar ⟨את⟩ Jawal. ⟨Dieser⟩ war der Vater der Zeltbewohner und des Viehs.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "und sie gebar"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jawal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Jawal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "היה",
+      "gloss": "war"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Vater"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Zelt"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "und Vieh"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:05.097384709Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und auch auf dem Weg, wenn der Tor ⟨dahergeht⟩, fehlt ihm das Herz, und er sagt zu allen: ⟨er⟩ ⟨ist⟩ ein Tor.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Und auch"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "wenn der Tor"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨dahergeht⟩"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ihm das Herz"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "fehlt"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und er sagt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zu allen"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ein Tor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩ ⟨ist⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:22.276667109Z",
+  "model": "glm-5.2"
+}

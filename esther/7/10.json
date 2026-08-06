@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und sie hängten ⟨את⟩ Haman an dem Baum, den er für Mordejai bereitet hatte, und der Zorn des Königs ließ nach.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Und sie hängten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dem Baum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "er bereitet hatte"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "für Mordejai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "und der Zorn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ließ nach"
+    }
+  ],
+  "timestamp": "2026-08-06T21:26:19.999015052Z",
+  "model": "glm-5.2"
+}

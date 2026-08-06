@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 96,
+  "translation": "Denn groß ist JHWH und sehr zu loben, furchtbar ist er über allen Elohim.",
+  "tokens": [
+    {
+      "surface": "כִּ֥י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "גָ֘ד֤וֹל",
+      "gloss": "groß"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "⟨ist⟩ JHWH"
+    },
+    {
+      "surface": "וּמְהֻלָּ֣ל",
+      "gloss": "und zu loben"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "נוֹרָ֥א",
+      "gloss": "furchtbar"
+    },
+    {
+      "surface": "ה֝֗וּא",
+      "gloss": "ist er"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:46.184103620Z",
+  "model": "glm-5.2"
+}

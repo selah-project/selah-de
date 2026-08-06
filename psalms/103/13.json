@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "Wie ⟨sich⟩ ein Vater ⟨erbarmt⟩ über ⟨seine⟩ Kinder, ⟨so⟩ erbarmt JHWH über ⟨die⟩ ihn Fürchtenden.",
+  "tokens": [
+    {
+      "surface": "כְּרַחֵ֣ם",
+      "gloss": "Wie ⟨sich⟩ … erbarmt"
+    },
+    {
+      "surface": "אָ֭ב",
+      "gloss": "ein Vater"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "בָּנִ֑ים",
+      "gloss": "Kinder"
+    },
+    {
+      "surface": "רִחַ֥ם",
+      "gloss": "erbarmt"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "יְרֵאָֽיו",
+      "gloss": "ihn Fürchtenden"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:30.958167254Z",
+  "model": "glm-5.2"
+}

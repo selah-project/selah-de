@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 141,
+  "translation": "Behüte mich vor der Schlinge, die sie mir gelegt haben, und vor den Fallstriksen der Übeltäter.",
+  "tokens": [
+    {
+      "surface": "שָׁמְרֵ֗נִי",
+      "gloss": "Behüte mich"
+    },
+    {
+      "surface": "מִ֣ידֵי",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פַ֭ח",
+      "gloss": "der Schlinge"
+    },
+    {
+      "surface": "יָ֣קְשׁוּ",
+      "gloss": "die sie gelegt haben"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "וּ֝מֹקְשׁ֗וֹת",
+      "gloss": "und vor den Fallstriksen"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "der"
+    },
+    {
+      "surface": "אָֽוֶן",
+      "gloss": "Übeltäter"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:49.125311780Z",
+  "model": "glm-5.2"
+}

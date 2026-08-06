@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und JHWH verwarf alle Nachkommenschaft Jisra'els und demütigte sie und gab sie in die Hand von Plünderern, bis er sie von seinem Angesicht weggeworfen hatte.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "und JHWH verwarf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "Nachkommenschaft"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "und er demütigte sie"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "und er gab sie"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "von Plünderern"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "als"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "er sie weggeworfen hatte"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "von seinem Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-05T21:39:23.789720692Z",
+  "model": "glm-5.2"
+}

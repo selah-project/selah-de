@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Es trauert, sie ist siech ⟨die⟩ Erde; beschämt ⟨wurde⟩ der Levanon, er ist verdorrt. ⟨Der⟩ Scharon ist ⟨geworden⟩ wie ⟨die⟩ Arava, und es schüttelt ⟨sich⟩ Baschan und ⟨der⟩ Karmel.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Es trauert"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "sie ist siech"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "beschämt"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "er ist verdorrt"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ist ⟨geworden⟩"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Scharon"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "wie Arava"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "und es schüttelt ⟨sich⟩"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Baschan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "und Karmel"
+    }
+  ],
+  "timestamp": "2026-08-06T21:18:31.469478691Z",
+  "model": "glm-5.2"
+}

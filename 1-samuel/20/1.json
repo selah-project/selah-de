@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Dawid floh aus Nawot in Rama, und er kam und sprach vor Jehonatan: „Was habe ich getan? Was ⟨ist⟩ meine Schuld, und was ⟨ist⟩ mein Vergehen vor deinem Vater, dass er ⟨את⟩ mein Nefesch sucht?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "Und floh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "aus Nawot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "in Rama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und er kam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "habe ich getan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "meine Schuld"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "und was"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mein Vergehen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deinem Vater"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "er sucht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Nefesch"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mein Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T15:46:17.190836930Z",
+  "model": "glm-5.2"
+}

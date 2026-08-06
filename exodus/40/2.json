@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Am Tag des ersten Monats, am Ersten des Monats, sollst du ⟨את⟩ das Mischkan, das Zelt der Begegnung, aufrichten.",
+  "tokens": [
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "Am Tag"
+    },
+    {
+      "surface": "הַחֹדֶשׁ",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "הָרִאשׁוֹן",
+      "gloss": "des ersten"
+    },
+    {
+      "surface": "בְּאֶחָד",
+      "gloss": "am Ersten"
+    },
+    {
+      "surface": "לַחֹדֶשׁ",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "תָּקִים",
+      "gloss": "sollst du aufrichten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Mischkan, das Zelt der Begegnung"
+    },
+    {
+      "surface": "מִשְׁכַּן",
+      "gloss": "das Mischkan"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "das Zelt"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "der Begegnung"
+    }
+  ],
+  "timestamp": "2026-08-06T00:22:46.856683686Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "und er beriet sich mit seinen Obersten und seinen Helden, ⟨um⟩ ⟨את⟩ die Wasser der Quellen, die außerhalb der Stadt ⟨lagen⟩, zu verstopfen, und sie halfen ihm.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "und er beriet sich"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "seinen Obersten"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "und seinen Helden"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "zu verstopfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wasser"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "der Quellen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "und sie halfen ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T05:04:47.804334254Z",
+  "model": "glm-5.2"
+}

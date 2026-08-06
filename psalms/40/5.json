@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Wie glücklich der Mann, der JHWH ⟨zu⟩ seiner Zuflucht macht, und ⟨der⟩ sich nicht den Überheblichen zuwendet ⟨noch⟩ den Abgefallenen zur Lüge.",
+  "tokens": [
+    {
+      "surface": "אַשְֽׁרֵי",
+      "gloss": "Wie glücklich"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "der"
+    },
+    {
+      "surface": "שָׂם",
+      "gloss": "macht"
+    },
+    {
+      "surface": "יְהֹוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מִבְטַחוֹ",
+      "gloss": "⟨zu⟩ seiner Zuflucht"
+    },
+    {
+      "surface": "וְֽלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "פָנָה",
+      "gloss": "sich zuwendet"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "den"
+    },
+    {
+      "surface": "רְהָבִים",
+      "gloss": "Überheblichen"
+    },
+    {
+      "surface": "וְשָׂטֵי",
+      "gloss": "⟨noch⟩ den Abgefallenen"
+    },
+    {
+      "surface": "כָזָב",
+      "gloss": "zur Lüge"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:05.079687673Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 11:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Mit dem Mund ⟨des⟩ Ruchlosen richtet ⟨er⟩ seinen Nächsten zugrunde, und durch Erkenntnis der Gerechten werden ⟨sie⟩ befreit.",
+  "tokens": [
+    {
+      "surface": "בפה",
+      "gloss": "mit dem Mund"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "⟨des⟩ Ruchlosen"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "richtet zugrunde"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "seinen Nächsten"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "und durch Erkenntnis"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "der Gerechten"
+    },
+    {
+      "surface": "יחלצו",
+      "gloss": "werden ⟨sie⟩ befreit"
+    }
+  ],
+  "timestamp": "2026-08-06T09:21:08.340280546Z",
+  "model": "glm-5.2"
+}

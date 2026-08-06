@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und Joaw stand auf und ging nach Gschur und brachte ⟨את⟩ Awischalom nach Jeruschalajim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Und … stand auf"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und ging"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "nach Gschur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und brachte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awischalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awischalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "nach Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-06T20:27:01.729526647Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Einen Zentner aus reinem Gold machte er ⟨את⟩ sie und ⟨את⟩ all ihre Geräte.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "Einen Zentner"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "reinem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "machte er"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sie",
+      "marks": "die Menora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all ihre Geräte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ihre Geräte"
+    }
+  ],
+  "timestamp": "2026-08-06T00:22:24.809671643Z",
+  "model": "glm-5.2"
+}

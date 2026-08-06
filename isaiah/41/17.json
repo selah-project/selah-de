@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 41:17",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Die Armen und die Bedürftigen suchen Wasser, und ⟨es ist⟩ keines ⟨da⟩; ihre Zunge vertrocknet vor Durst. Ich, JHWH, werde sie erhören, ⟨der⟩ Elohim Jisraels — ich werde sie nicht verlassen.",
+  "tokens": [
+    {
+      "surface": "הָעֲנִיִּ֨ים",
+      "gloss": "Die Armen"
+    },
+    {
+      "surface": "וְהָאֶבְיוֹנִ֜ים",
+      "gloss": "und die Bedürftigen"
+    },
+    {
+      "surface": "מְבַקְשִׁ֥ים",
+      "gloss": "suchen"
+    },
+    {
+      "surface": "מַ֨יִם֙",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "וָאַ֔יִן",
+      "gloss": "und ⟨es ist⟩ keines ⟨da⟩"
+    },
+    {
+      "surface": "לְשׁוֹנָ֖ם",
+      "gloss": "ihre Zunge"
+    },
+    {
+      "surface": "בַּצָּמָ֣א",
+      "gloss": "vor Durst"
+    },
+    {
+      "surface": "נָשָׁ֑תָּה",
+      "gloss": "vertrocknet"
+    },
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶעֱנֵ֔ם",
+      "gloss": "werde sie erhören"
+    },
+    {
+      "surface": "אֱלֹהֵ֥י",
+      "gloss": "⟨der⟩ Elohim"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אֶעֶזְבֵֽם",
+      "gloss": "werde sie verlassen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:17:10.976119547Z",
+  "model": "glm-5.2"
+}

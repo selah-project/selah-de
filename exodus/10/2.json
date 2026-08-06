@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und damit du ⟨את⟩ das, was ich an Mizrajim getan habe, in die Ohren deines Sohnes und des Sohnes deines Sohnes erzählst, und ⟨את⟩ meine Zeichen, die ich in sie gesetzt habe, und ihr werdet erkennen, dass ich JHWH bin.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "und damit"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "du erzählst"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "in die Ohren"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "deines Sohnes"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "und ⟨des Sohnes⟩"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "deines Sohnes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was ich an Mizrajim getan habe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "ich getan habe \/ ich verfahren bin"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "an Mizrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "meine Zeichen"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "meine Zeichen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ich gesetzt habe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in sie"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "und ihr werdet erkennen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:07:42.055127159Z",
+  "model": "glm-5.2"
+}

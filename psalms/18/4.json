@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Den Gepriesenen rufe ich an — JHWH —, und ⟨von⟩ meinen Feinden werde ich gerettet.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Den Gepriesenen"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "rufe ich an"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "und ⟨von⟩"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "meinen Feinden"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "werde ich gerettet"
+    }
+  ],
+  "timestamp": "2026-08-06T15:21:24.006999813Z",
+  "model": "glm-5.2"
+}

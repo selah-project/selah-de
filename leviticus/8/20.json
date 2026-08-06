@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨את⟩ den Widder zerlegte er in seine Stücke, und Mosche ließ aufsteigen ⟨את⟩ den Kopf und ⟨את⟩ die Stücke und ⟨את⟩ das Fett.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Widder"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "den Widder"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "zerlegte"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "in seine Stücke"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "und ließ aufsteigen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Kopf"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "den Kopf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Stücke"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "die Stücke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Fett"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "das Fett"
+    }
+  ],
+  "timestamp": "2026-08-06T09:47:39.861069414Z",
+  "model": "glm-5.2"
+}

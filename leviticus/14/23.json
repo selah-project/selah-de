@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und ⟨er⟩ brachte ⟨את⟩ sie am achten Tag zu seiner Reinigung zum Kohen, an den Eingang des Zeltes der Begegnung, vor JHWH.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Und ⟨er⟩ brachte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "dem achten"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "zu seiner Reinigung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "dem Kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "den Eingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "des Zeltes"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:26:26.579668827Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und ⟨die⟩ Völker werden ⟨zu⟩ Brennstätten von Kalk — wie abgeschnittene Dornen, im Feuer werden sie verbrannt werden.",
+  "tokens": [
+    {
+      "surface": "וְהָי֥וּ",
+      "gloss": "und ⟨sie⟩ werden sein"
+    },
+    {
+      "surface": "עַמִּ֖ים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "מִשְׂרְפ֣וֹת",
+      "gloss": "Brennstätten"
+    },
+    {
+      "surface": "שִׂ֑יד",
+      "gloss": "Kalk"
+    },
+    {
+      "surface": "קוֹצִ֥ים",
+      "gloss": "Dornen"
+    },
+    {
+      "surface": "כְּסוּחִ֖ים",
+      "gloss": "abgeschnittene"
+    },
+    {
+      "surface": "בָּאֵ֥שׁ",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "יִצַּֽתּוּ",
+      "gloss": "werden sie verbrannt werden"
+    }
+  ],
+  "timestamp": "2026-08-06T01:46:19.713008693Z",
+  "model": "glm-5.2"
+}

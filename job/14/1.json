@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Ein Mensch, geboren von ⟨einer⟩ Frau, kurz an Tagen und satt von Unruhe.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Ein Mensch"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "geboren"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "von Frau"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "kurz"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "an Tagen"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "und satt"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "von Unruhe"
+    }
+  ],
+  "timestamp": "2026-08-06T07:01:03.362105499Z",
+  "model": "glm-5.2"
+}

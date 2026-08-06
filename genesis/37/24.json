@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und sie nahmen ihn und warfen ⟨את⟩ ihn in die Grube; ⟨und⟩ die Grube war leer, kein Wasser war in ihr.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Und sie nahmen ihn"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "und warfen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "in die Grube"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "⟨und⟩ die Grube"
+    },
+    {
+      "surface": "רק",
+      "gloss": "war leer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kein"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in ihr"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T15:36:23.530601727Z",
+  "model": "glm-5.2"
+}

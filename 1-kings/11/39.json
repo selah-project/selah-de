@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ich werde ⟨את⟩ die Nachkommenschaft Dawids demütigen um dieser Sache willen — aber nicht für alle Tage.“",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "und ich werde demütigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Nachkommenschaft Dawids"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "Nachkommenschaft"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dieser (Sache) willen"
+    },
+    {
+      "surface": "אך",
+      "gloss": "aber"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T05:50:18.922361196Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Hatach ging hinaus zu Mordechaj, zum Platz der Stadt, der vor dem Tor des Königs ⟨war⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "und er ging hinaus"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "Platz"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dem Tor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:36.801286346Z",
+  "model": "glm-5.2"
+}

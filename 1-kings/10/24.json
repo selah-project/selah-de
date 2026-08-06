@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und die ganze Erde suchte ⟨das⟩ Angesicht Schelomos, um seine Weisheit zu hören, die Elohim in sein Herz gegeben hatte.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Und ⟨die⟩ ganze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "suchte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Angesicht Schelomos"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Angesicht"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomos"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "um zu hören"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Weisheit"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "seine Weisheit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegeben hatte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in sein Herz"
+    }
+  ],
+  "timestamp": "2026-08-05T21:29:02.536604003Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Dann wirst du gehen in Sicherheit auf deinem Weg, und dein Fuß wird nicht stoßen.",
+  "tokens": [
+    {
+      "surface": "אָ֤ז",
+      "gloss": "Dann"
+    },
+    {
+      "surface": "תֵּלֵ֣ךְ",
+      "gloss": "wirst du gehen"
+    },
+    {
+      "surface": "לָבֶ֣טַח",
+      "gloss": "in Sicherheit"
+    },
+    {
+      "surface": "דַּרְכֶּ֑ךָ",
+      "gloss": "auf deinem Weg"
+    },
+    {
+      "surface": "וְ֝רַגְלְךָ֗",
+      "gloss": "und dein Fuß"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִגּֽוֹף",
+      "gloss": "wird stoßen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:08:27.655844653Z",
+  "model": "glm-5.2"
+}

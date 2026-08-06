@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 23:32",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und er tat das Böse in den Augen JHWHs, nach allem, was seine Väter getan hatten.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "Und er tat"
+    },
+    {
+      "surface": "הָרַ֖ע",
+      "gloss": "das Böse"
+    },
+    {
+      "surface": "בְּעֵינֵ֣י",
+      "gloss": "in den Augen"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "כְּכֹ֥ל",
+      "gloss": "nach allem"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עָשׂ֖וּ",
+      "gloss": "getan hatten"
+    },
+    {
+      "surface": "אֲבֹתָֽיו",
+      "gloss": "seine Väter"
+    }
+  ],
+  "timestamp": "2026-08-06T05:56:44.740304995Z",
+  "model": "glm-5.2"
+}

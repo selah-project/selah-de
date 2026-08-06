@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨er⟩ wird ihre Könige in deine Hand geben, und du wirst ⟨את⟩ ihren Namen auslöschen unter dem Himmel. Kein Mann wird vor dir standhalten, bis du ⟨את⟩ sie vernichtet hast.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Und ⟨wird⟩ geben"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ihre Könige"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in deine Hand"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "und du wirst auslöschen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Namen"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ihren Namen"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dem Himmel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "wird standhalten"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Kein Mann"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "du vernichtet hast"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    }
+  ],
+  "timestamp": "2026-08-06T00:42:45.221674714Z",
+  "model": "glm-5.2"
+}

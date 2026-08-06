@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 12:29",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Wenn JHWH, dein Elohim, ⟨את⟩ die Völker ausrottet, zu denen du dorthin kommst, um sie vor dir zu enteignen, und du sie enteignest und in ihrem Land wohnst —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "ausrottet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Völker"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zu denen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommst"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "um zu enteignen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "und du enteignest"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "und wohnst"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "in ihrem Land"
+    }
+  ],
+  "timestamp": "2026-08-06T00:44:41.128762426Z",
+  "model": "glm-5.2"
+}

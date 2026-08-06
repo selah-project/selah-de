@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und er sprach zu ihnen: So sei JHWH mit euch, wie ich ⟨euch⟩ und ⟨את⟩ eure Kinder wegziehen lasse! Seht doch, dass Böses vor eurem Gesicht ⟨steht⟩.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "אֲלֵהֶ֗ם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "יְהִ֨י",
+      "gloss": "sei"
+    },
+    {
+      "surface": "כֵ֤ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עִמָּכֶ֔ם",
+      "gloss": "mit euch"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אֲשַׁלַּ֥ח",
+      "gloss": "ich wegziehen lasse"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "וְאֶֽת",
+      "gloss": "und ⟨את⟩",
+      "marks": "eure Kinder"
+    },
+    {
+      "surface": "טַפְּכֶ֑ם",
+      "gloss": "eure Kinder"
+    },
+    {
+      "surface": "רְא֕וּ",
+      "gloss": "Seht doch"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "dass"
+    },
+    {
+      "surface": "רָעָ֖ה",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "נֶ֥גֶד",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פְּנֵיכֶֽם",
+      "gloss": "eurem Gesicht"
+    }
+  ],
+  "timestamp": "2026-08-06T20:09:58.099295865Z",
+  "model": "glm-5.2"
+}

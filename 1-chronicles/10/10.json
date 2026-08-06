@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und sie legten ⟨את⟩ seine Waffen ins Haus ihres Elohim, und ⟨את⟩ seinen Schädel steckten sie auf im Haus Dagons.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "und sie legten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Waffen"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "seine Waffen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ins Haus"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ihres Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seinen Schädel"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "seinen Schädel"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "steckten sie auf"
+    },
+    {
+      "surface": "בית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagons"
+    }
+  ],
+  "timestamp": "2026-08-06T04:55:15.238889927Z",
+  "model": "glm-5.2"
+}

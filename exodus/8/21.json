@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Paro rief nach Mosche und nach Aharon und sagte: „Geht, opfert eurem Elohim im Land.“",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und er rief"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "und nach Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Geht"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "opfert"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "eurem Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    }
+  ],
+  "timestamp": "2026-08-05T20:07:58.487008336Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Mögen sich mehren ihre Schmerzen — einem anderen ⟨Gott⟩ eilten sie ⟨nach⟩! Ich werde ihre Trankopfer von Blut nicht ausgießen, und ihre Namen werde ich ⟨את⟩ nicht auf meine Lippen heben.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Mögen sich mehren"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ihre Schmerzen"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "einem anderen"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "eilten sie"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "werde ich ausgießen"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "ihre Trankopfer"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "von Blut"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "werde ich heben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Namen"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ihre Namen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "meine Lippen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:33.341578348Z",
+  "model": "glm-5.2"
+}

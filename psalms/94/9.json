@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "⟨Er,⟩ der ⟨das⟩ Ohr eingepflanzt hat — hört ⟨er⟩ nicht? ⟨Oder⟩ der ⟨das⟩ Auge gebildet hat — erblickt ⟨er⟩ nicht?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "der eingepflanzt hat"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "⟨das⟩ Ohr"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nicht ⟨?⟩"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hört"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨Oder⟩"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "der gebildet hat"
+    },
+    {
+      "surface": "עין",
+      "gloss": "⟨das⟩ Auge"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nicht ⟨?⟩"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "erblickt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:18.045350825Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 98,
+  "translation": "Vor JHWH, denn ⟨er⟩ kommt, ⟨um⟩ ⟨die⟩ Erde zu richten: ⟨er⟩ wird ⟨die⟩ Welt richten in Zedek und ⟨die⟩ Völker in Geradheit.",
+  "tokens": [
+    {
+      "surface": "לִֽפְֽנֵי",
+      "gloss": "Vor"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בָא֮",
+      "gloss": "⟨er⟩ kommt"
+    },
+    {
+      "surface": "לִשְׁפֹּ֪ט",
+      "gloss": "⟨um⟩ zu richten"
+    },
+    {
+      "surface": "הָ֫אָ֥רֶץ",
+      "gloss": "⟨die⟩ Erde"
+    },
+    {
+      "surface": "יִשְׁפֹּֽט",
+      "gloss": "⟨er⟩ wird richten"
+    },
+    {
+      "surface": "תֵּבֵ֥ל",
+      "gloss": "⟨die⟩ Welt"
+    },
+    {
+      "surface": "בְּצֶ֑דֶק",
+      "gloss": "in Zedek"
+    },
+    {
+      "surface": "וְ֝עַמִּ֗ים",
+      "gloss": "und ⟨die⟩ Völker"
+    },
+    {
+      "surface": "בְּמֵישָׁרִֽים",
+      "gloss": "in Geradheit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:27.654528197Z",
+  "model": "glm-5.2"
+}

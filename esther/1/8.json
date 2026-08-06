@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und das Trinken ⟨geschah⟩ nach der Vorschrift: ⟨es gab⟩ keinen Zwang, denn so hatte der König für alle Beamten seines Hauses festgesetzt, ⟨dass⟩ ein jeder nach seinem Belieben tun solle.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "Und das Trinken"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "nach der Vorschrift"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨es gab⟩ keinen"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "Zwang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "hatte … festgesetzt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "על",
+      "gloss": "für"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Beamten"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "seines Hauses"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨dass⟩ ein jeder … tun solle"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "nach seinem Belieben"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein jeder"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "und ein jeder"
+    }
+  ],
+  "timestamp": "2026-08-05T23:32:20.597497604Z",
+  "model": "glm-5.2"
+}

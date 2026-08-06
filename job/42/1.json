@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und Ijob antwortete JHWH ⟨את⟩ und sagte:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Und es antwortete"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    }
+  ],
+  "timestamp": "2026-08-05T23:25:32.130656513Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "Nur mit deinen Augen wirst du zuschauen und die Vergeltung der Frevler sehen.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nur"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mit deinen Augen"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "wirst du zuschauen"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "und die Vergeltung"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "sehen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:10.264262093Z",
+  "model": "glm-5.2"
+}

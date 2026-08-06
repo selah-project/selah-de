@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "und ⟨את⟩ Owal und ⟨את⟩ Awimaël und ⟨את⟩ Schewa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Owal"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Owal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Awimaël"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Awimaël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Schewa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Schewa"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:59.241936934Z",
+  "model": "glm-5.2"
+}

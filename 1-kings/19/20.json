@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und er verließ ⟨את⟩ das Rindvieh und lief hinter Elíjahu her. Er sagte: „Lass mich doch meinen Vater und meine Mutter küssen, dann gehe ich hinter dir her.\" Und er sagte zu ihm: „Geh, kehre zurück, denn was habe ich dir getan?\"",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Und er verließ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Rindvieh"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "das Rindvieh"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "und lief"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hinter … her"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elíjahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Er sagte"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "Lass mich küssen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "meinen Vater"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "und meine Mutter"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dann gehe ich"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "hinter dir her"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kehre zurück"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "habe ich getan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:33.196865021Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 113,
+  "translation": "Erhaben über alle Völker ⟨ist⟩ JHWH, über den Himmeln ⟨ist⟩ seine Herrlichkeit.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "Erhaben"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨ist⟩ JHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "den Himmeln"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "⟨ist⟩ seine Herrlichkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:20.499355319Z",
+  "model": "glm-5.2"
+}

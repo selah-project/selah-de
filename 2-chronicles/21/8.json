@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "In seinen Tagen fiel Edom von der Hand Jehudas ab und ⟨sie⟩ setzten über sie ⟨einen⟩ König ein.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "In seinen Tagen"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "fiel … ab"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "von"
+    },
+    {
+      "surface": "יד",
+      "gloss": "der Hand"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "und setzten … ein"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "über sie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    }
+  ],
+  "timestamp": "2026-08-06T15:33:07.075141296Z",
+  "model": "glm-5.2"
+}

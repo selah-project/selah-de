@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Er lässt ⟨die⟩ Sturm zum Schweigen bringen, und ⟨es⟩ verstummen ihre Wogen.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "Er lässt stehen"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "Sturm"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "zum Schweigen"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "und ⟨es⟩ verstummen"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ihre Wogen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:03.121791945Z",
+  "model": "glm-5.2"
+}

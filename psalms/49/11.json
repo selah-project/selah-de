@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Denn ⟨er⟩ sieht: Weise sterben, zugleich vergehen Tor und Unvernunftiger, und ⟨sie⟩ lassen anderen ihren Besitz zurück.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יִרְאֶה",
+      "gloss": "⟨er⟩ sieht"
+    },
+    {
+      "surface": "חֲכָמִים",
+      "gloss": "Weise"
+    },
+    {
+      "surface": "יָמוּתוּ",
+      "gloss": "sterben"
+    },
+    {
+      "surface": "יַחַד",
+      "gloss": "zugleich"
+    },
+    {
+      "surface": "כְּסִיל",
+      "gloss": "Tor"
+    },
+    {
+      "surface": "וָבַעַר",
+      "gloss": "und Unvernünftiger"
+    },
+    {
+      "surface": "יֹאבֵדוּ",
+      "gloss": "vergehen"
+    },
+    {
+      "surface": "וְעָזְבוּ",
+      "gloss": "und ⟨sie⟩ lassen zurück"
+    },
+    {
+      "surface": "לַאֲחֵרִים",
+      "gloss": "anderen"
+    },
+    {
+      "surface": "חֵילָם",
+      "gloss": "ihren Besitz"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:45.597451079Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Einmal hat Elohim geredet, zweimal ⟨das⟩ habe ich gehört: dass Stärke Elohim ⟨gehört⟩.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "einmal"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hat geredet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "zweimal"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨das⟩"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "habe ich gehört"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "עז",
+      "gloss": "Stärke"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim ⟨gehört⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T15:22:59.011490656Z",
+  "model": "glm-5.2"
+}

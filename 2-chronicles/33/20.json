@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 33:20",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und Menasche legte sich zu seinen Vätern, und man begrub ihn in seinem Haus. Und Amon, sein Sohn, wurde König an seiner Stelle.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Und ⟨er⟩ legte sich"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasche"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seinen Vätern"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "und man begrub ihn"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "in seinem Haus"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "Und ⟨er⟩ wurde König"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sein Sohn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seiner Stelle"
+    }
+  ],
+  "timestamp": "2026-08-06T00:01:52.083580443Z",
+  "model": "glm-5.2"
+}

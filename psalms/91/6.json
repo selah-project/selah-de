@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "vor der Seuche, die im Finstern umgeht, vor der Vernichtung, die am Mittag verwüstet.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "vor der Seuche"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "im Finstern"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "die umgeht"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "vor der Vernichtung"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "die verwüstet"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "am Mittag"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:10.264043325Z",
+  "model": "glm-5.2"
+}

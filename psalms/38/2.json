@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "JHWH, ⟨halte⟩ nicht ⟨im⟩ Zorn ⟨mich⟩ zurecht, und in deiner Glut züchtige ⟨mich⟩ nicht!",
+  "tokens": [
+    {
+      "surface": "יְֽהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "⟨halte⟩ nicht"
+    },
+    {
+      "surface": "בְּקֶצְפְּךָ֥",
+      "gloss": "⟨im⟩ Zorn"
+    },
+    {
+      "surface": "תוֹכִיחֵ֑נִי",
+      "gloss": "⟨mich⟩ zurecht"
+    },
+    {
+      "surface": "וּֽבַחֲמָתְךָ֥",
+      "gloss": "und in deiner Glut"
+    },
+    {
+      "surface": "תְיַסְּרֵֽנִי",
+      "gloss": "züchtige ⟨mich⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:45.038006197Z",
+  "model": "glm-5.2"
+}

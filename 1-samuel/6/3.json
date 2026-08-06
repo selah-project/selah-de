@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und sie sagten: „Wenn ⟨wir⟩ ⟨die⟩ Lade des Elohim von Jisraël zurückschicken, sendet sie nicht leer weg, denn erstatten sollt ihr ihm ein Schuldopfer; dann werdet ihr geheilt werden, und es wird euch bekannt werden, warum seine Hand nicht von euch weicht.“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sie sagten"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "⟨wir⟩ zurückschicken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Lade"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "sendet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sie"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "leer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "השב",
+      "gloss": "erstatten"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "sollt ihr"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ein Schuldopfer"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dann"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "werdet ihr geheilt werden"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "und es wird bekannt werden"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "למה",
+      "gloss": "warum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "weicht"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "von euch"
+    }
+  ],
+  "timestamp": "2026-08-06T19:34:48.065208492Z",
+  "model": "glm-5.2"
+}

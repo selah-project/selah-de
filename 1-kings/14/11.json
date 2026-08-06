@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Wer von Jarobam in der Stadt stirbt, die Hunde werden ⟨ihn⟩ fressen, und wer auf dem Feld stirbt, die Vögel des Himmels werden ⟨ihn⟩ fressen; denn JHWH hat gesprochen.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Wer stirbt"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "von Jarobam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "werden fressen"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "die Hunde"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "und wer stirbt"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "auf dem Feld"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "werden fressen"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "die Vögel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hat gesprochen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:23.003185064Z",
+  "model": "glm-5.2"
+}

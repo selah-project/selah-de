@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und sie ging und machte nach dem Wort Elijas. Und ⟨er⟩ aß, sie und ihr Haus, Tage ⟨lang⟩.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Und sie ging"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "und machte"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nach dem Wort"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijas"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "und ⟨sie⟩ aßen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "und ihr Haus"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T03:02:24.392439865Z",
+  "model": "glm-5.2"
+}

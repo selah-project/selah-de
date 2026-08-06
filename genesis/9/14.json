@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und es wird geschehen: ⟨Wenn⟩ ich eine Wolke bringe über die Erde, dann wird ⟨der⟩ Bogen gesehen in der Wolke.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֕ה",
+      "gloss": "und es wird geschehen"
+    },
+    {
+      "surface": "בְּעַנְנִ֥י",
+      "gloss": "⟨Wenn⟩ ich bringe"
+    },
+    {
+      "surface": "עָנָ֖ן",
+      "gloss": "eine Wolke"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "וְנִרְאֲתָ֥ה",
+      "gloss": "dann wird gesehen"
+    },
+    {
+      "surface": "הַקֶּ֖שֶׁת",
+      "gloss": "⟨der⟩ Bogen"
+    },
+    {
+      "surface": "בֶּעָנָֽן",
+      "gloss": "in der Wolke"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:38.453917192Z",
+  "model": "glm-5.2"
+}

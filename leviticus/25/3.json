@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Sechs Jahre sollst du dein Feld besäen und sechs Jahre deinen Weinberg beschneiden und ⟨du sollst⟩ ⟨את⟩ seinen Ertrag einsammeln.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Sechs"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sollst du besäen"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "dein Feld"
+    },
+    {
+      "surface": "וושש",
+      "gloss": "und sechs"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "deinen Weinberg beschneiden"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "deinen Weinberg"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "und ⟨du sollst⟩ einsammeln"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Ertrag"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "seinen Ertrag"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:55.041785282Z",
+  "model": "glm-5.2"
+}

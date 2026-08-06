@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Awraham ⟨war⟩ ein Sohn von hundert Jahren, als ihm geboren wurde ⟨את⟩ Jitzchak, sein Sohn.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Und Awraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ein Sohn"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "von hundert"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "als geboren wurde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitzchak, sein Sohn"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitzchak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sein Sohn"
+    }
+  ],
+  "timestamp": "2026-08-06T08:13:02.605190188Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "JHWH, ⟨dein⟩ Name ⟨währt⟩ für immer; JHWH, ⟨dein⟩ Gedenken für Generation und Generation.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dein Name"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "dein Gedenken"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "für Generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "und Generation"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:22.714101441Z",
+  "model": "glm-5.2"
+}

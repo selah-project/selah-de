@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Wird ⟨nicht⟩ ⟨das⟩ Seil ⟨ihres⟩ Zeltes in ⟨ihrer⟩ Mitte herausgezogen? Sie sterben, und ⟨nicht⟩ in Weisheit.",
+  "tokens": [
+    {
+      "surface": "הֲלֹא",
+      "gloss": "Wird ⟨nicht⟩"
+    },
+    {
+      "surface": "נִסַּ֣ע",
+      "gloss": "herausgezogen"
+    },
+    {
+      "surface": "יִתְרָ֣ם",
+      "gloss": "⟨das⟩ Seil ⟨ihres⟩ Zeltes"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "in ⟨ihrer⟩ Mitte"
+    },
+    {
+      "surface": "יָ֝מ֗וּתוּ",
+      "gloss": "Sie sterben"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "בְחָכְמָֽה",
+      "gloss": "in Weisheit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:16:34.183851517Z",
+  "model": "glm-5.2"
+}

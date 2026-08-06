@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Schmuël ließ herannahen ⟨את⟩ alle Stämme Jisraels, und es wurde getroffen der Stamm Binjamins.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "und ließ herannahen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Stämme Jisraels"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "Stämme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "und es wurde getroffen"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "der Stamm"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamins"
+    }
+  ],
+  "timestamp": "2026-08-05T21:08:46.761803130Z",
+  "model": "glm-5.2"
+}

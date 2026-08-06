@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Ihr sollt den Rand eures Hauptes nicht umkreiszen, und den Rand eures Bartes sollt ihr nicht entstellen —",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַקִּ֔פוּ",
+      "gloss": "sollt ihr umkreiszen"
+    },
+    {
+      "surface": "פְּאַ֖ת",
+      "gloss": "den Rand"
+    },
+    {
+      "surface": "רֹאשְׁכֶ֑ם",
+      "gloss": "eures Hauptes"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תַשְׁחִ֔ית",
+      "gloss": "sollt ihr entstellen"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "den Rand eures Bartes"
+    },
+    {
+      "surface": "פְּאַ֥ת",
+      "gloss": "den Rand"
+    },
+    {
+      "surface": "זְקָנֶֽךָ",
+      "gloss": "eures Bartes"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:12.638311698Z",
+  "model": "glm-5.2"
+}

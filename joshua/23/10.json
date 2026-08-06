@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Ein einzelner Mann von euch wird tausend nachjagen, denn JHWH, euer Elohim, er ist es, der für euch kämpft, so wie er zu euch geredet hat.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ein Mann"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einzelner"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "von euch"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "wird nachjagen"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ist es"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "der für euch kämpft"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "er geredet hat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "zu euch"
+    }
+  ],
+  "timestamp": "2026-08-06T02:34:28.656665968Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 16:28",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und Omri legte sich zu seinen Vätern und wurde in Schomron begraben, und Achaw, sein Sohn, wurde König an seiner Statt.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "und ⟨er⟩ legte sich"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seinen Vätern"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "und wurde begraben"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Schomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "und ⟨er⟩ wurde König"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaw"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sein Sohn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seiner Statt"
+    }
+  ],
+  "timestamp": "2026-08-06T03:02:32.219854605Z",
+  "model": "glm-5.2"
+}

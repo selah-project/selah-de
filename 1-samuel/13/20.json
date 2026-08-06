@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und ganz Jisraël stieg hinab zu den Pelischtim, zu schärfen — jeder ⟨betraf⟩ ⟨את⟩ seine Hacke und ⟨את⟩ seinen Spaten und ⟨את⟩ seine Axt und ⟨את⟩ seinen Pflugschar.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Und sie stiegen hinab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "zu den Pelischtim"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "zu schärfen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Hacke"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "seine Hacke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seinen Spaten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "seinen Spaten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Axt"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "seine Axt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seinen Pflugschar"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "seinen Pflugschar"
+    }
+  ],
+  "timestamp": "2026-08-06T01:05:40.471662533Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Ich aber — in Zedek schaue ich dein Angesicht, werde ich satt beim Erwachen ⟨mit⟩ deiner Gestalt.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "in Zedek"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "schaue ich"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Angesicht"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "werde ich satt"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "beim Erwachen"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "⟨mit⟩ deiner Gestalt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:32.777683801Z",
+  "model": "glm-5.2"
+}

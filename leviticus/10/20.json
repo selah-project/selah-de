@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Mosche hörte ⟨es⟩, und ⟨es⟩ war gut in seinen Augen.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "und ⟨er⟩ hörte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "und ⟨es⟩ war gut"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in seinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:19:31.581037282Z",
+  "model": "glm-5.2"
+}

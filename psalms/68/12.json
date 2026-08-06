@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Adonai gibt ein Wort — die Verkündigerinnen: ein großes Heer!",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ein Wort"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "die Verkündigerinnen"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ein Heer"
+    },
+    {
+      "surface": "רב",
+      "gloss": "großes"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:49.671398435Z",
+  "model": "glm-5.2"
+}

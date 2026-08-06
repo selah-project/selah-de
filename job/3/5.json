@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Finsternis und Todesschatten sollen ihn einlösen, eine Wolke soll ⟨auf⟩ ihm wohnen, ⟨die⟩ Bitternisse ⟨des⟩ Tages sollen ihn erschrecken.",
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "sollen ihn einlösen"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "Finsternis"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "und Todesschatten"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "soll wohnen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ihm"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "eine Wolke"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "sollen ihn erschrecken"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "Bitternisse"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tages"
+    }
+  ],
+  "timestamp": "2026-08-06T04:32:13.733836027Z",
+  "model": "glm-5.2"
+}

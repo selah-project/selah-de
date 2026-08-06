@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und El-Schaddai segne ⟨את⟩ dich, und er mache dich fruchtbar und er mehre dich, und du wirst zu einer Versammlung von Völkern.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Und El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "-Schaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "segne"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dich"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "und er mache dich fruchtbar"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "und er mehre dich"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "und du wirst"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "zu einer Versammlung"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "von Völkern"
+    }
+  ],
+  "timestamp": "2026-08-05T17:35:53.824374519Z",
+  "model": "glm-5.2"
+}

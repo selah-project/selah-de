@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Nimm eine Leier, geh umher in der Stadt, ⟨du⟩ vergessene Hure! Spiel gut, mach viele Lieder, damit du wieder in Erinnerung kommst!",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "Nimm"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "eine Leier"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "geh umher"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "in ⟨der⟩ Stadt"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "Hure"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "vergessene"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "Spiel gut"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "⟨es⟩"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "mach viele"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Lieder"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "du wieder in Erinnerung kommst"
+    }
+  ],
+  "timestamp": "2026-08-05T21:48:09.703894882Z",
+  "model": "glm-5.2"
+}

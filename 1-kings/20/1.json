@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Ben-Hadad, der König von Aram, sammelte ⟨את⟩ seine ganze Heeresmacht, und zweiunddreißig Könige ⟨waren⟩ mit ihm, und Pferd und Wagen; und er zog herauf und belagerte Schomeron und kämpfte gegen es.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Und Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "von Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "sammelte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine ganze Heeresmacht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganze"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "seine Heeresmacht"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "und dreißig"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "und zwei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "und Pferd"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "und Wagen"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und er zog herauf"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "und belagerte"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Schomeron"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "und kämpfte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "gegen es"
+    }
+  ],
+  "timestamp": "2026-08-06T03:02:18.800715778Z",
+  "model": "glm-5.2"
+}

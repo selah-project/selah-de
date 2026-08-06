@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Mordechai kehrte zurück zum Tor des Königs, Haman aber wurde getrieben zu seinem Haus, trauernd und das Haupt verhüllt.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֥שָׁב",
+      "gloss": "und ⟨er⟩ kehrte zurück"
+    },
+    {
+      "surface": "מָרְדֳּכַ֖י",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "שַׁ֣עַר",
+      "gloss": "Tor"
+    },
+    {
+      "surface": "הַמֶּ֑לֶךְ",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "וְהָמָן֙",
+      "gloss": "Haman aber"
+    },
+    {
+      "surface": "נִדְחַ֣ף",
+      "gloss": "wurde getrieben"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בֵּית֔וֹ",
+      "gloss": "seinem Haus"
+    },
+    {
+      "surface": "אָבֵ֖ל",
+      "gloss": "trauernd"
+    },
+    {
+      "surface": "וַחֲפ֥וּי",
+      "gloss": "und verhüllt"
+    },
+    {
+      "surface": "רֹֽאשׁ",
+      "gloss": "das Haupt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:44:09.254547258Z",
+  "model": "glm-5.2"
+}

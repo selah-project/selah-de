@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Wenn du einen hebräischen Knecht kaufst, sechs Jahre soll er dienen, und im siebten soll er umsonst als Freier hinausgehen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "du kaufst"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "einen Knecht"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "hebräischen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sechs"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "soll er dienen"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "und im siebten"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soll er hinausgehen"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "als Freier"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "umsonst"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:27.124824303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 92,
+  "translation": "Und ⟨du⟩ erhöhtest wie ⟨die⟩ des Reem mein Horn, übergossen ⟨wurde⟩ ich mit frischem Öl.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "Und erhöhtest"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "wie ⟨die⟩ des Reem"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mein Horn"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "übergossen"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mit Öl"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "frischem"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:47.119348610Z",
+  "model": "glm-5.2"
+}

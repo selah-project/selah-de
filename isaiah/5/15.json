@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ⟨der⟩ Mensch wird gebeugt und ⟨der⟩ Mann erniedrigt, und die Augen der Hochmütigen werden gesenkt.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "Und ⟨der⟩ Mensch wird gebeugt"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨der⟩ Mensch"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "und ⟨der⟩ Mann erniedrigt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨der⟩ Mann"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "und die Augen"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "der Hochmütigen"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "werden gesenkt"
+    }
+  ],
+  "timestamp": "2026-08-05T21:43:35.891049032Z",
+  "model": "glm-5.2"
+}

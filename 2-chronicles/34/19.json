@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und es geschah, als der König ⟨את⟩ die Worte der Tora hörte, dass er ⟨את⟩ seine Kleider zerriss.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "als … hörte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "der Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "dass er zerriss"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Kleider"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    }
+  ],
+  "timestamp": "2026-08-06T21:28:26.524196778Z",
+  "model": "glm-5.2"
+}

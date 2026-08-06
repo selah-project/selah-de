@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Schwer ⟨ist⟩ ein Stein und eine Last ⟨ist⟩ der Sand, doch der Zorn eines Toren ⟨ist⟩ schwerer als beide.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "schwer"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ein Stein"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "und eine Last"
+    },
+    {
+      "surface": "החול",
+      "gloss": "der Sand"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "doch der Zorn"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "eines Toren"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "schwerer"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "als beide"
+    }
+  ],
+  "timestamp": "2026-08-06T04:30:50.606122783Z",
+  "model": "glm-5.2"
+}

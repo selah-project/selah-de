@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Winden macht er zu seinen Boten, einer Feuerflamme zu seinen Dienern.",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂ֣ה",
+      "gloss": "macht"
+    },
+    {
+      "surface": "מַלְאָכָ֣יו",
+      "gloss": "zu seinen Boten"
+    },
+    {
+      "surface": "רוּח֑וֹת",
+      "gloss": "Winden"
+    },
+    {
+      "surface": "מְ֝שָׁרְתָ֗יו",
+      "gloss": "zu seinen Dienern"
+    },
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "einer Feuerflamme"
+    },
+    {
+      "surface": "לֹהֵֽט",
+      "gloss": "lodenden"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:33.340342113Z",
+  "model": "glm-5.2"
+}

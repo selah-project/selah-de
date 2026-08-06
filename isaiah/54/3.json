@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 54,
+  "translation": "Denn rechts und links wirst du durchbrechen, und dein Same wird Nationen in Besitz nehmen, und verödete Städte werden sie besiedeln.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "rechts"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "und links"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "wirst du durchbrechen"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "und dein Same"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Nationen"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "wird in Besitz nehmen"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "und Städte"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "verödete"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "werden sie besiedeln"
+    }
+  ],
+  "timestamp": "2026-08-05T21:55:56.710651301Z",
+  "model": "glm-5.2"
+}

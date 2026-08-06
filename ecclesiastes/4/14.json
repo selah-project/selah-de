@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Denn aus dem Haus der Gefangenen ging er hervor, um König zu werden — denn auch in seinem Königtum wurde ⟨er als⟩ Bedürftiger geboren.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aus dem Haus"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "der Gefangenen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ging ⟨er⟩ hinaus"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "um König zu werden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "in seinem Königtum"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "wurde geboren"
+    },
+    {
+      "surface": "רש",
+      "gloss": "bedürftig"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:26.197465767Z",
+  "model": "glm-5.2"
+}

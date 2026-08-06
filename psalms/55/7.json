@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Und ich sagte: Wer gibt mir Flügel wie einer Taube? Ich würde fliegen und ruhen.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Und ich sagte"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "Flügel"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "wie einer Taube"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "Ich würde fliegen"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "und ruhen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:22.825789586Z",
+  "model": "glm-5.2"
+}

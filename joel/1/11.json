@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Schämt euch, ihr Ackerbauern, heult, ihr Winzer, über den Weizen und über die Gerste, denn vernichtet ⟨ist⟩ die Ernte des Feldes.",
+  "tokens": [
+    {
+      "surface": "הֹבִ֣ישׁוּ",
+      "gloss": "schämt euch"
+    },
+    {
+      "surface": "אִכָּרִ֗ים",
+      "gloss": "ihr Ackerbauern"
+    },
+    {
+      "surface": "הֵילִ֨ילוּ֙",
+      "gloss": "heult"
+    },
+    {
+      "surface": "כֹּֽרְמִ֔ים",
+      "gloss": "ihr Winzer"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "חִטָּ֖ה",
+      "gloss": "den Weizen"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "und über"
+    },
+    {
+      "surface": "שְׂעֹרָ֑ה",
+      "gloss": "die Gerste"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אָבַ֖ד",
+      "gloss": "vernichtet"
+    },
+    {
+      "surface": "קְצִ֥יר",
+      "gloss": "die Ernte"
+    },
+    {
+      "surface": "שָׂדֶֽה",
+      "gloss": "des Feldes"
+    }
+  ],
+  "timestamp": "2026-08-05T22:33:15.615633423Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 60,
+  "translation": "Dem Chorleiter, auf ‚Lilie des Zeugnisses', ein Michtam von Dawid, zum Lehren.",
+  "tokens": [
+    {
+      "surface": "לַ֭מְנַצֵּחַ",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "שׁוּשַׁ֣ן",
+      "gloss": "Lilie"
+    },
+    {
+      "surface": "עֵד֑וּת",
+      "gloss": "des Zeugnisses"
+    },
+    {
+      "surface": "מִכְתָּ֖ם",
+      "gloss": "ein Michtam"
+    },
+    {
+      "surface": "לְדָוִ֣ד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "לְלַמֵּֽד",
+      "gloss": "zum Lehren"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:12.642555663Z",
+  "model": "glm-5.2"
+}

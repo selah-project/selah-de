@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Nahe ist JHWH den Zerbrochenen des Herzens, und ⟨את⟩ die Zerschlagenen des Geistes rettet er.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nahe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ist JHWH"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "den Zerbrochenen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "des Herzens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Zerschlagenen des Geistes"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "die Zerschlagenen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "des Geistes"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "rettet er"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:05.476103538Z",
+  "model": "glm-5.2"
+}

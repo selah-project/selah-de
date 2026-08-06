@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 61,
+  "translation": "Ich will weilen in deinem Zelt für immer, ich will mich bergen im Verborgenen deiner Flügel. Sela.",
+  "tokens": [
+    {
+      "surface": "אָג֣וּרָה",
+      "gloss": "ich will weilen"
+    },
+    {
+      "surface": "בְ֭אָהָלְךָ",
+      "gloss": "in deinem Zelt"
+    },
+    {
+      "surface": "עוֹלָמִ֑ים",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "אֶֽחֱסֶ֨ה",
+      "gloss": "ich will mich bergen"
+    },
+    {
+      "surface": "בְסֵ֖תֶר",
+      "gloss": "im Verborgenen"
+    },
+    {
+      "surface": "כְּנָפֶ֣יךָ",
+      "gloss": "deiner Flügel"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T06:43:47.613573451Z",
+  "model": "glm-5.2"
+}

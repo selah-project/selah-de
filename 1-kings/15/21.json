@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und es geschah, als Baäscha ⟨das⟩ hörte, da hörte er auf, ⟨את⟩ Rama zu bauen, und ⟨er⟩ blieb in Tirza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "als hörte"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baäscha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "da hörte er auf"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "zu bauen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und blieb"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "in Tirza"
+    }
+  ],
+  "timestamp": "2026-08-06T03:00:33.051466941Z",
+  "model": "glm-5.2"
+}

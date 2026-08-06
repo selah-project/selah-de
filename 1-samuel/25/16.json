@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Eine Mauer waren sie über uns, bei Nacht und bei Tag, alle Tage, als wir bei ihnen waren, die Schafherden hütend.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "Eine Mauer"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "über uns"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sowohl"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bei Nacht"
+    },
+    {
+      "surface": "גם",
+      "gloss": "als auch"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "bei Tag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "als wir waren"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bei ihnen"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "die … hütend"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "Schafherden"
+    }
+  ],
+  "timestamp": "2026-08-06T05:42:04.437722156Z",
+  "model": "glm-5.2"
+}

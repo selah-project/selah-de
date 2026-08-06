@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 113,
+  "translation": "⟨der⟩ aufrichtet ⟨den⟩ Geringen aus ⟨dem⟩ Staub, aus ⟨dem⟩ Misthaufen ⟨den⟩ Bedürftigen hebt ⟨er⟩ empor,",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "⟨der⟩ aufrichtet"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "aus ⟨dem⟩ Staub"
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨den⟩ Geringen"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "aus ⟨dem⟩ Misthaufen"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "hebt ⟨er⟩ empor"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "⟨den⟩ Bedürftigen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:27.575471966Z",
+  "model": "glm-5.2"
+}

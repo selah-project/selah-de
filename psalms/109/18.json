@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Und er kleidete sich mit Verfluchung wie mit seinem Gewand, und sie kam wie Wasser in sein Inneres und wie Öl in seine Gebeine.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "und er kleidete sich"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "mit Verfluchung"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "wie mit seinem Gewand"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "und sie kam"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "wie Wasser"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in sein Inneres"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "und wie Öl"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "in seine Gebeine"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:05.394847391Z",
+  "model": "glm-5.2"
+}

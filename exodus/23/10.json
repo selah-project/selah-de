@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und sechs Jahre sollst du ⟨את⟩ dein Land besäen und ⟨את⟩ seinen Ertrag einsammeln.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Und sechs"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sollst du besäen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Land"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "dein Land"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "und ⟨du sollst⟩ einsammeln"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Ertrag"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "seinen Ertrag"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:00.091601788Z",
+  "model": "glm-5.2"
+}

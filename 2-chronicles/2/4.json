@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨das⟩ Haus, das ich baue, ⟨ist⟩ groß, denn groß ist unser Elohim über allen Göttern.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Und ⟨das⟩ Haus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "baue"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groß"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groß"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "über allen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Göttern"
+    }
+  ],
+  "timestamp": "2026-08-06T20:45:14.478720079Z",
+  "model": "glm-5.2"
+}

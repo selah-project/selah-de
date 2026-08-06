@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 96,
+  "translation": "Neigt euch vor JHWH in der Pracht der Heiligkeit, zittert vor seinem Angesicht, ⟨du⟩ ganze Erde!",
+  "tokens": [
+    {
+      "surface": "הִשְׁתַּחֲו֣וּ",
+      "gloss": "Neigt euch vor"
+    },
+    {
+      "surface": "לַ֭יהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בְּהַדְרַת",
+      "gloss": "in der Pracht"
+    },
+    {
+      "surface": "קֹ֑דֶשׁ",
+      "gloss": "der Heiligkeit"
+    },
+    {
+      "surface": "חִ֥ילוּ",
+      "gloss": "zittert"
+    },
+    {
+      "surface": "מִ֝פָּנָ֗יו",
+      "gloss": "vor seinem Angesicht"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "⟨du⟩ ganze"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:12.183831188Z",
+  "model": "glm-5.2"
+}

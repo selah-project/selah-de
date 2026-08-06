@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "So wie du nicht weißt, was der Weg der Ruach ⟨ist⟩, ⟨noch⟩ wie die Gebeine ⟨im⟩ Leib der Schwangeren, so weißt du nicht ⟨את⟩ das Werk des Elohim, der ⟨את⟩ das Ganze macht.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "du nicht"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "weißt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "der Weg"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "der Ruach"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "wie die Gebeine"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "im Leib"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "der Schwangeren"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "weißt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Werk"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "das Werk"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "macht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Ganze"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "das Ganze"
+    }
+  ],
+  "timestamp": "2026-08-06T09:29:10.415845746Z",
+  "model": "glm-5.2"
+}

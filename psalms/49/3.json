@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "sowohl Menschensöhne als auch Männersöhne, Reicher und Armer zusammen.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sowohl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "als auch"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "des Mannes"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "Reicher"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "und Armer"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:36.398664044Z",
+  "model": "glm-5.2"
+}

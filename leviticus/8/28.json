@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 8:28",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Mosche nahm ⟨sie⟩ von ihren Händen und ließ auf dem Altar rauchen, auf der Ola. Einweihungsopfer ⟨sind sie⟩ zum beruhigenden Duft, ein Feueropfer ist es für JHWH.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und nahm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨sie⟩",
+      "marks": "von ihren Händen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von"
+    },
+    {
+      "surface": "כפיהם",
+      "gloss": "ihren Händen"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "und ließ rauchen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "auf dem Altar"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "der Ola"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "Einweihungsopfer"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨sind sie⟩"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "zum Duft"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "beruhigenden"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ein Feueropfer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist es"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:22:07.158858234Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Wer mit einer Frau die Ehe bricht, ⟨ist⟩ verständig ⟨unfähig⟩ — er, ⟨der⟩ seine Nefesch zugrunde richtet, tut es.",
+  "tokens": [
+    {
+      "surface": "נֹאֵף",
+      "gloss": "Wer … die Ehe bricht"
+    },
+    {
+      "surface": "אִשָּׁה",
+      "gloss": "mit einer Frau"
+    },
+    {
+      "surface": "חֲסַר",
+      "gloss": "⟨unfähig⟩"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "verständig"
+    },
+    {
+      "surface": "מַשְׁחִית",
+      "gloss": "⟨der⟩ zugrunde richtet"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "seine Nefesch"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "er"
+    },
+    {
+      "surface": "יַעֲשֶׂנָּה",
+      "gloss": "tut es"
+    }
+  ],
+  "timestamp": "2026-08-06T04:26:28.452106360Z",
+  "model": "glm-5.2"
+}

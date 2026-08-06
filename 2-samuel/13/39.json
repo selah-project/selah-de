@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 13:39",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und ⟨die Nefesch⟩ des Königs Dawid hörte auf, hinauszugehen zu Aweschalom, denn er war getröstet über Amnon, denn ⟨er⟩ war tot.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "Und ⟨die Nefesch⟩ hörte auf"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "hinauszugehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Aweschalom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "war getröstet"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מת",
+      "gloss": "⟨er⟩ war tot"
+    }
+  ],
+  "timestamp": "2026-08-05T21:20:21.736264198Z",
+  "model": "glm-5.2"
+}

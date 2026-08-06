@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Er gebe dir nach deinem Herzen, und deinen ganzen Rat erfülle er.",
+  "tokens": [
+    {
+      "surface": "יִּתֶּן",
+      "gloss": "Er gebe"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "dir"
+    },
+    {
+      "surface": "כִלְבָבֶךָ",
+      "gloss": "nach deinem Herzen"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und deinen ganzen"
+    },
+    {
+      "surface": "עֲצָתְךָ",
+      "gloss": "Rat"
+    },
+    {
+      "surface": "יְמַלֵּא",
+      "gloss": "erfülle er"
+    }
+  ],
+  "timestamp": "2026-08-06T22:46:43.985411408Z",
+  "model": "glm-5.2"
+}

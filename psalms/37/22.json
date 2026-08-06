@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Denn ⟨die⟩ von Ihm Gesegneten erben ⟨die⟩ Erde, ⟨aber⟩ ⟨die⟩ von Ihm Verfluchten werden ausgerottet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "die von Ihm Gesegneten"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "erben"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "die von Ihm Verfluchten"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "werden ausgerottet"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:38.305699359Z",
+  "model": "glm-5.2"
+}

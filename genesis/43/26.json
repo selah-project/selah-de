@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Und Josef kam ins Haus, und sie brachten ihm ⟨את⟩ das Geschenk, das in ihrer Hand war, ins Haus, und sie verneigten sich vor ihm zur Erde.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und … kam"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ins Haus"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "und sie brachten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Geschenk"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "das Geschenk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "in ihrer Hand war"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ins Haus"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "und sie verneigten sich"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T17:41:33.430796098Z",
+  "model": "glm-5.2"
+}

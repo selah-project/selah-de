@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Balak tat, wie Bilam gesagt hatte, und er opferte ⟨je⟩ einen Stier und einen Widder auf dem Altar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "und ⟨er⟩ tat"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesagt hatte"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und ⟨er⟩ opferte"
+    },
+    {
+      "surface": "פר",
+      "gloss": "einen Stier"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "und ⟨einen⟩ Widder"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "auf dem Altar"
+    }
+  ],
+  "timestamp": "2026-08-05T20:36:42.243907266Z",
+  "model": "glm-5.2"
+}

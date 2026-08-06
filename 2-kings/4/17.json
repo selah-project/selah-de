@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 4:17",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨die⟩ Frau wurde schwanger und gebar ⟨einen⟩ Sohn zu ⟨der⟩ bestimmten Zeit, zu dieser Zeit, ⟨im⟩ Lebensjahr, von der Elischá zu ihr geredet hatte.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "und ⟨die⟩ Frau wurde schwanger"
+    },
+    {
+      "surface": "האשה",
+      "gloss": ""
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "und gebar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨einen⟩ Sohn"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "zu ⟨der⟩ bestimmten Zeit"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "nach ⟨der⟩ Zeit"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "des Lebens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "von der"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geredet hatte"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "zu ihr"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elischá"
+    }
+  ],
+  "timestamp": "2026-08-06T10:07:56.120097304Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "„JHWH, unser Elohim, hat zu uns gesprochen am Chorew, indem ⟨er⟩ sprach: Genug ⟨ist es⟩ für euch, ⟨auf⟩ diesem Berg zu verweilen.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֧ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֵ֛ינוּ",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "hat gesprochen"
+    },
+    {
+      "surface": "אֵלֵ֖ינוּ",
+      "gloss": "zu uns"
+    },
+    {
+      "surface": "בְּחֹרֵ֣ב",
+      "gloss": "am Chorew"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "indem ⟨er⟩ sprach"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "Genug"
+    },
+    {
+      "surface": "לָכֶ֥ם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "שֶׁ֖בֶת",
+      "gloss": "zu verweilen"
+    },
+    {
+      "surface": "בָּהָ֥ר",
+      "gloss": "⟨auf⟩ ⟨dem⟩ Berg"
+    },
+    {
+      "surface": "הַזֶּֽה",
+      "gloss": "diesem"
+    }
+  ],
+  "timestamp": "2026-08-06T00:40:55.475278183Z",
+  "model": "glm-5.2"
+}

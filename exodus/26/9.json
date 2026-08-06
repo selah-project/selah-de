@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und du sollst verbinden ⟨את⟩ fünf der Behänge für sich und ⟨את⟩ sechs der Behänge für sich, und du sollst ⟨את⟩ den sechsten Behang verdoppeln gegenüber der Vorderseite des Zeltes.",
+  "tokens": [
+    {
+      "surface": "וְחִבַּרְתָּ",
+      "gloss": "und du sollst verbinden"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "fünf der Behänge"
+    },
+    {
+      "surface": "חֲמֵשׁ",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "הַיְרִיעֹת",
+      "gloss": "der Behänge"
+    },
+    {
+      "surface": "לְבָד",
+      "gloss": "für sich"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sechs der Behänge"
+    },
+    {
+      "surface": "שֵׁשׁ",
+      "gloss": "sechs"
+    },
+    {
+      "surface": "הַיְרִיעֹת",
+      "gloss": "der Behänge"
+    },
+    {
+      "surface": "לְבָד",
+      "gloss": "für sich"
+    },
+    {
+      "surface": "וְכָפַלְתָּ",
+      "gloss": "und du sollst verdoppeln"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den sechsten Behang"
+    },
+    {
+      "surface": "הַיְרִיעָה",
+      "gloss": "den Behang"
+    },
+    {
+      "surface": "הַשִּׁשִּׁית",
+      "gloss": "den sechsten"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "מוּל",
+      "gloss": "der Vorderseite"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "von"
+    },
+    {
+      "surface": "הָאֹהֶל",
+      "gloss": "dem Zelt"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:04.978131119Z",
+  "model": "glm-5.2"
+}

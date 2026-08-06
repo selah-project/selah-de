@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Wer seinen Nächsten verachtet, ⟨ist⟩ ein Vernunftloser; ⟨aber⟩ ein Mann von Einsichten schweigt.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "verachtet"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "seinen Nächsten"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "⟨ist⟩ ein … Mangelloser"
+    },
+    {
+      "surface": "לב",
+      "gloss": "an Herz"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "und ⟨ein⟩ Mann"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "von Einsichten"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "schweigt"
+    }
+  ],
+  "timestamp": "2026-08-06T09:21:08.340683864Z",
+  "model": "glm-5.2"
+}

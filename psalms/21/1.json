@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Dem Chorleiter. Ein Mismor von Dawid.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Ein Mismor"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:06.866540446Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 79,
+  "translation": "Gieße aus deine Glut über die Völker, die dich nicht kannten, und über die Königreiche, die ⟨in⟩ deinem Namen nicht riefen.",
+  "tokens": [
+    {
+      "surface": "שְׁפֹךְ",
+      "gloss": "gieße aus"
+    },
+    {
+      "surface": "חֲמָתְךָ֨",
+      "gloss": "deine Glut"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "über"
+    },
+    {
+      "surface": "הַגּוֹיִם֮",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יְדָ֫ע֥וּךָ",
+      "gloss": "dich kannten"
+    },
+    {
+      "surface": "וְעַ֥ל",
+      "gloss": "und über"
+    },
+    {
+      "surface": "מַמְלָכ֑וֹת",
+      "gloss": "die Königreiche"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בְּ֝שִׁמְךָ֗",
+      "gloss": "in deinem Namen"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "קָרָֽאוּ",
+      "gloss": "riefen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:28.610198797Z",
+  "model": "glm-5.2"
+}

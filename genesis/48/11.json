@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Und Jisraël sprach zu Josef: „Dein Gesicht zu sehen — ⟨das⟩ hatte ich nicht erhofft, und siehe, Elohim hat mich ⟨את⟩ sogar ⟨את⟩ deinen Samen sehen lassen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zu sehen"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Gesicht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "hatte ich erhofft"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "hat … sehen lassen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sogar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Samen"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "deinen Samen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:13:28.990640189Z",
+  "model": "glm-5.2"
+}

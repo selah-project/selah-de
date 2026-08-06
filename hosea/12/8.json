@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Ein Kanaaniter — in seiner Hand sind Waagen des Trugs, Unterdrückung liebt er.",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "Ein Kanaaniter"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in seiner Hand"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "Waangen"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "des Trugs"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "Unterdrückung"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liebt er"
+    }
+  ],
+  "timestamp": "2026-08-05T22:32:32.437230127Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Und ⟨die⟩ Emet wurde vermisst, und wer vom Bösen abbiegt, ⟨wird⟩ ausgeplündert, und JHWH sah, und es war böse in seinen Augen, dass kein Recht ⟨da war⟩.",
+  "tokens": [
+    {
+      "surface": "וַתְּהִ֤י",
+      "gloss": "Und ⟨die⟩ wurde"
+    },
+    {
+      "surface": "הָֽאֱמֶת֙",
+      "gloss": "Emet"
+    },
+    {
+      "surface": "נֶעְדֶּ֔רֶת",
+      "gloss": "vermisst"
+    },
+    {
+      "surface": "וְסָ֥ר",
+      "gloss": "und wer abbiegt"
+    },
+    {
+      "surface": "מֵרָ֖ע",
+      "gloss": "vom Bösen"
+    },
+    {
+      "surface": "מִשְׁתּוֹלֵ֑ל",
+      "gloss": "⟨wird⟩ ausgeplündert"
+    },
+    {
+      "surface": "וַיַּ֧רְא",
+      "gloss": "und JHWH sah"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וַיֵּ֥רַע",
+      "gloss": "und es war böse"
+    },
+    {
+      "surface": "בְּעֵינָ֖יו",
+      "gloss": "in seinen Augen"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "kein"
+    },
+    {
+      "surface": "מִשְׁפָּֽט",
+      "gloss": "Recht"
+    }
+  ],
+  "timestamp": "2026-08-06T03:21:56.422984007Z",
+  "model": "glm-5.2"
+}

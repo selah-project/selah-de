@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Harre auf JHWH! Sei stark, und ⟨es⟩ stärke ⟨sich⟩ dein Herz, und harre auf JHWH!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Harre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Sei stark"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "und ⟨es⟩ stärke ⟨sich⟩"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dein Herz"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "und harre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:22.251871207Z",
+  "model": "glm-5.2"
+}

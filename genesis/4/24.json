@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Denn siebenmal wird Qain gerächt, aber Lemek siebenundsiebzigmal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "siebenmal"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "wird gerächt"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qain"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "aber Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "siebzig"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "und sieben"
+    }
+  ],
+  "timestamp": "2026-08-06T01:51:02.721394474Z",
+  "model": "glm-5.2"
+}

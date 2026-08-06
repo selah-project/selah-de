@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und Jaakow wohnte im Land der Aufenthalte seines Vaters, im Land Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Und ⟨er⟩ wohnte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "der Aufenthalte"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-05T20:02:09.330075513Z",
+  "model": "glm-5.2"
+}

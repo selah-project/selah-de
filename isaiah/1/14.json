@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 1:14",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Eure Neumonde und eure Festzeiten hat meine Nefesch gehasst. Sie sind mir zur Last geworden — ich bin erschöpft, ⟨sie⟩ zu tragen.",
+  "tokens": [
+    {
+      "surface": "חדשיכם",
+      "gloss": "eure Neumonde"
+    },
+    {
+      "surface": "ומועדיכם",
+      "gloss": "und eure Festzeiten"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "hat gehasst"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sind geworden"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לטרח",
+      "gloss": "zur Last"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "ich bin erschöpft"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "zu tragen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:42:21.309560850Z",
+  "model": "glm-5.2"
+}

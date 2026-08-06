@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und wie das Licht des Morgens, wenn die Sonne aufgeht, ein Morgen ohne Wolken — ⟨so bringt er⟩ durch Glänzen, ⟨durch⟩ Regen grünes Gras ⟨hervor⟩ aus der Erde.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "Und wie das Licht"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "des Morgens"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "wenn aufgeht"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "die Sonne"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ein Morgen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "Wolken"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "durch Glänzen"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "⟨durch⟩ Regen"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "grünes Gras"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T21:23:40.270002347Z",
+  "model": "glm-5.2"
+}

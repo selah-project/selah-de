@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und ⟨er⟩ erhob ⟨seine⟩ Hand gegen sie — ⟨um⟩ sie fallen zu lassen ⟨את⟩ sie in der Wüste.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Und ⟨er⟩ erhob"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "⟨seine⟩ Hand"
+    },
+    {
+      "surface": "להם",
+      "gloss": "gegen sie"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "⟨um⟩ fallen zu lassen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:18.581681073Z",
+  "model": "glm-5.2"
+}

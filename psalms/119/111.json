@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich habe deine Zeugnisse als Erbteil empfangen für immer, denn sie sind die Freude meines Herzens.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "Ich habe … als Erbteil empfangen"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "deine Zeugnisse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "die Freude"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "meines Herzens"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie sind"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:20.214991170Z",
+  "model": "glm-5.2"
+}

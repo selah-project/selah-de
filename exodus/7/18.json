@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 7:18",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und die Fische, die im Fluss ⟨sind⟩, werden sterben, und der Fluss wird stinken, und Mizrajim wird es sich verbieten, Wasser aus dem Fluss zu trinken.",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "und_die_Fische"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "im_Fluss"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "werden_sterben"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "und_wird_stinken"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "der_Fluss"
+    },
+    {
+      "surface": "ונלאו",
+      "gloss": "und_wird_es_sich_verbieten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "zu_trinken"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "dem_Fluss"
+    }
+  ],
+  "timestamp": "2026-08-06T09:44:55.016900824Z",
+  "model": "glm-5.2"
+}

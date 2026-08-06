@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Alle Städte der Ebene und das ganze Gil'ad und das ganze Baschan, bis Salcha und Edre'i — Städte des Königtums von Og in Baschan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "der Ebene"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ⟨das⟩ ganze"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ⟨das⟩ ganze"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Baschan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salcha"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "und Edre'i"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "des Königtums"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "von Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "in Baschan"
+    }
+  ],
+  "timestamp": "2026-08-06T00:41:52.941072099Z",
+  "model": "glm-5.2"
+}

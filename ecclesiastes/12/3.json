@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "an dem Tag, da die Wächter des Hauses zittern und die Männer der Kraft sich krümmen und die Mühlen schweigen, weil sie wenige geworden sind, und die Schauenden in den Fenstern sich verfinstern —",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "da zittern"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "die Wächter"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "und sich krümmen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "der Kraft"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "und schweigen"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "die Mühlen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "sie wenige geworden sind"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "und sich verfinstern"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "die Schauenden"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "in den Fenstern"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:10.524270042Z",
+  "model": "glm-5.2"
+}

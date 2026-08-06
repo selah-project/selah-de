@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und ⟨er⟩ soll ⟨את⟩ das Haus ringsum von innen abschaben, und sie sollen den Staub, den sie abgekratzt haben, ⟨את⟩, hinaus nach außerhalb der Stadt an einen unreinen Ort schütten, ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "soll er abschaben"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "von innen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "und sie sollen schütten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Staub"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "den Staub"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "sie abgekratzt haben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "einen Ort"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unreinen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:24:16.373570879Z",
+  "model": "glm-5.2"
+}

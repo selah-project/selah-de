@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 99,
+  "translation": "JHWH ist groß in Zion, und erhaben ist er über alle Völker.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Zion"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ist groß"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "und erhaben"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist er"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Völker"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:08.308481869Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und du sollst Öl auf sie geben und Weihrauch auf sie legen — ⟨es ist⟩ eine Mincha.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Und du sollst geben"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "auf sie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "Öl"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "und ⟨sollst⟩ legen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "auf sie"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Weihrauch"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "eine Mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨es ist⟩ sie"
+    }
+  ],
+  "timestamp": "2026-08-05T20:19:34.929502789Z",
+  "model": "glm-5.2"
+}

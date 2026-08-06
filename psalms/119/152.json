@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Längst habe ich ⟨es⟩ gekannt aus deinen Zeugnissen: dass du sie für die Ewigkeit gegründet hast.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "Längst"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "habe ich gekannt"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "aus deinen Zeugnissen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für die Ewigkeit"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "du sie gegründet hast"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:44.720595699Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Sie schauten um Hilfe, aber ⟨ es war⟩ kein Retter ⟨ da⟩ — zu JHWH, und er antwortete ihnen nicht.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "Sie schauten um Hilfe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aber kein"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "Retter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "er antwortete ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:20:13.850792762Z",
+  "model": "glm-5.2"
+}

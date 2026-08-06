@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "dann werden wir ⟨את⟩ unsere Töchter euch geben und ⟨את⟩ eure Töchter werden wir uns nehmen, und wir werden bei euch wohnen und ⟨zu⟩ einem Volk werden.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "dann werden wir geben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unsere Töchter"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "unsere Töchter"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "eure Töchter"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "eure Töchter"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "werden wir nehmen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "und wir werden wohnen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "bei euch"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "und wir werden"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨zu⟩ einem Volk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eins"
+    }
+  ],
+  "timestamp": "2026-08-05T20:00:25.766405263Z",
+  "model": "glm-5.2"
+}

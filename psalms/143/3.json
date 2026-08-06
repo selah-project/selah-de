@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 143,
+  "translation": "Denn ⟨der⟩ Feind hat ⟨meine⟩ Nefesch verfolgt, ⟨er⟩ hat ⟨mein⟩ Leben zur Erde zerschmettert, ⟨er⟩ hat mich ⟨in⟩ Finsternissen wohnen lassen wie die Toten der Urzeit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "hat verfolgt"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "Feind"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "zertrümmert"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "mein Leben"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "mich wohnen lassen"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "in Finsternissen"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "wie die Toten"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "der Urzeit"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:58.954958541Z",
+  "model": "glm-5.2"
+}

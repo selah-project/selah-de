@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Nicht sollen sie sagen in ihrem Herzen: „Hecha! ⟨Ihre⟩ Nefesch!\" Nicht sollen sie sagen: „Wir haben ihn verschlungen.\"",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sollen sie sagen"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "in ihrem Herzen"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hecha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "unsere Nefesch"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sollen sie sagen"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "wir haben ihn verschlungen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:42.882666672Z",
+  "model": "glm-5.2"
+}

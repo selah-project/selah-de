@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Ischawel, seine Frau, kam zu ihm und sprach zu ihm: „Was ⟨ist⟩ das, dein Geist ist abgewandt, und du isst kein Brot?“",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "und ⟨sie⟩ kam"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Ischawel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seine Frau"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "und ⟨sie⟩ sprach"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "זה",
+      "gloss": "das"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "dein Geist"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ist abgewandt"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "und ⟨du⟩ bist nicht"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "essend"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    }
+  ],
+  "timestamp": "2026-08-06T01:29:37.430788134Z",
+  "model": "glm-5.2"
+}

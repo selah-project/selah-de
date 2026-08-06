@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Denn er hat herabgeschaut aus der Höhe seines Heiligtums, JHWH, vom Himmel zur Erde hat ⟨er⟩ geschaut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "hat herabgeschaut"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "aus der Höhe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "seines Heiligtums"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "vom Himmel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "hat ⟨er⟩ geschaut"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:42.105698985Z",
+  "model": "glm-5.2"
+}

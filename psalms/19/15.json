@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Es seien die Worte meines Mundes zum Wohlgefallen und das Sinnen meines Herzens vor dir, JHWH, mein Fels und mein Goel.",
+  "tokens": [
+    {
+      "surface": "יִֽהְי֥וּ",
+      "gloss": "es seien"
+    },
+    {
+      "surface": "לְרָצ֨וֹן",
+      "gloss": "zum Wohlgefallen"
+    },
+    {
+      "surface": "אִמְרֵי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "פִ֡י",
+      "gloss": "meines Mundes"
+    },
+    {
+      "surface": "וְהֶגְי֣וֹן",
+      "gloss": "und das Sinnen"
+    },
+    {
+      "surface": "לִבִּ֣י",
+      "gloss": "meines Herzens"
+    },
+    {
+      "surface": "לְפָנֶ֑יךָ",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צוּרִ֥י",
+      "gloss": "mein Fels"
+    },
+    {
+      "surface": "וְגֹאֲלִֽי",
+      "gloss": "und mein Goel"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:13.640085018Z",
+  "model": "glm-5.2"
+}

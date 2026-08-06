@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Sie sahen ⟨es⟩, so erschraken sie; sie gerieten in Bestürzung, flüchteten hastig.",
+  "tokens": [
+    {
+      "surface": "הֵ֣מָּה",
+      "gloss": "Sie"
+    },
+    {
+      "surface": "רָא֑וּ",
+      "gloss": "sahen"
+    },
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תָּמָֽהוּ",
+      "gloss": "erschraken sie"
+    },
+    {
+      "surface": "נִבְהֲל֥וּ",
+      "gloss": "gerieten in Bestürzung"
+    },
+    {
+      "surface": "נֶחְפָּֽזוּ",
+      "gloss": "flüchtigten hastig"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:56.163797669Z",
+  "model": "glm-5.2"
+}

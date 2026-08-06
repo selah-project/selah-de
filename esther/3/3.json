@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und die Diener des Königs, die im Tor des Königs ⟨waren⟩, sagten zu Mordechai: „Warum überschreitest du ⟨את⟩ das Gebot des Königs?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sie sagten"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die Diener"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "im Tor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "zu Mordechai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "warum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "überschreitest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Gebot"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "das Gebot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-06T09:29:21.929183485Z",
+  "model": "glm-5.2"
+}

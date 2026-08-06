@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨er⟩ hob ihn auf und brachte ihn zu seiner Mutter, und ⟨er⟩ saß auf ihren Knien bis zum Mittag, und ⟨er⟩ starb.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "und ⟨er⟩ hob ihn auf"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "und brachte ihn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "seiner Mutter"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨er⟩ saß"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ihren Knien"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "zum Mittag"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und ⟨er⟩ starb"
+    }
+  ],
+  "timestamp": "2026-08-06T20:30:40.468787649Z",
+  "model": "glm-5.2"
+}

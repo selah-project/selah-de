@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Freut euch mit Jeruschalajim und jubelt in ihr, all ihre Liebenden! Frohlockt mit ihr ⟨in⟩ Freude, all ihr Trauernde!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Freut euch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruschalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "mit Jeruschalajim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "und jubelt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in ihr"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "ihre Liebenden"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "Frohlockt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "mit ihr"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "⟨in⟩ Freude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "ihr Trauernde"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "um sie"
+    }
+  ],
+  "timestamp": "2026-08-06T06:05:29.300553226Z",
+  "model": "glm-5.2"
+}

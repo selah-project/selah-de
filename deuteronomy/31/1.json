@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und Mosche ging hin und redete ⟨את⟩ diese Worte zu ganz Jisraël.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "und ging hin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "und redete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Worte"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-06T02:28:00.352188677Z",
+  "model": "glm-5.2"
+}

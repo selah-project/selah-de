@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Mosche ging hinaus, seinem Schwiegervater entgegen, und er verneigte sich und küsste ihn, und sie fragten einander nach Schalom, und sie kamen ⟨in⟩ das Zelt.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "und ging hinaus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "entgegen"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "seinem Schwiegervater"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "und er verneigte sich"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "und küsste"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "und sie fragten"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "seinen Nächsten"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nach Schalom"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "und sie kamen"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "⟨in⟩ das Zelt"
+    }
+  ],
+  "timestamp": "2026-08-06T02:04:16.061413175Z",
+  "model": "glm-5.2"
+}

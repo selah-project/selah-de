@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 17:18",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Da entbrannte JHWH sehr im Zorn gegen Jisra'el und entfernte sie von seinem Angesicht; es blieb nichts übrig, außer dem Stamm Jehuda, er allein.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "da entbrannte im Zorn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "gegen Jisra'el"
+    },
+    {
+      "surface": "ויסרם",
+      "gloss": "und er entfernte sie"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "seinem Angesicht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "blieb übrig"
+    },
+    {
+      "surface": "רק",
+      "gloss": "außer"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "dem Stamm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "er allein"
+    }
+  ],
+  "timestamp": "2026-08-05T21:39:23.789380075Z",
+  "model": "glm-5.2"
+}

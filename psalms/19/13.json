@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Verfehlungen — wer versteht ⟨sie⟩? Von verborgenen ⟨Dingen⟩ sprich mich frei!",
+  "tokens": [
+    {
+      "surface": "שְׁגִיא֥וֹת",
+      "gloss": "Verfehlungen"
+    },
+    {
+      "surface": "מִֽי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יָבִ֑ין",
+      "gloss": "versteht"
+    },
+    {
+      "surface": "מִֽנִּסְתָּר֥וֹת",
+      "gloss": "von verborgenen ⟨Dingen⟩"
+    },
+    {
+      "surface": "נַקֵּֽנִי",
+      "gloss": "sprich mich frei"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:13.639639668Z",
+  "model": "glm-5.2"
+}

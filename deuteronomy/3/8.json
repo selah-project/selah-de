@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und wir nahmen zu jener Zeit ⟨את⟩ das Land aus der Hand der zwei Könige des Emori, der jenseits des Jardens ⟨sind⟩, vom Bach Arnon bis zum Berg Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Und wir nahmen"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jener Zeit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "שני",
+      "gloss": "der zwei"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "des Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "jenseits"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "des Jardens"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "vom Bach"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Berg"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-08-06T00:41:49.431877950Z",
+  "model": "glm-5.2"
+}

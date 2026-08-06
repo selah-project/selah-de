@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Meine Tage sind wie ein Schatten, ⟨der⟩ hingestreckt ⟨ist⟩, und ich bin wie Kraut verdorrt.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Meine Tage"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "wie ein Schatten"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "hingestreckt"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "wie Kraut"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "bin verdorrt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:37.279223100Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "Mit Länge von Tagen werde ich ihn sättigen, und ich werde ⟨ihn⟩ mein Heil schauen lassen.",
+  "tokens": [
+    {
+      "surface": "אֹ֣רֶךְ",
+      "gloss": "Länge"
+    },
+    {
+      "surface": "יָ֭מִים",
+      "gloss": "von Tagen"
+    },
+    {
+      "surface": "אַשְׂבִּיעֵ֑הוּ",
+      "gloss": "werde ich ihn sättigen"
+    },
+    {
+      "surface": "וְ֝אַרְאֵ֗הוּ",
+      "gloss": "und ich werde ⟨ihn⟩ schauen lassen"
+    },
+    {
+      "surface": "בִּֽישׁוּעָתִֽי",
+      "gloss": "mein Heil"
+    }
+  ],
+  "timestamp": "2026-08-05T23:00:55.387657915Z",
+  "model": "glm-5.2"
+}

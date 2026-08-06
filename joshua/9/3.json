@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und die Bewohner von Giv'on hörten ⟨את⟩ das, was Jehoschua Jericho und Ai angetan hatte —",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Und die Bewohner"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "von Giv'on"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hörten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was Jehoschua Jericho und Ai angetan hatte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das, was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "angetan hatte"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Jericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "und Ai"
+    }
+  ],
+  "timestamp": "2026-08-05T20:54:54.318944620Z",
+  "model": "glm-5.2"
+}

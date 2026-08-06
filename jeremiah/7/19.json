@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "⟨Mich⟩ — ⟨את⟩ mich reizen sie zum Zorn? — Spruch JHWHs. Nicht ⟨eher⟩ ⟨את⟩ ⟨sie⟩, ⟨es⟩ betrifft ⟨sie⟩ ⟨selbst⟩, zur Schande ihrer eigenen Gesichter?",
+  "tokens": [
+    {
+      "surface": "הַאֹתִ֛י",
+      "gloss": "⟨את⟩ mich"
+    },
+    {
+      "surface": "הֵ֥ם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "מַכְעִסִ֖ים",
+      "gloss": "reizen zum Zorn"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "Spruch"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "הֲל֣וֹא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "אֹתָ֔ם",
+      "gloss": "⟨את⟩ ⟨sie⟩",
+      "marks": "sie selbst"
+    },
+    {
+      "surface": "לְמַ֖עַן",
+      "gloss": "es betrifft"
+    },
+    {
+      "surface": "בֹּ֥שֶׁת",
+      "gloss": "zur Schande"
+    },
+    {
+      "surface": "פְּנֵיהֶֽם",
+      "gloss": "ihrer Gesichter"
+    }
+  ],
+  "timestamp": "2026-08-06T03:27:26.004883225Z",
+  "model": "glm-5.2"
+}

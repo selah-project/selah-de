@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und wenn ⟨er⟩ ⟨את⟩ ein Feld seines Kaufs, das nicht von ⟨dem⟩ Feld seines Erbbesitzes ⟨ist⟩, JHWH weiht —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ein Feld"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "(ein) Feld"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "seines Kaufs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "von (dem) Feld"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "seines Erbbesitzes"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "er weiht"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T02:14:33.804103286Z",
+  "model": "glm-5.2"
+}

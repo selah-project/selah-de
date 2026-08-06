@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Und es geschah am Morgen, da wurde seine Ruach verwirrt, und er sandte hin und rief ⟨את⟩ alle Wahrsager Mizrajims und ⟨את⟩ alle ihre Weisen, und Paro erzählte ihnen ⟨את⟩ seinen Traum. Aber da war keiner, der sie dem Paro deuten konnte.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "da wurde verwirrt"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "seine Ruach"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "und er sandte hin"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und rief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Wahrsager Mizrajims"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "Wahrsager"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajims"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle ihre Weisen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "ihre Weisen"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "und erzählte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Traum"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "seinen Traum"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "Aber da war keiner"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "der deuten konnte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "sie",
+      "marks": "ihn (Paro)"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "dem Paro"
+    }
+  ],
+  "timestamp": "2026-08-05T20:02:30.933724730Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Kein Mensch hat Gewalt über den Ruach, den Ruach einzusperren, und ⟨es gibt⟩ keine Herrschaft am Tag des Todes; und ⟨es gibt⟩ keine Entlassung im Krieg, und Rschä rettet ⟨את⟩ seine Herren nicht.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Kein"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "hat Gewalt"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "über den Ruach"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "einzusperren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Ruach"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "den Ruach"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es gibt⟩ keine"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "Herrschaft"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "המות",
+      "gloss": "des Todes"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es gibt⟩ keine"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "Entlassung"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "im Krieg"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "rettet"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Rschä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Herren"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "seine Herren"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:12.579271004Z",
+  "model": "glm-5.2"
+}

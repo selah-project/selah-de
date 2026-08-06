@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "denn ⟨bei⟩ dem Elohim seines Vaters suchte er, und in seinen Geboten ging er, und nicht nach der Praxis von Jisra'el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "⟨bei⟩ dem Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "suchte er"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "und in seinen Geboten"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ging er"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "nach der Praxis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-05T23:56:33.402242271Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "Denn an mir hängt ⟨er⟩, und ich werde ihn entrinnen lassen; ich werde ihn erhöhen, denn ⟨er⟩ hat meinen Namen erkannt.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בִ֣י",
+      "gloss": "an mir"
+    },
+    {
+      "surface": "חָ֭שַׁק",
+      "gloss": "hängt"
+    },
+    {
+      "surface": "וַאֲפַלְּטֵ֑הוּ",
+      "gloss": "und ich werde ihn entrinnen lassen"
+    },
+    {
+      "surface": "אֲ֝שַׂגְּבֵ֗הוּ",
+      "gloss": "ich werde ihn erhöhen"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יָדַ֥ע",
+      "gloss": "hat erkannt"
+    },
+    {
+      "surface": "שְׁמִֽי",
+      "gloss": "meinen Namen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:00:55.387484816Z",
+  "model": "glm-5.2"
+}

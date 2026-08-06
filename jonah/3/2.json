@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "„Steh auf, geh nach Ninwe, der großen Stadt, und rufe ⟨ihr⟩ zu ⟨את⟩ den Ruf, den ich zu dir rede!",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "לך",
+      "gloss": "geh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "der großen"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "und rufe ⟨ihr⟩ zu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "⟨ihr⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Ruf"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "den Ruf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rede"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    }
+  ],
+  "timestamp": "2026-08-06T09:10:22.046140229Z",
+  "model": "glm-5.2"
+}

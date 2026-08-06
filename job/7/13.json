@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Wenn ich sage: „Mein Lager, ⟨das⟩ wird mich trösten, mein Bett wird ⟨mein⟩ Sprechen hinwegtragen“ —",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "אָ֭מַרְתִּי",
+      "gloss": "ich sage:"
+    },
+    {
+      "surface": "תְּנַחֲמֵ֣נִי",
+      "gloss": "⟨das⟩ wird mich trösten"
+    },
+    {
+      "surface": "עַרְשִׂ֑י",
+      "gloss": "Mein Lager"
+    },
+    {
+      "surface": "יִשָּׂ֥א",
+      "gloss": "wird hinwegtragen"
+    },
+    {
+      "surface": "בְ֝שִׂיחִ֗י",
+      "gloss": "mein Sprechen"
+    },
+    {
+      "surface": "מִשְׁכָּבִֽי",
+      "gloss": "mein Bett"
+    }
+  ],
+  "timestamp": "2026-08-06T21:25:23.868356872Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Kajin erkannte ⟨את⟩ seine Frau, und sie wurde schwanger und gebar ⟨את⟩ Chanoch. Und ⟨er⟩ war ⟨eine⟩ Stadt bauend, und er rufte den Namen der Stadt nach dem Namen seines Sohnes, Chanoch.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "und er kannte"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Frau"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seine Frau"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "und sie wurde schwanger"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "und sie gebar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanoch"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoch"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und er war"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bauend"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er rief"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Namen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "nach dem Namen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seines Sohnes"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoch"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:05.096943707Z",
+  "model": "glm-5.2"
+}

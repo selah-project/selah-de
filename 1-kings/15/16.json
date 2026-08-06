@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und ⟨es⟩ war Krieg zwischen Asa und zwischen Baascha, dem König von Jisraël, alle ihre Tage.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Und Krieg"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "war"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baascha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ihre Tage"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:36.806168498Z",
+  "model": "glm-5.2"
+}

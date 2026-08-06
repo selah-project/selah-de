@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Dawid sah, dass Schaul ausgezogen war, um ⟨את⟩ sein Leben zu suchen; und Dawid ⟨war⟩ in der Wüste von Sif, in Chorascha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ausgezogen war"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "um zu suchen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Leben"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sein Leben"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "und Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "von Sif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "in Chorascha"
+    }
+  ],
+  "timestamp": "2026-08-06T02:46:25.872787675Z",
+  "model": "glm-5.2"
+}

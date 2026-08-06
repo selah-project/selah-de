@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "In deiner Zedaka rette du mich, ⟨und⟩ entreiße mir ⟨die Gefahr⟩; neige zu mir dein Ohr und rette mich.",
+  "tokens": [
+    {
+      "surface": "בְּצִדְקָתְךָ֗",
+      "gloss": "In deiner Zedaka"
+    },
+    {
+      "surface": "תַּצִּילֵ֥נִי",
+      "gloss": "rette du mich"
+    },
+    {
+      "surface": "וּֽתְפַלְּטֵ֑נִי",
+      "gloss": "und entreiße mir"
+    },
+    {
+      "surface": "הַטֵּֽה",
+      "gloss": "neige"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "אָ֝זְנְךָ֗",
+      "gloss": "dein Ohr"
+    },
+    {
+      "surface": "וְהוֹשִׁיעֵֽנִי",
+      "gloss": "und rette mich"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:24.216469793Z",
+  "model": "glm-5.2"
+}

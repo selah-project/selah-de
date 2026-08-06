@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "Witwe und Fremdling erschlagen sie, und Waisen morden sie.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Witwe"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "und Fremdling"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "erschlagen sie"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "und Waisen"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "morden sie"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:47.881563212Z",
+  "model": "glm-5.2"
+}

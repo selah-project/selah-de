@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Deine Bedränger brüllen inmitten deiner Versammlung, sie haben ihre Zeichen als Zeichen eingesetzt.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "brüllen"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "Deine Bedränger"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "deiner Versammlung"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sie haben eingesetzt"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "ihre Zeichen"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "als Zeichen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:58.272406403Z",
+  "model": "glm-5.2"
+}

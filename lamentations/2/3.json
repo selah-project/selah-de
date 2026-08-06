@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 2:3",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Abgehauen hat er im Glühen seines Zorns das ganze Horn Jisraels, zurückgezogen hat er seine Rechte vor dem Feind, und er hat in Jaakow gebrannt wie loderndes Feuer — es fraß ringsum.",
+  "tokens": [
+    {
+      "surface": "גדע",
+      "gloss": "Abgehauen"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "im Glühen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "seines Zorns"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Horn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "zurückgezogen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "⟨zurück⟩"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hat er seine Rechte"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dem Feind"
+    },
+    {
+      "surface": "ויבער",
+      "gloss": "und er hat gebrannt"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "in Jaakow"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "wie Feuer"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "loderndes"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "es fraß"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    }
+  ],
+  "timestamp": "2026-08-06T09:27:32.129201242Z",
+  "model": "glm-5.2"
+}

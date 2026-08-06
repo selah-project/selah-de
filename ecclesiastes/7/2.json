@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Besser ⟨ist es⟩, in ein Trauerhaus zu gehen als in ein Festhaus, denn das ⟨ist⟩ das Ende aller Menschen, und der Lebende gibt es auf sein Herz.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "⟨ist es⟩ zu gehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ein Haus"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "der Trauer"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "als zu gehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ein Haus"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "des Festes"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "das"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "das Ende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Menschen"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "und der Lebende"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sein Herz"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:50.260935311Z",
+  "model": "glm-5.2"
+}

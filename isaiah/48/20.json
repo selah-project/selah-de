@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 48:20",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Geht hinaus aus Bawel, flieht aus ⟨dem Land⟩ der Kasdim! Mit der Stimme ⟨des⟩ Jubels verkündet, lasst hören ⟨dies⟩, führt es hinaus bis ans Ende der Erde! Sagt: gelöst ⟨hat⟩ JHWH ⟨ seinen Knecht⟩ Jaakow!",
+  "tokens": [
+    {
+      "surface": "צאו",
+      "gloss": "Geht hinaus"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "aus Bawel"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "flieht"
+    },
+    {
+      "surface": "מכשדים",
+      "gloss": "aus ⟨dem Land⟩ der Kasdim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mit der Stimme"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "⟨des⟩ Jubels"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "verkündet"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "lasst hören"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨dies⟩"
+    },
+    {
+      "surface": "הוציאוה",
+      "gloss": "führt es hinaus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ans Ende"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Sagt"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "gelöst ⟨hat⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "⟨ seinen Knecht⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    }
+  ],
+  "timestamp": "2026-08-06T06:03:05.613794691Z",
+  "model": "glm-5.2"
+}

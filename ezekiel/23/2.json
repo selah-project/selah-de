@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "„Menschensohn, zwei Frauen ⟨waren⟩ Töchter einer Mutter, sie wurden ⟨geboren⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨eines⟩ Menschen"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "Zwei"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "Frauen"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Töchter"
+    },
+    {
+      "surface": "אם",
+      "gloss": "einer Mutter"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "einzigen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wurden ⟨geboren⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T03:48:21.970446449Z",
+  "model": "glm-5.2"
+}

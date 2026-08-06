@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 11:6",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Schelomo tat das Böse in den Augen JHWHs und war nicht vollkommen hinter JHWH her, wie Dawid, sein Vater.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֧עַשׂ",
+      "gloss": "Und tat"
+    },
+    {
+      "surface": "שְׁלֹמֹ֛ה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "הָרַ֖ע",
+      "gloss": "das Böse"
+    },
+    {
+      "surface": "בְּעֵינֵ֣י",
+      "gloss": "in den Augen"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "מִלֵּ֛א",
+      "gloss": "war vollkommen"
+    },
+    {
+      "surface": "אַחֲרֵ֥י",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כְּדָוִ֥ד",
+      "gloss": "wie Dawid"
+    },
+    {
+      "surface": "אָבִֽיו",
+      "gloss": "sein Vater"
+    }
+  ],
+  "timestamp": "2026-08-05T21:28:48.472368566Z",
+  "model": "glm-5.2"
+}

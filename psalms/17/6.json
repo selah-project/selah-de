@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Ich rufe dich an, denn du wirst mir antworten, El. Neige ⟨dein⟩ Ohr zu mir, höre mein Wort.",
+  "tokens": [
+    {
+      "surface": "אֲנִֽי",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "קְרָאתִ֣יךָ",
+      "gloss": "rufe dich an"
+    },
+    {
+      "surface": "כִֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "תַעֲנֵ֣נִי",
+      "gloss": "du wirst mir antworten"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הַֽט",
+      "gloss": "Neige"
+    },
+    {
+      "surface": "אָזְנְךָ֥",
+      "gloss": "⟨dein⟩ Ohr"
+    },
+    {
+      "surface": "לִ֝֗י",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "שְׁמַ֣ע",
+      "gloss": "höre"
+    },
+    {
+      "surface": "אִמְרָתִֽי",
+      "gloss": "mein Wort"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:57.644559786Z",
+  "model": "glm-5.2"
+}

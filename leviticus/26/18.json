@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und wenn ihr bis hierher nicht auf mich hört, werde ich ⟨את⟩ euch siebenfach züchtigen, wegen eurer Sünden.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ihr hört"
+    },
+    {
+      "surface": "לי",
+      "gloss": "auf mich"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "werde ich hinzufügen"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "zu züchtigen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siebenfach"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "eurer Sünden"
+    }
+  ],
+  "timestamp": "2026-08-06T02:14:04.238213838Z",
+  "model": "glm-5.2"
+}

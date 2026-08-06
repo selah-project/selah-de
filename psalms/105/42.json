@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Denn er gedachte ⟨an⟩ ⟨את⟩ sein heiliges Wort, ⟨an⟩ ⟨את⟩ Awraham, seinen Knecht.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "זָ֭כַר",
+      "gloss": "er gedachte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sein heiliges Wort"
+    },
+    {
+      "surface": "דְּבַ֣ר",
+      "gloss": "Wort"
+    },
+    {
+      "surface": "קָדְשׁ֑וֹ",
+      "gloss": "sein heiliges"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אַבְרָהָ֥ם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "עַבְדּֽוֹ",
+      "gloss": "seinen Knecht"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:21.190749071Z",
+  "model": "glm-5.2"
+}

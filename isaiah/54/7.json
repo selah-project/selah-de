@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 54,
+  "translation": "Einen kleinen Augenblick habe ich dich verlassen, und mit großen Erbarmungen werde ich dich sammeln.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "Einen Augenblick"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kleinen"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "habe ich dich verlassen"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "und mit Erbarmungen"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "großen"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "werde ich dich sammeln"
+    }
+  ],
+  "timestamp": "2026-08-06T03:22:17.533017451Z",
+  "model": "glm-5.2"
+}

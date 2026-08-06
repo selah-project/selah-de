@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Die Worte seines Mundes ⟨sind⟩ Unrecht und Trug; er hat aufgehört, einsichtig zu sein, Gutes zu tun.",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "Die Worte"
+    },
+    {
+      "surface": "פִ֭יו",
+      "gloss": "seines Mundes"
+    },
+    {
+      "surface": "אָ֣וֶן",
+      "gloss": "Unrecht"
+    },
+    {
+      "surface": "וּמִרְמָ֑ה",
+      "gloss": "und Trug"
+    },
+    {
+      "surface": "חָדַ֖ל",
+      "gloss": "er hat aufgehört"
+    },
+    {
+      "surface": "לְהַשְׂכִּ֣יל",
+      "gloss": "einsichtig zu sein"
+    },
+    {
+      "surface": "לְהֵיטִֽיב",
+      "gloss": "Gutes zu tun"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:30.947596599Z",
+  "model": "glm-5.2"
+}

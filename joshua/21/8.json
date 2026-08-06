@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und die Söhne Jisraels gaben den Lewim ⟨את⟩ diese Städte und ⟨את⟩ ihre Weideplätze, so wie JHWH durch die Hand Mosches geboten hatte, durchs Los.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "und sie gaben"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "den Lewim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Städte"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "die Städte"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Weideplätze"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ihre Weideplätze"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosches"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "durchs Los"
+    }
+  ],
+  "timestamp": "2026-08-05T20:58:12.056313407Z",
+  "model": "glm-5.2"
+}

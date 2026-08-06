@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Elohim segnete ⟨את⟩ den siebten Tag, und er heiligte ihn; denn an ihm ruhte er von all seiner Arbeit, die Elohim geschaffen hatte, um ⟨sie⟩ zu machen.",
+  "tokens": [
+    {
+      "surface": "וַיְבָ֤רֶךְ",
+      "gloss": "und er segnete"
+    },
+    {
+      "surface": "אֱלֹהִים֙",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den siebten Tag"
+    },
+    {
+      "surface": "י֣וֹם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "הַשְּׁבִיעִ֔י",
+      "gloss": "den siebten"
+    },
+    {
+      "surface": "וַיְקַדֵּ֖שׁ",
+      "gloss": "und er heiligte"
+    },
+    {
+      "surface": "אֹת֑וֹ",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ב֤וֹ",
+      "gloss": "an ihm"
+    },
+    {
+      "surface": "שָׁבַת֙",
+      "gloss": "ruhte er"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "von all"
+    },
+    {
+      "surface": "מְלַאכְתּ֔וֹ",
+      "gloss": "seiner Arbeit"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בָּרָ֥א",
+      "gloss": "geschaffen hatte"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לַעֲשֽׂוֹת",
+      "gloss": "um zu machen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:51:02.540048472Z",
+  "model": "glm-5.2"
+}

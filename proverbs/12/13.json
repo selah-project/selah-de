@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Durch ⟨die⟩ Übertretung der Lippen ⟨ist⟩ eine Falle des Bösen, aber ⟨der⟩ Gerechte kommt heraus aus der Bedrängnis.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "durch ⟨die⟩ Übertretung"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "der Lippen"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "eine Falle"
+    },
+    {
+      "surface": "רע",
+      "gloss": "des Bösen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "aber ⟨er⟩ kommt heraus"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "aus der Bedrängnis"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨der⟩ Gerechte"
+    }
+  ],
+  "timestamp": "2026-08-06T06:55:31.862051870Z",
+  "model": "glm-5.2"
+}

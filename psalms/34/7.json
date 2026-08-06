@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Dieser Arme rief, und JHWH hörte, und aus all seinen Bedrängnissen rettete er ihn.",
+  "tokens": [
+    {
+      "surface": "זֶ֤ה",
+      "gloss": "Dieser"
+    },
+    {
+      "surface": "עָנִ֣י",
+      "gloss": "Arme"
+    },
+    {
+      "surface": "קָ֭רָא",
+      "gloss": "rief"
+    },
+    {
+      "surface": "וַיהוָ֣ה",
+      "gloss": "und JHWH"
+    },
+    {
+      "surface": "שָׁמֵ֑עַ",
+      "gloss": "hörte"
+    },
+    {
+      "surface": "וּמִכָּל",
+      "gloss": "und aus all"
+    },
+    {
+      "surface": "צָ֝רוֹתָ֗יו",
+      "gloss": "seinen Bedrängnissen"
+    },
+    {
+      "surface": "הוֹשִׁיעֽוֹ",
+      "gloss": "rettete er ihn"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:17.499525364Z",
+  "model": "glm-5.2"
+}

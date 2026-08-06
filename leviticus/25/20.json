@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und wenn ihr sagt: Was werden wir essen im siebten Jahr? Siehe, wir säen nicht und sammeln nicht ⟨את⟩ unseren Ertrag.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ihr sagt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "werden wir essen"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "im Jahr"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "dem siebten"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "wir säen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨auch⟩ nicht"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "sammeln"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unseren Ertrag"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "unseren Ertrag"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:40.734215254Z",
+  "model": "glm-5.2"
+}

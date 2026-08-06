@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 18,
+  "translation": " Tiefe Wasser ⟨sind⟩ die Worte des Mundes eines Mannes, ein dahinströmender Bach ⟨ist⟩ die Quelle der Weisheit.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "tiefe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "פי",
+      "gloss": "des Mundes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eines Mannes"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ein Bach"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "dahinströmender"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "die Quelle"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "der Weisheit"
+    }
+  ],
+  "timestamp": "2026-08-06T04:28:56.114597399Z",
+  "model": "glm-5.2"
+}

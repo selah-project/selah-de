@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Denn die Bedrückung macht einen Weisen toll, und ⟨ein⟩ Geschenk vernichtet ⟨את⟩ das Herz ⟨von⟩ der Gabe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "die Bedrückung"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "macht toll"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "einen Weisen"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "und vernichtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Herz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "Geschenk"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:25.209433493Z",
+  "model": "glm-5.2"
+}

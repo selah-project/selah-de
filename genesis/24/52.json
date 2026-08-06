@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und es geschah, als der Knecht Awrahams ⟨את⟩ ihre Worte hörte, da warf er sich vor JHWH zur Erde nieder.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "als"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörte"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "der Knecht"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahams"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Worte"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "ihre Worte"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "da warf er sich nieder"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vor JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T19:58:26.073021422Z",
+  "model": "glm-5.2"
+}

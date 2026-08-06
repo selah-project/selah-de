@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "El ⟨ist⟩ furchtbar im Sod der Kedoschim, groß ⟨und⟩ furchtgebietend über allen rings um ihn her.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "furchtbar"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "im Sod"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "der Kedoschim"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groß"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "⟨und⟩ furchtgebietend"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "rings um ihn her"
+    }
+  ],
+  "timestamp": "2026-08-06T23:15:58.261250646Z",
+  "model": "glm-5.2"
+}

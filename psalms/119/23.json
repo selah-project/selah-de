@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Auch saßen Fürsten über mir ⟨und⟩ redeten ⟨gegen⟩ mich; dein Knecht sinnt nach über deinen Chuqim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Auch"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "saßen"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "Fürsten"
+    },
+    {
+      "surface": "בי",
+      "gloss": "über mir"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "redeten"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "dein Knecht"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "sinnt nach"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "über deinen Chuqim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:55.574819349Z",
+  "model": "glm-5.2"
+}

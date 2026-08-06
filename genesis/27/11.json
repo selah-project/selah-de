@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und Jaakow sprach zu Ribka, seiner Mutter: „Sieh, Esaw, mein Bruder, ⟨ist⟩ ein behaarter Mann, und ich ⟨bin⟩ ein glatter Mann.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "seiner Mutter"
+    },
+    {
+      "surface": "הן",
+      "gloss": "sieh"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mein Bruder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "שער",
+      "gloss": "behaart"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "glatt"
+    }
+  ],
+  "timestamp": "2026-08-06T14:48:06.912845643Z",
+  "model": "glm-5.2"
+}

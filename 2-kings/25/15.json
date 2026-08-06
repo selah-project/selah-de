@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und ⟨את⟩ die Feuerpfannen und ⟨את⟩ die Sprengschalen, die aus Gold ⟨waren⟩, ⟨als⟩ Gold, und die aus Silber ⟨waren⟩, ⟨als⟩ Silber, nahm der Oberste der Scharleiter weg.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Feuerpfannen"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "die Feuerpfannen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Sprengschalen"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "die Sprengschalen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "und die"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nahm"
+    },
+    {
+      "surface": "רב",
+      "gloss": "der Oberste"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "der Scharleiter"
+    }
+  ],
+  "timestamp": "2026-08-06T10:10:19.552906291Z",
+  "model": "glm-5.2"
+}

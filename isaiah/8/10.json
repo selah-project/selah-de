@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Beratschlagt einen Plan, und ⟨er⟩ wird zunichte; sprecht ein Wort, und ⟨es⟩ wird nicht bestehen, denn El ⟨ist⟩ mit uns.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Beratschlagt"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "einen Plan"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "und ⟨er⟩ wird zunichte"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sprecht"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ein Wort"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨es⟩ wird nicht"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "bestehen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "mit uns"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-06T03:13:53.544287212Z",
+  "model": "glm-5.2"
+}

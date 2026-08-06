@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Auf, lasset uns hinabfahren und dort ⟨ihre⟩ Sprache verwirren, damit sie nicht hören, einer des anderen Sprache.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Auf"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "lasset uns hinabfahren"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "und verwirren"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "שפתם",
+      "gloss": "⟨ihre⟩ Sprache"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "damit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "sie hören"
+    },
+    {
+      "surface": "איש",
+      "gloss": "einer"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "die Sprache"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "des anderen"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:19.895025203Z",
+  "model": "glm-5.2"
+}

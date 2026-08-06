@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Alles, das ⟨die⟩ Spalte ⟨der⟩ Klaue macht und ⟨die⟩ Spalte der Spalten ⟨vollständig⟩ teilt, das das Wiedergekäute heraufbringt, unter ⟨dem⟩ Vieh — ⟨את⟩ jene dürft ihr essen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "die Spalte macht"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "Klaue"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "und teilt"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "Spalte"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "der Spalten"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "heraufbringend"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "das Wiedergekäute"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "unter dem Vieh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jene"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dürft ihr essen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:31.602438223Z",
+  "model": "glm-5.2"
+}

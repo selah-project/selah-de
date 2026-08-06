@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Einmal habe ich geredet, und ich antworte nicht, und zweimal — und ich fahre nicht fort.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Einmal"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "habe ich geredet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "antworte ich"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "und zweimals"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "fahre ich fort"
+    }
+  ],
+  "timestamp": "2026-08-05T23:24:52.819493968Z",
+  "model": "glm-5.2"
+}

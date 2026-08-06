@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Siehe, ich habe dich geläutert, aber nicht als Silber; ich habe dich erwählt im Schmelzofen des Elends.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "צְרַפְתִּ֖יךָ",
+      "gloss": "ich habe dich geläutert"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "בְכֶ֑סֶף",
+      "gloss": "als Silber"
+    },
+    {
+      "surface": "בְּחַרְתִּ֖יךָ",
+      "gloss": "ich habe dich erwählt"
+    },
+    {
+      "surface": "בְּכ֥וּר",
+      "gloss": "im Schmelzofen"
+    },
+    {
+      "surface": "עֳנִֽי",
+      "gloss": "des Elends"
+    }
+  ],
+  "timestamp": "2026-08-06T06:02:38.119489549Z",
+  "model": "glm-5.2"
+}

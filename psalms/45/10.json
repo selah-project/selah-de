@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Töchter von Königen sind unter deinen Kostbaren; eine Königin steht zu deiner Rechten in Goldreif von Ofir.",
+  "tokens": [
+    {
+      "surface": "בְּנ֣וֹת",
+      "gloss": "Töchter"
+    },
+    {
+      "surface": "מְ֭לָכִים",
+      "gloss": "von Königen"
+    },
+    {
+      "surface": "בְּיִקְּרוֹתֶ֑יךָ",
+      "gloss": "unter deinen Kostbaren"
+    },
+    {
+      "surface": "נִצְּבָ֥ה",
+      "gloss": "⟨steht⟩"
+    },
+    {
+      "surface": "שֵׁגַ֥ל",
+      "gloss": "eine Königin"
+    },
+    {
+      "surface": "לִֽ֝ימִינְךָ֗",
+      "gloss": "zu deiner Rechten"
+    },
+    {
+      "surface": "בְּכֶ֣תֶם",
+      "gloss": "in Goldreif"
+    },
+    {
+      "surface": "אוֹפִֽיר",
+      "gloss": "von Ofir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:52.618257742Z",
+  "model": "glm-5.2"
+}

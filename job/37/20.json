@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Soll ⟨es⟩ ihm berichtet werden, dass ich rede? Wenn ⟨schon⟩ ein Mann ⟨spricht› — ⟨dann⟩ wird ⟨er⟩ verschlungen!",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Soll ⟨es⟩ berichtet werden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ich rede"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨spricht›"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨dann⟩"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "wird ⟨er⟩ verschlungen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:24:11.194450854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 87,
+  "translation": "Ich werde Rachen nennen ⟨und⟩ Bawel, unter meinen Kennern: Siehe, Pleschet und Tzor, mit Kusch — dieser ⟨ist⟩ dort geboren.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Ich werde nennen"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rachen"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "⟨und⟩ Bawel"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "unter meinen Kennern"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pleschet"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "und Tzor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusch"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "⟨ist⟩ geboren"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:23.771778324Z",
+  "model": "glm-5.2"
+}

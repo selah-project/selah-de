@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Singt ihm ein neues Lied, spielt gut ⟨auf⟩, ⟨mit⟩ Jauchzen!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Singt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ein Lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "neues"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "spielt gut"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "⟨auf⟩"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "⟨mit⟩ Jauchzen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:32.073649343Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und JHWH sprach zu Mosche: „Sieh, ich habe dich als Elohim für Paro eingesetzt, und Aharon, dein Bruder, wird dein Nawi sein.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Sieh"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "habe ich dich eingesetzt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "als Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "für Paro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dein Bruder"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wird sein"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "dein Nawi"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:55.167814836Z",
+  "model": "glm-5.2"
+}

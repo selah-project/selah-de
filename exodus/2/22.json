@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und sie gebar einen Sohn, und er rief ⟨את⟩ seinen Namen Gereschom, denn er sagte: „Ein Fremdling bin ich gewesen im Land der Fremde.“",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "und sie gebar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "einen Sohn"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er rief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Namen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereschom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "er sagte"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ein Fremdling"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bin ich gewesen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "der Fremde"
+    }
+  ],
+  "timestamp": "2026-08-06T00:12:58.507875363Z",
+  "model": "glm-5.2"
+}

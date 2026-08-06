@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Dein Gewand ist nicht von dir abgenutzt worden und dein Fuß ist nicht geschwollen, diese vierzig Jahre.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Dein Gewand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "ist abgenutzt worden"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "von dir"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "und dein Fuß"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "ist geschwollen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "vierzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:10.954551137Z",
+  "model": "glm-5.2"
+}

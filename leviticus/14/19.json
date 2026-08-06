@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und der Kohen vollzieht ⟨את⟩ das Chattat-Opfer und erwirkt Sühne für den, der rein wird, von seiner Unreinheit; ⟨und⟩ danach schlachtet er ⟨את⟩ die Ola.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Und vollzieht"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Chattat-Opfer"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "das Chattat-Opfer"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "und erwirkt Sühne"
+    },
+    {
+      "surface": "על",
+      "gloss": "für"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "den Reinwerdenden"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "von seiner Unreinheit"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "und danach"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "wird schlachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die Ola"
+    }
+  ],
+  "timestamp": "2026-08-06T05:20:17.411728546Z",
+  "model": "glm-5.2"
+}

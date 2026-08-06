@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Nun geh hin und schlage ⟨את⟩ Amalek, und weiht ⟨את⟩ alles, was ihm gehört, dem Bann, und habt kein Erbarmen mit ihm; und tötet ⟨vom⟩ Mann bis ⟨zur⟩ Frau, vom Säugling bis ⟨zum⟩ GESTILLT-werdenden, vom Rind bis ⟨zum⟩ Schaf, vom Kamel bis ⟨zum⟩ Esel.“",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "geh hin"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "und schlage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "und weiht … dem Bann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles, was ihm gehört"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm gehört"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨habt⟩ nicht"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "Erbarmen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "und tötet"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "vom Mann"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "zur Frau"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "vom Säugling"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "zum GESTILLT-werdenden"
+    },
+    {
+      "surface": "משור",
+      "gloss": "vom Rind"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "שה",
+      "gloss": "zum Schaf"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "vom Kamel"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "zum Esel"
+    }
+  ],
+  "timestamp": "2026-08-05T21:11:36.819584929Z",
+  "model": "glm-5.2"
+}

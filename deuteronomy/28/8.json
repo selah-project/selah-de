@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "JHWH wird ⟨mit dir⟩ ⟨die⟩ Segnung gebieten in deinen Vorrathäusern und in allem, was deine Hand aussendet, und ⟨er⟩ wird dich segnen auf der Erde, die JHWH, dein Elohim, dir gibt.",
+  "tokens": [
+    {
+      "surface": "יְצַו",
+      "gloss": "wird gebieten"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אִתְּךָ",
+      "gloss": "⟨mit dir⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Segnung"
+    },
+    {
+      "surface": "הַבְּרָכָה",
+      "gloss": "die Segnung"
+    },
+    {
+      "surface": "בַּאֲסָמֶיךָ",
+      "gloss": "in deinen Vorrathäusern"
+    },
+    {
+      "surface": "וּבְכֹל",
+      "gloss": "und in allem"
+    },
+    {
+      "surface": "מִשְׁלַח",
+      "gloss": "was aussendet"
+    },
+    {
+      "surface": "יָדֶךָ",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "וּבֵרַכְךָ",
+      "gloss": "und wird dich segnen"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "נֹתֵן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T00:47:24.902431536Z",
+  "model": "glm-5.2"
+}

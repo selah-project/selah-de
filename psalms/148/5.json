@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 148,
+  "translation": "Lobt ⟨den⟩ Namen JHWHs, denn ⟨er⟩ gebot, und sie wurden erschaffen.",
+  "tokens": [
+    {
+      "surface": "יְֽ֭הַֽלְלוּ",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Namen"
+    },
+    {
+      "surface": "שֵׁ֣ם",
+      "gloss": "Namen"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ה֭וּא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "צִוָּ֣ה",
+      "gloss": "gebot"
+    },
+    {
+      "surface": "וְנִבְרָֽאוּ",
+      "gloss": "und sie wurden erschaffen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:46.599776510Z",
+  "model": "glm-5.2"
+}

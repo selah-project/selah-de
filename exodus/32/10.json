@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und nun, lass ⟨es⟩ mir ⟨frei⟩, und mein Zorn wird an ihnen brennen, und ich werde sie vernichten; und ich werde dich ⟨את⟩ zu einem großen Volk machen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "lass"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "und ⟨es⟩ wird brennen"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mein Zorn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "an ihnen"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "und ich werde sie vernichten"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "und ich werde machen"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ dich",
+      "marks": "dich"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "zu einem Volk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "großen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:39:17.041265293Z",
+  "model": "glm-5.2"
+}

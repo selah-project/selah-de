@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Wehe denen, die zum Bösen „gut“ sagen und zum Guten „böse“, die Finsternis hinsetzen als Licht und Licht als Finsternis, die Bitteres hinsetzen als Süßes und Süßes als Bitteres!",
+  "tokens": [
+    {
+      "surface": "ה֣וֹי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "הָאֹמְרִ֥ים",
+      "gloss": "denen, die sagen"
+    },
+    {
+      "surface": "לָרַ֛ע",
+      "gloss": "zum Bösen"
+    },
+    {
+      "surface": "ט֖וֹב",
+      "gloss": "„gut“"
+    },
+    {
+      "surface": "וְלַטּ֣וֹב",
+      "gloss": "und zum Guten"
+    },
+    {
+      "surface": "רָ֑ע",
+      "gloss": "„böse“"
+    },
+    {
+      "surface": "שָׂמִ֨ים",
+      "gloss": "die hinsetzen"
+    },
+    {
+      "surface": "חֹ֤שֶׁךְ",
+      "gloss": "Finsternis"
+    },
+    {
+      "surface": "לְאוֹר֙",
+      "gloss": "als Licht"
+    },
+    {
+      "surface": "וְא֣וֹר",
+      "gloss": "und Licht"
+    },
+    {
+      "surface": "לְחֹ֔שֶׁךְ",
+      "gloss": "als Finsternis"
+    },
+    {
+      "surface": "שָׂמִ֥ים",
+      "gloss": "die hinsetzen"
+    },
+    {
+      "surface": "מַ֛ר",
+      "gloss": "Bitteres"
+    },
+    {
+      "surface": "לְמָת֖וֹק",
+      "gloss": "als Süßes"
+    },
+    {
+      "surface": "וּמָת֥וֹק",
+      "gloss": "und Süßes"
+    },
+    {
+      "surface": "לְמָֽר",
+      "gloss": "als Bitteres"
+    }
+  ],
+  "timestamp": "2026-08-06T01:40:03.846275562Z",
+  "model": "glm-5.2"
+}

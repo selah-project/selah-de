@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Mögen deine Ehrfürchtigen zu mir umkehren, ⟨auch⟩ die deine Zeugnisse kennen.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mögen umkehren"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "deine Ehrfürchtigen"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "und ⟨sie⟩ kennen"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "deine Zeugnisse"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:58.974891023Z",
+  "model": "glm-5.2"
+}

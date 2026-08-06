@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und wenn jemand versehentlich Heiliges isst, soll ⟨er⟩ sein Fünftel darauf ⟨hinzufügen⟩ und dem Kohen ⟨את⟩ das Heilige geben.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Und wenn jemand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "isst"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Heiliges"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "versehentlich"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "soll hinzufügen"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "sein Fünftel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "und geben"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "dem Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Heilige"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "das Heilige"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:02.575582713Z",
+  "model": "glm-5.2"
+}

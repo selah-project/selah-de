@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und nun, geh, und ich werde dich zu Paro senden, und führe ⟨את⟩ mein Volk, die Söhne Jisraels, aus Mizrajim heraus.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "geh"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "und ich werde dich senden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "und führe heraus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "aus Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:12:54.477479639Z",
+  "model": "glm-5.2"
+}

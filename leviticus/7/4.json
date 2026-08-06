@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "und ⟨את⟩ die beiden Nieren und ⟨את⟩ das Fett, das auf ihnen ⟨ist⟩, das auf den Lenden ⟨ist⟩, und ⟨את⟩ den Lappen über der Leber — bei den Nieren soll er ⟨es⟩ entfernen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die beiden Nieren"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "die beiden"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "Nieren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Fett"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "das Fett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "auf ihnen ⟨ist⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "den Lenden ⟨ist⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Lappen"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "den Lappen"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "der Leber"
+    },
+    {
+      "surface": "על",
+      "gloss": "bei"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "den Nieren"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "soll er ⟨es⟩ entfernen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:29.168726324Z",
+  "model": "glm-5.2"
+}

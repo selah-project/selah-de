@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Achija ergriff das neue Gewand, das auf ihm war, und riss ⟨es⟩ in zwölf Stücke.",
+  "tokens": [
+    {
+      "surface": "וַיִּתְפֹּ֣שׂ",
+      "gloss": "und er ergriff"
+    },
+    {
+      "surface": "אֲחִיָּ֔ה",
+      "gloss": "Achija"
+    },
+    {
+      "surface": "בַּשַּׂלְמָ֥ה",
+      "gloss": "das Gewand"
+    },
+    {
+      "surface": "הַחֲדָשָׁ֖ה",
+      "gloss": "neue"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "עָלָ֑יו",
+      "gloss": "auf ihm war"
+    },
+    {
+      "surface": "וַיִּ֨קְרָעֶ֔הָ",
+      "gloss": "und riss ⟨es⟩"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "עָשָׂ֖ר",
+      "gloss": "(Teil von zwölf)"
+    },
+    {
+      "surface": "קְרָעִֽים",
+      "gloss": "Stücke"
+    }
+  ],
+  "timestamp": "2026-08-05T21:29:35.507721130Z",
+  "model": "glm-5.2"
+}

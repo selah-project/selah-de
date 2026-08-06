@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "„deswegen, dass Awraham auf meine Stimme hörte und ⟨seine⟩ Wache hielt — meine Gebote, meine Ordnungen und meine Tora.“",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "deswegen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dass"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "auf meine Stimme"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "und hielt"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "meine Wache"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "meine Gebote"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "meine Ordnungen"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "und meine Tora"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:03.371768892Z",
+  "model": "glm-5.2"
+}

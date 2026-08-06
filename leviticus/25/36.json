@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Nimm nicht von ihm ⟨את⟩ Neschech und ⟨את⟩ Tarbit, und fürchte dich vor deinem Elohim, damit dein Bruder lebe mit dir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "nimm"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "Neschech"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "und Tarbit"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "und fürchte dich"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "vor deinem Elohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "damit lebe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dein Bruder"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mit dir"
+    }
+  ],
+  "timestamp": "2026-08-06T09:49:33.293289826Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und JHWH sandte dich auf ⟨einen⟩ Weg und sprach: „Geh hin und weihe ⟨את⟩ die Sünder ⟨dem Bann⟩, ⟨את⟩ Amalek, und kämpfe gegen sie, bis du sie vernichtest.“",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "und ⟨er⟩ sandte ⟨dich⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf ⟨einen⟩ Weg"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "לך",
+      "gloss": "geh ⟨hin⟩"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "und weihe ⟨dem Bann⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Sünder"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "die Sünder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "und ⟨du⟩ kämpfst"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gegen ⟨ihn⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "du ⟨sie⟩ vernichtest"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T01:07:11.756949797Z",
+  "model": "glm-5.2"
+}

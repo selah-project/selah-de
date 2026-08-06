@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Und Jehuda sandte ⟨את⟩ das Zicklein der Ziegen durch die Hand seines Gefährten, des Adullamiters, um das Pfand aus der Hand der Frau zu holen, aber er fand sie nicht.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַח",
+      "gloss": "und ⟨er⟩ sandte"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Zicklein"
+    },
+    {
+      "surface": "גְּדִי",
+      "gloss": "das Zicklein"
+    },
+    {
+      "surface": "הָעִזִּים",
+      "gloss": "der Ziegen"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "רֵעֵהוּ",
+      "gloss": "seines Gefährten"
+    },
+    {
+      "surface": "הָעֲדֻלָּמִי",
+      "gloss": "des Adullamiters"
+    },
+    {
+      "surface": "לָקַחַת",
+      "gloss": "um zu holen"
+    },
+    {
+      "surface": "הָעֵרָבוֹן",
+      "gloss": "das Pfand"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "הָאִשָּׁה",
+      "gloss": "der Frau"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "מְצָאָהּ",
+      "gloss": "fand er ⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T00:09:44.373096505Z",
+  "model": "glm-5.2"
+}

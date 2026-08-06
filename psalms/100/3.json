@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 100,
+  "translation": "Erkennt, dass JHWH ⟨er⟩ ⟨ist⟩ Elohim — ⟨er⟩ hat uns gemacht, und nicht wir selbst. ⟨Wir⟩ ⟨sind⟩ sein Volk und die Herde seiner Weide.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Erkennt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "hat uns gemacht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wir selbst"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "und die Herde"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "seiner Weide"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:14.352084096Z",
+  "model": "glm-5.2"
+}

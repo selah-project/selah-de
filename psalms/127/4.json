@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 127,
+  "translation": "Wie Pfeile in der Hand ⟨eines⟩ Helden, so ⟨sind⟩ die Söhne der Jugend.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Wie Pfeile"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in der Hand"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Helden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "der Jugend"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:36.247492774Z",
+  "model": "glm-5.2"
+}

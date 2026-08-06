@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "das Feld, das Awraham erworben hatte von ⟨bei⟩ den Söhnen Chets — dort wurde Awraham begraben und Sara, seine Frau.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "das Feld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "erworben hatte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "von"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chets"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dort"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "wurde begraben"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "und Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seine Frau"
+    }
+  ],
+  "timestamp": "2026-08-05T17:34:59.561413154Z",
+  "model": "glm-5.2"
+}

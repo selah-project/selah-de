@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Mein El, mein El, warum hast du mich verlassen, fern von meiner Rettung ⟨sind⟩ die Worte meines Brüllens?",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Mein El"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mein El"
+    },
+    {
+      "surface": "למה",
+      "gloss": "warum"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "hast du mich verlassen"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "fern"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "von meiner Rettung"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "meines Brüllens"
+    }
+  ],
+  "timestamp": "2026-08-06T15:22:56.342642692Z",
+  "model": "glm-5.2"
+}

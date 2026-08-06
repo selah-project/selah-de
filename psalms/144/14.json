@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 144,
+  "translation": "Unser Lastvieh ⟨ist⟩ schwer beladen; ⟨es gibt⟩ keinen Einbruch und keinen Auszug und keinen Aufschrei auf unseren Plätzen.",
+  "tokens": [
+    {
+      "surface": "אַלּוּפֵ֗ינוּ",
+      "gloss": "Unser Lastvieh"
+    },
+    {
+      "surface": "מְֽסֻבָּ֫לִ֥ים",
+      "gloss": "schwer beladen"
+    },
+    {
+      "surface": "אֵֽין",
+      "gloss": "⟨es gibt⟩ keinen"
+    },
+    {
+      "surface": "פֶּ֭רֶץ",
+      "gloss": "Einbruch"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "und keinen"
+    },
+    {
+      "surface": "יוֹצֵ֑את",
+      "gloss": "Auszug"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "und keinen"
+    },
+    {
+      "surface": "צְוָחָ֗ה",
+      "gloss": "Aufschrei"
+    },
+    {
+      "surface": "בִּרְחֹבֹתֵֽינוּ",
+      "gloss": "auf unseren Plätzen"
+    }
+  ],
+  "timestamp": "2026-08-06T19:52:41.229900609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und eure Kraft wird sich verzehren ins Leere, und euer Land wird ⟨את⟩ seinen Ertrag nicht geben, und der Baum des Landes wird seine Frucht nicht geben.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "Und sie wird sich verzehren"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ins Leere"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "eure Kraft"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wird geben"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "euer Land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Ertrag"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "seinen Ertrag"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "und der Baum"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wird geben"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "seine Frucht"
+    }
+  ],
+  "timestamp": "2026-08-06T02:14:04.238536879Z",
+  "model": "glm-5.2"
+}

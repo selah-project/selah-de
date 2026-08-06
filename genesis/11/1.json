@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und es geschah: Die ganze Erde ⟨war⟩ eine Lippe und Wörter, eines.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "eine Lippe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eine"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "und Wörter"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "eines"
+    }
+  ],
+  "timestamp": "2026-08-06T00:04:06.710910739Z",
+  "model": "glm-5.2"
+}

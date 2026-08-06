@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und das ganze Volk crossed über ⟨את⟩ den Jardan, und der König crossed über, und der König küsste Barsillai und segnete ihn, und ⟨er⟩ kehrte an seinen Ort zurück.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Und … crossed über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jardan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardan"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "und der König"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "crossed über"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "und … küsste"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barsillai"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "und segnete ihn"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨er⟩ kehrte … zurück"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "an seinen Ort"
+    }
+  ],
+  "timestamp": "2026-08-06T20:27:51.557015709Z",
+  "model": "glm-5.2"
+}

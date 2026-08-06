@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Dem Chorleiter, auf die Gitit, ein Musikstück von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "dem Chorleiter"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "die Gitit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ein Musikstück"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:55.256199327Z",
+  "model": "glm-5.2"
+}

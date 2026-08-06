@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und du sollst sie deinen Söhnen einschärfen und davon reden, wenn du in deinem Haus sitzt und wenn du auf dem Weg gehst und wenn du dich niederlegst und wenn du aufstehst.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "und du sollst sie einschärfen"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "deinen Söhnen"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "und davon reden"
+    },
+    {
+      "surface": "בם",
+      "gloss": "von ihnen"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "wenn du sitzt"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in deinem Haus"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "und wenn du gehst"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "und wenn du dich niederlegst"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "und wenn du aufstehst"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:01.263283883Z",
+  "model": "glm-5.2"
+}

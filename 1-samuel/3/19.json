@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Schmu'el wuchs heran, und JHWH war mit ihm, und ⟨er⟩ ließ von all seinen Worten keines zur Erde fallen.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Und ⟨er⟩ wuchs heran"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmu'el"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "und JHWH"
+    },
+    {
+      "surface": "היה",
+      "gloss": "war"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "ließ fallen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "von all"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "seinen Worten"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨keines⟩ zur Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T02:39:37.091255994Z",
+  "model": "glm-5.2"
+}

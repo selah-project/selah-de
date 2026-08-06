@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Speise sollt ihr von ihnen kaufen für Silber und ⟨dann⟩ essen, und auch Wasser sollt ihr von ihnen kaufen für Silber und ⟨dann⟩ trinken.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Speise"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "sollt ihr kaufen"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "von ihnen"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "für Silber"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "und ⟨sollt ihr⟩ essen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "sollt ihr kaufen"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "von ihnen"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "für Silber"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "und ⟨sollt ihr⟩ trinken"
+    }
+  ],
+  "timestamp": "2026-08-06T08:27:21.141532074Z",
+  "model": "glm-5.2"
+}

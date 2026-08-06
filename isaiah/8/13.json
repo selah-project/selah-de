@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "⟨את⟩ JHWH der Heerscharen, ihn sollt ihr heiligen, und er ⟨ist⟩ eure Furcht, und er ⟨ist⟩ euer Schrecken.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn",
+      "marks": "sollt ihr heiligen"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "sollt ihr heiligen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und er"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "eure Furcht"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und er"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "euer Schrecken"
+    }
+  ],
+  "timestamp": "2026-08-06T01:40:31.092965928Z",
+  "model": "glm-5.2"
+}

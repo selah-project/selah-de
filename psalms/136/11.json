@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "und Jisraël führte er heraus aus ihrer Mitte, denn für immer ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "וַיּוֹצֵא",
+      "gloss": "und führte heraus"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מִתּוֹכָם",
+      "gloss": "aus ihrer Mitte"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "חַסְדּוֹ",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:06.761249677Z",
+  "model": "glm-5.2"
+}

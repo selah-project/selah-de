@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 81,
+  "translation": "Ach, dass ⟨mein⟩ Volk mir gehorchte, dass Jisraël in meinen Wegen wandeln würde!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Ach, dass"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨mein⟩ Volk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gehorchte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "in meinen Wegen"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "wandeln würde"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:09.751658315Z",
+  "model": "glm-5.2"
+}

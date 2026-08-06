@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Ich, ich machte die Erde, und den Menschen auf ihr schuf ich, ich — meine Hände spannten ⟨die⟩ Himmel aus, und all ihr Heer ordnete ich an.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ich machte"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "und ⟨den⟩ Menschen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "auf ihr"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "schuf ich"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "meine Hände"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "spannten aus"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨die⟩ Himmel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ihr Heer"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ordnete ich an"
+    }
+  ],
+  "timestamp": "2026-08-06T08:52:32.121694822Z",
+  "model": "glm-5.2"
+}

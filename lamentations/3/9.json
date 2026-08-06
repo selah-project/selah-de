@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Er hat meine Wege eingemauert mit behauenem Stein, meine Pfade hat er krumm gemacht.",
+  "tokens": [
+    {
+      "surface": "גָּדַ֤ר",
+      "gloss": "Er hat eingemauert"
+    },
+    {
+      "surface": "דְּרָכַי֙",
+      "gloss": "meine Wege"
+    },
+    {
+      "surface": "בְּגָזִ֔ית",
+      "gloss": "mit behauenem Stein"
+    },
+    {
+      "surface": "נְתִיבֹתַ֖י",
+      "gloss": "meine Pfade"
+    },
+    {
+      "surface": "עִוָּֽה",
+      "gloss": "hat er krumm gemacht"
+    }
+  ],
+  "timestamp": "2026-08-06T07:08:11.284731108Z",
+  "model": "glm-5.2"
+}

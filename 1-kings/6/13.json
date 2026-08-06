@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ich werde wohnen inmitten der Söhne Jisraels, und ich werde ⟨את⟩ mein Volk Jisrael nicht verlassen.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "Und ich werde wohnen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "werde ich verlassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Volk Jisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-08-06T02:57:41.401080774Z",
+  "model": "glm-5.2"
+}

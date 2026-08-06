@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Das Lob JHWHs soll mein Mund sprechen, und alles Fleisch ⟨soll⟩ seinen heiligen Namen segnen für immer und ewig.",
+  "tokens": [
+    {
+      "surface": "תְּהִלַּ֥ת",
+      "gloss": "Das Lob"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "יְֽדַבֶּ֫ר",
+      "gloss": "soll sprechen"
+    },
+    {
+      "surface": "פִּ֥י",
+      "gloss": "mein Mund"
+    },
+    {
+      "surface": "וִיבָרֵ֣ךְ",
+      "gloss": "und ⟨soll⟩ segnen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "בָּ֭שָׂר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "קָדְשׁ֗וֹ",
+      "gloss": "heiligen"
+    },
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "וָעֶֽד",
+      "gloss": "und ewig"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:54.256400631Z",
+  "model": "glm-5.2"
+}

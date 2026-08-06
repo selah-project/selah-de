@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und alle Söhne Jisraels machten ⟨es⟩; so wie JHWH ⟨את⟩ Mosche und ⟨את⟩ Aharon geboten hatte, so machten ⟨sie es⟩.",
+  "tokens": [
+    {
+      "surface": "וַיַּֽעֲשׂ֖וּ",
+      "gloss": "Und sie machten"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֨ר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "צִוָּ֧ה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "וְאֶֽת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עָשֽׂוּ",
+      "gloss": "machten ⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:34.835435338Z",
+  "model": "glm-5.2"
+}

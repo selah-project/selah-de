@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und Schaul und ganz Jisra'el hörten ⟨את⟩ die Worte des Pelischti, diese, und sie verzagten und fürchteten sich sehr.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "und ⟨er⟩ hörte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "des Pelischti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "und sie verzagten"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "und ⟨sie⟩ fürchteten sich"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T05:41:24.515652263Z",
+  "model": "glm-5.2"
+}

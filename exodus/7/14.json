@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und JHWH sprach zu Mosche: „Schwer ⟨ist⟩ das Herz von Paro, er weigert sich, das Volk ziehen zu lassen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "schwer"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "von Paro"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "er weigert sich"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ziehen zu lassen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:49.991105846Z",
+  "model": "glm-5.2"
+}

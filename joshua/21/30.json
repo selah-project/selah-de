@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und vom Stamm Ascher ⟨את⟩ Mischal und ⟨את⟩ seine Weidefläche, ⟨את⟩ Abdon und ⟨את⟩ seine Weidefläche —",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Und vom Stamm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ascher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mischal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mischal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weidefläche"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seine Weidefläche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weidefläche"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seine Weidefläche"
+    }
+  ],
+  "timestamp": "2026-08-06T00:54:25.670045648Z",
+  "model": "glm-5.2"
+}

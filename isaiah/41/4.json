@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Wer hat gewirkt und getan? ⟨Er,⟩ der die Geschlechter vom Anfang ⟨her⟩ ruft. Ich, JHWH, ⟨der⟩ Erste, und ⟨mit⟩ ⟨את⟩ den Letzten -- ich, ⟨er⟩ bin ⟨es⟩.",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "פָעַ֣ל",
+      "gloss": "hat gewirkt"
+    },
+    {
+      "surface": "וְעָשָׂ֔ה",
+      "gloss": "und getan"
+    },
+    {
+      "surface": "קֹרֵ֥א",
+      "gloss": "der ruft"
+    },
+    {
+      "surface": "הַדֹּר֖וֹת",
+      "gloss": "die Geschlechter"
+    },
+    {
+      "surface": "מֵרֹ֑אשׁ",
+      "gloss": "vom Anfang"
+    },
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "רִאשׁ֔וֹן",
+      "gloss": "der Erste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Letzten"
+    },
+    {
+      "surface": "אַחֲרֹנִ֖ים",
+      "gloss": "die Letzten"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "bin es"
+    }
+  ],
+  "timestamp": "2026-08-06T03:18:31.199868653Z",
+  "model": "glm-5.2"
+}

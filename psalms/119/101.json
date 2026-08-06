@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Von jedem bösen Weg habe ich meine Schritte zurückgehalten, damit ich dein Wort bewahre.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "von jedem"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Weg"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bösen"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "habe ich zurückgehalten"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "meine Schritte"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ich bewahre"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "dein Wort"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:59.433411007Z",
+  "model": "glm-5.2"
+}

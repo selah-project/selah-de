@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Suchen wirst du sie und nicht finden — ⟨die⟩ Männer deines Streits; wie nichts sollen sie werden und wie ein Nichts ⟨die⟩ Männer deines Krieges.",
+  "tokens": [
+    {
+      "surface": "תְּבַקְשֵׁם֙",
+      "gloss": "Suchen wirst du sie"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תִמְצָאֵ֔ם",
+      "gloss": "finden"
+    },
+    {
+      "surface": "אַנְשֵׁ֖י",
+      "gloss": "⟨die⟩ Männer"
+    },
+    {
+      "surface": "מַצֻּתֶ֑ךָ",
+      "gloss": "deines Streits"
+    },
+    {
+      "surface": "יִהְי֥וּ",
+      "gloss": "sie sollen werden"
+    },
+    {
+      "surface": "כְאַ֛יִן",
+      "gloss": "wie nichts"
+    },
+    {
+      "surface": "וּכְאֶ֖פֶס",
+      "gloss": "und wie ein Nichts"
+    },
+    {
+      "surface": "אַנְשֵׁ֥י",
+      "gloss": "⟨die⟩ Männer"
+    },
+    {
+      "surface": "מִלְחַמְתֶּֽךָ",
+      "gloss": "deines Krieges"
+    }
+  ],
+  "timestamp": "2026-08-06T10:11:18.549324805Z",
+  "model": "glm-5.2"
+}

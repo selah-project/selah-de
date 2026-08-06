@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und der König setzte ⟨את⟩ Benajahu, den Sohn Jehojadas, an dessen Stelle über das Heer, und ⟨את⟩ Zadok den Kohen setzte der König an die Stelle Ewjatars.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "und setzte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benajahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojadas"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an dessen Stelle"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "das Heer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Zadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Zadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "den Kohen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "setzte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "an die Stelle"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ewjatars"
+    }
+  ],
+  "timestamp": "2026-08-06T02:55:56.624310155Z",
+  "model": "glm-5.2"
+}

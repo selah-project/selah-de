@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Kohelet suchte, Worte des Gefallens zu finden, und ⟨es ist⟩ geschrieben ⟨in⟩ Geradheit — Worte der Wahrheit.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "suchte"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "zu finden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "des Gefallens"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "und ⟨es ist⟩ geschrieben"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨in⟩ Geradheit"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "der Wahrheit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:35.597376043Z",
+  "model": "glm-5.2"
+}

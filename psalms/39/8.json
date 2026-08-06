@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Und nun — was habe ich erwartet? Adonai, meine Erwartung ⟨ist⟩ auf dich ⟨gerichtet⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "habe ich erwartet"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "meine Erwartung"
+    },
+    {
+      "surface": "לך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ist⟩ ⟨gerichtet⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:09.234168051Z",
+  "model": "glm-5.2"
+}

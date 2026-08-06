@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Mich umringt haben sie wie Wasser den ganzen Tag, sie haben sich gegen mich vereint umschlossen.",
+  "tokens": [
+    {
+      "surface": "סַבּ֣וּנִי",
+      "gloss": "mich umringt haben"
+    },
+    {
+      "surface": "כַ֭מַּיִם",
+      "gloss": "wie Wasser"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "הַיּ֑וֹם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "הִקִּ֖יפוּ",
+      "gloss": "sie haben umschlossen"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "gegen mich"
+    },
+    {
+      "surface": "יָֽחַד",
+      "gloss": "vereint"
+    }
+  ],
+  "timestamp": "2026-08-05T22:56:46.355496817Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Adam erkannte noch einmal ⟨את⟩ seine Frau, und sie gebar einen Sohn, und sie rief ⟨את⟩ seinen Namen Schet: „Denn hat mir Elohim anderen Samen gesetzt anstelle von Hewel, weil Qain ihn erschlagen hat.“",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Und er erkannte"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "noch einmal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Frau"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seine Frau"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "und sie gebar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "einen Sohn"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "und sie rief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Namen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Schet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "שת",
+      "gloss": "hat … gesetzt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "Samen"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anderen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anstelle von"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hewel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "er erschlagen hat"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qain"
+    }
+  ],
+  "timestamp": "2026-08-05T19:53:46.236481142Z",
+  "model": "glm-5.2"
+}

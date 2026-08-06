@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und die Tochter des Paro stieg hinab, um am Fluss zu baden, und ihre Mädchen gingen am Rand des Flusses, und sie sah ⟨את⟩ das Kästchen inmitten des Schilfs, und sie sandte ⟨את⟩ ihre Magd und ⟨sie⟩ nahm ⟨es⟩.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "und sie stieg hinab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die Tochter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "des Paro"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "um zu baden"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "dem Fluss"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "und ihre Mädchen"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "gingen"
+    },
+    {
+      "surface": "על",
+      "gloss": "am"
+    },
+    {
+      "surface": "יד",
+      "gloss": "Rand"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "des Flusses"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "und sie sah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Kästchen"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "das Kästchen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "des Schilfs"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "und sie sandte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Magd"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "ihre Magd"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "und sie nahm ⟨es⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T09:44:32.617171467Z",
+  "model": "glm-5.2"
+}

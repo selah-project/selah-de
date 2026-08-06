@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 83,
+  "translation": "Die Zelte von Edom und ⟨die⟩ Jischmaeliter, Moaw und ⟨die⟩ Hagrier —",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Die Zelte"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "von Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "und ⟨die⟩ Jischmaeliter"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaw"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "und ⟨die⟩ Hagrier"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:25.759043803Z",
+  "model": "glm-5.2"
+}

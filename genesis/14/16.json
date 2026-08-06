@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und er brachte ⟨את⟩ die ganze Habe zurück, und auch ⟨את⟩ Lot, seinen Bruder, und dessen Habe brachte er zurück, und auch ⟨את⟩ die Frauen und ⟨את⟩ das Volk.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Und er brachte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Habe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "Habe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seinen Bruder"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "und dessen Habe"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "brachte er zurück"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Frauen"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "die Frauen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:59.825843229Z",
+  "model": "glm-5.2"
+}

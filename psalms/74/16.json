@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Dir ⟨gehört⟩ der Tag, auch dir ⟨gehört⟩ die Nacht, du richtetest ein das Licht und die Sonne.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Dir"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "אף",
+      "gloss": "auch"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Nacht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "richtetest ein"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "Licht"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "und Sonne"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:25.757351510Z",
+  "model": "glm-5.2"
+}

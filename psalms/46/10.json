@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Er lässt Kriege aufhören bis ans Ende ⟨der⟩ Erde, den Bogen zerbricht er, und ⟨den⟩ Speer zerschneidet er, ⟨die⟩ Wagen verbrennt er im Feuer.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "lässt aufhören"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "Kriege"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ans Ende"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨der⟩ Erde"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "den Bogen"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "zerbricht er"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "und ⟨den⟩ zerschneidet er"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "Speer"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "⟨die⟩ Wagen"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "verbrennt er"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:34.519287468Z",
+  "model": "glm-5.2"
+}

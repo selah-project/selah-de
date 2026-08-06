@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und der König sprach zu dem Mann Elohim: „Komm mit mir ⟨ins⟩ Haus und iss, und ich werde dir ein Geschenk geben.“",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "⟨dem⟩ Mann"
+    },
+    {
+      "surface": "הָאֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בֹּאָה",
+      "gloss": "Komm"
+    },
+    {
+      "surface": "אִתִּי",
+      "gloss": "mit mir"
+    },
+    {
+      "surface": "הַבַּיְתָה",
+      "gloss": "⟨ins⟩ Haus"
+    },
+    {
+      "surface": "וּסְעָדָה",
+      "gloss": "und iss"
+    },
+    {
+      "surface": "וְאֶתְנָה",
+      "gloss": "und ich werde geben"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "dir"
+    },
+    {
+      "surface": "מַתָּת",
+      "gloss": "ein Geschenk"
+    }
+  ],
+  "timestamp": "2026-08-06T01:26:21.968500482Z",
+  "model": "glm-5.2"
+}

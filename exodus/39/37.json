@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "⟨את⟩ die Menora, die reine, ⟨את⟩ ihre Lampen, die Lampen der Reihe, und ⟨את⟩ all ihr Gerät, und ⟨את⟩ das Öl des Lichts,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "die Menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "die reine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Lampen"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ihre Lampen"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "die Lampen"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "der Reihe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all ihr Gerät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ihr Gerät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Öl"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "das Öl"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "des Lichts"
+    }
+  ],
+  "timestamp": "2026-08-06T00:23:00.092158038Z",
+  "model": "glm-5.2"
+}

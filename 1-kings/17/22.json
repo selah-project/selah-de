@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und JHWH hörte auf die Stimme Elijas, und ⟨die⟩ Nefesch des Kindes kehrte zurück auf sein Inneres, und er lebte.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "und ⟨JHWH⟩ hörte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijas"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "und ⟨sie⟩ kehrte zurück"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "des Kindes"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sein Inneres"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "und er lebte"
+    }
+  ],
+  "timestamp": "2026-08-06T01:27:30.626334181Z",
+  "model": "glm-5.2"
+}

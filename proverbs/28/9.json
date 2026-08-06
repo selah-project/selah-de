@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Wer sein Ohr abwendet vom Hören der Tora, ⟨auch⟩ sein Gebet ist ein Greuel.",
+  "tokens": [
+    {
+      "surface": "מֵסִ֣יר",
+      "gloss": "wendet ab"
+    },
+    {
+      "surface": "אָ֭זְנוֹ",
+      "gloss": "sein Ohr"
+    },
+    {
+      "surface": "מִשְּׁמֹ֣עַ",
+      "gloss": "vom Hören"
+    },
+    {
+      "surface": "תּוֹרָ֑ה",
+      "gloss": "der Tora"
+    },
+    {
+      "surface": "גַּֽם",
+      "gloss": "⟨auch⟩"
+    },
+    {
+      "surface": "תְּפִלָּת֗וֹ",
+      "gloss": "sein Gebet"
+    },
+    {
+      "surface": "תּוֹעֵבָֽה",
+      "gloss": "⟨ist⟩ ein Greuel"
+    }
+  ],
+  "timestamp": "2026-08-06T09:22:45.868496482Z",
+  "model": "glm-5.2"
+}

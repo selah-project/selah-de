@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Schaul suchte ⟨ihn⟩ zu schlagen mit dem Speer ⟨an⟩ Dawid und an die Wand. Und ⟨er⟩ wich aus dem Angesicht Schauls, und er schlug ⟨את⟩ den Speer in die Wand. Und Dawid floh und entrann in jener Nacht.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "und suchte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "zu schlagen"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "mit dem Speer"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "⟨an⟩ Dawid"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "und an die Wand"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "und ⟨er⟩ wich"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "aus dem Angesicht"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "und schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Speer"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "den Speer"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "in die Wand"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "und Dawid"
+    },
+    {
+      "surface": "נס",
+      "gloss": "floh"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "und entrann"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jener"
+    }
+  ],
+  "timestamp": "2026-08-06T01:07:40.213308919Z",
+  "model": "glm-5.2"
+}

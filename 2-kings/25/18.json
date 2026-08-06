@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und der Oberste der Schlächter nahm ⟨את⟩ Seraja, den Kohen ⟨das⟩ Haupt, und ⟨את⟩ Tsefanjahu, den Kohen als Zweiten, und ⟨את⟩ die drei Hüter der Schwelle.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und ⟨er⟩ nahm"
+    },
+    {
+      "surface": "רב",
+      "gloss": "den Obersten"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "der Schlächter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraja"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraja"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "das Haupt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Tsefanjahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanjahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "als Zweiten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die drei"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "die drei"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Hüter"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "der Schwelle"
+    }
+  ],
+  "timestamp": "2026-08-06T05:57:00.823739520Z",
+  "model": "glm-5.2"
+}

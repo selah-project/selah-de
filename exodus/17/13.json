@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und Jehoschua schwächte ⟨את⟩ Amalek und ⟨את⟩ sein Volk durch die Schärfe des Schwertes.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "Und er schwächte"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein Volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "durch die Schärfe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "des Schwertes"
+    }
+  ],
+  "timestamp": "2026-08-06T02:03:47.028707431Z",
+  "model": "glm-5.2"
+}

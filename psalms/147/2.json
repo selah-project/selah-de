@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "JHWH baut Jeruschalajim; ⟨er⟩ sammelt die Verstoßenen Jisra'els.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "baut"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "die Verstoßenen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "⟨er⟩ sammelt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:25:05.608148499Z",
+  "model": "glm-5.2"
+}

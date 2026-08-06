@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "und ⟨versammle⟩ ⟨את⟩ die ganze Versammlung zum Eingang des Zeltes der Begegnung.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Versammlung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "und ⟨versammle⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dem Eingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "des Zeltes"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:30.162041423Z",
+  "model": "glm-5.2"
+}

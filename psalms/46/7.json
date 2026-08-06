@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Völker toben, Königreiche wanken. ⟨Er⟩ gab seine Stimme — die Erde schmilzt.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "toben"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "wanken"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "Königreiche"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gab"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "seine Stimme"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "schmilzt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:13.747140392Z",
+  "model": "glm-5.2"
+}

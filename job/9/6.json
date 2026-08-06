@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 9:6",
+  "book": "job",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "⟨Der⟩ die Erde erschüttert aus ihrer Stelle, und ⟨deren⟩ Säulen erzittern ⟨lassen⟩ —",
+  "tokens": [
+    {
+      "surface": "המרגיז",
+      "gloss": "⟨Der⟩ erschüttert"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "aus ihrer Stelle"
+    },
+    {
+      "surface": "ועמודיה",
+      "gloss": "und ⟨deren⟩ Säulen"
+    },
+    {
+      "surface": "יתפלצון",
+      "gloss": "erzittern ⟨lassen⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:33:28.090878885Z",
+  "model": "glm-5.2"
+}

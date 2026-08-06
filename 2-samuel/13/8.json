@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Da ging Tamar ins Haus Amnons, ihres Bruders, und ⟨er⟩ lag ⟨da⟩. Und sie nahm ⟨את⟩ den Teig und knetete ⟨ihn⟩ und bereitete Herzfladen vor seinen Augen, und sie kochte ⟨את⟩ die Herzfladen.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "und sie ging"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ins Haus"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnons"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ihres Bruders"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und ⟨er⟩"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lag"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "und sie nahm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Teig"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "den Teig"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "und sie knetete"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "und sie bereitete"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "vor seinen Augen"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "und sie kochte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Herzfladen"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "die Herzfladen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:19:59.490794414Z",
+  "model": "glm-5.2"
+}

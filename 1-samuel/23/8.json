@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Schaul rief ⟨את⟩ das ganze Volk ⟨zusammen⟩ zum Krieg, um nach Keïla hinabzuziehen, Dawid und ⟨את⟩ seine Männer zu belagern.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "und rief ⟨zusammen⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "zum Krieg"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "um hinabzuziehen"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "nach Keïla"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "zu belagern"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨את⟩"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "seine Männer"
+    }
+  ],
+  "timestamp": "2026-08-06T01:09:51.379077172Z",
+  "model": "glm-5.2"
+}

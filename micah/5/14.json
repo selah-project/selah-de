@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ich werde vollstrecken in Zorn und in Grimm ⟨את⟩ Rache an den Völkern, die nicht gehört haben.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Und ich werde vollstrecken"
+    },
+    {
+      "surface": "באף",
+      "gloss": "in Zorn"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "und in Grimm"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "Rache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rache an den Völkern"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "den Völkern"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "gehört haben"
+    }
+  ],
+  "timestamp": "2026-08-05T22:37:11.459070243Z",
+  "model": "glm-5.2"
+}

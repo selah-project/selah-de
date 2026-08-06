@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und du sollst Aharon ⟨את⟩ bekleiden mit den Gewändern der Heiligung, und du sollst ⟨את⟩ ihn salben und ⟨את⟩ ihn heiligen, und er soll mir als Kohen dienen.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "und du sollst bekleiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Gewänder der Heiligung"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "Gewänder"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "der Heiligung"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "und du sollst salben"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "und du sollst heiligen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "und er soll als Kohen dienen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:27.538617063Z",
+  "model": "glm-5.2"
+}

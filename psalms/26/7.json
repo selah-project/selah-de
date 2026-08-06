@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "um hören zu lassen die Stimme des Dankes und ⟨um⟩ zu erzählen all deine Wunderwerke",
+  "tokens": [
+    {
+      "surface": "לַ֭שְׁמִעַ",
+      "gloss": "um hören zu lassen"
+    },
+    {
+      "surface": "בְּק֣וֹל",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "תּוֹדָ֑ה",
+      "gloss": "des Dankes"
+    },
+    {
+      "surface": "וּ֝לְסַפֵּ֗ר",
+      "gloss": "und zu erzählen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "נִפְלְאוֹתֶֽיךָ",
+      "gloss": "deine Wunderwerke"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:54.827356373Z",
+  "model": "glm-5.2"
+}

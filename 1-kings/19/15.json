@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und JHWH sprach zu ihm: „Geh, kehre zurück auf deinen Weg zur Wüste von Dammassek, und wenn du kommst, salbe ⟨את⟩ Chasael zum König über Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "geh"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kehre zurück"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "auf deinen Weg"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "zur Wüste"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "von Dammassek"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "und wenn du kommst"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "und salbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chasael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chasael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "zum König"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-06T03:01:54.137031640Z",
+  "model": "glm-5.2"
+}

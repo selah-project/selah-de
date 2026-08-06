@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 110,
+  "translation": "Dein Volk ⟨ist voll⟩ freiwilliger Gaben am Tag deiner Macht. In heiligem Schmuck — aus dem Schoß der Morgenröte — dir gleichwie Tau die Jungmannschaft deiner Jugend.",
+  "tokens": [
+    {
+      "surface": "עַמְּךָ֣",
+      "gloss": "dein Volk"
+    },
+    {
+      "surface": "נְדָבֹת֮",
+      "gloss": "freiwilliger Gaben"
+    },
+    {
+      "surface": "בְּי֪וֹם",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "חֵ֫ילֶ֥ךָ",
+      "gloss": "deiner Macht"
+    },
+    {
+      "surface": "בְּֽהַדְרֵי",
+      "gloss": "in ⟨dem⟩ Schmuck"
+    },
+    {
+      "surface": "קֹ֭דֶשׁ",
+      "gloss": "heiligem"
+    },
+    {
+      "surface": "מֵרֶ֣חֶם",
+      "gloss": "aus ⟨dem⟩ Schoß"
+    },
+    {
+      "surface": "מִשְׁחָ֑ר",
+      "gloss": "der Morgenröte"
+    },
+    {
+      "surface": "לְ֝ךָ֗",
+      "gloss": "dir"
+    },
+    {
+      "surface": "טַ֣ל",
+      "gloss": "gleichwie Tau"
+    },
+    {
+      "surface": "יַלְדֻתֶֽיךָ",
+      "gloss": "die Jungmannschaft deiner Jugend"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:04.299028989Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Wegen der Stimme des Feindes, wegen der Bedrängnis des Frevlers — denn sie lassen Unheil auf mich wanken, und in Zorn verfolgen sie mich.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Wegen der Stimme"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "des Feindes"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "der Bedrängnis"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "des Frevlers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "sie lassen wanken"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "auf mich"
+    },
+    {
+      "surface": "און",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "und in Zorn"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "verfolgen sie mich"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:50.098084319Z",
+  "model": "glm-5.2"
+}

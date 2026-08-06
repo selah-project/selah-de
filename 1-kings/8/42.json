@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "denn sie werden ⟨את⟩ deinen großen Namen hören und ⟨את⟩ deine starke Hand und deinen ausgestreckten Arm, und er kommt und betet zu diesem Haus —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "sie werden … hören"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen großen Namen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "großen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "deine starke Hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "starke"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "und deinen Arm"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "ausgestreckten"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "und er kommt"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "und betet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "diesem Haus"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    }
+  ],
+  "timestamp": "2026-08-06T01:24:24.324369928Z",
+  "model": "glm-5.2"
+}

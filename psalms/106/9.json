@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und ⟨er⟩ schalt das Schilfmeer, und es trocknete aus, und er ließ sie gehen durch die Fluten wie durch die Wüste.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Und ⟨er⟩ schalt"
+    },
+    {
+      "surface": "בים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Schilf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "und es trocknete aus"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "und er ließ sie gehen"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "durch die Fluten"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "wie ⟨durch⟩ die Wüste"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:50.842301451Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Er soll es nicht austauschen und nicht vertauschen — ⟨את⟩ Gutes durch Schlechtes oder Schlechtes durch Gutes. Und wenn er doch ein Tier durch ein ⟨anderes⟩ Tier vertauscht, dann soll es ⟨selbst⟩ und sein Tmurato (sein Ersatzstück) Qodesch (Heiliges) sein.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "er soll es austauschen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "vertauschen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Gutes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "durch Schlechtes"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Schlechtes"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "durch Gutes"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "המר",
+      "gloss": "⟨doch⟩ vertauschen"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "er vertauscht"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ein Tier"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "durch ein Tier"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dann soll sein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es ⟨selbst⟩"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "und sein Tmurato"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qodesch"
+    }
+  ],
+  "timestamp": "2026-08-06T05:22:14.529483473Z",
+  "model": "glm-5.2"
+}

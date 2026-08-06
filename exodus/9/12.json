@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und JHWH stärkte ⟨את⟩ das Herz des Paro, und er hörte nicht auf sie, so wie JHWH zu Mosche geredet hatte.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "und er stärkte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Herz des Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "des Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "er hörte"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "auf sie"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geredet hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    }
+  ],
+  "timestamp": "2026-08-05T20:07:35.590543688Z",
+  "model": "glm-5.2"
+}

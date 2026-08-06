@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Voran gingen Sänger, ⟨danach⟩ Spielleute, inmitten von Paukenschlägerinnen.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "Voran gingen"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "Sänger"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "⟨danach⟩"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "Spielleute"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten von"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Paukenschlägerinnen"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "(spielend)"
+    }
+  ],
+  "timestamp": "2026-08-06T19:51:55.588723085Z",
+  "model": "glm-5.2"
+}

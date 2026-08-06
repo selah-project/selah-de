@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 20:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Seine Söhne werden ⟨die⟩ Armen besänftigen, und seine Hände werden seine Kraft zurückgeben.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "Seine Söhne"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "werden besänftigen"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "Armen"
+    },
+    {
+      "surface": "וידיו",
+      "gloss": "und seine Hände"
+    },
+    {
+      "surface": "תשבנה",
+      "gloss": "werden zurückgeben"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "seine Kraft"
+    }
+  ],
+  "timestamp": "2026-08-06T09:24:32.002094587Z",
+  "model": "glm-5.2"
+}

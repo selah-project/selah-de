@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Du sollst nicht sehen ⟨את⟩ das Rind deines Bruders oder ⟨את⟩ sein Kleinvieh verirrt und dich vor ihnen verbergen — zurückbringen sollst du sie deinem Bruder.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "du sollst sehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Rind deines Bruders"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Rind"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "deines Bruders"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Kleinvieh verirrt"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "sein Kleinvieh"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "verirrt"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "und ⟨du sollst⟩ dich verbergen"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "vor ihnen"
+    },
+    {
+      "surface": "השב",
+      "gloss": "zurückbringen"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "sollst du sie"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "deinem Bruder"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:45.516697213Z",
+  "model": "glm-5.2"
+}

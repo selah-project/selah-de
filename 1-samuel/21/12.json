@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 21:12",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und die Knechte Akischs sagten zu ihm: „Ist dieser nicht Dawid, der König des Landes? Ist es nicht über diesen, ⟨dass⟩ man in Reigentänzen antwortet und sagt: Schaul schlug in seinen Tausenden, und Dawid in seinen Zehntausenden?“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "und ⟨sie⟩ sagten"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die Knechte"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akischs"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ist ⟨es⟩ nicht"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨der⟩ König"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ist ⟨es⟩ nicht"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "über diesen"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "⟨dass⟩ man antwortet"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "in Reigentänzen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagt"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "schlug"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "in seinen Tausenden"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "und Dawid"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "in seinen Zehntausenden"
+    }
+  ],
+  "timestamp": "2026-08-06T10:01:40.981731545Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Mein Volk, bei seinem Holz befragt es, und sein Stab gibt ihm Bescheid; denn ein Ruach der Unzuchten hat es irregeführt, und sie haben Unzucht getrieben unter ihrem Elohim weg.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Mein Volk"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "bei seinem Holz"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "befragt es"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "und sein Stab"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "gibt Bescheid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ein Ruach"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "der Unzucht"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "hat irregeführt"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "und sie haben Unzucht getrieben"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "unter … weg"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ihrem Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:30:43.472232371Z",
+  "model": "glm-5.2"
+}

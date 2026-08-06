@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Weint nicht um ⟨den⟩ Toten und stoßt kein Klagegebet aus für ihn. Weint, weint um den, der fortgeht — denn er wird nicht mehr zurückkehren und ⟨את⟩ das Land seiner Geburtsheimat sehen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "weint"
+    },
+    {
+      "surface": "למת",
+      "gloss": "um den Toten"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "stoßt aus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "für ihn"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "Weint"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "weint"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "um den Fortgehenden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "wird er zurückkehren"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "und sehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "seiner Geburtsheimat"
+    }
+  ],
+  "timestamp": "2026-08-06T08:57:25.236211563Z",
+  "model": "glm-5.2"
+}

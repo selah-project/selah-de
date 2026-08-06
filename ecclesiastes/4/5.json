@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Der Tor umklammert ⟨את⟩ seine Hände und verzehrt ⟨את⟩ sein Fleisch.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Der Tor"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "umklammert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Hände"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "seine Hände"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "und verzehrt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Fleisch"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sein Fleisch"
+    }
+  ],
+  "timestamp": "2026-08-06T07:09:32.774933403Z",
+  "model": "glm-5.2"
+}

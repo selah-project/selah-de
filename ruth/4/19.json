@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Chetzron zeugte ⟨את⟩ Ram, und Ram zeugte ⟨את⟩ Aminadaw.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "Und Chetzron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "und Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadaw"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadaw"
+    }
+  ],
+  "timestamp": "2026-08-06T07:07:37.234851874Z",
+  "model": "glm-5.2"
+}

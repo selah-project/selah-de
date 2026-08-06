@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Wenn ich rufe, antworte mir, Elohim meiner Gerechtigkeit! In Bedrängnis hast du mir Raum geschaffen. Sei mir gnädig und höre mein Gebet!",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Wenn ich rufe"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antworte mir"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "meiner Gerechtigkeit"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "In Bedrängnis"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "hast du Raum geschaffen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Sei mir gnädig"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "und höre"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mein Gebet"
+    }
+  ],
+  "timestamp": "2026-08-06T04:08:47.562774187Z",
+  "model": "glm-5.2"
+}

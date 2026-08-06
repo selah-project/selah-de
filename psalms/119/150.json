@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Nahe gekommen sind Verfolger böser Anschläge; von deiner Tora sind sie fern.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "Nahe gekommen sind"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "Verfolger"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "böser Anschläge"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "von deiner Tora"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "sind fern"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:44.720374927Z",
+  "model": "glm-5.2"
+}

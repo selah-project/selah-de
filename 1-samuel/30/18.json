@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und Dawid entriss ⟨את⟩ alles, was Amalek genommen hatte, und ⟨את⟩ seine beiden Frauen rettete Dawid.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "und er entriss"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles, was Amalek genommen hatte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "genommen hatte"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine beiden Frauen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "beide"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "seine Frauen"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "rettete"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-05T21:16:28.376240239Z",
+  "model": "glm-5.2"
+}

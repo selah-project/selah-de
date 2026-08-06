@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Wenn ⟨ich⟩ hungern ⟨sollte⟩, nicht ⟨werde ich⟩ dir ⟨es⟩ sagen; denn mein ⟨ist⟩ die Erde und ihre Fülle.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "אֶרְעַב",
+      "gloss": "ich hungern werde"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אֹמַר",
+      "gloss": "werde ich sagen"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "dir"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "mir ⟨gehört⟩ \/ mein"
+    },
+    {
+      "surface": "תֵּבֵל",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "וּמְלֹאָהּ",
+      "gloss": "und ihre Fülle"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:52.206155385Z",
+  "model": "glm-5.2"
+}

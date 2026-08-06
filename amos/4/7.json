@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und auch ich habe euch ⟨את⟩ den Regen vorenthalten, als noch drei Monate bis zur Ernte ⟨waren⟩, und ich ließ es auf eine Stadt regnen, und auf eine ⟨andere⟩ Stadt ließ ich es nicht regnen; ein Stück wurde beregnet, und das Stück, auf das nicht regnete, verdorrte.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Und auch"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "habe vorenthalten"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Regen"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "den Regen"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "als noch"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drei"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "Monate"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "bis zur Ernte"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "und ich ließ regnen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "eine Stadt"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eine"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "eine Stadt"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "ließ ich regnen"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "ein Stück"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ein"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "wurde beregnet"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "und das Stück"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "regnete"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "auf [das]"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "verdorrte"
+    }
+  ],
+  "timestamp": "2026-08-06T21:22:40.906976303Z",
+  "model": "glm-5.2"
+}

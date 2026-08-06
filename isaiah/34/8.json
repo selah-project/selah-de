@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Denn ⟨ein⟩ Tag der Vergeltung ⟨ist⟩ für JHWH, ein Jahr der Heimzahlung für den Rechtsstreit Zijons.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "י֥וֹם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "נָקָ֖ם",
+      "gloss": "der Vergeltung"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "שְׁנַ֥ת",
+      "gloss": "ein Jahr"
+    },
+    {
+      "surface": "שִׁלּוּמִ֖ים",
+      "gloss": "der Heimzahlung"
+    },
+    {
+      "surface": "לְרִ֥יב",
+      "gloss": "für den Rechtsstreit"
+    },
+    {
+      "surface": "צִיּֽוֹן",
+      "gloss": "Zijons"
+    }
+  ],
+  "timestamp": "2026-08-06T06:00:01.337476509Z",
+  "model": "glm-5.2"
+}

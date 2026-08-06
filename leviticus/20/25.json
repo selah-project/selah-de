@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 20:25",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ihr sollt unterscheiden zwischen dem reinen Vieh und dem unreinen, und zwischen dem unreinen Vogel und dem reinen. Und ihr sollt ⟨את⟩ eure Nefesch nicht zum Abscheu machen durch Vieh und durch Vogel und durch alles, was die Erde kriecht, das ich euch ausgesondert habe als unrein.",
+  "tokens": [
+    {
+      "surface": "והבדלתם",
+      "gloss": "und ihr sollt unterscheiden"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dem Vieh"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "dem reinen"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "und dem unreinen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "dem Vogel"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "dem unreinen"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "und dem reinen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "sollt ihr zum Abscheu machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eure Nefesch"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "eure Nefesch"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "durch Vieh"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "und durch Vogel"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "und durch alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "kriecht"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "הבדלתי",
+      "gloss": "ich ausgesondert habe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "לטמא",
+      "gloss": "als unrein"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:24.582049190Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "JHWH, Elohim meiner Rettung, am Tag habe ich geschrien, in der Nacht vor dir.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "meiner Rettung"
+    },
+    {
+      "surface": "יום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "habe ich geschrien"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "vor dir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:24.934516775Z",
+  "model": "glm-5.2"
+}

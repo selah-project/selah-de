@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und die Söhne Jisraëls schrien zu JHWH und sagten: „Wir haben an dir gesündigt, denn wir haben ⟨את⟩ unseren Elohim verlassen und ⟨את⟩ die Baalim gedient.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Und sie schrien"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraëls"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagten"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Wir haben gesündigt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "an dir"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "wir haben verlassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unseren Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unseren Elohim"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "und gedient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "die Baalim"
+    }
+  ],
+  "timestamp": "2026-08-06T15:44:09.459861870Z",
+  "model": "glm-5.2"
+}

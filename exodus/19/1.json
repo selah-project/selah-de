@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Im dritten Monat, beim Auszug der Söhne Jisraëls aus dem Land Mizrajim, an ⟨diesem⟩ Tag kamen sie in die Wüste Sinai.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Im Monat"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "dem dritten"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "beim Auszug"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraëls"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kamen sie"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "in die Wüste"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-05T20:10:34.328172860Z",
+  "model": "glm-5.2"
+}

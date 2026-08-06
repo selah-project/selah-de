@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "JHWH, der Elohim eurer Väter, füge euch so viel wie euch ⟨jetzt⟩ tausendmal hinzu, und er segne ⟨את⟩ euch, so wie er zu euch geredet hat!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "der Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "eurer Väter"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "füge hinzu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "so viel wie euch"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "und er segne"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "er geredet hat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "zu euch"
+    }
+  ],
+  "timestamp": "2026-08-05T20:41:47.032443366Z",
+  "model": "glm-5.2"
+}

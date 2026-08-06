@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Vergiss nicht die Stimme deiner Bedränger, das Tosen derer, die gegen dich aufstehen, das beständig steigt!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergiss"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "deiner Bedränger"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "das Tosen"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "derer, die gegen dich aufstehen"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "das steigt"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständig"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:09.085026018Z",
+  "model": "glm-5.2"
+}

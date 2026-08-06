@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und er gab Preis ⟨ihrem⟩ Vieh dem Hagel und ihre Herden den Feuerflammen.",
+  "tokens": [
+    {
+      "surface": "וַיַּסְגֵּ֣ר",
+      "gloss": "Und er gab Preis"
+    },
+    {
+      "surface": "לַבָּרָ֣ד",
+      "gloss": "dem Hagel"
+    },
+    {
+      "surface": "בְּעִירָ֑ם",
+      "gloss": "ihrem Vieh"
+    },
+    {
+      "surface": "וּ֝מִקְנֵיהֶ֗ם",
+      "gloss": "und ihre Herden"
+    },
+    {
+      "surface": "לָרְשָׁפִֽים",
+      "gloss": "den Feuerflammen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:31.423181732Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Chiram sandte zu Schelomo und ließ ⟨ihm⟩ sagen: „Ich habe ⟨את⟩ ⟨das⟩ gehört, was du zu mir gesandt hast. Ich will tun ⟨את⟩ all dein Begehren mit Zedernholz und mit Zypressenholz.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und er sandte"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und ließ sagen"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ich habe gehört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was du gesandt hast"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "du gesandt hast"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "will tun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dein Begehren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "dein Begehren"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "mit Holz von"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "Zedern"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "und mit Holz von"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "Zypressen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:02.796522566Z",
+  "model": "glm-5.2"
+}

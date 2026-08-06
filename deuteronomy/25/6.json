@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und es soll geschehen: der Erstgeborene, den sie gebiert, soll auferstehen für den Namen seines verstorbenen Bruders, damit sein Name nicht ausgetilgt wird aus Jisra'el.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֗ה",
+      "gloss": "Und es soll geschehen"
+    },
+    {
+      "surface": "הַבְּכוֹר֙",
+      "gloss": "der Erstgeborene"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "den"
+    },
+    {
+      "surface": "תֵּלֵ֔ד",
+      "gloss": "sie gebiert"
+    },
+    {
+      "surface": "יָק֕וּם",
+      "gloss": "soll auferstehen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "für"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "den Namen"
+    },
+    {
+      "surface": "אָחִ֖יו",
+      "gloss": "seines Bruders"
+    },
+    {
+      "surface": "הַמֵּ֑ת",
+      "gloss": "des Verstorbenen"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "יִמָּחֶ֥ה",
+      "gloss": "ausgetilgt wird"
+    },
+    {
+      "surface": "שְׁמ֖וֹ",
+      "gloss": "sein Name"
+    },
+    {
+      "surface": "מִיִּשְׂרָאֵֽל",
+      "gloss": "aus Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-06T08:30:28.047943184Z",
+  "model": "glm-5.2"
+}

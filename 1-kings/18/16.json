@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Obadja ging, Achab entgegen, und ⟨er⟩ berichtete ⟨es⟩ ⟨ihm⟩. Und Achab ging, Elia entgegen.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Und ⟨er⟩ ging"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadja"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "entgegen"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "und ⟨er⟩ berichtete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ihm⟩"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Und ⟨er⟩ ging"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "entgegen"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    }
+  ],
+  "timestamp": "2026-08-06T10:06:39.206430095Z",
+  "model": "glm-5.2"
+}

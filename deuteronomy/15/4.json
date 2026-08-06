@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 15:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Nur dass kein Bedürftiger bei dir sein wird — denn JHWH wird dich segnen in dem Land, das JHWH, dein Elohim, dir als Erbe gibt, es zu besitzen —",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sein wird"
+    },
+    {
+      "surface": "בך",
+      "gloss": "bei dir"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ein Bedürftiger"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "segnen"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "wird dich segnen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in dem Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "als Erbe"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "es zu besitzen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:32.001996528Z",
+  "model": "glm-5.2"
+}

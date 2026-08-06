@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Ahab sandte unter alle Söhne Jisra'els, und er versammelte ⟨את⟩ die Nawijim ⟨an⟩ den Berg Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und ⟨er⟩ sandte"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "unter alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "und ⟨er⟩ versammelte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Nawijim"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "die Nawijim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨an⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "den Berg"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-06T01:28:24.189962670Z",
+  "model": "glm-5.2"
+}

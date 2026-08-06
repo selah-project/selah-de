@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und Chasael, der König von Aram, bedrängte ⟨את⟩ Jisra'el alle Tage Jehoachas'.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Und Chasael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "von Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "bedrängte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachas'"
+    }
+  ],
+  "timestamp": "2026-08-06T05:55:32.644527189Z",
+  "model": "glm-5.2"
+}

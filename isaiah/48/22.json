@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "„Kein Schalom“, sprach JHWH, „für die Frevler.“",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "kein"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "für die Frevler"
+    }
+  ],
+  "timestamp": "2026-08-05T21:54:23.979351201Z",
+  "model": "glm-5.2"
+}

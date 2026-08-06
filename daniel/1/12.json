@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "„Prüfe doch ⟨את⟩ deine Knechte zehn Tage, und man gebe uns von den Samen, dass wir essen, und Wasser, dass wir trinken.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "prüfe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Knechte"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "deine Knechte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "und ⟨man⟩ gebe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "den Samen"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "dass wir essen"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "und Wasser"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "dass wir trinken"
+    }
+  ],
+  "timestamp": "2026-08-05T23:33:49.386672082Z",
+  "model": "glm-5.2"
+}

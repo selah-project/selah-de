@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "⟨von⟩chezron ⟨die⟩ Sippe derchezroniter, ⟨von⟩ Karmi ⟨die⟩ Sippe der Karmiiter.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "chezron"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "Sippe"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "derchezroniter"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "Karmi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "Sippe"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "der Karmiiter"
+    }
+  ],
+  "timestamp": "2026-08-06T00:38:30.105244578Z",
+  "model": "glm-5.2"
+}

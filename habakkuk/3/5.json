@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Vor ihm her ging die Seuche, und ⟨ein⟩ Feuerbrand trat heraus zu seinen Füßen.",
+  "tokens": [
+    {
+      "surface": "לְפָנָ֖יו",
+      "gloss": "vor ihm her"
+    },
+    {
+      "surface": "יֵ֣לֶךְ",
+      "gloss": "ging"
+    },
+    {
+      "surface": "דָּ֑בֶר",
+      "gloss": "die Seuche"
+    },
+    {
+      "surface": "וְיֵצֵ֥א",
+      "gloss": "und trat heraus"
+    },
+    {
+      "surface": "רֶ֖שֶׁף",
+      "gloss": "Feuerbrand"
+    },
+    {
+      "surface": "לְרַגְלָֽיו",
+      "gloss": "zu seinen Füßen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:39:34.636266627Z",
+  "model": "glm-5.2"
+}

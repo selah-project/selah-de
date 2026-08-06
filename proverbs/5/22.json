@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Seine Vergehen — sie fangen ihn, ⟨את⟩ den Frevler, und in den Stricken seiner Sünde wird er festgehalten.",
+  "tokens": [
+    {
+      "surface": "עַֽווֹנוֹתָ֗יו",
+      "gloss": "seine Vergehen"
+    },
+    {
+      "surface": "יִלְכְּדֻנ֥וֹ",
+      "gloss": "fangen ihn"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Frevler"
+    },
+    {
+      "surface": "הָרָשָׁ֑ע",
+      "gloss": "den Frevler"
+    },
+    {
+      "surface": "וּבְחַבְלֵ֥י",
+      "gloss": "und in den Stricken"
+    },
+    {
+      "surface": "חַ֝טָּאת֗וֹ",
+      "gloss": "seiner Sünde"
+    },
+    {
+      "surface": "יִתָּמֵֽךְ",
+      "gloss": "wird er festgehalten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:25:35.101972347Z",
+  "model": "glm-5.2"
+}

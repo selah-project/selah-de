@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Für den Chorsänger. Ein Mizmor von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für den Chorsänger"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:28.256579727Z",
+  "model": "glm-5.2"
+}

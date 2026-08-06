@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Gebeugt ⟨bin⟩ ich und dem Sterben nahe von Jugend an; ich habe deine Schrecken getragen, ⟨und⟩ ich verzage.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Gebeugt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "und dem Sterben nahe"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "von Jugend an"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ich habe getragen"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "deine Schrecken"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ich verzage"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:08.533047418Z",
+  "model": "glm-5.2"
+}

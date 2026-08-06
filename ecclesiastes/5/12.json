@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Es gibt ein schlimmes Übel, das ich gesehen habe unter der Sonne: Reichtum, gehortet von seinem Besitzer, zu seinem Schaden.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Es gibt"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ein schlimmes"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "Übel"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "das ich gesehen habe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "Reichtum"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "gehortet"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "von seinem Besitzer"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "zu seinem Schaden"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:09.068894114Z",
+  "model": "glm-5.2"
+}

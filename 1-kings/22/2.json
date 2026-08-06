@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und es geschah im dritten Jahr, da stieg Jehoschafat hinab, der König von Jehuda, zum König von Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "im Jahr"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "dem dritten"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "da stieg hinab"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoschafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-06T01:29:41.454388806Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 22:29",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Ebenso sollst du ⟨es⟩ mit deinem Rind ⟨und⟩ mit deiner Kleinviehherde tun: sieben Tage soll ⟨es⟩ bei seiner Mutter sein, am achten Tag sollst du ⟨es⟩ mir geben.",
+  "tokens": [
+    {
+      "surface": "כֵּֽן",
+      "gloss": "Ebenso"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֥ה",
+      "gloss": "sollst du tun"
+    },
+    {
+      "surface": "לְשֹׁרְךָ֖",
+      "gloss": "mit deinem Rind"
+    },
+    {
+      "surface": "לְצֹאנֶ֑ךָ",
+      "gloss": "mit deiner Kleinviehherde"
+    },
+    {
+      "surface": "שִׁבְעַ֤ת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "יָמִים֙",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "יִהְיֶ֣ה",
+      "gloss": "soll ⟨es⟩ sein"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "אִמּ֔וֹ",
+      "gloss": "seiner Mutter"
+    },
+    {
+      "surface": "בַּיּ֥וֹם",
+      "gloss": "am"
+    },
+    {
+      "surface": "הַשְּׁמִינִ֖י",
+      "gloss": "achten Tag"
+    },
+    {
+      "surface": "תִּתְּנ֥וֹ",
+      "gloss": "sollst du ⟨es⟩ geben"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:36.599984398Z",
+  "model": "glm-5.2"
+}

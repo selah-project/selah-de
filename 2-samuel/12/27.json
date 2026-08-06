@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und Joaw schickte Boten zu Dawid und sagte: „Ich habe gegen Rabba gekämpft, auch habe ich ⟨את⟩ die Wasserstadt eingenommen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und ⟨er⟩ schickte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "Boten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "ich habe gekämpft"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "gegen Rabba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "habe ich eingenommen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wasserstadt"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "המים",
+      "gloss": "des Wassers"
+    }
+  ],
+  "timestamp": "2026-08-06T01:16:04.612543898Z",
+  "model": "glm-5.2"
+}

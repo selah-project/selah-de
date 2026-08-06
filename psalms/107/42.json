@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Die Aufrechten sehen ⟨es⟩ und freuen sich, und alles Unrecht schließt seinen Mund.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "sehen"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "die Aufrechten"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "und freuen sich"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alles"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "Unrecht"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "schließt"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "seinen Mund"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:16.680617121Z",
+  "model": "glm-5.2"
+}

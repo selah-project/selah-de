@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ihr, die ihr an JHWH, euren Elohim, hangt — ihr seid alle am Leben, heute.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Und ihr"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "die ihr hangt"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "an JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euren Elohim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ihr seid am Leben"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "alle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    }
+  ],
+  "timestamp": "2026-08-05T20:43:27.879125635Z",
+  "model": "glm-5.2"
+}

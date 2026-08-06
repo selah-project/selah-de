@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und ich, ich werde ⟨את⟩ das Land verwüsten, und eure Feinde, die darin wohnen, werden darüber entsetzt sein.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Und ich werde verwüsten"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "und werden entsetzt sein"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "darüber"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "eure Feinde"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "die wohnen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "darin"
+    }
+  ],
+  "timestamp": "2026-08-05T20:28:52.840118816Z",
+  "model": "glm-5.2"
+}

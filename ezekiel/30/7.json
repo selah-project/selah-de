@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 30:7",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und ⟨sie⟩ werden verwüstet inmitten verwüsteter Länder, und ihre Städte inmitten zerstörter Städte ⟨werden sein⟩.",
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "Und ⟨sie⟩ werden verwüstet"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "Länder"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "verwüsteter"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "und ihre Städte"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "נחרבות",
+      "gloss": "zerstörter"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨werden sein⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T10:22:26.110570128Z",
+  "model": "glm-5.2"
+}

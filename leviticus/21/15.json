@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "und ⟨er⟩ soll seinen Samen nicht entweihen unter seinen Völkern, denn ich bin JHWH, ⟨der⟩ ihn heiligt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "soll entweihen"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "seinen Samen"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "unter seinen Völkern"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "ihn heiligt"
+    }
+  ],
+  "timestamp": "2026-08-06T05:21:14.858298227Z",
+  "model": "glm-5.2"
+}

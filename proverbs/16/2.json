@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Alle Wege eines Mannes sind rein in seinen Augen, aber JHWH prüft die Geister.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "Wege"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eines Mannes"
+    },
+    {
+      "surface": "זך",
+      "gloss": "rein"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in seinen Augen"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "aber prüft"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "die Geister"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T04:28:51.390446116Z",
+  "model": "glm-5.2"
+}

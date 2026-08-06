@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 63,
+  "translation": "So habe ich dich geschaut im Heiligtum, ⟨um⟩ zu sehen deine Stärke und deine Herrlichkeit.",
+  "tokens": [
+    {
+      "surface": "כֵּן",
+      "gloss": "So"
+    },
+    {
+      "surface": "בַּקֹּדֶשׁ",
+      "gloss": "im Heiligtum"
+    },
+    {
+      "surface": "חֲזִיתִיךָ",
+      "gloss": "habe ich dich geschaut"
+    },
+    {
+      "surface": "לִרְאוֹת",
+      "gloss": "⟨um⟩ zu sehen"
+    },
+    {
+      "surface": "עֻזְּךָ",
+      "gloss": "deine Stärke"
+    },
+    {
+      "surface": "וּכְבוֹדֶךָ",
+      "gloss": "und deine Herrlichkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:26.934240198Z",
+  "model": "glm-5.2"
+}

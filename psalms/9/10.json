@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und JHWH wird ⟨sein⟩ eine Höhe für den Gedrückten, eine Höhe für die Zeiten in Bedrängnis.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und wird ⟨sein⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "eine Höhe"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "für den Gedrückten"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "eine Höhe"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "für die Zeiten"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "in Bedrängnis"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:39.080074491Z",
+  "model": "glm-5.2"
+}

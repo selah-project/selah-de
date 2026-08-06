@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und Awram ⟨war⟩ achtzig Jahre und sechs Jahre alt, als Hagar ⟨את⟩ Jischmael dem Awram gebar.",
+  "tokens": [
+    {
+      "surface": "וְאַבְרָם",
+      "gloss": "Und Awram"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "⟨war … alt⟩"
+    },
+    {
+      "surface": "שְׁמֹנִים",
+      "gloss": "achtzig"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "וְשֵׁשׁ",
+      "gloss": "und sechs"
+    },
+    {
+      "surface": "שָׁנִים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "בְּלֶדֶת",
+      "gloss": "als sie gebar"
+    },
+    {
+      "surface": "הָגָר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Jischmael"
+    },
+    {
+      "surface": "יִשְׁמָעֵאל",
+      "gloss": "Jischmael"
+    },
+    {
+      "surface": "לְאַבְרָם",
+      "gloss": "dem Awram"
+    }
+  ],
+  "timestamp": "2026-08-06T00:04:55.629933596Z",
+  "model": "glm-5.2"
+}

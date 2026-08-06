@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und das Volk sprach zu Jehoschua: „Nein, sondern ⟨את⟩ JHWH wollen wir dienen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nein"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "wollen wir dienen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:43:01.792823361Z",
+  "model": "glm-5.2"
+}

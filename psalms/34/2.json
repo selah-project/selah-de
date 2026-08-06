@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Ich will JHWH segnen zu jeder Zeit, ständig ⟨ist⟩ sein Lob in meinem Mund.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ich will segnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zu jeder"
+    },
+    {
+      "surface": "עת",
+      "gloss": "Zeit"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständig"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sein Lob"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in meinem Mund"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:30.469390103Z",
+  "model": "glm-5.2"
+}

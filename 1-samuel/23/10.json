@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Dawid sagte: „JHWH, Elohim Jisraels, dein Knecht hat gehört, dass Schaul sucht, nach Qeila zu kommen, um die Stadt meinetwegen zu verderben.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörend"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hat gehört"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "dein Knecht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "sucht"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "zu kommen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "um zu verderben"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "meinetwegen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:45:59.167204796Z",
+  "model": "glm-5.2"
+}

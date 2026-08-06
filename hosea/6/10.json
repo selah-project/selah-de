@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Im Haus Jisra'els habe ich Entsetzliches gesehen: dort ⟨ist⟩ Unzucht dem Efraim; ⟨es⟩ hat sich verunreinigt, Jisra'el.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "habe ich gesehen"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "Entsetzliches"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "⟨ist⟩ Unzucht"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "dem Efraim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "⟨es⟩ hat sich verunreinigt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-06T03:56:57.843538620Z",
+  "model": "glm-5.2"
+}

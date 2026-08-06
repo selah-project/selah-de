@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Eine Zeit zu gebären, und eine Zeit zu sterben; eine Zeit zu pflanzen, und eine Zeit ⟨das⟩ Gepflanzte auszureißen.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Eine Zeit"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "zu gebären"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "und eine Zeit"
+    },
+    {
+      "surface": "למות",
+      "gloss": "zu sterben"
+    },
+    {
+      "surface": "עת",
+      "gloss": "Eine Zeit"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "zu pflanzen"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "und eine Zeit"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "auszureißen"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "Gepflanztes"
+    }
+  ],
+  "timestamp": "2026-08-06T09:27:22.963362047Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und sie heiligten ⟨את⟩ Kedesch in Galiläa, im Bergland Naftalis, und ⟨את⟩ Sichem im Bergland Efrajims, und ⟨את⟩ Kirjat-Arba — das ist Chevron — im Bergland Jehudas.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Und sie heiligten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesch"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesch"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "in Galiläa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "im Bergland"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Sichem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sichem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "im Bergland"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajims"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Kirjat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "das ist"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "im Bergland"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    }
+  ],
+  "timestamp": "2026-08-06T02:33:11.258052642Z",
+  "model": "glm-5.2"
+}

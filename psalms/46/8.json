@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "JHWH der Heerscharen ⟨ist⟩ mit uns, eine Hoheit uns ⟨zum⟩ Schutz, Elohim Jaakows. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "mit uns"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "eine Hoheit"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakows"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:13.747267351Z",
+  "model": "glm-5.2"
+}

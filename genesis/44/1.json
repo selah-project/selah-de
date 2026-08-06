@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Und er befahl ⟨dem⟩, der über seinem Haus ⟨war⟩, und sagte: Fülle ⟨את⟩ die Säcke der Männer ⟨mit⟩ Speise, so viel sie tragen können, und leg ⟨das⟩ Silber eines jeden an die Öffnung seines Sacks.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Und er befahl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den, der über seinem Haus war"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "seinem Haus"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Fülle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Säcke"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "Säcke"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "der Männer"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Speise"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so viel"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "sie können"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "tragen"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "und leg"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eines jeden"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "an die Öffnung"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "seines Sacks"
+    }
+  ],
+  "timestamp": "2026-08-05T17:41:38.462462680Z",
+  "model": "glm-5.2"
+}

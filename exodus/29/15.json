@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und ⟨את⟩ ⟨den⟩ Widder, den einen, sollst du nehmen, und Aharon und seine Söhne sollen ⟨את⟩ ihre Hände auf den Kopf des Widders stützen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Widder"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "der Widder"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "der eine"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "sollst du nehmen"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "und sie sollen stützen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Hände"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ihre Hände"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Kopf"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "des Widders"
+    }
+  ],
+  "timestamp": "2026-08-06T02:05:48.211267017Z",
+  "model": "glm-5.2"
+}

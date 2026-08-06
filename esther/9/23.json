@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und die Judäer nahmen auf, was sie angefangen hatten zu tun, und was Mordechai an sie geschrieben hatte.",
+  "tokens": [
+    {
+      "surface": "וְקִבֵּל֙",
+      "gloss": "Und nahmen auf"
+    },
+    {
+      "surface": "הַיְּהוּדִ֔ים",
+      "gloss": "die Judäer"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "was sie angefangen hatten zu tun"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "was"
+    },
+    {
+      "surface": "הֵחֵ֖לוּ",
+      "gloss": "sie angefangen hatten"
+    },
+    {
+      "surface": "לַעֲשׂ֑וֹת",
+      "gloss": "zu tun"
+    },
+    {
+      "surface": "וְאֵ֛ת",
+      "gloss": "⟨את⟩",
+      "marks": "was Mordechai an sie geschrieben hatte"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "was"
+    },
+    {
+      "surface": "כָּתַ֥ב",
+      "gloss": "geschrieben hatte"
+    },
+    {
+      "surface": "מָרְדֳּכַ֖י",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "אֲלֵיהֶֽם",
+      "gloss": "an sie"
+    }
+  ],
+  "timestamp": "2026-08-06T04:46:10.886292707Z",
+  "model": "glm-5.2"
+}

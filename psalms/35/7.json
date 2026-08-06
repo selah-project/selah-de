@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Denn ohne Grund versteckten ⟨sie⟩ mir ⟨eine⟩ Grube — ihr Netz; ohne Grund gruben ⟨sie⟩ ⟨eine⟩ Grube für meine Nefesch.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ohne Grund"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "versteckten ⟨sie⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "⟨eine⟩ Grube"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "ihr Netz"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ohne Grund"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "gruben ⟨sie⟩"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "für meine Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:22.498812714Z",
+  "model": "glm-5.2"
+}

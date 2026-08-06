@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 97,
+  "translation": "Seine Blitze leuchteten ⟨der⟩ Erdkreis auf, die Erde sah undbebte.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "leuchteten auf"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Seine Blitze"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "Erdkreis"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "sah"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "undbebte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:41.153822716Z",
+  "model": "glm-5.2"
+}

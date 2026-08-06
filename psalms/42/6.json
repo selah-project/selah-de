@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Was bist du niedergebeugt, meine Nefesch, und was braust du über mir? Harre auf Elohim, denn noch werde ich ihn preisen — die Rettungen seines Angesichts.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "bist du niedergebeugt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "und ⟨was⟩ braust du"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "über mir"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Harre ⟨auf⟩"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "auf Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "noch"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "werde ich ihn preisen"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "die Rettungen"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "seines Angesichts"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:37.478111698Z",
+  "model": "glm-5.2"
+}

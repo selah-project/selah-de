@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 126,
+  "translation": "Ein Lied der Stufen. Beim Zurückwenden JHWHs ⟨von⟩ ⟨את⟩ der Gefangenschaft Zijons — da waren wir wie Träumende.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ein Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "der Stufen"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Beim Zurückwenden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "der Gefangenschaft Zijons"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "der Gefangenschaft"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zijons"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "da waren wir"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "wie Träumende"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:10.591278857Z",
+  "model": "glm-5.2"
+}

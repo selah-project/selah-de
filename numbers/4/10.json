@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und sie sollen sie und ⟨את⟩ alle ihre Geräte in eine Hülle von Tachasch-Haut geben und ⟨sie⟩ auf die Tragstange legen.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "und sie sollen geben"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle ihre Geräte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ihre Geräte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "eine Hülle"
+    },
+    {
+      "surface": "עור",
+      "gloss": "von Haut"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tachasch"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "und sie sollen geben"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "die Tragstange"
+    }
+  ],
+  "timestamp": "2026-08-06T00:31:56.517247535Z",
+  "model": "glm-5.2"
+}

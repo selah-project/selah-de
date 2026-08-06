@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Denn sechs Tage machte JHWH ⟨את⟩ den Himmel und ⟨את⟩ die Erde, ⟨את⟩ das Meer und ⟨את⟩ alles, was in ihnen ⟨ist⟩, und er ruhte am siebten Tag; darum segnete JHWH ⟨את⟩ den Tag des Schabbat und heiligte ihn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sechs"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "machte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Himmel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "den Himmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Meer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in ihnen"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "und er ruhte"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "dem siebten"
+    },
+    {
+      "surface": "על",
+      "gloss": "darum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "segnete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Tag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den Tag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "des Schabbat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "und heiligte ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T20:12:57.125794367Z",
+  "model": "glm-5.2"
+}

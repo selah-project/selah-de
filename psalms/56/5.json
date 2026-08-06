@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 56,
+  "translation": "Bei Elohim will ich ⟨sein⟩ Wort rühmen, bei Elohim habe ich vertraut, ich werde nicht fürchten — was sollte Fleisch mir tun?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "bei Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "will ich rühmen"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "⟨sein⟩ Wort"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "bei Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "habe ich vertraut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "werde ich fürchten"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sollte tun"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:41.154720138Z",
+  "model": "glm-5.2"
+}

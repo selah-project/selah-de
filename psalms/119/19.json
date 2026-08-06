@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ein Fremdling ⟨bin⟩ ich auf ⟨der⟩ Erde; verbirg nicht von mir deine Gebote.",
+  "tokens": [
+    {
+      "surface": "גֵּר",
+      "gloss": "Fremdling"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "בָאָרֶץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַּסְתֵּר",
+      "gloss": "verbirg"
+    },
+    {
+      "surface": "מִמֶּנִּי",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "מִצְוֺתֶיךָ",
+      "gloss": "deine Gebote"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:49.736349089Z",
+  "model": "glm-5.2"
+}

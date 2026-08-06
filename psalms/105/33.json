@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Und er schlug ihren Weinstock und ihre Feige, und er zerbrach ⟨die⟩ Bäume ⟨ihres⟩ Gebiets.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "und er schlug"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ihren Weinstock"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "und ihre Feige"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "und er zerbrach"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "Bäume"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ihres Gebiets"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:28.136270284Z",
+  "model": "glm-5.2"
+}

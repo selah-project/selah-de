@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Hilf mir, JHWH, mein Elohim! Rette mich nach deinem Chessed!",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "Hilf mir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Rette mich"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "nach deinem Chessed"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:14.661826219Z",
+  "model": "glm-5.2"
+}

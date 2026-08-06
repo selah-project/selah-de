@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und JHWH erweckte ⟨dem⟩ Schlomo einen Widersacher: ⟨את⟩ Hadad den Edomiter — vom Samen des Königs, ⟨er⟩ in Edom.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֨קֶם",
+      "gloss": "Und … erweckte"
+    },
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שָׂטָן֙",
+      "gloss": "einen Widersacher"
+    },
+    {
+      "surface": "לִשְׁלֹמֹ֔ה",
+      "gloss": "⟨dem⟩ Schlomo"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad den Edomiter"
+    },
+    {
+      "surface": "הֲדַ֣ד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "הָאֲדֹמִ֑י",
+      "gloss": "den Edomiter"
+    },
+    {
+      "surface": "מִזֶּ֧רַע",
+      "gloss": "vom Samen"
+    },
+    {
+      "surface": "הַמֶּ֛לֶךְ",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "בֶּאֱדֽוֹם",
+      "gloss": "in Edom"
+    }
+  ],
+  "timestamp": "2026-08-06T01:25:05.642401203Z",
+  "model": "glm-5.2"
+}

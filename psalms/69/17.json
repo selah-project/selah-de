@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Antworte mir, JHWH, denn gut ⟨ist⟩ dein Chessed; nach der Fülle deiner Erbarmungen wende dich mir zu.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Antworte mir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "nach der Fülle"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "deiner Erbarmungen"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "wende dich"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mir zu"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:00.917867711Z",
+  "model": "glm-5.2"
+}

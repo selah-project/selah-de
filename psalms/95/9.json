@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 95,
+  "translation": "wo eure Väter mich prüften, mich erprobten — auch sahen sie mein Werk.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "prüften mich"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "eure Väter"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "mich erprobten"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sahen"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mein Werk"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:24.714775716Z",
+  "model": "glm-5.2"
+}

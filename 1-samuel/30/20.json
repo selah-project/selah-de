@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und Dawid nahm ⟨את⟩ die ganze Kleinviehherde und das Großvieh; man trieb sie vor jenes Vieh her, und sie sagten: „Das ist die Beute Dawids.“",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "und er nahm"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Kleinviehherde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "Kleinviehherde"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "und das Großvieh"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "man trieb"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "dem Vieh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "und sie sagten"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Das ist"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "die Beute"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    }
+  ],
+  "timestamp": "2026-08-05T21:16:28.376481800Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 9:10",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Durchs Schwert werden sterben alle Sünder meines Volkes, die sagen: ‚Das Unheil wird ⟨uns⟩ nicht nahen und nicht vor uns eintreffen.'",
+  "tokens": [
+    {
+      "surface": "בַּחֶ֣רֶב",
+      "gloss": "durchs Schwert"
+    },
+    {
+      "surface": "יָמ֔וּתוּ",
+      "gloss": "werden sterben"
+    },
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חַטָּאֵ֣י",
+      "gloss": "Sünder"
+    },
+    {
+      "surface": "עַמִּ֑י",
+      "gloss": "meines Volkes"
+    },
+    {
+      "surface": "הָאֹמְרִ֗ים",
+      "gloss": "die sagen"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַגִּ֧ישׁ",
+      "gloss": "wird nahen"
+    },
+    {
+      "surface": "וְתַקְדִּ֛ים",
+      "gloss": "und nicht eintreffen"
+    },
+    {
+      "surface": "בַּעֲדֵ֖ינוּ",
+      "gloss": "uns"
+    },
+    {
+      "surface": "הָרָעָֽה",
+      "gloss": "das Unheil"
+    }
+  ],
+  "timestamp": "2026-08-06T04:01:40.258319333Z",
+  "model": "glm-5.2"
+}

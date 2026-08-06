@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und Schmuël sprach: „Bringt her zu mir ⟨את⟩ Agag, den König von Amalek.“ Und Agag ging zu ihm, trittbewusst. Und Agag sprach: „Gewiss, gewichen ist die Bitterkeit des Todes.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "Bringt her"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag, den König von Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "von Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Und ⟨er⟩ ging"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "trittbewusst"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Gewiss"
+    },
+    {
+      "surface": "סר",
+      "gloss": "gewichen ist"
+    },
+    {
+      "surface": "מר",
+      "gloss": "die Bitterkeit"
+    },
+    {
+      "surface": "המות",
+      "gloss": "des Todes"
+    }
+  ],
+  "timestamp": "2026-08-06T01:06:55.183588065Z",
+  "model": "glm-5.2"
+}

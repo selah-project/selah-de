@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 35:23",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und die Schützen schossen auf den König Joschijahu, und der König sprach zu seinen Knechten: „Schafft mich weg, denn ich bin schwer verwundet.“",
+  "tokens": [
+    {
+      "surface": "וַיֹּרוּ",
+      "gloss": "und sie schossen"
+    },
+    {
+      "surface": "הַיֹּרִים",
+      "gloss": "die Schützen"
+    },
+    {
+      "surface": "לַמֶּלֶךְ",
+      "gloss": "auf den König"
+    },
+    {
+      "surface": "יֹאשִׁיָּהוּ",
+      "gloss": "Joschijahu"
+    },
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "לַעֲבָדָיו",
+      "gloss": "zu seinen Knechten"
+    },
+    {
+      "surface": "הַעֲבִירוּנִי",
+      "gloss": "schafft mich weg"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הָחֳלֵיתִי",
+      "gloss": "bin ich verwundet"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "schwer"
+    }
+  ],
+  "timestamp": "2026-08-06T07:31:37.591095732Z",
+  "model": "glm-5.2"
+}

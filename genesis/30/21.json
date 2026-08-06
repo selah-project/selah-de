@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und danach gebar ⟨sie⟩ eine Tochter und nannte ⟨את⟩ ihren Namen Dina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Und danach"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebar"
+    },
+    {
+      "surface": "בת",
+      "gloss": "eine Tochter"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "und nannte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Namen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ihren Namen"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:36.765610080Z",
+  "model": "glm-5.2"
+}

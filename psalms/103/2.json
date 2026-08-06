@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "Segne, meine Nefesch, ⟨את⟩ JHWH, und vergiss nicht all seine Wohltaten.",
+  "tokens": [
+    {
+      "surface": "בָּרֲכִ֣י",
+      "gloss": "segne"
+    },
+    {
+      "surface": "נַ֭פְשִׁי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תִּ֝שְׁכְּחִ֗י",
+      "gloss": "vergiss"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גְּמוּלָֽיו",
+      "gloss": "seine Wohltaten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:25.633037011Z",
+  "model": "glm-5.2"
+}

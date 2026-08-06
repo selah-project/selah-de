@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "So tilgte Simri aus ⟨את⟩ das ganze Haus Baaschas, nach dem Wort JHWHs, das er zu Baascha geredet hatte, durch die Hand Jehus, des Nawis.",
+  "tokens": [
+    {
+      "surface": "וַיַּשְׁמֵד",
+      "gloss": "So tilgte aus"
+    },
+    {
+      "surface": "זִמְרִי",
+      "gloss": "Simri"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Haus Baaschas"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "בַּעְשָׂא",
+      "gloss": "Baaschas"
+    },
+    {
+      "surface": "כִּדְבַר",
+      "gloss": "nach dem Wort"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "er geredet hatte"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בַּעְשָׂא",
+      "gloss": "Baascha"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "יֵהוּא",
+      "gloss": "Jehus"
+    },
+    {
+      "surface": "הַנָּבִיא",
+      "gloss": "des Nawis"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:33.099742978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ich preise ⟨את⟩ die Toten, die schon gestorben sind, mehr als die Lebenden, die noch bis hierher leben.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Und ich preise"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Toten"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "die Toten"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "die schon"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "gestorben sind"
+    },
+    {
+      "surface": "מן",
+      "gloss": "als"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "die Lebenden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "leben"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "noch bis hierher"
+    }
+  ],
+  "timestamp": "2026-08-06T15:27:27.424273649Z",
+  "model": "glm-5.2"
+}

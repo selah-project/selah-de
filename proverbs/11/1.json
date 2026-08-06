@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Waagen des Truges sind JHWH ein Gräuel, aber ein ganzer Stein ⟨ist⟩ sein Wohlgefallen.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "Waagen"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "des Truges"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "sind ein Gräuel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "aber ein Stein"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ganzer"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "sein Wohlgefallen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:40.905163914Z",
+  "model": "glm-5.2"
+}

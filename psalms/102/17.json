@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Denn JHWH hat Zijon gebaut, ⟨er⟩ ist erschienen in seiner Herrlichkeit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hat gebaut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zijon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ist erschienen"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "in seiner Herrlichkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:42.105280685Z",
+  "model": "glm-5.2"
+}

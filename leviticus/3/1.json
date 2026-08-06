@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und wenn sein Korban ein Schlachtopfer der Schelamim ist: wenn er vom Rindvieh ⟨darbringt⟩, ob ein männliches oder ein weibliches — ein makelloses soll er es darbringen vor JHWH.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Schlachtopfer"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "der Schelamim"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sein Korban"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dem Rindvieh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "darbringt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ein männliches"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oder"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ein weibliches"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ein makelloses"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "soll er es darbringen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:23:54.787364149Z",
+  "model": "glm-5.2"
+}

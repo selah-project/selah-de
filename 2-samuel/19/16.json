@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und der König kehrte zurück und kam bis an den Jordan, und Jehuda kam nach Gilgal, um dem König entgegenzugehen, um ⟨את⟩ den König über ⟨את⟩ den Jordan hinüberzubringen.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Und … kehrte zurück"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und kam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis an"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "den Jordan"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "und Jehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kam"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "nach Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "um … zu gehen"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "entgegen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "um … hinüberzubringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den König"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "den Jordan"
+    }
+  ],
+  "timestamp": "2026-08-05T21:22:20.472129977Z",
+  "model": "glm-5.2"
+}

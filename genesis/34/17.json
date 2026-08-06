@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und wenn ihr nicht auf uns hören werdet, euch beschneiden zu lassen, dann werden wir ⟨את⟩ unsere Tochter nehmen, und wir werden gehen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ihr hören werdet"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "auf uns"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "euch beschneiden zu lassen"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "dann werden wir nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unsere Tochter"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "unsere Tochter"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "und wir werden gehen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:11:06.649377763Z",
+  "model": "glm-5.2"
+}

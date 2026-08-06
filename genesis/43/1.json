@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Und ⟨es war⟩ schwerer Hunger auf der Erde.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "und ⟨der⟩ Hunger"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "schwer"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T17:41:16.223431396Z",
+  "model": "glm-5.2"
+}

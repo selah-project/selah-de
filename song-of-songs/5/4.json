@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Mein Geliebter schickte seine Hand durch ⟨die⟩ Öffnung, und mein Innerstes wallte auf über ihn.",
+  "tokens": [
+    {
+      "surface": "דּוֹדִ֗י",
+      "gloss": "Mein Geliebter"
+    },
+    {
+      "surface": "שָׁלַ֤ח",
+      "gloss": "schickte"
+    },
+    {
+      "surface": "יָדוֹ֙",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "durch"
+    },
+    {
+      "surface": "הַחֹ֔ר",
+      "gloss": "⟨die⟩ Öffnung"
+    },
+    {
+      "surface": "וּמֵעַ֖י",
+      "gloss": "und mein Innerstes"
+    },
+    {
+      "surface": "הָמ֥וּ",
+      "gloss": "wallte auf"
+    },
+    {
+      "surface": "עָלָֽיו",
+      "gloss": "über ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T20:42:01.273168791Z",
+  "model": "glm-5.2"
+}

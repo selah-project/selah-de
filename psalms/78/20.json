@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Siehe, er schlug den Felsen, und es flossen Wasser, und Bäche strömten. Wird er auch Brot geben können? Wird er ⟨seinem⟩ Volk Fleisch bereiten?",
+  "tokens": [
+    {
+      "surface": "הֵ֤ן",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "הִכָּ֨ה",
+      "gloss": "er schlug"
+    },
+    {
+      "surface": "צ֨וּר",
+      "gloss": "den Felsen"
+    },
+    {
+      "surface": "וַיָּזוּב֣וּ",
+      "gloss": "und es flossen"
+    },
+    {
+      "surface": "מַ֖יִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "וּנְחָלִ֪ים",
+      "gloss": "und Bäche"
+    },
+    {
+      "surface": "יִ֫שְׁטֹ֥פוּ",
+      "gloss": "strömten"
+    },
+    {
+      "surface": "הֲגַ֨ם",
+      "gloss": "Wird ⟨er⟩ auch"
+    },
+    {
+      "surface": "לֶ֭חֶם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "יוּכַ֣ל",
+      "gloss": "geben können"
+    },
+    {
+      "surface": "תֵּ֑ת",
+      "gloss": "geben"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "Wird ⟨er⟩"
+    },
+    {
+      "surface": "יָכִ֖ין",
+      "gloss": "bereiten"
+    },
+    {
+      "surface": "שְׁאֵ֣ר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "לְעַמּֽוֹ",
+      "gloss": "⟨seinem⟩ Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:14.129009667Z",
+  "model": "glm-5.2"
+}

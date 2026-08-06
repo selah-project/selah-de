@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Es trauert der Most, ist dahingesiecht die Rebe, ⟨es⟩ seufzen alle Frohen des Herzens.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "es trauert"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "der Most"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ist dahingesiecht"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "die Rebe"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "⟨es⟩ seufzen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "Frohen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "des Herzens"
+    }
+  ],
+  "timestamp": "2026-08-06T03:15:28.723707776Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Raw Schake kehrt zurück und findet ⟨את⟩ den König von Aschur, wie er gegen Libna kämpft; denn er hatte gehört, dass er von Lachisch aufgebrochen war.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨er⟩ kehrt zurück"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Raw (Haupt-)"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Schake (Mundschenk)"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "und ⟨er⟩ findet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den König"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "von Aschur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kämpfend"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "er gehört hatte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "er aufgebrochen war"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "von Lachisch"
+    }
+  ],
+  "timestamp": "2026-08-05T21:40:09.358107852Z",
+  "model": "glm-5.2"
+}

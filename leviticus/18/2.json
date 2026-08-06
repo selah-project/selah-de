@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "„Rede zu den Söhnen Jisraels und sage zu ihnen: Ich ⟨bin⟩ JHWH, euer Elohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Rede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "und sage"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:24:50.493034099Z",
+  "model": "glm-5.2"
+}

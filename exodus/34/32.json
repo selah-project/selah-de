@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und danach nahten alle Söhne Jisra'els, und er gebot ihnen ⟨את⟩ alles, was JHWH mit ihm auf dem Berg Sinaj gesprochen hatte.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Und danach"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "nahten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "und er gebot ihnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesprochen hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "auf dem Berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    }
+  ],
+  "timestamp": "2026-08-05T20:17:02.863603550Z",
+  "model": "glm-5.2"
+}

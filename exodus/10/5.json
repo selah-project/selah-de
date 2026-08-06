@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "und ⟨sie⟩ werden bedecken ⟨את⟩ das Auge der Erde, und man wird nicht können ⟨את⟩ die Erde zu sehen, und ⟨sie⟩ werden fressen ⟨את⟩ den Rest des Entkommenen, das euch übriggeblieben ist vom Hagel, und ⟨sie⟩ werden fressen ⟨את⟩ jeden Baum, der euch wächst vom Feld —",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "und werden bedecken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Auge der Erde"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Auge"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "man wird können"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "zu sehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "und werden fressen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Rest des Entkommenen"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "den Rest"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "des Entkommenen"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "das übriggeblieben ist"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "dem Hagel"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "und werden fressen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeden Baum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "Baum"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "der wächst"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dem Feld"
+    }
+  ],
+  "timestamp": "2026-08-06T08:17:40.808749928Z",
+  "model": "glm-5.2"
+}

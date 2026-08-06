@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 75,
+  "translation": "Denn nicht vom Aufgang ⟨und⟩ nicht vom Untergang, und nicht aus der Wüste der Höhen.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מִ֭מּוֹצָא",
+      "gloss": "vom Aufgang"
+    },
+    {
+      "surface": "וּמִֽמַּעֲרָ֑ב",
+      "gloss": "vom Untergang"
+    },
+    {
+      "surface": "וְ֝לֹ֗א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "מִמִּדְבַּ֥ר",
+      "gloss": "aus der Wüste"
+    },
+    {
+      "surface": "הָרִֽים",
+      "gloss": "der Höhen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:05.883292032Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Richte auf für deinen Knecht dein Wort, ⟨das⟩ der Furcht ⟨vor⟩ dir ⟨gilt⟩.",
+  "tokens": [
+    {
+      "surface": "הָקֵ֣ם",
+      "gloss": "Richte auf"
+    },
+    {
+      "surface": "לְ֭עַבְדְּךָ",
+      "gloss": "für deinen Knecht"
+    },
+    {
+      "surface": "אִמְרָתֶ֑ךָ",
+      "gloss": "dein Wort"
+    },
+    {
+      "surface": "אֲשֶׁ֗ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לְיִרְאָתֶֽךָ",
+      "gloss": "der Furcht vor dir ⟨gilt⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:06.658978593Z",
+  "model": "glm-5.2"
+}

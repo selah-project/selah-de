@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "Warum hast du ⟨ihre⟩ Mauern eingebrochen, sodass alle, die des Weges ziehen, sie abweiden?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "hast du eingebrochen"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "ihre Mauern"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "sodass sie abweiden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "die ziehen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "des Weges"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:13.639115728Z",
+  "model": "glm-5.2"
+}

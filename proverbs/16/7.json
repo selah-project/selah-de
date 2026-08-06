@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Wenn JHWH die Wege eines Mannes wohlgefällig sind, lässt er sogar seine Feinde Frieden stiften mit ihm.",
+  "tokens": [
+    {
+      "surface": "בִּרְצ֣וֹת",
+      "gloss": "Wenn … wohlgefällig sind"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דַּרְכֵי",
+      "gloss": "die Wege"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "eines Mannes"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "sogar"
+    },
+    {
+      "surface": "א֝וֹיְבָ֗יו",
+      "gloss": "seine Feinde"
+    },
+    {
+      "surface": "יַשְׁלִ֥ם",
+      "gloss": "lässt er … Frieden stiften"
+    },
+    {
+      "surface": "אִתּֽוֹ",
+      "gloss": "mit ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T06:55:59.774956019Z",
+  "model": "glm-5.2"
+}

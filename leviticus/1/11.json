@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und er soll es schlachten an der Seite des Altars, nach Norden, vor JHWH. Und die Söhne Aharons, die Kohen, sollen ⟨את⟩ sein Blut sprengen auf den Altar, ringsum.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "und er soll schlachten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn (das Tier)"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "der Seite"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "des Altars"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "nach Norden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "und sie sollen sprengen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Blut"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sein Blut"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    }
+  ],
+  "timestamp": "2026-08-05T20:19:00.993113741Z",
+  "model": "glm-5.2"
+}

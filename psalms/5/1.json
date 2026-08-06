@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Für den Chorleiter, auf ⟨den⟩ Nechilot. Ein Mizmor von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für den Chorleiter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nechilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T15:21:56.009208765Z",
+  "model": "glm-5.2"
+}

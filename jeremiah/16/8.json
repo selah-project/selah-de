@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und ⟨in⟩ ein Festmahlhaus sollst du nicht kommen, um bei ihnen zu sitzen, ⟨את⟩ zu essen und zu trinken.",
+  "tokens": [
+    {
+      "surface": "וּבֵית",
+      "gloss": "Und ⟨in⟩ ⟨ein⟩ Haus"
+    },
+    {
+      "surface": "מִשְׁתֶּ֥ה",
+      "gloss": "des Festmahls"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תָב֖וֹא",
+      "gloss": "sollst du kommen"
+    },
+    {
+      "surface": "לָשֶׁ֣בֶת",
+      "gloss": "um zu sitzen"
+    },
+    {
+      "surface": "אוֹתָ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "zu essen"
+    },
+    {
+      "surface": "לֶאֱכֹ֖ל",
+      "gloss": "zu essen"
+    },
+    {
+      "surface": "וְלִשְׁתּֽוֹת",
+      "gloss": "und zu trinken"
+    }
+  ],
+  "timestamp": "2026-08-06T03:29:31.529854858Z",
+  "model": "glm-5.2"
+}

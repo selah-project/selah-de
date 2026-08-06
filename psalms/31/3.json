@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Neige zu mir dein Ohr, eile ⟨dich⟩, mich zu entreißen; sei mir zum Felsen, zur Festung, ⟨zum⟩ Haus der Bergfesten, mich zu retten.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "neige"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dein Ohr"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "eile"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "mich zu entreißen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "zum Felsen"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "zur Festung"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨zum⟩ Haus"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "der Bergfesten"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "mich zu retten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:59.263131179Z",
+  "model": "glm-5.2"
+}

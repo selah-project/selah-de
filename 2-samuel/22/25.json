@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und JHWH vergilt mir nach meiner Zedaka, nach meiner Reinheit vor seinen Augen.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֧שֶׁב",
+      "gloss": "Und ⟨JHWH⟩ vergilt"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "כְּצִדְקָתִ֑י",
+      "gloss": "nach meiner Zedaka"
+    },
+    {
+      "surface": "כְּבֹרִ֖י",
+      "gloss": "nach meiner Reinheit"
+    },
+    {
+      "surface": "לְנֶ֥גֶד",
+      "gloss": "vor"
+    },
+    {
+      "surface": "עֵינָֽיו",
+      "gloss": "seinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:43:18.366566536Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "JHWH schaute vom Himmel herab auf die Menschenkinder, um zu sehen, ob da ⟨ein⟩ Einsichtiger ⟨ist⟩, der ⟨את⟩ Elohim sucht.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "vom Himmel"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "schaute herab"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Kinder"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "um zu sehen"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ob da"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "⟨ein⟩ Einsichtiger"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "der sucht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T20:39:30.461949087Z",
+  "model": "glm-5.2"
+}

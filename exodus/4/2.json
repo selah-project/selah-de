@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und JHWH sprach zu ihm: „Was ⟨ist⟩ das in deiner Hand?“ Und er sagte: „Ein Stab.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Was ⟨ist⟩ das"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in deiner Hand"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Ein Stab"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:02.274615924Z",
+  "model": "glm-5.2"
+}

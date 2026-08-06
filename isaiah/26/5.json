@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Denn er erniedrigte ⟨die⟩ Bewohner der Höhe, ⟨die⟩ Stadt ⟨der⟩ Unzugänglichen; er stürzt sie, stürzt sie bis zur Erde, lässt sie gelangen bis zum Staub.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "השח",
+      "gloss": "erniedrigte"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "der Höhe"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "der Unzugänglichen"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "er stürzt sie"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "stürzt sie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "lässt sie gelangen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "zum Staub"
+    }
+  ],
+  "timestamp": "2026-08-05T21:47:26.198411435Z",
+  "model": "glm-5.2"
+}

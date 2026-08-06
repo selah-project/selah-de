@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ich werde nicht fürchten von Zehntausenden ⟨an⟩ Volk, die ringsum sich aufgestellt haben gegen mich.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אִ֭ירָא",
+      "gloss": "werde ich fürchten"
+    },
+    {
+      "surface": "מֵרִבְב֥וֹת",
+      "gloss": "von Zehntausenden"
+    },
+    {
+      "surface": "עָ֑ם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "סָ֝בִ֗יב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "שָׁ֣תוּ",
+      "gloss": "sich aufgestellt haben"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "gegen mich"
+    }
+  ],
+  "timestamp": "2026-08-06T09:13:13.086532729Z",
+  "model": "glm-5.2"
+}

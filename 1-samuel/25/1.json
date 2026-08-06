@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und Schmuël starb, und ganz Jisra'el versammelte sich und hielt ihm die Totenklage, und sie begruben ihn in seinem Haus in Rama. Und Dawid machte sich auf und zog hinab zur Wüste Paran.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Und es starb"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "und sie versammelten sich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "und sie hielten Totenklage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "und sie begruben ihn"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in seinem Haus"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "in Rama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "und ⟨er⟩ machte sich auf"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "und zog hinab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "der Wüste"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-08-06T02:46:11.705803328Z",
+  "model": "glm-5.2"
+}

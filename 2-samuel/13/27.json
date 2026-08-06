@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und Awischalom drängte ihn, und er sandte mit ihm ⟨את⟩ Amnon und ⟨את⟩ alle Söhne des Königs.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "Und drängte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awischalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "und er sandte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-05T21:20:22.513455589Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Denn er kennt ⟨את⟩ den Weg, ⟨der⟩ bei mir ist; er prüft mich — wie Gold komme ich heraus.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יָ֭דַע",
+      "gloss": "er kennt"
+    },
+    {
+      "surface": "דֶּ֣רֶךְ",
+      "gloss": "⟨את⟩ den Weg"
+    },
+    {
+      "surface": "עִמָּדִ֑י",
+      "gloss": "⟨der⟩ bei mir ist"
+    },
+    {
+      "surface": "בְּ֝חָנַ֗נִי",
+      "gloss": "er prüft mich"
+    },
+    {
+      "surface": "כַּזָּהָ֥ב",
+      "gloss": "wie Gold"
+    },
+    {
+      "surface": "אֵצֵֽא",
+      "gloss": "komme ich heraus"
+    }
+  ],
+  "timestamp": "2026-08-06T19:53:30.420857720Z",
+  "model": "glm-5.2"
+}

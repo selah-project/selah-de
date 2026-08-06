@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 63,
+  "translation": "Warum ist ⟨dein⟩ Gewand rot und deine Kleider wie ⟨die⟩ eines Keltertreters in der Kelter?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "rot"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "⟨dein⟩ Gewand"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "und deine Kleider"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "wie ⟨die⟩ eines Keltertreters"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "in der Kelter"
+    }
+  ],
+  "timestamp": "2026-08-06T19:45:06.357642249Z",
+  "model": "glm-5.2"
+}

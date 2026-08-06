@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "deren Hände ⟨voll von⟩ böser Tücke ⟨sind⟩, und ihre Rechte ⟨ist⟩ voll von Bestechung.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "deren"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "Hände"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "böser Tücke"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "und ihre Rechte"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "voll von"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "Bestechung"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:17.797651679Z",
+  "model": "glm-5.2"
+}

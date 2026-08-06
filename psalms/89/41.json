@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Du hast all seine Einfriedungen durchbrochen, ⟨du⟩ hast seine Festungen zum Schrecken gemacht.",
+  "tokens": [
+    {
+      "surface": "פָּרַ֥צְתָּ",
+      "gloss": "du hast durchbrochen"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גְּדֵרֹתָ֑יו",
+      "gloss": "seine Einfriedungen"
+    },
+    {
+      "surface": "שַׂ֖מְתָּ",
+      "gloss": "⟨du⟩ hast gemacht"
+    },
+    {
+      "surface": "מִבְצָרָ֣יו",
+      "gloss": "seine Festungen"
+    },
+    {
+      "surface": "מְחִתָּה",
+      "gloss": "zum Schrecken"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:36.287721740Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Erde — aus ⟨ihr⟩ kommt Brot hervor, und ⟨unter⟩ ⟨ihr⟩ ist ⟨es⟩ umgewandelt wie Feuer.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "aus ⟨ihr⟩"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kommt hervor"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "und ⟨unter⟩ ⟨ihr⟩"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ist ⟨es⟩ umgewandelt"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    }
+  ],
+  "timestamp": "2026-08-06T10:38:03.128039247Z",
+  "model": "glm-5.2"
+}

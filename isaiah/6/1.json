@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Im Todesjahr des Königs Usija sah ich ⟨את⟩ Adonai sitzen auf einem Thron, hoch und erhoben, und sein Saum füllte ⟨את⟩ den Tempel.",
+  "tokens": [
+    {
+      "surface": "בִּשְׁנַת",
+      "gloss": "Im Jahr"
+    },
+    {
+      "surface": "מוֹת",
+      "gloss": "des Todes"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "עֻזִּיָּהוּ",
+      "gloss": "Usija"
+    },
+    {
+      "surface": "וָאֶרְאֶה",
+      "gloss": "sah ich"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אֲדֹנָי",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יֹשֵׁב",
+      "gloss": "sitzen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כִּסֵּא",
+      "gloss": "einem Thron"
+    },
+    {
+      "surface": "רָם",
+      "gloss": "hoch"
+    },
+    {
+      "surface": "וְנִשָּׂא",
+      "gloss": "und erhoben"
+    },
+    {
+      "surface": "וְשׁוּלָיו",
+      "gloss": "und sein Saum"
+    },
+    {
+      "surface": "מְלֵאִים",
+      "gloss": "füllte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Tempel"
+    },
+    {
+      "surface": "הַהֵיכָל",
+      "gloss": "den Tempel"
+    }
+  ],
+  "timestamp": "2026-08-05T21:44:05.771441150Z",
+  "model": "glm-5.2"
+}

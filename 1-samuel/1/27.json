@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Für diesen Knaben betete ich, und JHWH gab mir ⟨את⟩ meine Bitte, die ich von ihm erbeten habe.",
+  "tokens": [
+    {
+      "surface": "אֶל",
+      "gloss": "für"
+    },
+    {
+      "surface": "הַנַּ֥עַר",
+      "gloss": "den Knaben"
+    },
+    {
+      "surface": "הַזֶּ֖ה",
+      "gloss": "diesen"
+    },
+    {
+      "surface": "הִתְפַּלָּ֑לְתִּי",
+      "gloss": "betete ich"
+    },
+    {
+      "surface": "וַיִּתֵּ֨ן",
+      "gloss": "und ⟨er⟩ gab"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לִי֙",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Bitte"
+    },
+    {
+      "surface": "שְׁאֵ֣לָתִ֔י",
+      "gloss": "meine Bitte"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שָׁאַ֖לְתִּי",
+      "gloss": "ich erbeten habe"
+    },
+    {
+      "surface": "מֵעִמּֽוֹ",
+      "gloss": "von ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T01:03:09.601518260Z",
+  "model": "glm-5.2"
+}

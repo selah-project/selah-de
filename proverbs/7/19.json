@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Denn ⟨der⟩ Mann ⟨ist⟩ nicht ⟨in⟩ ⟨seinem⟩ Haus, ⟨er⟩ ⟨ist⟩ weggegangen auf einer weiten Reise.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הָאִ֣ישׁ",
+      "gloss": "⟨der⟩ Mann"
+    },
+    {
+      "surface": "בְּבֵית֑וֹ",
+      "gloss": "⟨in⟩ ⟨seinem⟩ Haus"
+    },
+    {
+      "surface": "הָ֝לַ֗ךְ",
+      "gloss": "⟨er⟩ ⟨ist⟩ weggegangen"
+    },
+    {
+      "surface": "בְּדֶ֣רֶךְ",
+      "gloss": "auf einer Reise"
+    },
+    {
+      "surface": "מֵרָחֽוֹק",
+      "gloss": "weiter"
+    }
+  ],
+  "timestamp": "2026-08-05T23:09:46.992883467Z",
+  "model": "glm-5.2"
+}

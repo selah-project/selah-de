@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Denn ich sterbe in diesem Land, ich ziehe nicht hinüber ⟨את⟩ den Jardén, sondern ihr zieht hinüber und ihr nehmt ⟨als⟩ Besitz ⟨את⟩ das Land, das gute, dieses.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sterbe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "diesem Land"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ich nicht"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ziehe hinüber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "den Jardén"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "sondern ihr"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "zieht hinüber"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "und nehmt Besitz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "das gute"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dieses"
+    }
+  ],
+  "timestamp": "2026-08-06T14:55:44.981730489Z",
+  "model": "glm-5.2"
+}

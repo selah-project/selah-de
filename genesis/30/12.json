@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und Silpa, die Magd der Lea, gebar dem Jaakow einen zweiten Sohn.",
+  "tokens": [
+    {
+      "surface": "וַתֵּלֶד",
+      "gloss": "Und sie gebar"
+    },
+    {
+      "surface": "זִלְפָּה",
+      "gloss": "Silpa"
+    },
+    {
+      "surface": "שִׁפְחַת",
+      "gloss": "Magd"
+    },
+    {
+      "surface": "לֵאָה",
+      "gloss": "der Lea"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "einen Sohn"
+    },
+    {
+      "surface": "שֵׁנִי",
+      "gloss": "zweiten"
+    },
+    {
+      "surface": "לְיַעֲקֹב",
+      "gloss": "dem Jaakow"
+    }
+  ],
+  "timestamp": "2026-08-06T01:56:24.103843322Z",
+  "model": "glm-5.2"
+}

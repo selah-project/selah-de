@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Wir haben verglichen, Elohim, ⟨dein⟩ Chessed, im Inneren deines Palastes.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Wir haben verglichen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "⟨dein⟩ Chessed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "im Inneren"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "deines Palastes"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:34.088124172Z",
+  "model": "glm-5.2"
+}

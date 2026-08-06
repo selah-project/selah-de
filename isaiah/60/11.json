@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 60:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 60,
+  "translation": "Und deine Tore werden stets offenstehen, Tag und Nacht werden sie nicht verschlossen, um zu dir zu bringen ⟨den⟩ Reichtum ⟨der⟩ Nationen, und ihre Könige, ⟨die⟩ geführt ⟨werden⟩.",
+  "tokens": [
+    {
+      "surface": "וּפִתְּח֨וּ",
+      "gloss": "Und ⟨sie⟩ werden offenstehen"
+    },
+    {
+      "surface": "שְׁעָרַ֧יִךְ",
+      "gloss": "deine Tore"
+    },
+    {
+      "surface": "תָּמִ֛יד",
+      "gloss": "stets"
+    },
+    {
+      "surface": "יוֹמָ֥ם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "וָלַ֖יְלָה",
+      "gloss": "und Nacht"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִסָּגֵ֑רוּ",
+      "gloss": "werden sie verschlossen"
+    },
+    {
+      "surface": "לְהָבִ֤יא",
+      "gloss": "um zu bringen"
+    },
+    {
+      "surface": "אֵלַ֨יִךְ֙",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "חֵ֣יל",
+      "gloss": "Reichtum"
+    },
+    {
+      "surface": "גּוֹיִ֔ם",
+      "gloss": "Nationen"
+    },
+    {
+      "surface": "וּמַלְכֵיהֶ֖ם",
+      "gloss": "und ihre Könige"
+    },
+    {
+      "surface": "נְהוּגִֽים",
+      "gloss": "geführt"
+    }
+  ],
+  "timestamp": "2026-08-05T21:57:20.579899755Z",
+  "model": "glm-5.2"
+}

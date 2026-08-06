@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und sie fürchteten sich sehr, sehr, und sie sagten: „Siehe, die beiden Könige konnten nicht vor ihm bestehen, und wie sollten ⟨wir⟩ bestehen — wir?“",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Und sie fürchteten sich"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "und sie sagten"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die beiden"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "konnten … bestehen"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "und wie"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "sollten … bestehen"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "wir"
+    }
+  ],
+  "timestamp": "2026-08-05T21:36:17.211449354Z",
+  "model": "glm-5.2"
+}

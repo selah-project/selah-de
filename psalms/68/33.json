@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Königreiche der Erde, singt Elohim, spielt Adonai! Sela.",
+  "tokens": [
+    {
+      "surface": "מַמְלְכ֣וֹת",
+      "gloss": "Königreiche"
+    },
+    {
+      "surface": "הָ֭אָרֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "שִׁ֣ירוּ",
+      "gloss": "singt"
+    },
+    {
+      "surface": "לֵאלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זַמְּר֖וּ",
+      "gloss": "spielt"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:16.439096112Z",
+  "model": "glm-5.2"
+}

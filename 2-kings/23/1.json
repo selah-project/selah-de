@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und der König sandte hin, und sie versammelten zu ihm alle Ältesten von Jehuda und Jeruschalajim.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַח",
+      "gloss": "Und es sandte"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "וַיַּאַסְפוּ",
+      "gloss": "und sie versammelten"
+    },
+    {
+      "surface": "אֵלָיו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זִקְנֵי",
+      "gloss": "Ältesten von"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וִירוּשָׁלִָם",
+      "gloss": "und Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-06T08:49:23.001975407Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "und brennen wird mein Zorn, und ich werde ⟨את⟩ euch töten mit dem Schwert, und eure Frauen werden Witwen sein und eure Söhne Waisen.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "und brennen wird"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mein Zorn"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "und ich werde töten"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mit dem Schwert"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "und ⟨sie⟩ werden sein"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "eure Frauen"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "Witwen"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "und eure Söhne"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "Waisen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:50.801421109Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Dankt JHWH, ruft ⟨in⟩ seinem Namen, macht ⟨bekannt⟩ unter den Völkern seine Taten!",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Dankt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ruft"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "⟨in⟩ seinem Namen"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "macht ⟨bekannt⟩"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "unter den Völkern"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "seine Taten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:38.912073641Z",
+  "model": "glm-5.2"
+}

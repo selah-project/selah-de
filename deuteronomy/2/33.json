@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH, unser Elohim, gab ihn vor uns hin, und wir schlugen ⟨את⟩ ihn und ⟨את⟩ seine Söhne und ⟨את⟩ all sein Volk.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "und gab ihn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "vor uns"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "und wir schlugen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all sein Volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sein Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T05:26:54.591107828Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Sind ⟨denn nicht⟩ wenig meine Tage? Lass ab, ⟨und⟩ nimm von mir, dass ich ein wenig aufhelle!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Sind ⟨denn nicht⟩"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wenig"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "meine Tage"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Lass ab"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "⟨und⟩ nimm"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "dass ich aufhelle"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ein wenig"
+    }
+  ],
+  "timestamp": "2026-08-05T23:17:57.312050945Z",
+  "model": "glm-5.2"
+}

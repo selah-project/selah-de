@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Ehre ⟨את⟩ deinen Vater und ⟨את⟩ deine Mutter, damit deine Tage lang ⟨dauern⟩ auf dem Boden, den JHWH, dein Elohim, dir gibt.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ehre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Vater"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deinen Vater"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "deine Mutter"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "deine Mutter"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "lang dauern"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "deine Tage"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dem Boden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T20:12:57.126069275Z",
+  "model": "glm-5.2"
+}

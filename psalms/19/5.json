@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "In die ganze Erde ging ⟨ihr⟩ Maßseil aus, und ⟨an⟩ das Ende der bewohnten Welt ⟨ihre⟩ Worte — für die Sonne setzte ⟨er⟩ ein Zelt in sie.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "in die ganze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ging aus"
+    },
+    {
+      "surface": "קום",
+      "gloss": "⟨ihr⟩ Maßseil"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "und ⟨an⟩ das Ende"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "der bewohnten Welt"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "⟨ihre⟩ Worte"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "für die Sonne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "setzte ⟨er⟩"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ein Zelt"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in sie"
+    }
+  ],
+  "timestamp": "2026-08-06T09:13:43.730013723Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Liebt ⟨את⟩ JHWH, all ⟨seine⟩ Chassidim! ⟨Die⟩ Treuen bewacht JHWH, und ⟨er⟩ vergilt reichlich ⟨dem⟩, der Hochmut tut.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Liebt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "⟨seine⟩ Chassidim"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "⟨Die⟩ Treuen"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "bewacht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "und ⟨er⟩ vergilt"
+    },
+    {
+      "surface": "על",
+      "gloss": "reichlich"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "⟨dem⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der … tut"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "Hochmut"
+    }
+  ],
+  "timestamp": "2026-08-06T20:39:40.062294002Z",
+  "model": "glm-5.2"
+}

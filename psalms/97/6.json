@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 97,
+  "translation": "Die Himmel verkündeten ⟨seine⟩ Zedek, und ⟨es sahen⟩ alle Völker seinen Glanz.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "verkündeten"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Die Himmel"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "⟨seine⟩ Zedek"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "und ⟨es sahen⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "seinen Glanz"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:00.595889592Z",
+  "model": "glm-5.2"
+}

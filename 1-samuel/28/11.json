@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und die Frau sagte: ⟨את⟩ Wen soll ich dir heraufsteigen lassen? Und er sagte: ⟨את⟩ Schmuël, lass mich heraufsteigen.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Und sie sagte"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wen"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "soll ich heraufsteigen lassen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Schmuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "lass heraufsteigen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T05:43:31.439601287Z",
+  "model": "glm-5.2"
+}

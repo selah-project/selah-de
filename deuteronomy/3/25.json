@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ich möchte doch hinübergehen und ⟨את⟩ das gute Land sehen, das jenseits des Jardens ⟨liegt⟩, dieses gute Bergland und den Libanon.",
+  "tokens": [
+    {
+      "surface": "אֶעְבְּרָה",
+      "gloss": "Ich möchte hinübergehen"
+    },
+    {
+      "surface": "נָּא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "וְאֶרְאֶה",
+      "gloss": "und sehen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das gute Land"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "הַטּוֹבָה",
+      "gloss": "gute"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בְּעֵבֶר",
+      "gloss": "jenseits"
+    },
+    {
+      "surface": "הַיַּרְדֵּן",
+      "gloss": "des Jardens"
+    },
+    {
+      "surface": "הָהָר",
+      "gloss": "das Bergland"
+    },
+    {
+      "surface": "הַטּוֹב",
+      "gloss": "gute"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "וְהַלְּבָנוֹן",
+      "gloss": "und den Libanon"
+    }
+  ],
+  "timestamp": "2026-08-05T20:43:10.310649471Z",
+  "model": "glm-5.2"
+}

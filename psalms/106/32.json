@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und sie erzürnten ⟨ihn⟩ am Wasser von Meriba, und es erging Mosche übel ihretwillen.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "Und sie erzürnten"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "von Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "und es erging übel"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "ihretwillen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:54.464565962Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "„Er küsse mich mit Küssen seines Mundes, denn ⟨deine⟩ Liebkosungen sind besser als Wein.",
+  "tokens": [
+    {
+      "surface": "יִשָּׁקֵ֨נִי֙",
+      "gloss": "Er küsse mich"
+    },
+    {
+      "surface": "מִנְּשִׁיק֣וֹת",
+      "gloss": "mit Küssen"
+    },
+    {
+      "surface": "פִּ֔יהוּ",
+      "gloss": "seines Mundes"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "טוֹבִ֥ים",
+      "gloss": "sind besser"
+    },
+    {
+      "surface": "דֹּדֶ֖יךָ",
+      "gloss": "⟨deine⟩ Liebkosungen"
+    },
+    {
+      "surface": "מִיָּֽיִן",
+      "gloss": "als Wein"
+    }
+  ],
+  "timestamp": "2026-08-06T04:38:37.700200384Z",
+  "model": "glm-5.2"
+}

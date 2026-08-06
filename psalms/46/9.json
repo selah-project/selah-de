@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Kommt, schaut ⟨die⟩ Taten JHWHs, der Verwüstungen gesetzt hat auf der Erde!",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kommt"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "schaut"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "⟨die⟩ Taten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gesetzt hat"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "Verwüstungen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:34.519077667Z",
+  "model": "glm-5.2"
+}

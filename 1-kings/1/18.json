@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und nun, siehe, Adonija ist König geworden, und nun, mein Herr, ⟨du⟩ König, ⟨du⟩ hast ⟨es⟩ nicht gewusst.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonija"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ist König geworden"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨du⟩ König"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "hast gewusst"
+    }
+  ],
+  "timestamp": "2026-08-06T22:39:54.237431195Z",
+  "model": "glm-5.2"
+}

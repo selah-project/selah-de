@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Dornen und Disteln wird sie dir sprießen lassen, und du wirst ⟨את⟩ das Kraut des Feldes essen.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "und Dornen"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "und Disteln"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "wird sie sprießen lassen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "und du wirst essen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Kraut des Feldes"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "das Kraut"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des Feldes"
+    }
+  ],
+  "timestamp": "2026-08-06T08:12:06.341334711Z",
+  "model": "glm-5.2"
+}

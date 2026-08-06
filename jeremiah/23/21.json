@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Nicht gesandt habe ich ⟨את⟩ die Nawi, und sie rannten los; nicht habe ich zu ihnen geredet, und sie traten als Nawi auf.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "habe ich gesandt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Nawi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "die Nawi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "rannten los"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "habe ich geredet"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "והם",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "traten als Nawi auf"
+    }
+  ],
+  "timestamp": "2026-08-05T22:05:56.359634228Z",
+  "model": "glm-5.2"
+}

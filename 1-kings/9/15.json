@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und dies ⟨ist⟩ die Sache der Abgabe, die der König Schlomo auferlegte, um ⟨את⟩ das Haus JHWH und ⟨את⟩ sein Haus und ⟨את⟩ den Milo und ⟨את⟩ die Mauer von Jeruschalajim und ⟨את⟩ Hazor und ⟨את⟩ Megiddo und ⟨את⟩ Geser zu bauen.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "und dies"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨ist⟩ die Sache"
+    },
+    {
+      "surface": "המס",
+      "gloss": "der Abgabe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "auferlegte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schlomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "um zu bauen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus JHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein Haus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sein Haus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "den Milo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Mauer von Jeruschalajim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "die Mauer"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "von Jeruschalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Hazor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hazor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Geser"
+    }
+  ],
+  "timestamp": "2026-08-06T05:49:49.398583010Z",
+  "model": "glm-5.2"
+}

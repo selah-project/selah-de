@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Und er entließ ⟨את⟩ seine Brüder, und sie gingen. Und er sagte zu ihnen: „Erregt euch nicht auf dem Weg!“",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und er entließ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Brüder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "und sie gingen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "erregt euch"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf dem Weg"
+    }
+  ],
+  "timestamp": "2026-08-06T05:11:55.524309962Z",
+  "model": "glm-5.2"
+}

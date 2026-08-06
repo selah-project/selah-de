@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und nun, schwöre mir bei JHWH: ob du ⟨את⟩ meine Nachkommen ausrotten wirst nach mir, und ob du ⟨את⟩ meinen Namen vertilgen wirst aus dem Haus meines Vaters.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "schwöre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bei JHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "du ausrotten wirst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Nachkommen"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "meine Nachkommen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nach mir"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "und ob"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "du vertilgen wirst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Namen"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "meinen Namen"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aus dem Haus"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meines Vaters"
+    }
+  ],
+  "timestamp": "2026-08-06T01:10:04.099698467Z",
+  "model": "glm-5.2"
+}

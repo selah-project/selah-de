@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Ein Chen-Stein ⟨ist⟩ ⟨die⟩ Bestechung in den Augen ihrer Besitzer; wohin auch immer sie sich wendet, gelingt sie.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Ein Stein"
+    },
+    {
+      "surface": "חן",
+      "gloss": "Chen"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "⟨die⟩ Bestechung"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in den Augen"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ihrer Besitzer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wohin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "auch immer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "[Relativpartikel]"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "sie sich wendet"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "gelingt sie"
+    }
+  ],
+  "timestamp": "2026-08-05T23:12:04.923177144Z",
+  "model": "glm-5.2"
+}

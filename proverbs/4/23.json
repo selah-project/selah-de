@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Über allem, was du behütest, behüte dein Herz, denn aus ihm ⟨sind⟩ die Ausgänge des Lebens.",
+  "tokens": [
+    {
+      "surface": "מִֽכָּל",
+      "gloss": "über allem"
+    },
+    {
+      "surface": "מִ֭שְׁמָר",
+      "gloss": "was ⟨du⟩ behütest"
+    },
+    {
+      "surface": "נְצֹ֣ר",
+      "gloss": "behüte"
+    },
+    {
+      "surface": "לִבֶּ֑ךָ",
+      "gloss": "dein Herz"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מִ֝מֶּ֗נּוּ",
+      "gloss": "aus ihm"
+    },
+    {
+      "surface": "תּוֹצְא֥וֹת",
+      "gloss": "die Ausgänge"
+    },
+    {
+      "surface": "חַיִּֽים",
+      "gloss": "des Lebens"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:49.098250270Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und es geschah in den Tagen von Achaschwerosch — er ⟨ist⟩ Achaschwerosch, der ⟨König⟩, der regierte von Hodu bis nach Kusch, ⟨über⟩ siebenundzwanzig und hundert Provinzen —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in den Tagen von"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achaschwerosch"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achaschwerosch"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "von Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis nach"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusch"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "undzwanzig"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "und hundert"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "Provinzen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:32:35.967112056Z",
+  "model": "glm-5.2"
+}

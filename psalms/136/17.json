@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "⟨Dem⟩, der große Könige schlug, denn für ewig ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "⟨Dem⟩, der schlug"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "große"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:06.700457645Z",
+  "model": "glm-5.2"
+}

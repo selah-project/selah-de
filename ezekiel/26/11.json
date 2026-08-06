@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 26:11",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Mit den Hufen seiner Pferde wird er ⟨את⟩ all deine Straßen zertreten, dein Volk wird er durch das Schwert töten, und deine Machtpfeiler werden zur Erde hinabfahren.",
+  "tokens": [
+    {
+      "surface": "בפרסות",
+      "gloss": "Mit den Hufen"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "seiner Pferde"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "wird er zertreten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all deine Straßen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חוצותיך",
+      "gloss": "deine Straßen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dein Volk"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "durch das Schwert"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "wird er töten"
+    },
+    {
+      "surface": "ומצבות",
+      "gloss": "und deine Pfeiler"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "deiner Macht"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "werden hinabfahren"
+    }
+  ],
+  "timestamp": "2026-08-06T09:05:14.374722914Z",
+  "model": "glm-5.2"
+}

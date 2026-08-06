@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und ⟨für⟩ deine Magd ⟨gab es⟩ zwei Söhne, und die beiden gerieten aneinander auf dem Feld, und ⟨es war⟩ keiner dazwischen, der retten konnte, und der eine schlug ⟨את⟩ den anderen und tötete ⟨את⟩ ihn.",
+  "tokens": [
+    {
+      "surface": "וּלְשִׁפְחָֽתְךָ֙",
+      "gloss": "Und ⟨für⟩ deine Magd"
+    },
+    {
+      "surface": "שְׁנֵ֣י",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "בָנִ֔ים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "וַיִּנָּצ֤וּ",
+      "gloss": "und ⟨sie⟩ gerieten aneinander"
+    },
+    {
+      "surface": "שְׁנֵיהֶם֙",
+      "gloss": "die beiden"
+    },
+    {
+      "surface": "בַּשָּׂדֶ֔ה",
+      "gloss": "auf dem Feld"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "und ⟨es war⟩ keiner"
+    },
+    {
+      "surface": "מַצִּ֖יל",
+      "gloss": "der retten konnte"
+    },
+    {
+      "surface": "בֵּֽינֵיהֶ֑ם",
+      "gloss": "dazwischen"
+    },
+    {
+      "surface": "וַיַּכּ֧וֹ",
+      "gloss": "und ⟨er⟩ schlug"
+    },
+    {
+      "surface": "הָאֶחָ֛ד",
+      "gloss": "der eine"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den anderen"
+    },
+    {
+      "surface": "הָאֶחָ֖ד",
+      "gloss": "den anderen"
+    },
+    {
+      "surface": "וַיָּ֥מֶת",
+      "gloss": "und tötete"
+    },
+    {
+      "surface": "אֹתֽוֹ",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T21:14:51.351223228Z",
+  "model": "glm-5.2"
+}

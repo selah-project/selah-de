@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und der König von Aram führte Krieg gegen Jisra'el, und er beriet sich mit seinen Knechten und sprach: An dem und dem Ort will ich mein Lager aufschlagen.",
+  "tokens": [
+    {
+      "surface": "וּמֶלֶךְ",
+      "gloss": "Und ⟨der⟩ König"
+    },
+    {
+      "surface": "אֲרָם",
+      "gloss": "von Aram"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "⟡ führte"
+    },
+    {
+      "surface": "נִלְחָם",
+      "gloss": "Krieg"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵל",
+      "gloss": "gegen Jisra'el"
+    },
+    {
+      "surface": "וַיִּוָּעַץ",
+      "gloss": "und er beriet sich"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "mit"
+    },
+    {
+      "surface": "עֲבָדָיו",
+      "gloss": "seinen Knechten"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "An"
+    },
+    {
+      "surface": "מָקוֹם",
+      "gloss": "⟨dem⟩ Ort"
+    },
+    {
+      "surface": "פְּלֹנִי",
+      "gloss": "dem und dem"
+    },
+    {
+      "surface": "אַלְמֹנִי",
+      "gloss": "⟨und dem⟩"
+    },
+    {
+      "surface": "תַּחֲנֹתִי",
+      "gloss": "will ich mein Lager aufschlagen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:32:19.092471211Z",
+  "model": "glm-5.2"
+}

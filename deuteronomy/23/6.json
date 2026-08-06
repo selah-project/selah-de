@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 23:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Aber JHWH, dein Elohim, wollte nicht auf Bilam hören, und JHWH, dein Elohim, wandelte dir ⟨את⟩ den Fluch in Segen um, denn JHWH, dein Elohim, liebt dich.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "wollte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "hören"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "und wandelte um"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Fluch"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "den Fluch"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "in Segen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "liebt dich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:34.146317164Z",
+  "model": "glm-5.2"
+}

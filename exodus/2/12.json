@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und er wandte sich dahin und dorthin und sah, dass kein Mann ⟨da⟩ war, und er schlug ⟨את⟩ den Mizrij und vergrub ihn im Sand.",
+  "tokens": [
+    {
+      "surface": "וַיִּ֤פֶן",
+      "gloss": "Und er wandte sich"
+    },
+    {
+      "surface": "כֹּה֙",
+      "gloss": "dahin"
+    },
+    {
+      "surface": "וָכֹ֔ה",
+      "gloss": "und dorthin"
+    },
+    {
+      "surface": "וַיַּ֖רְא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "kein"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "וַיַּךְ֙",
+      "gloss": "und er schlug"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "den Mizrij"
+    },
+    {
+      "surface": "הַמִּצְרִ֔י",
+      "gloss": "den Mizrij"
+    },
+    {
+      "surface": "וַֽיִּטְמְנֵ֖הוּ",
+      "gloss": "und vergrub ihn"
+    },
+    {
+      "surface": "בַּחֽוֹל",
+      "gloss": "im Sand"
+    }
+  ],
+  "timestamp": "2026-08-06T09:44:29.543066197Z",
+  "model": "glm-5.2"
+}

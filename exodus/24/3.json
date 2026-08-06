@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Mosche kam und erzählte dem Volk ⟨את⟩ alle Worte JHWHs und ⟨את⟩ alle Rechtsbestimmungen. Und das ganze Volk antwortete mit einer Stimme und sagte: „Alle Worte, die JHWH geredet hat, werden wir tun.“",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "und kam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "und erzählte"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Worte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Rechtsbestimmungen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "Rechtsbestimmungen"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "und antwortete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mit einer Stimme"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geredet hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "werden wir tun"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:17.281007043Z",
+  "model": "glm-5.2"
+}

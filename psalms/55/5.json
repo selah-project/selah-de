@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Mein Herz ringt in meiner Mitte, und Schrecken des Todes sind auf mich gefallen.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Mein Herz"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ringt"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "in meiner Mitte"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "und Schrecken"
+    },
+    {
+      "surface": "מות",
+      "gloss": "des Todes"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sind gefallen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "auf mich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:22.825472846Z",
+  "model": "glm-5.2"
+}

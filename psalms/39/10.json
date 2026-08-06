@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Ich bin verstummt, ich öffne nicht meinen Mund, denn du hast ⟨es⟩ getan.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ich bin verstummt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "öffne ich"
+    },
+    {
+      "surface": "פי",
+      "gloss": "meinen Mund"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hast getan"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:19.764102646Z",
+  "model": "glm-5.2"
+}

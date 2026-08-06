@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und er sagte: „Was habe ich verfehlt, dass du ⟨deinen⟩ Knecht gibst ⟨את⟩ in die Hand von Achaw, um mich zu töten?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "habe ich verfehlt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gibst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Knecht"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "deinen Knecht"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "von Achaw"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "um mich zu töten"
+    }
+  ],
+  "timestamp": "2026-08-06T03:02:02.049519896Z",
+  "model": "glm-5.2"
+}

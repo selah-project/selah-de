@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Nur Fleisch, in dessen Nefesch — sein Blut —, sollt ihr nicht essen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "in dessen Nefesch"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sein Blut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sollt ihr essen"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:14.103958220Z",
+  "model": "glm-5.2"
+}

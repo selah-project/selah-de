@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 73,
+  "translation": "Sie setzen in ⟨die⟩ Himmel ihren Mund, und ihre Zunge wandelt auf ⟨der⟩ Erde.",
+  "tokens": [
+    {
+      "surface": "שַׁתּ֣וּ",
+      "gloss": "sie setzen"
+    },
+    {
+      "surface": "בַשָּׁמַ֣יִם",
+      "gloss": "in ⟨die⟩ Himmel"
+    },
+    {
+      "surface": "פִּיהֶ֑ם",
+      "gloss": "ihren Mund"
+    },
+    {
+      "surface": "וּ֝לְשׁוֹנָ֗ם",
+      "gloss": "und ihre Zunge"
+    },
+    {
+      "surface": "תִּֽהֲלַ֥ךְ",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "auf ⟨der⟩ Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T09:16:57.907503656Z",
+  "model": "glm-5.2"
+}

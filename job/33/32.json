@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 33:32",
+  "book": "job",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Wenn ⟨da⟩ Worte ⟨sind⟩, antworte mir; sprich, denn ich habe Lust ⟨auf⟩ deine Gerechtigkeit.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨da … sind⟩"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "antworte mir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sprich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ich habe Lust"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "deine Gerechtigkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T07:04:05.332010950Z",
+  "model": "glm-5.2"
+}

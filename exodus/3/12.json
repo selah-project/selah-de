@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ⟨er⟩ sprach: „Denn ich werde mit dir sein, und dies ⟨soll⟩ dir das Zeichen sein, dass ich dich gesandt habe: Wenn du ⟨את⟩ das Volk aus Mizrajim herausgeführt hast, werdet ihr Elohim auf diesem Berg dienen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ich werde sein"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "und dies"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "האות",
+      "gloss": "das Zeichen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "dich gesandt habe"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "Wenn du herausgeführt hast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "aus Mizrajim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "werdet ihr dienen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dem Berg"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    }
+  ],
+  "timestamp": "2026-08-06T14:50:39.632268186Z",
+  "model": "glm-5.2"
+}

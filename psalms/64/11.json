@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 64,
+  "translation": "Es freue sich der Gerechte in JHWH und suche bei ihm Zuflucht, und alle Aufrichtigen ⟨des⟩ Herzens sollen sich rühmen.",
+  "tokens": [
+    {
+      "surface": "יִשְׂמַ֬ח",
+      "gloss": "es freue sich"
+    },
+    {
+      "surface": "צַדִּ֣יק",
+      "gloss": "der Gerechte"
+    },
+    {
+      "surface": "בַּ֭יהוָה",
+      "gloss": "in JHWH"
+    },
+    {
+      "surface": "וְחָסָ֣ה",
+      "gloss": "und suche Zuflucht"
+    },
+    {
+      "surface": "ב֑וֹ",
+      "gloss": "bei ihm"
+    },
+    {
+      "surface": "וְיִתְהַֽלְל֗וּ",
+      "gloss": "und sie sollen sich rühmen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יִשְׁרֵי",
+      "gloss": "Aufrichtigen"
+    },
+    {
+      "surface": "לֵֽב",
+      "gloss": "⟨des⟩ Herzens"
+    }
+  ],
+  "timestamp": "2026-08-06T16:00:55.468521779Z",
+  "model": "glm-5.2"
+}

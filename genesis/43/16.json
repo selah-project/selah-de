@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 43:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Und Josef sah sie, ⟨את⟩ Binjamin ⟨mit ihnen⟩, und er sprach zu ⟨dem, der⟩ über seinem Haus ⟨ist⟩: „Bring ⟨את⟩ die Männer ⟨ins⟩ Haus, und schlachte ein Schlachttier und bereite ⟨es⟩ zu, denn ⟨mit⟩ mir werden die Männer essen am Mittag.“",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "und er sah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨mit ihnen⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "zu ⟨dem, der⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "seinem Haus"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "Bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Männer"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "⟨ins⟩ Haus"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "und schlachte"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "ein Schlachttier"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "und bereite ⟨es⟩ zu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨mit⟩ mir"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "werden essen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "am Mittag"
+    }
+  ],
+  "timestamp": "2026-08-06T05:12:40.864746093Z",
+  "model": "glm-5.2"
+}

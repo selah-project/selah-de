@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Nicht ⟨wird⟩ der König ⟨gerettet⟩ durch die Vielheit ⟨der⟩ Heeresmacht, ein Gewaltiger — nicht ⟨wird er entrissen⟩ durch die Vielheit ⟨der⟩ Kraft.",
+  "tokens": [
+    {
+      "surface": "אֵֽין",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "הַ֭מֶּלֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "נוֹשָׁ֣ע",
+      "gloss": "⟨wird … gerettet⟩"
+    },
+    {
+      "surface": "בְּרָב",
+      "gloss": "durch die Vielheit"
+    },
+    {
+      "surface": "חָ֑יִל",
+      "gloss": "⟨der⟩ Heeresmacht"
+    },
+    {
+      "surface": "גִּ֝בּ֗וֹר",
+      "gloss": "ein Gewaltiger"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִנָּצֵ֥ל",
+      "gloss": "⟨wird entrissen⟩"
+    },
+    {
+      "surface": "בְּרָב",
+      "gloss": "durch die Vielheit"
+    },
+    {
+      "surface": "כֹּֽחַ",
+      "gloss": "⟨der⟩ Kraft"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:00.675977463Z",
+  "model": "glm-5.2"
+}

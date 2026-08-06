@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Mizrajim versklavte ⟨את⟩ die Söhne Jisraels mit Härte.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲבִ֧דוּ",
+      "gloss": "und versklavte"
+    },
+    {
+      "surface": "מִצְרַ֛יִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "בְּפָֽרֶךְ",
+      "gloss": "mit Härte"
+    }
+  ],
+  "timestamp": "2026-08-06T00:12:03.502000461Z",
+  "model": "glm-5.2"
+}

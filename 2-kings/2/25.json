@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨er⟩ ging von dort zum Berg Hakarmel, und von dort kehrte ⟨er⟩ nach Schomron um.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "und ⟨er⟩ ging"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Berg"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Hakarmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "und von dort"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kehrte ⟨er⟩ um"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "nach Schomron"
+    }
+  ],
+  "timestamp": "2026-08-05T21:33:35.995181258Z",
+  "model": "glm-5.2"
+}

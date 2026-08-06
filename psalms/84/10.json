@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 84,
+  "translation": "Unser Schild, sieh, Elohim, und schau ⟨auf⟩ das Angesicht deines Maschiach!",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Unser Schild"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sieh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "und schau"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨auf⟩ das Angesicht"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "deines Maschiach"
+    }
+  ],
+  "timestamp": "2026-08-05T22:56:47.694124526Z",
+  "model": "glm-5.2"
+}

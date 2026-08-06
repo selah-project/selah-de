@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Wenn du auf den Stier deines Feindes triffst oder seinen Esel, der umherirrt, zurückbringend sollst du ihn ihm zurückbringen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "du triffst auf"
+    },
+    {
+      "surface": "שור",
+      "gloss": "den Stier"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "deines Feindes"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "seinen Esel"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "der umherirrt"
+    },
+    {
+      "surface": "השב",
+      "gloss": "zurückbringend"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "sollst du ihn zurückbringen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T09:46:26.589857234Z",
+  "model": "glm-5.2"
+}

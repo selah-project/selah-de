@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Urija legte sich nieder am Eingang des Hauses des Königs ⟨את⟩ alle Knechte seines Herrn, und er ging nicht hinab zu seinem Haus.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Und legte sich nieder"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am Eingang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Knechte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Knechte"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "seines Herrn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ging hinab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "seinem Haus"
+    }
+  ],
+  "timestamp": "2026-08-06T20:26:28.927091213Z",
+  "model": "glm-5.2"
+}

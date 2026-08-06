@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und du schärfest ihnen ⟨ein⟩, ⟨את⟩ die Bestimmungen und ⟨את⟩ die Tora, und du machst ihnen bekannt ⟨את⟩ den Weg, auf dem sie gehen sollen, und ⟨את⟩ das Werk, das sie tun sollen.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "Und du schärfest ⟨ein⟩"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie (als Objekt)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Bestimmungen"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "die Bestimmungen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Tora"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "und du machst bekannt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Weg"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "sie gehen sollen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "auf dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Werk"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "das Werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "sie tun sollen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:04:25.298545709Z",
+  "model": "glm-5.2"
+}

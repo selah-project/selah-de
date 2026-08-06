@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "„Mustre ⟨את⟩ die Söhne Lewi nach dem Haus ihrer Väter, nach ihren Sippen: Jedes Männliche, von einem Monat alten Sohn ⟨an⟩ und darüber, musterst du sie.“",
+  "tokens": [
+    {
+      "surface": "פְּקֹד֙",
+      "gloss": "Mustre"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Lewi"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "לֵוִ֔י",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "לְבֵ֥ית",
+      "gloss": "nach dem Haus"
+    },
+    {
+      "surface": "אֲבֹתָ֖ם",
+      "gloss": "ihrer Väter"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹתָ֑ם",
+      "gloss": "nach ihren Sippen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "Jedes"
+    },
+    {
+      "surface": "זָכָ֛ר",
+      "gloss": "Männliche"
+    },
+    {
+      "surface": "מִבֶּן",
+      "gloss": "von einem Sohn"
+    },
+    {
+      "surface": "חֹ֥דֶשׁ",
+      "gloss": "eines Monats"
+    },
+    {
+      "surface": "וָמַ֖עְלָה",
+      "gloss": "und darüber"
+    },
+    {
+      "surface": "תִּפְקְדֵֽם",
+      "gloss": "musterst du sie"
+    }
+  ],
+  "timestamp": "2026-08-05T20:30:04.857251800Z",
+  "model": "glm-5.2"
+}

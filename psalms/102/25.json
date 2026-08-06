@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Ich sage: Mein El, trag mich nicht empor in der Hälfte meiner Tage! In Generationen von Generationen ⟨sind⟩ deine Jahre.",
+  "tokens": [
+    {
+      "surface": "אֹמַ֗ר",
+      "gloss": "Ich sage"
+    },
+    {
+      "surface": "אֵלִ֗י",
+      "gloss": "mein El"
+    },
+    {
+      "surface": "אַֽל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַּ֭עֲלֵנִי",
+      "gloss": "trag mich empor"
+    },
+    {
+      "surface": "בַּחֲצִ֣י",
+      "gloss": "in der Hälfte"
+    },
+    {
+      "surface": "יָמָ֑י",
+      "gloss": "meiner Tage"
+    },
+    {
+      "surface": "בְּד֖וֹר",
+      "gloss": "in Generationen"
+    },
+    {
+      "surface": "דּוֹרִ֣ים",
+      "gloss": "von Generationen"
+    },
+    {
+      "surface": "שְׁנוֹתֶֽיךָ",
+      "gloss": "deine Jahre"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:05.212911824Z",
+  "model": "glm-5.2"
+}

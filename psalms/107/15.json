@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Sie sollen JHWH preisen ⟨für⟩ sein Chessed und seine Wunder den Menschenkindern.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Sie sollen preisen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨für⟩ sein Chessed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "und seine Wunder"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "den Menschenkindern"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨Menschen⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:26.162513091Z",
+  "model": "glm-5.2"
+}

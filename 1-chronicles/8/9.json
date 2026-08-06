@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er zeugte von Chodesch, seiner Frau: ⟨את⟩ Jowaw und ⟨את⟩ Ziwja und ⟨את⟩ Mescha und ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "und er zeugte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chodesch"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seiner Frau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jowaw"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jowaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Ziwja"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Ziwja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Mescha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mescha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-08-05T23:48:15.079667691Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "An deiner Seite fallen tausend, und zehntausend an deiner Rechten — ⟨zu⟩ dir wird es nicht herannahen.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "fallen"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "an deiner Seite"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "und zehntausend"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "an deiner Rechten"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨zu⟩ dir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "wird es herannahen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:10.264153020Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Als meine Nefesch in mir überwallte, ⟨da⟩ gedachte ich ⟨את⟩ JHWH, und mein Gebet kam zu dir, ⟨in⟩ deinen heiligen Palast.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Als überwallte"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "in mir"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "gedachte ich"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "und ⟨es⟩ kam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mein Gebet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨in⟩"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "Palast"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "deinen heiligen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:35:51.869523583Z",
+  "model": "glm-5.2"
+}

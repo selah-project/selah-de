@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und die Erde öffnete ⟨את⟩ ihren Mund und verschlang sie und ⟨את⟩ ihre Häuser und ⟨את⟩ alle Menschen, die zu Korach gehörten, und ⟨את⟩ allen Besitz.",
+  "tokens": [
+    {
+      "surface": "וַתִּפְתַּ֤ח",
+      "gloss": "Und … öffnete"
+    },
+    {
+      "surface": "הָאָ֨רֶץ֙",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Mund"
+    },
+    {
+      "surface": "פִּ֔יהָ",
+      "gloss": "ihren Mund"
+    },
+    {
+      "surface": "וַתִּבְלַ֥ע",
+      "gloss": "und verschlang"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Häuser"
+    },
+    {
+      "surface": "בָּתֵּיהֶ֑ם",
+      "gloss": "ihre Häuser"
+    },
+    {
+      "surface": "וְאֵ֤ת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Menschen, die zu Korach gehörten"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הָאָדָם֙",
+      "gloss": "Menschen"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לְקֹ֔רַח",
+      "gloss": "zu Korach gehörten"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "und ⟨את⟩",
+      "marks": "allen Besitz"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "הָרֲכֽוּשׁ",
+      "gloss": "Besitz"
+    }
+  ],
+  "timestamp": "2026-08-06T00:35:48.252750132Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 28:26",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Denn ⟨sein⟩ Elohim unterweist ihn ⟨zum⟩ Rechtspruch, ⟨er⟩ lehrt ihn.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "denn er"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "unterweist ihn"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "⟨zum⟩ Rechtspruch"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "⟨sein⟩ Elohim"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "⟨er⟩ lehrt ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T01:44:41.006029450Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 98,
+  "translation": "Mit Trompeten und ⟨dem⟩ Klang des Schofar — jauchtzt vor dem König, JHWH!",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Mit Trompeten"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "und ⟨dem⟩ Klang"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "des Schofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "jauchtzt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:03.049013368Z",
+  "model": "glm-5.2"
+}

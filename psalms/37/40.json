@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und JHWH hilft ihnen und entreißt sie, er entringt sie von den Frevlern und rettet sie, denn sie bergen sich bei ihm.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "Und er hilft ihnen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "und er entreißt sie"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "er entringt sie"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "von den Frevlern"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "und er rettet sie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "sie bergen sich"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bei ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:52.196626757Z",
+  "model": "glm-5.2"
+}

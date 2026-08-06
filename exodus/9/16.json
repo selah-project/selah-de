@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Aber darum habe ich dich aufgestellt, damit ich dir ⟨את⟩ meine Macht zeige und damit mein Name erzählt wird auf der ganzen Erde.",
+  "tokens": [
+    {
+      "surface": "וְאוּלָ֗ם",
+      "gloss": "aber"
+    },
+    {
+      "surface": "בַּעֲב֥וּר",
+      "gloss": "darum"
+    },
+    {
+      "surface": "זֹאת֙",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "הֶעֱמַדְתִּ֔יךָ",
+      "gloss": "habe ich dich aufgestellt"
+    },
+    {
+      "surface": "בַּעֲב֖וּר",
+      "gloss": "damit"
+    },
+    {
+      "surface": "הַרְאֹתְךָ֣",
+      "gloss": "ich dir zeige"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Macht"
+    },
+    {
+      "surface": "כֹּחִ֑י",
+      "gloss": "meine Macht"
+    },
+    {
+      "surface": "וּלְמַ֛עַן",
+      "gloss": "und damit"
+    },
+    {
+      "surface": "סַפֵּ֥ר",
+      "gloss": "erzählt wird"
+    },
+    {
+      "surface": "שְׁמִ֖י",
+      "gloss": "mein Name"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "auf der ganzen"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:45.196005599Z",
+  "model": "glm-5.2"
+}

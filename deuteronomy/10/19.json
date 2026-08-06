@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ihr sollt den Ger lieben, denn Gerim wart ihr im Land Mizrajim.",
+  "tokens": [
+    {
+      "surface": "וַאֲהַבְתֶּם",
+      "gloss": "Und ihr sollt … lieben"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Ger"
+    },
+    {
+      "surface": "הַגֵּר",
+      "gloss": "den Ger"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גֵרִים",
+      "gloss": "Gerim"
+    },
+    {
+      "surface": "הֱיִיתֶם",
+      "gloss": "wart ihr"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "מִצְרָיִם",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:45:14.307906027Z",
+  "model": "glm-5.2"
+}

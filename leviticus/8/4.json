@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Mosche tat ⟨es⟩ so, wie JHWH ihm geboten hatte, und die Versammlung versammelte sich zum Eingang des Zeltes der Begegnung.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und … tat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebioten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn",
+      "marks": "ihn"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "und … versammelte sich"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "die Versammlung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dem Eingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "des Zeltes"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:30.162260572Z",
+  "model": "glm-5.2"
+}

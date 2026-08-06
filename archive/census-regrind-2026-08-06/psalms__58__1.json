@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 58,
+  "translation": "Für den Chormeister. „לְמַכְתִּים לְדָוִד״. Ein Michtam von Dawid.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Für den Chormeister"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תַּשְׁחֵת",
+      "gloss": "verdirb"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "מִכְתָּם",
+      "gloss": "ein Michtam"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:45.656652399Z",
+  "model": "glm-5.2"
+}

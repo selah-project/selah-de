@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "die sich freuen bis zur Jauchzend, frohlocken, wenn sie ein Grab finden?",
+  "tokens": [
+    {
+      "surface": "הַשְּׂמֵחִ֥ים",
+      "gloss": "die sich freuen"
+    },
+    {
+      "surface": "אֱלֵי",
+      "gloss": "bis zur"
+    },
+    {
+      "surface": "גִ֑יל",
+      "gloss": "Jauchzend"
+    },
+    {
+      "surface": "יָשִׂ֗ישׂוּ",
+      "gloss": "frohlocken"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יִמְצְאוּ",
+      "gloss": "sie finden"
+    },
+    {
+      "surface": "קֶֽבֶר",
+      "gloss": "ein Grab"
+    }
+  ],
+  "timestamp": "2026-08-06T06:59:40.561184850Z",
+  "model": "glm-5.2"
+}

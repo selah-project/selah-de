@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Jeden Tag will ich dich segnen und deinen Namen loben für immer und ewig.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "in jeder"
+    },
+    {
+      "surface": "יום",
+      "gloss": "⟨Tag⟩"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "will ich dich segnen"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "und ich will loben"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und ewig"
+    }
+  ],
+  "timestamp": "2026-08-06T06:53:02.312389132Z",
+  "model": "glm-5.2"
+}

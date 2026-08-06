@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Denn du hast es im Verborgenen getan, und ich werde ⟨את⟩ diese Sache tun vor ganz Jisra'el und vor der Sonne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hast getan"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "im Verborgenen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "werde tun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Sache"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "vor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "und vor"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    }
+  ],
+  "timestamp": "2026-08-05T21:19:48.968946175Z",
+  "model": "glm-5.2"
+}

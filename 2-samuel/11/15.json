@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨er⟩ schrieb in das Schreiben, indem ⟨er⟩ sprach: „Stellt ⟨את⟩ Urija gegenüber der Front des heftigen Kampfes, und zieht euch von hinter ihm zurück, damit er getroffen wird und stirbt.“",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "und ⟨er⟩ schrieb"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in das Schreiben"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨er⟩ sprach"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "stellt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "מול",
+      "gloss": "der Front"
+    },
+    {
+      "surface": "פני",
+      "gloss": "von"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "dem Kampf"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "den heftigen"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "und zieht euch zurück"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "von hinter ihm"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "damit er getroffen wird"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "und stirbt"
+    }
+  ],
+  "timestamp": "2026-08-06T02:51:27.455211407Z",
+  "model": "glm-5.2"
+}

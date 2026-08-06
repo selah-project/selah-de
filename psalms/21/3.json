@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Das Verlangen seines Herzens gabst du ihm, und ⟨das⟩ Begehren seiner Lippen hast du nicht vorenthalten. Sela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Das Verlangen"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "seines Herzens"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "gabst du"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "und ⟨das⟩ Begehren"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "seiner Lippen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "hast du vorenthalten"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:08.144430397Z",
+  "model": "glm-5.2"
+}

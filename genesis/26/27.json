@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und Jizchak sagte zu ihnen: „Warum seid ihr zu mir gekommen, ⟨während⟩ ihr mich gehasst habt und mich von euch weggeschickt habt?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jizchak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "seid ihr gekommen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "habt gehasst"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "und habt mich weggeschickt"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "von euch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:07:52.039479551Z",
+  "model": "glm-5.2"
+}

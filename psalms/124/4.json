@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 124,
+  "translation": "dann hätten die Wasser uns weggespült, ein Wildbach wäre über unsere Nefesch gegangen,",
+  "tokens": [
+    {
+      "surface": "אֲ֭זַי",
+      "gloss": "dann"
+    },
+    {
+      "surface": "הַמַּ֣יִם",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "שְׁטָפ֑וּנוּ",
+      "gloss": "hätten uns weggespült"
+    },
+    {
+      "surface": "נַ֗חְלָה",
+      "gloss": "ein Wildbach"
+    },
+    {
+      "surface": "עָבַ֥ר",
+      "gloss": "wäre gegangen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "נַפְשֵֽׁנוּ",
+      "gloss": "unsere Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:34.943807332Z",
+  "model": "glm-5.2"
+}

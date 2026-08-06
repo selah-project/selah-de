@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 12:22",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "⟨Denn⟩ Josabad, Sohn der Schimat, und Jehosabad, Sohn des Schomer, seine Knechte, schlugen ihn, und er starb; und sie begruben ⟨את⟩ ihn mit seinen Vätern in der Stadt Dawids, und Amazja, sein Sohn, wurde König an seiner Stelle.",
+  "tokens": [
+    {
+      "surface": "ויוזבד",
+      "gloss": "⟨Denn⟩ Josabad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "der Schimat"
+    },
+    {
+      "surface": "ויהוזבד",
+      "gloss": "und Jehosabad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "des Schomer"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seine Knechte"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "schlugen ihn"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und er starb"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "und sie begruben"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seinen Vätern"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "und ⟨er⟩ wurde König"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amazja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sein Sohn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seiner Stelle"
+    }
+  ],
+  "timestamp": "2026-08-06T03:06:33.444199642Z",
+  "model": "glm-5.2"
+}

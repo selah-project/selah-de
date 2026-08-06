@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und du sollst ⟨את⟩ sie salben, so wie du ⟨את⟩ ihren Vater gesalbt hast, und sie sollen mir als Kohen dienen, und ihre Salbung soll ihnen sein zum Kehunnat-Olam, für ihre Generationen.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "und du sollst salben"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "du gesalbt hast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Vater"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ihren Vater"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "und sie sollen als Kohen dienen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "und ⟨sie⟩ soll sein"
+    },
+    {
+      "surface": "להית",
+      "gloss": "zum Sein"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "ihre Salbung"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "zum Kehunnat"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "für ihre Generationen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:27.538944254Z",
+  "model": "glm-5.2"
+}

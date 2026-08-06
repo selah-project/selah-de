@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Ein wahrheitsgemäßer Zeuge rettet Nefeschot, ⟨aber⟩ wer Lügen ausstößt, ⟨ist⟩ Trug.",
+  "tokens": [
+    {
+      "surface": "מַצִּיל",
+      "gloss": "rettet"
+    },
+    {
+      "surface": "נְפָשׁוֹת",
+      "gloss": "Nefeschot"
+    },
+    {
+      "surface": "עֵד",
+      "gloss": "ein Zeuge"
+    },
+    {
+      "surface": "אֱמֶת",
+      "gloss": "wahrheitsgemäßer"
+    },
+    {
+      "surface": "וְיָפִיחַ",
+      "gloss": "aber wer ausstößt"
+    },
+    {
+      "surface": "כְּזָבִים",
+      "gloss": "Lügen"
+    },
+    {
+      "surface": "מִרְמָה",
+      "gloss": "Trug"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:38.376309390Z",
+  "model": "glm-5.2"
+}

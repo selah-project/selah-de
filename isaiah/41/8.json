@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Und du, Jisra'el, mein Knecht, Jaakow, den ich erwählt habe, Same Avrahams, meines Geliebten —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Und du"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mein Knecht"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ich erwählt habe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "Same"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "meines Geliebten"
+    }
+  ],
+  "timestamp": "2026-08-05T21:52:04.156262849Z",
+  "model": "glm-5.2"
+}

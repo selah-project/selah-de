@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und ⟨את⟩ seine Zeichen und ⟨את⟩ seine Taten, die er inmitten von Mizrajim tat, an Paro, den König von Mizrajim, und an sein ganzes Land —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Zeichen"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "seine Zeichen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Taten"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "seine Taten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er tat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "von Mizrajim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "an Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "von Mizrajim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "und an ganz"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sein Land"
+    }
+  ],
+  "timestamp": "2026-08-05T20:45:31.135083873Z",
+  "model": "glm-5.2"
+}

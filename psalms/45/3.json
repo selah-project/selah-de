@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Du bist schöner als die Menschenkinder, Chen ist gegossen auf deine Lippen — darum hat dich Elohim gesegnet für immer.",
+  "tokens": [
+    {
+      "surface": "יָפְיָפִ֡יתָ",
+      "gloss": "Du bist schöner"
+    },
+    {
+      "surface": "מִבְּנֵ֬י",
+      "gloss": "als die Kinder"
+    },
+    {
+      "surface": "אָדָ֗ם",
+      "gloss": "von Menschen"
+    },
+    {
+      "surface": "ה֣וּצַק",
+      "gloss": "ist gegossen"
+    },
+    {
+      "surface": "חֵ֭ן",
+      "gloss": "Chen"
+    },
+    {
+      "surface": "בְּשְׂפְתוֹתֶ֑יךָ",
+      "gloss": "auf deine Lippen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "darum"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "—"
+    },
+    {
+      "surface": "בֵּֽרַכְךָ֖",
+      "gloss": "hat dich gesegnet"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "für immer"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:25.431708295Z",
+  "model": "glm-5.2"
+}

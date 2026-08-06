@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und ich ging und versteckte es am Perat, wie JHWH mir geboten hatte.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "und ich ging"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "und versteckte es"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "am Perat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T03:29:10.696721966Z",
+  "model": "glm-5.2"
+}

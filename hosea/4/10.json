@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und sie werden essen und nicht satt werden, sie werden Unzucht treiben und sich nicht ausbreiten; denn ⟨את⟩ JHWH haben sie verlassen, um ⟨nicht⟩ zu bewahren.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Und sie werden essen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "werden sie satt werden"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "sie treiben Unzucht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "werden sie sich ausbreiten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "haben sie verlassen"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "um zu bewahren"
+    }
+  ],
+  "timestamp": "2026-08-05T22:30:43.471999115Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Die Stimme JHWHs ruft ⟨der⟩ Stadt zu, und Weisheit wird deinen Namen fürchten. Höret, Stab, und wer ihn bestimmt hat!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "⟨der⟩ Stadt zu"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ruft"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "und Weisheit"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wird fürchten"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Höret"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Stab"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "und wer"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "ihn bestimmt hat"
+    }
+  ],
+  "timestamp": "2026-08-05T22:37:21.351401019Z",
+  "model": "glm-5.2"
+}

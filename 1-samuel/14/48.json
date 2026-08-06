@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und er tat Tapferkeit und schlug ⟨את⟩ Amalek und rettete ⟨את⟩ Jisra'el aus der Hand dessen, der es plünderte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und er tat"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "Tapferkeit"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "und schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "und rettete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "dessen, der es plünderte"
+    }
+  ],
+  "timestamp": "2026-08-06T08:38:19.022278685Z",
+  "model": "glm-5.2"
+}

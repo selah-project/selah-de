@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 20:3",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ⟨את⟩ das Volk, das darin ⟨war⟩, führte er hinaus und legte ⟨es⟩ an die Säge und an die eisernen Schneidemesser und an die Schnitzmesser. Und so tat Dawid allen Städten der Söhne Ammons. Und Dawid kehrte zurück, ⟨und⟩ ganz das Volk, ⟨nach⟩ Jeruschalajim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בה",
+      "gloss": "darin"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "führte er hinaus"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "und legte"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "an die Säge"
+    },
+    {
+      "surface": "ובחריצי",
+      "gloss": "und an die Schneidemesser"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "eisernen"
+    },
+    {
+      "surface": "ובמגרות",
+      "gloss": "und an die Schnitzmesser"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "Und so"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Städten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Und kehrte zurück"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ganz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨nach⟩ Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:51:18.300816205Z",
+  "model": "glm-5.2"
+}

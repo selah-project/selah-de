@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 14:19",
+  "book": "job",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Steine zerreibt ⟨das⟩ Wasser, seine Fluten waschen den Staub der Erde weg — und ⟨so⟩ hast du ⟨die⟩ Hoffnung des Sterblichen vernichtet.",
+  "tokens": [
+    {
+      "surface": "אֲבָנִ֤ים",
+      "gloss": "Steine"
+    },
+    {
+      "surface": "שָׁ֥חֲקוּ",
+      "gloss": "zerreibt"
+    },
+    {
+      "surface": "מַ֗יִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "תִּשְׁטֹֽף",
+      "gloss": "wegwaschen"
+    },
+    {
+      "surface": "סְפִיחֶ֥יהָ",
+      "gloss": "seine Fluten"
+    },
+    {
+      "surface": "עֲפַר",
+      "gloss": "den Staub"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "וְתִקְוַ֖ת",
+      "gloss": "und ⟨die⟩ Hoffnung"
+    },
+    {
+      "surface": "אֱנ֣וֹשׁ",
+      "gloss": "des Sterblichen"
+    },
+    {
+      "surface": "הֶאֱבַֽדְתָּ",
+      "gloss": "hast du vernichtet"
+    }
+  ],
+  "timestamp": "2026-08-06T04:33:50.627464604Z",
+  "model": "glm-5.2"
+}

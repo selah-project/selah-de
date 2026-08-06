@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 26:25",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und er baute dort einen Altar und rief im Namen JHWHs, und er schlug dort sein Zelt auf, und die Knechte Jizchaks gruben dort einen Brunnen.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "und er baute"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "einen Altar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er rief"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "im Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "und er schlug auf"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sein Zelt"
+    },
+    {
+      "surface": "ויכרו",
+      "gloss": "und sie gruben"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die Knechte"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jizchaks"
+    },
+    {
+      "surface": "באר",
+      "gloss": "einen Brunnen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:35:39.583309303Z",
+  "model": "glm-5.2"
+}

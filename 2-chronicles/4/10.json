@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨את⟩ das Meer stellte er hin, von der rechten Schulter ⟨nach⟩ Osten, gegenüber, ⟨nach⟩ Süden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das Meer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "stellte er hin"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "von der Schulter"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "der rechten"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "⟨nach⟩ Osten"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "⟨nach⟩ Süden"
+    }
+  ],
+  "timestamp": "2026-08-05T23:53:51.862240026Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Wehe, sündiges Volk, ⟨ein⟩ Volk beladen mit Schuld, Same von Übeltätern, Söhne des Verderbens! Sie haben ⟨את⟩ JHWH verlassen, ⟨sie haben⟩ ⟨את⟩ den Heiligen Jisra'els verschmäht, ⟨sie sind⟩ rückwärts entfernt.",
+  "tokens": [
+    {
+      "surface": "ה֣וֹי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "גּ֣וֹי",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "חֹטֵ֗א",
+      "gloss": "sündiges"
+    },
+    {
+      "surface": "עַ֚ם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "כֶּ֣בֶד",
+      "gloss": "beladen"
+    },
+    {
+      "surface": "עָוֺ֔ן",
+      "gloss": "mit Schuld"
+    },
+    {
+      "surface": "זֶ֣רַע",
+      "gloss": "Same"
+    },
+    {
+      "surface": "מְרֵעִ֔ים",
+      "gloss": "von Übeltätern"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "מַשְׁחִיתִ֑ים",
+      "gloss": "des Verderbens"
+    },
+    {
+      "surface": "עָזְב֣וּ",
+      "gloss": "Sie haben verlassen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "נִֽאֲצ֛וּ",
+      "gloss": "verschmäht"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Heiligen Jisra'els"
+    },
+    {
+      "surface": "קְד֥וֹשׁ",
+      "gloss": "den Heiligen"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "נָזֹ֥רוּ",
+      "gloss": "entfernt"
+    },
+    {
+      "surface": "אָחֽוֹר",
+      "gloss": "rückwärts"
+    }
+  ],
+  "timestamp": "2026-08-06T19:42:37.657972828Z",
+  "model": "glm-5.2"
+}

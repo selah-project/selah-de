@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Dawid sagte: „Werden die Herren von Qeila ⟨את⟩ mich und ⟨את⟩ meine Männer in die Hand Schauls ausliefern?“ Und JHWH sprach: „Sie werden ausliefern.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Werden ⟨sie⟩ ausliefern"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "die Herren"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "von Qeila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Männer"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "meine Männer"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Sie werden ausliefern"
+    }
+  ],
+  "timestamp": "2026-08-06T02:45:59.167544050Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und er sprach: „Siehe doch, ich bin alt geworden, ich kenne den Tag meines Todes nicht.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ich bin alt geworden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ich kenne"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den Tag"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "meines Todes"
+    }
+  ],
+  "timestamp": "2026-08-06T21:05:32.624428249Z",
+  "model": "glm-5.2"
+}

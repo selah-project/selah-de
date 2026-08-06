@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 12:8",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Mein Erbe ist mir geworden wie ein Löwe im Wald: ⟨sie⟩ hat gegen mich ⟨ihre⟩ Stimme erhoben — darum hasse ich sie.",
+  "tokens": [
+    {
+      "surface": "הָיְתָה",
+      "gloss": "ist geworden"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "נַחֲלָתִ֖י",
+      "gloss": "Mein Erbe"
+    },
+    {
+      "surface": "כְּאַרְיֵ֣ה",
+      "gloss": "wie ein Löwe"
+    },
+    {
+      "surface": "בַיָּ֑עַר",
+      "gloss": "im Wald"
+    },
+    {
+      "surface": "נָתְנָ֥ה",
+      "gloss": "hat erhoben"
+    },
+    {
+      "surface": "עָלַ֛י",
+      "gloss": "gegen mich"
+    },
+    {
+      "surface": "בְּקוֹלָ֖הּ",
+      "gloss": "ihre Stimme"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "darum"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "—"
+    },
+    {
+      "surface": "שְׂנֵאתִֽיהָ",
+      "gloss": "hasse ich sie"
+    }
+  ],
+  "timestamp": "2026-08-05T22:02:58.449559323Z",
+  "model": "glm-5.2"
+}

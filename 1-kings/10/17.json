@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 10:17",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und dreihundert Schilde aus gehämmertem Gold — drei Minen Gold gingen auf ⟨den einen⟩ Schild —, und der König gab sie ⟨in⟩ das Haus des Waldes des Libanon.",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "und dreihundert"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨hundert⟩"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "Schilde"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "gehämmert"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drei"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "Minen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "gingen auf"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "den Schild"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "den einen"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "und der König gab sie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨der König⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Wald"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "des Libanon"
+    }
+  ],
+  "timestamp": "2026-08-05T21:29:08.307050775Z",
+  "model": "glm-5.2"
+}

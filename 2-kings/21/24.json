@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und das Volk des Landes erschlug ⟨את⟩ alle, die sich gegen den König Amon verschworen hatten, und das Volk des Landes machte ⟨את⟩ Joschijahu, seinen Sohn, zum König an seiner statt.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "und erschlug"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨das⟩ Volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "die Verschworenen"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "und machten zum König"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨das⟩ Volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joschijahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Joschijahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seinen Sohn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seiner statt"
+    }
+  ],
+  "timestamp": "2026-08-05T21:39:50.250144811Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Denn wer kann essen, und wer kann genießen, außer mir?",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מִ֥י",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יֹאכַ֛ל",
+      "gloss": "kann essen"
+    },
+    {
+      "surface": "וּמִ֥י",
+      "gloss": "und wer"
+    },
+    {
+      "surface": "יָח֖וּשׁ",
+      "gloss": "kann genießen"
+    },
+    {
+      "surface": "ח֥וּץ",
+      "gloss": "außer"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:41:30.371887834Z",
+  "model": "glm-5.2"
+}

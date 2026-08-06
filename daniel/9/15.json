@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 9:15",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und nun, Adonai, unser Elohim, der du ⟨את⟩ dein Volk herausgeführt hast aus dem Land Mizrajim mit starker Hand und dir ⟨einen⟩ Namen gemacht hast wie an diesem Tag — wir haben gesündigt, wir haben frevelhaft gehandelt.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "du herausgeführt hast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Volk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dein Volk"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mit"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "starker Hand"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "und ⟨du⟩ hast gemacht"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨einen⟩ Namen"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "wie an"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem Tag"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "wir haben gesündigt"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "wir haben frevelhaft gehandelt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:37:59.111797002Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "Ihre Hände, aber sie greifen nicht — ihre Füße, aber sie gehen nicht; nicht murmeln sie in ihrer Kehle.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "Ihre Hände"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber ⟨sie⟩ nicht"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "greifen"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ihre Füße"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber ⟨sie⟩ nicht"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "gehen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "murmeln"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "in ihrer Kehle"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:56.686611813Z",
+  "model": "glm-5.2"
+}

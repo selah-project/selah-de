@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 111,
+  "translation": "Gestützt für immer, für ewig, gemacht in Emet und in Jaschar.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "Gestützt"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "gemacht"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in Emet"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "und in Jaschar"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:20.392595923Z",
+  "model": "glm-5.2"
+}

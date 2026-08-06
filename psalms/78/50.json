@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Er bahnte einen Pfad für seinen Zorn, er schonte ihre Nefesch nicht vor dem Tod, und ⟨er⟩ übergab ihr Leben der Seuche.",
+  "tokens": [
+    {
+      "surface": "יְפַלֵּס",
+      "gloss": "Er bahnte"
+    },
+    {
+      "surface": "נָתִיב",
+      "gloss": "einen Pfad"
+    },
+    {
+      "surface": "לְאַפּוֹ",
+      "gloss": "für seinen Zorn"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "חָשַׂךְ",
+      "gloss": "schonte er"
+    },
+    {
+      "surface": "מִמָּוֶת",
+      "gloss": "vor dem Tod"
+    },
+    {
+      "surface": "נַפְשָׁם",
+      "gloss": "ihre Nefesch"
+    },
+    {
+      "surface": "וְחַיָּתָם",
+      "gloss": "und ihr Leben"
+    },
+    {
+      "surface": "לַדֶּבֶר",
+      "gloss": "der Seuche"
+    },
+    {
+      "surface": "הִסְגִּיר",
+      "gloss": "übergab ⟨er⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T20:40:15.987010381Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und Dawid und seine Männer kamen zur Stadt, und siehe, ⟨sie war⟩ verbrannt im Feuer, und ihre Frauen und ihre Söhne und ihre Töchter waren gefangengeführt.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und … kamen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "und seine Männer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zur"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "verbrannt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "und ihre Frauen"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "und ihre Söhne"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "und ihre Töchter"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "waren gefangengeführt"
+    }
+  ],
+  "timestamp": "2026-08-05T21:16:41.765998110Z",
+  "model": "glm-5.2"
+}

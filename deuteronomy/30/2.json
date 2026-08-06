@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "und du umkehrst zu JHWH, deinem Elohim, und auf seine Stimme hörst, nach allem, was ich dir heute gebiete, du und deine Söhne, mit deinem ganzen Herzen und mit deiner ganzen Nefesch —",
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "und du umkehrst"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinem Elohim"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "und auf … hörst"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "seine Stimme"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nach allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "dir gebiete"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "und deine Söhne"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit deinem ganzen"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "und mit deiner ganzen"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:48:30.714154460Z",
+  "model": "glm-5.2"
+}

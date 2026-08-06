@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und ⟨die⟩ Heeresmacht der Kasdäer jagte dem König nach und holte ⟨את⟩ ihn ein in den Steppen von Jericho. Und seine ganze Heeresmacht zerstreute sich von ihm weg.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "und sie jagten"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "die Heeresmacht"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "der Kasdäer"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "und sie holten ein"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "in den Steppen"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "von Jericho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ganz"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "seine Heeresmacht"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "zerstreute sich"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "von ihm weg"
+    }
+  ],
+  "timestamp": "2026-08-06T03:10:15.371829602Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und er soll ⟨das⟩ Haus niederreißen, ⟨את⟩ seine Steine und ⟨את⟩ sein Holz und ⟨את⟩ den ganzen Staub des Hauses, und er soll ⟨es⟩ hinausbringen, nach außerhalb der Stadt, an einen unreinen Ort.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "und er soll niederreißen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Steine"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "seine Steine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein Holz"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "sein Holz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den ganzen Staub"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "Staub"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "und er soll hinausbringen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "einen Ort"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unreinen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:11:31.262104451Z",
+  "model": "glm-5.2"
+}

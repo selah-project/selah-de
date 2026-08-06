@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "der Mal'ach, der Goél, ⟨את⟩ mich von allem Bösen löst — er segne ⟨את⟩ die Knaben, und mein Name werde über ihnen gerufen und der Name meiner Väter, Awraham und Jizchak, und sie sollen sich mehren zur Fülle inmitten der Erde.“",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "der Mal'ach"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "der Goél"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mich",
+      "marks": "mich"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "von allem"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Bösen"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "segne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Knaben"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "die Knaben"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und werde gerufen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "über ihnen"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mein Name"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "und ⟨der⟩ Name"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "meiner Väter"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "und Jizchak"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "und sie sollen sich mehren"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "zur Fülle"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T20:05:16.984517926Z",
+  "model": "glm-5.2"
+}

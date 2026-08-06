@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 67,
+  "translation": "Damit man auf ⟨der⟩ Erde deinen Weg erkennt, unter allen Völkern deine Jeschua.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Damit man … erkennt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf ⟨der⟩ Erde"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "deinen Weg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "unter ⟨allen⟩"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Völkern"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "deine Jeschua"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:05.306994729Z",
+  "model": "glm-5.2"
+}

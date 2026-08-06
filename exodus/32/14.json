@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und JHWH dachte um über das Unheil, das er ⟨über⟩ zu tun ⟨gedroht hatte⟩ seinem Volk gegenüber.",
+  "tokens": [
+    {
+      "surface": "וַיִּנָּחֶם",
+      "gloss": "Und ⟨er⟩ dachte um"
+    },
+    {
+      "surface": "יְהוָָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "הָרָעָה",
+      "gloss": "das Unheil"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "er gesprochen hatte"
+    },
+    {
+      "surface": "לַעֲשׂוֹת",
+      "gloss": "zu tun"
+    },
+    {
+      "surface": "לְעַמּוֹ",
+      "gloss": "seinem Volk ⟨gegenüber⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T20:13:42.961614030Z",
+  "model": "glm-5.2"
+}

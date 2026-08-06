@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Reizt sie nicht zum Streit, denn ich werde euch von ihrem Land nicht geben ⟨sogar⟩ bis ⟨an⟩ einen Fußtritt der flachen Fußsohle, denn als Erbbesitz dem Esaw habe ich ⟨את⟩ das Bergland Seïr gegeben.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "reizt zum Streit"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "werde ich geben"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "von ihrem Land"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "Tritt"
+    },
+    {
+      "surface": "כף",
+      "gloss": "Sohle (der flachen Hand)"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "Fuß"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "als Erbbesitz"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "dem Esaw"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "habe ich gegeben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Bergland Seïr"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Bergland"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    }
+  ],
+  "timestamp": "2026-08-06T08:27:21.141338926Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Geschlagen hast du ⟨את⟩ Edom, und dein Herz hat dich erhoben. Halte ⟨dich⟩ für schwer und bleib in deinem Haus! Und warum willst du dich zum Bösen reizen, dass du fällst, du und Jehuda mit dir?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Geschlagen"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "hast du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "und hat dich erhoben"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dein Herz"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "Halte für schwer"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "und bleib"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in deinem Haus"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Und warum"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "willst du dich reizen"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "zum Bösen"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "dass du fällst"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "und Jehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mit dir"
+    }
+  ],
+  "timestamp": "2026-08-05T21:38:05.589906928Z",
+  "model": "glm-5.2"
+}

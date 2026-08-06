@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 70,
+  "translation": "Dem Chormeister. Von Dawid. Zum Gedenken.",
+  "tokens": [
+    {
+      "surface": "לַ֝מְנַצֵּ֗חַ",
+      "gloss": "Dem Chormeister"
+    },
+    {
+      "surface": "לְדָוִ֥ד",
+      "gloss": "Von Dawid"
+    },
+    {
+      "surface": "לְהַזְכִּֽיר",
+      "gloss": "Zum Gedenken"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:31.638135505Z",
+  "model": "glm-5.2"
+}

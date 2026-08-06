@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨die⟩ Hirten kamen und vertrieben sie, und Mosche stand auf und rettete sie und tränkte ⟨את⟩ ihre Herde.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Und ⟨die⟩ Hirten kamen"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": ""
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "und vertrieben sie"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "und stand auf"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "und rettete sie"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "und tränkte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Herde"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ihre Herde"
+    }
+  ],
+  "timestamp": "2026-08-06T20:08:35.794688407Z",
+  "model": "glm-5.2"
+}

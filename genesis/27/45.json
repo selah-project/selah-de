@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 27:45",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Bis die Glut deines Bruders von dir abwendet und er ⟨את⟩ vergisst, was du ihm getan hast, dann werde ich schicken und dich von dort holen. Warum sollte ich auch euch beide an einem einzigen Tag beraubt werden?",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "שׁוּב",
+      "gloss": "abwendet"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "die Glut"
+    },
+    {
+      "surface": "אָחִיךָ",
+      "gloss": "deines Bruders"
+    },
+    {
+      "surface": "מִמְּךָ",
+      "gloss": "von dir"
+    },
+    {
+      "surface": "וְשָׁכַח",
+      "gloss": "und ⟨er⟩ vergisst"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "was (אשר)"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עָשִׂיתָ",
+      "gloss": "du getan hast"
+    },
+    {
+      "surface": "לּוֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "וְשָׁלַחְתִּי",
+      "gloss": "dann werde ich schicken"
+    },
+    {
+      "surface": "וּלְקַחְתִּיךָ",
+      "gloss": "und dich holen"
+    },
+    {
+      "surface": "מִשָּׁם",
+      "gloss": "von dort"
+    },
+    {
+      "surface": "לָמָה",
+      "gloss": "warum"
+    },
+    {
+      "surface": "אֶשְׁכַּל",
+      "gloss": "sollte ich beraubt werden"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "שְׁנֵיכֶם",
+      "gloss": "euch beide"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "an ⟨einem⟩ Tag"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "einzigen"
+    }
+  ],
+  "timestamp": "2026-08-05T17:35:36.823131005Z",
+  "model": "glm-5.2"
+}

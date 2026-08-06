@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "⟨dann⟩ werde ich ⟨אתכם⟩ euch wohnen lassen an diesem Ort, in dem Land, das ich euren Vätern gegeben habe, von immer her bis in Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "⟨dann⟩ werde ich wohnen lassen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "an ⟨dem⟩ Ort"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in ⟨dem⟩ Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ich gegeben habe"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "euren Vätern"
+    },
+    {
+      "surface": "למן",
+      "gloss": "von"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "immer her"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T15:12:15.322358963Z",
+  "model": "glm-5.2"
+}

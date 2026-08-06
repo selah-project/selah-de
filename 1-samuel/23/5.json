@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Dawid zog, er und ⟨seine⟩ Männer, ⟨nach⟩ Qeila, und er kämpfte gegen die Pelischtim, und er trieb ⟨את⟩ ihr Vieh weg, und er schlug sie mit einer großen Schlag, und Dawid rettete ⟨את⟩ die Bewohner von Qeila.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "und er zog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "und seine Männer"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeila"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "und er kämpfte"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "gegen die Pelischtim"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "und er trieb weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Vieh"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ihr Vieh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "und er schlug"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "Schlag"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "große"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "und er rettete"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Bewohner von Qeila"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die Bewohner"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "von Qeila"
+    }
+  ],
+  "timestamp": "2026-08-06T01:09:50.662538534Z",
+  "model": "glm-5.2"
+}

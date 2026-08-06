@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und der König Schelomo wurde größer als alle Könige der Erde an Reichtum und an Weisheit.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Und ⟨er⟩ wurde größer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "als alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "an Reichtum"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "und an Weisheit"
+    }
+  ],
+  "timestamp": "2026-08-05T21:29:02.536522384Z",
+  "model": "glm-5.2"
+}

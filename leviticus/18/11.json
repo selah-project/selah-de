@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Die Blöße der Tochter der Frau deines Vaters, von deinem Vater gezeugt — sie ist deine Schwester —, ihre Blöße sollst du nicht aufdecken.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Die Blöße"
+    },
+    {
+      "surface": "בת",
+      "gloss": "der Tochter"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "der Frau"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "gezeugt"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "von deinem Vater"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "deine Schwester"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sie ist"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "sollst du aufdecken"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ihre Blöße"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:05.987585710Z",
+  "model": "glm-5.2"
+}

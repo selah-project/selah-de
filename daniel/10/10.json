@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und siehe, eine Hand rührte mich an und rüttelte mich auf meine Knie und die Handflächen meiner Hände.",
+  "tokens": [
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "יָ֖ד",
+      "gloss": "eine Hand"
+    },
+    {
+      "surface": "נָ֣גְעָה",
+      "gloss": "rührte an"
+    },
+    {
+      "surface": "בִּ֑י",
+      "gloss": "mich"
+    },
+    {
+      "surface": "וַתְּנִיעֵ֥נִי",
+      "gloss": "und rüttelte mich"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "בִּרְכַּ֖י",
+      "gloss": "meine Knie"
+    },
+    {
+      "surface": "וְכַפּ֥וֹת",
+      "gloss": "und die Handflächen"
+    },
+    {
+      "surface": "יָדָֽי",
+      "gloss": "meiner Hände"
+    }
+  ],
+  "timestamp": "2026-08-06T09:30:25.558272779Z",
+  "model": "glm-5.2"
+}

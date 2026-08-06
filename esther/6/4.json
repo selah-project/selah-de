@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und der König sprach: „Wer ist im Vorhof?\" — und Haman war in den Vorhof des Hauses des Königs, den äußeren, gekommen, um zum König zu sprechen, um ⟨את⟩ Mordechai am Holz aufzuhängen, das er für ihn zugerichtet hatte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ist im Vorhof"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "und Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "war gekommen"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "in den Vorhof"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "den äußeren"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "um zu sprechen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "zum König"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "um aufzuhängen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dem Holz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "er zugerichtet hatte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "für ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T22:48:26.947513668Z",
+  "model": "glm-5.2"
+}

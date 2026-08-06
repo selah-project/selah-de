@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Sei mir gnädig, JHWH! Sieh mein Elend von meinen Hassern — ⟨du⟩, der du mich emporhebst von den Toren des Todes:",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "Sei mir gnädig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Sieh"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mein Elend"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "von meinen Hassern"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "der du mich emporhebst"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "von den Toren"
+    },
+    {
+      "surface": "מות",
+      "gloss": "des Todes"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:56.637812769Z",
+  "model": "glm-5.2"
+}

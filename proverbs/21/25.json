@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Das Verlangen des Trägen bringt ihn um, denn seine Hände weigern sich zu arbeiten.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Das Verlangen"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "des Trägen"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "bringt ihn um"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "weigern sich"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "seine Hände"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zu arbeiten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:13:04.806365305Z",
+  "model": "glm-5.2"
+}

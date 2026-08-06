@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und Elohim ließ ⟨את⟩ das Volk umschwenken, den Weg der Wüste zum Schilfmeer. Und die Söhne Jisraels zogen als Fünftausendschaften hinauf aus dem Land Mizrajim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Und … ließ umschwenken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "der Wüste"
+    },
+    {
+      "surface": "ים",
+      "gloss": "zum Meer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Schilf"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "und als Fünftausendschaften"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "zogen hinauf"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:09:26.855242724Z",
+  "model": "glm-5.2"
+}

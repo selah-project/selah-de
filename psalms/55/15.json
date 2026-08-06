@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "die zusammen süßen Rat teilten, im Haus Elohim einhergingen inmitten der Menge —",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יַ֭חְדָּו",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "נַמְתִּ֣יק",
+      "gloss": "süßen"
+    },
+    {
+      "surface": "ס֑וֹד",
+      "gloss": "Rat"
+    },
+    {
+      "surface": "בְּבֵ֥ית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נְהַלֵּ֥ךְ",
+      "gloss": "einhergingen"
+    },
+    {
+      "surface": "בְּרָֽגֶשׁ",
+      "gloss": "inmitten der Menge"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:25.338645944Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Auf dem Weg der Weisheit habe ich dich unterwiesen, auf den Pfaden der Geradheit habe ich dich geführt.",
+  "tokens": [
+    {
+      "surface": "בְּדֶ֣רֶךְ",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "חָכְמָָ֭ה",
+      "gloss": "der Weisheit"
+    },
+    {
+      "surface": "הֹרֵתִ֑יךָ",
+      "gloss": "habe ich dich unterwiesen"
+    },
+    {
+      "surface": "הִדְרַכְתִּ֗יךָ",
+      "gloss": "habe ich dich geführt"
+    },
+    {
+      "surface": "בְּמַעְגְּלֵי",
+      "gloss": "auf den Pfaden"
+    },
+    {
+      "surface": "יֹֽשֶׁר",
+      "gloss": "der Geradheit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:08:21.041470482Z",
+  "model": "glm-5.2"
+}

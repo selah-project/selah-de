@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und der Satan antwortete ⟨את⟩ JHWH und sprach: Haut für Haut, und alles, was ⟨dem⟩ Mann ⟨gehört⟩, gibt er für sein Nefesch.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Und ⟨er⟩ antwortete"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "der Satän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Haut"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "für"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Haut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨dem⟩ Mann ⟨gehört⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gibt ⟨er⟩"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "für"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sein Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T20:41:19.215470881Z",
+  "model": "glm-5.2"
+}

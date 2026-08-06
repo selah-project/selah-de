@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨er⟩ sprach: „Wirf ihn zur Erde!\" Und er warf ihn zur Erde, und ⟨er⟩ wurde zur Schlange, und Mosche floh vor seinem Angesicht.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Wirf ihn"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "und ⟨er⟩ warf ihn"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und ⟨er⟩ wurde"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "zur Schlange"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "und ⟨er⟩ floh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "vor seinem Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-06T22:32:16.936968958Z",
+  "model": "glm-5.2"
+}

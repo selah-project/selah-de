@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Ein weiser Sohn erfreut ⟨einen⟩ Vater, aber ein törichter Mensch verachtet seine Mutter.",
+  "tokens": [
+    {
+      "surface": "בֵּן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "חָכָם",
+      "gloss": "ein weiser"
+    },
+    {
+      "surface": "יְשַׂמַּח",
+      "gloss": "erfreut"
+    },
+    {
+      "surface": "אָב",
+      "gloss": "Vater"
+    },
+    {
+      "surface": "וּכְסִיל",
+      "gloss": "aber ein törichter"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "בוֹזֶה",
+      "gloss": "verachtet"
+    },
+    {
+      "surface": "אִמּוֹ",
+      "gloss": "seine Mutter"
+    }
+  ],
+  "timestamp": "2026-08-06T06:55:13.823380841Z",
+  "model": "glm-5.2"
+}

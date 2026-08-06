@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Schaffe mir Recht nach deiner Zedek, JHWH, mein Elohim, und ⟨lass⟩ sie nicht über mich frohlocken!",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Schaffe mir Recht"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "nach deiner Zedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨lass⟩ nicht"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sie frohlocken"
+    },
+    {
+      "surface": "לי",
+      "gloss": "über mich"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:22.877783428Z",
+  "model": "glm-5.2"
+}

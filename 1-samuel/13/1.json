@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Ein Sohn eines Jahres ⟨war⟩ Schaul bei seinem Königtum, und zwei Jahre regierte er über Jisraël.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ein Sohn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "eines Jahres"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "bei seinem Königtum"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "und zwei"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regierte"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-08-06T09:59:31.428655141Z",
+  "model": "glm-5.2"
+}

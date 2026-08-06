@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 77:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Ich will gedenken meines Saitenspiels in der Nacht, mit meinem Herzen will ich nachsinnen, und mein Geist forscht:",
+  "tokens": [
+    {
+      "surface": "אֶֽזְכְּרָ֥ה",
+      "gloss": "Ich will gedenken"
+    },
+    {
+      "surface": "נְגִינָתִ֗י",
+      "gloss": "meines Saitenspiels"
+    },
+    {
+      "surface": "בַּ֫לָּ֥יְלָה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "לְבָבִ֥י",
+      "gloss": "meinem Herzen"
+    },
+    {
+      "surface": "אָשִׂ֑יחָה",
+      "gloss": "will ich nachsinnen"
+    },
+    {
+      "surface": "וַיְחַפֵּ֥שׂ",
+      "gloss": "und forscht"
+    },
+    {
+      "surface": "רוּחִֽי",
+      "gloss": "mein Geist"
+    }
+  ],
+  "timestamp": "2026-08-06T19:52:03.842428441Z",
+  "model": "glm-5.2"
+}

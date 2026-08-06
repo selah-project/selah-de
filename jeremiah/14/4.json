@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Wegen der Erde, die zerbrochen ⟨ist⟩, weil kein Regen auf die Erde gekommen ⟨ist⟩ — die Bauern schämen sich, bedecken ihren Kopf.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "die zerbrochen ⟨ist⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "היה",
+      "gloss": "geworden ⟨ist⟩"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "Regen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf die Erde"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "schämen sich"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "die Bauern"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "bedecken"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ihren Kopf"
+    }
+  ],
+  "timestamp": "2026-08-06T08:56:45.021102335Z",
+  "model": "glm-5.2"
+}

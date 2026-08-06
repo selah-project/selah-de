@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und JHWH, Elohim, sprach zur Frau: „Was hast du da getan?\" Und die Frau sagte: „Die Schlange — sie hat mich verführt, und ich habe gegessen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "zur Frau"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "das"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hast du getan"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Und ⟨sie⟩ sagte"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Die Schlange"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "hat mich verführt"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "und ich habe gegessen"
+    }
+  ],
+  "timestamp": "2026-08-06T22:30:26.019452644Z",
+  "model": "glm-5.2"
+}

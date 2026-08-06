@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und es geschah: Als er fertig war, ⟨die⟩ Ola aufsteigen zu lassen, siehe, da kam Schmuël. Und Schaul ging hinaus, ihm entgegen, um ihn zu segnen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "als er fertig war"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "aufsteigen zu lassen"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die Ola"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kam"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "und er ging hinaus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ihm entgegen"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "um ihn zu segnen"
+    }
+  ],
+  "timestamp": "2026-08-06T19:36:26.034995075Z",
+  "model": "glm-5.2"
+}

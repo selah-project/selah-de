@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Komm, lass uns unseren Vater Wein trinken lassen, und lass uns mit ihm liegen, und lass uns aus unserem Vater Nachkommenschaft am Leben erhalten.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "komm"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "lass uns … trinken lassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unsern Vater"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "unsern Vater"
+    },
+    {
+      "surface": "יין",
+      "gloss": "Wein"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "und lass uns liegen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "und lass uns … am Leben erhalten"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "aus unserem Vater"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "Nachkommenschaft"
+    }
+  ],
+  "timestamp": "2026-08-05T19:56:43.165661006Z",
+  "model": "glm-5.2"
+}

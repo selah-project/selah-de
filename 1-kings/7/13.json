@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und der König Schelomo sandte hin und holte ⟨את⟩ Chiram aus Zor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und … sandte hin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "und holte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "aus Zor"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:53.359325886Z",
+  "model": "glm-5.2"
+}

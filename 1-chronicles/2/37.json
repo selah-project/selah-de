@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Sewad zeugte ⟨את⟩ Eflal, und Eflal zeugte ⟨את⟩ Owed.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Und Sewad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "und Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Owed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Owed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:46:32.803702186Z",
+  "model": "glm-5.2"
+}

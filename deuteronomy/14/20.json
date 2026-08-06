@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Jedes reine ⟨Geflügel⟩ dürft ihr essen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Jedes"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "Geflügel"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "reine"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dürft ihr essen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:44:34.849545947Z",
+  "model": "glm-5.2"
+}

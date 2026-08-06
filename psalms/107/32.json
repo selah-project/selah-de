@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Und ⟨sie⟩ sollen ihn erheben in der Versammlung ⟨des⟩ Volkes und ihn rühmen im Sitz der Ältesten.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "und ⟨sie⟩ sollen ihn erheben"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in der Versammlung"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨des⟩ Volkes"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "und im Sitz"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "der Ältesten"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "⟨sie⟩ ihn rühmen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:46.532580334Z",
+  "model": "glm-5.2"
+}

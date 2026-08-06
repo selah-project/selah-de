@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und ⟨er⟩ brachte sie zur Grenze seiner Heiligkeit, ⟨zu⟩ diesem Berg, den seine Rechte erworben hat.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "Und ⟨er⟩ brachte sie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "Grenze"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "seiner Heiligkeit"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Berg"
+    },
+    {
+      "surface": "זה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "erworben hat"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "seine Rechte"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:39.190259868Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Brot habt ihr nicht gegessen, und Wein und Rauschtrank habt ihr nicht getrunken, damit ihr wisst, dass ich JHWH, euer Elohim, bin.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "habt ihr gegessen"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "und Rauschtrank"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "und Rauschtrank"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "habt ihr getrunken"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ihr wisst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T02:28:38.817732711Z",
+  "model": "glm-5.2"
+}

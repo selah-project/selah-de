@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨את⟩ diese zwölf Steine, die sie aus dem Jardén genommen hatten, richtete Jehoschua auf in Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diese zwölf Steine"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "Steine"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "sie genommen hatten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "dem Jardén"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "richtete auf"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "in Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-06T05:30:00.695280824Z",
+  "model": "glm-5.2"
+}

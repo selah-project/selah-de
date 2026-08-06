@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 4:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Sieh, ich habe ⟨אתכם⟩ belehrt — Bestimmungen und Rechtsordnungen, so wie JHWH, mein Elohim, mir geboten hat, ⟨sie⟩ so zu tun im Inneren des Landes, das ihr dorthin zieht, um ⟨es⟩ in Besitz zu nehmen.",
+  "tokens": [
+    {
+      "surface": "רְאֵה",
+      "gloss": "Sieh"
+    },
+    {
+      "surface": "לִמַּדְתִּי",
+      "gloss": "habe ich belehrt"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "euch (als Objekt der Belehrung)"
+    },
+    {
+      "surface": "חֻקִּים",
+      "gloss": "Bestimmungen"
+    },
+    {
+      "surface": "וּמִשְׁפָּטִים",
+      "gloss": "und Rechtsordnungen"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "צִוַּנִי",
+      "gloss": "mir geboten hat"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהַי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "לַעֲשׂוֹת",
+      "gloss": "zu tun"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "so"
+    },
+    {
+      "surface": "בְּקֶרֶב",
+      "gloss": "im Inneren"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אַתֶּם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "בָּאִים",
+      "gloss": "zieht"
+    },
+    {
+      "surface": "שָׁמָּה",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "לְרִשְׁתָּהּ",
+      "gloss": "um ⟨es⟩ in Besitz zu nehmen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:28:26.062109117Z",
+  "model": "glm-5.2"
+}

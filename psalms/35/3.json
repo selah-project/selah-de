@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "⟨Und⟩ zieh ⟨den⟩ Speer ⟨und⟩ verschließ ⟨den⟩ Weg ⟨gegen⟩ meine Verfolger, sag zu meiner Nefesch: „Ich ⟨bin⟩ deine Rettung.“",
+  "tokens": [
+    {
+      "surface": "וְהָ֘רֵ֤ק",
+      "gloss": "⟨Und⟩ zieh"
+    },
+    {
+      "surface": "חֲנִ֣ית",
+      "gloss": "⟨den⟩ Speer"
+    },
+    {
+      "surface": "וּ֭סְגֹר",
+      "gloss": "⟨und⟩ verschließ"
+    },
+    {
+      "surface": "לִקְרַ֣את",
+      "gloss": "⟨den⟩ Weg ⟨gegen⟩"
+    },
+    {
+      "surface": "רֹדְפָ֑י",
+      "gloss": "meine Verfolger"
+    },
+    {
+      "surface": "אֱמֹ֥ר",
+      "gloss": "sag"
+    },
+    {
+      "surface": "לְ֝נַפְשִׁ֗י",
+      "gloss": "zu meiner Nefesch"
+    },
+    {
+      "surface": "יְֽשֻׁעָתֵ֥ךְ",
+      "gloss": "deine Rettung"
+    },
+    {
+      "surface": "אָֽנִי",
+      "gloss": "Ich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:23.471283706Z",
+  "model": "glm-5.2"
+}

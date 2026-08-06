@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und du sollst ⟨את⟩ den Vorhof ringsum aufrichten und ⟨את⟩ den Vorhang des Tores des Vorhofs anhängen.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "und du sollst aufrichten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Vorhof"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "den Vorhof"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "und du sollst anhängen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Vorhang"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "den Vorhang"
+    },
+    {
+      "surface": "שער",
+      "gloss": "des Tores"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "des Vorhofs"
+    }
+  ],
+  "timestamp": "2026-08-06T09:47:21.054538684Z",
+  "model": "glm-5.2"
+}

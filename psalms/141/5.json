@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 141,
+  "translation": "Ein Gerechter schlage mich — Chessed; und ⟨er⟩ weise mich zurecht — Öl ⟨für⟩ den Kopf; mein Kopf weigere ⟨es⟩ sich nicht, denn noch ⟨ist⟩ und mein Gebet in ihren Übeltaten.",
+  "tokens": [
+    {
+      "surface": "יֶֽהֶלְמֵֽנִי",
+      "gloss": "schlage mich"
+    },
+    {
+      "surface": "צַדִּ֨יק",
+      "gloss": "ein Gerechter"
+    },
+    {
+      "surface": "חֶ֡סֶד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "וְֽיוֹכִיחֵ֗נִי",
+      "gloss": "und ⟨er⟩ weise mich zurecht"
+    },
+    {
+      "surface": "שֶׁ֣מֶן",
+      "gloss": "Öl"
+    },
+    {
+      "surface": "רֹ֭אשׁ",
+      "gloss": "Kopf"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָנִ֣י",
+      "gloss": "weigere ⟨es⟩ sich"
+    },
+    {
+      "surface": "רֹאשִׁ֑י",
+      "gloss": "mein Kopf"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ע֥וֹד",
+      "gloss": "noch"
+    },
+    {
+      "surface": "וּ֝תְפִלָּתִ֗י",
+      "gloss": "und mein Gebet"
+    },
+    {
+      "surface": "בְּרָעוֹתֵיהֶֽם",
+      "gloss": "in ihren Übeltaten"
+    }
+  ],
+  "timestamp": "2026-08-06T15:24:34.523805776Z",
+  "model": "glm-5.2"
+}

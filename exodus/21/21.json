@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Jedoch wenn ⟨er⟩ einen Tag oder zwei Tage stehen bleibt, soll ⟨er⟩ nicht bestraft werden, denn sein Geld ist er.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jedoch"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יום",
+      "gloss": "einen Tag"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "zwei Tage"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "stehen bleibt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "soll bestraft werden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "sein Geld"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist er"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:30.835516109Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 87,
+  "translation": "Und Sänger ⟨wie⟩ Flötenspieler: „All meine Quellen ⟨sind⟩ in dir.“",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Und Sänger"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "wie Flötenspieler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "All"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "meine Quellen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in dir"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:54.387823436Z",
+  "model": "glm-5.2"
+}

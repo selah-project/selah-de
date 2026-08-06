@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Essen werden die Demütigen und ⟨werden⟩ satt ⟨werden⟩; preisen werden JHWH, die ihn suchen. Es lebe euer Herz für immer.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "essen werden"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "die Demütigen"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "und satt werden"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "preisen werden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "die ihn suchen"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "es lebe"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "euer Herz"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "für immer"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:12.879735690Z",
+  "model": "glm-5.2"
+}

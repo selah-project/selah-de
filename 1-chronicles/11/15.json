@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 11:15",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und drei von den Dreißig stiegen hinab, das Haupt, auf den Felsen zu Dawid, zur Höhle von Adullam; ⟨und⟩ das Heerlager der Pelischtim lagerte im Tal der Refaim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Und stiegen hinab"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "drei"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "den Dreißig"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "das Haupt"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "den Felsen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zur"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "Höhle von"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "⟨und⟩ das Heerlager"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "lagerte"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "im Tal"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "der Refaim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:49:07.256976504Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und Mosche gab ⟨את⟩ Gilad dem Machir, dem Sohn Menasches, und ⟨er⟩ wohnte darin.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Und ⟨er⟩ gab"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "dem Machir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dem Sohn"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasches"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨er⟩ wohnte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "darin"
+    }
+  ],
+  "timestamp": "2026-08-06T00:39:59.219889132Z",
+  "model": "glm-5.2"
+}

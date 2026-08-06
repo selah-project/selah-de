@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Awraham betete zu Elohim, und Elohim heilte ⟨את⟩ Awimelech und ⟨את⟩ seine Frau und seine Mägde, und sie gebaren.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "Und betete"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "und heilte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Frau"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seine Frau"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "und seine Mägde"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "und sie gebaren"
+    }
+  ],
+  "timestamp": "2026-08-06T05:09:10.665394314Z",
+  "model": "glm-5.2"
+}

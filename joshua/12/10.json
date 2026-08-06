@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "⟨Der⟩ König von Jeruschalajim, ⟨der⟩ eine; ⟨der⟩ König von Chewron, ⟨der⟩ eine.",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "König"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֨ם֙",
+      "gloss": "von Jeruschalajim"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "König"
+    },
+    {
+      "surface": "חֶבְר֖וֹן",
+      "gloss": "von Chewron"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "einer"
+    }
+  ],
+  "timestamp": "2026-08-06T05:32:08.151374997Z",
+  "model": "glm-5.2"
+}

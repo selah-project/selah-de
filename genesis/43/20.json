@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Und sie sagten: „Bitte, mein Adonai, ⟨wir⟩ sind ja am Anfang hinabgekommen, um Nahrung zu kaufen.“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sie sagten"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Bitte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Adonai"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sind wir hinabgekommen"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "wir sind hinabgekommen"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "am Anfang"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "um zu kaufen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Nahrung"
+    }
+  ],
+  "timestamp": "2026-08-06T01:58:37.213826711Z",
+  "model": "glm-5.2"
+}

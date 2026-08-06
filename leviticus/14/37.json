@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 14:37",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und ⟨er⟩ sieht ⟨את⟩ den Befall, und siehe, der Befall ⟨ist⟩ in den Wänden des Hauses: grünliche Vertiefungen oder rötliche, und ihr Aussehen ⟨ist⟩ tiefer ⟨als⟩ die Wand.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "und sieht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Befall"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "den Befall"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "der Befall"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "in den Wänden"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "שקערורת",
+      "gloss": "Vertiefungen"
+    },
+    {
+      "surface": "ירקרקת",
+      "gloss": "grünliche"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "rötliche"
+    },
+    {
+      "surface": "ומראיהן",
+      "gloss": "und ihr Aussehen"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "tiefer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "der Wand"
+    }
+  ],
+  "timestamp": "2026-08-05T20:23:52.562580488Z",
+  "model": "glm-5.2"
+}

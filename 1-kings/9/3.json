@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 9:3",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "und JHWH sprach zu ihm: „Ich habe ⟨את⟩ dein Gebet und ⟨את⟩ dein Flehen gehört, das du vor mir flehend dargebracht hast. Ich habe ⟨את⟩ dieses Haus, das du gebaut hast, geheiligt, um meinen Namen dort zu setzen bis in Ewigkeit; und meine Augen und mein Herz werden dort sein alle Tage.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ich habe gehört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Gebet"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "dein Gebet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "dein Flehen"
+    },
+    {
+      "surface": "תחנתך",
+      "gloss": "dein Flehen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "התחננתה",
+      "gloss": "du flehend dargebracht hast"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "ich habe geheiligt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "du gebaut hast"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "um zu setzen"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "meinen Namen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in Ewigkeit"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "und ⟨sie⟩ werden sein"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "und mein Herz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-05T21:27:24.539019297Z",
+  "model": "glm-5.2"
+}

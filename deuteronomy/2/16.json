@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und es geschah, als vernichtet waren alle Männer des Krieges, ⟨als sie⟩ starben aus der Mitte des Volkes,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "als"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "vernichtet waren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "des Krieges"
+    },
+    {
+      "surface": "למות",
+      "gloss": "⟨als sie⟩ starben"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "aus der Mitte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:04.391578564Z",
+  "model": "glm-5.2"
+}

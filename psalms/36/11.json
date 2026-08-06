@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Zieh hin dein Chessed zu denen, die dich kennen, und deine Zedek zu den Aufrichtigen des Herzens!",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "Zieh hin"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "zu denen, die dich kennen"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "und deine Zedek"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "zu den Aufrichtigen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "des Herzens"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:39.634343170Z",
+  "model": "glm-5.2"
+}

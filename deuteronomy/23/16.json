@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Du sollst keinen Sklaven ausliefern an seinen Herrn, der sich dir entflieht aus der Hand seines Herrn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "sollst du ausliefern"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "einen Sklaven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "seinen Herrn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "sich entflieht"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "seines Herrn"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:52.750448209Z",
+  "model": "glm-5.2"
+}

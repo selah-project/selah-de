@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und der Mensch rief den Namen seiner Frau Chawa, denn sie ⟨war⟩ die Mutter aller Lebendigen.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und ⟨er⟩ rief"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "שם",
+      "gloss": "den Namen"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seiner Frau"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨war⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "die Mutter"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Lebendigen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:07.954334604Z",
+  "model": "glm-5.2"
+}

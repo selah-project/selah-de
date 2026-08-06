@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und die Pelischtim sammelten ⟨את⟩ ihre Heerlager zum Krieg, und sie sammelten sich bei Schocho, das ⟨zu⟩ Jehuda ⟨gehört⟩, und sie lagerten zwischen Schocho und Asseka, bei Efer-Dammim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "Und sie sammelten"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Heerlager"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ihre Heerlager"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "zum Krieg"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "und sie sammelten sich"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "bei Schocho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "⟨zu⟩ Jehuda ⟨gehört⟩"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "und sie lagerten"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Schocho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Asseka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "bei Efer"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-Dammim"
+    }
+  ],
+  "timestamp": "2026-08-06T05:40:52.712606384Z",
+  "model": "glm-5.2"
+}

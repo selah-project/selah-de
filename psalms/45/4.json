@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Gürte dein Schwert um die Hüfte, Held — deinen Glanz und deine Hoheit!",
+  "tokens": [
+    {
+      "surface": "חֲגֽוֹר",
+      "gloss": "Gürte"
+    },
+    {
+      "surface": "חַרְבְּךָ֣",
+      "gloss": "dein Schwert"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "um"
+    },
+    {
+      "surface": "יָרֵ֣ךְ",
+      "gloss": "die Hüfte"
+    },
+    {
+      "surface": "גִּבּ֑וֹר",
+      "gloss": "Held"
+    },
+    {
+      "surface": "ה֝וֹדְךָ֗",
+      "gloss": "deinen Glanz"
+    },
+    {
+      "surface": "וַהֲדָרֶֽךָ",
+      "gloss": "und deine Hoheit"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:25.431912565Z",
+  "model": "glm-5.2"
+}

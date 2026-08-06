@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Nicht einen Tag werdet ihr essen, und nicht zwei Tage, und nicht fünf Tage, und nicht zehn Tage, und nicht zwanzig Tage —",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "י֥וֹם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "אֶחָ֛ד",
+      "gloss": "einen"
+    },
+    {
+      "surface": "תֹּאכְל֖וּן",
+      "gloss": "werdet ihr essen"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יוֹמָ֑יִם",
+      "gloss": "zwei Tage"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "חֲמִשָּׁ֣ה",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "יָמִ֗ים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "וְלֹא֙",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "עֲשָׂרָ֣ה",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "יָמִ֔ים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "zwanzig"
+    },
+    {
+      "surface": "יֽוֹם",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T00:34:22.751092450Z",
+  "model": "glm-5.2"
+}

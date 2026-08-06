@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Denn er zerbrach Tore aus Bronze und eiserne Riegel hieb er ab.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "er zerbrach"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "aus Bronze"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "und eiserne Riegel"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "⟨Eisen⟩"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "hieb er ab"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:26.162628898Z",
+  "model": "glm-5.2"
+}

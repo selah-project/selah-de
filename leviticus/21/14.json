@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Eine Witwe und eine Verstoßene und eine Entweihte, eine Hure — ⟨את⟩ diese soll er nicht nehmen, sondern eine Jungfrau aus seinem Volk soll er als Frau nehmen.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Eine Witwe"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "und eine Verstoßene"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "und eine Entweihte"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "eine Hure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "soll er nehmen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨nur⟩"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "eine Jungfrau"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "aus seinem Volk"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "soll er nehmen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "als Frau"
+    }
+  ],
+  "timestamp": "2026-08-06T05:21:17.486213179Z",
+  "model": "glm-5.2"
+}

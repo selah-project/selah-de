@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Es kehren um zur Scheol, die Rschiedenen — alle Gojim, die Elohim vergessen.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "kehren um"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die Rschiedenen"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "zur Scheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Gojim"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "die vergessen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:34.047735844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und rufe Jischai zum Schlachtopfer ⟨ein⟩, und ich werde dir ⟨את⟩ das, was du tun sollst, bekannt machen, und du sollst mir ⟨את⟩ den, den ich dir nenne, salben.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "Und rufe"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Jischai"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "zum Schlachtopfer"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "werde dir bekannt machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was du tun sollst"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du tun sollst"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "und du sollst salben"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den, den ich dir nenne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ich nenne"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T22:37:18.526458030Z",
+  "model": "glm-5.2"
+}

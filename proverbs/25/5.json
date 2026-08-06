@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Entferne den Frevler ⟨vom⟩ Angesicht des Königs, dann wird ⟨sich⟩ sein Thron in Zedek gründen.",
+  "tokens": [
+    {
+      "surface": "הָג֣וֹ",
+      "gloss": "Entferne"
+    },
+    {
+      "surface": "רָ֭שָׁע",
+      "gloss": "den Frevler"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "⟨vom⟩ Angesicht"
+    },
+    {
+      "surface": "מֶ֑לֶךְ",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "וְיִכּ֖וֹן",
+      "gloss": "dann wird ⟨sich⟩ … gründen"
+    },
+    {
+      "surface": "בַּצֶּ֣דֶק",
+      "gloss": "in Zedek"
+    },
+    {
+      "surface": "כִּסְאֽוֹ",
+      "gloss": "sein Thron"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:36.728253959Z",
+  "model": "glm-5.2"
+}

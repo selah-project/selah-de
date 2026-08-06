@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 16:31",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und es geschah, als er aufgehört hatte, all diese Worte zu reden, da spaltete sich die Erde, die unter ihnen war.",
+  "tokens": [
+    {
+      "surface": "וַיְהִי֙",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כְּכַלֹּת֔וֹ",
+      "gloss": "als er aufgehört hatte"
+    },
+    {
+      "surface": "לְדַבֵּ֕ר",
+      "gloss": "zu reden"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "alle diese Worte"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הַדְּבָרִ֖ים",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "הָאֵ֑לֶּה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "וַתִּבָּקַ֥ע",
+      "gloss": "da spaltete sich"
+    },
+    {
+      "surface": "הָאֲדָמָ֖ה",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תַּחְתֵּיהֶֽם",
+      "gloss": "unter ihnen war"
+    }
+  ],
+  "timestamp": "2026-08-06T00:35:48.252562184Z",
+  "model": "glm-5.2"
+}

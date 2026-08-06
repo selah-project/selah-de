@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und JHWH sandte ⟨את⟩ Natan zu Dawid, und er kam zu ihm und sprach zu ihm: Zwei Männer waren in einer Stadt, einer reich und einer arm.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und sandte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und er kam"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "שני",
+      "gloss": "Zwei"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in einer Stadt"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "einer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "reich"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "und einer"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "arm"
+    }
+  ],
+  "timestamp": "2026-08-05T21:19:53.536159689Z",
+  "model": "glm-5.2"
+}

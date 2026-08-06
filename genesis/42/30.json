@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "„Der Mann, der Herr des Landes, hat hart mit uns geredet, und er hat uns ⟨als⟩ Spähe ⟨את⟩ ⟨uns⟩ eingesetzt ⟨als⟩ Kundschafter des Landes.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "hat geredet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "der Herr"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "mit uns"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "hart"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und er hat … eingesetzt"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "uns"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "⟨als⟩ Kundschafter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "des Landes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    }
+  ],
+  "timestamp": "2026-08-05T17:41:43.070444168Z",
+  "model": "glm-5.2"
+}

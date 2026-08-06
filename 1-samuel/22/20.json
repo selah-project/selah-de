@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und es entrann ein Sohn des Achimelech, des Sohnes Achitubs — sein ⟨Name⟩ war Ewjatar — und er floh hinter Dawid her.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "und es entrann"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ein Sohn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "des Achimelech"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Achitubs"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "und sein ⟨Name⟩"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "war Ewjatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "und er floh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid her"
+    }
+  ],
+  "timestamp": "2026-08-06T05:42:17.195751650Z",
+  "model": "glm-5.2"
+}

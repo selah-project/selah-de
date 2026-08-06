@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 7:1",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und es geschah, als der König in seinem Haus wohnte, und JHWH ihm Ruhe verschafft hatte ringsum von allen seinen Feinden —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "als"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wohnte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in seinem Haus"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "und JHWH"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "Ruhe verschafft hatte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "von allen"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "seinen Feinden"
+    }
+  ],
+  "timestamp": "2026-08-06T10:02:31.927543258Z",
+  "model": "glm-5.2"
+}

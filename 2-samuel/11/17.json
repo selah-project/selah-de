@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und die Männer der Stadt zogen aus und kämpften gegen ⟨את⟩ Joaw, und es fielen vom Volk, von den Knechten Dawids, und es starb auch Urija, der Chititer.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "und sie zogen aus"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "und sie kämpften"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaw"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "gegen Joaw"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "und es fielen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "von den Knechten"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und es starb"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "der Chititer"
+    }
+  ],
+  "timestamp": "2026-08-06T01:15:43.231856718Z",
+  "model": "glm-5.2"
+}

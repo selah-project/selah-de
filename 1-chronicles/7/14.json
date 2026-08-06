@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Söhne Menasches: Asriël, ⟨den⟩ sie gebar — ⟨seine⟩ Nebenfrau, die Aramäerin, gebar ⟨את⟩ Machir, den Vater Gilads.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "מְנַשֶּׁ֔ה",
+      "gloss": "Menasches"
+    },
+    {
+      "surface": "אַשְׂרִיאֵ֖ל",
+      "gloss": "Asriël"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "den"
+    },
+    {
+      "surface": "יָלָ֑דָה",
+      "gloss": "sie gebar"
+    },
+    {
+      "surface": "פִּֽילַגְשׁוֹ֙",
+      "gloss": "seine Nebenfrau"
+    },
+    {
+      "surface": "הָֽאֲרַמִּיָּ֔ה",
+      "gloss": "die Aramäerin"
+    },
+    {
+      "surface": "יָלְדָ֕ה",
+      "gloss": "gebar"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Machir"
+    },
+    {
+      "surface": "מָכִ֖יר",
+      "gloss": "Machir"
+    },
+    {
+      "surface": "אֲבִ֥י",
+      "gloss": "Vater"
+    },
+    {
+      "surface": "גִלְעָֽד",
+      "gloss": "Gilads"
+    }
+  ],
+  "timestamp": "2026-08-05T23:48:14.956872976Z",
+  "model": "glm-5.2"
+}

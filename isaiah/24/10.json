@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Zerbrochen ⟨ist⟩ die Stadt der Öde, verschlossen ist jedes Haus ⟨vor⟩ Betreten.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "Zerbrochen"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "Öde"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "verschlossen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jedes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "Betreten"
+    }
+  ],
+  "timestamp": "2026-08-06T03:14:46.499049093Z",
+  "model": "glm-5.2"
+}

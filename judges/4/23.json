@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Elohim demütigte an jenem Tag ⟨את⟩ Jawin, den König von Kenaan, vor den Söhnen Jisraels.",
+  "tokens": [
+    {
+      "surface": "וַיַּכְנַ֤ע",
+      "gloss": "Und ⟨er⟩ demütigte"
+    },
+    {
+      "surface": "אֱלֹהִים֙",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "הַה֔וּא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "Jawin, den König von Kenaan"
+    },
+    {
+      "surface": "יָבִ֣ין",
+      "gloss": "Jawin"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "König"
+    },
+    {
+      "surface": "כְּנָ֑עַן",
+      "gloss": "von Kenaan"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T00:56:58.061230242Z",
+  "model": "glm-5.2"
+}

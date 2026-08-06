@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 37:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und seine Brüder sprachen zu ihm: „Sollst du ⟨wirklich⟩ als König über uns herrschen? Oder solltest du ⟨wirklich⟩ über uns herrschen?“ Und sie fügten hinzu, ⟨ihn⟩ noch mehr zu hassen, ⟨ihn⟩, wegen seiner Träume und wegen seiner Worte.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sprachen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Sollst du als König"
+    },
+    {
+      "surface": "תמלך",
+      "gloss": "herrschen"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "über uns"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Oder"
+    },
+    {
+      "surface": "משול",
+      "gloss": "solltest du herrschen"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "herrschen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "über uns"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "Und sie fügten hinzu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "noch mehr"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "zu hassen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "חלמתיו",
+      "gloss": "seiner Träume"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und wegen"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "seiner Worte"
+    }
+  ],
+  "timestamp": "2026-08-05T17:39:06.075620301Z",
+  "model": "glm-5.2"
+}

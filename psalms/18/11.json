@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und er fuhr auf einem Kerub und flog, und er schwebte auf Flügeln des Windes.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "und er fuhr"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "einem Kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "und flog"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "und er schwebte"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "Flügeln"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "des Windes"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:36.450418102Z",
+  "model": "glm-5.2"
+}

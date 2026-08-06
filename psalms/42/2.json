@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Wie eine Hirschkuh lechzt ⟨an⟩ Wasserbächen, so lechzt meine Nefesch zu dir, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Wie eine Hirschkuh"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "lechzt"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨an⟩"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "Wasserbächen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "lechzt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:14.054258439Z",
+  "model": "glm-5.2"
+}

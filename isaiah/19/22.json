@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und JHWH wird ⟨את⟩ Mizrajim schlagen — ein Schlagen und ⟨ein⟩ Heilen —, und sie werden zu JHWH umkehren, und er wird sich von ihnen erbitten lassen und sie heilen.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "und wird schlagen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mizrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ein Schlagen"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "und ⟨ein⟩ Heilen"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "und sie werden umkehren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "und er wird sich erbitten lassen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "von ihnen"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "und sie heilen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:42:41.119758974Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Geh von hier, und wende dich nach Osten, und verbirg dich am Bach Kerit, der vor dem Jardén ist.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "von hier"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "und wende dich"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨dich⟩"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "nach Osten"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "und verbirg dich"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "am Bach"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "על",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨dem⟩"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardén"
+    }
+  ],
+  "timestamp": "2026-08-06T01:27:32.346061867Z",
+  "model": "glm-5.2"
+}

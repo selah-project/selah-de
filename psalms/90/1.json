@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 90,
+  "translation": "Ein Gebet von Mosche, einem Mann des Elohim: Adonai, ⟨du⟩ bist ⟨du⟩ ⟨als⟩ Wohnung für uns gewesen, in Generation und Generation.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Gebet"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "von Mosche"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Wohnung"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bist … gewesen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "für uns"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "in Generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "und Generation"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:32.605395468Z",
+  "model": "glm-5.2"
+}

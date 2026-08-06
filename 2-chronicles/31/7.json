@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 31:7",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Im dritten Monat begann man, die Haufen zur Grundlegung ⟨aufzuschichten⟩, und im siebten Monat vollendete man ⟨sie⟩.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "im Monat"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "dritten"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "begann man"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "die Haufen"
+    },
+    {
+      "surface": "ליסוד",
+      "gloss": "zur Grundlegung"
+    },
+    {
+      "surface": "ובחדש",
+      "gloss": "und im Monat"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "siebten"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "vollendete man"
+    }
+  ],
+  "timestamp": "2026-08-06T00:00:39.352369294Z",
+  "model": "glm-5.2"
+}

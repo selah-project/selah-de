@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Du liebtest Gerechtigkeit und hasstest Unrecht; darum salbte dich Elohim, dein Elohim, mit Freudenöl ⟨mehr als⟩ deine Gefährten.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Du liebtest"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Gerechtigkeit"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "und hasstest"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Unrecht"
+    },
+    {
+      "surface": "על",
+      "gloss": "darum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "salbte dich"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mit Öl"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "der Freude"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "deine Gefährten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:30.746571046Z",
+  "model": "glm-5.2"
+}

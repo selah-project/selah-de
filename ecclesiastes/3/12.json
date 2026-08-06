@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ich habe erkannt, dass nichts Gutes in ihnen ist, als dass man sich freue und Gutes tue in seinem Leben.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ich habe erkannt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nichts"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in ihnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "als"
+    },
+    {
+      "surface": "אם",
+      "gloss": "[nur]"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "sich zu freuen"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "und zu tun"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "in seinem Leben"
+    }
+  ],
+  "timestamp": "2026-08-06T07:09:31.908760248Z",
+  "model": "glm-5.2"
+}

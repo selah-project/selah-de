@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Da wankte und erbebte die Erde, und die Grundfesten der Berge erzitterten und wurden erschüttert, denn es entbrannte ⟨sein Zorn⟩.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "da wankte"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "und erbebte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "und die Grundfesten"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "der Berge"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "erzitterten"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "und wurden erschüttert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "es entbrannte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:36.583537447Z",
+  "model": "glm-5.2"
+}

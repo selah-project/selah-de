@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 121,
+  "translation": "JHWH ⟨ist⟩ dein Hüter, JHWH ⟨ist⟩ dein Schatten zur Rechten deiner Hand.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "dein Hüter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "dein Schatten"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "יד",
+      "gloss": "Hand"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "deiner Rechten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:19.097529100Z",
+  "model": "glm-5.2"
+}

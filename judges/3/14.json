@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und die Söhne Jisra'els dienten ⟨את⟩ Eglon, dem König von Moab, achtzehn Jahre.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "und sie dienten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "von Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    }
+  ],
+  "timestamp": "2026-08-06T05:33:07.622179858Z",
+  "model": "glm-5.2"
+}

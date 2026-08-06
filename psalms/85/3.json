@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 85,
+  "translation": "Du hast die Schuld deines Volkes getragen, hast all ihre Sünde bedeckt. Sela.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Du hast getragen"
+    },
+    {
+      "surface": "עון",
+      "gloss": "die Schuld"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "deines Volkes"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "hast ⟨du⟩ bedeckt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ihre Sünde"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:46.922226829Z",
+  "model": "glm-5.2"
+}

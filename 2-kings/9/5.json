@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 9:5",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨er⟩ kam, und siehe, die Befehlshaber der Streitmacht saßen ⟨da⟩, und er sagte: „Ein Wort ⟨gilt⟩ dir, ⟨du⟩ Befehlshaber.\" Und Jehu sagte: „An wen von uns allen?\" Und er sagte: „An dich, ⟨du⟩ Befehlshaber.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und ⟨er⟩ kam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "die Befehlshaber"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "der Streitmacht"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "saßen ⟨da⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ein Wort"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨gilt⟩ mir"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨du⟩ Befehlshaber"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und Jehu sagte"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨siehe Jehu⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "An"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "מכלנו",
+      "gloss": "von uns allen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "An dich"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨du⟩ Befehlshaber"
+    }
+  ],
+  "timestamp": "2026-08-06T22:41:54.929578757Z",
+  "model": "glm-5.2"
+}

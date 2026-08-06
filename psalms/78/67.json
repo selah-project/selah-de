@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und er verwarf das Zelt von Josef, und den Stamm von Efrajim wählte er nicht.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Und er verwarf"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "das Zelt"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "von Josef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "und den Stamm"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "von Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "wählte er"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:14.249701164Z",
+  "model": "glm-5.2"
+}

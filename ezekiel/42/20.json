@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 42:20",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Nach vier Seiten hin maß er ⟨es⟩. Eine Mauer war ⟨dafür⟩ ringsum, ringsum: die Länge fünfhundert und die Breite fünfhundert, um zu scheiden zwischen dem Heiligen und dem Profanen.",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "nach vier"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "Seiten"
+    },
+    {
+      "surface": "מדדו",
+      "gloss": "maß er"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "eine Mauer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨dafür⟩"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "die Länge"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "und die Breite"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "um zu scheiden"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "dem Heiligen"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "und dem Profanen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:28:49.977642392Z",
+  "model": "glm-5.2"
+}

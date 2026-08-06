@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Ich aber, in meiner Lauterkeit wandle ich; löse mich aus und erweise mir Chen!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ich aber"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "in meiner Lauterkeit"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "wandle ich"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "löse mich aus"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "erweise mir Chen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:17.797741154Z",
+  "model": "glm-5.2"
+}

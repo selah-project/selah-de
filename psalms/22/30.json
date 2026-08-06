@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Sie aßen und warfen sich nieder, alle Fetten der Erde; vor ihm knieten alle hinab Steigenden zum Staub, und ⟨deren⟩ Nefesch — er hielt sie nicht am Leben.",
+  "tokens": [
+    {
+      "surface": "אָכְל֬וּ",
+      "gloss": "sie aßen"
+    },
+    {
+      "surface": "וַיִּֽשְׁתַּחֲוּ֨וּ",
+      "gloss": "und warfen sich nieder"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דִּשְׁנֵי",
+      "gloss": "Fetten"
+    },
+    {
+      "surface": "אֶ֗רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "לְפָנָ֣יו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "יִ֭כְרְעוּ",
+      "gloss": "knieten"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יוֹרְדֵ֣י",
+      "gloss": "hinab Steigenden"
+    },
+    {
+      "surface": "עָפָ֑ר",
+      "gloss": "zum Staub"
+    },
+    {
+      "surface": "וְ֝נַפְשׁ֗וֹ",
+      "gloss": "und ⟨deren⟩ Nefesch"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "חִיָּֽה",
+      "gloss": "hielt er am Leben"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:34.766579301Z",
+  "model": "glm-5.2"
+}

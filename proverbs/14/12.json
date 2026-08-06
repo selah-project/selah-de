@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Es gibt einen Weg, der gerade ⟨scheint⟩ vor einem Mann, aber ⟨sein⟩ Ende ⟨sind⟩ Wege des Todes.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Es gibt"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "einen Weg"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "gerade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "einem Mann"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "aber ⟨sein⟩ Ende"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "Wege"
+    },
+    {
+      "surface": "מות",
+      "gloss": "des Todes"
+    }
+  ],
+  "timestamp": "2026-08-06T16:02:24.659885968Z",
+  "model": "glm-5.2"
+}

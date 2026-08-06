@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und es wurde übel vor Jonah ⟨als⟩ eine große Übeltat, und es entbrannte ⟨in⟩ ihm.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "und es wurde übel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨als⟩ Übeltat"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "große"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "und es entbrannte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨in⟩ ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T04:01:25.133618814Z",
+  "model": "glm-5.2"
+}

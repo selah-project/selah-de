@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und die Pelischtim nahmen ⟨את⟩ die Lade des Elohim und brachten sie von Even-Ha-Eser nach Aschdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Und die Pelischtim"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nahmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Lade"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "und brachten sie"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "von Even-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "-Ha-Eser"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "nach Aschdod"
+    }
+  ],
+  "timestamp": "2026-08-06T05:38:33.285755846Z",
+  "model": "glm-5.2"
+}

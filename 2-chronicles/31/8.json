@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und Jechiskijahu und die Oberen kamen und sahen ⟨את⟩ die Haufen, und sie priesen ⟨את⟩ JHWH und ⟨את⟩ sein Volk Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Und ⟨es⟩ kamen"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jechiskijahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "und die Oberen"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "und sahen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Haufen"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "die Haufen"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "und sie priesen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein Volk Jisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-08-06T00:00:39.352450583Z",
+  "model": "glm-5.2"
+}

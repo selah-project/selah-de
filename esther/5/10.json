@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Aber Haman hielt sich zurück und kam in sein Haus; und er sandte hin und brachte ⟨את⟩ seine Freunde und ⟨את⟩ Seresch, seine Frau.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "Aber hielt sich zurück"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "und kam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sein Haus"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "und sandte hin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und brachte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Freunde"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "seine Freunde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Seresch"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Seresch"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "seine Frau"
+    }
+  ],
+  "timestamp": "2026-08-06T09:29:25.447567731Z",
+  "model": "glm-5.2"
+}

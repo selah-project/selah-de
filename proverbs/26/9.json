@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Ein Dornen, der in die Hand eines Trunkenen steigt — so ⟨ist⟩ ein Maschal im Mund von Kessilim.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "Ein Dornen"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "der steigt"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "eines Trunkenen"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "so ⟨ist⟩ ein Maschal"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "im Mund"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "von Kessilim"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:10.730018318Z",
+  "model": "glm-5.2"
+}

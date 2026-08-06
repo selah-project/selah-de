@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Unsere Väter in Mizrajim verstanden ⟨es⟩ nicht, deine Wunder; sie dachten nicht an ⟨את⟩ die Fülle deiner Chessed-Werke, und sie widersetzten sich am Meer, am Schilfmeer.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "unsere Väter"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mizrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "verstanden"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "deine Wunder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "dachten an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Fülle deiner Chessed-Werke"
+    },
+    {
+      "surface": "רב",
+      "gloss": "die Fülle"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "deiner Chessed-Werke"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "und sie widersetzten sich"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "ים",
+      "gloss": "⟨dem⟩ Meer"
+    },
+    {
+      "surface": "בים",
+      "gloss": "am"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Schilfmeer"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:02.227457186Z",
+  "model": "glm-5.2"
+}

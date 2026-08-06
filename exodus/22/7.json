@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wenn der Dieb nicht gefunden wird, ⟨dann⟩ soll der Hausherr vor die Elohim treten ⟨um zu schwören⟩, ob er nicht seine Hand nach dem Gut seines Nächsten ausgestreckt hat.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gefunden wird"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "der Dieb"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "soll treten"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "der Herr"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vor"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "er ausgestreckt hat"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "nach dem Gut"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "seines Nächsten"
+    }
+  ],
+  "timestamp": "2026-08-06T20:18:14.897388145Z",
+  "model": "glm-5.2"
+}

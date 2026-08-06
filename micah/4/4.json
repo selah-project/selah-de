@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und sie werden sitzen, jeder unter seinem Weinstock und unter seinem Feigenbaum, und ⟨es ist⟩ keiner, der ⟨sie⟩ schreckt. Denn der Mund JHWHs der Heerscharen hat gesprochen.",
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "und sie werden sitzen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "seinem Weinstock"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "und unter"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "seinem Feigenbaum"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es ist⟩ keiner"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "der schreckt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "פי",
+      "gloss": "der Mund"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hat gesprochen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:34:00.299777311Z",
+  "model": "glm-5.2"
+}

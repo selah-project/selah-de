@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und ihr habt ⟨gesehen⟩ ⟨את⟩ ihre Scheusäle und ⟨את⟩ ihre Götzenpfähle: Holz und Stein, Silber und Gold, die bei ihnen sind.",
+  "tokens": [
+    {
+      "surface": "וַתִּרְאוּ֙",
+      "gloss": "Und ihr habt ⟨gesehen⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Scheusäle"
+    },
+    {
+      "surface": "שִׁקּ֣וּצֵיהֶ֔ם",
+      "gloss": "ihre Scheusäle"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Götzenpfähle"
+    },
+    {
+      "surface": "גִּלֻּלֵיהֶ֑ם",
+      "gloss": "ihre Götzenpfähle"
+    },
+    {
+      "surface": "עֵ֣ץ",
+      "gloss": "Holz"
+    },
+    {
+      "surface": "וָאֶ֔בֶן",
+      "gloss": "und Stein"
+    },
+    {
+      "surface": "כֶּ֥סֶף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "וְזָהָ֖ב",
+      "gloss": "und Gold"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עִמָּהֶֽם",
+      "gloss": "bei ihnen sind"
+    }
+  ],
+  "timestamp": "2026-08-06T00:48:04.675705440Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "An jenem Tag — ⟨ein⟩ Weinberg ⟨des⟩ Begehrens! Besingt ⟨ihn⟩!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "An jenem Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "Weinberg"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "des Begehrens"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "besingt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-05T21:48:49.192143814Z",
+  "model": "glm-5.2"
+}

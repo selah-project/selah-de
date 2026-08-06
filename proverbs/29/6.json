@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Im Vergehen eines bösen Mannes ⟨ist⟩ eine Falle, und der Gerechte singt und ist fröhlich.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "Im Vergehen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eines Mannes"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bösen"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "⟨ist⟩ eine Falle"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "und der Gerechte"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "singt"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "und ist fröhlich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:31:29.130517623Z",
+  "model": "glm-5.2"
+}

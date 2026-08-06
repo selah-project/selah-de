@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Aber ⟨את⟩ das Feld der Stadt und ⟨את⟩ ihre Höfe hatten sie Kalew, dem Sohn Jefunnes, als sein Eigentum gegeben.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Aber ⟨את⟩",
+      "marks": "das Feld"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "das Feld"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Höfe"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ihre Höfe"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "hatten sie gegeben"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "dem Kalew"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "des Jefunne"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "als sein Eigentum"
+    }
+  ],
+  "timestamp": "2026-08-06T00:54:22.034108212Z",
+  "model": "glm-5.2"
+}

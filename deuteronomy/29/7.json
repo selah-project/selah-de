@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und wir nahmen ⟨את⟩ ihr Land und gaben es zum Erbteil den Rúbenitern und den Gaditern und der Hälfte des Stammes ⟨von⟩ Menasche.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Und wir nahmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ihr Land"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "und gaben ⟨es⟩"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "zum Erbteil"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "den Rúbenitern"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "und den Gaditern"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "und der Hälfte"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "des Stammes"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "von Menasche"
+    }
+  ],
+  "timestamp": "2026-08-06T02:28:38.818157843Z",
+  "model": "glm-5.2"
+}

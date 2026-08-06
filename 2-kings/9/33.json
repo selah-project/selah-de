@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und er sprach: „Lasst sie hinab“, und sie ließen sie hinab. Und ⟨es⟩ spritzte von ihrem Blut an die Mauer und an die Pferde, und ⟨er⟩ zertrat sie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "lasst hinab"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "und sie ließen hinab"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "und ⟨es⟩ spritzte"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "von ihrem Blut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "die Mauer"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und an"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "die Pferde"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "und ⟨er⟩ zertrat sie"
+    }
+  ],
+  "timestamp": "2026-08-06T22:42:00.677850226Z",
+  "model": "glm-5.2"
+}

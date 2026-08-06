@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und dort sollst du ⟨dir⟩ einen Altar bauen für JHWH, deinen Elohim, einen Altar aus Steinen. Du sollst kein Eisen über ihnen schwingen.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "Und ⟨du sollst⟩ bauen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "einen Altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "einen Altar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "aus Steinen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "sollst du schwingen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "über ihnen"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "Eisen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:29:16.946311524Z",
+  "model": "glm-5.2"
+}

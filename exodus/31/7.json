@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "⟨את⟩ das Zelt der Begegnung und ⟨את⟩ die Lade für das Zeugnis und ⟨את⟩ die Kapporet, die darauf ⟨ist⟩, und ⟨את⟩ alle Geräte des Zeltes,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Zelt der Begegnung"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "für das Zeugnis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "die Kapporet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Geräte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "Geräte"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "des Zeltes"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:22.044473894Z",
+  "model": "glm-5.2"
+}

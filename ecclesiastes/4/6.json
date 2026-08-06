@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Besser eine Handvoll Ruhe als zwei Fäuste voll Mühe ⟨und⟩ Windhauch.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "voll"
+    },
+    {
+      "surface": "כף",
+      "gloss": "[eine] Hand"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Ruhe"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "als [ein] Voll[es]"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "[von] zwei Fäusten"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "Mühe"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "⟨und⟩ …-en"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Windhauch"
+    }
+  ],
+  "timestamp": "2026-08-06T07:09:32.775327284Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Seine Schösslinge werden gehen, und ⟨seine⟩ Pracht wird sein wie ⟨die⟩ Oliven, und sein Duft wie der Libanon.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "werden gehen"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "seine Schösslinge"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und wird sein"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "wie Oliven"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "seine Pracht"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "und Duft"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sein"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "wie der Libanon"
+    }
+  ],
+  "timestamp": "2026-08-06T06:30:44.792381927Z",
+  "model": "glm-5.2"
+}

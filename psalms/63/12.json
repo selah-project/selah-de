@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 63,
+  "translation": "Und der König wird sich freuen in Elohim; rühmen wird sich jeder, der ⟨bei⟩ ihm schwört — denn ⟨es wird⟩ verschlossen ⟨den⟩ Mund der Lügenredner.",
+  "tokens": [
+    {
+      "surface": "וְהַמֶּלֶךְ֮",
+      "gloss": "Und der König"
+    },
+    {
+      "surface": "יִשְׂמַ֪ח",
+      "gloss": "wird sich freuen"
+    },
+    {
+      "surface": "בֵּאלֹ֫הִ֥ים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "יִ֭תְהַלֵּל",
+      "gloss": "rühmen wird sich"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "הַנִּשְׁבָּ֣ע",
+      "gloss": "der schwört"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "⟨bei⟩ ihm"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יִ֝סָּכֵ֗ר",
+      "gloss": "⟨es wird⟩ verschlossen"
+    },
+    {
+      "surface": "פִּ֣י",
+      "gloss": "⟨den⟩ Mund"
+    },
+    {
+      "surface": "דֽוֹבְרֵי",
+      "gloss": "der Lügenredner"
+    },
+    {
+      "surface": "שָֽׁקֶר",
+      "gloss": "Lügenredner"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:59.131260631Z",
+  "model": "glm-5.2"
+}

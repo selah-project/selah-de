@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Kenaan zeugte ⟨את⟩ Tzidon, seinen Erstgeborenen, und ⟨את⟩ Chet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Und Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tzidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "seinen Erstgeborenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Chet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:42.894703348Z",
+  "model": "glm-5.2"
+}

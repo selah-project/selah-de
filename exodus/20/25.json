@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und wenn du mir einen Altar aus Steinen machst, sollst du ihn nicht aus behauenen Steinen bauen — ⟨denn⟩ wenn du deine Klinge darüber schwingst, entweihst du ihn.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "einen Altar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "aus Steinen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du machst"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "sollst du bauen"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ihn (die Steine)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "aus behauenen (Stei­nen)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨denn⟩ wenn"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "deine Klinge"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "du schwingst"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "darüber"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "entweihst du ihn"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:03.385603525Z",
+  "model": "glm-5.2"
+}

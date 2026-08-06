@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Euer Land ⟨ist⟩ Verwüstung, eure Städte ⟨sind⟩ mit Feuer verbrannt; euren Acker — Fremde fressen ⟨את ihn⟩ vor euch, ⟨und⟩ ⟨er ist⟩ Verwüstung wie eine Umkehrung von Fremden.",
+  "tokens": [
+    {
+      "surface": "אַרְצְכֶ֣ם",
+      "gloss": "euer Land"
+    },
+    {
+      "surface": "שְׁמָמָ֔ה",
+      "gloss": "Verwüstung"
+    },
+    {
+      "surface": "עָרֵיכֶ֖ם",
+      "gloss": "eure Städte"
+    },
+    {
+      "surface": "שְׂרֻפ֣וֹת",
+      "gloss": "verbrannt"
+    },
+    {
+      "surface": "אֵ֑שׁ",
+      "gloss": "mit Feuer"
+    },
+    {
+      "surface": "אַדְמַתְכֶ֗ם",
+      "gloss": "euren Acker"
+    },
+    {
+      "surface": "לְנֶגְדְּכֶם֙",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "זָרִים֙",
+      "gloss": "Fremde"
+    },
+    {
+      "surface": "אֹכְלִ֣ים",
+      "gloss": "fressen"
+    },
+    {
+      "surface": "אֹתָ֔הּ",
+      "gloss": "⟨את ihn⟩",
+      "marks": "euren Acker"
+    },
+    {
+      "surface": "וּשְׁמָמָ֖ה",
+      "gloss": "und Verwüstung"
+    },
+    {
+      "surface": "כְּמַהְפֵּכַ֥ת",
+      "gloss": "wie eine Umkehrung"
+    },
+    {
+      "surface": "זָרִֽים",
+      "gloss": "von Fremden"
+    }
+  ],
+  "timestamp": "2026-08-06T03:10:20.604196131Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 95,
+  "translation": "Lasst uns seinem Angesicht vorangehen mit Dank, mit Liedern lasst uns ihm jauchzen!",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Lasst uns vorangehen"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "seinem Angesicht"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "mit Dank"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "mit Liedern"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "lasst uns jauchzen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:40.432402348Z",
+  "model": "glm-5.2"
+}

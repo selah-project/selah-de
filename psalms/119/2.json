@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Wie glücklich sind die, die seine Zeugnisse bewahren, ⟨die⟩ ihn suchen mit ganzem Herzen!",
+  "tokens": [
+    {
+      "surface": "אַ֭שְׁרֵי",
+      "gloss": "Wie glücklich sind"
+    },
+    {
+      "surface": "נֹצְרֵ֥י",
+      "gloss": "die bewahren"
+    },
+    {
+      "surface": "עֵדֹתָ֗יו",
+      "gloss": "seine Zeugnisse"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "mit ganzem"
+    },
+    {
+      "surface": "לֵ֥ב",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "יִדְרְשֽׁוּהוּ",
+      "gloss": "ihn suchen"
+    }
+  ],
+  "timestamp": "2026-08-06T16:02:13.118677414Z",
+  "model": "glm-5.2"
+}

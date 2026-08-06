@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Eine Unterweisung von Asaf. Warum, Elohim, hast du ⟨uns⟩ verworfen für immer, raucht dein Zorn gegen die Schafe deiner Weide?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Unterweisung"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "von Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "hast du verworfen"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "raucht"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "dein Zorn"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "gegen die Schafe"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "deiner Weide"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:58.271707803Z",
+  "model": "glm-5.2"
+}

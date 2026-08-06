@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Für immer, JHWH — ⟨dein⟩ Wort steht fest in den Himmeln.",
+  "tokens": [
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "Für immer"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דְּ֝בָרְךָ֗",
+      "gloss": "⟨dein⟩ Wort"
+    },
+    {
+      "surface": "נִצָּ֥ב",
+      "gloss": "steht fest"
+    },
+    {
+      "surface": "בַּשָּׁמָֽיִם",
+      "gloss": "in den Himmeln"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:27.880545659Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und er sprach zu seinen Söhnen: „Sattelt mir den Esel.\" Und sie sattelten ihm den Esel, und er ritt darauf.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seinen Söhnen"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Sattelt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "den Esel"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "Und sie sattelten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "den Esel"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "und er ritt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "darauf"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:17.105066658Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anatot und ⟨את⟩ ⟨ihre⟩ Weidefläche, und ⟨את⟩ Almon und ⟨את⟩ ⟨ihre⟩ Weidefläche — vier Städte.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Anatot"
+    },
+    {
+      "surface": "עֲנָתוֹת",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Weidefläche"
+    },
+    {
+      "surface": "מִגְרָשֶׁהָ",
+      "gloss": "⟨ihre⟩ Weidefläche"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Almon"
+    },
+    {
+      "surface": "עַלְמוֹן",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Weidefläche"
+    },
+    {
+      "surface": "מִגְרָשֶׁהָ",
+      "gloss": "⟨ihre⟩ Weidefläche"
+    },
+    {
+      "surface": "עָרִים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "אַרְבַּע",
+      "gloss": "vier"
+    }
+  ],
+  "timestamp": "2026-08-06T05:32:30.892260151Z",
+  "model": "glm-5.2"
+}

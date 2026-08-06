@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Eine Stimme spricht: „Rufe!\" Und er sagt: „Was soll ich rufen?\" „Alles Fleisch ⟨ist⟩ Gras, und all seine Beständigkeit ⟨ist⟩ wie die Blüte des Feldes.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Eine Stimme"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Rufe!"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Und er sagt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "soll ich rufen?"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Alles"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "Gras"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "seine Beständigkeit"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "wie die Blüte"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des Feldes"
+    }
+  ],
+  "timestamp": "2026-08-06T23:18:13.034455441Z",
+  "model": "glm-5.2"
+}

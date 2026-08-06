@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "JHWH hat ⟨את⟩ seinen Grimm vollendet, er hat die Glut seines Zorns ausgegossen, und er hat ein Feuer angezündet in Tzion, und es hat ihre Grundfesten aufgefressen.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "hat vollendet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Grimm"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "seinen Grimm"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "er hat ausgegossen"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "die Glut"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "seines Zorns"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "und er hat angezündet"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ein Feuer"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tzion"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "und es hat aufgefressen"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "ihre Grundfesten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:41.099363163Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und wenn du ⟨את⟩ diese unsere Sache auskündigst, dann werden wir rein von deinem Eid, den du uns geschworen ⟨hast⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "du auskündigst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese unsere Sache"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "unsere Sache"
+    },
+    {
+      "surface": "זה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "dann werden wir sein"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "rein"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "von deinem Eid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "du uns schwören ließest"
+    }
+  ],
+  "timestamp": "2026-08-05T20:53:33.748743433Z",
+  "model": "glm-5.2"
+}

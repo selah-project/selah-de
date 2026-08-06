@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und sie sollen eine Lade aus Akazienholz machen: zwei Ellen und eine halbe ⟨Elle⟩ ⟨sei⟩ seine Länge, und eine Elle und eine halbe ⟨Elle⟩ seine Breite, und eine Elle und eine halbe ⟨Elle⟩ seine Höhe.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Und sie sollen machen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "eine Lade"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "aus Holz"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "von Schittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "zwei Ellen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "und eine halbe"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "seine Länge"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "und eine Elle"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "und eine halbe"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "seine Breite"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "und eine Elle"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "und eine halbe"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "seine Höhe"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:56.179150097Z",
+  "model": "glm-5.2"
+}

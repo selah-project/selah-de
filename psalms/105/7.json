@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Er ⟨ist⟩ JHWH, unser Elohim — ⟨seine⟩ Rechtsordnungen ⟨sind⟩ auf der ganzen Erde.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Er"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "auf der ganzen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "⟨seine⟩ Rechtsordnungen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:25.437407824Z",
+  "model": "glm-5.2"
+}

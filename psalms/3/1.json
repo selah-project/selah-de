@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ein Musikstück von Dawid, als er vor Awischalom, seinem Sohn, floh.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Ein Musikstück"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "בְּבָרְחוֹ",
+      "gloss": "als er floh"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אַבְשָׁלוֹם",
+      "gloss": "Awischalom"
+    },
+    {
+      "surface": "בְּנוֹ",
+      "gloss": "seinem Sohn"
+    }
+  ],
+  "timestamp": "2026-08-06T09:12:56.321236041Z",
+  "model": "glm-5.2"
+}

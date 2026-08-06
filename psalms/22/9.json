@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "„Auf JHWH ⟨hat er⟩ gewälzt — ⟨er⟩ rette ihn, ⟨er⟩ befreie ihn, denn er hat Gefallen an ihm.“",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "gewälzt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "rette ihn"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "befreie ihn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "er hat Gefallen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "an ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:14.846695601Z",
+  "model": "glm-5.2"
+}

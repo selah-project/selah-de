@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Er schilt ⟨את⟩ das Meer, und ⟨er⟩ trocknet es aus, und alle Ströme macht er öde. Es welkt Baschan und Karmel, und die Blüte des Libanon welkt.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "Er schilt"
+    },
+    {
+      "surface": "בים",
+      "gloss": "⟨את⟩ das Meer"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "und ⟨er⟩ trocknet es aus"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "Ströme"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "macht er öde"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "Es welkt"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Baschan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "und Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "und die Blüte"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "des Libanon"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "welkt"
+    }
+  ],
+  "timestamp": "2026-08-06T15:20:11.461984496Z",
+  "model": "glm-5.2"
+}

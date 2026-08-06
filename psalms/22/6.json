@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Zu dir schrien sie und wurden entrissen, auf dich vertrauten sie und wurden nicht beschämt.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "schrien sie"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "und wurden entrissen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "vertrauten sie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "wurden sie beschämt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:43.727950070Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 146,
+  "translation": "JHWH behütet ⟨את⟩ die Fremdlinge; Waise und Witwe stützt er, und den Weg der Ruchlosen macht er krumm.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "behütet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Fremdlinge"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "die Fremdlinge"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "Waise"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "und Witwe"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "stützt er"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "und den Weg"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Ruchlosen"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "macht er krumm"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:13.034446548Z",
+  "model": "glm-5.2"
+}

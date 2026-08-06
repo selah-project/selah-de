@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Da starb der Sohn dieser Frau in der Nacht, weil sie sich auf ihn gelegt hatte.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Da starb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "der Sohn"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨der⟩ Frau"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "weil"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "sie sich gelegt hatte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ihn"
+    }
+  ],
+  "timestamp": "2026-08-05T21:25:47.659504106Z",
+  "model": "glm-5.2"
+}

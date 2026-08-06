@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "„Denn seitdem ich zu Paro gekommen bin, um in deinem Namen zu reden, ⟨ist es⟩ schlecht um dieses Volk bestellt, und ⟨du⟩ hast ⟨את⟩ dein Volk gar nicht befreit.“",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "Und seitdem"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ich gekommen bin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "um zu reden"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "in deinem Namen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ist es schlecht"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "und ⟨die⟩ Befreiung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "hast befreit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Volk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dein Volk"
+    }
+  ],
+  "timestamp": "2026-08-05T20:06:08.255515970Z",
+  "model": "glm-5.2"
+}

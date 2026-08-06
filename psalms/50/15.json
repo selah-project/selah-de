@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Und rufe mich an am Tag der Bedrängnis — ich werde dich retten, und du wirst mich ehren.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Und rufe mich an"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "der Bedrängnis"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ich werde dich retten"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "und du wirst mich ehren"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:44.712005865Z",
+  "model": "glm-5.2"
+}

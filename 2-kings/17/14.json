@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Aber sie hörten nicht, sondern sie verhärteten ⟨את⟩ ihren Nacken, wie der Nacken ihrer Väter, die nicht vertrauten auf JHWH, ihren Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Aber ⟨sie⟩ … nicht"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hörten"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "sondern sie verhärteten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Nacken"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "ihren Nacken"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "wie der Nacken"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ihrer Väter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "vertrauten"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "auf JHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ihren Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T01:36:17.140622985Z",
+  "model": "glm-5.2"
+}

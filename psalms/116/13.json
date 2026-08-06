@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Den Kelch der Rettungen hebe ich, und im Namen JHWHs rufe ich.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "den Kelch"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "der Rettungen"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "hebe ich"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "und im Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "rufe ich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:42.334635776Z",
+  "model": "glm-5.2"
+}

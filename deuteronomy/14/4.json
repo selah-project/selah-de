@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Dies ⟨ist⟩ das Vieh, das ihr essen dürft: Rind, Kleinvieh der Schafe und Kleinvieh der Ziegen.",
+  "tokens": [
+    {
+      "surface": "זֹ֥את",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "הַבְּהֵמָ֖ה",
+      "gloss": "das Vieh"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "תֹּאכֵ֑לוּ",
+      "gloss": "ihr essen dürft"
+    },
+    {
+      "surface": "שׁ֕וֹר",
+      "gloss": "Rind"
+    },
+    {
+      "surface": "שֵׂ֥ה",
+      "gloss": "Kleinvieh"
+    },
+    {
+      "surface": "כְשָׂבִ֖ים",
+      "gloss": "der Schafe"
+    },
+    {
+      "surface": "וְשֵׂ֥ה",
+      "gloss": "und Kleinvieh"
+    },
+    {
+      "surface": "עִזִּֽים",
+      "gloss": "der Ziegen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:45:33.172391128Z",
+  "model": "glm-5.2"
+}

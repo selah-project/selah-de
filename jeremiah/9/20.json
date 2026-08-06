@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 9:20",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Denn der Tod ist gestiegen durch unsere Fenster, ⟨er⟩ ist eingedrungen in unsere Paläste, um das Kind draußen auszurotten, die jungen Männer von den Plätzen.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "עָ֤לָה",
+      "gloss": "ist gestiegen"
+    },
+    {
+      "surface": "מָ֨וֶת֙",
+      "gloss": "der Tod"
+    },
+    {
+      "surface": "בְּחַלּוֹנֵ֔ינוּ",
+      "gloss": "durch unsere Fenster"
+    },
+    {
+      "surface": "בָּ֖א",
+      "gloss": "ist eingedrungen"
+    },
+    {
+      "surface": "בְּאַרְמְנוֹתֵ֑ינוּ",
+      "gloss": "in unsere Paläste"
+    },
+    {
+      "surface": "לְהַכְרִ֤ית",
+      "gloss": "um auszurotten"
+    },
+    {
+      "surface": "עוֹלָל֙",
+      "gloss": "das Kind"
+    },
+    {
+      "surface": "מִח֔וּץ",
+      "gloss": "draußen"
+    },
+    {
+      "surface": "בַּחוּרִ֖ים",
+      "gloss": "die jungen Männer"
+    },
+    {
+      "surface": "מֵרְחֹבֽוֹת",
+      "gloss": "von den Plätzen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:56:24.709912341Z",
+  "model": "glm-5.2"
+}

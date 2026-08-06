@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨את⟩ das Volk befiehl ⟨und sage⟩: Ihr zieht durch das Gebiet eurer Brüder, der Söhne Esaws, die in Seir wohnen, und sie werden sich vor euch fürchten — so hütet euch sehr.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "צו",
+      "gloss": "befiehl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und sage⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "zieht durch"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "das Gebiet"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "eurer Brüder"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaws"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "die wohnen"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "in Seir"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "und sie werden sich fürchten"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "so hütet euch"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:16.216973091Z",
+  "model": "glm-5.2"
+}

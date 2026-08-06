@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 90,
+  "translation": "Es ⟨soll⟩ erscheinen deinen Knechten ⟨את⟩ dein Werk, und deine Hoheit über ihren Söhnen.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Es ⟨soll⟩ erscheinen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deinen Knechten"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "⟨für⟩ deine Knechte"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "dein Werk"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "und deine Hoheit"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ihren Söhnen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:33.094427361Z",
+  "model": "glm-5.2"
+}

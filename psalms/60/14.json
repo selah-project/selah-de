@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 60,
+  "translation": "In Elohim werden wir Heldentat vollbringen, und ⟨er⟩ ist es, ⟨der⟩ unsere Bedränger niedertritt.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "In Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "werden wir … vollbringen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "Heldentat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und ⟨er⟩ ist es, ⟨der⟩"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "niedertritt"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "unsere Bedränger"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:03.030899980Z",
+  "model": "glm-5.2"
+}

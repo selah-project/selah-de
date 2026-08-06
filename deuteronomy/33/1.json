@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und dies ⟨ist⟩ der Segen, mit dem Mosche, der Mann des Elohim, ⟨את⟩ die Söhne Jisraels segnete, vor seinem Tod.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "der Segen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mit dem"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "segnete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "איש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "seinem Tod"
+    }
+  ],
+  "timestamp": "2026-08-06T00:49:04.886435241Z",
+  "model": "glm-5.2"
+}

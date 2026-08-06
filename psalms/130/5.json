@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 130,
+  "translation": "Ich hoffe auf JHWH, meine Nefesch hofft, und auf sein Wort warte ich.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "Ich hoffe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "auf JHWH"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "hofft"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "und auf sein Wort"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "warte ich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:24.116520376Z",
+  "model": "glm-5.2"
+}

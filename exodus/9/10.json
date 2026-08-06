@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und sie nahmen ⟨את⟩ den Ruß des Ofens und stellten sich vor Paro, und Mosche streute ihn gen Himmel. Und ⟨es⟩ wurden Geschwüre, Blasen, hervorbrechend, am Menschen und am Vieh.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "und sie nahmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Ruß des Ofens"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "Ruß"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "des Ofens"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "und sie stellten sich"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "und er streute"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn (den Ruß)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "gen Himmel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ wurde"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "Geschwüre"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "Blasen"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "hervorbrechend"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "am Menschen"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "und am Vieh"
+    }
+  ],
+  "timestamp": "2026-08-05T20:07:35.590341452Z",
+  "model": "glm-5.2"
+}

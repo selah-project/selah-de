@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 15:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Du aber wirst zu deinen Vätern kommen in Schalom, wirst begraben werden in gutem Greisenalter.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Du aber"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wirst kommen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "deinen Vätern"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in Schalom"
+    },
+    {
+      "surface": "תקבר",
+      "gloss": "wirst begraben werden"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "in Greisenalter"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "(einem) guten"
+    }
+  ],
+  "timestamp": "2026-08-06T09:40:30.430206048Z",
+  "model": "glm-5.2"
+}

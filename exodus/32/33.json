@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und JHWH sprach zu Mosche: „Wer ⟨immer⟩ an mir gesündigt hat, den werde ich auslöschen aus meinem Buch.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨immer⟩"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "gesündigt hat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "an mir"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "den werde ich auslöschen"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "aus meinem Buch"
+    }
+  ],
+  "timestamp": "2026-08-06T02:07:00.656888562Z",
+  "model": "glm-5.2"
+}

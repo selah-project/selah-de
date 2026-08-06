@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wer gutes Auges ⟨ist⟩, der wird gesegnet, denn er gibt von seinem Brot dem Armen.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Auge"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "wird gesegnet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "von seinem Brot"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "dem Armen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:36:11.735507188Z",
+  "model": "glm-5.2"
+}

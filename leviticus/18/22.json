@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ⟨bei⟩ ⟨את⟩ einem Mann sollst du nicht liegen wie die Liegestätten einer Frau — eine Abscheulichkeit ⟨ist⟩ er.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨bei⟩ ⟨את⟩",
+      "marks": "einem Mann"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "einem Mann"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "sollst du liegen"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "Liegestätten"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "einer Frau"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "eine Abscheulichkeit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:24.902654192Z",
+  "model": "glm-5.2"
+}

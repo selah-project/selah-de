@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 95,
+  "translation": "Deshalb schwor ich in meinem Zorn: Sie sollen nicht kommen in meine Ruhe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Deshalb"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "schwur ich"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "in meinem Zorn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ob⟩ sie"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "sollen kommen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "meine Ruhe"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:24.715229956Z",
+  "model": "glm-5.2"
+}

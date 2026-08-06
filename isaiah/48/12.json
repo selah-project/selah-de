@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Höre auf mich, Jaakow, und du, Jisra'el, ⟨mein⟩ Berufener: Ich bin ⟨es⟩, ich — ich ⟨bin⟩ der Erste, und auch ich ⟨bin⟩ der Letzte.",
+  "tokens": [
+    {
+      "surface": "שְׁמַ֤ע",
+      "gloss": "Höre"
+    },
+    {
+      "surface": "אֵלַי֙",
+      "gloss": "auf mich"
+    },
+    {
+      "surface": "יַֽעֲקֹ֔ב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "וְיִשְׂרָאֵ֖ל",
+      "gloss": "und ⟨du⟩ Jisra'el"
+    },
+    {
+      "surface": "מְקֹרָאִ֑י",
+      "gloss": "mein Berufener"
+    },
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "bin ⟨es⟩"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "רִאשׁ֑וֹן",
+      "gloss": "der Erste"
+    },
+    {
+      "surface": "אַ֖ף",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "אַחֲרֽוֹן",
+      "gloss": "der Letzte"
+    }
+  ],
+  "timestamp": "2026-08-06T10:12:30.134616490Z",
+  "model": "glm-5.2"
+}

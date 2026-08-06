@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und JHWH sprach zu Mosche: „Geh, steig hinab, denn dein Volk, das du heraufgeführt hast aus dem Land Mizrajim, hat sich verdorben.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "רד",
+      "gloss": "steig hinab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hat sich verdorben"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dein Volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "du heraufgeführt hast"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T20:13:15.715141765Z",
+  "model": "glm-5.2"
+}

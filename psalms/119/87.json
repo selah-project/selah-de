@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Fast haben sie mich auf der Erde vernichtet, und ich — ich habe deine Pikudim nicht verlassen.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Fast"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "haben sie mich vernichtet"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "habe ich verlassen"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "deine Pikudim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:47.051200552Z",
+  "model": "glm-5.2"
+}

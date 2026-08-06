@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Denn ⟨seine⟩ Sammler werden ⟨es⟩ essen und JHWH preisen, und ⟨seine⟩ Sammler werden ⟨es⟩ trinken in den Höfen meiner Heiligkeit.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מְאַסְפָיו֙",
+      "gloss": "seine Sammler"
+    },
+    {
+      "surface": "יֹאכְלֻ֔הוּ",
+      "gloss": "werden ⟨es⟩ essen"
+    },
+    {
+      "surface": "וְהִֽלְל֖וּ",
+      "gloss": "und preisen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וּֽמְקַבְּצָ֥יו",
+      "gloss": "und seine Sammler"
+    },
+    {
+      "surface": "יִשְׁתֻּ֖הוּ",
+      "gloss": "werden ⟨es⟩ trinken"
+    },
+    {
+      "surface": "בְּחַצְר֥וֹת",
+      "gloss": "in den Höfen"
+    },
+    {
+      "surface": "קָדְשִֽׁי",
+      "gloss": "meiner Heiligkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T21:57:42.133875598Z",
+  "model": "glm-5.2"
+}

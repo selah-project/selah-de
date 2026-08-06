@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Als Korban der Erstlingsgabe sollt ihr ⟨את⟩ sie JHWH darbringen, aber auf den Altar sollen sie nicht als Geruch der Befriedigung hinaufsteigen.",
+  "tokens": [
+    {
+      "surface": "קָרְבַּ֥ן",
+      "gloss": "Als Korban"
+    },
+    {
+      "surface": "רֵאשִׁ֛ית",
+      "gloss": "der Erstlingsgabe"
+    },
+    {
+      "surface": "תַּקְרִ֥יבוּ",
+      "gloss": "sollt ihr darbringen"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "aber auf"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֥חַ",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יַעֲל֖וּ",
+      "gloss": "sollen sie hinaufsteigen"
+    },
+    {
+      "surface": "לְרֵ֥יחַ",
+      "gloss": "als Geruch"
+    },
+    {
+      "surface": "נִיחֹֽחַ",
+      "gloss": "der Befriedigung"
+    }
+  ],
+  "timestamp": "2026-08-05T20:19:36.005308724Z",
+  "model": "glm-5.2"
+}

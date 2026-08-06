@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 29:9",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und Akisch antwortete und sagte zu Dawid: „Ich weiß, dass du gut bist in meinen Augen wie ein Bote Elohims. Aber die Fürsten der Pelischtim haben gesagt: ‚Er soll nicht mit uns hinaufziehen in den Kampf.'“",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Und ⟨es⟩ antwortete"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akisch"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨es⟩ sagte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ich weiß"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in meinen Augen"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "wie ein Bote"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "אך",
+      "gloss": "aber"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "die Fürsten"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "haben gesagt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "soll ⟨er⟩ hinaufziehen"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "mit uns"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in den Kampf"
+    }
+  ],
+  "timestamp": "2026-08-06T01:11:57.948418825Z",
+  "model": "glm-5.2"
+}

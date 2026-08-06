@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨an⟩ ⟨ihm⟩ werden viele straucheln, und sie werden fallen und zerbrochen werden, und sie werden verstrickt und gefangen werden.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "und sie werden straucheln"
+    },
+    {
+      "surface": "בם",
+      "gloss": "an ⟨ihm⟩"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "viele"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "und sie werden fallen"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "und sie werden zerbrochen werden"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "und sie werden verstrickt"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "und gefangen werden"
+    }
+  ],
+  "timestamp": "2026-08-06T05:57:26.493195544Z",
+  "model": "glm-5.2"
+}

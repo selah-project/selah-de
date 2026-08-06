@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Asschur wird uns nicht retten, auf ⟨ein⟩ Pferd werden wir nicht reiten, und wir werden nicht mehr sagen „⟨Unsere⟩ Elohim!“ ⟨zu⟩ dem Werk unserer Hände; denn in dir findet ⟨der⟩ Waise Erbarmen.",
+  "tokens": [
+    {
+      "surface": "אַשּׁוּר",
+      "gloss": "Asschur"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יוֹשִׁיעֵנוּ",
+      "gloss": "wird uns retten"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "סוּס",
+      "gloss": "⟨ein⟩ Pferd"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נִרְכַּב",
+      "gloss": "werden wir reiten"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "נֹאמַר",
+      "gloss": "werden wir sagen"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "אֱלֹהֵינוּ",
+      "gloss": "⟨Unsere⟩ Elohim!"
+    },
+    {
+      "surface": "לְמַעֲשֵׂה",
+      "gloss": "⟨zu⟩ dem Werk"
+    },
+    {
+      "surface": "יָדֵינוּ",
+      "gloss": "unserer Hände"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בְּךָ",
+      "gloss": "in dir"
+    },
+    {
+      "surface": "יְרֻחַם",
+      "gloss": "findet ⟨…⟩ Erbarmen"
+    },
+    {
+      "surface": "יָתֽוֹם",
+      "gloss": "⟨der⟩ Waise"
+    }
+  ],
+  "timestamp": "2026-08-06T09:09:23.443819895Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Denn gestern ⟨waren⟩ wir und ⟨wir⟩ kennen nichts, denn ein Schatten sind unsere Tage auf ⟨der⟩ Erde.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "תְמֹל",
+      "gloss": "gestern"
+    },
+    {
+      "surface": "אֲנַחְנוּ",
+      "gloss": "wir"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "נֵדָע",
+      "gloss": "kennen wir"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "צֵל",
+      "gloss": "ein Schatten"
+    },
+    {
+      "surface": "יָמֵינוּ",
+      "gloss": "sind unsere Tage"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "auf"
+    },
+    {
+      "surface": "אָרֶץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:33:06.820977315Z",
+  "model": "glm-5.2"
+}

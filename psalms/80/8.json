@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "Elohim der Scharen, wende uns zurück, und lass dein Gesicht leuchten, dann werden wir gerettet!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Scharen"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "wende uns zurück"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "und lass leuchten"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Gesicht"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "dann werden wir gerettet"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:04.738540202Z",
+  "model": "glm-5.2"
+}

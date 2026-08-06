@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Voller Huld und voller Erbarmen ⟨ist⟩ JHWH, langsam zum Zorn und groß an Chessed.",
+  "tokens": [
+    {
+      "surface": "חַנּ֣וּן",
+      "gloss": "voller Huld"
+    },
+    {
+      "surface": "וְרַח֣וּם",
+      "gloss": "und voller Erbarmen"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶ֥רֶךְ",
+      "gloss": "langsam"
+    },
+    {
+      "surface": "אַ֝פַּ֗יִם",
+      "gloss": "zum Zorn"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "und groß"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "an Chessed"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:04.050037254Z",
+  "model": "glm-5.2"
+}

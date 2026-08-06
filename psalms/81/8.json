@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 81,
+  "translation": "In der Bedrängnis riefst du, und ich rettete dich; ich antwortete dir im Verborgenen des Donners, ich prüfte dich an den Wassern von Meriwa. Sela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "In der Bedrängnis"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "riefst du"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "und ich rettete dich"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ich antwortete dir"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "im Verborgenen"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "des Donners"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "ich prüfte dich"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "מי",
+      "gloss": "den Wassern"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "von Meriwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T22:56:09.108180Z",
+  "model": "glm-5.2"
+}

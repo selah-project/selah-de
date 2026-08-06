@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Er sammelt wie einen Haufen die Wasser des Meeres, ⟨er⟩ gibt in Vorratskammern die Urfluten.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Er sammelt"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "wie einen Haufen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "הים",
+      "gloss": "des Meeres"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨er⟩ gibt"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "in Vorratskammern"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "die Urfluten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:21.813602237Z",
+  "model": "glm-5.2"
+}

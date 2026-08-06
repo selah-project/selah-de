@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Und sie freuten sich, denn ⟨es⟩ beruhigte sich, und er geleitete sie zum Hafen, ⟨den⟩ sie sich wünschten.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Und sie freuten sich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "⟨es⟩ beruhigte sich"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "und er geleitete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sie⟩ zum"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "Hafen"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "⟨den⟩ sie sich wünschten"
+    }
+  ],
+  "timestamp": "2026-08-06T10:32:03.122988100Z",
+  "model": "glm-5.2"
+}

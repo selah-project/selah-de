@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Schaul sandte Boten, um ⟨את⟩ Dawid zu holen, und sie sagte: „Er ⟨ist⟩ krank.“",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und er sandte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "Boten"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "um zu holen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "und sie sagte"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "krank"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-08-06T01:07:35.496645670Z",
+  "model": "glm-5.2"
+}

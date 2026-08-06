@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und das Mädchen war sehr schön, und sie wurde dem König zur Pflegerin, und sie bediente ihn; der König aber kannte sie nicht.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "Und das Mädchen"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "war schön"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "[Steigerung]"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "und sie wurde"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "zur Pflegerin"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "und sie bediente ihn"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "der König aber"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "kannte sie"
+    }
+  ],
+  "timestamp": "2026-08-06T05:47:37.380242085Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Von all meinen Aufständen reiße mich heraus — ⟨zum⟩ Schimpf eines Frevlers mache mich nicht.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "von all"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "meinen Aufständen"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "reiße mich heraus"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "Schimpf"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "eines Frevlers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "mache mich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:19.763881865Z",
+  "model": "glm-5.2"
+}

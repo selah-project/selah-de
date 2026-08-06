@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und nach dem Beben ⟨kam⟩ ein Feuer: nicht im Feuer ⟨war⟩ JHWH. Und nach dem Feuer ⟨kam⟩ ein Ton von dünner Stille.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Und nach"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "dem Beben"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ein Feuer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "באש",
+      "gloss": "im Feuer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "Und nach"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dem Feuer"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ein Ton"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "von Stille"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "dünner"
+    }
+  ],
+  "timestamp": "2026-08-06T03:03:03.472477009Z",
+  "model": "glm-5.2"
+}

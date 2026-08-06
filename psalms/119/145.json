@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich rief mit ganzem Herzen — antworte mir, JHWH! Deine Ordnungen will ich bewahren.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "Ich rief"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit ganzem"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antworte mir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Deine Ordnungen"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "will ich bewahren"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:38.806010760Z",
+  "model": "glm-5.2"
+}

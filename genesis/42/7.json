@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und Josef sah ⟨את⟩ seine Brüder und erkannte sie, aber er stellte sich fremd gegen sie und redete hart mit ihnen. Er sagte zu ihnen: „Von wo kommt ihr?\" Und sie sagten: „Aus dem Land Kenaan, um Nahrung zu kaufen.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥רְא",
+      "gloss": "Und sah"
+    },
+    {
+      "surface": "יוֹסֵ֛ף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Brüder"
+    },
+    {
+      "surface": "אֶחָ֖יו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "וַיַּכִּרֵ֑ם",
+      "gloss": "und erkannte sie"
+    },
+    {
+      "surface": "וַיִּתְנַכֵּ֨ר",
+      "gloss": "und er stellte sich fremd"
+    },
+    {
+      "surface": "אֲלֵיהֶ֜ם",
+      "gloss": "gegen sie"
+    },
+    {
+      "surface": "וַיְדַבֵּ֧ר",
+      "gloss": "und redete"
+    },
+    {
+      "surface": "אִתָּ֣ם",
+      "gloss": "mit ihnen"
+    },
+    {
+      "surface": "קָשׁ֗וֹת",
+      "gloss": "hart"
+    },
+    {
+      "surface": "וַיֹּ֤אמֶר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "אֲלֵהֶם֙",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "מֵאַ֣יִן",
+      "gloss": "von wo"
+    },
+    {
+      "surface": "בָּאתֶ֔ם",
+      "gloss": "kommt ihr"
+    },
+    {
+      "surface": "וַיֹּ֣אמְר֔וּ",
+      "gloss": "und sie sagten"
+    },
+    {
+      "surface": "מֵאֶ֥רֶץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "כְּנַ֖עַן",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לִשְׁבָּר",
+      "gloss": "um zu kaufen"
+    },
+    {
+      "surface": "אֹֽכֶל",
+      "gloss": "Nahrung"
+    }
+  ],
+  "timestamp": "2026-08-06T22:31:46.729413421Z",
+  "model": "glm-5.2"
+}

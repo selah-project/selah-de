@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Dawid schlug ⟨את⟩ Hadadeser, den Sohn Rechows, den König von Zowa, als er loszog, um seine Hand ⟨zurück⟩zubringen am Strom.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Und ⟨er⟩ schlug"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadeser"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadeser"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechows"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "von Zowa"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "als er loszog"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "um ⟨zurück⟩zubringen"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "am Strom"
+    }
+  ],
+  "timestamp": "2026-08-06T10:02:22.091113859Z",
+  "model": "glm-5.2"
+}

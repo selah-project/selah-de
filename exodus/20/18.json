@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und das ganze Volk sah ⟨את⟩ die Stimmen und ⟨את⟩ die Fackeln und ⟨את⟩ die Stimme des Schofar und ⟨את⟩ den rauchenden Berg. Da sah ⟨es⟩ das Volk, und sie zitterten und standen von ferne.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "Und das ganze"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "רֹאִים",
+      "gloss": "sah"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Stimmen"
+    },
+    {
+      "surface": "הַקּוֹלֹת",
+      "gloss": "die Stimmen"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Fackeln"
+    },
+    {
+      "surface": "הַלַּפִּידִם",
+      "gloss": "die Fackeln"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Stimme"
+    },
+    {
+      "surface": "קוֹל",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "הַשֹּׁפָר",
+      "gloss": "des Schofar"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Berg"
+    },
+    {
+      "surface": "הָהָר",
+      "gloss": "den Berg"
+    },
+    {
+      "surface": "עָשֵׁן",
+      "gloss": "rauchenden"
+    },
+    {
+      "surface": "וַיַּרְא",
+      "gloss": "Da sah"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "⟨es⟩ das Volk"
+    },
+    {
+      "surface": "וַיָּנֻעוּ",
+      "gloss": "und sie zitterten"
+    },
+    {
+      "surface": "וַיַּעַמְדוּ",
+      "gloss": "und standen"
+    },
+    {
+      "surface": "מֵרָחֹק",
+      "gloss": "von ferne"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:24.240486994Z",
+  "model": "glm-5.2"
+}

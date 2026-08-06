@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "Elohim, bring uns zurück, und lass dein Angesicht leuchten, dass wir gerettet werden!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bring uns zurück"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "und lass leuchten"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Angesicht"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "dass wir gerettet werden"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:34.431534204Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 57,
+  "translation": "Für den Chorleiter, „Al-taschchet“, von David, ein Michtam, als er vor Schaul in die Höhle floh.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Für den Chorleiter"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "„"
+    },
+    {
+      "surface": "תַּשְׁחֵת",
+      "gloss": "Al-taschchet"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "von David"
+    },
+    {
+      "surface": "מִכְתָּם",
+      "gloss": "ein Michtam"
+    },
+    {
+      "surface": "בְּבָרְחוֹ",
+      "gloss": "als er floh"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "vor"
+    },
+    {
+      "surface": "שָׁאוּל",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "בַּמְּעָרָה",
+      "gloss": "in die Höhle"
+    }
+  ],
+  "timestamp": "2026-08-06T21:24:06.685992198Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Dem Chormeister. Von Dawid. Ein Tor sprach in seinem Herzen: „Kein Elohim.“ Sie handelten verdorben, sie verabscheuten ⟨als⟩ Greuel; es gibt keinen, der Gutes tut.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Dem Chormeister"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "Von Dawid"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "נָבָל",
+      "gloss": "ein Tor"
+    },
+    {
+      "surface": "בְּלִבּוֹ",
+      "gloss": "in seinem Herzen"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "Kein"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הִשְׁחִיתוּ",
+      "gloss": "Sie handelten verdorben"
+    },
+    {
+      "surface": "הִתְעִיבוּ",
+      "gloss": "sie verabscheuten"
+    },
+    {
+      "surface": "עֲלִילָה",
+      "gloss": "Greuel"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "es gibt keinen"
+    },
+    {
+      "surface": "עֹשֵׂה",
+      "gloss": "der tut"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "Gutes"
+    }
+  ],
+  "timestamp": "2026-08-06T22:46:44.318400527Z",
+  "model": "glm-5.2"
+}

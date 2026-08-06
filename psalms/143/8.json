@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 143,
+  "translation": "Lass mich hören am Morgen dein Chessed, denn auf dich habe ich vertraut. Lass mich erkennen den Weg, den ich gehen soll, denn zu dir habe ich erhoben meine Nefesch.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "Lass mich hören"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "habe ich vertraut"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "Lass mich erkennen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "זו",
+      "gloss": "den"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ich gehen soll"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "habe ich erhoben"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:41.568975957Z",
+  "model": "glm-5.2"
+}

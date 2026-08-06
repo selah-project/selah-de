@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und sie dienten den Gilulim, über die JHWH zu ihnen gesagt hatte: „Ihr sollt ⟨את⟩ diese Sache nicht tun.“",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Und sie dienten"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "den Gilulim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "über die"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesagt hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ihr sollt tun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Sache"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diese"
+    }
+  ],
+  "timestamp": "2026-08-05T21:38:44.602944506Z",
+  "model": "glm-5.2"
+}

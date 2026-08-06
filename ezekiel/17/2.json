@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Menschensohn, gib ⟨ein⟩ Rätsel auf und treibe ⟨ein⟩ Gleichnis zum Haus Jisraels!",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨des⟩ Menschen"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "gib ⟨ein⟩ auf"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "Rätsel"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "und treibe"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Gleichnis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨dem⟩ Haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T03:46:32.577407851Z",
+  "model": "glm-5.2"
+}

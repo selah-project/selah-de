@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Meine Augen schwinden nach deinem Ausspruch, ⟨und ich sage⟩: Wann wirst du mich trösten?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "schwinden"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Meine Augen"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "nach deinem Ausspruch"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und ich sage⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Wann"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "wirst du mich trösten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:06.177169257Z",
+  "model": "glm-5.2"
+}

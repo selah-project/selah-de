@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und vollendet wurden der Himmel und die Erde und all ⟨ihr⟩ Heer.",
+  "tokens": [
+    {
+      "surface": "וַיְכֻלּ֛וּ",
+      "gloss": "Und vollendet wurden"
+    },
+    {
+      "surface": "הַשָּׁמַ֥יִם",
+      "gloss": "der Himmel"
+    },
+    {
+      "surface": "וְהָאָ֖רֶץ",
+      "gloss": "und die Erde"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "צְבָאָֽם",
+      "gloss": "⟨ihr⟩ Heer"
+    }
+  ],
+  "timestamp": "2026-08-06T00:02:58.997443966Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 86,
+  "translation": "Sei mir gnädig, Adonai, denn zu dir rufe ich den ganzen Tag.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Sei mir gnädig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "rufe ich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:07.035258227Z",
+  "model": "glm-5.2"
+}

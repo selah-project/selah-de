@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "⟨את⟩ den Keniter und ⟨את⟩ den Kenisiter und ⟨את⟩ den Kadmoniter",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Keniter"
+    },
+    {
+      "surface": "הַקֵּינִי",
+      "gloss": "den Keniter"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Kenisiter"
+    },
+    {
+      "surface": "הַקְּנִזִּי",
+      "gloss": "den Kenisiter"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Kadmoniter"
+    },
+    {
+      "surface": "הַקַּדְמֹנִי",
+      "gloss": "den Kadmoniter"
+    }
+  ],
+  "timestamp": "2026-08-06T01:53:28.724677848Z",
+  "model": "glm-5.2"
+}

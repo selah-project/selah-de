@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Bringt JHWH ⟨den⟩ Kabod ⟨seines⟩ Namens, werft euch nieder vor JHWH in der Pracht ⟨der⟩ Heiligkeit.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Bringt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "⟨den⟩ Kabod"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨seines⟩ Namens"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "werft euch nieder vor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "in der Pracht"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨der⟩ Heiligkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:27.470346979Z",
+  "model": "glm-5.2"
+}

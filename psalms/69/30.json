@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Und ⟨ich⟩ ⟨bin⟩ elend und schmerzend — deine Rettung, Elohim, ⟨soll⟩ mich aufrichten.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Und ⟨ich⟩"
+    },
+    {
+      "surface": "עני",
+      "gloss": "elend"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "und schmerzend"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "deine Rettung"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "⟨soll⟩ mich aufrichten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:05.955456351Z",
+  "model": "glm-5.2"
+}

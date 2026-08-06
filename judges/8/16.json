@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨er⟩ nahm die Ältesten der Stadt und ⟨את⟩ die Wüstendornen und ⟨את⟩ die Binsen und züchtigte mit ihnen ⟨את⟩ die Männer Sukkots.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und ⟨er⟩ nahm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ältesten der Stadt"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die Ältesten"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Wüstendornen"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "die Dornen"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "der Wüste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Binsen"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "die Binsen"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "und züchtigte"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mit ihnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Männer Sukkots"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkots"
+    }
+  ],
+  "timestamp": "2026-08-05T21:02:31.763865721Z",
+  "model": "glm-5.2"
+}

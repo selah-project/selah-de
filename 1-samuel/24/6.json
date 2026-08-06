@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und es geschah danach, da schlug ⟨das⟩ Herz ⟨des⟩ Dawid ihn, wegen ⟨des⟩ Saumes, den er von dem abgeschnitten hatte, der Schaul gehörte —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "danach"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "da schlug"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herz"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "er abgeschnitten hatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saum"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "Saum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Schaul gehörte"
+    }
+  ],
+  "timestamp": "2026-08-06T01:10:28.232723376Z",
+  "model": "glm-5.2"
+}

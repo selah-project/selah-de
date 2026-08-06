@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 108,
+  "translation": "Bereit ⟨ist⟩ mein Herz, Elohim; ich will singen und will spielen, auch meine Herrlichkeit.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Bereit"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ich will singen"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "und will spielen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "auch"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "meine Herrlichkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:29.439550978Z",
+  "model": "glm-5.2"
+}

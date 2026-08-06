@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 83,
+  "translation": "Gewal und ⟨das⟩ von Ammon und Amalek, Pleschet mit den Bewohnern vonzor.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gewal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "und ⟨das⟩ von Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "und Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pleschet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "den Bewohnern"
+    },
+    {
+      "surface": "צור",
+      "gloss": "vonzor"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:25.759216972Z",
+  "model": "glm-5.2"
+}

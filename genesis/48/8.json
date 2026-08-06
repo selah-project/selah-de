@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Und Jisra'el sah ⟨את⟩ die Söhne Josefs und sagte: „Wer sind diese?“",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Und sah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Josefs"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sind diese"
+    }
+  ],
+  "timestamp": "2026-08-06T09:43:56.512604958Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Sie alle sind gerade ⟨für⟩ den Verstehenden und richtig ⟨für⟩ die, die Erkenntnis finden.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "sie alle"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "sind gerade"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "für den Verstehenden"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "und richtig"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "für die, die finden"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Erkenntnis"
+    }
+  ],
+  "timestamp": "2026-08-05T23:09:30.471048111Z",
+  "model": "glm-5.2"
+}

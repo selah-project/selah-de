@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und wir sagten: Lasst uns ⟨nun⟩ für uns ⟨daran⟩ gehen, ⟨zu⟩ bauen ⟨את⟩ den Altar — nicht für ⟨ein⟩ Ola und nicht für Schlachtung.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Und wir sagten"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "Lasst uns ⟨daran⟩ gehen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nun⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "für uns"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "⟨zu⟩ bauen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "für ⟨ein⟩ Ola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "für Schlachtung"
+    }
+  ],
+  "timestamp": "2026-08-06T00:54:58.573617677Z",
+  "model": "glm-5.2"
+}

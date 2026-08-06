@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Daniel ⟨war⟩ bis ins erste Jahr des Koresch, des Königs.",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי֙",
+      "gloss": "Und ⟨war⟩"
+    },
+    {
+      "surface": "דָּֽנִיֵּ֔אל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "שְׁנַ֥ת",
+      "gloss": "ins Jahr"
+    },
+    {
+      "surface": "אַחַ֖ת",
+      "gloss": "erste"
+    },
+    {
+      "surface": "לְכ֥וֹרֶשׁ",
+      "gloss": "des Koresch"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-06T16:04:55.893439114Z",
+  "model": "glm-5.2"
+}

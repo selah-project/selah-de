@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und deine Speise, die du essen wirst, soll nach Gewicht ⟨sein⟩: zwanzig Schekel für den Tag, von Zeit bis Zeit sollst du sie essen.",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "Und deine Speise"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "du essen wirst"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "nach Gewicht"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zwanzig"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "Schekel"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "für den Tag"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "von Zeit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עת",
+      "gloss": "Zeit"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "sollst du sie essen"
+    }
+  ],
+  "timestamp": "2026-08-06T21:21:04.614763491Z",
+  "model": "glm-5.2"
+}

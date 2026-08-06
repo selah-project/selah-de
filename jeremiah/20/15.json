@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Verflucht ⟨seist du⟩, der Mann, der ⟨את⟩ meinem Vater vermeldete und sprach: „Dir wurde ein Sohn geboren, ein männlicher\" — ⟨und ihn⟩ sehr erfreute!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vermeldete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinem Vater"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meinem Vater"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wurde geboren"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Dir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ein Sohn"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ein männlicher"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "erfreute"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T03:31:02.675487367Z",
+  "model": "glm-5.2"
+}

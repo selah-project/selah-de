@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und der Kohen lässt das Fett auf dem Altar in Rauch aufgehen, ⟨את⟩ das Fett, und die Brust wird für Aharon und seine Söhne sein.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "und lässt in Rauch aufgehen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Fett"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "das Fett"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "auf dem Altar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und ⟨sie⟩ wird sein"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "die Brust"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "für Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "und für seine Söhne"
+    }
+  ],
+  "timestamp": "2026-08-06T02:08:46.273055766Z",
+  "model": "glm-5.2"
+}

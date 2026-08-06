@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Das Wort, das Jeschajahu, der Sohn des Amoz, schaute — über Jehuda und Jeruschalajim.",
+  "tokens": [
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "Das Wort"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "חָזָה",
+      "gloss": "schaute"
+    },
+    {
+      "surface": "יְשַֽׁעְיָ֖הוּ",
+      "gloss": "Jeschajahu"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אָמֽוֹץ",
+      "gloss": "des Amoz"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "יְהוּדָ֖ה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וִירוּשָׁלִָֽם",
+      "gloss": "und Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-06T22:42:25.842103680Z",
+  "model": "glm-5.2"
+}

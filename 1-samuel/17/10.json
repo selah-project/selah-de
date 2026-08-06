@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und der Pelischti sprach: „Ich habe ⟨את⟩ die Schlachtreihen Jisra'els heute geschmäht; gebt mir einen Mann, dass wir zusammen kämpfen!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "der Pelischti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "habe geschmäht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Schlachtreihen Jisra'els"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "die Schlachtreihen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "gebt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "einen Mann"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "dass wir kämpfen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zusammen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:40:52.079531973Z",
+  "model": "glm-5.2"
+}

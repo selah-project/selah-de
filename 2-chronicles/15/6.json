@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und ⟨es wurde⟩ Volk an Volk zerschmettert und Stadt an Stadt, denn Elohim hatte sie mit aller Bedrängnis aufgewühlt.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "und ⟨es wurde⟩ zerschmettert"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "an Volk"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "und Stadt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "an Stadt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "hatte sie aufgewühlt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit aller"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "Bedrängnis"
+    }
+  ],
+  "timestamp": "2026-08-06T22:49:41.483571983Z",
+  "model": "glm-5.2"
+}

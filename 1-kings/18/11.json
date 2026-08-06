@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und nun sagst du: Geh, sag deinem Herrn: Siehe, Elia ist hier!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagst"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sag"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "deinem Herrn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    }
+  ],
+  "timestamp": "2026-08-06T03:02:02.049869540Z",
+  "model": "glm-5.2"
+}

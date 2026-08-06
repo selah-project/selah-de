@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Verlasst euch nicht auf Bedrückung, und ⟨werdet⟩ nicht eitel ⟨im⟩ Raub. Wenn Reichtum sich mehrt — ⟨setzt⟩ ⟨euer⟩ Herz nicht ⟨darauf⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "verlasst euch"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "auf Bedrückung"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "und ⟨im⟩ Raub"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "⟨werdet⟩ eitel"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "Reichtum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "sich mehrt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "⟨setzt⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herz"
+    }
+  ],
+  "timestamp": "2026-08-06T15:22:59.011264873Z",
+  "model": "glm-5.2"
+}

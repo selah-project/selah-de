@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und der Kohen gab den Befehlshabern der Hundertschaften ⟨את⟩ die Lanze und ⟨את⟩ die Schilde, die dem König Dawid gehörten, die im Haus JHWHs ⟨waren⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Und … gab"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "den Befehlshabern"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "der Hundertschaften"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lanze"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "die Lanze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Schilde"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "die Schilde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-05T21:37:46.215428054Z",
+  "model": "glm-5.2"
+}

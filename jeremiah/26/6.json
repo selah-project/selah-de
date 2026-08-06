@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "dann werde ich ⟨את⟩ dieses Haus wie Schilo geben und ⟨את⟩ diese Stadt zur Verfluchung für alle Völker der Erde geben.“",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dann werde ich geben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "wie Schilo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diese Stadt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "werde ich geben"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "zur Verfluchung"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "für alle"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:06:37.420907090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Du wirst sie zerschlagen mit eisernem Zepter, wie ein Töpfergefäß zerschmettern ⟨wirst du⟩ sie.",
+  "tokens": [
+    {
+      "surface": "תְּ֭רֹעֵם",
+      "gloss": "Du wirst sie zerschlagen"
+    },
+    {
+      "surface": "בְּשֵׁ֣בֶט",
+      "gloss": "mit Zepter"
+    },
+    {
+      "surface": "בַּרְזֶ֑ל",
+      "gloss": "Eisen"
+    },
+    {
+      "surface": "כִּכְלִ֖י",
+      "gloss": "wie ein Gefäß"
+    },
+    {
+      "surface": "יוֹצֵ֣ר",
+      "gloss": "Töpfer"
+    },
+    {
+      "surface": "תְּנַפְּצֵֽם",
+      "gloss": "zerschmettern ⟨wirst du⟩ sie"
+    }
+  ],
+  "timestamp": "2026-08-05T22:43:02.272444672Z",
+  "model": "glm-5.2"
+}

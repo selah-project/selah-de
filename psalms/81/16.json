@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 81,
+  "translation": "Die JHWH hassen, müssten sich vor ihm beugen, und ihre Zeit ⟨wäre⟩ ewig.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Die … hassen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "müssten sich beugen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨wäre⟩"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "ihre Zeit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ewig"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:09.753358791Z",
+  "model": "glm-5.2"
+}

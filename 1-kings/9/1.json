@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und es geschah, als Schelomo fertig war, ⟨את⟩ das Haus JHWHs und ⟨את⟩ das Haus des Königs zu bauen, und ⟨את⟩ alles, was Schelomo zu tun begehrte und zu tun wünschte —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "als fertig war"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "zu bauen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus JHWHs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Haus des Königs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alles Begehrliche"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "Begehrliche"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "zu tun wünschte"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zu tun"
+    }
+  ],
+  "timestamp": "2026-08-05T21:27:24.538647961Z",
+  "model": "glm-5.2"
+}

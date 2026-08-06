@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim segnete ⟨את⟩ sie und sprach: „Seid fruchtbar und mehrt euch und füllt ⟨את⟩ die Wasser in den Meeren, und ⟨das⟩ Geflügel soll sich mehren auf ⟨der⟩ Erde.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Und segnete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Seid fruchtbar"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "und mehrt euch"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "und füllt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wasser"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in den Meeren"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "und das Geflügel"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "soll sich mehren"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T00:03:13.403421455Z",
+  "model": "glm-5.2"
+}

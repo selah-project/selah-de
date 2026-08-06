@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "„Ziegelsteine sind gefallen, ⟨aber⟩ Behauenes werden wir bauen; Sykomoren sind gefällt, ⟨aber⟩ Zedern werden wir ⟨dafür⟩ einsetzen.“",
+  "tokens": [
+    {
+      "surface": "לְבֵנִ֥ים",
+      "gloss": "Ziegelsteine"
+    },
+    {
+      "surface": "נָפָ֖לוּ",
+      "gloss": "sind gefallen"
+    },
+    {
+      "surface": "וְגָזִ֣ית",
+      "gloss": "⟨aber⟩ Behauenes"
+    },
+    {
+      "surface": "נִבְנֶ֑ה",
+      "gloss": "werden wir bauen"
+    },
+    {
+      "surface": "שִׁקְמִ֣ים",
+      "gloss": "Sykomoren"
+    },
+    {
+      "surface": "גֻּדָּ֔עוּ",
+      "gloss": "sind gefällt"
+    },
+    {
+      "surface": "וַאֲרָזִ֖ים",
+      "gloss": "⟨aber⟩ Zedern"
+    },
+    {
+      "surface": "נַחֲלִֽיף",
+      "gloss": "werden wir ⟨dafür⟩ einsetzen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:45:03.085254424Z",
+  "model": "glm-5.2"
+}

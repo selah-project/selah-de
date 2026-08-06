@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Es soll schwer werden die Arbeit auf den Männern, und sie sollen ⟨damit⟩ arbeiten, und sie sollen nicht achten auf Lügenworte.",
+  "tokens": [
+    {
+      "surface": "תִּכְבַּד",
+      "gloss": "es soll schwer werden"
+    },
+    {
+      "surface": "הָעֲבֹדָה",
+      "gloss": "die Arbeit"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הָאֲנָשִׁים",
+      "gloss": "den Männern"
+    },
+    {
+      "surface": "וְיַעֲשׂוּ",
+      "gloss": "und sie sollen arbeiten"
+    },
+    {
+      "surface": "בָהּ",
+      "gloss": "⟨damit⟩"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יִשְׁעוּ",
+      "gloss": "sie sollen achten"
+    },
+    {
+      "surface": "בְּדִבְרֵי",
+      "gloss": "auf Worte"
+    },
+    {
+      "surface": "שָֽׁקֶר",
+      "gloss": "von Lügen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:01:12.314280438Z",
+  "model": "glm-5.2"
+}

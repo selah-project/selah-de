@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Denn ⟨jeder⟩ Mann, ⟨jeder⟩ Mann, der ⟨את⟩ seinen Vater und ⟨את⟩ seine Mutter verflucht — Tod soll er sterben; seinen Vater und seine Mutter hat er verflucht, sein Blut ⟨ist⟩ auf ihm.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "⟨jeder⟩ Mann"
+    },
+    {
+      "surface": "אִ֗ישׁ",
+      "gloss": "⟨jeder⟩ Mann"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יְקַלֵּ֧ל",
+      "gloss": "verflucht"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Vater"
+    },
+    {
+      "surface": "אָבִ֛יו",
+      "gloss": "seinen Vater"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Mutter"
+    },
+    {
+      "surface": "אִמּ֖וֹ",
+      "gloss": "seine Mutter"
+    },
+    {
+      "surface": "מ֣וֹת",
+      "gloss": "Tod"
+    },
+    {
+      "surface": "יוּמָ֑ת",
+      "gloss": "soll er sterben"
+    },
+    {
+      "surface": "אָבִ֧יו",
+      "gloss": "seinen Vater"
+    },
+    {
+      "surface": "וְאִמּ֛וֹ",
+      "gloss": "und seine Mutter"
+    },
+    {
+      "surface": "קִלֵּ֖ל",
+      "gloss": "hat er verflucht"
+    },
+    {
+      "surface": "דָּמָ֥יו",
+      "gloss": "sein Blut"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "auf ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T14:53:19.810571857Z",
+  "model": "glm-5.2"
+}

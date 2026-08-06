@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "(nur ⟨את⟩ das Gold und ⟨את⟩ das Silber, ⟨את⟩ die Bronze, ⟨את⟩ das Eisen, ⟨את⟩ das Zinn und ⟨את⟩ das Blei)",
+  "tokens": [
+    {
+      "surface": "אַךְ",
+      "gloss": "nur"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Gold"
+    },
+    {
+      "surface": "הַזָּהָב",
+      "gloss": "das Gold"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Silber"
+    },
+    {
+      "surface": "הַכָּסֶף",
+      "gloss": "das Silber"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Bronze"
+    },
+    {
+      "surface": "הַנְּחֹשֶׁת",
+      "gloss": "die Bronze"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Eisen"
+    },
+    {
+      "surface": "הַבַּרְזֶל",
+      "gloss": "das Eisen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Zinn"
+    },
+    {
+      "surface": "הַבְּדִיל",
+      "gloss": "das Zinn"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Blei"
+    },
+    {
+      "surface": "הָעֹפֶרֶת",
+      "gloss": "das Blei"
+    }
+  ],
+  "timestamp": "2026-08-06T00:39:35.279511213Z",
+  "model": "glm-5.2"
+}

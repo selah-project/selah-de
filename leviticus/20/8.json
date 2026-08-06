@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ihr sollt halten ⟨את⟩ meine Ordnungen und ihr sollt sie tun. Ich bin JHWH, ⟨der⟩ euch heiligt.",
+  "tokens": [
+    {
+      "surface": "וּשְׁמַרְתֶּם֙",
+      "gloss": "Und ihr sollt halten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Ordnungen"
+    },
+    {
+      "surface": "חֻקֹּתַ֔י",
+      "gloss": "meine Ordnungen"
+    },
+    {
+      "surface": "וַעֲשִׂיתֶ֖ם",
+      "gloss": "und ihr sollt tun"
+    },
+    {
+      "surface": "אֹתָ֑ם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "bin JHWH"
+    },
+    {
+      "surface": "מְקַדִּשְׁכֶֽם",
+      "gloss": "⟨der⟩ euch heiligt"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:22.727963107Z",
+  "model": "glm-5.2"
+}

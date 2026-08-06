@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 6:5",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Wende deine Augen weg von mir, denn sie ⟨haben⟩ mich überwältigt! Dein Haar ⟨ist⟩ wie eine Herde von Ziegen, die weiden von Gilad herab.",
+  "tokens": [
+    {
+      "surface": "הָסֵּבִי",
+      "gloss": "Wende"
+    },
+    {
+      "surface": "עֵינַיִךְ",
+      "gloss": "deine Augen"
+    },
+    {
+      "surface": "מִנֶּגְדִּי",
+      "gloss": "weg von mir"
+    },
+    {
+      "surface": "שֶׁהֵם",
+      "gloss": "denn sie"
+    },
+    {
+      "surface": "הִרְהִיבֻנִי",
+      "gloss": "mich überwältigt"
+    },
+    {
+      "surface": "שַׂעְרֵךְ",
+      "gloss": "dein Haar"
+    },
+    {
+      "surface": "כְּעֵדֶר",
+      "gloss": "wie eine Herde"
+    },
+    {
+      "surface": "הָעִזִּים",
+      "gloss": "von Ziegen"
+    },
+    {
+      "surface": "שֶׁגָּלְשׁוּ",
+      "gloss": "die weiden"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הַגִּלְעָד",
+      "gloss": "Gilad herab"
+    }
+  ],
+  "timestamp": "2026-08-05T23:27:04.961834126Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 99,
+  "translation": "JHWH, unser Elohim, du antwortetest ihnen, ein El, der vergibt, warst du ihnen, und ein Rächer über ihre Taten.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "du antwortetest ihnen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ein El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "der vergibt"
+    },
+    {
+      "surface": "היית",
+      "gloss": "warst"
+    },
+    {
+      "surface": "להם",
+      "gloss": "du ihnen"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "und ein Rächer"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "ihre Taten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:57.263034031Z",
+  "model": "glm-5.2"
+}

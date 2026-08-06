@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "JHWH wird ihn nicht in seiner Hand verlassen und ihn nicht verurteilen, wenn ⟨er⟩ gerichtet wird.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "wird ihn verlassen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in seiner Hand"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "ihn verurteilen"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "wenn ⟨er⟩ gerichtet wird"
+    }
+  ],
+  "timestamp": "2026-08-06T15:22:32.491620510Z",
+  "model": "glm-5.2"
+}

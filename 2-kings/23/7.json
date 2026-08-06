@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und er riss ⟨את⟩ die Häuser der Kadeschim ab, die im Haus JHWHs waren, wo die Frauen dort Häuser für die Aschera webten.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "Und er riss ab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Häuser"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "die Häuser"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "der Kadeschim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waren, wo"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "die Frauen"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "webten"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "Häuser"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "für die Aschera"
+    }
+  ],
+  "timestamp": "2026-08-05T21:41:50.753602225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und du, befiehl ⟨את⟩ den Kohanim, den Trägern der Lade des Brit, und sprich: „Wenn ihr kommt bis an den Rand der Wasser des Jardens, im Jarden sollt ihr stehen.“",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Und du"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "befiehl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Kohanim"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "den Kohanim"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "den Trägern"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "der Lade"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "des Brit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sprich"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Wenn ihr kommt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis an"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "den Rand"
+    },
+    {
+      "surface": "מי",
+      "gloss": "der Wasser"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "des Jardens"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "im Jarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "sollt ihr stehen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:50:26.324669646Z",
+  "model": "glm-5.2"
+}

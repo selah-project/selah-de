@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Der Löwe geht zugrunde ohne Beute, und die Jungen der Löwin zerstreuen sich.",
+  "tokens": [
+    {
+      "surface": "לַ֭יִשׁ",
+      "gloss": "der Löwe"
+    },
+    {
+      "surface": "אֹבֵ֣ד",
+      "gloss": "geht zugrunde"
+    },
+    {
+      "surface": "מִבְּלִ֣י",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "טָ֑רֶף",
+      "gloss": "Beute"
+    },
+    {
+      "surface": "וּבְנֵ֥י",
+      "gloss": "und die Jungen"
+    },
+    {
+      "surface": "לָבִ֗יא",
+      "gloss": "der Löwin"
+    },
+    {
+      "surface": "יִתְפָּרָֽדוּ",
+      "gloss": "zerstreuen sich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:16:27.160389345Z",
+  "model": "glm-5.2"
+}

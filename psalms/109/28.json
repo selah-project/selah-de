@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Sie fluchen — und du, du wirst segnen; sie stehen auf und werden beschämt, und dein Knecht wird sich freuen.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Sie fluchen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie (selbst)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "du wirst segnen"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "sie stehen auf"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "und werden beschämt"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "und dein Knecht"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "wird sich freuen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:14.662177586Z",
+  "model": "glm-5.2"
+}

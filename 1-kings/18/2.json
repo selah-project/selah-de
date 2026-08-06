@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Da ging Elíahu hin, um sich Awab zu zeigen. ⟨Und⟩ der Hunger war hart in Schomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Da ging ⟨…⟩ hin"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elíahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "um sich zu zeigen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨bei⟩"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Awab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "und der Hunger"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "war hart"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Schomron"
+    }
+  ],
+  "timestamp": "2026-08-06T03:01:49.039614495Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und JHWH sprach zu Mosche in Midjan: „Geh, kehre zurück nach Mizrajim, denn gestorben sind alle Männer, die ⟨את⟩ deine Nefesch suchten.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "in Midjan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kehre zurück"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nach Mizrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "gestorben sind"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "die suchten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Nefesch"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "deine Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T20:12:43.578653442Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Denn mein ⟨ist⟩ alles Wild des Waldes, das Vieh auf den Bergen von Tausenden.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "mir ⟨gehört⟩ \/ mein"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "חַיְתוֹ",
+      "gloss": "Wild"
+    },
+    {
+      "surface": "יַעַר",
+      "gloss": "des Waldes"
+    },
+    {
+      "surface": "בְּהֵמוֹת",
+      "gloss": "das Vieh"
+    },
+    {
+      "surface": "בְּהַרְרֵי",
+      "gloss": "auf den Bergen"
+    },
+    {
+      "surface": "אֶלֶף",
+      "gloss": "von Tausenden"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:52.205967888Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und zugrunde gehen wird das ganze Haus Achabs, und ich werde ausrotten dem Achab ⟨einen⟩ Mastin an der Wand und ⟨einen⟩ Eingesperrten und ⟨einen⟩ Verlassenen in Jisra'el.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "und zugrunde gehen wird"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabs"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "und ich werde ausrotten"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "dem Achab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "Mastin an der Wand"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "an der Wand"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "und Eingesperrten"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "und Verlassenen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-06T01:33:19.494694202Z",
+  "model": "glm-5.2"
+}

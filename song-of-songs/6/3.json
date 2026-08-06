@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Ich ⟨gehöre⟩ meinem Geliebten, und mein Geliebter ⟨gehört⟩ mir — ⟨er⟩, der weidet unter den Lilien.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "⟨gehöre⟩ meinem Geliebten"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "und mein Geliebter"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨gehört⟩ mir"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "⟨er⟩, der weidet"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "unter den Lilien"
+    }
+  ],
+  "timestamp": "2026-08-05T23:26:52.019182848Z",
+  "model": "glm-5.2"
+}

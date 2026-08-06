@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und Mosche legte ⟨את⟩ die Stäbe vor JHWH nieder, im Zelt der Zeugin.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "und er legte nieder"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stäbe"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "die Stäbe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "im Zelt"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "der Zeugin"
+    }
+  ],
+  "timestamp": "2026-08-06T09:51:43.733431048Z",
+  "model": "glm-5.2"
+}

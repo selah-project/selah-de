@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Unter die Hand jedes Menschen siegelt ⟨er⟩ zu, damit jeder Mensch ⟨sein⟩ Tun erkennt.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "unter die Hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jedes"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Menschen"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "siegelt ⟨er⟩ zu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "damit ⟨…⟩ erkennt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "⟨sein⟩ Tun"
+    }
+  ],
+  "timestamp": "2026-08-06T10:37:19.462327443Z",
+  "model": "glm-5.2"
+}

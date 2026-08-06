@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und er überzog ⟨את⟩ ihn mit reinem Gold und machte ⟨für⟩ ihn eine Leiste aus Gold ringsherum.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Und er überzog"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn — der Tisch"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "mit Gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "reinem"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "und machte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨für⟩ ihn"
+    },
+    {
+      "surface": "זר",
+      "gloss": "eine Leiste"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aus Gold"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsherum"
+    }
+  ],
+  "timestamp": "2026-08-06T00:22:26.148544592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "und ⟨dein⟩ Herz sich erhebt und du ⟨את⟩ JHWH, deinen Elohim, vergisst, der dich herausgeführt hat aus dem Land Mizrajim, aus dem Sklavenhaus —",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "und ⟨sich⟩ erhebt"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "⟨dein⟩ Herz"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "und du vergisst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH, deinen Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "der dich herausgeführt hat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aus dem"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "Sklavenhaus"
+    }
+  ],
+  "timestamp": "2026-08-06T00:42:32.408006526Z",
+  "model": "glm-5.2"
+}

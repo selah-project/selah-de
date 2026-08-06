@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 2:5",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Ein jüdischer Mann war in Schuschan, ⟨in⟩ der Burg, und sein Name war Mordechai, Sohn Jaïrs, Sohn Schimïs, Sohn Kischs, ein Benjaminiter.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ein Mann"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "ein jüdischer"
+    },
+    {
+      "surface": "היה",
+      "gloss": "war"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "in Schuschan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "der Burg"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "und sein Name"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jaïrs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Schimïs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kischs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ein Benjaminiter"
+    }
+  ],
+  "timestamp": "2026-08-05T23:32:51.077042561Z",
+  "model": "glm-5.2"
+}

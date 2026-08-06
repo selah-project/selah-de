@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 63,
+  "translation": "Man wird ihn dahingeben ⟨an⟩ die Macht des Schwerts, ⟨zum⟩ Anteil der Schakale werden sie.",
+  "tokens": [
+    {
+      "surface": "יַגִּירֻ֥הוּ",
+      "gloss": "Man wird ihn dahingeben"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨an⟩"
+    },
+    {
+      "surface": "יְדֵי",
+      "gloss": "die Macht"
+    },
+    {
+      "surface": "חָ֑רֶב",
+      "gloss": "des Schwerts"
+    },
+    {
+      "surface": "מְנָ֖ת",
+      "gloss": "⟨zum⟩ Anteil"
+    },
+    {
+      "surface": "שֻׁעָלִ֣ים",
+      "gloss": "der Schakale"
+    },
+    {
+      "surface": "יִהְיֽוּ",
+      "gloss": "werden sie"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:59.131152229Z",
+  "model": "glm-5.2"
+}

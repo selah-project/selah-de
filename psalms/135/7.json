@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Der aufsteigen lässt Wolken vom Ende der Erde, Blitze für den Regen gemacht hat, der hervorbringt Wind aus seinen Schatzkammern.",
+  "tokens": [
+    {
+      "surface": "מַֽעֲלֶ֣ה",
+      "gloss": "Der aufsteigen lässt"
+    },
+    {
+      "surface": "נְשִׂאִים֮",
+      "gloss": "Wolken"
+    },
+    {
+      "surface": "מִקְצֵ֪ה",
+      "gloss": "vom Ende"
+    },
+    {
+      "surface": "הָ֫אָ֥רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "בְּרָקִ֣ים",
+      "gloss": "Blitze"
+    },
+    {
+      "surface": "לַמָּטָ֣ר",
+      "gloss": "für den Regen"
+    },
+    {
+      "surface": "עָשָׂ֑ה",
+      "gloss": "gemacht hat"
+    },
+    {
+      "surface": "מֽוֹצֵא",
+      "gloss": "der hervorbringt"
+    },
+    {
+      "surface": "ר֝וּחַ",
+      "gloss": "Wind"
+    },
+    {
+      "surface": "מֵאֽוֹצְרוֹתָֽיו",
+      "gloss": "aus seinen Schatzkammern"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:51.557332194Z",
+  "model": "glm-5.2"
+}

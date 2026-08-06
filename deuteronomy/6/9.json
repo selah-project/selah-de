@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und du sollst sie schreiben auf die Mesusot deines Hauses und an deine Tore.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "und du sollst sie schreiben"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "die Mesusot"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "deines Hauses"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "und an deine Tore"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:04.407534235Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "und die Behänge des Vorhofs und ⟨את⟩ den Vorhang des Eingangs des Vorhofs, der über dem Mischkan und über dem Altar ⟨ist⟩, ringsum, und ⟨את⟩ seine Seile für seinen gesamten Dienst.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "und die Behänge"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "des Vorhofs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Vorhang"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "Vorhang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "des Eingangs"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "des Vorhofs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "dem Mischkan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und über"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dem Altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Seile"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "seine Seile"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "für gesamten"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "seinen Dienst"
+    }
+  ],
+  "timestamp": "2026-08-05T20:30:03.432281695Z",
+  "model": "glm-5.2"
+}

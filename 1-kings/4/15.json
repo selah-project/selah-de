@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Achimaaz in Naftali — auch er nahm ⟨את⟩ Baschmat, die Tochter Schelomos, zur Frau.",
+  "tokens": [
+    {
+      "surface": "אֲחִימַ֖עַץ",
+      "gloss": "Achimaaz"
+    },
+    {
+      "surface": "בְּנַפְתָּלִ֑י",
+      "gloss": "in Naftali"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "ה֗וּא",
+      "gloss": "er"
+    },
+    {
+      "surface": "לָקַ֛ח",
+      "gloss": "nahm"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Baschmat"
+    },
+    {
+      "surface": "בָּשְׂמַ֥ת",
+      "gloss": "Baschmat"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "die Tochter"
+    },
+    {
+      "surface": "שְׁלֹמֹ֖ה",
+      "gloss": "Schelomos"
+    },
+    {
+      "surface": "לְאִשָּֽׁה",
+      "gloss": "zur Frau"
+    }
+  ],
+  "timestamp": "2026-08-06T15:05:39.055062996Z",
+  "model": "glm-5.2"
+}

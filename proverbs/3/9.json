@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ehre JHWH ⟨mit⟩ ⟨את⟩ von deinem Vermögen, und von der Erstlingsgabe all deines Ertrags.",
+  "tokens": [
+    {
+      "surface": "כַּבֵּ֣ד",
+      "gloss": "Ehre"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מֵהוֹנֶ֑ךָ",
+      "gloss": "von deinem Vermögen"
+    },
+    {
+      "surface": "וּ֝מֵרֵאשִׁ֗ית",
+      "gloss": "und von der Erstlingsgabe"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תְּבוּאָתֶֽךָ",
+      "gloss": "deines Ertrags"
+    }
+  ],
+  "timestamp": "2026-08-06T06:54:05.944610736Z",
+  "model": "glm-5.2"
+}

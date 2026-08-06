@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-kings 1:52",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Schlomo sagte: „Wenn er ⟨sich als⟩ ein tapferer Mann ⟨erweist⟩, wird nicht ein Haar von ihm zur Erde fallen. Wenn aber Böses in ihm gefunden wird, dann stirbt er.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schlomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "er ⟨sich als⟩ … ⟨erweist⟩"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tapferer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "wird … fallen"
+    },
+    {
+      "surface": "משערתו",
+      "gloss": "ein Haar von ihm"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wenn aber"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "gefunden wird"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in ihm"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dann stirbt er"
+    }
+  ],
+  "timestamp": "2026-08-06T02:55:55.453989877Z",
+  "model": "glm-5.2"
+}

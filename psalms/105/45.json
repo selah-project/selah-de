@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "damit ⟨sie⟩ seine Bestimmungen bewahren und seine Torot halten. Lobt, Jah!",
+  "tokens": [
+    {
+      "surface": "בַּעֲב֤וּר",
+      "gloss": "damit"
+    },
+    {
+      "surface": "יִשְׁמְר֣וּ",
+      "gloss": "bewahren"
+    },
+    {
+      "surface": "חֻ֭קָּיו",
+      "gloss": "seine Bestimmungen"
+    },
+    {
+      "surface": "וְתוֹרֹתָ֥יו",
+      "gloss": "und seine Torot"
+    },
+    {
+      "surface": "יִנְצֹ֗רוּ",
+      "gloss": "halten"
+    },
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:06.753511320Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Dawid sandte hin und erkundigte sich nach der Frau, und ⟨man⟩ sagte: „Ist das nicht Bat-Schewa, die Tochter Eljams, die Frau des Urija, des Chititers?“",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und Dawid sandte hin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "und erkundigte sich"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "nach der Frau"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨man⟩ sagte"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ist das nicht"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "diese"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-Schewa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eljams"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "Frau"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "des Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "des Chititers"
+    }
+  ],
+  "timestamp": "2026-08-06T02:52:12.488185825Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und du sollst ⟨את⟩ die Tragstangen machen aus Schittim-Holz, und du sollst sie überziehen ⟨mit⟩ Gold.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "und du sollst machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Tragstangen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "die Tragstangen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "aus Holz"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Schittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "und du sollst überziehen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    }
+  ],
+  "timestamp": "2026-08-06T14:51:37.840271833Z",
+  "model": "glm-5.2"
+}

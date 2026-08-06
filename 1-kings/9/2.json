@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "dass JHWH ⟨sich⟩ dem Schelomo ein zweites Mal zeigte, wie er ihm in Giv'on erschienen war —",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dass ⟨sich⟩ zeigte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dem"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ein zweites Mal"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "er erschienen war"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "in Giv'on"
+    }
+  ],
+  "timestamp": "2026-08-05T21:27:24.538886858Z",
+  "model": "glm-5.2"
+}

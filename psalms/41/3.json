@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "JHWH wird ⟨ihn⟩ behüten und ⟨ihn⟩ am Leben erhalten; ⟨er⟩ wird ihn glücklich machen auf der Erde, und gib ihn nicht der Gier seiner Feinde preis.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "wird behüten"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "und am Leben erhalten"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "wird glücklich machen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨gib⟩ nicht"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "preise ⟨ihn⟩ aus"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "der Gier"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "seiner Feinde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:28.257044135Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Denn du hast ⟨mein⟩ Recht getan und ⟨meine⟩ Rechtssache, du hast dich auf ⟨den⟩ Thron gesetzt, ⟨ein⟩ Richter ⟨der⟩ Zedek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "du hast getan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mein Recht"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "und meine Rechtssache"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "du hast dich gesetzt"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "auf ⟨den⟩ Thron"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "Richtender"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Zedek"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:10.404328460Z",
+  "model": "glm-5.2"
+}

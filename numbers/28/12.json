@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 28:12",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "und drei Zehntel Feinmehl, ⟨als⟩ Mincha, angerührt im Öl, für den Stier, den einen, und zwei Zehntel Feinmehl, ⟨als⟩ Mincha, angerührt im Öl, für den Widder, den einen —",
+  "tokens": [
+    {
+      "surface": "ושלשה",
+      "gloss": "und drei"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "Zehntel"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "Feinmehl"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "⟨als⟩ Mincha"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "angerührt"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "im Öl"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "für den Stier"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den einen"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "und zwei"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "Zehntel"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "Feinmehl"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "⟨als⟩ Mincha"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "angerührt"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "im Öl"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "für den Widder"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den einen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:38:44.962678014Z",
+  "model": "glm-5.2"
+}

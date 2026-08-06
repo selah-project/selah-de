@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Gesegnet ⟨sei⟩ Adonai — Tag für Tag trägt er ⟨es⟩ für uns; der El unserer Rettung. Sela.",
+  "tokens": [
+    {
+      "surface": "בָּר֥וּךְ",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "אֲדֹנָ֗י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יָ֭וֹם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "י֥וֹם",
+      "gloss": "für Tag"
+    },
+    {
+      "surface": "יַעֲמִֽס—לָ֗נוּ",
+      "gloss": "trägt er für uns"
+    },
+    {
+      "surface": "הָאֵ֥ל",
+      "gloss": "der El"
+    },
+    {
+      "surface": "יְשׁוּעֹתֵֽינוּ֮",
+      "gloss": "unserer Rettung"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:23.442470500Z",
+  "model": "glm-5.2"
+}

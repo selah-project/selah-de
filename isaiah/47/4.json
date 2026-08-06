@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "„Unser Goel — JHWH der Heerscharen ⟨ist⟩ sein Name, der Heilige Jisraels.“",
+  "tokens": [
+    {
+      "surface": "גֹּאֲלֵ֕נוּ",
+      "gloss": "unser Goel"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "שְׁמ֑וֹ",
+      "gloss": "sein Name"
+    },
+    {
+      "surface": "קְד֖וֹשׁ",
+      "gloss": "der Heilige"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T08:52:58.227523037Z",
+  "model": "glm-5.2"
+}

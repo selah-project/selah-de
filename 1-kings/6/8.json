@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Der Eingang ⟨des⟩ Seitenraums, des mittleren, ⟨war⟩ zur rechten Schulter ⟨des⟩ Hauses, und auf einer Wendeltreppe stieg man ⟨hinauf⟩ auf den mittleren, und vom mittleren ⟨aus⟩ auf den dritten.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Der Eingang"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "⟨des⟩ Seitenraums"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "des mittleren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "⟨der⟩ Schulter"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨des⟩ Hauses"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "der rechten"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "und auf einer Wendeltreppe"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "stieg man ⟨hinauf⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "den mittleren"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "und von"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "dem mittleren ⟨aus⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "den dritten"
+    }
+  ],
+  "timestamp": "2026-08-06T02:58:31.280635730Z",
+  "model": "glm-5.2"
+}

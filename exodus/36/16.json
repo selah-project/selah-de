@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und er verband ⟨את⟩ die fünf Behänge gesondert und ⟨את⟩ die sechs Behänge gesondert.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "und er verband"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die fünf Behänge"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "die Behänge"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "gesondert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die sechs Behänge"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sechs"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "die Behänge"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "gesondert"
+    }
+  ],
+  "timestamp": "2026-08-06T02:08:03.828568988Z",
+  "model": "glm-5.2"
+}

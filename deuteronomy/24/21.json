@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Wenn du deine Weinlese hältst, sollst du nicht Nachlese halten hinter dir: dem Ger, der Waise und der Witwe soll es gehören.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תִבְצֹר",
+      "gloss": "du deine Weinlese hältst"
+    },
+    {
+      "surface": "כַּרְמְךָ",
+      "gloss": "deines Weinbergs"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תְעוֹלֵל",
+      "gloss": "sollst du Nachlese halten"
+    },
+    {
+      "surface": "אַחֲרֶיךָ",
+      "gloss": "hinter dir"
+    },
+    {
+      "surface": "לַגֵּר",
+      "gloss": "dem Ger"
+    },
+    {
+      "surface": "לַיָּתוֹם",
+      "gloss": "der Waise"
+    },
+    {
+      "surface": "וְלָאַלְמָנָה",
+      "gloss": "und der Witwe"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "soll es gehören"
+    }
+  ],
+  "timestamp": "2026-08-06T15:42:27.944305361Z",
+  "model": "glm-5.2"
+}

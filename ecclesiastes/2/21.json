@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 2:21",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Denn da ⟨ist⟩ ein Mensch, dessen Mühe ⟨in⟩ Weisheit und ⟨in⟩ Erkenntnis und ⟨in› Geschick ⟨ist⟩, und ⟨einem⟩ Menschen, der nicht darin gemüht hat, gibt er ⟨davon⟩ — sein Anteil. Auch das ist Hauch und ein großes Übel.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יֵ֣שׁ",
+      "gloss": "da ⟨ist⟩"
+    },
+    {
+      "surface": "אָדָ֗ם",
+      "gloss": "ein Mensch"
+    },
+    {
+      "surface": "שֶׁעֲמָל֛וֹ",
+      "gloss": "dessen Mühe"
+    },
+    {
+      "surface": "בְּחָכְמָ֥ה",
+      "gloss": "⟨in⟩ Weisheit"
+    },
+    {
+      "surface": "וּבְדַ֖עַת",
+      "gloss": "und ⟨in⟩ Erkenntnis"
+    },
+    {
+      "surface": "וּבְכִשְׁר֑וֹן",
+      "gloss": "und ⟨in⟩ Geschick"
+    },
+    {
+      "surface": "וּלְאָדָ֞ם",
+      "gloss": "und ⟨einem⟩ Menschen"
+    },
+    {
+      "surface": "שֶׁלֹּ֤א",
+      "gloss": "der nicht"
+    },
+    {
+      "surface": "עָֽמַל",
+      "gloss": "gemüht hat"
+    },
+    {
+      "surface": "בוֹ֙",
+      "gloss": "darin"
+    },
+    {
+      "surface": "יִתְּנֶ֣נּוּ",
+      "gloss": "gibt er ⟨es⟩"
+    },
+    {
+      "surface": "חֶלְק֔וֹ",
+      "gloss": "sein Anteil"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "זֶ֥ה",
+      "gloss": "das"
+    },
+    {
+      "surface": "הֶ֖בֶל",
+      "gloss": "Hauch"
+    },
+    {
+      "surface": "וְרָעָ֥ה",
+      "gloss": "und ⟨ein⟩ Übel"
+    },
+    {
+      "surface": "רַבָּֽה",
+      "gloss": "groß(es)"
+    }
+  ],
+  "timestamp": "2026-08-06T07:09:01.615668570Z",
+  "model": "glm-5.2"
+}

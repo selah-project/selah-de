@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und du sollst ⟨den⟩ Tisch machen aus Akazienholz: zwei Ellen seine Länge und eine Elle seine Breite und eine Elle und ⟨die⟩ Hälfte seine Höhe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Und du sollst machen"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "Tisch"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "Holz"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Akazien"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "zwei Ellen"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "seine Länge"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "und eine Elle"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "seine Breite"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "und eine Elle"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "und ⟨die⟩ Hälfte"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "seine Höhe"
+    }
+  ],
+  "timestamp": "2026-08-06T21:08:53.106603585Z",
+  "model": "glm-5.2"
+}

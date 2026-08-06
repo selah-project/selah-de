@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Brot der Starken aß ⟨der⟩ Mann, Speise sandte er ihnen zur Sättigung.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "der Starken"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aß"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "Speise"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sandte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "zur Sättigung"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:43.271205555Z",
+  "model": "glm-5.2"
+}

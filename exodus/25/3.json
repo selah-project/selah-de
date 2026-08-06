@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und dies ist die Teruma, die ihr von ihnen nehmen sollt: Gold und Silber und Bronze.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "und dies"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "⟨ist⟩ die Teruma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ihr nehmen sollt"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "von ihnen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "und Silber"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "und Bronze"
+    }
+  ],
+  "timestamp": "2026-08-05T20:12:17.789851089Z",
+  "model": "glm-5.2"
+}

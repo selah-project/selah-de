@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "„Hüte ⟨für dich⟩ ⟨את⟩ das, was ich dir heute gebiete. Siehe, ich vertreibe vor dir ⟨את⟩ den Emori und ⟨את⟩ den Kenaani und ⟨את⟩ den Chiti und ⟨את⟩ den Perisi und ⟨את⟩ den Chiwi und ⟨את⟩ den Jebusi.\"",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Hüte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "für dich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was ich dir heute gebiete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das, was"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "dir gebiete"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Siehe, ich"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "vertreibe"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "den Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "und den Kenaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "und den Chiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "und den Perisi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "und den Chiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "und den Jebusi"
+    }
+  ],
+  "timestamp": "2026-08-05T20:16:13.118553259Z",
+  "model": "glm-5.2"
+}

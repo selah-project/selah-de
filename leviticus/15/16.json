@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und ⟨bei⟩ einem Mann, wenn von ihm ausgeht ein Liegen von Same, dann soll er waschen im Wasser ⟨את⟩ sein ganzes Fleisch, und er ist unrein bis zum Abend.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Und ⟨bei⟩ einem Mann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ausgeht"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ein Liegen"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "von Same"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dann soll er waschen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein ganzes Fleisch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganzes"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sein Fleisch"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "und er ist unrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "zum Abend"
+    }
+  ],
+  "timestamp": "2026-08-06T02:11:52.865754149Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 3:23",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Die Sippen der Gerschoniter sollen ⟨hinter⟩ dem Mischkan lagern, nach Westen hin.",
+  "tokens": [
+    {
+      "surface": "מִשְׁפְּחֹ֖ת",
+      "gloss": "Die Sippen"
+    },
+    {
+      "surface": "הַגֵּרְשֻׁנִּ֑י",
+      "gloss": "der Gerschoniter"
+    },
+    {
+      "surface": "אַחֲרֵ֧י",
+      "gloss": "⟨hinter⟩"
+    },
+    {
+      "surface": "הַמִּשְׁכָּ֛ן",
+      "gloss": "dem Mischkan"
+    },
+    {
+      "surface": "יַחֲנ֖וּ",
+      "gloss": "sollen lagern"
+    },
+    {
+      "surface": "יָֽמָּה",
+      "gloss": "nach Westen hin"
+    }
+  ],
+  "timestamp": "2026-08-05T20:29:38.923645740Z",
+  "model": "glm-5.2"
+}

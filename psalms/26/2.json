@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Prüfe mich, JHWH, und stelle mich auf die Probe, läutere ⟨die⟩ meine Nieren und ⟨das⟩ mein Herz!",
+  "tokens": [
+    {
+      "surface": "בְּחָנֵ֣נִי",
+      "gloss": "Prüfe mich"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְנַסֵּ֑נִי",
+      "gloss": "und stelle mich auf die Probe"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "läutere"
+    },
+    {
+      "surface": "כִלְיוֹתַ֣י",
+      "gloss": "meine Nieren"
+    },
+    {
+      "surface": "וְלִבִּֽי",
+      "gloss": "und mein Herz"
+    }
+  ],
+  "timestamp": "2026-08-06T09:13:56.823170717Z",
+  "model": "glm-5.2"
+}

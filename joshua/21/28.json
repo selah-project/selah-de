@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und vom Stamm Jissaskar: ⟨את⟩ Kischjon und ⟨את⟩ ⟨seine⟩ Weideflächen, ⟨את⟩ Davrath und ⟨את⟩ ⟨seine⟩ Weideflächen.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "und vom Stamm"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kischjon"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kischjon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Weideflächen"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seine Weideflächen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davrath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Davrath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Weideflächen"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seine Weideflächen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:54:31.147246364Z",
+  "model": "glm-5.2"
+}

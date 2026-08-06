@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Der Widder, den du gesehen hast, ⟨der⟩ Besitzer der Hörner — ⟨sie sind⟩ die Könige von Madai und Paras.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "der Widder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "du gesehen hast"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Besitzer"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "der Hörner"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die Könige"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "von Madai"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "und Paras"
+    }
+  ],
+  "timestamp": "2026-08-05T23:36:52.313232744Z",
+  "model": "glm-5.2"
+}

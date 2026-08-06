@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "Steh auf, JHWH, zu deiner Ruhestätte, du und ⟨die⟩ Lade deiner Stärke!",
+  "tokens": [
+    {
+      "surface": "קוּמָ֣ה",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לִמְנוּחָתֶ֑ךָ",
+      "gloss": "zu deiner Ruhestätte"
+    },
+    {
+      "surface": "אַ֝תָּ֗ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וַאֲר֥וֹן",
+      "gloss": "und ⟨die⟩ Lade"
+    },
+    {
+      "surface": "עֻזֶּֽךָ",
+      "gloss": "deiner Stärke"
+    }
+  ],
+  "timestamp": "2026-08-06T06:51:20.564205965Z",
+  "model": "glm-5.2"
+}

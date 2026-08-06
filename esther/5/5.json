@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und der König sprach: „Eilt ⟨mit⟩ Haman, um das Wort Ester zu tun.\" Und der König und Haman kamen zum Gastmahl, das Ester gemacht hatte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "eilt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "um zu tun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Wort"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "das Wort"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esters"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Und ⟨sie⟩ kamen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "und Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "dem Gastmahl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "gemacht hatte"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-06T22:48:22.785967388Z",
+  "model": "glm-5.2"
+}

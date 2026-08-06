@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 144,
+  "translation": "Elohim, ⟨ein⟩ Lied, ein neues, will ich dir singen, auf der Newal, ⟨einem⟩ Zehnsaitigen, will ich dir spielen.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "⟨ein⟩ Lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ein neues"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "will ich singen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "auf der Newal"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "Zehnsaitigen"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "will ich spielen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:56.804705345Z",
+  "model": "glm-5.2"
+}

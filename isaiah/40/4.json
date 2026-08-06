@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Jedes Tal ⟨wird⟩ erhoben ⟨werden⟩, und jeder Berg und ⟨jeder⟩ Hügel ⟨wird⟩ gesenkt ⟨werden⟩; und ⟨es wird geschehen:⟩ das Krumme ⟨wird⟩ zur Ebene, und die Rauheiten ⟨werden⟩ zum Tal.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "jedes"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Tal"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "wird erhoben werden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und jeder"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Berg"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "und Hügel"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "wird gesenkt werden"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und es wird geschehen"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "das Krumme"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "zur Ebene"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "und die Rauheiten"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "zum Tal"
+    }
+  ],
+  "timestamp": "2026-08-06T19:44:38.827106927Z",
+  "model": "glm-5.2"
+}

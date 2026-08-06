@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "und die Kaat und ⟨את⟩ die Rachama und ⟨את⟩ den Schalach",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "und die Kaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Rachama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "die Rachama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Schalach"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "den Schalach"
+    }
+  ],
+  "timestamp": "2026-08-06T02:24:35.799030790Z",
+  "model": "glm-5.2"
+}

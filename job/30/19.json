@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 30:19",
+  "book": "job",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "⟨Er⟩ hat mich in den Lehm geworfen, und ⟨ich⟩ bin gleichgeworden dem Staub und der Asche.",
+  "tokens": [
+    {
+      "surface": "הרני",
+      "gloss": "⟨er⟩ hat mich geworfen"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "in den Lehm"
+    },
+    {
+      "surface": "ואתמשל",
+      "gloss": "und ⟨ich⟩ bin gleichgeworden"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "dem Staub"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "und der Asche"
+    }
+  ],
+  "timestamp": "2026-08-05T23:22:24.236525230Z",
+  "model": "glm-5.2"
+}

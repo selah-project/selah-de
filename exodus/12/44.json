@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und jeder Knecht eines Mannes, ⟨ein⟩ Kauf um Silber — und du beschnitest ⟨את⟩ ihn, dann isst er davon.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "und jeder"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Knecht"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eines Mannes"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "Kauf"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "um Silber"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "und du beschnitest"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dann"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "isst er"
+    },
+    {
+      "surface": "בו",
+      "gloss": "davon"
+    }
+  ],
+  "timestamp": "2026-08-06T20:10:14.781694776Z",
+  "model": "glm-5.2"
+}

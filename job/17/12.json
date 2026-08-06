@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Die Nacht ⟨setzen sie⟩ dem Tag gleich, ⟨das⟩ Licht ⟨ist⟩ nahe vor ⟨der⟩ Finsternis.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "die Nacht"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "dem Tag"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "setzen sie"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Licht"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ist nahe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "Finsternis"
+    }
+  ],
+  "timestamp": "2026-08-05T23:19:02.379423511Z",
+  "model": "glm-5.2"
+}

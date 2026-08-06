@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Die dich sehen, blicken auf dich, betrachten dich: „Ist dies der Mann, der die Erde erzittern ließ, der Königreiche erschütterte?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "die dich sehen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "blicken"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dich"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "betrachten"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ist dies"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "der erzittern ließ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "der erschütterte"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "Königreiche"
+    }
+  ],
+  "timestamp": "2026-08-05T21:45:41.066642958Z",
+  "model": "glm-5.2"
+}

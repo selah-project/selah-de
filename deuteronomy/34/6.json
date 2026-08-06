@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und ⟨er⟩ begrub ⟨את⟩ ihn im Tal, im Land Moaw, gegenüber Bet-Peor; und kein Mensch kennt ⟨את⟩ seine Grabstätte bis zum heutigen Tag.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Und ⟨er⟩ begrub"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "im Tal"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaw"
+    },
+    {
+      "surface": "מול",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kennt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mensch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Grabstätte"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "seine Grabstätte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zum Tag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    }
+  ],
+  "timestamp": "2026-08-06T00:50:26.299990038Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Denn im Schatten ⟨der⟩ Weisheit ⟨ist es wie⟩ im Schatten ⟨des⟩ Silbers; aber der Vorzug ⟨der⟩ Erkenntnis ⟨ist der⟩: Weisheit belebt ihre Besitzer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "im Schatten"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "⟨der⟩ Weisheit"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "⟨ist es wie⟩ im Schatten"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "⟨des⟩ Silbers"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "aber der Vorzug"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "⟨der⟩ Erkenntnis"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "belebt"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "ihre Besitzer"
+    }
+  ],
+  "timestamp": "2026-08-06T07:09:56.061948936Z",
+  "model": "glm-5.2"
+}

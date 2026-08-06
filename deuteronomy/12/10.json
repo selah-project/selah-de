@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ihr werdet hinüberziehen über ⟨את⟩ den Jardén und wohnt in dem Land, das JHWH, euer Elohim, euch erben lässt, und ⟨er⟩ wird euch Ruhe geben vor all euren Feinden ringsum, und ihr wernt wohnen in Sicherheit.",
+  "tokens": [
+    {
+      "surface": "וַעֲבַרְתֶּם֮",
+      "gloss": "und ihr werdet hinüberziehen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Jardén"
+    },
+    {
+      "surface": "הַיַּרְדֵּן֒",
+      "gloss": "den Jardén"
+    },
+    {
+      "surface": "וִֽישַׁבְתֶּ֣ם",
+      "gloss": "und wohnt"
+    },
+    {
+      "surface": "בָּאָ֔רֶץ",
+      "gloss": "in dem Land"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶ֖ם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "מַנְחִ֣יל",
+      "gloss": "erben lässt"
+    },
+    {
+      "surface": "אֶתְכֶ֑ם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "וְהֵנִ֨יחַ",
+      "gloss": "und ⟨er⟩ wird Ruhe geben"
+    },
+    {
+      "surface": "לָכֶ֧ם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "vor all"
+    },
+    {
+      "surface": "אֹיְבֵיכֶ֛ם",
+      "gloss": "euren Feinden"
+    },
+    {
+      "surface": "מִסָּבִ֖יב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "וִֽישַׁבְתֶּ֣ם",
+      "gloss": "und ihr werdet wohnen"
+    },
+    {
+      "surface": "בֶּֽטַח",
+      "gloss": "in Sicherheit"
+    }
+  ],
+  "timestamp": "2026-08-05T20:46:18.628331416Z",
+  "model": "glm-5.2"
+}

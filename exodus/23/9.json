@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und ⟨einen⟩ Fremdling sollst du nicht bedrängen — und ihr, ihr kennt ⟨את⟩ die Nefesch des Fremdlings, denn Fremdlinge wart ihr im Land Mizrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Und ⟨einen⟩ Fremdling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "sollst du bedrängen"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "und ihr"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ihr kennt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Nefesch des Fremdlings"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die Nefesch"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "des Fremdlings"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "Fremdlinge"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "wart ihr"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:00.091341758Z",
+  "model": "glm-5.2"
+}

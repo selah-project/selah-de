@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Aber wenn der Mann draußen auf dem Feld ⟨את⟩ das Mädchen findet, die Verlobte, und der Mann sie festhält und mit ihr schläft, dann soll der Mann, der mit ihr geschlafen hat, allein sterben.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Aber wenn"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "auf dem Feld"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "findet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Mädchen, die Verlobte"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "das Mädchen"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "die Verlobte"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "und ⟨er⟩ festhält"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sie"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "und ⟨er⟩ schläft"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "mit ihr"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dann soll ⟨…⟩ sterben"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "geschlafen hat"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "mit ihr"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "allein"
+    }
+  ],
+  "timestamp": "2026-08-06T02:26:40.894587189Z",
+  "model": "glm-5.2"
+}

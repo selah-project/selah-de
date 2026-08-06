@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Denn JHWH liebt ⟨das⟩ Recht und verlässt ⟨את⟩ seine Frommen nicht; ⟨sie⟩ werden für immer bewahrt, aber die Nachkommenschaft der Frevler wird ausgerottet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liebt"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨das⟩ Recht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨...⟩ nicht"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "verlässt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Frommen"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "seine Frommen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "⟨sie⟩ werden bewahrt"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "aber die Nachkommenschaft"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "wird ausgerottet"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:44.739209044Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Gütig ist JHWH zu allen, und ⟨seine⟩ Erbarmungen ⟨sind⟩ über all seinen Werken.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Gütig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zu allen"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "und ⟨seine⟩ Erbarmungen"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "seinen Werken"
+    }
+  ],
+  "timestamp": "2026-08-06T06:53:09.961449179Z",
+  "model": "glm-5.2"
+}

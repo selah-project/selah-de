@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und die Ältesten der Versammlung stützen ⟨את⟩ ihre Hände auf den Kopf des Stieres vor JHWH, und ⟨man⟩ schlachtet ⟨את⟩ den Stier vor JHWH.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "Und sie stützen"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die Ältesten"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "der Versammlung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Hände"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ihre Hände"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "den Kopf"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "des Stieres"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "und ⟨man⟩ schlachtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stier"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "den Stier"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:03.730305468Z",
+  "model": "glm-5.2"
+}

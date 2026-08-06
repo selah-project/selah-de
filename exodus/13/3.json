@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und Mosche sprach zu dem Volk: Gedenkt ⟨des⟩ Tages ⟨dieses⟩, an dem ihr aus Mizrajim gegangen seid, aus dem Haus der Knechte, denn mit starker Hand hat JHWH euch von hier herausgeführt, und ⟨es⟩ soll kein Gesäuertes gegessen werden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "gedenkt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Tag"
+    },
+    {
+      "surface": "היום",
+      "gloss": "des Tages"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "an dem"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "ihr gegangen seid"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "aus Mizrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aus dem Haus"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "der Knechte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "mit starker"
+    },
+    {
+      "surface": "יד",
+      "gloss": "Hand"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "hat hinausgeführt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "von hier"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨es soll⟩ nicht"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "gegessen werden"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "Gesäuertes"
+    }
+  ],
+  "timestamp": "2026-08-06T00:15:26.309282902Z",
+  "model": "glm-5.2"
+}

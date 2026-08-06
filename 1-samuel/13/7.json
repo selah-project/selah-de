@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und ⟨einige von den⟩ Hebräern gingen hinüber ⟨über⟩ ⟨את⟩ den Jardén, ⟨in das⟩ Land Gad und Gilad. Und Schaul war noch in Gilgal, und das ganze Volk zitterte hinter ihm.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Und Hebräer"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gingen hinüber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "den Jardén"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "und Gilad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Und Schaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "war noch"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "in Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ganz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "zitterte"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hinter ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T01:05:30.255495908Z",
+  "model": "glm-5.2"
+}

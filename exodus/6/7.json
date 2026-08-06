@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ich werde euch ⟨zu mir⟩ nehmen, mir zum Volk, und ich werde euch zum Elohim sein, und ihr werdet erkennen, dass ich JHWH bin, euer Elohim, der euch herausführt unter den Lasten Mizrajims weg.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Und ich werde nehmen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch (als Objekt von „nehmen“)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "zum Volk"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "und ich werde sein"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "zum Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "und ihr werdet erkennen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "der herausführt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch (als Objekt von „herausführen“)"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "den Lasten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajims"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:54.368160425Z",
+  "model": "glm-5.2"
+}

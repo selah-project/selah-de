@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Michal, die Tochter Schauls, liebte ⟨את⟩ Dawid. Und sie berichteten ⟨es⟩ dem Schaul, und die Sache war recht in seinen Augen.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "Und sie liebte"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Michal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "und sie berichteten"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "dem Schaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "und es war recht"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in seinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:08:06.380198660Z",
+  "model": "glm-5.2"
+}

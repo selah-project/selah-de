@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Beim Umkehren meiner Feinde ⟨nach⟩ hinten: Sie straucheln und vergehen vor deinem Angesicht.",
+  "tokens": [
+    {
+      "surface": "בְּשׁוּב",
+      "gloss": "Beim Umkehren"
+    },
+    {
+      "surface": "אוֹיְבַ֥י",
+      "gloss": "meiner Feinde"
+    },
+    {
+      "surface": "אָח֑וֹר",
+      "gloss": "⟨nach⟩ hinten"
+    },
+    {
+      "surface": "יִכָּשְׁל֥וּ",
+      "gloss": "Sie straucheln"
+    },
+    {
+      "surface": "וְיֹאבְד֗וּ",
+      "gloss": "und vergehen"
+    },
+    {
+      "surface": "מִפָּנֶֽיךָ",
+      "gloss": "vor deinem Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:50.359220616Z",
+  "model": "glm-5.2"
+}

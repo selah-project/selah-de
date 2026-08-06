@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 108,
+  "translation": "Mein ⟨ist⟩ Gilad, mein ⟨ist⟩ Menasche, und Efrajim ⟨ist⟩ die Wehr meines Hauptes, Jehuda ist mein Bestimmer ⟨von Recht⟩.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Mein"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mein"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasche"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "und Efrajim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "die Wehr"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "meines Hauptes"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ist mein Bestimmer ⟨von Recht⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:34.835522344Z",
+  "model": "glm-5.2"
+}

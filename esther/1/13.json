@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und der König sprach zu den Weisen, den Kennern der Zeiten — denn so ⟨war⟩ die Sache des Königs vor allen Kennern von Dat und Recht —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "zu den Weisen"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "den Kennern"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "der Zeiten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "Kennen"
+    },
+    {
+      "surface": "דת",
+      "gloss": "von Dat"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "und Recht"
+    }
+  ],
+  "timestamp": "2026-08-06T20:42:58.352777762Z",
+  "model": "glm-5.2"
+}

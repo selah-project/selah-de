@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und JHWH wird ⟨את⟩ den Menschen weit wegrücken, und ⟨es⟩ wird groß ⟨sein⟩ das Verlassene inmitten des Landes.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "Und ⟨…⟩ wird weit wegrücken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Menschen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "und ⟨es⟩ wird groß ⟨sein⟩"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "das Verlassene"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    }
+  ],
+  "timestamp": "2026-08-05T21:43:53.055783815Z",
+  "model": "glm-5.2"
+}

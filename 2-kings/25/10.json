@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und ⟨את⟩ die Mauern Jeruschalajims ringsum riss die ganze Heeresmacht der Kasdim ab, die bei dem Ob der Schlächter war.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Mauern Jeruschalajims ringsum"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "die Mauern"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajims"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "riss ab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "Heeresmacht"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "der Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bei dem Ob"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "der Schlächter"
+    }
+  ],
+  "timestamp": "2026-08-05T21:41:18.248445770Z",
+  "model": "glm-5.2"
+}

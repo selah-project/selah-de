@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und Ester sprach: „Ein Mann, ein Bedränger und Feind — Haman, dieser Böse.\" Und Haman erschrak vor dem König und der Königin.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Und ⟨sie⟩ sprach"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ein Mann"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ein Bedränger"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "und Feind"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "der Böse"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Und Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "erschrak"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "und der Königin"
+    }
+  ],
+  "timestamp": "2026-08-06T04:44:00.347123389Z",
+  "model": "glm-5.2"
+}

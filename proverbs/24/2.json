@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Denn Verwüstung brütet ihr Herz, und Mühsal reden ihre Lippen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שד",
+      "gloss": "Verwüstung"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "brütet"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ihr Herz"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "und Mühsal"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "ihre Lippen"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "reden"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:20.563779987Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨das⟩ Volk kehrte nicht um zu dem, der es schlug, und ⟨את⟩ JHWH der Heerscharen suchten sie nicht.",
+  "tokens": [
+    {
+      "surface": "וְהָעָ֥ם",
+      "gloss": "Und ⟨das⟩ Volk"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שָׁ֖ב",
+      "gloss": "kehrte um"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הַמַּכֵּ֑הוּ",
+      "gloss": "dem, der es schlug"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "דָרָֽשׁוּ",
+      "gloss": "suchten sie"
+    }
+  ],
+  "timestamp": "2026-08-05T21:45:03.085684075Z",
+  "model": "glm-5.2"
+}

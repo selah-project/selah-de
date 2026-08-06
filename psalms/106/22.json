@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Wundertaten im Land Cham, Furchtbares am Schilfmeer.",
+  "tokens": [
+    {
+      "surface": "נִ֭פְלָאוֹת",
+      "gloss": "Wundertaten"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "חָ֑ם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "נ֝וֹרָא֗וֹת",
+      "gloss": "Furchtbares"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "an"
+    },
+    {
+      "surface": "יַם",
+      "gloss": "Meer"
+    },
+    {
+      "surface": "סֽוּף",
+      "gloss": "Schilf"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:42.765068935Z",
+  "model": "glm-5.2"
+}

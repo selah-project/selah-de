@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und sie sagte zu ihnen: So spricht JHWH, Elohim von Jisra'el: Sagt ⟨zu⟩ dem Mann, der ⟨euch⟩ zu mir gesandt ⟨hat⟩",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Und sie sagte"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim von"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Sagt"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨zu⟩ dem Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gesandt ⟨hat⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨euch⟩",
+      "marks": "אלי — ‚zu mir' (als Ziel der Aussendung)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    }
+  ],
+  "timestamp": "2026-08-06T01:37:41.592842433Z",
+  "model": "glm-5.2"
+}

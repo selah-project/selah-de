@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Darum wird ⟨ein⟩ Mann ⟨seinen⟩ Vater ⟨את⟩ und ⟨את⟩ seine Mutter verlassen und seiner Frau anhängen, und sie werden zu einem Fleisch.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Auf"
+    },
+    {
+      "surface": "כן",
+      "gloss": "darum"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "wird verlassen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨ein⟩ Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vater"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "⟨seinen⟩ Vater"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Mutter"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "seine Mutter"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "und anhängen"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "seiner Frau"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "und sie werden"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "zu Fleisch"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eins"
+    }
+  ],
+  "timestamp": "2026-08-06T00:03:13.158813024Z",
+  "model": "glm-5.2"
+}

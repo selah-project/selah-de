@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joel 2:22",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Fürchtet euch nicht, Tiere ⟨des⟩ Feldes, denn ⟨es⟩ sprossen die Weiden ⟨der⟩ Steppe, denn der Baum trägt seine Frucht, Feigenbaum und Rebe geben ⟨ihren⟩ Ertrag.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "fürchtet euch"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "Tiere"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "⟨des⟩ Feldes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "דשאו",
+      "gloss": "sprossen"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "die Weiden"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "⟨der⟩ Steppe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "der Baum"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "trägt"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "seine Frucht"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "Feigenbaum"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "und Rebe"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "geben"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "⟨ihren⟩ Ertrag"
+    }
+  ],
+  "timestamp": "2026-08-06T03:59:16.244558530Z",
+  "model": "glm-5.2"
+}

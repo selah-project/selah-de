@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Sie sahen deine Züge, Elohim, die Züge meines El, meines Königs, im Heiligtum.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Sie sahen"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "deine Züge"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "die Züge"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meines El"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "meines Königs"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "im Heiligtum"
+    }
+  ],
+  "timestamp": "2026-08-06T19:51:55.588492683Z",
+  "model": "glm-5.2"
+}

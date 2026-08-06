@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Er schlug ⟨את⟩ die Pelischtim bis nach Asa und ⟨את⟩ ihre Grenzen, vom Wachturm der Wächter bis zur befestigten Stadt.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Er"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Pelischtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis nach"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Grenzen"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ihre Grenzen"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "vom Wachturm"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "der Wächter"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zur"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "befestigten"
+    }
+  ],
+  "timestamp": "2026-08-06T01:36:16.911601465Z",
+  "model": "glm-5.2"
+}

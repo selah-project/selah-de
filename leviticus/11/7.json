@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨את⟩ das Schwein — weil es ⟨einen⟩ Spalt der Klaue hat und ganz gespaltenen Spalt der Klaue, und es ⟨die⟩ Wiederkäuung nicht wiederkäut: unrein ist es ⟨für⟩ euch.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Schwein"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "das Schwein"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "Spalt hat"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "der Klaue"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "und gespaltenen"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "Spalt"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "der Klaue"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und es"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "⟨die⟩ Wiederkäuung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "wiederkäut"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist es"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨für⟩ euch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:19.733962859Z",
+  "model": "glm-5.2"
+}

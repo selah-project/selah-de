@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Seine Kohen fielen durch das Schwert, und seine Witwen weinten nicht.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "seine Kohen"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "durch das Schwert"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "fielen"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "und seine Witwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "weinten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:18.125148123Z",
+  "model": "glm-5.2"
+}

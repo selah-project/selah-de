@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Die das Gute hassen und das Böse lieben, die ihnen die Haut abziehen vom Leib und ihr Fleisch von ihren Gebeinen.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "Die hassen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "das Gute"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "und lieben"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "das Böse"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "die abreißen"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "ihre Haut"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "von ihnen"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "und ihr Fleisch"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "ihren Gebeinen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:36:09.922396512Z",
+  "model": "glm-5.2"
+}

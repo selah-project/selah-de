@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und alles Gewimmel, das auf der Erde wimmelt, ⟨ist⟩ ein Abscheu; es soll nicht gegessen werden.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "und alles"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "Gewimmel"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "das wimmelt"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ein Abscheu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ist⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "soll gegessen werden"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:20.207431289Z",
+  "model": "glm-5.2"
+}

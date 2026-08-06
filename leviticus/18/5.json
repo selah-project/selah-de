@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ihr sollt halten ⟨את⟩ meine Ordnungen und ⟨את⟩ meine Rechtsverfahren, die der Mensch tun soll und ⟨dadurch⟩ leben — ich bin JHWH.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "und ihr sollt halten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Ordnungen"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "meine Ordnungen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "meine Rechtsverfahren"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "meine Rechtsverfahren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tun soll"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "und ⟨dadurch⟩ leben"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in ihnen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bin JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T02:12:44.863908615Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "„Ich schnitt ⟨die⟩ Brit meinem Erwählten, schwor Dawid, meinem Knecht:“",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Ich schnitt"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨die⟩ Brit"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "meinem Erwählten"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "schwur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "meinem Knecht"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:08.590232446Z",
+  "model": "glm-5.2"
+}

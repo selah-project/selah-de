@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Mosche ging, und Aharon, und sie versammelten ⟨את⟩ alle Ältesten der Söhne Jisraels.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Und ⟨er⟩ ging"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "und sie versammelten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Ältesten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "Ältesten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:08.520661351Z",
+  "model": "glm-5.2"
+}

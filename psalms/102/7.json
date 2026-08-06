@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Ich bin verglichen worden einem Wüstenpelikan, ich bin geworden wie eine Eule der Einöden.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "ich bin verglichen worden"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "einem Pelikan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "der Wüste"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ich bin geworden"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "wie eine Eule"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "der Einöden"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:46.577366914Z",
+  "model": "glm-5.2"
+}

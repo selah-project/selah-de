@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und ⟨את⟩ den Widder zerlegest du in seine Stücke, und du wäschst sein Inneres und seine Beine, und du legst ⟨sie⟩ auf seine Stücke und auf seinen Kopf.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Widder"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "den Widder"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "zerlegest du"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "in seine Stücke"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "und du wäschst"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sein Inneres"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "und seine Beine"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "und du legst"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "seine Stücke"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "seinen Kopf"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:14.173996910Z",
+  "model": "glm-5.2"
+}

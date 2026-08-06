@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Brandmal für Brandmal, Wunde für Wunde, Striemen für Striemen.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "Brandmal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "für"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "Brandmal"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "Wunde"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "für"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "Wunde"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "Striemen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "für"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "Striemen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:30.990605619Z",
+  "model": "glm-5.2"
+}

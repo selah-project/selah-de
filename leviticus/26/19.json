@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und ich werde ⟨את⟩ den Stolz eurer Kraft brechen, und ich werde ⟨את⟩ eure Himmel wie Eisen machen und ⟨את⟩ euer Land wie Bronze.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "Und ich werde brechen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stolz eurer Kraft"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "den Stolz"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "eurer Kraft"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "und ich werde machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eure Himmel"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "eure Himmel"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "wie Eisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "euer Land"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "euer Land"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "wie Bronze"
+    }
+  ],
+  "timestamp": "2026-08-06T02:14:04.238396745Z",
+  "model": "glm-5.2"
+}

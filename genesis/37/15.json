@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und ein Mann fand ihn, und siehe, ⟨er war⟩ irrend auf dem Feld. Und der Mann fragte ihn und sagte: „Was suchst du?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "Und ein Mann fand ihn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "irrend"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "auf dem Feld"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "Und der Mann fragte ihn"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "suchst du"
+    }
+  ],
+  "timestamp": "2026-08-06T09:42:39.455235492Z",
+  "model": "glm-5.2"
+}

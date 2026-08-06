@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Über mich hingezogen sind deine Zornesbrände, deine Schrecken — sie haben mich ausgerottet.",
+  "tokens": [
+    {
+      "surface": "עָ֭לַי",
+      "gloss": "über mich"
+    },
+    {
+      "surface": "עָבְר֣וּ",
+      "gloss": "hingezogen sind"
+    },
+    {
+      "surface": "חֲרוֹנֶ֑יךָ",
+      "gloss": "deine Zornesbrände"
+    },
+    {
+      "surface": "בִּ֝עוּתֶ֗יךָ",
+      "gloss": "deine Schrecken"
+    },
+    {
+      "surface": "צִמְּתוּתֻֽנִי",
+      "gloss": "sie haben mich ausgerottet"
+    }
+  ],
+  "timestamp": "2026-08-05T22:56:46.355248480Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 141,
+  "translation": "Ein Maskil von Dawid. JHWH, dich habe ich angerufen, eile zu mir, schenke ⟨meiner⟩ Stimme Gehör, wenn ich zu dir rufe.",
+  "tokens": [
+    {
+      "surface": "מִזְמ֗וֹר",
+      "gloss": "Ein Maskil"
+    },
+    {
+      "surface": "לְדָ֫וִ֥ד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "קְ֭רָאתִיךָ",
+      "gloss": "dich habe ich angerufen"
+    },
+    {
+      "surface": "ח֣וּשָׁה",
+      "gloss": "eile"
+    },
+    {
+      "surface": "לִּ֑י",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "הַאֲזִ֥ינָה",
+      "gloss": "schenke Gehör"
+    },
+    {
+      "surface": "ק֝וֹלִ֗י",
+      "gloss": "⟨meiner⟩ Stimme"
+    },
+    {
+      "surface": "בְּקָרְאִי",
+      "gloss": "wenn ich rufe"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "zu dir"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:36.249102366Z",
+  "model": "glm-5.2"
+}

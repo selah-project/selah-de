@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 96,
+  "translation": "Singt für JHWH ⟨ein⟩ neues Lied, singt für JHWH, ganze Erde!",
+  "tokens": [
+    {
+      "surface": "שִׁ֣ירוּ",
+      "gloss": "Singt"
+    },
+    {
+      "surface": "לַ֭יהוָה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "שִׁ֣יר",
+      "gloss": "⟨ein⟩ Lied"
+    },
+    {
+      "surface": "חָדָ֑שׁ",
+      "gloss": "neues"
+    },
+    {
+      "surface": "שִׁ֥ירוּ",
+      "gloss": "singt"
+    },
+    {
+      "surface": "לַ֝יהוָ֗ה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "ganze"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:46.183622437Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Sechs Tage sollst du arbeiten, und am siebten Tag sollst du Schabbat halten — beim Pflügen und bei der Ernte sollst du Schabbat halten.",
+  "tokens": [
+    {
+      "surface": "שֵׁ֤שֶׁת",
+      "gloss": "Sechs"
+    },
+    {
+      "surface": "יָמִים֙",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "תַּעֲבֹ֔ד",
+      "gloss": "sollst du arbeiten"
+    },
+    {
+      "surface": "וּבַיּ֥וֹם",
+      "gloss": "und am Tag"
+    },
+    {
+      "surface": "הַשְּׁבִיעִ֖י",
+      "gloss": "dem siebten"
+    },
+    {
+      "surface": "תִּשְׁבֹּ֑ת",
+      "gloss": "sollst du Schabbat halten"
+    },
+    {
+      "surface": "בֶּחָרִ֥ישׁ",
+      "gloss": "beim Pflügen"
+    },
+    {
+      "surface": "וּבַקָּצִ֖יר",
+      "gloss": "und bei der Ernte"
+    },
+    {
+      "surface": "תִּשְׁבֹּֽת",
+      "gloss": "sollst du Schabbat halten"
+    }
+  ],
+  "timestamp": "2026-08-06T00:21:08.905864221Z",
+  "model": "glm-5.2"
+}

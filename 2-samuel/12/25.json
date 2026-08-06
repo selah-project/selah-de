@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ⟨er⟩ sandte durch die Hand des Natan, des Nawi, und er rief ⟨את⟩ seinen Namen Jedidja, um JHWHs willen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "und ⟨er⟩ sandte"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "des Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "des Nawi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er rief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Namen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jedidja"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T05:45:25.313208117Z",
+  "model": "glm-5.2"
+}

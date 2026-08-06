@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "die er mit Awraham ⟨את⟩ schloss, und seinen Schwur Jizchak ⟨gab⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "er schloss"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "mit Awraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "und seinen Schwur"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Jizchak"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:24.362391657Z",
+  "model": "glm-5.2"
+}

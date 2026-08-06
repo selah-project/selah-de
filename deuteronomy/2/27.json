@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "„Lass mich durch dein Land ziehen, auf der Straße, auf der Straße will ich gehen — ich will nicht abbiegen ⟨nach⟩ rechts und ⟨nach⟩ links.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Lass mich ziehen"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "durch dein Land"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf der Straße"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf der Straße"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "will ich gehen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "will ich abbiegen"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "rechts"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "und links"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:22.774830850Z",
+  "model": "glm-5.2"
+}

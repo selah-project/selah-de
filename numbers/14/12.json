@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Ich werde es schlagen mit der Seuche und es enteignen, und ich werde dich ⟨את⟩ zu einer Nation machen, größer und mächtiger als sie.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Ich werde es schlagen"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mit der Seuche"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "und ich werde es enteignen"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "und ich werde machen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dich"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "zu einer Nation"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "größer"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "und mächtiger"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "als sie"
+    }
+  ],
+  "timestamp": "2026-08-06T19:29:45.509116817Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und der König Dawid war alt, ⟨gekommen⟩ in ⟨die⟩ Tage, und sie bedeckten ihn mit Kleidern, aber er ward ihm nicht warm.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "und der König"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "war alt"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨gekommen⟩"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in ⟨die⟩ Tage"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "und sie bedeckten ihn"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "mit Kleidern"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ward warm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T01:21:43.153056944Z",
+  "model": "glm-5.2"
+}

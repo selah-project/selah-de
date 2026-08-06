@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Sagen sollen ⟨es⟩ die von JHWH Gelösten, die er gelöst hat aus der Hand des Bedrängers —",
+  "tokens": [
+    {
+      "surface": "יֹ֭אמְרוּ",
+      "gloss": "Sagen sollen"
+    },
+    {
+      "surface": "גְּאוּלֵ֣י",
+      "gloss": "die Gelösten"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "גְּ֝אָלָ֗ם",
+      "gloss": "er gelöst hat"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "צָֽר",
+      "gloss": "des Bedrängers"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:12.310110182Z",
+  "model": "glm-5.2"
+}

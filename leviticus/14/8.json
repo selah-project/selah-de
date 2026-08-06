@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und der ⟨sich⟩ Reinigende ⟨Lassende⟩ wusch ⟨את⟩ seine Kleider und schor ⟨את⟩ all sein Haar und badete im Wasser und wurde rein, und danach kam er ins Lager und wohnte außerhalb seines Zeltes sieben Tage.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "und er wusch"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "der ⟨sich⟩ Reinigen ⟨Lassende⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Kleider"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "und schor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all sein Haar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "sein Haar"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "und badete"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "und wurde rein"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "und danach"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kam er"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "das Lager"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und wohnte"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "seines Zeltes"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T15:39:49.353730912Z",
+  "model": "glm-5.2"
+}

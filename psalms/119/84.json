@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Wie viele ⟨sind⟩ die Tage deines Knechtes? Wann wirst du an meinen Verfolgern ⟨das⟩ Recht tun?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Wie viele"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die Tage"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "deines Knechtes"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Wann"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wirst du … tun"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "an meinen Verfolgern"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨das⟩ Recht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:06.177410539Z",
+  "model": "glm-5.2"
+}

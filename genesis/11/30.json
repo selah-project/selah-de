@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Sarai war unfruchtbar, ⟨sie hatte⟩ kein Kind für sie.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "und ⟨sie⟩ war"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "unfruchtbar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kein"
+    },
+    {
+      "surface": "לה",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "Kind"
+    }
+  ],
+  "timestamp": "2026-08-05T17:31:05.886524152Z",
+  "model": "glm-5.2"
+}

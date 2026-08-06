@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und sie tauschten ⟨את⟩ ihre Herrlichkeit ein gegen die Gestalt eines Stiers, der Gras frisst.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Und sie tauschten ein"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Herrlichkeit"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ihre Herrlichkeit"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "gegen die Gestalt"
+    },
+    {
+      "surface": "שור",
+      "gloss": "eines Stiers"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "der frisst"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "Gras"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:27.562348612Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Ein Schiggon für Dawid, das er für JHWH sang, über die Worte von Kusch, ⟨einem⟩ Benjaminiten.",
+  "tokens": [
+    {
+      "surface": "שִׁגָּי֗וֹן",
+      "gloss": "Ein Schiggon"
+    },
+    {
+      "surface": "לְדָ֫וִ֥ד",
+      "gloss": "für Dawid"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "שָׁ֥ר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "כ֝֗וּשׁ",
+      "gloss": "von Kusch"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "⟨einem⟩ Benjaminiten-Sohn"
+    },
+    {
+      "surface": "יְמִינִֽי",
+      "gloss": "Benjaminiten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:08:54.658186338Z",
+  "model": "glm-5.2"
+}

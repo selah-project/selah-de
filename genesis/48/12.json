@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Und Josef führte sie hinaus ⟨von⟩ zwischen seinen Knien, und er warf sich nieder auf sein Gesicht zur Erde.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Und ⟨er⟩ führte hinaus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "von \/ zwischen"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "seinen Knien"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "und ⟨er⟩ warf sich nieder"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "auf sein Gesicht"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zur Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T05:13:28.990848367Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Denn dies sind zwei Jahre ⟨dass⟩ ⟨der⟩ Hunger im Innern des Landes ⟨ist⟩, und noch fünf Jahre, in denen es weder Pflügen noch Ernte ⟨gibt⟩.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "שְׁנָתַיִם",
+      "gloss": "sind zwei Jahre"
+    },
+    {
+      "surface": "הָרָעָב",
+      "gloss": "⟨der⟩ Hunger"
+    },
+    {
+      "surface": "בְּקֶרֶב",
+      "gloss": "im Innern"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "וְעוֹד",
+      "gloss": "und noch"
+    },
+    {
+      "surface": "חָמֵשׁ",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "שָׁנִים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "in denen"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "es nicht gibt"
+    },
+    {
+      "surface": "חָרִישׁ",
+      "gloss": "Pflügen"
+    },
+    {
+      "surface": "וְקָצִיר",
+      "gloss": "und Ernte"
+    }
+  ],
+  "timestamp": "2026-08-06T05:12:44.497969159Z",
+  "model": "glm-5.2"
+}

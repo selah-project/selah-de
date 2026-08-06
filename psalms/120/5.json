@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 120,
+  "translation": "Wehe mir, dass ich als Fremder wohne in Meschech, dass ich weile bei den Zelten Qedars!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ich als Fremder wohne"
+    },
+    {
+      "surface": "משך",
+      "gloss": "in Meschech"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "dass ich weile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "den Zelten"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedars"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:01.647741218Z",
+  "model": "glm-5.2"
+}

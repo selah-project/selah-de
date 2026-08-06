@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 24:16",
+  "book": "job",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Im Finstern bricht ⟨man⟩ in Häuser ein, bei Tag versiegeln sie sich ⟨für sich⟩ — sie kennen kein Licht.",
+  "tokens": [
+    {
+      "surface": "חָתַר",
+      "gloss": "bricht ein"
+    },
+    {
+      "surface": "בַּחֹשֶׁךְ",
+      "gloss": "im Finstern"
+    },
+    {
+      "surface": "בָּתִּים",
+      "gloss": "in Häuser"
+    },
+    {
+      "surface": "יוֹמָם",
+      "gloss": "bei Tag"
+    },
+    {
+      "surface": "חִתְּמוּ",
+      "gloss": "versiegeln sie"
+    },
+    {
+      "surface": "לָמוֹ",
+      "gloss": "sich ⟨für sich⟩"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָדְעוּ",
+      "gloss": "kennen sie"
+    },
+    {
+      "surface": "אוֹר",
+      "gloss": "Licht"
+    }
+  ],
+  "timestamp": "2026-08-06T20:41:42.940134296Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "Elohim Zewaot, kehre doch zurück! Schau vom Himmel und sieh, und suche ⟨diesen⟩ Weinstock heim!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Zewaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kehre zurück"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "Schau"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "vom Himmel"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "und sieh"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "und suche heim"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "Weinstock"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "diesen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:13.639465192Z",
+  "model": "glm-5.2"
+}

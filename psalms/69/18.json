@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "und verbirg dein Angesicht nicht vor deinem Knecht; denn mir ⟨ist⟩ eng zu Mute — eile, antworte mir!",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨...⟩ nicht"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "verbirg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Angesicht"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "vor deinem Knecht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "צר",
+      "gloss": "eng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "eile"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antworte mir"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:00.918169592Z",
+  "model": "glm-5.2"
+}

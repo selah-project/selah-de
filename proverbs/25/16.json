@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Honig — hast du ⟨ihn⟩ gefunden? Iss ⟨dein⟩ Genug, damit du dich nicht an ihm sättigst und ⟨ihn⟩ erbrechen musst!",
+  "tokens": [
+    {
+      "surface": "דְּבַ֣שׁ",
+      "gloss": "Honig"
+    },
+    {
+      "surface": "מָ֭צָאתָ",
+      "gloss": "hast du gefunden"
+    },
+    {
+      "surface": "אֱכֹ֣ל",
+      "gloss": "Iss"
+    },
+    {
+      "surface": "דַּיֶּ֑ךָּ",
+      "gloss": "Genug"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "תִּ֝שְׂבָּעֶ֗נּוּ",
+      "gloss": "du dich sättigst"
+    },
+    {
+      "surface": "וַהֲקֵֽאתֽוֹ",
+      "gloss": "und ⟨ihn⟩ erbrechen musst"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:51.686622292Z",
+  "model": "glm-5.2"
+}

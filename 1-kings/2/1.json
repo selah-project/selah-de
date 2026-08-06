@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und die Tage von Dawid nahten sich ⟨dem⟩ Sterben, und er gebot ⟨את⟩ Schelomo, seinem Sohn, indem er sprach:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "und es nahten sich"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die Tage"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "⟨dem⟩ Sterben"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "und er gebot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Schelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seinem Sohn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem er sprach"
+    }
+  ],
+  "timestamp": "2026-08-05T21:25:21.386978918Z",
+  "model": "glm-5.2"
+}

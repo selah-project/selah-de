@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Über Jahr und Tage ⟨werdet ihr⟩ zittern, ⟨ihr⟩ Vertrauenden! Denn ⟨die⟩ Weinernte ist zu Ende, ⟨die⟩ Fruchtlese kommt nicht.",
+  "tokens": [
+    {
+      "surface": "יָמִים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "Jahr"
+    },
+    {
+      "surface": "תִּרְגַּ֖זְנָה",
+      "gloss": "⟨werdet ihr⟩ zittern"
+    },
+    {
+      "surface": "בֹּֽטְח֑וֹת",
+      "gloss": "Vertrauenden"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כָלָ֣ה",
+      "gloss": "ist zu Ende"
+    },
+    {
+      "surface": "בָּצִ֔יר",
+      "gloss": "⟨die⟩ Weinernte"
+    },
+    {
+      "surface": "אֹ֖סֶף",
+      "gloss": "⟨die⟩ Fruchtlese"
+    },
+    {
+      "surface": "בְּלִ֥י",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָבֽוֹא",
+      "gloss": "kommt"
+    }
+  ],
+  "timestamp": "2026-08-05T21:50:10.441406695Z",
+  "model": "glm-5.2"
+}

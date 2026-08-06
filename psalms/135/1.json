@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Lobt Jah, lobt ⟨את⟩ den Namen JHWHs, lobt, ihr Knechte JHWHs,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lobt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Namen JHWHs"
+    },
+    {
+      "surface": "שם",
+      "gloss": "den Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lobt"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ihr Knechte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:33.270882554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Wenn Adonai ⟨את⟩ die Befleckung der Töchter Zijons abwäscht und ⟨את⟩ das Blut Jeruschalajims aus ihrer Mitte wegspült — mit dem Ruach des Rechts und mit dem Ruach des Brennens.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "abwäscht"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Befleckung"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "Befleckung"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Töchter"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zijons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Blut"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajims"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "wegspült"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "aus ihrer Mitte"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "mit dem Ruach"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "des Rechts"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "und mit dem Ruach"
+    },
+    {
+      "surface": "בער",
+      "gloss": "des Brennens"
+    }
+  ],
+  "timestamp": "2026-08-06T10:10:37.799221483Z",
+  "model": "glm-5.2"
+}

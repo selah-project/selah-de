@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Nur ⟨את⟩ sein Blut sollst du nicht essen; auf die Erde sollst du ⟨es⟩ gießen wie Wasser.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Blut"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sein Blut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sollst du essen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "sollst du gießen"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "wie Wasser"
+    }
+  ],
+  "timestamp": "2026-08-05T20:46:34.304601312Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und ich habe ihn gefüllt ⟨את⟩ — mit Ruach Elohim, in Weisheit und in Einsicht und in Erkenntnis und in allem Kunsthandwerk.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "Und ich habe ihn gefüllt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn — Bezalel"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "in Weisheit"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "und in Einsicht"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "und in Erkenntnis"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "und in allem"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "Kunsthandwerk"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:47.956984906Z",
+  "model": "glm-5.2"
+}

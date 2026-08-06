@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Alle Pfade JHWHs ⟨sind⟩ Chessed und Emet, für die Hüter seiner Brit und seiner Zeugnisse.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "אָרְח֣וֹת",
+      "gloss": "Pfade"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "חֶ֣סֶד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "וֶאֱמֶ֑ת",
+      "gloss": "und Emet"
+    },
+    {
+      "surface": "לְנֹצְרֵ֥י",
+      "gloss": "für die Hüter ⟨von⟩"
+    },
+    {
+      "surface": "בְ֝רִית֗וֹ",
+      "gloss": "seiner Brit"
+    },
+    {
+      "surface": "וְעֵדֹתָֽיו",
+      "gloss": "und seiner Zeugnisse"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:31.085295917Z",
+  "model": "glm-5.2"
+}

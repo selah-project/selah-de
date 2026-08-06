@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und es geschah, beim Belagern der Stadt durch Joab, da stellte er ⟨את⟩ Urija an den Ort, von dem er wusste, dass kampfkräftige Männer dort waren.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "beim Belagern"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "da stellte er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "den Ort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "von dem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "er wusste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kampfkräftige"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort waren"
+    }
+  ],
+  "timestamp": "2026-08-06T02:51:27.455609777Z",
+  "model": "glm-5.2"
+}

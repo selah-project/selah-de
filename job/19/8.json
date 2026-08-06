@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 19:8",
+  "book": "job",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Meinen Weg hat er eingemauert, und ⟨ich⟩ kann nicht ⟨hinüber⟩kommen, und auf meine Pfade hat er Finsternis gelegt.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Meinen Weg"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "hat er eingemauert"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨ich⟩ kann nicht"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "⟨hinüber⟩kommen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "נתיבותי",
+      "gloss": "meine Pfade"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "Finsternis"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "hat er gelegt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:20:35.101175664Z",
+  "model": "glm-5.2"
+}

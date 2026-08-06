@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und Jaakow diente für Rachel sieben Jahre, und sie waren in seinen Augen wie wenige Tage, wegen seiner Liebe zu ⟨את⟩ ihr.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲבֹ֧ד",
+      "gloss": "Und ⟨er⟩ diente"
+    },
+    {
+      "surface": "יַעֲקֹ֛ב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "בְּרָחֵ֖ל",
+      "gloss": "für Rachel"
+    },
+    {
+      "surface": "שֶׁ֣בַע",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "שָׁנִ֑ים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "וַיִּהְי֤וּ",
+      "gloss": "und sie waren"
+    },
+    {
+      "surface": "בְעֵינָיו֙",
+      "gloss": "in seinen Augen"
+    },
+    {
+      "surface": "כְּיָמִ֣ים",
+      "gloss": "wie Tage"
+    },
+    {
+      "surface": "אֲחָדִ֔ים",
+      "gloss": "wenige"
+    },
+    {
+      "surface": "בְּאַהֲבָת֖וֹ",
+      "gloss": "wegen seiner Liebe"
+    },
+    {
+      "surface": "אֹתָֽהּ",
+      "gloss": "⟨את⟩",
+      "marks": "sie (Rachel)"
+    }
+  ],
+  "timestamp": "2026-08-06T20:16:33.248785833Z",
+  "model": "glm-5.2"
+}

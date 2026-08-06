@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und erkennt, dass JHWH sich abgesondert hat ⟨einen⟩ Chassid für sich. JHWH wird hören, wenn ich zu ihm rufe.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Und erkennt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "sich abgesondert hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "⟨einen⟩ Chassid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "für sich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "wird hören"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "wenn ich rufe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T04:08:47.563021521Z",
+  "model": "glm-5.2"
+}

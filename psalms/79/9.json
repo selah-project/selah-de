@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 79,
+  "translation": "Hilf uns, Elohim unseres Heils, um der Sache der Herrlichkeit deines Namens willen, und rette uns, und bedecke ⟨⟨die Sühne⟩⟩ über unsere Sünden, um deines Namens willen!",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Hilf uns"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "unseres Heils"
+    },
+    {
+      "surface": "על",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "der Sache"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "der Herrlichkeit"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deines Namens"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "und rette uns"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "und bedecke"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "unsere Sünden"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deines Namens"
+    }
+  ],
+  "timestamp": "2026-08-06T21:24:22.866432623Z",
+  "model": "glm-5.2"
+}

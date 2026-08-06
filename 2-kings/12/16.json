@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ⟨sie⟩ rechneten nicht ⟨ab⟩ ⟨את⟩ ⟨mit⟩ den Männern, denen sie ⟨את⟩ das Silber in die Hand gaben, um es den Arbeitern der Arbeit zu geben, denn in Treue handelten sie.",
+  "tokens": [
+    {
+      "surface": "וְלֹ֧א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יְחַשְּׁב֣וּ",
+      "gloss": "rechneten sie"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mit den Männern"
+    },
+    {
+      "surface": "הָאֲנָשִׁ֗ים",
+      "gloss": "den Männern"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "denen"
+    },
+    {
+      "surface": "יִתְּנ֤וּ",
+      "gloss": "sie gaben"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Silber"
+    },
+    {
+      "surface": "הַכֶּ֨סֶף֙",
+      "gloss": "das Silber"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יָדָ֔ם",
+      "gloss": "ihre Hand"
+    },
+    {
+      "surface": "לָתֵ֖ת",
+      "gloss": "um zu geben"
+    },
+    {
+      "surface": "לְעֹשֵׂ֣י",
+      "gloss": "den Arbeitern"
+    },
+    {
+      "surface": "הַמְּלָאכָ֑ה",
+      "gloss": "der Arbeit"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בֶאֱמֻנָ֖ה",
+      "gloss": "in Treue"
+    },
+    {
+      "surface": "הֵ֥ם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "עֹשִֽׂים",
+      "gloss": "handelten"
+    }
+  ],
+  "timestamp": "2026-08-06T08:48:29.378531540Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 15:8",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und ich werde ⟨את⟩ das Land zur Einöde machen, weil sie Untreue verübt haben — Spruch Adonais, JHWHs.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Und ich werde machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "zur Einöde"
+    },
+    {
+      "surface": "יען",
+      "gloss": "weil"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "sie verübt haben"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "Untreue"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Spruch"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T10:21:09.605823902Z",
+  "model": "glm-5.2"
+}

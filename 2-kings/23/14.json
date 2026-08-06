@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und er zerschlug ⟨את⟩ die Gedenksteine und hieb ⟨את⟩ die Ascherim um und füllte ⟨את⟩ ihre Stätten mit Menschengebeinen.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "Und er zerschlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Gedenksteine"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "die Gedenksteine"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "und hieb um"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ascherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "die Ascherim"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "und füllte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Stätten"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "ihre Stätten"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mit Gebeinen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "von Menschen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:38:12.502305250Z",
+  "model": "glm-5.2"
+}

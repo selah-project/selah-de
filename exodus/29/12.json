@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und du nimmst von dem Blut des Stieres und gibst ⟨es⟩ auf die Hörner des Altars mit deinem Finger, und ⟨את⟩ das ganze Blut gieße aus an den Sockel des Altars.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "und du nimmst"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "von dem Blut"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "des Stieres"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "und du gibst"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "die Hörner"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "des Altars"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "mit deinem Finger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Blut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "gieße ⟨du⟩ aus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "den Sockel"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "des Altars"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:35.698507657Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und der Name seines Erstgeborenen war Jo'el, und der Name seines Zweiten Awijah — Richter in Be'er-Schewa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und ⟨es war⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der Name"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "seines Sohnes"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "des Erstgeborenen"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Jo'el"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "und der Name"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "seines Zweiten"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Awijah"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "Richter"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "in Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Schewa"
+    }
+  ],
+  "timestamp": "2026-08-05T21:08:59.234042680Z",
+  "model": "glm-5.2"
+}

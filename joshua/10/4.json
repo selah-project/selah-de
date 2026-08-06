@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "„Steigt herauf zu mir und helft mir, dass wir Givon schlagen! Denn es hat Frieden gemacht mit ⟨את⟩ Jehoschua und mit ⟨את⟩ den Söhnen Jisraels.“",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Steigt herauf"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "und helft mir"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "dass wir schlagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "es hat Frieden gemacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoschua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "mit Jehoschua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨mit⟩ ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T09:55:14.015176851Z",
+  "model": "glm-5.2"
+}

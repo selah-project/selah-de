@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "und ⟨את⟩ das Öl der Salbung und ⟨את⟩ das Räucherwerk der Gewürze für das Heiligtum — nach allem, was ich dir geboten habe, sollen sie ⟨es⟩ machen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Öl"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "Öl"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "der Salbung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Räucherwerk"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "Räucherwerk"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "der Gewürze"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "für das Heiligtum"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nach allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ich dir geboten habe"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "sollen sie machen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:46:57.836276718Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Der Mund des Gerechten murmelt Weisheit, und seine Zunge redet Recht.",
+  "tokens": [
+    {
+      "surface": "פִּי",
+      "gloss": "Der Mund"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "des Gerechten"
+    },
+    {
+      "surface": "יֶהְגֶּה",
+      "gloss": "murmelt"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "וּלְשׁוֹנוֹ",
+      "gloss": "und seine Zunge"
+    },
+    {
+      "surface": "תְּדַבֵּר",
+      "gloss": "redet"
+    },
+    {
+      "surface": "מִשְׁפָּט",
+      "gloss": "Recht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:16.417132717Z",
+  "model": "glm-5.2"
+}

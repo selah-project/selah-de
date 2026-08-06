@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 106:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und ⟨ er ⟩ sagte, ⟨ sie ⟩ zu vernichten — hätte Mosche, sein Erwählter, nicht vor ihm in der Bresche gestanden, um seinen Zorn vom Verderben abzuwenden.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֗אמֶר",
+      "gloss": "Und ⟨ er ⟩ sagte"
+    },
+    {
+      "surface": "לְֽהַשְׁמִ֫ידָ֥ם",
+      "gloss": "zu vernichten"
+    },
+    {
+      "surface": "לוּלֵ֡י",
+      "gloss": "hätte… nicht"
+    },
+    {
+      "surface": "מֹ֘שֶׁ֤ה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "בְחִיר֗וֹ",
+      "gloss": "sein Erwählter"
+    },
+    {
+      "surface": "עָמַ֣ד",
+      "gloss": "gestanden"
+    },
+    {
+      "surface": "בַּפֶּ֣רֶץ",
+      "gloss": "in der Bresche"
+    },
+    {
+      "surface": "לְפָנָ֑יו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "לְהָשִׁ֥יב",
+      "gloss": "um … abzuwenden"
+    },
+    {
+      "surface": "חֲמָת֗וֹ",
+      "gloss": "seinen Zorn"
+    },
+    {
+      "surface": "מֵֽהַשְׁחִֽית",
+      "gloss": "vom Verderben"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:42.765165544Z",
+  "model": "glm-5.2"
+}

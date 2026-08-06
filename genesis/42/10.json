@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und sie sprachen zu ihm: „Nein, mein Herr, sondern deine Knechte sind gekommen, um Lebensmittel zu kaufen.\"",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמְרוּ",
+      "gloss": "Und sie sprachen"
+    },
+    {
+      "surface": "אֵלָיו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "Nein"
+    },
+    {
+      "surface": "אֲדֹנִי",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "וַעֲבָדֶיךָ",
+      "gloss": "sondern deine Knechte"
+    },
+    {
+      "surface": "בָּאוּ",
+      "gloss": "sind gekommen"
+    },
+    {
+      "surface": "לִשְׁבָּר",
+      "gloss": "um zu kaufen"
+    },
+    {
+      "surface": "אֹכֶל",
+      "gloss": "Lebensmittel"
+    }
+  ],
+  "timestamp": "2026-08-05T17:41:01.018983397Z",
+  "model": "glm-5.2"
+}

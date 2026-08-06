@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 125,
+  "translation": "Ein Lied der Stufenlieder. Die sich verlassen auf JHWH, ⟨sind⟩ wie der Berg Tzijon — ⟨er⟩ wird nicht wanken, ⟨er⟩ wohnt für immer.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ein Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "der Stufenlieder"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Die sich verlassen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "auf JHWH"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "wie der Berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzijon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "wird wanken"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨er⟩ wohnt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:16.276127381Z",
+  "model": "glm-5.2"
+}

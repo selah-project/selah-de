@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Auf! Jeder Durstige, kommt zum Wasser, und wer kein Silber hat, kommt, kauft ⟨Brot⟩ und esst! Und kommt, kauft ohne Silber und ohne Preis Wein und Milch!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Auf!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "Durstige"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "למים",
+      "gloss": "zum Wasser"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "und wer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨hat⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kauft"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "und esst"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "und kommt"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kauft"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "und ohne"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Preis"
+    },
+    {
+      "surface": "יין",
+      "gloss": "Wein"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "und Milch"
+    }
+  ],
+  "timestamp": "2026-08-06T06:03:31.645009902Z",
+  "model": "glm-5.2"
+}

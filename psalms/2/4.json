@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "⟨Er,⟩ der ⟨im⟩ Himmel thront, lacht; Adonai spottet ⟨über⟩ sie.",
+  "tokens": [
+    {
+      "surface": "יוֹשֵׁ֣ב",
+      "gloss": "⟨Er, der⟩ thront"
+    },
+    {
+      "surface": "בַּשָּׁמַ֣יִם",
+      "gloss": "⟨im⟩ Himmel"
+    },
+    {
+      "surface": "יִשְׂחָ֑ק",
+      "gloss": "lacht"
+    },
+    {
+      "surface": "אֲ֝דֹנָ֗י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יִלְעַג",
+      "gloss": "spottet"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "⟨über⟩ sie"
+    }
+  ],
+  "timestamp": "2026-08-05T22:43:31.097095529Z",
+  "model": "glm-5.2"
+}

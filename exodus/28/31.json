@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und du sollst ⟨את⟩ das Gewand des Efod machen, vollständig aus Tekhelet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Und du sollst machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Gewand"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "das Gewand"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "des Efod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "vollständig"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "aus Tekhelet"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:36.288896400Z",
+  "model": "glm-5.2"
+}

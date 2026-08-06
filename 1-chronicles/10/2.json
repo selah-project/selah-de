@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und die Pelischtim hängten sich an Schaul und an seine Söhne, und die Pelischtim schlugen ⟨את⟩ Jonatan und ⟨את⟩ Awinadaw und ⟨את⟩ Malki-Schua, die Söhne Schauls.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "und ⟨sie⟩ hängten sich an"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨⟩ nach"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "und ⟨⟩ nach"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seinen Söhnen"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "und ⟨sie⟩ schlugen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Awinadaw"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Awinadaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Malki-Schua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-Schua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨die⟩ Söhne"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    }
+  ],
+  "timestamp": "2026-08-06T07:20:58.317667965Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Mosche sprach: „So hat JHWH gesprochen: ‚Um Mitternacht gehe ich hinaus in die Mitte von Mizrajim,'“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hat gesprochen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "Um die Hälfte von"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "der Nacht"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "gehe hinaus"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in die Mitte von"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T05:15:08.077514349Z",
+  "model": "glm-5.2"
+}

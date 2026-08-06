@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und dies ist die Sache, die du ihnen tun sollst, um sie zu weihen, um sie mir als Kohen zu dienen: Nimm einen Stier, ein Rind, und zwei Widder, tadellose ⟨Tiere⟩.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ist die Sache"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du tun sollst"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "um zu weihen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "um als Kohen zu dienen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "Nimm"
+    },
+    {
+      "surface": "פר",
+      "gloss": "einen Stier"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ein"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Rind"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "und zwei Widder"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "⟨zwei⟩"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "tadellose"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:35.023871416Z",
+  "model": "glm-5.2"
+}

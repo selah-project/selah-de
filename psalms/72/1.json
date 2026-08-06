@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Für Schelomo: Elohim, deine Rechtsentscheide gib dem König, und deine Zedek dem Sohn des Königs.",
+  "tokens": [
+    {
+      "surface": "לִשְׁלֹמֹה",
+      "gloss": "Für Schelomo"
+    },
+    {
+      "surface": "אֱֽלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מִשְׁפָּטֶיךָ",
+      "gloss": "deine Rechtsentscheide"
+    },
+    {
+      "surface": "לְמֶלֶךְ",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "תֵּן",
+      "gloss": "gib"
+    },
+    {
+      "surface": "וְצִדְקָתְךָ",
+      "gloss": "und deine Zedek"
+    },
+    {
+      "surface": "לְבֶן",
+      "gloss": "dem Sohn"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:01.826403287Z",
+  "model": "glm-5.2"
+}

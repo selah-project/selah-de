@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 67,
+  "translation": "Elohim ⟨möge⟩ uns mit Chen begegnen und uns segnen, ⟨möge⟩ ⟨er⟩ ⟨sein⟩ Angesicht ⟨über⟩ uns leuchten lassen. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "⟨möge⟩ uns mit Chen begegnen"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "und ⟨uns⟩ segnen"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "⟨möge⟩ leuchten lassen"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨sein⟩ Angesicht"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨über⟩ uns"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:05.306865606Z",
+  "model": "glm-5.2"
+}

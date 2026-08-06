@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Steigt nicht hinauf, denn JHWH ist nicht in eurer Mitte, und ihr werdet nicht geschlagen werden vor euren Feinden.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "steigt hinauf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ist in eurer Mitte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨ ihr werdet ⟩ nicht"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "geschlagen werden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "euren Feinden"
+    }
+  ],
+  "timestamp": "2026-08-06T02:17:33.156868927Z",
+  "model": "glm-5.2"
+}

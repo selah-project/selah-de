@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ich werde Mizrajim aufstacheln gegen Mizrajim, und sie werden kämpfen, ⟨ein⟩ Mann gegen ⟨seinen⟩ Bruder, und ⟨ein⟩ Mann gegen ⟨seinen⟩ Nächsten, Stadt gegen Stadt, Königreich gegen Königreich.",
+  "tokens": [
+    {
+      "surface": "וְסִכְסַכְתִּי",
+      "gloss": "Und ich werde aufstacheln"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "בְּמִצְרַיִם",
+      "gloss": "gegen Mizrajim"
+    },
+    {
+      "surface": "וְנִלְחֲמוּ",
+      "gloss": "und sie werden kämpfen"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "⟨ein⟩ Mann"
+    },
+    {
+      "surface": "בְּאָחִיו",
+      "gloss": "gegen ⟨seinen⟩ Bruder"
+    },
+    {
+      "surface": "וְאִישׁ",
+      "gloss": "und ⟨ein⟩ Mann"
+    },
+    {
+      "surface": "בְּרֵעֵהוּ",
+      "gloss": "gegen ⟨seinen⟩ Nächsten"
+    },
+    {
+      "surface": "עִיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "בְּעִיר",
+      "gloss": "gegen Stadt"
+    },
+    {
+      "surface": "מַמְלָכָה",
+      "gloss": "Königreich"
+    },
+    {
+      "surface": "בְּמַמְלָכָה",
+      "gloss": "gegen Königreich"
+    }
+  ],
+  "timestamp": "2026-08-06T08:50:20.244153220Z",
+  "model": "glm-5.2"
+}

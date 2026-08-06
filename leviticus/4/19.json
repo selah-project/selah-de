@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨את⟩ all sein Fett hebe er von ihm empor und lasse es rauchen auf dem Altar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Und ⟨את⟩",
+      "marks": "all sein Fett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "sein Fett"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "hebe er empor"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "und lasse es rauchen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "auf dem Altar"
+    }
+  ],
+  "timestamp": "2026-08-06T02:08:49.865163795Z",
+  "model": "glm-5.2"
+}

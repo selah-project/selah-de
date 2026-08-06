@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und so tat er für alle seine ausländischen Frauen, ⟨die da⟩ Räucherwerk darbrachten und opferten ihren Elohim.",
+  "tokens": [
+    {
+      "surface": "וְכֵ֣ן",
+      "gloss": "Und so"
+    },
+    {
+      "surface": "עָשָׂ֔ה",
+      "gloss": "tat er"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "für alle"
+    },
+    {
+      "surface": "נָשָׁ֖יו",
+      "gloss": "seine Frauen"
+    },
+    {
+      "surface": "הַנָּכְרִיֹּ֑ות",
+      "gloss": "die ausländischen"
+    },
+    {
+      "surface": "מַקְטִירֹ֥ות",
+      "gloss": "Räucherwerk darbringend"
+    },
+    {
+      "surface": "וּמְזַבְּחֹֹ֖ות",
+      "gloss": "und opfernd"
+    },
+    {
+      "surface": "לֵאלֹהֵיהֶֽן",
+      "gloss": "ihren Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T21:28:48.472547907Z",
+  "model": "glm-5.2"
+}

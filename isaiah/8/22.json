@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨er⟩ blickt zur Erde, und siehe: Bedrängnis und Finsternis, düsterer Flug, Drangsal und Verfinsterung, ⟨die⟩ weggetrieben ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨der⟩ Erde"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "blickt ⟨er⟩"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "Bedrängnis"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "und Finsternis"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "düsterer Flug"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "Drangsal"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "und Verfinsterung"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "weggetrieben"
+    }
+  ],
+  "timestamp": "2026-08-06T01:40:47.857413126Z",
+  "model": "glm-5.2"
+}

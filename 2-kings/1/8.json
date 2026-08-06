@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und sie sagten zu ihm: „Ein Mann, Herr von Haar, und mit einem Gürtel aus Leder gegürtet an seinen Hüften.“ Da sagte er: „Elija, der Tischbi, ⟨ist es⟩.“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sie sagten"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Herr"
+    },
+    {
+      "surface": "שער",
+      "gloss": "von Haar"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "und gegürtet"
+    },
+    {
+      "surface": "עור",
+      "gloss": "[aus] Leder"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ein Gürtel"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "an seinen Hüften"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Da sagte er"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "der Tischbi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ist es"
+    }
+  ],
+  "timestamp": "2026-08-05T21:33:09.645973539Z",
+  "model": "glm-5.2"
+}

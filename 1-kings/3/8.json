@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und dein Knecht ⟨ist⟩ in der Mitte deines Volkes, das du erwählt hast — ein Volk, das groß ist, das nicht gezählt und nicht berechnet werden kann wegen der Menge.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Und dein Knecht"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in der Mitte"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "deines Volkes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "du erwählt hast"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "das groß ist"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "gezählt werden kann"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "berechnet werden kann"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "wegen der Menge"
+    }
+  ],
+  "timestamp": "2026-08-06T01:22:28.713751464Z",
+  "model": "glm-5.2"
+}

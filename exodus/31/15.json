@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Sechs Tage lang soll Arbeit getan werden, aber am siebten Tag ⟨ist⟩ Schabbat, Schabbaton — heilig für JHWH. Jeder, der an ihm Arbeit tut, ⟨dessen⟩ Nefesch — der Tod wird getötet werden.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Sechs"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "soll getan werden"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "Arbeit"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "aber am Tag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "dem siebten"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Schabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Schabbaton"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Jeder"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "der tut"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "Arbeit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "des Schabbat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "der Tod"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wird getötet werden"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:43.359645113Z",
+  "model": "glm-5.2"
+}

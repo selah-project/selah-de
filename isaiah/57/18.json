@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 57:18",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 57,
+  "translation": "Seine Wege habe ich gesehen, und ich werde ihn heilen, und ich werde ihn leiten und ⟨ich⟩ werde ihm Trost gewähren, ⟨auch⟩ seinen Trauernden.",
+  "tokens": [
+    {
+      "surface": "דרכיו",
+      "gloss": "seine Wege"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "habe ich gesehen"
+    },
+    {
+      "surface": "וארפאהו",
+      "gloss": "und ich werde ihn heilen"
+    },
+    {
+      "surface": "ואנחהו",
+      "gloss": "und ich werde ihn leiten"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "und ⟨ich⟩ werde … gewähren"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "Trost"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "ולאבליו",
+      "gloss": "⟨auch⟩ seinen Trauernden"
+    }
+  ],
+  "timestamp": "2026-08-06T06:03:31.186125591Z",
+  "model": "glm-5.2"
+}

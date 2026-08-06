@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Gib einen Anteil sieben ⟨Mal⟩, und auch acht ⟨Mal⟩, denn du weißt nicht, was für Böses auf der Erde ⟨geschehen⟩ wird.",
+  "tokens": [
+    {
+      "surface": "תֶּן",
+      "gloss": "Gib"
+    },
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "einen Anteil"
+    },
+    {
+      "surface": "לְשִׁבְעָ֖ה",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "וְגַ֣ם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "לִשְׁמוֹנָ֑ה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תֵדַ֔ע",
+      "gloss": "du weißt"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "was"
+    },
+    {
+      "surface": "יִּהְיֶ֥ה",
+      "gloss": "sein wird"
+    },
+    {
+      "surface": "רָעָ֖ה",
+      "gloss": "an Bösem"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:04.190596588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Denn JHWH wendet ⟨את⟩ die Hoheit Jaakows, wie die Hoheit Jisraels, denn ⟨die⟩ Ausleerenden haben ⟨sie⟩ ausgeleert, und ihre Ranken haben sie verwüstet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wendet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Hoheit Jaakows"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "die Hoheit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakows"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "wie die Hoheit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "haben ausgeleert"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "⟨die⟩ Ausleerenden"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "und ihre Ranken"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "haben sie verwüstet"
+    }
+  ],
+  "timestamp": "2026-08-06T04:03:01.547292767Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Mein Volk, was habe ich dir getan, und womit habe ich dich ermüdet? Antworte mir!",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Mein Volk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "habe ich getan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "und womit"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "habe ich dich ermüdet"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Antworte"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:03:28.155661361Z",
+  "model": "glm-5.2"
+}

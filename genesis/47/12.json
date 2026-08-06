@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Und Jossef versorgte ⟨את⟩ seinen Vater und ⟨את⟩ seine Brüder und ⟨את⟩ das ganze Haus seines Vaters ⟨mit⟩ Brot, nach dem Mund der Kleinen.",
+  "tokens": [
+    {
+      "surface": "וַיְכַלְכֵּ֤ל",
+      "gloss": "und versorgte"
+    },
+    {
+      "surface": "יוֹסֵף֙",
+      "gloss": "Jossef"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Vater"
+    },
+    {
+      "surface": "אָבִ֣יו",
+      "gloss": "Vater"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Brüder"
+    },
+    {
+      "surface": "אֶחָ֔יו",
+      "gloss": "und Brüder"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Haus seines Vaters"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "אָבִ֑יו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "לֶ֖חֶם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "לְפִ֥י",
+      "gloss": "nach dem Mund"
+    },
+    {
+      "surface": "הַטָּֽף",
+      "gloss": "der Kleinen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:11:45.208998897Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Unheil, wenn ich schaute in meinem Herzen, ⟨dann⟩ hätte Adonai nicht gehört.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ich schaute"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "in meinem Herzen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hätte gehört"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:55.917290319Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 85,
+  "translation": "Du hast all deinen Zorn hinweggenommen, hast dich abgewendet von der Glut deines Schnaubens.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Du hast hinweggenommen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "deinen Zorn"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "hast ⟨du dich⟩ abgewendet"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "von der Glut"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "deines Schnaubens"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:46.922314310Z",
+  "model": "glm-5.2"
+}

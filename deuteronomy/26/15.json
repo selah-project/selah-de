@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Schau herab von deiner heiligen Wohnstätte, vom Himmel, und segne ⟨את⟩ dein Volk, ⟨את⟩ Jisra'el, und ⟨את⟩ die Erde, die du uns gegeben hast, wie du unseren Vätern geschworen hast: ein Land, fließend von Milch und Honig.",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "schau herab"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "von"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "deiner heiligen Wohnstätte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dem Himmel"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "und segne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Volk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dein Volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "du gegeben hast"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "du geschworen hast"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "unseren Vätern"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ein Land"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "fließend"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "von Milch"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "und Honig"
+    }
+  ],
+  "timestamp": "2026-08-05T20:49:56.757086338Z",
+  "model": "glm-5.2"
+}

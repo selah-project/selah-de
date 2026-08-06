@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Und ⟨את⟩ den Namen des Zweiten rief er Efrajim, denn Elohim hat mich fruchtbar gemacht im Land meines Elends.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Und ⟨את⟩",
+      "marks": "den Namen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Namen"
+    },
+    {
+      "surface": "השני",
+      "gloss": "des Zweiten"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "rief er"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "hat mich fruchtbar gemacht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "meines Elends"
+    }
+  ],
+  "timestamp": "2026-08-06T00:10:41.321846904Z",
+  "model": "glm-5.2"
+}

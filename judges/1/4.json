@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Jehuda zog hinauf, und JHWH gab ⟨את⟩ den Kenaaniter und den Perisi in ihre Hand. Und sie schlugen sie in Bezek, zehntausend Mann.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "und zog hinauf"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Kenaaniter"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "den Kenaaniter"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "und den Perisi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "in ihre Hand"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "und sie schlugen sie"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "in Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    }
+  ],
+  "timestamp": "2026-08-05T20:58:45.853632763Z",
+  "model": "glm-5.2"
+}

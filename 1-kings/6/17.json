@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und vierzig Ellen ⟨betrug⟩ das Haus, das ist der Ulam vor ⟨dem Debir⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Und vierzig"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "betrug"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "das ist"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "der Ulam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    }
+  ],
+  "timestamp": "2026-08-06T02:57:33.243448848Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Denn ⟨die⟩ ganze Erde, die du siehst — dir gebe ich ⟨sie⟩, und ⟨sie⟩ ⟨für⟩ deinen Samen, bis ⟨in⟩ die Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "כִּ֧י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Erde"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "ganze"
+    },
+    {
+      "surface": "הָאָ֛רֶץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "רֹאֶ֖ה",
+      "gloss": "siehst"
+    },
+    {
+      "surface": "לְךָ֣",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אֶתְּנֶ֑נָּה",
+      "gloss": "gebe ich ⟨sie⟩"
+    },
+    {
+      "surface": "וּֽלְזַרְעֲךָ֖",
+      "gloss": "und ⟨für⟩ deinen Samen"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עוֹלָֽם",
+      "gloss": "Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T00:04:54.202493774Z",
+  "model": "glm-5.2"
+}

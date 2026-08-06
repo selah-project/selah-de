@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Mosche streckte ⟨את⟩ seine Hand aus über ⟨die⟩ Himmel, und es ward Finsternis, Dunkelheit, in ganz ⟨der⟩ Erde Mizrajims, drei Tage.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Und ⟨er⟩ streckte aus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨die⟩ Himmel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ ward"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "Finsternis"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "Dunkelheit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ganz"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨der⟩ Erde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajims"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T05:14:54.466104320Z",
+  "model": "glm-5.2"
+}

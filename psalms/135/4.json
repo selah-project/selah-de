@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Denn Jaakow erwählte sich Jah, Jisra'el ⟨als⟩ sein Sonderbesitz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "erwählte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sich"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "⟨als⟩ sein Sonderbesitz"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:33.271357033Z",
+  "model": "glm-5.2"
+}

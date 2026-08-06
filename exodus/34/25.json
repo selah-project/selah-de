@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Du sollst nicht schlachten ⟨auf⟩ Gesäuertem das Blut meines Schlachtopfers, und ⟨es⟩ soll nicht übernachten bis zum Morgen das Schlachtopfer des Festes des Pesach.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִשְׁחַ֥ט",
+      "gloss": "sollst du schlachten"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨auf⟩"
+    },
+    {
+      "surface": "חָמֵ֖ץ",
+      "gloss": "Gesäuertem"
+    },
+    {
+      "surface": "דַּם",
+      "gloss": "das Blut"
+    },
+    {
+      "surface": "זִבְחִ֑י",
+      "gloss": "meines Schlachtopfers"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יָלִ֣ין",
+      "gloss": "soll ⟨es⟩ übernachten"
+    },
+    {
+      "surface": "לַבֹּ֔קֶר",
+      "gloss": "bis zum Morgen"
+    },
+    {
+      "surface": "זֶ֖בַח",
+      "gloss": "das Schlachtopfer"
+    },
+    {
+      "surface": "חַ֥ג",
+      "gloss": "des Festes"
+    },
+    {
+      "surface": "הַפָּֽסַח",
+      "gloss": "des Pesach"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:29.418251467Z",
+  "model": "glm-5.2"
+}

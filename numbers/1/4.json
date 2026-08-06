@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und mit euch soll ⟨sein⟩ ein Mann, je einer für ⟨einen⟩ Stamm, ein Mann, ein Haupt für das Haus seiner Väter — er.",
+  "tokens": [
+    {
+      "surface": "וְאִתְּכֶם",
+      "gloss": "und mit euch"
+    },
+    {
+      "surface": "יִהְיוּ",
+      "gloss": "soll ⟨sein⟩"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "je einer"
+    },
+    {
+      "surface": "לַמַּטֶּה",
+      "gloss": "für ⟨einen⟩ Stamm"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "ein Haupt"
+    },
+    {
+      "surface": "לְבֵית",
+      "gloss": "für das Haus"
+    },
+    {
+      "surface": "אֲבֹתָיו",
+      "gloss": "seiner Väter"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-08-06T14:53:21.534288524Z",
+  "model": "glm-5.2"
+}

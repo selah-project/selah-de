@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und die Diener des Königs, die ihm dienten, sagten: „Man suche für den König junge Mädchen, Jungfrauen, schön von Ansehen.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמְרוּ",
+      "gloss": "Und … sagten"
+    },
+    {
+      "surface": "נַעֲרֵי",
+      "gloss": "die Diener"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "מְשָׁרְתָיו",
+      "gloss": "die ihm dienten"
+    },
+    {
+      "surface": "יְבַקְשׁוּ",
+      "gloss": "Man suche"
+    },
+    {
+      "surface": "לַמֶּלֶךְ",
+      "gloss": "für den König"
+    },
+    {
+      "surface": "נְעָרוֹת",
+      "gloss": "junge Mädchen"
+    },
+    {
+      "surface": "בְּתוּלוֹת",
+      "gloss": "Jungfrauen"
+    },
+    {
+      "surface": "טוֹבוֹת",
+      "gloss": "schön"
+    },
+    {
+      "surface": "מַרְאֶה",
+      "gloss": "von Ansehen"
+    }
+  ],
+  "timestamp": "2026-08-06T16:04:50.204855930Z",
+  "model": "glm-5.2"
+}

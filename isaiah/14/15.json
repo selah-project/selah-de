@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Nur — zur Scheol wirst du hinabgestürzt, in die Tiefen der Grube.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Scheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "wirst du hinabgestürzt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in die"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "Tiefen"
+    },
+    {
+      "surface": "בור",
+      "gloss": "der Grube"
+    }
+  ],
+  "timestamp": "2026-08-05T21:45:41.066562771Z",
+  "model": "glm-5.2"
+}

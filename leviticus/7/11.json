@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und dies ist die Tora des Schlachtopfers der Schelamim, das man JHWH darbringt.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "und dies"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora (Vorschrift)"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "des Schlachtopfers"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "der Schelamim (Friedensopfer)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "man darbringt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:56.365733711Z",
+  "model": "glm-5.2"
+}

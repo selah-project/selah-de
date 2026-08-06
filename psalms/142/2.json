@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 142,
+  "translation": "Meine Stimme ⟨zu⟩ JHWH — ich schreie, meine Stimme ⟨zu⟩ JHWH — ich flehe um Gunst.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Meine Stimme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ich schreie"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "meine Stimme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ich flehe um Gunst"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:56.681548264Z",
+  "model": "glm-5.2"
+}

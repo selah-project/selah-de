@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Und Josséf starb, ein Sohn von hundert und zehn Jahren, und sie balsamierten ⟨את⟩ ihn ein, und man legte ⟨ihn⟩ in einen Sarg in Mizrajim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "und starb"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josséf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ein Sohn"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "von hundert"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "und zehn"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "und sie balsamierten ein"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "und man legte"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "in einen Sarg"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:12:30.027412355Z",
+  "model": "glm-5.2"
+}

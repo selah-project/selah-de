@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Wem jagt der König von Jisra'el nach? Wem jagst du ⟨da⟩ nach? Einem toten Hund, einem einzigen Floh!",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Wem jagt … nach"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wem"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ist ausgezogen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Wem jagst du nach"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "jagst"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Einem … nach"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Hund"
+    },
+    {
+      "surface": "מת",
+      "gloss": "toten"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "einem … nach"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Floh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einzigen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:14:15.059748193Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Geh nicht hinaus auf das Feld, und auf dem Weg geh nicht, denn Schwert des Feindes, Schrecken ringsum.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "geh hinaus"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "das Feld"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "und auf dem Weg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "geh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Schwert"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "dem Feind"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "Schrecken"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ringsum"
+    }
+  ],
+  "timestamp": "2026-08-06T10:14:38.440722736Z",
+  "model": "glm-5.2"
+}

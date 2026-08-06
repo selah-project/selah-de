@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Weil du sagtest: ⟨את⟩ die zwei Nationen und ⟨את⟩ die zwei Länder — mir gehören sie, und wir nehmen sie in Besitz!, obwohl JHWH ⟨dort⟩ war —",
+  "tokens": [
+    {
+      "surface": "יַ֣עַן",
+      "gloss": "Weil"
+    },
+    {
+      "surface": "אֲ֠מָרְךָ",
+      "gloss": "du sagtest"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die zwei Nationen"
+    },
+    {
+      "surface": "שְׁנֵ֨י",
+      "gloss": "die zwei"
+    },
+    {
+      "surface": "הַגּוֹיִ֜ם",
+      "gloss": "Nationen"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die zwei Länder"
+    },
+    {
+      "surface": "שְׁתֵּ֧י",
+      "gloss": "die zwei"
+    },
+    {
+      "surface": "הָאֲרָצ֛וֹת",
+      "gloss": "Länder"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "תִהְיֶ֖ינָה",
+      "gloss": "gehören sie"
+    },
+    {
+      "surface": "וִֽירַשְׁנֻ֑הָ",
+      "gloss": "und wir nehmen sie in Besitz"
+    },
+    {
+      "surface": "וַֽיהוָ֖ה",
+      "gloss": "obwohl JHWH"
+    },
+    {
+      "surface": "שָׁ֥ם",
+      "gloss": "⟨dort⟩"
+    },
+    {
+      "surface": "הָיָֽה",
+      "gloss": "war"
+    }
+  ],
+  "timestamp": "2026-08-06T06:26:02.001554719Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 140,
+  "translation": "Gib nicht, JHWH, ⟨die⟩ Begierden des Frevlers; seine Ränke — lass sie nicht gelingen, dass sie sich ⟨nicht⟩ erheben. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gib"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "Begierden"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "des Frevlers"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "seine Ränke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "lass gelingen"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "dass sie sich erheben"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:34.441093491Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "Segnet JHWH, ⟨ihr⟩ seine Mal'achim, Helden der Kraft, die sein Wort tun, um auf die Stimme seines Wortes zu hören!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Segnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "⟨ihr⟩ seine Mal'achim"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "Helden"
+    },
+    {
+      "surface": "כח",
+      "gloss": "der Kraft"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "die tun"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sein Wort"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "um zu hören"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "seines Wortes"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:14.173574389Z",
+  "model": "glm-5.2"
+}

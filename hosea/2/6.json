@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨את⟩ ihre Kinder werde ich nicht erbarmen, denn Kinder von Hurerei sind sie.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Kinder"
+    },
+    {
+      "surface": "בָּנֶ֖יהָ",
+      "gloss": "ihre Kinder"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אֲרַחֵ֑ם",
+      "gloss": "werde ich erbarmen"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בְנֵ֥י",
+      "gloss": "Kinder"
+    },
+    {
+      "surface": "זְנוּנִ֖ים",
+      "gloss": "von Hurerei"
+    },
+    {
+      "surface": "הֵֽמָּה",
+      "gloss": "sind sie"
+    }
+  ],
+  "timestamp": "2026-08-06T03:57:10.850592959Z",
+  "model": "glm-5.2"
+}

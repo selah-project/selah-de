@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und Awjatar berichtete dem Dawid, dass Schaul die Kohanim von JHWH erschlagen habe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Und ⟨er⟩ berichtete"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Awjatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dem Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "erschlagen habe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kohanim"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "die Kohanim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T08:38:39.991074719Z",
+  "model": "glm-5.2"
+}

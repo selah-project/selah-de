@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Weicht von mir, all ihr Täter von Awen, denn JHWH hat ⟨die⟩ Stimme meines Weinens gehört.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Weicht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "Täter von"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hat gehört"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨die⟩ Stimme"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "meines Weinens"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:39.738223229Z",
+  "model": "glm-5.2"
+}

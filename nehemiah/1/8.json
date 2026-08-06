@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Gedenke doch ⟨את⟩ des Wortes, das du geboten hast ⟨את⟩ Mosche, deinem Knecht, indem ⟨du⟩ sprachst: „Ihr — ihr werdet treulos handeln; ich werde euch zerstreuen unter die Völker.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Gedenke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "des Wortes"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "des Wortes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "du geboten hast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "deinem Knecht"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨du⟩ sprachst"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ihr"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "werdet treulos handeln"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "werde zerstreuen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "unter die Völker"
+    }
+  ],
+  "timestamp": "2026-08-05T23:41:46.317344068Z",
+  "model": "glm-5.2"
+}

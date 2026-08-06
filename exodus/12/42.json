@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Eine Nacht der Wachen ist sie, dem JHWH, um sie aus dem Land Mizrajim herauszuführen — ⟨es⟩ ist ⟨diese⟩ Nacht ⟨diese⟩, dem JHWH, Wachen für alle Söhne Jisraels, für ihre Geschlechter.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "Eine Nacht"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "der Wachen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist sie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dem JHWH"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "um sie herauszuführen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨es⟩ ist"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨diese⟩ Nacht"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨diese⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dem JHWH"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "Wachen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "für alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "für ihre Geschlechter"
+    }
+  ],
+  "timestamp": "2026-08-06T00:15:42.748511828Z",
+  "model": "glm-5.2"
+}

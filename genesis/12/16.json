@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ⟨er⟩ ließ es Awraham gut gehen ihretwegen, und ⟨es⟩ wurden ihm zuteil: Kleinvieh und Rinder und Esel, Knechte und Mägde, Eselinnen und Kamele.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "und ⟨für⟩ Awraham"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ließ es gut gehen"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "ihretwegen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ wurden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "Kleinvieh"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "und Rinder"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "und Esel"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "und Knechte"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "und Mägde"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "Eselinnen"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "und Kamele"
+    }
+  ],
+  "timestamp": "2026-08-06T00:04:38.601326915Z",
+  "model": "glm-5.2"
+}

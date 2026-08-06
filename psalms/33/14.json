@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Von der Stätte ⟨seines⟩ Sitzens schaute er ⟨auf⟩ alle Bewohner der Erde.",
+  "tokens": [
+    {
+      "surface": "מִמְּכוֹן",
+      "gloss": "von der Stätte"
+    },
+    {
+      "surface": "שִׁבְתּוֹ",
+      "gloss": "⟨seines⟩ Sitzens"
+    },
+    {
+      "surface": "הִשְׁגִּיחַ",
+      "gloss": "schaute er"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨auf⟩"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:06.730450918Z",
+  "model": "glm-5.2"
+}

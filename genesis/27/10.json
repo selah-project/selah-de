@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und du sollst ⟨es⟩ deinem Vater bringen, und ⟨er⟩ soll essen, damit er dich segnet vor ⟨seinem⟩ Sterben.",
+  "tokens": [
+    {
+      "surface": "וְהֵבֵאתָ",
+      "gloss": "Und du sollst bringen"
+    },
+    {
+      "surface": "לְאָבִיךָ",
+      "gloss": "deinem Vater"
+    },
+    {
+      "surface": "וְאָכָל",
+      "gloss": "und ⟨er⟩ soll essen"
+    },
+    {
+      "surface": "בַּעֲבֻר",
+      "gloss": "damit"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יְבָרֶכְךָ",
+      "gloss": "er dich segnet"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "vor"
+    },
+    {
+      "surface": "מוֹתוֹ",
+      "gloss": "⟨seinem⟩ Sterben"
+    }
+  ],
+  "timestamp": "2026-08-06T00:07:44.771080678Z",
+  "model": "glm-5.2"
+}

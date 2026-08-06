@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Und Jisraël sagte: „Warum habt ihr mir Böses getan, dem Mann zu verraten, ob ihr noch ⟨einen⟩ Bruder habt?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "habt ihr Böses getan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "zu verraten"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "dem Mann"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "ob noch"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ihr habt"
+    },
+    {
+      "surface": "אח",
+      "gloss": "⟨einen⟩ Bruder"
+    }
+  ],
+  "timestamp": "2026-08-06T00:10:30.888298826Z",
+  "model": "glm-5.2"
+}

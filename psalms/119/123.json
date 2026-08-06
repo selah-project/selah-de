@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Meine Augen verschmachten ⟨im Warten⟩ auf deine Rettung und auf das Wort deiner Gerechtigkeit.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "verschmachten"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "⟨im Warten⟩ auf deine Rettung"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "und auf das Wort"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "deiner Gerechtigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:30.655517041Z",
+  "model": "glm-5.2"
+}

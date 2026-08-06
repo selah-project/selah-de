@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Ein gestützter Sinn — ⟨du⟩ wirst ⟨ihn⟩ behüten: Schalom, Schalom. Denn auf dich verlässt er sich.",
+  "tokens": [
+    {
+      "surface": "יֵ֣צֶר",
+      "gloss": "Sinn"
+    },
+    {
+      "surface": "סָמ֔וּךְ",
+      "gloss": "gestützter"
+    },
+    {
+      "surface": "תִּצֹּ֖ר",
+      "gloss": "wirst behüten"
+    },
+    {
+      "surface": "שָׁל֣וֹם",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "שָׁל֑וֹם",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בְךָ֖",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "בָּטֽוּחַ",
+      "gloss": "verlässt er sich"
+    }
+  ],
+  "timestamp": "2026-08-06T01:44:09.334235648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "An einem Tag des Guten sei im Guten, und an einem Tag des Bösen sieh: auch ⟨את⟩ dieses hat der Elohim dem gegenüber jenem gemacht, damit der Mensch hinter ihm gar nichts findet.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "An einem Tag"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "des Guten"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "im Guten"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "und an einem Tag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "des Bösen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sieh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieses"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "dem gegenüber"
+    },
+    {
+      "surface": "זה",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hat gemacht"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "der Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "damit"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "—"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "findet"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hinter ihm"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "gar nichts"
+    }
+  ],
+  "timestamp": "2026-08-06T15:28:06.238307655Z",
+  "model": "glm-5.2"
+}

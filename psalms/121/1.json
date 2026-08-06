@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 121,
+  "translation": "Ein Lied der Stufen. Ich hebe meine Augen zu den Bergen — woher wird meine Hilfe kommen?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "der Stufen"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ich hebe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "den Bergen"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "woher"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "wird kommen"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "meine Hilfe"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:28.871994851Z",
+  "model": "glm-5.2"
+}

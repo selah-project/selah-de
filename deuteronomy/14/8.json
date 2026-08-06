@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und ⟨את⟩ ⟨das⟩ Schwein — denn es spaltet ⟨die⟩ Klaue, aber ⟨es bringt⟩ nicht ⟨das⟩ Wiederkäuen ⟨hoch⟩ —, unrein ist es für euch. Von ihrem Fleisch sollt ihr nicht essen, und an ihrem Aas sollt ihr nicht berühren.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Schwein"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "⟨das⟩ Schwein"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "es spaltet"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "⟨die⟩ Klaue"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "⟨das⟩ Wiederkäuen"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist es"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "von ihrem Fleisch"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sollt ihr essen"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "und an ihrem Aas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "sollt ihr berühren"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:56.411347021Z",
+  "model": "glm-5.2"
+}

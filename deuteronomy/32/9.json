@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Denn JHWHs Anteil ⟨ist⟩ sein Volk, Jaakow das Seil seines Erbteils.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "Anteil"
+    },
+    {
+      "surface": "יְהֹוָ֖ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "עַמּ֑וֹ",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "יַעֲקֹ֖ב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "חֶ֥בֶל",
+      "gloss": "das Seil"
+    },
+    {
+      "surface": "נַחֲלָתֽוֹ",
+      "gloss": "seines Erbteils"
+    }
+  ],
+  "timestamp": "2026-08-06T02:28:59.533369253Z",
+  "model": "glm-5.2"
+}

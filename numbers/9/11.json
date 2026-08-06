@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Im zweiten Monat, am vierzehnten Tag, zwischen den Abendzeiten sollen sie ⟨es⟩ machen; auf Mazza und bitteren Kräutern sollen sie es essen.",
+  "tokens": [
+    {
+      "surface": "בַּחֹ֨דֶשׁ",
+      "gloss": "Im Monat"
+    },
+    {
+      "surface": "הַשֵּׁנִ֜י",
+      "gloss": "dem zweiten"
+    },
+    {
+      "surface": "בְּאַרְבָּעָ֨ה",
+      "gloss": "am vier"
+    },
+    {
+      "surface": "עָשָׂ֥ר",
+      "gloss": "zehnten"
+    },
+    {
+      "surface": "י֛וֹם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "הָעַרְבַּ֖יִם",
+      "gloss": "den Abendzeiten"
+    },
+    {
+      "surface": "יַעֲשׂ֣וּ",
+      "gloss": "sollen sie machen"
+    },
+    {
+      "surface": "אֹת֑וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ihn (das Pesach-Opfer)"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מַצּ֥וֹת",
+      "gloss": "Mazza"
+    },
+    {
+      "surface": "וּמְרֹרִ֖ים",
+      "gloss": "und bitteren Kräutern"
+    },
+    {
+      "surface": "יֹאכְלֻֽהוּ",
+      "gloss": "sollen sie es essen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:33:36.855013876Z",
+  "model": "glm-5.2"
+}

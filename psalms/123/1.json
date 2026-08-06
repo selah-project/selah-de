@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 123,
+  "translation": "Ein Lied der Stufen. Zu dir habe ich ⟨את⟩ meine Augen erhoben, ⟨du⟩, ⟨der⟩ du thronst in den Himmeln.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ein Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "der Stufen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Zu dir"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "habe ich erhoben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Augen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "⟨der⟩ du thronst"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in den Himmeln"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:28.902322308Z",
+  "model": "glm-5.2"
+}

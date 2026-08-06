@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und der Kohen soll ⟨את⟩ es schätzen, sei es gut oder sei es schlecht; wie deine Schätzung, ⟨du⟩ Kohen, so soll es sein.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "Und der Kohen soll schätzen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "es"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sei es"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "oder sei es"
+    },
+    {
+      "surface": "רע",
+      "gloss": "schlecht"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "wie deine Schätzung"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll es sein"
+    }
+  ],
+  "timestamp": "2026-08-06T00:30:44.131742038Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und die Schlange sprach zur Frau: „Kein Sterben werdet ihr sterben.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "die Schlange"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "der Frau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Kein"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Sterben"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "werdet ihr sterben"
+    }
+  ],
+  "timestamp": "2026-08-06T01:51:55.963824965Z",
+  "model": "glm-5.2"
+}

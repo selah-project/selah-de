@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "Vor Efrajim und Binjamin und Menasche wecke ⟨deine⟩ Macht ⟨את⟩ auf, und komm zur Rettung für uns!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "und Binjamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "und Menasche"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "wecke auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Macht"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "deine Macht"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "und komm"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "zur Rettung"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "für uns"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:34.431360554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ihr sollt einreißen ⟨את⟩ ihre Altäre und zerschlagen ⟨את⟩ ihre Mazzebot, und ihre Ascherim sollt ihr mit Feuer verbrennen, und die Götzenbilder ihrer Elohim sollt ihr abhacken, und ihr sollt ⟨את⟩ ihren Namen von ⟨jenem⟩ Ort auslöschen.",
+  "tokens": [
+    {
+      "surface": "וְנִתַּצְתֶּם",
+      "gloss": "und ihr sollt einreißen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Altäre"
+    },
+    {
+      "surface": "מִזְבְּחֹתָם",
+      "gloss": "ihre Altäre"
+    },
+    {
+      "surface": "וְשִׁבַּרְתֶּם",
+      "gloss": "und zerschlagen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Mazzebot"
+    },
+    {
+      "surface": "מַצֵּבֹתָם",
+      "gloss": "ihre Mazzebot"
+    },
+    {
+      "surface": "וַאֲשֵׁרֵיהֶם",
+      "gloss": "und ihre Ascherim"
+    },
+    {
+      "surface": "תִּשְׂרְפוּן",
+      "gloss": "sollt ihr verbrennen"
+    },
+    {
+      "surface": "בָּאֵשׁ",
+      "gloss": "mit Feuer"
+    },
+    {
+      "surface": "וּפְסִילֵי",
+      "gloss": "und die Götzenbilder"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "ihrer Elohim"
+    },
+    {
+      "surface": "תְּגַדֵּעוּן",
+      "gloss": "sollt ihr abhacken"
+    },
+    {
+      "surface": "וְאִבַּדְתֶּם",
+      "gloss": "und ihr sollt auslöschen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Namen"
+    },
+    {
+      "surface": "שְׁמָם",
+      "gloss": "ihren Namen"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הַמָּקוֹם",
+      "gloss": "Ort"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "jenem"
+    }
+  ],
+  "timestamp": "2026-08-06T00:43:41.965886983Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Mosche stieg hinab zum Volk und sprach zu ihnen.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "und stieg hinab"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:10:54.599009878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Wohin soll ich gehen vor deiner Ruach, und wohin soll ich fliehen vor deinem Angesicht?",
+  "tokens": [
+    {
+      "surface": "אָ֭נָ֥ה",
+      "gloss": "Wohin"
+    },
+    {
+      "surface": "אֵלֵ֣ךְ",
+      "gloss": "soll ich gehen"
+    },
+    {
+      "surface": "מֵרוּחֶ֑ךָ",
+      "gloss": "vor deiner Ruach"
+    },
+    {
+      "surface": "וְ֝אָ֗נָה",
+      "gloss": "und wohin"
+    },
+    {
+      "surface": "מִפָּנֶ֥יךָ",
+      "gloss": "vor deinem Angesicht"
+    },
+    {
+      "surface": "אֶבְרָֽח",
+      "gloss": "soll ich fliehen"
+    }
+  ],
+  "timestamp": "2026-08-06T19:52:19.897016369Z",
+  "model": "glm-5.2"
+}

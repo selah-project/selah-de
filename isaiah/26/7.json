@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Der Pfad ⟨für den⟩ Gerechten ⟨ist⟩ Geradheit; ⟨du⟩, der Aufrichtige, ebenst die Bahn ⟨des⟩ Gerechten.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "Der Pfad"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "⟨für den⟩ Gerechten"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "Geradheit"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Aufrichtige"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "die Bahn"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨des⟩ Gerechten"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ebenst"
+    }
+  ],
+  "timestamp": "2026-08-05T21:47:26.198710174Z",
+  "model": "glm-5.2"
+}

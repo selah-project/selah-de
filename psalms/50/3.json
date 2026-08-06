@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Es komme, unser Elohim, und ⟨er⟩ schweige nicht! Feuer ⟨⟨das⟩⟩ vor ihm her ⟨ist⟩, frisst, und um ihn herum tobt es heftig.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Es komme"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨er⟩ schweige nicht"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": ""
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vor ihm her"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "frisst"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "und um ihn herum"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "tobt es"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "heftig"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:46.764112357Z",
+  "model": "glm-5.2"
+}

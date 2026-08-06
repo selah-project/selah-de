@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 130,
+  "translation": "Adonai, höre ⟨auf⟩ meine Stimme! ⟨Deine⟩ Ohren seien aufmerksam ⟨auf⟩ die Stimme meines Flehens!",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָי֮",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שִׁמְעָ֪ה",
+      "gloss": "höre"
+    },
+    {
+      "surface": "בְק֫וֹלִ֥י",
+      "gloss": "⟨auf⟩ meine Stimme"
+    },
+    {
+      "surface": "תִּהְיֶ֣ינָה",
+      "gloss": "seien"
+    },
+    {
+      "surface": "אָ֭זְנֶיךָ",
+      "gloss": "⟨Deine⟩ Ohren"
+    },
+    {
+      "surface": "קַשֻּׁב֑וֹת",
+      "gloss": "aufmerksam"
+    },
+    {
+      "surface": "לְ֝ק֗וֹל",
+      "gloss": "⟨auf⟩ die Stimme"
+    },
+    {
+      "surface": "תַּחֲנוּנָֽי",
+      "gloss": "meines Flehens"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:56.164409685Z",
+  "model": "glm-5.2"
+}

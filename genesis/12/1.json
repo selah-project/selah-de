@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und JHWH sprach zu Awram: Geh du, aus deinem Land und aus deiner Verwandtschaft und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "aus deinem Land"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "und aus deiner Verwandtschaft"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "und aus dem Haus"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ich dir zeigen werde"
+    }
+  ],
+  "timestamp": "2026-08-06T22:30:24.940081131Z",
+  "model": "glm-5.2"
+}

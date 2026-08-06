@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "Bei der Menge meiner Gedanken in meinem Innern trösten deine Tröstungen meine Nefesch.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "Bei der Menge"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "meiner Gedanken"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "in meinem Innern"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "deine Tröstungen"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "trösten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:24.714381463Z",
+  "model": "glm-5.2"
+}

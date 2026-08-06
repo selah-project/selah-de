@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Da trat Awraham heran und sagte: „Wirst du wirklich ⟨auch⟩ den Gerechten mit dem Schuldigen hinwegfegen?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Da trat heran"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "האף",
+      "gloss": "wirklich?"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "wirst du hinwegfegen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den Gerechten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dem Schuldigen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:05:16.147130291Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ⟨es war⟩ der Anfang seines Königreichs Bawel und Erek und Akkad und Kalne, im Land Schinar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Und ⟨es war⟩"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "der Anfang"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "seines Königreichs"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bawel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "und Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "und Akkad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "und Kalne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Schinar"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:49.953513112Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Jeder Mann von den Kohanim darf ⟨es⟩ essen; an heiliger Stätte ⟨wird⟩ ⟨es⟩ gegessen ⟨werden⟩; Höchstheiliges ⟨ist⟩ ⟨es⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "von den Kohanim"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "darf ⟨es⟩ essen"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "an ⟨der⟩ Stätte"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heiliger"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨wird⟩ gegessen ⟨werden⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Heiliges"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "der Heiligkeiten"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨es⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:42.540281839Z",
+  "model": "glm-5.2"
+}

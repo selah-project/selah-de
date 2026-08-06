@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "ein Land von Weizen und Gerste und Weinstock und Feigenbaum und Granatapfel, ein Land von Olivenöl und Honig.",
+  "tokens": [
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "ein Land"
+    },
+    {
+      "surface": "חִטָּה",
+      "gloss": "von Weizen"
+    },
+    {
+      "surface": "וּשְׂעֹרָה",
+      "gloss": "und Gerste"
+    },
+    {
+      "surface": "וְגֶפֶן",
+      "gloss": "und Weinstock"
+    },
+    {
+      "surface": "וּתְאֵנָה",
+      "gloss": "und Feigenbaum"
+    },
+    {
+      "surface": "וְרִמּוֹן",
+      "gloss": "und Granatapfel"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "ein Land"
+    },
+    {
+      "surface": "זֵית",
+      "gloss": "von Oliven"
+    },
+    {
+      "surface": "שֶׁמֶן",
+      "gloss": "Öl"
+    },
+    {
+      "surface": "וּדְבָשׁ",
+      "gloss": "und Honig"
+    }
+  ],
+  "timestamp": "2026-08-06T02:24:02.771503258Z",
+  "model": "glm-5.2"
+}

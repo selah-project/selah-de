@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Der Rascche borgt und gibt nicht zurück; ⟨aber⟩ der Gerechte ist gnädig und gibt.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "borgt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "der Rascche"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "gibt zurück"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "⟨aber⟩ der Gerechte"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ist gnädig"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "und gibt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:38.305462546Z",
+  "model": "glm-5.2"
+}

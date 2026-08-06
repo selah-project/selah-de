@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und ich werde ⟨את⟩ Mizrajim zerstreuen unter den Nationen, und ich werde sie verwehen unter den Ländern.",
+  "tokens": [
+    {
+      "surface": "וַהֲפִצוֹתִ֥י",
+      "gloss": "Und ich werde zerstreuen"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Mizrajim"
+    },
+    {
+      "surface": "מִצְרַ֖יִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "בַּגּוֹיִ֑ם",
+      "gloss": "unter den Nationen"
+    },
+    {
+      "surface": "וְזֵרִיתִ֖ם",
+      "gloss": "und ich werde sie verwehen"
+    },
+    {
+      "surface": "בָּאֲרָצֽוֹת",
+      "gloss": "unter den Ländern"
+    }
+  ],
+  "timestamp": "2026-08-06T20:37:13.979690418Z",
+  "model": "glm-5.2"
+}

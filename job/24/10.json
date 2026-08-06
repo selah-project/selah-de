@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Nackt gehen sie umher ohne Kleidung, und ⟨die⟩ Hungrigen tragen ⟨die⟩ Garbe.",
+  "tokens": [
+    {
+      "surface": "עָרֹ֣ם",
+      "gloss": "nackt"
+    },
+    {
+      "surface": "הִ֭לְּכוּ",
+      "gloss": "gehen sie umher"
+    },
+    {
+      "surface": "בְּלִ֣י",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "לְב֑וּשׁ",
+      "gloss": "Kleidung"
+    },
+    {
+      "surface": "וּרְעֵבִ֗ים",
+      "gloss": "und die Hungrigen"
+    },
+    {
+      "surface": "נָ֣שְׂאוּ",
+      "gloss": "tragen"
+    },
+    {
+      "surface": "עֹֽמֶר",
+      "gloss": "Garbe"
+    }
+  ],
+  "timestamp": "2026-08-06T07:02:38.756410785Z",
+  "model": "glm-5.2"
+}

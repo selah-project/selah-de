@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und es starben auch beide, Machlon und Kiljon, und ⟨es⟩ blieb ⟨die⟩ Frau übrig von ihren beiden Kindern und von ihrem Mann.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "Und es starben"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "beide"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "und Kiljon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "und ⟨es⟩ blieb übrig"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨die⟩ Frau"
+    },
+    {
+      "surface": "משני",
+      "gloss": "von ihren beiden"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "Kindern"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "und von ihrem Mann"
+    }
+  ],
+  "timestamp": "2026-08-06T10:38:18.618757994Z",
+  "model": "glm-5.2"
+}

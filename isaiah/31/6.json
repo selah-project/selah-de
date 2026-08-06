@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 31:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Kehrt um zu ⟨dem⟩, wovon ⟨die⟩Söhne Jisraels tief abgewichen sind!",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "Kehrt um"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "zu ⟨dem⟩, wovon"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "tief … haben"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "abgewichen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T01:45:46.564909961Z",
+  "model": "glm-5.2"
+}

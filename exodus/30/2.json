@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Eine Elle ⟨soll⟩ seine Länge ⟨sein⟩ und eine Elle seine Breite — viereckig soll er sein — und zwei Ellen seine Höhe; aus ihm ⟨sollen› seine Hörner ⟨sein⟩.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "Eine Elle"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "seine Länge"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "und eine Elle"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "seine Breite"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "viereckig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll er sein"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "und zwei Ellen"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "seine Höhe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "aus ihm"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "seine Hörner"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:24.075652768Z",
+  "model": "glm-5.2"
+}

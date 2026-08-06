@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und JHWH sprach: „Siehe, ⟨es ist⟩ ein Ort bei mir, und du sollst stehen auf dem Felsen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ein Ort"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "bei mir"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "und du sollst stehen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "dem Felsen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:03.160622367Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Gesegnet ⟨sei⟩ JHWH, ⟨der⟩ Elohim Jisraels, von der Weltzeit bis zur Weltzeit. Amen und Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "von der Weltzeit"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "zur Weltzeit"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "und Amen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:00.167311197Z",
+  "model": "glm-5.2"
+}

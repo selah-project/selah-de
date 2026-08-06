@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "Glückselig ⟨den⟩, den du erwählst und herannahen lässt, dass er wohne in deinen Höfen — wir werden gesättigt mit dem Guten deines Hauses, dem Heiligtum deines Tempels.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֤י",
+      "gloss": "Glückselig"
+    },
+    {
+      "surface": "תִּֽבְחַ֣ר",
+      "gloss": "du erwählst"
+    },
+    {
+      "surface": "וּתְקָרֵב֮",
+      "gloss": "und herannahen lässt"
+    },
+    {
+      "surface": "יִשְׁכֹּ֪ן",
+      "gloss": "dass er wohne"
+    },
+    {
+      "surface": "חֲצֵ֫רֶ֥יךָ",
+      "gloss": "in deinen Höfen"
+    },
+    {
+      "surface": "נִ֭שְׂבְּעָה",
+      "gloss": "wir werden gesättigt"
+    },
+    {
+      "surface": "בְּט֣וּב",
+      "gloss": "mit dem Guten"
+    },
+    {
+      "surface": "בֵּיתֶ֑ךָ",
+      "gloss": "deines Hauses"
+    },
+    {
+      "surface": "קְ֝דֹ֗שׁ",
+      "gloss": "Heiligtum"
+    },
+    {
+      "surface": "הֵיכָלֶֽךָ",
+      "gloss": "deines Tempels"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:02.989721096Z",
+  "model": "glm-5.2"
+}

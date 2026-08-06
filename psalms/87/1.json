@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 87,
+  "translation": "Den Söhnen Korachs. Ein Mismor, ein Schir. ⟨Seine⟩ Gründung ⟨ist⟩ auf den Bergen der Heiligkeit.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Den Söhnen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachs"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mismor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ein Schir"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "⟨Seine⟩ Gründung"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "auf den Bergen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "der Heiligkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:23.771001942Z",
+  "model": "glm-5.2"
+}

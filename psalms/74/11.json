@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Warum ziehst du deine Hand zurück, ⟨auch⟩ deine Rechte, aus deiner Mitte? ⟨Vernichte sie!⟩",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ziehst du zurück"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "⟨auch⟩ deine Rechte"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "aus"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "deiner Mitte"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨Vernichte sie!⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:28.473297248Z",
+  "model": "glm-5.2"
+}

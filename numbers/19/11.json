@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Der einen Toten berührt — ⟨bei⟩ irgendeiner Nefesch des Menschen —, der wird unrein sieben Tage lang.",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "Der berührt"
+    },
+    {
+      "surface": "במת",
+      "gloss": "einen Toten"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "irgendeiner"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "der wird unrein"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage lang"
+    }
+  ],
+  "timestamp": "2026-08-05T20:36:25.746416161Z",
+  "model": "glm-5.2"
+}

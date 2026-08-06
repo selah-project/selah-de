@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Sei nicht unüberlegt — von seinem Angesicht weg gehst du; tritt nicht ⟨in⟩ eine böse Sache ein, denn alles, was er will, tut er.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "sei unüberlegt"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "von seinem Angesicht"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gehst du"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "tritt ⟨ein⟩"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "in einer Sache"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bösen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "er will"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tut er"
+    }
+  ],
+  "timestamp": "2026-08-06T07:10:47.695978802Z",
+  "model": "glm-5.2"
+}

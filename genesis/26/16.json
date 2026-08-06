@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und Awimelech sagte zu Jizchak: „Geh weg von uns, denn du bist mächtiger geworden als wir, sehr.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jizchak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "geh"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "weg von uns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "du bist mächtiger geworden"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "als wir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-05T17:35:14.158328016Z",
+  "model": "glm-5.2"
+}

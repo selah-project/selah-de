@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und der König von Jisraël sprach zu Elischä, als er sie sah: „Mein Vater, soll ich schlagen, soll ich schlagen?",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "von Jisraël"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אֱלִישָׁע",
+      "gloss": "Elischä"
+    },
+    {
+      "surface": "כִּרְאֹתוֹ",
+      "gloss": "als ⟨er⟩ sah"
+    },
+    {
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "הַאַכֶּה",
+      "gloss": "soll ich schlagen"
+    },
+    {
+      "surface": "אַכֶּה",
+      "gloss": "soll ich schlagen"
+    },
+    {
+      "surface": "אָבִי",
+      "gloss": "mein Vater"
+    }
+  ],
+  "timestamp": "2026-08-06T01:32:43.940616995Z",
+  "model": "glm-5.2"
+}

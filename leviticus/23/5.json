@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Im ersten ⟨Monat⟩, am Vierzehnten ⟨des⟩ Monats, zwischen den Abenden ⟨ist⟩ Pessach für JHWH.",
+  "tokens": [
+    {
+      "surface": "בַּחֹ֣דֶשׁ",
+      "gloss": "Im"
+    },
+    {
+      "surface": "הָרִאשׁ֗וֹן",
+      "gloss": "ersten"
+    },
+    {
+      "surface": "בְּאַרְבָּעָ֥ה",
+      "gloss": "am Vierzehnten"
+    },
+    {
+      "surface": "עָשָׂ֛ר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לַחֹ֖דֶשׁ",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "בֵּ֣ין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "הָעַרְבָּ֑יִם",
+      "gloss": "den Abenden"
+    },
+    {
+      "surface": "פֶּ֖סַח",
+      "gloss": "Pessach"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:27.366506557Z",
+  "model": "glm-5.2"
+}

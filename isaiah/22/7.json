@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 22:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und es geschah: ⟨die⟩ Auslese deiner Täler füllte sich mit Kriegswagen, und die Reiter postierten sich, ⟨sie⟩ postierten sich am Tor.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "Auslese"
+    },
+    {
+      "surface": "עמקיך",
+      "gloss": "deiner Täler"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "füllte sich"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "mit Kriegswagen"
+    },
+    {
+      "surface": "והפרשים",
+      "gloss": "und die Reiter"
+    },
+    {
+      "surface": "שת",
+      "gloss": "postierten sich"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "⟨sie⟩ postierten sich"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "am Tor"
+    }
+  ],
+  "timestamp": "2026-08-06T05:59:08.991796092Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und der Kohen soll ihn zum Altar bringen, den Kopf abkneifen — ⟨את⟩ seinen Kopf — und auf dem Altar in Rauch aufgehen lassen, und ⟨man⟩ soll sein Blut an die Wand des Altars auspressen.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "und ⟨er⟩ soll ⟨ihn⟩ bringen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dem Altar"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "und ⟨soll⟩ abkneifen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Kopf"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "seinen Kopf"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "und ⟨soll⟩ in Rauch aufgehen lassen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "auf dem Altar"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "und ⟨man⟩ soll auspressen"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sein Blut"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "die Wand"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "des Altars"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:58.956696231Z",
+  "model": "glm-5.2"
+}

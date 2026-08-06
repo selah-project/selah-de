@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 45:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Träufelt, ihr Himmel, von oben her, und die Wolkenschichten mögen träufeln ⟨die⟩ Zedek! Die Erde tue sich auf und bringe hervor Jeschua, und Zedaka sprieße zugleich — ich, JHWH, habe ⟨es⟩ geschaffen.",
+  "tokens": [
+    {
+      "surface": "הרעיפו",
+      "gloss": "Träufelt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ihr Himmel"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "von oben her"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "und die Wolkenschichten"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "mögen träufeln"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Zedek"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "tue sich auf"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ויפרו",
+      "gloss": "und bringe hervor"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "Jeschua"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "und Zedaka"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "sprieße"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zugleich"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "habe geschaffen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:12:50.979570698Z",
+  "model": "glm-5.2"
+}

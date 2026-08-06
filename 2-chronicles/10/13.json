@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und der König antwortete ⟨sie⟩ hart, und der König Rechabam verließ ⟨את⟩ den Rat der Ältesten.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲנֵ֥ם",
+      "gloss": "Und … antwortete"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "קָשָׁ֑ה",
+      "gloss": "hart"
+    },
+    {
+      "surface": "וַֽיַּעֲזֹב֙",
+      "gloss": "und … verließ"
+    },
+    {
+      "surface": "הַמֶּ֣לֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "רְחַבְעָ֔ם",
+      "gloss": "Rechabam"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "den Rat"
+    },
+    {
+      "surface": "עֲצַ֥ת",
+      "gloss": "Rat"
+    },
+    {
+      "surface": "הַזְּקֵנִֽים",
+      "gloss": "der Ältesten"
+    }
+  ],
+  "timestamp": "2026-08-06T21:27:35.561839360Z",
+  "model": "glm-5.2"
+}

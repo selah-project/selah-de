@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Erhebe deine Schritte zu den ewigen Trümmern — den ganzen Schaden, den der Feind im Heiligtum angerichtet ⟨hat⟩.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Erhebe"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "deine Schritte"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "zu den Trümmern"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ewigen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "Schaden"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "der Feind"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "im Heiligtum"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:58.272238694Z",
+  "model": "glm-5.2"
+}

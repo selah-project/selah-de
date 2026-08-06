@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Denn ⟨er⟩ neigte ⟨sein⟩ Ohr zu mir, und in meinen Tagen will ich rufen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "⟨er⟩ neigte"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "⟨sein⟩ Ohr"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "und in meinen Tagen"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "will ich rufen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:48.756814047Z",
+  "model": "glm-5.2"
+}

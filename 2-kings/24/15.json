@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und er führte ⟨את⟩ Jehojachin nach Bawel ⟨weg⟩, und ⟨את⟩ die Mutter des Königs und ⟨את⟩ die Frauen des Königs und ⟨את⟩ seine Höflinge und ⟨את⟩ die Mächtigen des Landes — ⟨er⟩ brachte ⟨sie⟩ als Verschleppte von Jeruschalajim ⟨weg⟩ nach Bawel.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "und er führte weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehojachin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojachin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "nach Bawel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Mutter"
+    },
+    {
+      "surface": "אם",
+      "gloss": "die Mutter"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Frauen"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "die Frauen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Höflinge"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "seine Höflinge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Mächtigen"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "die Mächtigen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "brachte"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "als Verschleppte"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "von Jeruschalajim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "nach Bawel"
+    }
+  ],
+  "timestamp": "2026-08-06T03:09:40.092006163Z",
+  "model": "glm-5.2"
+}

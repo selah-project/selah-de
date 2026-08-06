@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 126,
+  "translation": "Großes hat JHWH ⟨an⟩ uns getan — da wurden wir Frohe.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Großes hat getan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zu tun"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "an uns"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "da wurden wir"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "Frohe"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:10.591648721Z",
+  "model": "glm-5.2"
+}

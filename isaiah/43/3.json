@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Denn ich ⟨bin⟩ JHWH, dein Elohim, der Heilige Jisra'els, dein Retter. Ich gab Mizrajim als dein Lösegeld, Kusch und Sewa an deiner Stelle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "der Heilige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "dein Retter"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ich gab"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "als dein Lösegeld"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusch"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "und Sewa"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "an deiner Stelle"
+    }
+  ],
+  "timestamp": "2026-08-05T21:53:38.262674622Z",
+  "model": "glm-5.2"
+}

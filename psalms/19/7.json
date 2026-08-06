@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Vom Ende der Himmel ⟨ist⟩ sein Ausgang, und seine Umrundung ⟨bis⟩ zu ihren Enden, und ⟨es ist⟩ nichts verborgen vor seiner Glut.",
+  "tokens": [
+    {
+      "surface": "מִקְצֵ֤ה",
+      "gloss": "Vom Ende"
+    },
+    {
+      "surface": "הַשָּׁמַ֨יִם",
+      "gloss": "der Himmel"
+    },
+    {
+      "surface": "מֽוֹצָא֗וֹ",
+      "gloss": "⟨ist⟩ sein Ausgang"
+    },
+    {
+      "surface": "וּתְקוּפָת֥וֹ",
+      "gloss": "und seine Umrundung"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨bis⟩ zu"
+    },
+    {
+      "surface": "קְצוֹתָ֑ם",
+      "gloss": "ihren Enden"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "und ⟨es ist⟩ nichts"
+    },
+    {
+      "surface": "נִ֝סְתָּ֗ר",
+      "gloss": "verborgen"
+    },
+    {
+      "surface": "מֵֽחַמָּתוֹ",
+      "gloss": "vor seiner Glut"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:08.314293245Z",
+  "model": "glm-5.2"
+}

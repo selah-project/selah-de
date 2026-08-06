@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und ⟨er⟩ richtete auf ein Zeugnis in Jaakow, und eine Tora legte er in Jisra'el, die er ⟨את⟩ unseren Vätern gebot, ⟨damit⟩ sie sie ihren Söhnen bekannt machen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "und ⟨er⟩ richtete auf"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ein Zeugnis"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "in Jaakow"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "und eine Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "legte ⟨er⟩"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "er gebot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unsere Väter"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "unseren Vätern"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "⟨damit⟩ sie sie bekannt machen"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ihren Söhnen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:54.859657537Z",
+  "model": "glm-5.2"
+}

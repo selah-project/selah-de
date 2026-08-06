@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Angesicht zu Angesicht hat JHWH mit euch geredet am Berg, aus dem Inneren des Feuers.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Angesicht"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "zu Angesicht"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hat geredet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mit euch"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "am Berg"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "aus dem Inneren"
+    },
+    {
+      "surface": "האש",
+      "gloss": "des Feuers"
+    }
+  ],
+  "timestamp": "2026-08-06T00:42:20.336612754Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 108,
+  "translation": "Wach auf, ⟨du⟩ Navel und Kinnor! Ich will wecken ⟨den⟩ Morgen.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Wach auf"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "⟨du⟩ Navel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "und Kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ich will wecken"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "⟨den⟩ Morgen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:29.439653278Z",
+  "model": "glm-5.2"
+}

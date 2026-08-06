@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Wehe ⟨dem⟩, der eine Stadt erbaut in Blut und eine Festung gründet in Ungerechtigkeit!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "⟨der⟩ erbaut"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "eine Stadt"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "in Blut"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "und ⟨eine⟩ gründet"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "Festung"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "in Ungerechtigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T22:38:46.063752948Z",
+  "model": "glm-5.2"
+}

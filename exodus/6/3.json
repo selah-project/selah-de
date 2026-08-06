@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ich erschien Awraham, Jizchak und Jaakow als El Schaddai, aber mit meinem Namen JHWH war ich ihnen nicht bekannt geworden.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "und ich erschien"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jizchak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "באל",
+      "gloss": "als El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Schaddai"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "aber mit meinem Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "war ich bekannt geworden"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:14:06.182807988Z",
+  "model": "glm-5.2"
+}

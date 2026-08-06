@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 13:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und es wird geschehen: Wenn dich morgen dein Sohn fragt und sagt: „Was ist das?“, dann sollst du zu ihm sagen: „Mit starker Hand hat JHWH uns aus Mizrajim herausgeführt, aus dem Haus der Knechte.“",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "und es wird geschehen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "dich fragt"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "dein Sohn"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ist das"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dann sollst du sagen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "mit starker"
+    },
+    {
+      "surface": "יד",
+      "gloss": "Hand"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "hat herausgeführt uns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "aus Mizrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aus dem Haus"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "der Knechte"
+    }
+  ],
+  "timestamp": "2026-08-05T20:09:35.274435038Z",
+  "model": "glm-5.2"
+}

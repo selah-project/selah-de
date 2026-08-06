@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Du aber, steh auf, geh in dein Haus! Wenn deine Füße die Stadt betreten, wird das Kind sterben.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Du aber"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "steh auf"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "geh"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "in dein Haus"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "Wenn ⟨sie⟩ betreten"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "deine Füße"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "wird sterben"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "das Kind"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:23.003304848Z",
+  "model": "glm-5.2"
+}

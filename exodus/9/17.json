@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Noch immer türst du dich gegen mein Volk auf, ⟨um⟩ sie nicht wegzuschicken.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "noch immer du"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "türst du dich auf"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "gegen mein Volk"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "um nicht"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "sie wegzuschicken"
+    }
+  ],
+  "timestamp": "2026-08-06T14:50:31.322137356Z",
+  "model": "glm-5.2"
+}

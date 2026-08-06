@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Unheil sinnt er auf seinem Lager, er stellt sich auf einen Weg, der nicht gut ⟨ist⟩; das Böse verachtet er nicht.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "sinnt"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "seinem Lager"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "er stellt sich"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "einen Weg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "רע",
+      "gloss": "das Böse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "verachtet"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:01.697532875Z",
+  "model": "glm-5.2"
+}

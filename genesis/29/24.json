@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und Lawan gab ihr — ⟨את⟩ Silpa, seine Magd — der Lea, seiner Tochter, zur Magd.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Silpa, seine Magd"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Silpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "seine Magd"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "der Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "seiner Tochter"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "zur Magd"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:41.152076687Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und lasst euch nicht vertrauen lassen von Chiskijahu zu JHWH, indem ⟨er⟩ sagt: ‚JHWH wird uns rettend retten; diese Stadt wird nicht gegeben werden in die Hand des Königs von Aschur.‘",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Und nicht"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "lasst vertrauen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "von Chiskijahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨er⟩ sagt"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "rettend"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "wird ⟨er⟩ retten ⟨uns⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "wird gegeben werden"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "diese Stadt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "von Aschur"
+    }
+  ],
+  "timestamp": "2026-08-05T21:50:55.925426556Z",
+  "model": "glm-5.2"
+}

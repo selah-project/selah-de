@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und sie nahmen ⟨את⟩ Josséfs Gewand und schlachteten einen Ziegenbock und tauchten ⟨את⟩ das Gewand in das Blut.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "und sie nahmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josséfs Gewand"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "Gewand"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josséfs"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "und sie schlachteten"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "einen Bock"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "der Ziegen"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "und sie tauchten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Gewand"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "das Gewand"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "in das Blut"
+    }
+  ],
+  "timestamp": "2026-08-05T17:39:54.114679089Z",
+  "model": "glm-5.2"
+}

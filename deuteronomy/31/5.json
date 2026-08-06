@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und JHWH wird sie vor euer Angesicht geben, und ihr werdet an ihnen tun nach der ganzen Weisung, die ich euch geboten habe.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "Und geben wird er sie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "und ihr werdet tun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "an ihnen"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nach der ganzen"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "Weisung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ich geboten habe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "euch"
+    }
+  ],
+  "timestamp": "2026-08-05T20:51:36.668985865Z",
+  "model": "glm-5.2"
+}

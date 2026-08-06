@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Trug ⟨ist⟩ das Pferd zur Rettung, und durch die Fülle seiner Kraft rettet ⟨es⟩ nicht.",
+  "tokens": [
+    {
+      "surface": "שֶׁ֣קֶר",
+      "gloss": "Trug"
+    },
+    {
+      "surface": "הַ֭סּוּס",
+      "gloss": "das Pferd"
+    },
+    {
+      "surface": "לִתְשׁוּעָ֑ה",
+      "gloss": "zur Rettung"
+    },
+    {
+      "surface": "וּבְרֹ֥ב",
+      "gloss": "und durch die Fülle"
+    },
+    {
+      "surface": "חֵ֝יל֗וֹ",
+      "gloss": "seiner Kraft"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יְמַלֵּֽט",
+      "gloss": "rettet"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:32.441344024Z",
+  "model": "glm-5.2"
+}

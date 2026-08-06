@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und Aharon soll ⟨den⟩ Bock darbringen, auf den das Los für JHWH gekommen ist, und ihn als Chattat-Offer zubereiten.",
+  "tokens": [
+    {
+      "surface": "וְהִקְרִ֤יב",
+      "gloss": "und er soll darbringen"
+    },
+    {
+      "surface": "אַהֲרֹן֙",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Bock"
+    },
+    {
+      "surface": "הַשָּׂעִ֔יר",
+      "gloss": "den Bock"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "auf den"
+    },
+    {
+      "surface": "עָלָ֥ה",
+      "gloss": "gekommen ist"
+    },
+    {
+      "surface": "עָלָ֛יו",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "הַגּוֹרָ֖ל",
+      "gloss": "das Los"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "וְעָשָׂ֖הוּ",
+      "gloss": "und er soll ihn zubereiten"
+    },
+    {
+      "surface": "חַטָּֽאת",
+      "gloss": "als Chattat-Offer"
+    }
+  ],
+  "timestamp": "2026-08-06T02:11:41.085835294Z",
+  "model": "glm-5.2"
+}

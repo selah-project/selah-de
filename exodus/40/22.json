@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und er gab ⟨את⟩ den Tisch in das Zelt der Begegnung, an die Seite des Mischkan, nach Norden, außerhalb des Vorhangs.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "und er gab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Tisch"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "den Tisch"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in das Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "die Seite"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "des Mischkan"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "nach Norden"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "des Vorhangs"
+    }
+  ],
+  "timestamp": "2026-08-06T14:52:03.518134844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und JHWH setzte eine festgesetzte Zeit fest, indem ⟨er⟩ sagte: „Morgen wird JHWH ⟨dieses⟩ Wort ⟨als⟩ ⟨Ding⟩ ⟨tun⟩ im Land.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Und-setzte-fest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "eine-festgesetzte-Zeit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem-⟨er⟩-sagte"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wird-⟨tun⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨dieses⟩-Wort"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im-Land"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:56.992133227Z",
+  "model": "glm-5.2"
+}

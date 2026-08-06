@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Und Josef sagte zu seinen Brüdern: „Tretet doch heran zu mir.“ Und sie traten heran. Und er sagte: „Ich bin Josef, euer Bruder, den ihr verkauft habt ⟨את⟩ nach Mizrajim.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seinen Brüdern"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Tretet heran"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Und sie traten heran"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich ⟨bin⟩"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "euer Bruder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ihr verkauft habt"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "nach Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T09:43:54.075330706Z",
+  "model": "glm-5.2"
+}

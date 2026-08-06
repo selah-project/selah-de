@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Warum sagtest du: ‚Meine Schwester ist sie', sodass ich ⟨את⟩ sie mir zur Frau nahm? Und nun, siehe, ⟨deine⟩ Frau — nimm ⟨sie⟩ und geh!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sagtest du"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Meine Schwester"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist sie"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "sodass ich nahm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "zur Frau"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "⟨deine⟩ Frau"
+    },
+    {
+      "surface": "קח",
+      "gloss": "nimm"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "und geh"
+    }
+  ],
+  "timestamp": "2026-08-06T20:01:46.295228814Z",
+  "model": "glm-5.2"
+}

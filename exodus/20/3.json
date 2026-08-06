@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Nicht soll ⟨es⟩ für dich ⟨geben⟩ andere Götter auf meinem Angesicht.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll ⟨es⟩ ⟨geben⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "für dich"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Götter"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פני",
+      "gloss": "meinem Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:23.581167059Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "wenn ihr aber euch weigert und ⟨dass ihr⟩ empört seid, vom Schwerd werdet ihr gegessen — denn der Mund JHWHs hat gesprochen.",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "wenn aber"
+    },
+    {
+      "surface": "תְּמָאֲנ֖וּ",
+      "gloss": "ihr euch weigert"
+    },
+    {
+      "surface": "וּמְרִיתֶ֑ם",
+      "gloss": "und ⟨dass ihr⟩ empört seid"
+    },
+    {
+      "surface": "חֶ֣רֶב",
+      "gloss": "vom Schwert"
+    },
+    {
+      "surface": "תְּאֻכְּל֔וּ",
+      "gloss": "werdet ihr gegessen"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "פִּ֥י",
+      "gloss": "der Mund"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "דִּבֵּֽר",
+      "gloss": "hat gesprochen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:39:18.813120230Z",
+  "model": "glm-5.2"
+}

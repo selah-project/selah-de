@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und Aharon und alle Söhne Jisra'els sahen ⟨את⟩ Mosche, und siehe, die Haut seines Gesichts strahlte, und sie fürchteten sich, zu ihm zu nahen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Und ⟨es⟩ sahen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "strahlte"
+    },
+    {
+      "surface": "עור",
+      "gloss": "die Haut"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "seines Gesichts"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "und sie fürchteten sich"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "zu nahen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T20:17:02.863354031Z",
+  "model": "glm-5.2"
+}

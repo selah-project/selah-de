@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Denn wie Dornengestrüpp, das ineinander verflochten ⟨ist⟩, und wie ihre Trinkgelage, die Vollgesoffenen ⟨sind⟩ — sie werden verzehrt werden wie völlig trockenes Stroh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wie"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "Dornengestrüpp"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "ineinander verflochten"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "und wie ihre Trinkgelage"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "die Vollgesoffenen"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sie werden verzehrt werden"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "wie Stroh"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "trocken"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "völlig"
+    }
+  ],
+  "timestamp": "2026-08-05T22:37:32.730155666Z",
+  "model": "glm-5.2"
+}

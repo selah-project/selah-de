@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Lass es dir gefallen, JHWH, mich zu retten; JHWH, zu meiner Hilfe eile!",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "Lass es dir gefallen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "mich zu retten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "zu meiner Hilfe"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "eile"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:06.713188003Z",
+  "model": "glm-5.2"
+}

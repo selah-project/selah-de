@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 19:6",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und er sah hin, und siehe, ⟨an⟩ seinem Kopfende ⟨lag⟩ ein auf heißen Steinen gebackenes Fladenbrot und ein Krug Wasser. Und er aß und trank, ⟨dann⟩ wandte er sich und legte sich wieder hin.",
+  "tokens": [
+    {
+      "surface": "וַיַּבֵּ֕ט",
+      "gloss": "Und er sah hin"
+    },
+    {
+      "surface": "וְהִנֵּ֧ה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "מְרַאֲשֹׁתָ֛יו",
+      "gloss": "⟨an⟩ seinem Kopfende"
+    },
+    {
+      "surface": "עֻגַ֥ת",
+      "gloss": "ein Fladenbrot"
+    },
+    {
+      "surface": "רְצָפִ֖ים",
+      "gloss": "auf heißen Steinen gebackenes"
+    },
+    {
+      "surface": "וְצַפַּ֣חַת",
+      "gloss": "und ein Krug"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "וַיֹּ֖אכַל",
+      "gloss": "Und er aß"
+    },
+    {
+      "surface": "וַיֵּ֣שְׁתְּ",
+      "gloss": "und trank"
+    },
+    {
+      "surface": "וַיָּשָׁ֑ב",
+      "gloss": "⟨dann⟩ wandte er sich"
+    },
+    {
+      "surface": "וַיִּשְׁכָּֽב",
+      "gloss": "und legte sich wieder hin"
+    }
+  ],
+  "timestamp": "2026-08-06T01:28:46.996404185Z",
+  "model": "glm-5.2"
+}

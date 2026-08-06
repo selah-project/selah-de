@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Von Dawid, als er ⟨את⟩ seinen Sinn verstellte vor Awimélech, ⟨und⟩ er ihn vertrieb und ⟨er⟩ ging.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Von Dawid"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "als er verstellte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Sinn"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "seinen Sinn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimélech"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "und er vertrieb ihn"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und ⟨er⟩ ging"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:30.469194380Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Du wirst sie setzen wie einen Feuerofen zur Zeit deines Angesichts, JHWH; in seinem Zorn wird er sie verschlingen, und Feuer wird sie verzehren.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Du wirst sie setzen"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "wie einen Ofen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "zur Zeit"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "deines Angesichts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "in seinem Zorn"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "wird er sie verschlingen"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "und wird sie verzehren"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:43.282915763Z",
+  "model": "glm-5.2"
+}

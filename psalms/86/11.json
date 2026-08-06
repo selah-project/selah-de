@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 86,
+  "translation": "Lehre mich, JHWH, deinen Weg, ⟨damit⟩ ich wandle in deiner Emet; ⟨mach⟩ eins mein Herz, ⟨damit⟩ ich deinen Namen fürchte.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "lehre mich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "deinen Weg"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ich wandle"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "in deiner Emet"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "eins"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "zu fürchten"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:21.312601430Z",
+  "model": "glm-5.2"
+}

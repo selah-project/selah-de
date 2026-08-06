@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Meine Stärke, dir will ich spielen; denn Elohim ist meine Höhe, der Elohim meines Chessed (Huld\/Bundestreue).",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Meine Stärke"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "will ich spielen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ist meine Höhe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "der Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "meines Chessed (Huld\/Bundestreue)"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:03.619837799Z",
+  "model": "glm-5.2"
+}

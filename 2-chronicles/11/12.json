@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 11:12",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und in jeder Stadt und ⟨jeder⟩ Stadt ⟨gab es⟩ Schilde und Lanzen, und er stärkte sie sehr ⟨sehr⟩. Und Jehudah und Binyamin waren ⟨unter⟩ ihm.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "und in jeder"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "und ⟨jeder⟩ Stadt"
+    },
+    {
+      "surface": "צנות",
+      "gloss": "Schilde"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "und Lanzen"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "und er stärkte sie"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨sehr⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ war"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨unter⟩ ihm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "und Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-06T07:26:25.528061168Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und die Grenze ging hinaus zum Meer, von Michmetat im Norden. Und die Grenze wandte sich östlich zu Taanat-Schilo und passierte ⟨את⟩ sie östlich nach Janocha.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "und ging hinaus"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "die Grenze"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "zum Meer"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "von Michmetat"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "im Norden"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "und wandte sich"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "die Grenze"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "östlich"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "zu Taanat"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "-Schilo"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "und passierte"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Grenze)"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "östlich"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "nach Janocha"
+    }
+  ],
+  "timestamp": "2026-08-05T20:56:58.904420681Z",
+  "model": "glm-5.2"
+}

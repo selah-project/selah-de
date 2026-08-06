@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 1:7",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨das⟩ Reichen ⟨des⟩ Tranks geschah in goldenen Gefäßen, und die Gefäße waren Gefäße, voneinander verschieden, und königlicher Wein in Fülle nach der Hand des Königs.",
+  "tokens": [
+    {
+      "surface": "והשקות",
+      "gloss": "Und ⟨das⟩ Reichen ⟨des⟩ Tranks"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "in goldenen Gefäßen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨Gold⟩"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "und die Gefäße"
+    },
+    {
+      "surface": "מכלים",
+      "gloss": "waren Gefäße"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "voneinander verschieden"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "und königlicher Wein"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "⟨königlich⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "in Fülle"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "nach der Hand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-05T23:32:20.597355226Z",
+  "model": "glm-5.2"
+}

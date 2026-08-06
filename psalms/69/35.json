@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Preisen ⟨sollen ihn⟩ Himmel und Erde, Meere und alles, was sich darin regt.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "preisen ⟨sollen ihn⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Himmel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "und Erde"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Meere"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alles"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "was sich regt"
+    },
+    {
+      "surface": "בם",
+      "gloss": "darin"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:05.374335299Z",
+  "model": "glm-5.2"
+}

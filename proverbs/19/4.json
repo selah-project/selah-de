@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Reichtum fügt viele Freunde hinzu, und ein Armer ⟨wird⟩ von seinem Freund ⟨getrennt⟩.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Reichtum"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "fügt … hinzu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "Freunde"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "viele"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "und ein Armer"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "von seinem Freund"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "⟨wird⟩ ⟨getrennt⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T09:22:27.535705705Z",
+  "model": "glm-5.2"
+}

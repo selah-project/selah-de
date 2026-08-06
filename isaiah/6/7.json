@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und er berührte ⟨an⟩ meinen Mund und sagte: Sieh, dieses hat deine Lippen berührt, und ⟨deine⟩ Schuld ist gewichen, und deine Sünde ist gesühnt.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "und er berührte"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "פי",
+      "gloss": "meinen Mund"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sieh"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "berührt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "deine Lippen"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "und ⟨ist⟩ gewichen"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "⟨deine⟩ Schuld"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "und deine Sünde"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "ist gesühnt"
+    }
+  ],
+  "timestamp": "2026-08-06T01:39:59.226466264Z",
+  "model": "glm-5.2"
+}

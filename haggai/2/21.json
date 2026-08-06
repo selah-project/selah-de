@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Sprich zu Serubbawel, dem Statthalter von Jehuda, folgendermaßen: Ich erschüttere ⟨את⟩ die Himmel und ⟨את⟩ die Erde.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sprich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Serubbawel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "dem Statthalter"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "folgendermaßen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "erschüttere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Himmel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die Himmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:04:37.576820330Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Denn auch wenn sie ⟨את⟩ ihre Kinder großziehen, werde ich sie kinderlos machen von ⟨den⟩ Menschen weg; denn auch — wehe ihnen, wenn ich mich von ihnen abwende!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "auch wenn"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "sie großziehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Kinder"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ihre Kinder"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "werde ich sie kinderlos machen"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "von ⟨den⟩ Menschen weg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "wehe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "wenn ich mich abwende"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "von ihnen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:32:33.757006825Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Dies ⟨ist⟩ die Generation, die dich sucht — die dein Gesicht Suchenden, Jaakow. Sela.",
+  "tokens": [
+    {
+      "surface": "זֶה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "דּוֹר",
+      "gloss": "⟨ist⟩ die Generation"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "die dich sucht"
+    },
+    {
+      "surface": "מְבַקְשֵׁי",
+      "gloss": "die Suchenden"
+    },
+    {
+      "surface": "פָנֶיךָ",
+      "gloss": "dein Gesicht"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "סֶּלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:36.518433904Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und die Söhne Elpa'als: Ewer und Misch'am und Schemed — er ⟨ist es⟩, der ⟨את⟩ Ono und ⟨את⟩ Lod baute, ⟨mit⟩ ihren Tochterstädten.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Und die Söhne"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'als"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ewer"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "und Misch'am"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "und Schemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "baute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ihren Tochterstädten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:48:15.080283005Z",
+  "model": "glm-5.2"
+}

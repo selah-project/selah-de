@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨es⟩ geschah: das Volk des Landes erschlaffte die Hände des Volkes Jehudas und erschreckte ⟨את⟩ sie beim Bauen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und ⟨es⟩ geschah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "erschlaffte"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "die Hände"
+    },
+    {
+      "surface": "עם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "und erschreckte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "beim Bauen"
+    }
+  ],
+  "timestamp": "2026-08-06T07:15:55.025914879Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und Ijob lebte nach diesem hundertundvierzig Jahre, und sah ⟨את⟩ seine Söhne und ⟨את⟩ die Söhne seiner Söhne, vier Generationen.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Und lebte"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nach"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "undvierzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Söhne seiner Söhne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seiner Söhne"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "Generationen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:26:31.046654706Z",
+  "model": "glm-5.2"
+}

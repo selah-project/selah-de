@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 24:48",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und ich beugte mich nieder und warf mich vor JHWH nieder, und ich pries ⟨את⟩ JHWH, den Elohim meines Herrn Awraham, der mich auf dem Weg der Emet geführt hatte, ⟨את⟩ die Tochter des Bruders meines Herrn für seinen Sohn zu nehmen.",
+  "tokens": [
+    {
+      "surface": "ואקד",
+      "gloss": "und ich beugte mich nieder"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "und warf mich nieder"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vor JHWH"
+    },
+    {
+      "surface": "ואברך",
+      "gloss": "und ich pries"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "den Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "meines Herrn"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahams"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "הנחני",
+      "gloss": "mich geführt hatte"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "der Emet"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "zu nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Tochter"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die Tochter"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "des Bruders"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "meines Herrn"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "für seinen Sohn"
+    }
+  ],
+  "timestamp": "2026-08-06T08:13:59.127661892Z",
+  "model": "glm-5.2"
+}

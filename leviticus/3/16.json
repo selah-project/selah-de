@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und der Kohen soll sie als Rauch aufsteigen lassen auf dem Altar — Speise des Feueropfers zum Wohlgeruch. Alles Fett ⟨gehört⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "und soll sie als Rauch aufsteigen lassen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "auf dem Altar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Speise"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "des Feueropfers"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "zum"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "Wohlgeruch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "Fett"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨gehört⟩ JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:01.178809389Z",
+  "model": "glm-5.2"
+}

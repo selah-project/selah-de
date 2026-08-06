@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und er entfernte ⟨את⟩ die Elohim der Fremden und ⟨את⟩ das Götzenbild aus dem Haus JHWHs und alle Altäre, die er gebaut hatte auf dem Berg des Hauses JHWHs und in Jeruschalajim, und warf ⟨sie⟩ hinaus vor die Stadt.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "und er entfernte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Elohim der Fremden"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "der Fremden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Götzenbild"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "das Götzenbild"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "aus dem Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "Altäre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "er gebaut hatte"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "auf dem Berg"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "und in Jeruschalajim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "und er warf"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "hinaus"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "vor die Stadt"
+    }
+  ],
+  "timestamp": "2026-08-06T07:30:42.878792966Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Nicht vermag ich, ich allein, ⟨את⟩ all dieses Volk zu tragen, denn es ist zu schwer für mich.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "אוּכַ֤ל",
+      "gloss": "vermag ich"
+    },
+    {
+      "surface": "אָנֹכִי֙",
+      "gloss": "ich"
+    },
+    {
+      "surface": "לְבַדִּ֔י",
+      "gloss": "allein"
+    },
+    {
+      "surface": "לָשֵׂ֖את",
+      "gloss": "zu tragen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "all dieses Volk"
+    },
+    {
+      "surface": "כָּ֥ל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הָעָ֖ם",
+      "gloss": "⟨dieses⟩ Volk"
+    },
+    {
+      "surface": "הַזֶּ֑ה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כָבֵ֖ד",
+      "gloss": "es ist schwer"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "für mich"
+    }
+  ],
+  "timestamp": "2026-08-05T20:33:01.740361027Z",
+  "model": "glm-5.2"
+}

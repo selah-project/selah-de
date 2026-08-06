@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Ein Weiser fürchtet sich und wendet sich ab vom Bösen, und ein Tor wird übermütig ⟨und⟩ vertraut ⟨blindlings⟩.",
+  "tokens": [
+    {
+      "surface": "חָכָם",
+      "gloss": "Ein Weiser"
+    },
+    {
+      "surface": "יָרֵא",
+      "gloss": "fürchtet sich"
+    },
+    {
+      "surface": "וְסָר",
+      "gloss": "und wendet sich ab"
+    },
+    {
+      "surface": "מֵרָע",
+      "gloss": "vom Bösen"
+    },
+    {
+      "surface": "וּכְסִיל",
+      "gloss": "und ein Tor"
+    },
+    {
+      "surface": "מִתְעַבֵּר",
+      "gloss": "wird übermütig"
+    },
+    {
+      "surface": "וּבוֹטֵחַ",
+      "gloss": "⟨und⟩ vertraut ⟨blindlings⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T23:11:12.873609782Z",
+  "model": "glm-5.2"
+}

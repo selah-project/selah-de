@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "„Geh aus der Arche heraus, du und deine Frau und deine Söhne und die Frauen deiner Söhne mit dir.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Geh hinaus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "der Arche"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "und deine Frau"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "und deine Söhne"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "und die Frauen"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "deiner Söhne"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "mit dir"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:53.725094966Z",
+  "model": "glm-5.2"
+}

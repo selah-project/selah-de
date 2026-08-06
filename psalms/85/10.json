@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 85,
+  "translation": "Fürwahr, nahe ist ⟨sein⟩ Heil ⟨den⟩ ihn Fürchtenden, damit Herrlichkeit wohne in unserem Land.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fürwahr"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nahe ⟨ist⟩"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "⟨den⟩ ihn Fürchtenden"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "⟨sein⟩ Heil"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "damit wohne"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Herrlichkeit"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "in unserem Land"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:55.592984356Z",
+  "model": "glm-5.2"
+}

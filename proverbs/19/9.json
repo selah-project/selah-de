@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Ein falscher Zeuge bleibt nicht unbestraft, und wer Lügen ausstößt, geht zugrunde.",
+  "tokens": [
+    {
+      "surface": "עֵד",
+      "gloss": "Ein Zeuge"
+    },
+    {
+      "surface": "שְׁקָרִים",
+      "gloss": "falscher"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִנָּקֶה",
+      "gloss": "bleibt unbestraft"
+    },
+    {
+      "surface": "וְיָפִיחַ",
+      "gloss": "und wer ausstößt"
+    },
+    {
+      "surface": "כְּזָבִים",
+      "gloss": "Lügen"
+    },
+    {
+      "surface": "יֹאבֵד",
+      "gloss": "geht zugrunde"
+    }
+  ],
+  "timestamp": "2026-08-05T23:12:29.266048417Z",
+  "model": "glm-5.2"
+}

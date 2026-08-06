@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Da antwortete JHWH ⟨dem⟩ Ijob aus ⟨dem⟩ Sturm und sprach:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Da antwortete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "⟨dem⟩ Sturm"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    }
+  ],
+  "timestamp": "2026-08-05T23:24:56.608509120Z",
+  "model": "glm-5.2"
+}

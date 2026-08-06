@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Deine Gerechtigkeit ⟨ist⟩ wie Gottes Berge, deine Urteile ⟨sind⟩ eine große Flut — Mensch und Vieh rettest du, JHWH.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Deine Gerechtigkeit"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "wie Berge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Gottes"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "deine Urteile"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Flut"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "eine große"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "und Vieh"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "rettest du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:34.792072778Z",
+  "model": "glm-5.2"
+}

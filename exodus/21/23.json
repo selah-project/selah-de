@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und wenn ein Schaden entsteht, sollst du ⟨eine⟩ Nefesch geben unter ⟨der⟩ Nefesch:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "Schaden"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "entsteht"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "sollst du geben"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T05:16:05.444961128Z",
+  "model": "glm-5.2"
+}

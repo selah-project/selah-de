@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ⟨את⟩ das Volk gebot Jehoschua ⟨und sagte⟩: „Ihr sollt nicht rufen und ⟨sollt⟩ nicht ⟨eure⟩ Stimme ertönen lassen, und ⟨es⟩ soll kein Wort aus eurem Mund herausgehen, bis zum Tag, an dem ich zu euch sage: ‚Ruft!' — dann sollt ihr rufen.“",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebot"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und sagte⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "ihr sollt rufen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨sollt⟩ nicht"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "ertönen lassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eure Stimme"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "⟨eure⟩ Stimme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨es soll⟩ nicht"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "herausgehen"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "aus eurem Mund"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ein Wort"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "an dem ich sage"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "zu euch"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Ruft"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "dann sollt ihr rufen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:53:38.732417220Z",
+  "model": "glm-5.2"
+}

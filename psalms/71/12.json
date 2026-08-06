@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "Elohim, sei nicht fern von mir; mein Elohim, zur Hilfe mir, eile!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "sei … fern"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "von mir"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "zur Hilfe mir"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "eile"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:26.950630863Z",
+  "model": "glm-5.2"
+}

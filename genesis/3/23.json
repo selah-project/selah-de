@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und JHWH Elohim schickte ihn hinaus aus Gan Eden, um ⟨את⟩ den Ackerboden zu bearbeiten, aus dem er genommen war.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "und schickte ihn hinaus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "aus Gan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "um zu bearbeiten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Ackerboden"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "den Ackerboden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aus dem"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "er genommen war"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    }
+  ],
+  "timestamp": "2026-08-05T19:54:17.201396487Z",
+  "model": "glm-5.2"
+}

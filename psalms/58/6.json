@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 58,
+  "translation": "die nicht hört auf die Stimme der Beschwörer, ⟨auch⟩ nicht ⟨auf⟩ den Zaubermeister ⟨selbst wenn er⟩ der kundigste ⟨ist⟩ beim Bannen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hört"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "der Beschwörer"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "⟨auch⟩ nicht ⟨auf⟩ den Zaubermeister"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "beim Bannen"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "der kundigste ⟨ist⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:54.385353134Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und dies ⟨sind⟩ die Toldot von Jizchak, dem Sohn Awrahams: Awraham zeugte ⟨את⟩ Jizchak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "Toldot"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "von Jizchak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahams"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizchak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jizchak"
+    }
+  ],
+  "timestamp": "2026-08-06T00:06:58.398280266Z",
+  "model": "glm-5.2"
+}

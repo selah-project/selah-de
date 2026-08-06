@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Ein Guter ⟨erwirkt⟩ Wohlgefallen von JHWH; aber ⟨der⟩ Mann der Ränke ⟨macht⟩ ⟨ihn⟩ schuldig.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ein Guter"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "⟨erwirkt⟩"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "Wohlgefallen"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "aber ⟨der⟩ Mann"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "der Ränke"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "⟨macht⟩ ⟨ihn⟩ schuldig"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:38.315747129Z",
+  "model": "glm-5.2"
+}

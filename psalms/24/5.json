@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Er wird Segen tragen von ⟨bei⟩ JHWH und Zedaka von ⟨bei⟩ dem Elohim ⟨seines⟩ Jescha.",
+  "tokens": [
+    {
+      "surface": "יִשָּׂא",
+      "gloss": "wird tragen"
+    },
+    {
+      "surface": "בְרָכָה",
+      "gloss": "Segen"
+    },
+    {
+      "surface": "מֵאֵת",
+      "gloss": "von ⟨bei⟩"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וּצְדָקָה",
+      "gloss": "und Zedaka"
+    },
+    {
+      "surface": "מֵאֱלֹהֵי",
+      "gloss": "von ⟨bei⟩ ⟨dem⟩ Elohim ⟨seines⟩"
+    },
+    {
+      "surface": "יִשְׁעֽוֹ",
+      "gloss": "Jescha"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:36.518255646Z",
+  "model": "glm-5.2"
+}

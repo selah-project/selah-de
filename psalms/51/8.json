@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Siehe, Emet (Wahrheit\/Festigkeit) begehrst du im Verborgenen, und im verborgenen ⟨Teil⟩ lässt du mich Weisheit erkennen.",
+  "tokens": [
+    {
+      "surface": "הֵן",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "אֱ֭מֶת",
+      "gloss": "Emet (Wahrheit\/Festigkeit)"
+    },
+    {
+      "surface": "חָפַ֣צְתָּ",
+      "gloss": "begehrst"
+    },
+    {
+      "surface": "בַּטֻּח֑וֹת",
+      "gloss": "im Verborgenen"
+    },
+    {
+      "surface": "וּ֝בְסָתֻ֗ם",
+      "gloss": "und im verborgenen"
+    },
+    {
+      "surface": "חָכְמָ֥ה",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "תּוֹדִיעֵֽנִי",
+      "gloss": "lässt du mich erkennen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:16.973028858Z",
+  "model": "glm-5.2"
+}

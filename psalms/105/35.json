@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Und es fraß jedes Grün in ihrem Land, und es fraß die Frucht ihres Bodens.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Und es fraß"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jedes"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "Grün"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "in ihrem Land"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "und es fraß"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "die Frucht"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ihres Bodens"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:28.136712671Z",
+  "model": "glm-5.2"
+}

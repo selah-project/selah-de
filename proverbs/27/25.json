@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Das Heu ⟨ist abgeerntet⟩, und das jung Gras erscheint, und ⟨die⟩ Kräuter der Berge werden gesammelt.",
+  "tokens": [
+    {
+      "surface": "גָּלָ֣ה",
+      "gloss": "⟨ist abgeerntet⟩"
+    },
+    {
+      "surface": "חָ֭צִיר",
+      "gloss": "Das Heu"
+    },
+    {
+      "surface": "וְנִרְאָה",
+      "gloss": "und erscheint"
+    },
+    {
+      "surface": "דֶ֑שֶׁא",
+      "gloss": "das jung Gras"
+    },
+    {
+      "surface": "וְ֝נֶאֶסְפ֗וּ",
+      "gloss": "und werden gesammelt"
+    },
+    {
+      "surface": "עִשְּׂב֥וֹת",
+      "gloss": "Kräuter"
+    },
+    {
+      "surface": "הָרִֽים",
+      "gloss": "der Berge"
+    }
+  ],
+  "timestamp": "2026-08-06T10:36:06.788066766Z",
+  "model": "glm-5.2"
+}

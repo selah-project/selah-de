@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Jonatan antwortete Schaul, seinen Vater, und sagte zu ihm: „Warum soll er getötet werden? Was hat er getan?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "und antwortete"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Schaul, seinen Vater"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seinen Vater"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "למה",
+      "gloss": "warum"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "soll er getötet werden"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hat er getan"
+    }
+  ],
+  "timestamp": "2026-08-05T21:14:00.253650807Z",
+  "model": "glm-5.2"
+}

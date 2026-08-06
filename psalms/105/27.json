@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Sie legten unter sie ⟨die⟩ Worte seiner Zeichen, und Wundertaten im Land Cham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Sie legten"
+    },
+    {
+      "surface": "בם",
+      "gloss": "unter sie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨die⟩ Worte"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "seiner Zeichen"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "und Wundertaten"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:20.621125893Z",
+  "model": "glm-5.2"
+}

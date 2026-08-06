@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Du hast alle Grenzen der Erde aufgerichtet; Sommer und Winter, du hast sie geformt.",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "הִצַּבְתָּ",
+      "gloss": "hast aufgerichtet"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גְּבוּלוֹת",
+      "gloss": "Grenzen"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "קַיִץ",
+      "gloss": "Sommer"
+    },
+    {
+      "surface": "וָחֹרֶף",
+      "gloss": "und Winter"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יְצַרְתָּם",
+      "gloss": "hast sie geformt"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:05.858811115Z",
+  "model": "glm-5.2"
+}

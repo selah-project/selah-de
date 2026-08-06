@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "An JHWH haben sie Treubruch begangen, denn fremde Söhne haben sie geboren. Jetzt wird sie der Neumond verschlingen ⟨zusammen mit⟩ ⟨את⟩ ihren Anteilen.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "An JHWH"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "haben sie Treubruch begangen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "fremde"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "haben sie geboren"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Jetzt"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "wird sie verschlingen"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "der Neumond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Anteilen"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "ihren Anteilen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:32:09.522326991Z",
+  "model": "glm-5.2"
+}

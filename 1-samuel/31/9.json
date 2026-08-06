@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und sie schlugen ⟨את⟩ sein Haupt ab und zogen ihm ⟨את⟩ seine Waffenrüstung aus, und sie sandten ⟨Botschaft⟩ im Land der Pelischtim ringsum, um zu verkünden im Haus ihrer Götzenbilder und ⟨את⟩ dem Volk.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּכְרְתוּ֙",
+      "gloss": "und sie schlugen ab"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sein Haupt"
+    },
+    {
+      "surface": "רֹאשֹׁוֹ",
+      "gloss": "sein Haupt"
+    },
+    {
+      "surface": "וַיַּפְשִׁיטוּ",
+      "gloss": "und sie zogen aus"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Waffenrüstung"
+    },
+    {
+      "surface": "כֵּלָיו",
+      "gloss": "seine Waffenrüstung"
+    },
+    {
+      "surface": "וַיְשַׁלֵּחוּ",
+      "gloss": "und sie sandten"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "פְּלִשְׁתִּים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "סָבִיב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "לְבַשֵּׂר",
+      "gloss": "um zu verkünden"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "עֲצַבֵּיהֶם",
+      "gloss": "ihrer Götzenbilder"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "das Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T15:04:00.257935404Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und es geschah am nächsten Tag: Pelischtim kamen, um ⟨את⟩ die Erschlagenen auszuziehen, und sie fanden ⟨את⟩ Schaul und ⟨את⟩ seine drei Söhne, gefallen auf dem Berg Hagilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "am nächsten Tag"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelischtim"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "um auszuziehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erschlagenen"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "die Erschlagenen"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "und sie fanden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Schaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine drei Söhne"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drei"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "gefallen"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "auf dem Berg"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Hagilboa"
+    }
+  ],
+  "timestamp": "2026-08-05T21:16:42.627338282Z",
+  "model": "glm-5.2"
+}

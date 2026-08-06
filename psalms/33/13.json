@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Vom Himmel her blickte JHWH, er sah ⟨את⟩ alle Menschenkinder.",
+  "tokens": [
+    {
+      "surface": "מִשָּׁמַיִם",
+      "gloss": "vom Himmel her"
+    },
+    {
+      "surface": "הִבִּיט",
+      "gloss": "blickte"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "רָאָה",
+      "gloss": "er sah"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "alle Menschenkinder"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "Kinder"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "⟨des⟩ Menschen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:06.730237781Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim sah ⟨את⟩ das Licht, dass es gut war. Und Elohim schied zwischen dem Licht und zwischen der Finsternis.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֧רְא",
+      "gloss": "Und sah"
+    },
+    {
+      "surface": "אֱלֹהִ֛ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Licht"
+    },
+    {
+      "surface": "הָא֖וֹר",
+      "gloss": "das Licht"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "וַיַּבְדֵּ֣ל",
+      "gloss": "und schied"
+    },
+    {
+      "surface": "אֱלֹהִ֔ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "הָא֖וֹר",
+      "gloss": "dem Licht"
+    },
+    {
+      "surface": "וּבֵ֥ין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "הַחֹֽשֶׁךְ",
+      "gloss": "der Finsternis"
+    }
+  ],
+  "timestamp": "2026-08-06T20:01:14.561572573Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "Denn er wird dich entreißen dem Fallstrick des Vogelstellers, von der verderblichen Seuche.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "wird dich entreißen"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "dem Fallstrick"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "des Vogelstellers"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "von der"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "verderblichen Seuche"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:35.374851361Z",
+  "model": "glm-5.2"
+}

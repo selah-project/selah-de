@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨es war⟩ der König Schlomo König über ganz Jisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und ⟨es war⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schlomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-06T08:44:08.734326144Z",
+  "model": "glm-5.2"
+}

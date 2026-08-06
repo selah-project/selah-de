@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Streite ⟨deinen⟩ Rechtsstreit mit ⟨את⟩ deinem Genossen, und ⟨das⟩ Geheimnis eines anderen enthülle nicht:",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "streite (deinen)"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "Rechtsstreit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Genossen"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "deinem Genossen"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "und ⟨das⟩ Geheimnis"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "eines anderen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "enthülle"
+    }
+  ],
+  "timestamp": "2026-08-05T23:14:12.175723200Z",
+  "model": "glm-5.2"
+}

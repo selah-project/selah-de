@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und das Volk dürstete dort nach Wasser, und das Volk murrte gegen Mosche, und er sagte: „Warum hast du uns aus Mizrajim heraufgeführt, mich und ⟨את⟩ meine Söhne und ⟨את⟩ mein Vieh mit Durst umkommen zu lassen?",
+  "tokens": [
+    {
+      "surface": "וַיִּצְמָ֨א",
+      "gloss": "und dürstete"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "לַמַּיִם",
+      "gloss": "nach Wasser"
+    },
+    {
+      "surface": "וַיָּלֶן",
+      "gloss": "und murrte"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "לָמָּה",
+      "gloss": "warum"
+    },
+    {
+      "surface": "זֶּה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "הֶעֱלִיתָנוּ",
+      "gloss": "hast du uns heraufgeführt"
+    },
+    {
+      "surface": "מִמִּצְרַיִם",
+      "gloss": "aus Mizrajim"
+    },
+    {
+      "surface": "לְהָמִית",
+      "gloss": "um umkommen zu lassen"
+    },
+    {
+      "surface": "אֹתִי",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Söhne"
+    },
+    {
+      "surface": "בָּנַי",
+      "gloss": "meine Söhne"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mein Vieh"
+    },
+    {
+      "surface": "מִקְנַי",
+      "gloss": "mein Vieh"
+    },
+    {
+      "surface": "בַּצָּמָא",
+      "gloss": "mit Durst"
+    }
+  ],
+  "timestamp": "2026-08-06T15:38:37.258874714Z",
+  "model": "glm-5.2"
+}

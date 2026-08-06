@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und seine Brüder wurden eifersüchtig auf ihn, aber sein Vater behielt ⟨את⟩ die Sache ⟨im Sinn⟩.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Und sie wurden eifersüchtig"
+    },
+    {
+      "surface": "בו",
+      "gloss": "auf ihn"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "aber sein Vater"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "behielt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Sache"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die Sache"
+    }
+  ],
+  "timestamp": "2026-08-06T05:11:02.327244549Z",
+  "model": "glm-5.2"
+}

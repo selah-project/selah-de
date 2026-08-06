@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Ich sah, und siehe, ⟨es war⟩ kein Mensch ⟨da⟩, und alle Vögel des Himmels waren geflohen.",
+  "tokens": [
+    {
+      "surface": "רָאִ֕יתִי",
+      "gloss": "Ich sah"
+    },
+    {
+      "surface": "וְהִנֵּ֖ה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "⟨es war⟩ kein"
+    },
+    {
+      "surface": "הָאָדָ֑ם",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "ע֥וֹף",
+      "gloss": "Vögel"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "נָדָֽדוּ",
+      "gloss": "waren geflohen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:59:38.513171923Z",
+  "model": "glm-5.2"
+}

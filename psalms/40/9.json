@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Zu tun deinen Willen, mein Elohim, habe ich Gefallen gefunden, und deine Tora ⟨ist⟩ inmitten meines Inneren.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "zu tun"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "deinen Willen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "habe ich Gefallen gefunden"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "und deine Tora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "meines Inneren"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:20.261697590Z",
+  "model": "glm-5.2"
+}

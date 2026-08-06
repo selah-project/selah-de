@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Ich selbst — vor dir her werde ich gehen, und das Hügelige werde ich einebnen; Tore aus Kupfer werde ich zerbrechen und eiserne Riegel zerhauen.",
+  "tokens": [
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "לְפָנֶ֣יךָ",
+      "gloss": "vor dir her"
+    },
+    {
+      "surface": "אֵלֵ֔ךְ",
+      "gloss": "werde ich gehen"
+    },
+    {
+      "surface": "וַהֲדוּרִ֖ים",
+      "gloss": "und das Hügelige"
+    },
+    {
+      "surface": "אוֹשֵׁר",
+      "gloss": "werde ich einebnen"
+    },
+    {
+      "surface": "דַּלְת֥וֹת",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "נְחוּשָׁ֖ה",
+      "gloss": "aus Kupfer"
+    },
+    {
+      "surface": "אֲשַׁבֵּ֑ר",
+      "gloss": "werde ich zerbrechen"
+    },
+    {
+      "surface": "וּבְרִיחֵ֥י",
+      "gloss": "und eiserne Riegel"
+    },
+    {
+      "surface": "בַּרְזֶ֖ל",
+      "gloss": "Eisen"
+    },
+    {
+      "surface": "אֲגַדֵּֽעַ",
+      "gloss": "werde ich zerhauen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:01:47.866140729Z",
+  "model": "glm-5.2"
+}

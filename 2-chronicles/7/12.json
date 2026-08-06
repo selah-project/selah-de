@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und JHWH erschien dem Schelomo in der Nacht und sprach zu ihm: „Ich habe ⟨את⟩ dein Gebet gehört und mir diesen Ort zum Schlachthaus erwählt.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Und es erschien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dem"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Ich habe gehört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Gebet"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "dein Gebet"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "und habe erwählt"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mir diesen Ort"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "zum Haus"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "des Schlachtens"
+    }
+  ],
+  "timestamp": "2026-08-06T09:36:02.615639104Z",
+  "model": "glm-5.2"
+}

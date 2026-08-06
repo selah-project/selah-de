@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 82,
+  "translation": "Fürwahr, wie ein Mensch werdet ihr sterben, und wie einer der Fürsten werdet ihr fallen.",
+  "tokens": [
+    {
+      "surface": "אָ֭כֵן",
+      "gloss": "Fürwahr"
+    },
+    {
+      "surface": "כְּאָדָ֣ם",
+      "gloss": "wie ein Mensch"
+    },
+    {
+      "surface": "תְּמוּת֑וּן",
+      "gloss": "werdet ihr sterben"
+    },
+    {
+      "surface": "וּכְאַחַ֖ד",
+      "gloss": "und wie einer"
+    },
+    {
+      "surface": "הַשָּׂרִ֣ים",
+      "gloss": "der Fürsten"
+    },
+    {
+      "surface": "תִּפֹּֽלוּ",
+      "gloss": "werdet ihr fallen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:54.150Z",
+  "model": "glm-5.2"
+}

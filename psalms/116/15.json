@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Kostbar in den Augen JHWHs ⟨ist⟩ das Sterben für seine Frommen.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Kostbar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in den Augen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "das Sterben"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "für seine Frommen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:42.335018706Z",
+  "model": "glm-5.2"
+}

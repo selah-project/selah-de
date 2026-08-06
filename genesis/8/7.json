@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨er⟩ sandte ⟨את⟩ den Raben hinaus; der flog hinaus, kam und ging, bis das Wasser vom Erdboden abgetrocknet war.",
+  "tokens": [
+    {
+      "surface": "וַיְשַׁלַּ֖ח",
+      "gloss": "und ⟨er⟩ sandte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Raben"
+    },
+    {
+      "surface": "הָֽעֹרֵ֑ב",
+      "gloss": "den Raben"
+    },
+    {
+      "surface": "וַיֵּצֵ֤א",
+      "gloss": "und ⟨er⟩ flog hinaus"
+    },
+    {
+      "surface": "יָצוֹא֙",
+      "gloss": "hinaus"
+    },
+    {
+      "surface": "וָשׁ֔וֹב",
+      "gloss": "und zurück"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "יְבֹ֥שֶׁת",
+      "gloss": "abtrocknete"
+    },
+    {
+      "surface": "הַמַּ֖יִם",
+      "gloss": "das Wasser"
+    },
+    {
+      "surface": "מֵעַ֥ל",
+      "gloss": "von … hin"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T19:23:29.173665789Z",
+  "model": "glm-5.2"
+}

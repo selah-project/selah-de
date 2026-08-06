@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ich rief deinen Namen, JHWH, aus der Grube der Tiefsten.",
+  "tokens": [
+    {
+      "surface": "קָרָ֤אתִי",
+      "gloss": "Ich rief"
+    },
+    {
+      "surface": "שִׁמְךָ֙",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מִבּ֖וֹר",
+      "gloss": "aus der Grube"
+    },
+    {
+      "surface": "תַּחְתִּיּֽוֹת",
+      "gloss": "der Tiefsten"
+    }
+  ],
+  "timestamp": "2026-08-06T09:27:21.680158082Z",
+  "model": "glm-5.2"
+}

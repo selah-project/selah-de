@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Und du, JHWH, Adonai, handle an mir um deines Namens willen, denn gut ⟨ist⟩ dein Chessed — rette mich!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Und du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "handle"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "an mir"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deines Namens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "rette mich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:37.470412163Z",
+  "model": "glm-5.2"
+}

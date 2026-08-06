@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Denn du ⟨bist es, der⟩ mich hervorgebracht hat aus dem Mutterleib, ⟨du⟩ mich vertrauen liesest an den Brüsten meiner Mutter.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "hervorgebracht hat"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "aus dem Mutterleib"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "mich vertrauen liesest"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "den Brüsten"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "meiner Mutter"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:14.846868980Z",
+  "model": "glm-5.2"
+}

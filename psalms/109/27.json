@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Und ⟨sie sollen⟩ erkennen, dass dies deine Hand ist — du, JHWH, hast es getan.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Und ⟨sie sollen⟩ erkennen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dies"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "hast es getan"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:14.662013164Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und alle Öffnungen und die Pfosten ⟨waren⟩ viereckig, ⟨mit⟩ Schaublöchern, und Fenster ⟨stand⟩ Fenster gegenüber, dreimal.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "Und alle"
+    },
+    {
+      "surface": "הַפְּתָחִ֥ים",
+      "gloss": "Öffnungen"
+    },
+    {
+      "surface": "וְהַמְּזוּז֖וֹת",
+      "gloss": "und die Pfosten"
+    },
+    {
+      "surface": "רְבֻעִ֣ים",
+      "gloss": "viereckig"
+    },
+    {
+      "surface": "שָׁ֑קֶף",
+      "gloss": "⟨mit⟩ Schaublöchern"
+    },
+    {
+      "surface": "וּמ֧וּל",
+      "gloss": "und gegenüber"
+    },
+    {
+      "surface": "מֶחֱזָ֛ה",
+      "gloss": "Fenster"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨stand⟩ … gegenüber"
+    },
+    {
+      "surface": "מֶחֱזָ֖ה",
+      "gloss": "Fenster"
+    },
+    {
+      "surface": "שָׁלֹ֥שׁ",
+      "gloss": "drei"
+    },
+    {
+      "surface": "פְּעָמִֽים",
+      "gloss": "mal"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:03.556977345Z",
+  "model": "glm-5.2"
+}

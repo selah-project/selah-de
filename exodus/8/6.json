@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨er⟩ sagte: „Auf morgen.“ Und ⟨er⟩ sagte: „Nach deinem Wort, damit du erkennst, dass keiner ⟨ist⟩ wie JHWH, unser Elohim —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Auf morgen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Nach deinem Wort"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "du erkennst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אין",
+      "gloss": "keiner ⟨ist⟩"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "wie JHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:35.155871430Z",
+  "model": "glm-5.2"
+}

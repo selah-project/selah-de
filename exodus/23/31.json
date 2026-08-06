@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und ich werde setzen ⟨את⟩ deine Grenze vom Schilfmeer bis zum Meer der Pelischtim und von der Wüste bis zum Strom. Denn ich werde in eure Hand geben ⟨את⟩ die Bewohner des Landes, und du wirst sie vor dir vertreiben.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Und ich werde setzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Grenze"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "deine Grenze"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vom Meer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Schilf(meer)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und bis"
+    },
+    {
+      "surface": "ים",
+      "gloss": "zum Meer"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "und von der Wüste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "zum Strom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ich werde geben"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in eure Hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Bewohner des Landes"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die Bewohner"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "und du wirst sie vertreiben"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "vor dir"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:51.404012465Z",
+  "model": "glm-5.2"
+}

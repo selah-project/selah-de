@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wenn zerrissen zerrissen wird, ⟨soll⟩ er ⟨es⟩ als Zeugen bringen ⟨für⟩ das Zerrissene — ⟨er⟩ soll nicht erstatten.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "zerrissen"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "zerrissen wird"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "⟨soll⟩ er ⟨es⟩ bringen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "als Zeugen"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "⟨für⟩ das Zerrissene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "⟨er⟩ ⟨soll⟩ erstatten"
+    }
+  ],
+  "timestamp": "2026-08-06T09:46:27.160494623Z",
+  "model": "glm-5.2"
+}

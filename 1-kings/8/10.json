@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und es geschah, beim Ausziehen der Kohen aus dem Heiligen, da füllte die Wolke ⟨את⟩ das Haus JHWHs.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "beim Ausziehen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "dem Heiligen"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "da füllte die Wolke"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "füllte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus JHWHs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T01:24:08.750552181Z",
+  "model": "glm-5.2"
+}

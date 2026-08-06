@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und du bringe ⟨את⟩ den Stier heran vor das Zelt der Begegnung, und Aharon und seine Söhne stützen ⟨את⟩ ihre Hände auf den Kopf des Stieres.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "und du bringe heran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stier"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "den Stier"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "das Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "und ⟨sie⟩ stützen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Hände"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ihre Hände"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "den Kopf"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "des Stieres"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:35.698291364Z",
+  "model": "glm-5.2"
+}

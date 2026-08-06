@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und wenn ihr ⟨את⟩ die Ernte eures Landes erntet, sollst du nicht vollenden den Rand deines Feldes bei der Ernte, und das Nachgelesene deiner Ernte sollst du nicht nachlesen.",
+  "tokens": [
+    {
+      "surface": "וּֽבְקֻצְרְכֶם֙",
+      "gloss": "Und wenn ihr erntet"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Ernte"
+    },
+    {
+      "surface": "קְצִ֣יר",
+      "gloss": "Ernte"
+    },
+    {
+      "surface": "אַרְצְכֶ֔ם",
+      "gloss": "eures Landes"
+    },
+    {
+      "surface": "לֹ֧א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תְכַלֶּ֛ה",
+      "gloss": "sollst du vollenden"
+    },
+    {
+      "surface": "פְּאַ֥ת",
+      "gloss": "den Rand"
+    },
+    {
+      "surface": "שָׂדְךָ֖",
+      "gloss": "deines Feldes"
+    },
+    {
+      "surface": "לִקְצֹ֑ר",
+      "gloss": "bei der Ernte"
+    },
+    {
+      "surface": "וְלֶ֥קֶט",
+      "gloss": "und das Nachgelesene"
+    },
+    {
+      "surface": "קְצִֽירְךָ֖",
+      "gloss": "deiner Ernte"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תְלַקֵּֽט",
+      "gloss": "sollst du nachlesen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:41.738803162Z",
+  "model": "glm-5.2"
+}

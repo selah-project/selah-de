@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Höre, JHWH, und sei mir gnädig; JHWH, sei mir ein Helfer.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Höre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "und sei mir gnädig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ein Helfer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:43.582830579Z",
+  "model": "glm-5.2"
+}

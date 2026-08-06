@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ihre Fürsten in ihrer Mitte ⟨sind⟩ brüllende Löwen; ihre Richter ⟨sind⟩ Wölfe der Abenddämmerung — sie lassen keinen Knochen übrig bis zum Morgen.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Ihre Fürsten"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in ihrer Mitte"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "Löwen"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "brüllende"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ihre Richter"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "Wölfe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "der Abenddämmerung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "ließen sie … übrig"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "bis zum Morgen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:39:11.503914188Z",
+  "model": "glm-5.2"
+}

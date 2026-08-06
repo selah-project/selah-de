@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Wer einen Kesil zeugt, ⟨hat⟩ Kummer, und der Vater eines Nawal freut sich nicht.",
+  "tokens": [
+    {
+      "surface": "יֹלֵ֣ד",
+      "gloss": "wer zeugt"
+    },
+    {
+      "surface": "כְּ֭סִיל",
+      "gloss": "einen Kesil"
+    },
+    {
+      "surface": "לְת֣וּגָה",
+      "gloss": "Kummer"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "⟨hat⟩"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יִ֝שְׂמַ֗ח",
+      "gloss": "freut sich"
+    },
+    {
+      "surface": "אֲבִ֣י",
+      "gloss": "der Vater"
+    },
+    {
+      "surface": "נָבָֽל",
+      "gloss": "eines Nawal"
+    }
+  ],
+  "timestamp": "2026-08-06T04:28:29.885305574Z",
+  "model": "glm-5.2"
+}

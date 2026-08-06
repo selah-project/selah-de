@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "In JHWH werden gerechtfertigt werden und sich rühmen aller Same Jisraels.",
+  "tokens": [
+    {
+      "surface": "בַּיהוָ֛ה",
+      "gloss": "In JHWH"
+    },
+    {
+      "surface": "יִצְדְּק֥וּ",
+      "gloss": "werden gerechtfertigt werden"
+    },
+    {
+      "surface": "וְיִֽתְהַלְל֖וּ",
+      "gloss": "und sich rühmen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "זֶ֥רַע",
+      "gloss": "Same"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T03:18:39.707813473Z",
+  "model": "glm-5.2"
+}

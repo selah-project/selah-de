@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Der Anfang deines Wortes ⟨ist⟩ Emet, und ⟨für⟩ ewig ⟨gilt⟩ jedes Urteil deiner Gerechtigkeit.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Anfang"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "deines Wortes"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Emet"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "und ⟨für⟩ ewig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jedes"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Urteil"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "deiner Gerechtigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:03.560789501Z",
+  "model": "glm-5.2"
+}

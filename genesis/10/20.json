@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Das sind die Söhne Chams nach ihren Sippen, nach ihren Sprachen, in ihren Ländern, in ihren Völkern.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Das"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sind die Söhne"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chams"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nach ihren Sippen"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "nach ihren Sprachen"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "in ihren Ländern"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "in ihren Völkern"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:09.514710810Z",
+  "model": "glm-5.2"
+}

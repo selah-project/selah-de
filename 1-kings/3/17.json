@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Da sagte die eine Frau: „Bitte, mein Herr, ich und diese Frau, wir wohnen ⟨in⟩ einem Haus, und ich gebar ⟨mit⟩ ihr im Haus.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Da sagte"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "die eine"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bitte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "und ⟨die⟩ Frau"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "wir wohnen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨in⟩ ⟨einem⟩ Haus"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einem"
+    },
+    {
+      "surface": "ואלד",
+      "gloss": "und ich gebar"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "⟨mit⟩ ihr"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    }
+  ],
+  "timestamp": "2026-08-05T21:25:47.659243467Z",
+  "model": "glm-5.2"
+}

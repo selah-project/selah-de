@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Viele Hirten haben meinen Weinberg verdorben, meinen Anteil haben sie niedergetreten, ⟨sie⟩ haben den Anteil meiner Lust zur öden Wüste gemacht.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "Hirten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "viele"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "haben verdorben"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "meinen Weinberg"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "haben niedergetreten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Anteil"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "meinen Anteil"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "haben gemacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Anteil meiner Lust"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Anteil"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "meiner Lust"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "zur Wüste"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "öden"
+    }
+  ],
+  "timestamp": "2026-08-06T03:29:18.605899047Z",
+  "model": "glm-5.2"
+}

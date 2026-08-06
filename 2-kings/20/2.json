@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ⟨er⟩ wandte ⟨את⟩ sein Gesicht zur Wand und betete zu JHWH, indem ⟨er⟩ sagte:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "und wandte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Gesicht"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sein Gesicht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "der Wand"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "und betete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨er⟩ sagte"
+    }
+  ],
+  "timestamp": "2026-08-06T20:33:11.400534439Z",
+  "model": "glm-5.2"
+}

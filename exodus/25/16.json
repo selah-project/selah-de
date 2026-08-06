@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und du sollst in die Lade ⟨את⟩ das Zeugnis geben, das ich dir geben werde.",
+  "tokens": [
+    {
+      "surface": "וְנָתַתָּ",
+      "gloss": "Und du sollst geben"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הָאָרֹן",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "das Zeugnis"
+    },
+    {
+      "surface": "הָעֵדֻת",
+      "gloss": "das Zeugnis"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אֶתֵּן",
+      "gloss": "ich geben werde"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:12.060088828Z",
+  "model": "glm-5.2"
+}

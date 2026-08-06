@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 140,
+  "translation": "Das Haupt meiner Umringenden — ⟨die⟩ Mühsal ihrer Lippen möge sie bedecken.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Haupt"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "meiner Umringenden"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "Mühsal"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ihrer Lippen"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "möge sie bedecken"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:34.441303261Z",
+  "model": "glm-5.2"
+}

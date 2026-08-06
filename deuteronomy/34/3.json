@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "und ⟨את⟩ den Negev und ⟨את⟩ die Ebene, die Senke Jerichos, der Palmenstadt, bis Zoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Negev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "den Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Ebene"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "die Ebene"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "die Senke"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jerichos"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "der Palmen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Zoar"
+    }
+  ],
+  "timestamp": "2026-08-05T20:52:44.903650313Z",
+  "model": "glm-5.2"
+}

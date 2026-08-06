@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und ⟨er⟩ wird hervorbringen wie das Licht deine Gerechtigkeit, und dein Recht wie den Mittag.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "und wird hervorbringen"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "wie das Licht"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "deine Gerechtigkeit"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "und dein Recht"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "wie den Mittag"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:05.291390269Z",
+  "model": "glm-5.2"
+}

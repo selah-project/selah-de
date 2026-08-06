@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 82,
+  "translation": "Ich sagte: Elohim seid ihr, und Söhne des Höchsten all ihr.",
+  "tokens": [
+    {
+      "surface": "אֲֽנִי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "אָ֭מַרְתִּי",
+      "gloss": "sagte"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אַתֶּ֑ם",
+      "gloss": "seid ihr"
+    },
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "und Söhne"
+    },
+    {
+      "surface": "עֶלְי֣וֹן",
+      "gloss": "des Höchsten"
+    },
+    {
+      "surface": "כֻּלְּכֶֽם",
+      "gloss": "all ihr"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:51.374407126Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 76,
+  "translation": "Beraubt wurden die Starken ⟨im⟩ Herzen, ihr Schlaf schlummerte ein, und nicht fanden alle Männer der Kraft ihre Hände.",
+  "tokens": [
+    {
+      "surface": "אֶשְׁתּוֹלְל֨וּ",
+      "gloss": "beraubt wurden"
+    },
+    {
+      "surface": "אַבִּ֣ירֵי",
+      "gloss": "die Starken"
+    },
+    {
+      "surface": "לֵ֭ב",
+      "gloss": "⟨im⟩ Herzen"
+    },
+    {
+      "surface": "נָמ֣וּ",
+      "gloss": "schlummerte ein"
+    },
+    {
+      "surface": "שְׁנָתָ֑ם",
+      "gloss": "ihr Schlaf"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "מָצְא֖וּ",
+      "gloss": "fanden"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אַנְשֵׁי",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "חַ֣יִל",
+      "gloss": "der Kraft"
+    },
+    {
+      "surface": "יְדֵיהֶֽם",
+      "gloss": "ihre Hände"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:52.246055614Z",
+  "model": "glm-5.2"
+}

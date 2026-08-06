@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Denn Sau-Sau, Sau-Sau, Kau-Kau, Kau-Kau, hier ein bisschen, dort ein bisschen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "צו",
+      "gloss": "Sau"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "Sau"
+    },
+    {
+      "surface": "צו",
+      "gloss": "Sau"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "Sau"
+    },
+    {
+      "surface": "קו",
+      "gloss": "Kau"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "Kau"
+    },
+    {
+      "surface": "קו",
+      "gloss": "Kau"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "Kau"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ein bisschen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hier"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ein bisschen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-05T21:48:51.214569977Z",
+  "model": "glm-5.2"
+}

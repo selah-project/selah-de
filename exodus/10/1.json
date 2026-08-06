@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und JHWH sprach zu Mosche: Geh zu Paro, denn ich — ich habe ⟨את⟩ sein Herz schwer gemacht und ⟨את⟩ das Herz seiner Knechte, damit ich meine Zeichen, diese, in seine Mitte setze.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "בא",
+      "gloss": "geh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "habe schwer gemacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Herz"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sein Herz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Herz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seiner Knechte"
+    },
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ich setze"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "meine Zeichen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in seine Mitte"
+    }
+  ],
+  "timestamp": "2026-08-05T20:07:42.054787532Z",
+  "model": "glm-5.2"
+}

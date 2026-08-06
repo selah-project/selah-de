@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Gesagt ⟨hat⟩ der Wächter: ⟨Es⟩ kommt Morgen, und auch Nacht. Wenn ihr fragen wollt, fragt — kehrt um, kommt!",
+  "tokens": [
+    {
+      "surface": "אָמַר",
+      "gloss": "Gesagt ⟨hat⟩"
+    },
+    {
+      "surface": "שֹׁמֵר",
+      "gloss": "der Wächter"
+    },
+    {
+      "surface": "אָתָה",
+      "gloss": "⟨Es⟩ kommt"
+    },
+    {
+      "surface": "בֹקֶר",
+      "gloss": "Morgen"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "לַיְלָה",
+      "gloss": "Nacht"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תִּבְעָיוּן",
+      "gloss": "ihr fragen wollt"
+    },
+    {
+      "surface": "בְּעָיוּ",
+      "gloss": "fragt"
+    },
+    {
+      "surface": "שֻׁבוּ",
+      "gloss": "kehrt um"
+    },
+    {
+      "surface": "אֵתָיוּ",
+      "gloss": "kommt"
+    }
+  ],
+  "timestamp": "2026-08-06T01:43:33.723253884Z",
+  "model": "glm-5.2"
+}

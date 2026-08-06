@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und er sagte: Welchen Weg wollen wir hinaufziehen? Und er sagte: Den Weg durch die Wüste von Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Welchen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨— diesen⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "Weg"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "wollen wir hinaufziehen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Den Weg"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "durch die Wüste"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "von Edom"
+    }
+  ],
+  "timestamp": "2026-08-06T19:41:18.253131642Z",
+  "model": "glm-5.2"
+}

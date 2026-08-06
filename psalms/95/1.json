@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 95,
+  "translation": "Kommt, lasst uns JHWH besingen, lasst uns jauchzen dem Fels unseres Heils!",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kommt"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "lasst uns besingen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "lasst uns jauchzen"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "dem Fels"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "unseres Heils"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:40.432188860Z",
+  "model": "glm-5.2"
+}

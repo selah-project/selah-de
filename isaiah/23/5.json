@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Wie ⟨ein⟩ Gerücht, ⟨das⟩ Mizrajim ⟨erreicht⟩, so winden sie sich in Schmerz — wie ⟨bei⟩ ⟨dem⟩ Hören über Zor.",
+  "tokens": [
+    {
+      "surface": "כַּֽאֲשֶׁר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "שֵׁ֖מַע",
+      "gloss": "⟨ein⟩ Gerücht"
+    },
+    {
+      "surface": "לְמִצְרָ֑יִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "יָחִ֖ילוּ",
+      "gloss": "winden sie sich in Schmerz"
+    },
+    {
+      "surface": "כְּשֵׁ֥מַע",
+      "gloss": "wie ⟨bei⟩ ⟨dem⟩ Hören über"
+    },
+    {
+      "surface": "צֹֽר",
+      "gloss": "Zor"
+    }
+  ],
+  "timestamp": "2026-08-06T01:43:19.322230609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Reu lebte zweiunddreißig Jahre und zeugte ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "וַיְחִ֣י",
+      "gloss": "und lebte"
+    },
+    {
+      "surface": "רְע֔וּ",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שְׁתַּ֥יִם",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁ֖ים",
+      "gloss": "und dreißig"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "וַיּ֖וֹלֶד",
+      "gloss": "und zeugte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שְׂרֽוּג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:43.915522490Z",
+  "model": "glm-5.2"
+}

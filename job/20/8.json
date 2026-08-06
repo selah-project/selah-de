@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 20:8",
+  "book": "job",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Wie ein Traum fliegt er davon und ⟨man⟩ findet ihn nicht, und ⟨er entschwindet⟩ wie ein Nachtgesicht.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Wie ein Traum"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "fliegt ⟨er⟩ davon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ימצאוהו",
+      "gloss": "findet ⟨man⟩ ihn"
+    },
+    {
+      "surface": "וידד",
+      "gloss": "und ⟨er entschwindet⟩"
+    },
+    {
+      "surface": "כחזיון",
+      "gloss": "wie ein Nachtgesicht"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "der Nacht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:19:57.423653646Z",
+  "model": "glm-5.2"
+}

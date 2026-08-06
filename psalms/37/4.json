@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und ergötze dich an JHWH, dann gibt er dir ⟨die⟩ Bitten deines Herzens.",
+  "tokens": [
+    {
+      "surface": "וְהִתְעַנַּ֥ג",
+      "gloss": "und ergötze dich"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "an"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְיִֽתֶּן",
+      "gloss": "dann gibt"
+    },
+    {
+      "surface": "לְ֝ךָ֗",
+      "gloss": "dir"
+    },
+    {
+      "surface": "מִשְׁאֲלֹ֥ת",
+      "gloss": "Bitten"
+    },
+    {
+      "surface": "לִבֶּֽךָ",
+      "gloss": "deines Herzens"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:14.889753385Z",
+  "model": "glm-5.2"
+}

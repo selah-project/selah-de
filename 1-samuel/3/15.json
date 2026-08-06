@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Schmuël schlief bis zum Morgen, und er öffnete ⟨את⟩ die Türen des Hauses von JHWH. Und Schmuël fürchtete sich, ⟨את⟩ die Erscheinung dem Eli mitzuteilen.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Und schlief"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "zum Morgen"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "und öffnete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Türen"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "Türen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Und Schmuël"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fürchtete sich"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "mitzuteilen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erscheinung"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "die Erscheinung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-06T05:37:55.024499668Z",
+  "model": "glm-5.2"
+}

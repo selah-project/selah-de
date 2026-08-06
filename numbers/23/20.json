@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Siehe, zum Segnen ⟨bin⟩ ich genommen, und er segnet, und ich werde es nicht zurücknehmen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "zum Segnen"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "bin ich genommen"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "und er segnet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "werde ich zurücknehmen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:38:01.354719173Z",
+  "model": "glm-5.2"
+}

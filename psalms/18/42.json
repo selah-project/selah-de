@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Sie schrien um Hilfe, und ⟨es war⟩ kein Retter ⟨da⟩; zu JHWH, und er antwortete sie nicht.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Sie schrien um Hilfe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es war⟩ kein"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Retter ⟨da⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "er antwortete sie"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:46.946376871Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Nicht glaubten es die Könige der Erde und ⟨alle⟩ Bewohner der Welt, dass ein Bedränger und Feind käme in die Tore Jeruschalajims.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "glaubten es"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die Könige"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ⟨alle⟩"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "der Welt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "käme"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ein Bedränger"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "und Feind"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "in die Tore"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajims"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:41.099459401Z",
+  "model": "glm-5.2"
+}

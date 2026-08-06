@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Ich selbst habe ⟨meinen⟩ Geheiligten geboten, auch habe ich meine Helden gerufen zu meinem Zorn, ⟨die⟩ Frohlockenden meiner Pracht.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "habe geboten"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "meinen Geheiligten"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "habe ich gerufen"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "meine Helden"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "zu meinem Zorn"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "Frohlockende"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "meiner Pracht"
+    }
+  ],
+  "timestamp": "2026-08-06T01:41:44.971949183Z",
+  "model": "glm-5.2"
+}

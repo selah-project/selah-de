@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Mein Heiliges hast du verachtet und ⟨את⟩ meine Schabbatot hast du entweiht.",
+  "tokens": [
+    {
+      "surface": "קָדָשַׁ֖י",
+      "gloss": "Mein Heiliges"
+    },
+    {
+      "surface": "בָּזִ֑יתָ",
+      "gloss": "hast du verachtet"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Schabbatot"
+    },
+    {
+      "surface": "שַׁבְּתֹתַ֖י",
+      "gloss": "meine Schabbatot"
+    },
+    {
+      "surface": "חִלָּֽלְתְּ",
+      "gloss": "hast du entweiht"
+    }
+  ],
+  "timestamp": "2026-08-05T22:22:42.897363315Z",
+  "model": "glm-5.2"
+}

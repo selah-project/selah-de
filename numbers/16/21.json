@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "„Sondert euch ab aus der Mitte dieser Versammlung, und ich werde sie vernichten ⟨את⟩ im Augenblick.“",
+  "tokens": [
+    {
+      "surface": "הִבָּדְלוּ",
+      "gloss": "Sondert euch ab"
+    },
+    {
+      "surface": "מִתּוֹךְ",
+      "gloss": "aus der Mitte"
+    },
+    {
+      "surface": "הָעֵדָה",
+      "gloss": "der Versammlung"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "וַאֲכַלֶּה",
+      "gloss": "und ich werde vernichten"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "כְּרָגַע",
+      "gloss": "im Augenblick"
+    }
+  ],
+  "timestamp": "2026-08-05T20:34:48.202734370Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Nein, es sollen dir nicht sein Elohim andere über ⟨⟩ mein Angesicht.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nein"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "sie sollen sein"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֲחֵרִ֖ים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "פָּנָֽיַ",
+      "gloss": "mein Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-06T15:41:46.487565058Z",
+  "model": "glm-5.2"
+}

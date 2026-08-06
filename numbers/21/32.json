@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Mosche sandte ⟨Männer⟩ zum Erkunden ⟨את⟩ Jaaser, und sie nahmen ⟨ein⟩ ihre Tochterstädte ein, und ⟨er⟩ nahm in Besitz ⟨את⟩ den Emori, der dort ⟨war⟩.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַ֤ח",
+      "gloss": "Und ⟨er⟩ sandte"
+    },
+    {
+      "surface": "מֹשֶׁה֙",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "לְרַגֵּ֣ל",
+      "gloss": "zum Erkunden"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Jaaser"
+    },
+    {
+      "surface": "יַעְזֵ֔ר",
+      "gloss": "Jaaser"
+    },
+    {
+      "surface": "וַֽיִּלְכְּד֖וּ",
+      "gloss": "und sie nahmen ⟨ein⟩"
+    },
+    {
+      "surface": "בְּנֹתֶ֑יהָ",
+      "gloss": "ihre Tochterstädte"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "und ⟨er⟩ nahm in Besitz"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Emori"
+    },
+    {
+      "surface": "הָאֱמֹרִ֥י",
+      "gloss": "den Emori"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "der"
+    },
+    {
+      "surface": "שָֽׁם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-06T00:36:42.184979563Z",
+  "model": "glm-5.2"
+}

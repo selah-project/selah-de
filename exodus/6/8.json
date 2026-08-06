@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ich werde euch bringen in das Land, über das ich meine Hand erhoben habe, ⟨es⟩ zu geben — ⟨את⟩ es dem Awraham, dem Jizchak und dem Jaakow —, und ich werde es euch geben als Erbbesitz: ich ⟨bin⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "Und ich werde bringen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch (als Objekt von „bringen“)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "über das"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ich erhoben habe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "meine Hand"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "zu geben"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ es",
+      "marks": "es (das Land, als Objekt von „geben“)"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "dem Awraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "dem Jizchak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "und dem Jaakow"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "und ich werde geben"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ es",
+      "marks": "es (das Land, als Objekt von „geben“)"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "als Erbbesitz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:54.368398060Z",
+  "model": "glm-5.2"
+}

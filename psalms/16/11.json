@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Du lässt mich kennen den Weg des Lebens, Sättigung an Freuden ⟨bei⟩ ⟨את⟩ deinem Angesicht, Anmutlichkeiten ⟨an⟩ deiner Rechten für immer.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Du lässt mich kennen"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "des Lebens"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sättigung"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "an Freuden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinem Angesicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "deinem Angesicht"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "Anmutlichkeiten"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "⟨an⟩ deiner Rechten"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "für immer"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:24.267215484Z",
+  "model": "glm-5.2"
+}

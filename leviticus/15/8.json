@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 15:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und wenn der Saw auf den Reinen spuckt, dann ⟨muss dieser⟩ seine Kleider waschen und sich im Wasser baden, und ⟨er ist⟩ unrein bis zum Abend.",
+  "tokens": [
+    {
+      "surface": "וְכִֽי",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "יָרֹ֛ק",
+      "gloss": "spuckt"
+    },
+    {
+      "surface": "הַזָּ֖ב",
+      "gloss": "der Saw"
+    },
+    {
+      "surface": "בַּטָּה֑וֹר",
+      "gloss": "auf den Reinen"
+    },
+    {
+      "surface": "וְכִבֶּ֧ס",
+      "gloss": "dann ⟨muss er⟩ waschen"
+    },
+    {
+      "surface": "בְּגָדָ֛יו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "וְרָחַ֥ץ",
+      "gloss": "und baden"
+    },
+    {
+      "surface": "בַּמַּ֖יִם",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "וְטָמֵ֥א",
+      "gloss": "und ⟨ist⟩ unrein"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הָעָֽרֶב",
+      "gloss": "zum Abend"
+    }
+  ],
+  "timestamp": "2026-08-06T02:11:52.837893175Z",
+  "model": "glm-5.2"
+}

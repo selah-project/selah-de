@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "der du bewahrt hast für deinen Knecht Dawid, meinen Vater, ⟨את⟩ das, was du zu ihm geredet hast — und du hast mit deinem Mund geredet, und mit deiner Hand hast du ⟨es⟩ erfüllt wie an diesem Tag.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "du bewahrt hast"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "für deinen Knecht"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meinen Vater"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was du zu ihm geredet hast"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "du geredet hast"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "und du hast geredet"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "mit deinem Mund"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "und mit deiner Hand"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "hast du ⟨es⟩ erfüllt"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "wie an diesem Tag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    }
+  ],
+  "timestamp": "2026-08-06T01:24:31.235046530Z",
+  "model": "glm-5.2"
+}

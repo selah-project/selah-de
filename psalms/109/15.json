@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Sie seien ständig vor JHWH, ⟨damit er⟩ ⟨sie⟩ ausrottet aus der Erde ⟨ihren⟩ Gedenken.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "sie seien"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ständig"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "und ⟨er⟩ ausrotte"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus der Erde"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ihr Gedenken"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:04.356682867Z",
+  "model": "glm-5.2"
+}

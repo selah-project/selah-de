@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Mosche und Aharon nahmen ⟨את⟩ diese Männer, die mit Namen bezeichnet waren.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und … nahmen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Männer"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "diese"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "bezeichnet waren"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "mit Namen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:23:16.475903608Z",
+  "model": "glm-5.2"
+}

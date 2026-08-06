@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "Du ließest sie Brot der Tränen essen und tränkest sie mit Tränen ⟨im⟩ Übermaß.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Du ließest sie essen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "der Tränen"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "und tränkest sie"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "mit Tränen"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "⟨im⟩ Übermaß"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:04.738349168Z",
+  "model": "glm-5.2"
+}

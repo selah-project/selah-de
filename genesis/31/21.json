@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und er floh, er und alles, was ihm gehörte, und ⟨er⟩ erhob sich und überquerte ⟨את⟩ den Fluss, und ⟨er⟩ richtete ⟨את⟩ sein Gesicht ⟨auf⟩ den Berg Gilad.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "und er floh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm gehörte"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "und ⟨er⟩ erhob sich"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "und überquerte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Fluss"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "den Fluss"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "und ⟨er⟩ richtete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Gesicht"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sein Gesicht"
+    },
+    {
+      "surface": "הר",
+      "gloss": "den Berg"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-05T17:37:06.868781317Z",
+  "model": "glm-5.2"
+}

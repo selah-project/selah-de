@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und wieder entbrannte der Zorn JHWHs gegen Jisra'el, und er stachelte ⟨את⟩ Dawid gegen sie auf, indem er sprach: „Geh, zähle ⟨את⟩ Jisra'el und ⟨את⟩ Jehuda!",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Und wieder"
+    },
+    {
+      "surface": "אף",
+      "gloss": "der Zorn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "entbrannte"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "gegen Jisra'el"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "und er stachelte auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "gegen sie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem er sprach"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "zähle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-08-06T08:44:03.591029857Z",
+  "model": "glm-5.2"
+}

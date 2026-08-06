@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Soll ich etwa ⟨את⟩ mein Brot nehmen und ⟨את⟩ mein Wasser und ⟨את⟩ mein Schlachtvieh, das ich für meine Scherer geschlachtet habe, und Männern geben, von denen ich nicht weiß, woher sie sind?\"",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Soll ich nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Brot"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mein Brot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "mein Wasser"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mein Wasser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "mein Schlachtvieh"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "mein Schlachtvieh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ich geschlachtet habe"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "für meine Scherer"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "und geben"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "Männern"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "von denen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ich weiß"
+    },
+    {
+      "surface": "אי",
+      "gloss": "wo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "her"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie sind"
+    }
+  ],
+  "timestamp": "2026-08-06T02:46:36.809794204Z",
+  "model": "glm-5.2"
+}

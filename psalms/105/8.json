@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Er gedachte für ewig seiner Brit — ⟨des⟩ Wortes, das er gebot für tausend Generationen:",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Er gedachte"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "seiner Brit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨des⟩ Wortes"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "das er gebot"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "für tausend"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Generationen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:25.437618597Z",
+  "model": "glm-5.2"
+}

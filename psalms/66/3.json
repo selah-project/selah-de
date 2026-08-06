@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Sagt zu Elohim: „Wie furchtbar sind deine Taten! Durch die Fülle deiner Macht werden dir deine Feinde ⟨Huld⟩ heucheln.“",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Sagt"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "zu Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "furchtbar"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "sind deine Taten"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Durch die Fülle"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "deiner Macht"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "werden heucheln"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "deine Feinde"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:49.634283022Z",
+  "model": "glm-5.2"
+}

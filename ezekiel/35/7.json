@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und ich werde ⟨את⟩ den Berg Seir zur Verödung und zur Wüste machen, und ich werde ihn ausrotten, ⟨indem ich⟩ von ihm weg⟨schneide⟩ den Durchziehenden und den Zurückkehrenden.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Und ich werde … machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Berg Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "den Berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "zur Verödung"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "und zur Wüste"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "und ich werde ausrotten"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "den Durchziehenden"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "und den Zurückkehrenden"
+    }
+  ],
+  "timestamp": "2026-08-06T09:06:10.684740664Z",
+  "model": "glm-5.2"
+}

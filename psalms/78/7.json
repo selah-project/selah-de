@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "und sie sollen ihre Zuversicht auf Elohim setzen und nicht vergessen die Taten von El, und seine Gebote sollen sie bewahren.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "und sie sollen setzen"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "auf Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "ihre Zuversicht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "sollen sie vergessen"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "die Taten von"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "und seine Gebote"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "sollen sie bewahren"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:24.530645582Z",
+  "model": "glm-5.2"
+}

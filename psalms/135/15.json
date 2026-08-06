@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Die Götzen der Völker ⟨sind⟩ Silber und Gold, ein Werk von Händen des Menschen.",
+  "tokens": [
+    {
+      "surface": "עֲצַבֵּי",
+      "gloss": "Die Götzen"
+    },
+    {
+      "surface": "הַגּוֹיִם",
+      "gloss": "der Völker"
+    },
+    {
+      "surface": "כֶּסֶף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "וְזָהָב",
+      "gloss": "und Gold"
+    },
+    {
+      "surface": "מַעֲשֵׂה",
+      "gloss": "⟨ein⟩ Werk"
+    },
+    {
+      "surface": "יְדֵי",
+      "gloss": "von Händen"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "des Menschen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:11.108661565Z",
+  "model": "glm-5.2"
+}

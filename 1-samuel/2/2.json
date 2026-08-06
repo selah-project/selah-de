@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Kein ⟨Heiliger ist⟩ wie JHWH, denn ⟨es ist⟩ keiner außer dir, und kein Fels ist wie unser Elohim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "kein"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Heiliger"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "wie JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "keiner"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "außer dir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und kein"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Fels"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "wie unser Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T05:37:32.446854231Z",
+  "model": "glm-5.2"
+}

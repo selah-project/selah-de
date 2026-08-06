@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Glückselig ⟨sind⟩ die Wächter des Rechts, die Gerechtigkeit tun zu jeder Zeit!",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Glückselig"
+    },
+    {
+      "surface": "שֹׁמְרֵי",
+      "gloss": "⟨sind⟩ die Wächter"
+    },
+    {
+      "surface": "מִשְׁפָּט",
+      "gloss": "des Rechts"
+    },
+    {
+      "surface": "עֹשֵׂה",
+      "gloss": "die tun"
+    },
+    {
+      "surface": "צְדָקָה",
+      "gloss": "Gerechtigkeit"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "zu jeder"
+    },
+    {
+      "surface": "עֵת",
+      "gloss": "Zeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:52.780909635Z",
+  "model": "glm-5.2"
+}

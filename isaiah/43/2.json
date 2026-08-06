@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Denn wenn du durch die Wasser gehst, ich ⟨bin⟩ mit dir, und durch die Ströme — sie werden dich nicht überfluten. Wenn du durchs Feuer gehst, wirst du nicht versengt, und eine Flamme wird in dir nicht entbrennen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn wenn"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "du gehst"
+    },
+    {
+      "surface": "במים",
+      "gloss": "durch die Wasser"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ich ⟨bin⟩ mit dir"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "und durch die Ströme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "werden sie dich überfluten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "du gehst"
+    },
+    {
+      "surface": "במו",
+      "gloss": "durch"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "wirst du versengt"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "und eine Flamme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "wird entbrennen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in dir"
+    }
+  ],
+  "timestamp": "2026-08-05T21:53:38.262567211Z",
+  "model": "glm-5.2"
+}

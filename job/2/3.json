@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 2:3",
+  "book": "job",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH sprach zum Satan: Hast du dein Herz auf meinen Knecht Ijjow gerichtet? Denn keiner ist wie er auf der Erde — ein Mann, unbescholten und aufrichtig, Elohim fürchtend und dem Bösen abgewandt. Und er hält noch immer fest an seiner Unschuld — und du hast mich gegen ihn aufgestachelt, ihn grundlos zu verschlingen!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "dem Satan"
+    },
+    {
+      "surface": "השמת",
+      "gloss": "Hast du gerichtet"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dein Herz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "meinen Knecht"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijjow"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "keiner"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ist wie er"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "תם",
+      "gloss": "unbescholten"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "und aufrichtig"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fürchtend"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "und abgewandt"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "vom Bösen"
+    },
+    {
+      "surface": "ועדנו",
+      "gloss": "Und er ⟨hält⟩ noch immer"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "fest"
+    },
+    {
+      "surface": "בתמתו",
+      "gloss": "an seiner Unschuld"
+    },
+    {
+      "surface": "ותסיתני",
+      "gloss": "und du hast mich aufgestachelt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gegen ihn"
+    },
+    {
+      "surface": "לבלעו",
+      "gloss": "ihn zu verschlingen"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "grundlos"
+    }
+  ],
+  "timestamp": "2026-08-06T21:25:18.053783679Z",
+  "model": "glm-5.2"
+}

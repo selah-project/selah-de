@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und Jaakow floh ins Feld Arams, und Jisra'el diente um eine Frau, und um eine Frau hütete ⟨er⟩.",
+  "tokens": [
+    {
+      "surface": "וַיִּבְרַח",
+      "gloss": "Und ⟨er⟩ floh"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "שְׂדֵה",
+      "gloss": "ins Feld"
+    },
+    {
+      "surface": "אֲרָם",
+      "gloss": "Arams"
+    },
+    {
+      "surface": "וַיַּעֲבֹד",
+      "gloss": "und ⟨er⟩ diente"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "בְּאִשָּׁה",
+      "gloss": "um eine Frau"
+    },
+    {
+      "surface": "וּבְאִשָּׁה",
+      "gloss": "und um eine Frau"
+    },
+    {
+      "surface": "שָׁמָר",
+      "gloss": "hütete"
+    }
+  ],
+  "timestamp": "2026-08-06T09:08:24.043405259Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Dessen Ernte isst der Hungrige, und aus den Dornen nimmt er sie, und ⟨die⟩ Durstigen schnappen nach ihrem Vermögen.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "dessen"
+    },
+    {
+      "surface": "קְצִירוֹ",
+      "gloss": "Ernte"
+    },
+    {
+      "surface": "רָעֵב",
+      "gloss": "der Hungrige"
+    },
+    {
+      "surface": "יֹאכֵל",
+      "gloss": "isst"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "und aus"
+    },
+    {
+      "surface": "מִצִּנִּים",
+      "gloss": "den Dornen"
+    },
+    {
+      "surface": "יִקָּחֵהוּ",
+      "gloss": "nimmt er sie"
+    },
+    {
+      "surface": "וְשָׁאַף",
+      "gloss": "und schnappen"
+    },
+    {
+      "surface": "צַמִּים",
+      "gloss": "die Durstigen"
+    },
+    {
+      "surface": "חֵילָם",
+      "gloss": "nach ihrem Vermögen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:17:11.846529980Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Ich habe ⟨את⟩ ⟨das⟩ gehört, was die Nawim gesagt haben, die Nawim in meinem Namen Lüge prophezeien und sagen: „Ich habe geträumt, ich habe geträumt.“",
+  "tokens": [
+    {
+      "surface": "שָׁמַ֗עְתִּי",
+      "gloss": "Ich habe gehört"
+    },
+    {
+      "surface": "אֵ֤ת",
+      "gloss": "⟨את⟩",
+      "marks": "das, was"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "was"
+    },
+    {
+      "surface": "אָֽמְרוּ֙",
+      "gloss": "gesagt haben"
+    },
+    {
+      "surface": "הַנְּבִאִ֔ים",
+      "gloss": "die Nawim"
+    },
+    {
+      "surface": "הַֽנִּבְּאִ֥ים",
+      "gloss": "die prophezeien"
+    },
+    {
+      "surface": "בִּשְׁמִ֛י",
+      "gloss": "in meinem Namen"
+    },
+    {
+      "surface": "שֶׁ֖קֶר",
+      "gloss": "Lüge"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "und sagen"
+    },
+    {
+      "surface": "חָלַ֖מְתִּי",
+      "gloss": "Ich habe geträumt"
+    },
+    {
+      "surface": "חָלָֽמְתִּי",
+      "gloss": "ich habe geträumt"
+    }
+  ],
+  "timestamp": "2026-08-06T15:14:52.116676150Z",
+  "model": "glm-5.2"
+}

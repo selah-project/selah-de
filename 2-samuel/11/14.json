@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und es geschah am Morgen, da schrieb Dawid ein Schreiben an Joaw, und ⟨er⟩ sandte ⟨es⟩ durch die Hand Urijas.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "da schrieb"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ein Schreiben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "und ⟨er⟩ sandte ⟨es⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijas"
+    }
+  ],
+  "timestamp": "2026-08-06T01:15:27.819554114Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Dem Chorleiter, für Jedutun. Ein Maskil von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "für Jedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:18.361539117Z",
+  "model": "glm-5.2"
+}

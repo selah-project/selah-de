@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Der Weg eines Toren ⟨ist⟩ recht in seinen Augen, wer aber Rat hört, ⟨ist⟩ weise.",
+  "tokens": [
+    {
+      "surface": "דֶּ֣רֶךְ",
+      "gloss": "Weg"
+    },
+    {
+      "surface": "אֱ֭וִיל",
+      "gloss": "eines Toren"
+    },
+    {
+      "surface": "יָשָׁ֣ר",
+      "gloss": "recht"
+    },
+    {
+      "surface": "בְּעֵינָ֑יו",
+      "gloss": "in seinen Augen"
+    },
+    {
+      "surface": "וְשֹׁמֵ֖עַ",
+      "gloss": "wer aber hört"
+    },
+    {
+      "surface": "לְעֵצָ֣ה",
+      "gloss": "auf Rat"
+    },
+    {
+      "surface": "חָכָֽם",
+      "gloss": "⟨ist⟩ weise"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:56.417860111Z",
+  "model": "glm-5.2"
+}

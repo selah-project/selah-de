@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨ein⟩ Säugling spielt am Loch ⟨der⟩ Otter, und auf ⟨die⟩ Höhle ⟨der⟩ Viper legt ⟨ein⟩ Entwöhnter seine Hand.",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "und spielt"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "⟨ein⟩ Säugling"
+    },
+    {
+      "surface": "על",
+      "gloss": "am"
+    },
+    {
+      "surface": "חר",
+      "gloss": "Loch"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "⟨der⟩ Otter"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf ⟨die⟩"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "Höhle"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "⟨der⟩ Viper"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "legt ⟨ein⟩ Entwöhnter"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "(hin)"
+    }
+  ],
+  "timestamp": "2026-08-06T03:13:26.511939681Z",
+  "model": "glm-5.2"
+}

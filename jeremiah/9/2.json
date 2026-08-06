@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 9:2",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨sie⟩ spannten ⟨את⟩ ihre Zunge, ihren Bogen der Lüge, und nicht zur Treue ⟨wurden sie stark⟩; sie waren stark im Land. Denn von Schlechtigkeit zu Schlechtigkeit gingen sie aus, und ⟨את⟩ mich erkannten sie nicht — Spruch JHWHs.",
+  "tokens": [
+    {
+      "surface": "וידרכו",
+      "gloss": "Und ⟨sie⟩ spannten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Zunge"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ihre Zunge"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "ihren Bogen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "der Lüge"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "zur Treue"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "waren stark"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "von Schlechtigkeit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Schlechtigkeit"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "gingen sie aus"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "und ⟨את⟩ mich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "erkannten sie"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Spruch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T06:07:52.230466495Z",
+  "model": "glm-5.2"
+}

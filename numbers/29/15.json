@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "und ein Zehntel, ein Zehntel für den einen Schafbock, für die vierzehn Schafböcke.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "und ein Zehntel"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ein Zehntel"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "für den Schafbock"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den einen"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "für vier"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zehn"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "Schafböcke"
+    }
+  ],
+  "timestamp": "2026-08-05T20:39:18.495483849Z",
+  "model": "glm-5.2"
+}

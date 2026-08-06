@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und der Kohen nahm vom Log des Öls und goss ⟨es⟩ auf die hohle Hand des Kohen, die linke.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "und der Kohen nahm"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "vom Log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "des Öls"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "und goss"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כף",
+      "gloss": "die hohle Hand"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "des Kohen"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "die linke"
+    }
+  ],
+  "timestamp": "2026-08-05T20:23:39.940001836Z",
+  "model": "glm-5.2"
+}

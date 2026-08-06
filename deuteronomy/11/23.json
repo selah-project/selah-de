@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "dann wird JHWH ⟨את⟩ all diese Völkerschaften vor euch verdrängen, und ihr werdet Völkerschaften in Besitz nehmen, die größer und mächtiger sind als ihr.",
+  "tokens": [
+    {
+      "surface": "וְהוֹרִ֧ישׁ",
+      "gloss": "dann wird … verdrängen"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "all diese Völkerschaften"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הַגּוֹיִ֥ם",
+      "gloss": "Völkerschaften"
+    },
+    {
+      "surface": "הָאֵ֖לֶּה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "מִלִּפְנֵיכֶ֑ם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "וִֽירִשְׁתֶּ֣ם",
+      "gloss": "und ihr werdet … in Besitz nehmen"
+    },
+    {
+      "surface": "גוֹיִ֔ם",
+      "gloss": "Völkerschaften"
+    },
+    {
+      "surface": "גְּדֹלִ֥ים",
+      "gloss": "die größer"
+    },
+    {
+      "surface": "וַעֲצֻמִ֖ים",
+      "gloss": "und mächtiger"
+    },
+    {
+      "surface": "מִכֶּֽם",
+      "gloss": "als ihr"
+    }
+  ],
+  "timestamp": "2026-08-06T08:28:44.817356724Z",
+  "model": "glm-5.2"
+}

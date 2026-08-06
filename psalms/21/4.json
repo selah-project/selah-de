@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Denn du kommst ihm zuvor mit Segnungen des Guten, ⟨du⟩ setzt auf sein Haupt eine Krone aus Feingold.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "du kommst ihm zuvor"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "mit Segnungen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "des Guten"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "⟨du⟩ setzt"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "auf sein Haupt"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "eine Krone"
+    },
+    {
+      "surface": "פז",
+      "gloss": "aus Feingold"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:08.144670988Z",
+  "model": "glm-5.2"
+}

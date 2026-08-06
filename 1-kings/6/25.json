@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und zehn Ellen ⟨betrug⟩ der zweite Kerub — ein Maß und eine Form für die beiden Kerubim.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "und zehn"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "der Kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "der zweite"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ein Maß"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ein(es)"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "und eine Form"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ein(es)"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "für die beiden"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "Kerubim"
+    }
+  ],
+  "timestamp": "2026-08-06T01:24:00.919279694Z",
+  "model": "glm-5.2"
+}

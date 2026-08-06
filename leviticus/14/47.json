@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und der im Haus Übernachtende soll ⟨את⟩ seine Kleider waschen, und der im Haus Essende soll ⟨את⟩ seine Kleider waschen.",
+  "tokens": [
+    {
+      "surface": "והשכב",
+      "gloss": "und der Übernachtende"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "soll waschen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Kleider"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "והאכל",
+      "gloss": "und der Essende"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "soll waschen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Kleider"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    }
+  ],
+  "timestamp": "2026-08-06T02:11:31.262647713Z",
+  "model": "glm-5.2"
+}

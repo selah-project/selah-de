@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Denn ⟨ihr⟩ Goel ⟨ist⟩ stark — er wird ⟨את⟩ ihre Rechtssache mit dir führen.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "גֹאֲלָ֥ם",
+      "gloss": "ihr Goel"
+    },
+    {
+      "surface": "חָזָ֑ק",
+      "gloss": "stark"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "er"
+    },
+    {
+      "surface": "יָרִ֖יב",
+      "gloss": "wird führen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Rechtssache"
+    },
+    {
+      "surface": "רִיבָ֣ם",
+      "gloss": "ihre Rechtssache"
+    },
+    {
+      "surface": "אִתָּֽךְ",
+      "gloss": "mit dir"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:03.521829453Z",
+  "model": "glm-5.2"
+}

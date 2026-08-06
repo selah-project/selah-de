@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Wie einem Freund, wie einem Bruder mir – so ging ich umher; wie einer, die ⟨seine⟩ Mutter beweint, so hüllte ich mich ein, ich beugte mich in Trauer.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Wie einem Freund"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "wie einem Bruder"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "so ging ich umher"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "wie einem, der beweint"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨seine⟩ Mutter"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "hüllte ich mich ein"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "ich beugte mich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:04.867901859Z",
+  "model": "glm-5.2"
+}

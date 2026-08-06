@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "JHWH ⟨ist⟩ ein Hüter der Einfältigen; ich war gebeugt, und ⟨er⟩ rettete mich.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Hüter"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "der Einfältigen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ich war gebeugt"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "und mir"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "rettete er"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:39.221489901Z",
+  "model": "glm-5.2"
+}

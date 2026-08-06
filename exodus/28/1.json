@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und du, nahe ⟨zu⟩ dir ⟨את⟩ Aharon, deinen Bruder, und ⟨את⟩ seine Söhne mit ihm, aus der Mitte der Söhne Jisraels, um mir als Kohen zu dienen — Aharon, Nadaw und Awihu, Elasar und Itamar, Söhne Aharons.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Und du"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nahe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨zu⟩ dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "deinen Bruder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "aus der Mitte"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "um als Kohen zu dienen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadaw"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "und Awihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "und Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:42.835486160Z",
+  "model": "glm-5.2"
+}

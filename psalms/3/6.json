@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ich legte mich nieder und schlief, ich wachte auf — denn JHWH stützt mich.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "legte mich nieder"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "und schlief"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ich wachte auf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "stützt mich"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:05.318868234Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und Jaakow fragte und sagte: „Teile mir doch deinen Namen mit.\" Und ⟨er⟩ sagte: „Warum fragst du hier nach meinem Namen?\" Und er segnete ⟨את⟩ ihn dort.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Und fragte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Teile mit"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "fragst du"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "nach meinem Namen"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "Und er segnete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-06T22:31:22.054983607Z",
+  "model": "glm-5.2"
+}

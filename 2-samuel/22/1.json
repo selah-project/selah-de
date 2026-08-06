@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und Dawid redete zu JHWH ⟨את⟩ die Worte dieses Liedes, an dem Tag, an dem JHWH ihn gerettet hatte aus der Hand all seiner Feinde und aus der Hand Schauls.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und er redete"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "zu JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "des Liedes"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "als er gerettet hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "seiner Feinde"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "und aus der Hand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    }
+  ],
+  "timestamp": "2026-08-06T01:19:41.886757724Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Sagt zu euren Brüdern: „Ami“, und zu euren Schwestern: „Ruchama.“",
+  "tokens": [
+    {
+      "surface": "אִמְרוּ",
+      "gloss": "Sagt"
+    },
+    {
+      "surface": "לַאֲחֵיכֶם",
+      "gloss": "zu euren Brüdern"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "וְלַאֲחוֹתֵיכֶם",
+      "gloss": "und zu euren Schwestern"
+    },
+    {
+      "surface": "רֻחָמָה",
+      "gloss": "Ruchama"
+    }
+  ],
+  "timestamp": "2026-08-06T10:24:37.976762462Z",
+  "model": "glm-5.2"
+}

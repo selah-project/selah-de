@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ich habe gesehen ⟨את⟩ das Geschäft, das Elohim den Menschenkindern gegeben hat, sich darin abzumühen.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ich habe gesehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Geschäft"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "das Geschäft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegeben hat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "den Menschenkindern"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "sich abzumühen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "darin"
+    }
+  ],
+  "timestamp": "2026-08-06T09:27:44.405771387Z",
+  "model": "glm-5.2"
+}

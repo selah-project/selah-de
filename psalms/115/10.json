@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "Haus Aharons, vertraut auf JHWH! ⟨Er ist⟩ ihre Hilfe und ihr Schild, er.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "vertraut"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "auf JHWH"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ihre Hilfe"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "und ihr Schild"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:41.391440280Z",
+  "model": "glm-5.2"
+}

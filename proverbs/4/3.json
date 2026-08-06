@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Denn ein Sohn war ich ⟨für⟩ meinen Vater, zart und einzig ⟨vor⟩ meiner Mutter.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ein Sohn"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "war ich"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "⟨für⟩ meinen Vater"
+    },
+    {
+      "surface": "רך",
+      "gloss": "zart"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "und einzig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨vor⟩"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "meiner Mutter"
+    }
+  ],
+  "timestamp": "2026-08-05T23:08:35.901454950Z",
+  "model": "glm-5.2"
+}

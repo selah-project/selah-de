@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 10:3",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und die Kerubim standen zur rechten ⟨Seite⟩ des Hauses, als der Mann hineinging, und die Wolke erfüllte ⟨את⟩ den inneren Vorhof.",
+  "tokens": [
+    {
+      "surface": "והכרבים",
+      "gloss": "Und die Kerubim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "standen"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "zur rechten ⟨Seite⟩"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "als hineinging"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "und die Wolke"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "erfüllte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den inneren Vorhof"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "den Vorhof"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "inneren"
+    }
+  ],
+  "timestamp": "2026-08-06T03:43:31.410747061Z",
+  "model": "glm-5.2"
+}

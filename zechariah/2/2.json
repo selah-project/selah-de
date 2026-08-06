@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ich sagte zu dem Mal'ach, der in mir redete: „Was sind ⟨das⟩?\" Und er sagte zu mir: „Das sind die Hörner, die Jehuda, ⟨את⟩ Jisra'el und ⟨את⟩ Jeruschalajim zerstreut haben.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "und ich sagte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "dem Mal'ach"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "der redete"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in mir"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "die Hörner"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "zerstreut haben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "und Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:40:50.868416345Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Für den Chormeister. Von dem Knecht JHWHs, von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für den Chormeister"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "von dem Knecht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:39.274407745Z",
+  "model": "glm-5.2"
+}

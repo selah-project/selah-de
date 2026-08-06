@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 8:7",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Denn JHWH, dein Elohim, bringt dich in ein gutes Land, ein Land von Bachläufen, Wasserquellen und tiefen Quellen, die hervorkommen in der Ebene und im Gebirge.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "מְבִיאֲךָ",
+      "gloss": "bringt dich"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "ein Land"
+    },
+    {
+      "surface": "טוֹבָה",
+      "gloss": "gutes"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "ein Land"
+    },
+    {
+      "surface": "נַחֲלֵי",
+      "gloss": "von Bachläufen"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "עֲיָנֹת",
+      "gloss": "Quellen"
+    },
+    {
+      "surface": "וּתְהֹמֹת",
+      "gloss": "und tiefen Quellen"
+    },
+    {
+      "surface": "יֹצְאִים",
+      "gloss": "die hervorkommen"
+    },
+    {
+      "surface": "בַּבִּקְעָה",
+      "gloss": "in der Ebene"
+    },
+    {
+      "surface": "וּבָהָר",
+      "gloss": "und im Gebirge"
+    }
+  ],
+  "timestamp": "2026-08-06T02:24:02.771284860Z",
+  "model": "glm-5.2"
+}

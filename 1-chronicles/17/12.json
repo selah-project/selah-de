@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Er wird mir ein Haus bauen, und ich werde ⟨את⟩ seinen Thron gründen bis auf ⟨die⟩ Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Er"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wird bauen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ein Haus"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "und ich werde … gründen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Thron"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "seinen Thron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis auf"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨die⟩ Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:51:04.793023175Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Denn der Renscha rühmt sich des Begehrens seiner Nefesch, und der Habsüchtige segnet ⟨sich selbst⟩, er verachtet JHWH.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הִלֵּ֣ל",
+      "gloss": "rühmt sich"
+    },
+    {
+      "surface": "רָ֭שָׁע",
+      "gloss": "der Renscha"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תַּאֲוַ֣ת",
+      "gloss": "des Begehrens"
+    },
+    {
+      "surface": "נַפְשׁ֑וֹ",
+      "gloss": "seiner Nefesch"
+    },
+    {
+      "surface": "וּבֹצֵ֥עַ",
+      "gloss": "und der Habsüchtige"
+    },
+    {
+      "surface": "בֵּ֝רֵ֗ךְ",
+      "gloss": "segnet"
+    },
+    {
+      "surface": "נִ֘אֵ֥ץ",
+      "gloss": "er verachtet"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:05.448959735Z",
+  "model": "glm-5.2"
+}

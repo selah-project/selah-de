@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Streite nicht grundlos mit einem Menschen, wenn er dir nichts Böses angetan hat.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "streite"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "einem Menschen"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "grundlos"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "er dir angetan hat"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Böses"
+    }
+  ],
+  "timestamp": "2026-08-06T04:25:41.391215796Z",
+  "model": "glm-5.2"
+}

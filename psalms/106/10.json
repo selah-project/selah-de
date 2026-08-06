@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und ⟨er⟩ rettete sie aus der Hand des Hassers und löste sie aus der Hand des Bedrängers.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Und ⟨er⟩ rettete sie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "des Hassers"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "und löste ⟨sie⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "des Bedrängers"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:50.842548906Z",
+  "model": "glm-5.2"
+}

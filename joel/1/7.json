@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 1:7",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Es hat meine Rebe zur Verwüstung gemacht und meinen Feigenbaum zu ⟨einem⟩ Geschälten; ⟨es⟩ hat ⟨sie⟩ völlig entblößt und weggeworfen, ihre Ranken ⟨sind⟩ weiß gemacht.",
+  "tokens": [
+    {
+      "surface": "שָׂ֤ם",
+      "gloss": "Es hat gemacht"
+    },
+    {
+      "surface": "גַּפְנִי֙",
+      "gloss": "meine Rebe"
+    },
+    {
+      "surface": "לְשַׁמָּ֔ה",
+      "gloss": "zur Verwüstung"
+    },
+    {
+      "surface": "וּתְאֵנָתִ֖י",
+      "gloss": "und meinen Feigenbaum"
+    },
+    {
+      "surface": "לִקְצָפָ֑ה",
+      "gloss": "zu ⟨einem⟩ Geschälten"
+    },
+    {
+      "surface": "חָשֹׂ֤ף",
+      "gloss": "⟨es⟩ hat entblößt"
+    },
+    {
+      "surface": "חֲשָׂפָהּ֙",
+      "gloss": "⟨sie⟩"
+    },
+    {
+      "surface": "וְהִשְׁלִ֔יךְ",
+      "gloss": "und weggeworfen"
+    },
+    {
+      "surface": "הִלְבִּ֖ינוּ",
+      "gloss": "sind weiß gemacht"
+    },
+    {
+      "surface": "שָׂרִיגֶֽיהָ",
+      "gloss": "ihre Ranken"
+    }
+  ],
+  "timestamp": "2026-08-05T22:33:17.531705536Z",
+  "model": "glm-5.2"
+}

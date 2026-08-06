@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und ⟨er⟩ sprach: „Du kannst ⟨את⟩ mein Angesicht nicht sehen, denn kein Mensch kann mich sehen und leben.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "du kannst"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "sehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Angesicht"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mein Angesicht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "kann sehen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "und leben"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:46.001692730Z",
+  "model": "glm-5.2"
+}

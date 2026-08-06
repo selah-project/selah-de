@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und du sollst heranbringen ⟨את⟩ Aharon und ⟨את⟩ seine Söhne zum Eingang des Zeltes der Begegnung, und du sollst sie waschen mit Wasser.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "und du sollst heranbringen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Eingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Zeltes"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "und du sollst waschen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "Aharon und seine Söhne"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mit Wasser"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:50.644075971Z",
+  "model": "glm-5.2"
+}

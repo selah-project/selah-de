@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Dem Chorleiter. Von Dawid. Bei JHWH habe ich mich geborgen. Wie sagt ihr zu meiner Nefesch: Flieht auf euren Berg, ⟨wie⟩ ein Vogel!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bei JHWH"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "habe ich mich geborgen"
+    },
+    {
+      "surface": "איך",
+      "gloss": "wie"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sagt ihr"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "zu meiner Nefesch"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "flieht"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "auf euren Berg"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Vogel"
+    }
+  ],
+  "timestamp": "2026-08-06T10:29:54.873485383Z",
+  "model": "glm-5.2"
+}

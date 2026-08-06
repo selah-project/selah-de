@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und es geschah, als Schmuël gealtert war, da setzte er ⟨את⟩ seine Söhne zu Richtern für Jisra'el ein.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "als"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "gealtert war"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "da setzte er ein"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "zu Richtern"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "für Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-05T21:08:59.233701322Z",
+  "model": "glm-5.2"
+}

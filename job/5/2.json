@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Denn den Törichten tötet der Groll, und ⟨der⟩ Einfältige bringt der Neid um.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "den Törichten"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "tötet"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "der Groll"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "und ⟨der⟩ Einfältige"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "bringt um"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "der Neid"
+    }
+  ],
+  "timestamp": "2026-08-06T09:23:00.582491888Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Ehud streckte seine linke Hand aus und nahm ⟨את⟩ das Schwert von seiner rechten Hüfte und stieß es in seinen Bauch.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַ֤ח",
+      "gloss": "Und streckte aus"
+    },
+    {
+      "surface": "אֵהוּד֙",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine linke Hand"
+    },
+    {
+      "surface": "יַ֣ד",
+      "gloss": "Hand"
+    },
+    {
+      "surface": "שְׂמֹאל֔וֹ",
+      "gloss": "seine linke"
+    },
+    {
+      "surface": "וַיִּקַּח֙",
+      "gloss": "und nahm"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Schwert"
+    },
+    {
+      "surface": "הַחֶ֔רֶב",
+      "gloss": "das Schwert"
+    },
+    {
+      "surface": "מֵעַ֖ל",
+      "gloss": "von"
+    },
+    {
+      "surface": "יֶ֣רֶךְ",
+      "gloss": "Hüfte"
+    },
+    {
+      "surface": "יְמִינ֑וֹ",
+      "gloss": "seiner rechten"
+    },
+    {
+      "surface": "וַיִּתְקָעֶ֖הָ",
+      "gloss": "und stieß es"
+    },
+    {
+      "surface": "בְּבִטְנֽוֹ",
+      "gloss": "in seinen Bauch"
+    }
+  ],
+  "timestamp": "2026-08-06T21:09:55.078283635Z",
+  "model": "glm-5.2"
+}

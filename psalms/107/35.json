@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Er setzt ⟨die⟩ Wüste ⟨zum⟩ Wasserteich und dürres Land zu Wasserquellen.",
+  "tokens": [
+    {
+      "surface": "יָשֵׂ֣ם",
+      "gloss": "Er setzt"
+    },
+    {
+      "surface": "מִ֭דְבָּר",
+      "gloss": "⟨die⟩ Wüste"
+    },
+    {
+      "surface": "לַֽאֲגַם",
+      "gloss": "⟨zum⟩ Teich"
+    },
+    {
+      "surface": "מַ֑יִם",
+      "gloss": "von Wasser"
+    },
+    {
+      "surface": "וְאֶ֥רֶץ",
+      "gloss": "und ⟨ein⟩ Land"
+    },
+    {
+      "surface": "צִ֝יָּ֗ה",
+      "gloss": "dürres"
+    },
+    {
+      "surface": "לְמֹצָ֥אֵי",
+      "gloss": "zu Quellen"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "von Wasser"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:22.619389804Z",
+  "model": "glm-5.2"
+}

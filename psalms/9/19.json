@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Denn nicht für immer wird vergessen der Bedürftige — die Hoffnung der Gedemütigten geht nicht zugrunde auf Dauer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "wird vergessen"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "der Bedürftige"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "die Hoffnung"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "der Gedemütigten"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "geht zugrunde"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "auf Dauer"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:34.047828656Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und nicht mehr soll ⟨man⟩ deinen Namen Awram rufen, und dein Name soll Awraham sein, denn ⟨als⟩ Vater einer Menge von Nationen habe ich dich eingesetzt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "soll rufen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Namen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und ⟨er⟩ soll sein"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dein Name"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אב",
+      "gloss": "Vater"
+    },
+    {
+      "surface": "המון",
+      "gloss": "einer Menge"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "von Nationen"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "habe ich dich eingesetzt"
+    }
+  ],
+  "timestamp": "2026-08-06T00:04:56.482709837Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Mosche zählte, wie JHWH ihm geboten hatte, ⟨את⟩ alles Erstgeborene unter den Söhnen Jisraels.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Und ⟨er⟩ zählte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles Erstgeborene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "Erstgeborene"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "unter den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-05T20:30:05.369246370Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 129,
+  "translation": "Und die Vorübergehenden sagten nicht: Der Segen JHWHs ⟨sei⟩ über euch! Wir segnen euch im Namen JHWHs!",
+  "tokens": [
+    {
+      "surface": "וְלֹ֤א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אָֽמְר֨וּ",
+      "gloss": "sagten"
+    },
+    {
+      "surface": "הָעֹבְרִ֗ים",
+      "gloss": "die Vorübergehenden"
+    },
+    {
+      "surface": "בִּרְכַּֽת",
+      "gloss": "Segen"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אֲלֵיכֶ֑ם",
+      "gloss": "über euch"
+    },
+    {
+      "surface": "בֵּרַ֥כְנוּ",
+      "gloss": "wir segnen"
+    },
+    {
+      "surface": "אֶ֝תְכֶ֗ם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "בְּשֵׁ֣ם",
+      "gloss": "im Namen"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:07.188871421Z",
+  "model": "glm-5.2"
+}

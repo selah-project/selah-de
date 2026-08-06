@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ⟨die Männer, die⟩ am Eingang des Hauses ⟨waren⟩, schlugen sie mit Sanserim, vom Kleinen bis zum Großen, und sie ermüdeten ⟨sich⟩, den Eingang zu finden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Männer"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am Eingang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "schlugen sie"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "mit Sanserim"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "vom Kleinen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "Großen"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "und sie ermüdeten"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "zu finden"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "den Eingang"
+    }
+  ],
+  "timestamp": "2026-08-06T09:40:59.977089744Z",
+  "model": "glm-5.2"
+}

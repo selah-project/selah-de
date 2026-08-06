@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Denn er wird den Bedürftigen entreißen, der um Hilfe ruft, und den Armen und den, der keinen Helfer hat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "wird entreißen"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den Bedürftigen"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "der um Hilfe ruft"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "und den Armen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es⟩ keinen"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "Helfer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hat"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:29.183555417Z",
+  "model": "glm-5.2"
+}

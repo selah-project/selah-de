@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 150,
+  "translation": "Lobt ihn mit klingenden Zimbeln, lobt ihn mit Zimbeln des Jubelschalls!",
+  "tokens": [
+    {
+      "surface": "הַֽלְל֥וּהוּ",
+      "gloss": "Lobt ihn"
+    },
+    {
+      "surface": "בְצִלְצְלֵי",
+      "gloss": "mit klingenden Zimbeln"
+    },
+    {
+      "surface": "שָׁ֑מַע",
+      "gloss": "des Klangs"
+    },
+    {
+      "surface": "הַֽלְל֗וּהוּ",
+      "gloss": "lobt ihn"
+    },
+    {
+      "surface": "בְּֽצִלְצְלֵ֥י",
+      "gloss": "mit Zimbeln"
+    },
+    {
+      "surface": "תְרוּעָֽה",
+      "gloss": "des Jubelschalls"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:50.969775099Z",
+  "model": "glm-5.2"
+}

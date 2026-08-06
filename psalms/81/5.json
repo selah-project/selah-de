@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 81,
+  "translation": "Denn ⟨es ist⟩ eine Ordnung für Jisra'el, eine Rechtsbestimmung des Elohim Jaakows.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "חק",
+      "gloss": "eine Ordnung"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "für Jisra'el"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨es ist⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "eine Rechtsbestimmung"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakows"
+    }
+  ],
+  "timestamp": "2026-08-05T22:56:09.107790556Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH Elohim sprach: „Es ⟨ist⟩ nicht gut, dass der Mensch allein ⟨ist⟩. Ich will ihm eine Hilfe machen, die ihm entspricht.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "היות",
+      "gloss": "dass … ist"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "allein"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "will ich machen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "eine Hilfe"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "die ihm entspricht"
+    }
+  ],
+  "timestamp": "2026-08-06T08:12:19.845140661Z",
+  "model": "glm-5.2"
+}

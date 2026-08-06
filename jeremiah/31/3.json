@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 31:3",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Aus der Ferne erschien JHWH mir: „Und mit Liebe der Ewigkeit habe ich dich geliebt, darum habe ich dich gezogen mit Chessed.“",
+  "tokens": [
+    {
+      "surface": "מֵרָח֕וֹק",
+      "gloss": "Aus der Ferne"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "נִרְאָ֣ה",
+      "gloss": "erschien"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "וְאַהֲבַ֤ת",
+      "gloss": "Und mit Liebe"
+    },
+    {
+      "surface": "עוֹלָם֙",
+      "gloss": "der Ewigkeit"
+    },
+    {
+      "surface": "אֲהַבְתִּ֔יךְ",
+      "gloss": "habe ich dich geliebt"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "darum"
+    },
+    {
+      "surface": "כֵּ֖ן",
+      "gloss": "[deshalb]"
+    },
+    {
+      "surface": "מְשַׁכְתִּ֥יךְ",
+      "gloss": "habe ich dich gezogen"
+    },
+    {
+      "surface": "חָֽסֶד",
+      "gloss": "mit Chessed"
+    }
+  ],
+  "timestamp": "2026-08-06T06:12:01.354183366Z",
+  "model": "glm-5.2"
+}

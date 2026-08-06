@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Behüte meine Gebote und lebe, und meine Tora ⟨wie⟩ die Pupille deiner Augen!",
+  "tokens": [
+    {
+      "surface": "שְׁמֹר",
+      "gloss": "Behüte"
+    },
+    {
+      "surface": "מִצְוֺתַ֣י",
+      "gloss": "meine Gebote"
+    },
+    {
+      "surface": "וֶחְיֵ֑ה",
+      "gloss": "und lebe"
+    },
+    {
+      "surface": "וְ֝תוֹרָתִ֗י",
+      "gloss": "und meine Tora"
+    },
+    {
+      "surface": "כְּאִישׁ֥וֹן",
+      "gloss": "⟨wie⟩ die Pupille"
+    },
+    {
+      "surface": "עֵינֶֽיךָ",
+      "gloss": "deiner Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:34:03.460643540Z",
+  "model": "glm-5.2"
+}

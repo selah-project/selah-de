@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Den ganzen Tag haben meine Feinde mich geschmäht; ⟨und⟩ die mich rasend machen, ⟨bei mir⟩ haben sie geschworen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "haben mich geschmäht"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "meine Feinde"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "die mich rasend machen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨bei mir⟩"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "haben sie geschworen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:37.278742530Z",
+  "model": "glm-5.2"
+}

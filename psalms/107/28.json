@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Da schrien sie zu JHWH in ⟨ihrer⟩ Bedrängnis, und aus ihren Nöten führt er sie heraus.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Da schrien sie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in Bedrängnis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨ihrer⟩"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "und aus ihren Nöten"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "führt er sie heraus"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:07.374196272Z",
+  "model": "glm-5.2"
+}

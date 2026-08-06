@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Jehoschafat sagte: „Das Wort JHWHs ist bei ihm.\" Da stiegen zu ihm hinab der König von Jisra'el und Jehoschafat und der König von Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoschafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Es ist"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "bei ihm"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ein Wort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "Da stiegen hinab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "und Jehoschafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "und der König"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "von Edom"
+    }
+  ],
+  "timestamp": "2026-08-06T15:09:05.104686163Z",
+  "model": "glm-5.2"
+}

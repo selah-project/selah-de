@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "⟨את⟩ diese von ihnen dürft ihr essen: ⟨את⟩ den Arbe nach seiner Art und ⟨את⟩ den Sal'am nach seiner Art und ⟨את⟩ den Chargol nach seiner Art und ⟨את⟩ den Chagaw nach seiner Art.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "von ihnen"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dürft ihr essen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Arbe"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "den Arbe"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "nach seiner Art"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Sal'am"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "den Sal'am"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nach seiner Art"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Chargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "den Chargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nach seiner Art"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Chagaw"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "den Chagaw"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nach seiner Art"
+    }
+  ],
+  "timestamp": "2026-08-06T05:19:34.006721574Z",
+  "model": "glm-5.2"
+}

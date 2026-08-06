@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "bevor sich verfinstern die Sonne und das Licht und der Mond und die Sterne, und die Wolken zurückkehren nach dem Regen —",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "bevor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨dass⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "sich verfinstern"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die Sonne"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "und das Licht"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "und der Mond"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "und die Sterne"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "und zurückkehren"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "die Wolken"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nach"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "dem Regen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:10.524119938Z",
+  "model": "glm-5.2"
+}

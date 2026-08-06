@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 2:1",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ⟨es⟩ stieg ein Mal'ach JHWHs von Gilgal nach Bochim hinauf, und ⟨er⟩ sprach: „Ich habe euch aus Mizrajim hinaufgeführt und euch ⟨zu⟩ ⟨der⟩ Erde gebracht, die ich euren Vätern geschworen habe, und sagte: ‚Ich werde meinen Brit mit euch ⟨nicht⟩ brechen für ewig.‘",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "und ⟨er⟩ stieg hinauf"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ein Mal'ach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "הבכים",
+      "gloss": "Bochim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ich habe hinaufgeführt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch (als Objekt von hinaufführen)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "aus Mizrajim"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "und ich habe gebracht"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch (als Objekt von bringen)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zu⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨der⟩ Erde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ich geschworen habe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "euren Vätern"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "werde ich brechen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "meinen Brit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "mit euch"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    }
+  ],
+  "timestamp": "2026-08-06T05:33:40.462384569Z",
+  "model": "glm-5.2"
+}

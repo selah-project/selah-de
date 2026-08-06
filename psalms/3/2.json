@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "JHWH, wie ⟨sind sie⟩ zahlreich geworden, meine Bedränger! Viele stehen gegen mich auf.",
+  "tokens": [
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מָה",
+      "gloss": "wie"
+    },
+    {
+      "surface": "רָבּוּ",
+      "gloss": "zahlreich geworden ⟨sind sie⟩"
+    },
+    {
+      "surface": "צָרַי",
+      "gloss": "meine Bedränger"
+    },
+    {
+      "surface": "רַבִּים",
+      "gloss": "Viele"
+    },
+    {
+      "surface": "קָמִים",
+      "gloss": "stehen auf"
+    },
+    {
+      "surface": "עָלָי",
+      "gloss": "gegen mich"
+    }
+  ],
+  "timestamp": "2026-08-06T09:12:56.321439497Z",
+  "model": "glm-5.2"
+}

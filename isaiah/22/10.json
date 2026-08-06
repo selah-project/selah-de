@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und ⟨את⟩ die Häuser Jeruschalajims zähltet ihr, und ihr risset die Häuser ein, um die Mauer zu befestigen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Häuser"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "die Häuser"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajims"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "zähltet ihr"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "und ihr risset ein"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "die Häuser"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "um zu befestigen"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "die Mauer"
+    }
+  ],
+  "timestamp": "2026-08-06T01:43:17.694800408Z",
+  "model": "glm-5.2"
+}

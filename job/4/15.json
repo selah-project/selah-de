@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ein Ruach strich über mein Gesicht hin, ⟨so dass⟩ das Haar meines Fleisches sich sträubte.",
+  "tokens": [
+    {
+      "surface": "וְ֭רוּחַ",
+      "gloss": "Und ein Ruach"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "פָּנַ֣י",
+      "gloss": "mein Gesicht"
+    },
+    {
+      "surface": "יַחֲלֹ֑ף",
+      "gloss": "strich hin"
+    },
+    {
+      "surface": "תְּ֝סַמֵּ֗ר",
+      "gloss": "sträubte sich"
+    },
+    {
+      "surface": "שַֽׂעֲרַ֥ת",
+      "gloss": "das Haar"
+    },
+    {
+      "surface": "בְּשָׂרִֽי",
+      "gloss": "meines Fleisches"
+    }
+  ],
+  "timestamp": "2026-08-05T23:16:46.565725163Z",
+  "model": "glm-5.2"
+}

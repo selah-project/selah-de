@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "An der Vorderseite ⟨maß⟩ die Länge hundert Ellen, ⟨am⟩ Eingang ⟨des⟩ Nordens, und die Breite fünfzig Ellen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "פני",
+      "gloss": "der Vorderseite"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "die Länge"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Eingang"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "des Nordens"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "und die Breite"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fünfzig"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "Ellen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:28:51.362691804Z",
+  "model": "glm-5.2"
+}

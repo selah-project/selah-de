@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und so sprach Schimi, indem er fluchte: „Hinaus, hinaus, Mann der Bluttaten und Mann des Belijal!“",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "Und so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Schimi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "indem er fluchte"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Hinaus"
+    },
+    {
+      "surface": "צא",
+      "gloss": "hinaus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "der Bluttaten"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "und Mann"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "des Belijal"
+    }
+  ],
+  "timestamp": "2026-08-05T21:21:08.248409739Z",
+  "model": "glm-5.2"
+}

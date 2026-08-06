@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Noach erwachte von seinem Wein und erfuhr ⟨את⟩, was sein jüngster Sohn ihm getan hatte.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "und erwachte"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "von seinem Wein"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "und erfuhr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "getan hatte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sein Sohn"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "der jüngste"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:34.325558349Z",
+  "model": "glm-5.2"
+}

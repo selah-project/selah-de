@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Hatach kam und berichtete Ester ⟨את⟩ die Worte Mordechais.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Und … kam"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "und berichtete"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechais"
+    }
+  ],
+  "timestamp": "2026-08-05T23:33:03.603521553Z",
+  "model": "glm-5.2"
+}

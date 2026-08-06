@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Joktan zeugte ⟨את⟩ Almodad und ⟨את⟩ Schelef und ⟨את⟩ Hazarmawet und ⟨את⟩ Jerach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Und Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Schelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Schelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Hazarmawet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hazarmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Jerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jerach"
+    }
+  ],
+  "timestamp": "2026-08-06T04:52:59.678847014Z",
+  "model": "glm-5.2"
+}

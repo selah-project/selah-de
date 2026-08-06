@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Es hat geschworen JHWH beim Stolz Jaakows: Wenn ich jemals vergesse all ihre Taten!",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Es hat geschworen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "beim Stolz"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakows"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ich vergesse"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "jemals"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ihre Taten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:01:54.224979620Z",
+  "model": "glm-5.2"
+}

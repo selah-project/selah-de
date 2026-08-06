@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und dies ⟨sind⟩ die Beamten, die ⟨bei⟩ ihm ⟨waren⟩: Asarjahu, Sohn des Zadok, der Kohen.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "die Beamten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨bei⟩ ihm ⟨waren⟩"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Asarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "des Zadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:44:08.734515796Z",
+  "model": "glm-5.2"
+}

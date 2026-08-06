@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Ein Mann ⟨von⟩ Zurechtweisungen, ⟨der⟩ den Nacken verhärtet — plötzlich wird er zerbrochen, und ⟨es gibt⟩ keine Heilung.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ein Mann"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "⟨von⟩ Zurechtweisungen"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "verhärtet"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "den Nacken"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "plötzlich"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "wird er zerbrochen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es gibt⟩ keine"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "Heilung"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:27.916969073Z",
+  "model": "glm-5.2"
+}

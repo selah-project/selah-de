@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Der Ringe sollen ⟨sein⟩ gegenüber der Einfassung als Halterungen für die Stangen, um ⟨את⟩ den Tisch zu tragen.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "der Einfassung"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "sollen ⟨sein⟩"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "der Ringe"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "als Halterungen"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "für die Stangen"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "um zu tragen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Tisch"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "den Tisch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:12.308420277Z",
+  "model": "glm-5.2"
+}

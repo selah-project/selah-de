@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ⟨wer⟩ es isst, ⟨der⟩ wird seine Schuld tragen, denn ⟨er hat⟩ ⟨את⟩ das Heilige JHWHs entweiht; und ⟨es⟩ wird ausgerottet ⟨werden⟩ diese Nefesch aus ihren Völkern.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Und ⟨wer⟩ es isst, ⟨der⟩"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "seine Schuld"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "wird tragen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Heilige"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "das Heilige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "entweiht"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "und ⟨es⟩ wird ausgerottet ⟨werden⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "diese Nefesch"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(die da ist)"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "aus ihren Völkern"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:45.574372585Z",
+  "model": "glm-5.2"
+}

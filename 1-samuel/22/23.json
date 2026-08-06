@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Bleib bei mir, fürchte dich nicht, denn wer ⟨את⟩ meine Nefesch sucht, der wird ⟨את⟩ deine Nefesch suchen, denn ⟨als⟩ Wache bist du bei mir.",
+  "tokens": [
+    {
+      "surface": "שְׁבָ֤ה",
+      "gloss": "Bleib"
+    },
+    {
+      "surface": "אִתִּי֙",
+      "gloss": "bei mir"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּירָ֔א",
+      "gloss": "fürchte dich"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יְבַקֵּ֥שׁ",
+      "gloss": "sucht"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meine Nefesch"
+    },
+    {
+      "surface": "נַפְשִׁ֖י",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "יְבַקֵּ֣שׁ",
+      "gloss": "wird suchen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "deine Nefesch"
+    },
+    {
+      "surface": "נַפְשֶׁ֑ךָ",
+      "gloss": "deine Nefesch"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מִשְׁמֶ֥רֶת",
+      "gloss": "⟨als⟩ Wache"
+    },
+    {
+      "surface": "אַתָּ֖ה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "עִמָּדִֽי",
+      "gloss": "bei mir"
+    }
+  ],
+  "timestamp": "2026-08-06T05:42:01.362633191Z",
+  "model": "glm-5.2"
+}

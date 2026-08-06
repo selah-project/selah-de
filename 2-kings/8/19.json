@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und JHWH wollte nicht vernichten ⟨את⟩ Jehuda, um Dawids, seines Knechtes, willen, so wie er ihm gesagt hatte, ihm zu geben eine Leuchte seinen Söhnen alle Tage.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Und nicht"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "wollte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "vernichten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "seines Knechtes"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "er gesagt hatte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "zu geben"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "eine Leuchte"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "seinen Söhnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-05T21:35:41.479246869Z",
+  "model": "glm-5.2"
+}

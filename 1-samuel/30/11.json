@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und sie fanden einen Mann, einen Mizri, auf dem Feld, und sie brachten ihn zu Dawid und gaben ihm Brot, und er aß, und sie ließen ihn Wasser trinken.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּמְצְא֤וּ",
+      "gloss": "Und sie fanden"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "einen Mann"
+    },
+    {
+      "surface": "מִצְרִי֙",
+      "gloss": "einen Mizri"
+    },
+    {
+      "surface": "בַּשָּׂדֶ֔ה",
+      "gloss": "auf dem Feld"
+    },
+    {
+      "surface": "וַיִּקְח֥וּ",
+      "gloss": "und sie brachten"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "דָּוִ֑ד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וַיִּתְּנוּ",
+      "gloss": "und ⟨sie⟩ gaben"
+    },
+    {
+      "surface": "ל֥וֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לֶ֨חֶם֙",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "וַיֹּ֔אכַל",
+      "gloss": "und er aß"
+    },
+    {
+      "surface": "וַיַּשְׁקֻ֖הוּ",
+      "gloss": "und sie ließen ihn trinken"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T02:48:48.691615161Z",
+  "model": "glm-5.2"
+}

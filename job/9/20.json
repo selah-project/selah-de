@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Wenn ich im Recht bin, wird ⟨mein⟩ Mund mich für schuldig erklären; ⟨bin ich⟩ unversehrt, so wird ⟨er⟩ mich für verdreht erklären.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "ich im Recht bin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mein Mund"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "wird mich für schuldig erklären"
+    },
+    {
+      "surface": "תם",
+      "gloss": "unversehrt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "bin ich"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "so wird ⟨er⟩ mich für verdreht erklären"
+    }
+  ],
+  "timestamp": "2026-08-06T09:24:08.386587213Z",
+  "model": "glm-5.2"
+}

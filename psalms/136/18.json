@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "Und ⟨er⟩ erschlug mächtige Könige, denn für ewig ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "Und ⟨er⟩ erschlug"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "mächtige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:06.700661875Z",
+  "model": "glm-5.2"
+}

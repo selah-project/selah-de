@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und sein Heer und ⟨die⟩ Gemusterten von ihnen: dreiundfünfzigtausend und vierhundert.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "und sein Heer"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "und ⟨die⟩ Gemusterten von ihnen"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drei"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "und fünfzig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "und vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    }
+  ],
+  "timestamp": "2026-08-06T08:23:08.201680826Z",
+  "model": "glm-5.2"
+}

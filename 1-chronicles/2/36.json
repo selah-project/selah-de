@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Attai zeugte ⟨את⟩ Natan, und Natan zeugte ⟨את⟩ Sabad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Und Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "und Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Sabad"
+    }
+  ],
+  "timestamp": "2026-08-06T04:53:01.976383023Z",
+  "model": "glm-5.2"
+}

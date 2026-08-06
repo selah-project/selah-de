@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 13:14",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und Elischá erkrankte an ⟨את⟩ seiner Krankheit, durch die er sterben würde, und Joasch, der König von Jisraël, stieg zu ihm hinab und weinte über sein Gesicht und sagte: „Mein Vater, mein Vater! Der Wagen Jisraëls und seine Reiter!“",
+  "tokens": [
+    {
+      "surface": "וֶֽאֱלִישָׁע֙",
+      "gloss": "Und Elischá"
+    },
+    {
+      "surface": "חָלָ֣ה",
+      "gloss": "erkrankte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seiner Krankheit"
+    },
+    {
+      "surface": "חָלְי֔וֹ",
+      "gloss": "an seiner Krankheit"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "durch die"
+    },
+    {
+      "surface": "יָמ֖וּת",
+      "gloss": "er sterben würde"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "durch sie"
+    },
+    {
+      "surface": "וַיֵּ֨רֶד",
+      "gloss": "und stieg hinab"
+    },
+    {
+      "surface": "אֵלָ֜יו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "יוֹאָ֣שׁ",
+      "gloss": "Joasch"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֗ל",
+      "gloss": "von Jisraël"
+    },
+    {
+      "surface": "וַיֵּ֤בְךְּ",
+      "gloss": "und weinte"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "פָּנָיו֙",
+      "gloss": "sein Gesicht"
+    },
+    {
+      "surface": "וַיֹּאמַ֔ר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "אָבִ֣י",
+      "gloss": "Mein Vater"
+    },
+    {
+      "surface": "אָבִ֔י",
+      "gloss": "mein Vater"
+    },
+    {
+      "surface": "רֶ֥כֶב",
+      "gloss": "Der Wagen"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Jisraëls"
+    },
+    {
+      "surface": "וּפָרָשָֽׁיו",
+      "gloss": "und seine Reiter"
+    }
+  ],
+  "timestamp": "2026-08-06T22:43:42.889290883Z",
+  "model": "glm-5.2"
+}

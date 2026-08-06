@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "In deiner Hand ⟨sind⟩ meine Zeiten. Reiße mich heraus aus der Hand meiner Feinde und ⟨von⟩ meinen Verfolgern.",
+  "tokens": [
+    {
+      "surface": "בְּיָדְךָ֥",
+      "gloss": "In deiner Hand"
+    },
+    {
+      "surface": "עִתֹּתָ֑י",
+      "gloss": "meine Zeiten"
+    },
+    {
+      "surface": "הַצִּ֘ילֵ֤נִי",
+      "gloss": "Reiße mich heraus"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "א֝וֹיְבַ֗י",
+      "gloss": "meiner Feinde"
+    },
+    {
+      "surface": "וּמֵרֹדְפָֽי",
+      "gloss": "und ⟨von⟩ meinen Verfolgern"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:02.882873808Z",
+  "model": "glm-5.2"
+}

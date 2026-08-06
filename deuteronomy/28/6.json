@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Gesegnet ⟨bist⟩ du bei deinem Kommen, und gesegnet ⟨bist⟩ du bei deinem Gehen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "bei deinem Kommen"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "und gesegnet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "bei deinem Gehen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:47:12.888663584Z",
+  "model": "glm-5.2"
+}

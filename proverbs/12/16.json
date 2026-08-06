@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Ein Tor — noch am selben Tag wird sein Ärger bekannt; wer aber Schande zudeckt, ⟨ist⟩ klug.",
+  "tokens": [
+    {
+      "surface": "אֱוִ֗יל",
+      "gloss": "Ein Tor"
+    },
+    {
+      "surface": "בַּ֭יּוֹם",
+      "gloss": "am selben Tag"
+    },
+    {
+      "surface": "יִוָּדַ֣ע",
+      "gloss": "wird bekannt"
+    },
+    {
+      "surface": "כַּעְס֑וֹ",
+      "gloss": "sein Ärger"
+    },
+    {
+      "surface": "וְכֹסֶ֖ה",
+      "gloss": "wer aber zudeckt"
+    },
+    {
+      "surface": "קָל֣וֹן",
+      "gloss": "Schande"
+    },
+    {
+      "surface": "עָרֽוּם",
+      "gloss": "⟨ist⟩ klug"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:56.418159194Z",
+  "model": "glm-5.2"
+}

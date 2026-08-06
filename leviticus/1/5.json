@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨er⟩ schlachte ⟨את⟩ das Rind vor JHWH, und die Söhne Aharons, die Kohen, sollen ⟨את⟩ das Blut heranbringen und ⟨את⟩ das Blut rund um den Altar sprengen, der am Eingang des Zeltes der Begegnung ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "und schlachte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Rind"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "des Rindviehs"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "und sie sollen heranbringen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Blut"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "das Blut"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "und sie sollen sprengen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Blut"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "das Blut"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rund um"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am Eingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "des Zeltes"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    }
+  ],
+  "timestamp": "2026-08-06T00:23:20.124321669Z",
+  "model": "glm-5.2"
+}

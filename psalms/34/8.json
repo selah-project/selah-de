@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Ein Bote JHWHs lagert rings um die ihn fürchten, und er entriss ⟨sie⟩ ⟨der Gefahr⟩.",
+  "tokens": [
+    {
+      "surface": "חֹנֶ֤ה",
+      "gloss": "lagert"
+    },
+    {
+      "surface": "מַלְאַךְ",
+      "gloss": "Ein Bote"
+    },
+    {
+      "surface": "יְהוָ֓ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "סָ֘בִ֤יב",
+      "gloss": "rings um"
+    },
+    {
+      "surface": "לִֽירֵאָ֗יו",
+      "gloss": "die ihn fürchten"
+    },
+    {
+      "surface": "וַֽיְחַלְּצֵֽם",
+      "gloss": "und er entriss ⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:17.499611663Z",
+  "model": "glm-5.2"
+}

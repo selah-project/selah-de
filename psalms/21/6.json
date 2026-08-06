@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Groß ist seine Herrlichkeit durch deine Rettung; Hoheit und Pracht legst du auf ihn.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Groß"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ist seine Herrlichkeit"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "durch deine Rettung"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "Hoheit"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "und Pracht"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "legst"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auf ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:51.778681468Z",
+  "model": "glm-5.2"
+}

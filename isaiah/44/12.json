@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 44:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Ein Eisenschmied ⟨nahm⟩ ein Beil und bearbeitete ⟨es⟩ in der Glut, und mit Hämmern formte er es. Und er bearbeitete es mit der Kraft seines Arms. ⟨Doch⟩ auch ⟨er⟩ ist hungrig, und es gibt keine Kraft; er trank kein Wasser, und er ist erschöpft.",
+  "tokens": [
+    {
+      "surface": "חָרַ֤שׁ",
+      "gloss": "Ein Schmied"
+    },
+    {
+      "surface": "בַּרְזֶל֙",
+      "gloss": "Eisen"
+    },
+    {
+      "surface": "מַֽעֲצָ֔ד",
+      "gloss": "ein Beil"
+    },
+    {
+      "surface": "וּפָעַל֙",
+      "gloss": "und bearbeitete"
+    },
+    {
+      "surface": "בַּפֶּחָ֔ם",
+      "gloss": "in der Glut"
+    },
+    {
+      "surface": "וּבַמַּקָּב֖וֹת",
+      "gloss": "und mit Hämmern"
+    },
+    {
+      "surface": "יִצְּרֵ֑הוּ",
+      "gloss": "formte er es"
+    },
+    {
+      "surface": "וַיִּפְעָלֵ֨הוּ֙",
+      "gloss": "Und er bearbeitete es"
+    },
+    {
+      "surface": "בִּזְר֣וֹעַ",
+      "gloss": "mit dem Arm"
+    },
+    {
+      "surface": "כֹּח֔וֹ",
+      "gloss": "seiner Kraft"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "רָעֵב֙",
+      "gloss": "ist hungrig"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "und es gibt keine"
+    },
+    {
+      "surface": "כֹּ֔חַ",
+      "gloss": "Kraft"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שָׁתָ֖ה",
+      "gloss": "trank"
+    },
+    {
+      "surface": "מַ֖יִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "וַיִּיעָֽף",
+      "gloss": "und er ist erschöpft"
+    }
+  ],
+  "timestamp": "2026-08-05T21:53:48.176769265Z",
+  "model": "glm-5.2"
+}

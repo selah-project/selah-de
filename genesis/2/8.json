@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH Elohim pflanzte einen Garten in Eden, im Osten, und er setzte dorthin ⟨את⟩ den Menschen, den er geformt hatte.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "und pflanzte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "einen Garten"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "in Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "im Osten"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "und setzte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Menschen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "er geformt hatte"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:19.305889010Z",
+  "model": "glm-5.2"
+}

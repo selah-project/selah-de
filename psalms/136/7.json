@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "Dem, der große Lichter macht — ja, für ewig ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Dem, der … macht"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "Lichter"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "große"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:33.458214975Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "und ⟨את⟩ ganz Naftali und ⟨את⟩ das Land Efrajim und Menasche und ⟨את⟩ das ganze Land Jehuda bis zum hinteren Meer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ganz Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Land Efrajim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "und Menasche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das ganze Land Jehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Meer"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "hinteren"
+    }
+  ],
+  "timestamp": "2026-08-05T20:52:44.903545929Z",
+  "model": "glm-5.2"
+}

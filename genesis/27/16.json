@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und ⟨את⟩ die Felle der Ziegenböckchen legte sie über seine Hände und über die Glätte seines Nackens.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Und-⟨את⟩",
+      "marks": "die Felle"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "die-Felle"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "der-Ziegenböckchen"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "der-Ziegen"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "legte-sie-an"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "seine-Hände"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und-über"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "die-Glätte"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "seines-Nackens"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:01.899951315Z",
+  "model": "glm-5.2"
+}

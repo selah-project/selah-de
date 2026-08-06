@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨er sprach⟩, der König von Mizrajim, zu den Hebäerinnen, den Hebammen — ⟨von denen⟩ der Name der einen Schifra ⟨war⟩ und der Name der zweiten Pu'a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er sprach⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "von Mizrajim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "zu den Hebammen"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "den Hebäerinnen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨von denen⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der Name"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "der einen"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Schifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "und der Name"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "der zweiten"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pu'a"
+    }
+  ],
+  "timestamp": "2026-08-06T00:12:08.282565788Z",
+  "model": "glm-5.2"
+}

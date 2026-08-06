@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 22:38",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Ich jagte meinen Feinden nach und rottete sie aus, und ⟨ich⟩ kehrte nicht um, bis ich sie vernichtet hatte.",
+  "tokens": [
+    {
+      "surface": "אֶרְדְּפָ֥ה",
+      "gloss": "Ich jagte nach"
+    },
+    {
+      "surface": "אֹיְבַ֖י",
+      "gloss": "meinen Feinden"
+    },
+    {
+      "surface": "וָאַשְׁמִידֵ֑ם",
+      "gloss": "und rottete sie aus"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אָשִׁ֖וּב",
+      "gloss": "kehrte um"
+    },
+    {
+      "surface": "עַ֥ד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "כַּלּוֹתָֽם",
+      "gloss": "ich sie vernichtet hatte"
+    }
+  ],
+  "timestamp": "2026-08-06T01:21:13.824595365Z",
+  "model": "glm-5.2"
+}

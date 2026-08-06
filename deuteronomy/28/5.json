@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Gesegnet ⟨sei⟩ dein Korb und dein Backtrog.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "dein Korb"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "und dein Backtrog"
+    }
+  ],
+  "timestamp": "2026-08-06T00:47:12.888458993Z",
+  "model": "glm-5.2"
+}

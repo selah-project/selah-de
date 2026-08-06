@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und JHWH tat ⟨את⟩ dieses Ding am nächsten Tag, und alles Vieh von Mizrajim starb. Und vom Vieh der Söhne Jisraels starb nicht eines.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und-⟨tat⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Ding"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Ding"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "am-nächsten-Tag"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und-starb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "Vieh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "von-Mizrajim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "und-vom-Vieh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der-Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מת",
+      "gloss": "starb"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eines"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:56.992339761Z",
+  "model": "glm-5.2"
+}

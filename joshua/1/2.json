@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "„Mosche, mein Knecht, ist gestorben. Und nun, mach dich auf, geh über ⟨את⟩ den Jordan hier, du und ganz ⟨das⟩ Volk hier, in ⟨das⟩ Land, das ich ihnen, den Söhnen Jisraels, gebe.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mein Knecht"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ist gestorben"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "קום",
+      "gloss": "mach dich auf"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "geh über"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "den Jordan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ganz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨das⟩ Volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨das⟩ Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gebe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-05T20:53:00.742862251Z",
+  "model": "glm-5.2"
+}

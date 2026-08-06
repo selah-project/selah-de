@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Awimelech sprach: „Siehe, mein Land ⟨ist⟩ vor dir. Wo es gut in deinen Augen ⟨ist⟩, wohne.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimelech"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mein Land"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "wo es gut"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in deinen Augen"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wohne"
+    }
+  ],
+  "timestamp": "2026-08-06T00:05:42.839798650Z",
+  "model": "glm-5.2"
+}

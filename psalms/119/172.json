@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Meine Zunge rühme deine Aussage, denn all deine Gebote sind Gerechtigkeit.",
+  "tokens": [
+    {
+      "surface": "תַּעַן",
+      "gloss": "rühme"
+    },
+    {
+      "surface": "לְשׁוֹנִי",
+      "gloss": "meine Zunge"
+    },
+    {
+      "surface": "אִמְרָתֶךָ",
+      "gloss": "deine Aussage"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מִצְוֺתֶיךָ",
+      "gloss": "deine Gebote"
+    },
+    {
+      "surface": "צֶּדֶק",
+      "gloss": "sind Gerechtigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:03.227285662Z",
+  "model": "glm-5.2"
+}

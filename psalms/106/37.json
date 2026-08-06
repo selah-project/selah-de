@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und sie schlachteten ⟨את⟩ ihre Söhne und ⟨את⟩ ihre Töchter den Scheden.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "und sie schlachteten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Söhne"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ihre Söhne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Töchter"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ihre Töchter"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "den Scheden"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:06.757613514Z",
+  "model": "glm-5.2"
+}

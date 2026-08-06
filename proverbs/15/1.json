@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Eine sanfte Antwort wendet ⟨die⟩ Glut ab, aber ein schmerzhaftes Wort lässt ⟨die⟩ Nase aufsteigen.",
+  "tokens": [
+    {
+      "surface": "מַֽעֲנֶה",
+      "gloss": "Eine Antwort"
+    },
+    {
+      "surface": "רַּ֭ךְ",
+      "gloss": "sanfte"
+    },
+    {
+      "surface": "יָשִׁ֣יב",
+      "gloss": "wendet ab"
+    },
+    {
+      "surface": "חֵמָ֑ה",
+      "gloss": "⟨die⟩ Glut"
+    },
+    {
+      "surface": "וּדְבַר",
+      "gloss": "aber ein Wort"
+    },
+    {
+      "surface": "עֶ֝֗צֶב",
+      "gloss": "schmerzhaftes"
+    },
+    {
+      "surface": "יַעֲלֶה",
+      "gloss": "lässt aufsteigen"
+    },
+    {
+      "surface": "אָֽף",
+      "gloss": "⟨die⟩ Nase"
+    }
+  ],
+  "timestamp": "2026-08-05T23:11:44.941769863Z",
+  "model": "glm-5.2"
+}

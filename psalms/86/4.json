@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 86,
+  "translation": "Erfreue die Nefesch deines Knechts, denn zu dir, Adonai, hebe ich meine Nefesch.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Erfreue"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨die⟩ Nefesch"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "deines Knechts"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "hebe ich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:07.035360508Z",
+  "model": "glm-5.2"
+}

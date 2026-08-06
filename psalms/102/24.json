@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Er beugte ⟨meine⟩ Kraft auf dem Weg, er verkürzte ⟨meine⟩ Tage.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Er beugte"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "Kraft"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "er verkürzte"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T21:24:23.855882065Z",
+  "model": "glm-5.2"
+}

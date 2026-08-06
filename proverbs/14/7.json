@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Geh weg von einem törichten Mann, ⟨und⟩ du wirst ⟨keine⟩ Erkenntnis kennen ⟨auf⟩ seinen Lippen.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "weg von"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "einem Mann"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "törichten"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "und ⟨du wirst nicht⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kennen"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "Lippen"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Erkenntnis"
+    }
+  ],
+  "timestamp": "2026-08-06T06:55:30.771650049Z",
+  "model": "glm-5.2"
+}

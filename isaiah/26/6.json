@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Zertreten wird sie vom Fuß, von den Füßen des Elenden, von den Schritten der Geringen.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "Zertreten wird sie"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "vom Fuß"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "von den Füßen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "des Elenden"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "von den Schritten"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "der Geringen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:47:26.198606990Z",
+  "model": "glm-5.2"
+}

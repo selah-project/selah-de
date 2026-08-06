@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und der Kohen tauche seinen Finger in das Blut und sprenge siebenmal vor JHWH ⟨an⟩ ⟨את⟩ die Vorderseite des Vorhangs.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "Und ⟨er⟩ tauche"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "seinen Finger"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dem Blut"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "und sprenge"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "Mal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Vorderseite des Vorhangs"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨an⟩ die Vorderseite"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "des Vorhangs"
+    }
+  ],
+  "timestamp": "2026-08-06T02:08:49.864735848Z",
+  "model": "glm-5.2"
+}

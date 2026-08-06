@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und jeder weisen Herzens unter euch, ⟨sie⟩ sollen kommen und ⟨es⟩ machen: ⟨את⟩ alles, was JHWH geboten hat —",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Und jeder"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "weisen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herzens"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "unter euch"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "sollen kommen"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "und machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:17:15.309693324Z",
+  "model": "glm-5.2"
+}

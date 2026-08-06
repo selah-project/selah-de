@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ⟨es⟩ geschah am Ende von drei Tagen, da gingen die Schoter durch das Lager,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ geschah"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "am Ende"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "von drei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tagen"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "da gingen"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "die Schoter"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "durch"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "das Lager"
+    }
+  ],
+  "timestamp": "2026-08-06T02:31:02.511685215Z",
+  "model": "glm-5.2"
+}

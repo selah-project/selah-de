@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Striemen ⟨von⟩ einer Wunde scheuern das Böse weg, und Schläge ⟨erreichen⟩ die Kammern des Leibes.",
+  "tokens": [
+    {
+      "surface": "חַבֻּר֣וֹת",
+      "gloss": "Striemen"
+    },
+    {
+      "surface": "פֶּ֭צַע",
+      "gloss": "⟨von⟩ einer Wunde"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "scheuern weg"
+    },
+    {
+      "surface": "בְּרָ֑ע",
+      "gloss": "das Böse"
+    },
+    {
+      "surface": "וּ֝מַכּ֗וֹת",
+      "gloss": "und Schläge"
+    },
+    {
+      "surface": "חַדְרֵי",
+      "gloss": "die Kammern"
+    },
+    {
+      "surface": "בָֽטֶן",
+      "gloss": "des Leibes"
+    }
+  ],
+  "timestamp": "2026-08-06T15:25:29.363183117Z",
+  "model": "glm-5.2"
+}

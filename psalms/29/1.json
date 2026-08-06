@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Ein Mizmor von Dawid. Bringt JHWH, ihr Söhne ⟨der⟩ Elim, bringt JHWH Kabod und Os.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Bringt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ihr Söhne"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "⟨der⟩ Elim"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bringt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kabod"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "und Os"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:27.470141147Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und du sollst einen Altar machen, ⟨einen⟩ Räucheraltar: aus Akazienholz sollst du ihn machen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Und du sollst machen"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "einen Altar"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "zum Räuchern"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "(von) Räucherwerk"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "aus Holz"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "von Akazien"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sollst du machen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn (den Altar)"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:24.075437566Z",
+  "model": "glm-5.2"
+}

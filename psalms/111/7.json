@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 111,
+  "translation": "Die Werkte seiner Hände sind Emet und Mischpat, zuverlässig sind all seine Pikudim.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Die Werkte"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "seiner Hände"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sind Emet"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "und Mischpat"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "zuverlässig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "seine Pikudim"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:20.392512169Z",
+  "model": "glm-5.2"
+}

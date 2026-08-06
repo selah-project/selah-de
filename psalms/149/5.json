@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 149,
+  "translation": "Es jubeln die Chassidim in Herrlichkeit, sie jauchzen auf ihren Lagern.",
+  "tokens": [
+    {
+      "surface": "יַעְלְז֣וּ",
+      "gloss": "Es jubeln"
+    },
+    {
+      "surface": "חֲסִידִ֣ים",
+      "gloss": "die Chassidim"
+    },
+    {
+      "surface": "בְּכָב֑וֹד",
+      "gloss": "in Herrlichkeit"
+    },
+    {
+      "surface": "יְ֝רַנְּנ֗וּ",
+      "gloss": "sie jauchzen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מִשְׁכְּבוֹתָֽם",
+      "gloss": "ihren Lagern"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:46.975814487Z",
+  "model": "glm-5.2"
+}

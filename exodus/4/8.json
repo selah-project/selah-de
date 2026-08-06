@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und es wird geschehen: Wenn sie dir nicht glauben und nicht auf die Stimme des ersten Zeichens hören, dann werden sie glauben der Stimme des ⟨letzten⟩ Zeichens.",
+  "tokens": [
+    {
+      "surface": "וְהָיָה֙",
+      "gloss": "Und es wird geschehen"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יַאֲמִ֣ינוּ",
+      "gloss": "sie glauben"
+    },
+    {
+      "surface": "לָ֔ךְ",
+      "gloss": "dir"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יִשְׁמְע֔וּ",
+      "gloss": "sie hören"
+    },
+    {
+      "surface": "לְקֹ֖ל",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "הָאֹ֣ת",
+      "gloss": "des Zeichens"
+    },
+    {
+      "surface": "הָרִאשׁ֑וֹן",
+      "gloss": "des ersten"
+    },
+    {
+      "surface": "וְהֶֽאֱמִ֔ינוּ",
+      "gloss": "dann werden sie glauben"
+    },
+    {
+      "surface": "לְקֹ֖ל",
+      "gloss": "der Stimme"
+    },
+    {
+      "surface": "הָאֹ֥ת",
+      "gloss": "des Zeichens"
+    },
+    {
+      "surface": "הָאַחֲרֽוֹן",
+      "gloss": "des ⟨letzten⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T20:09:17.067191441Z",
+  "model": "glm-5.2"
+}

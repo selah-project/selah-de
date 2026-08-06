@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 56,
+  "translation": "Sie lagern sich, sie verbergen sich, sie selber — meine Fersen beobachten sie, ⟨so⟩ wie sie meiner Nefesch auflauern.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "Sie lagern sich"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "sie verbergen sich"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie selber"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "meine Fersen"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "beobachten sie"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "⟨so⟩ wie"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "sie auflauern"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meiner Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:41.155101774Z",
+  "model": "glm-5.2"
+}

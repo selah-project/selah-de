@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und sie sollen ⟨את⟩ ihre Sünde bekennen, die sie getan haben, und ⟨er⟩ soll seine Schuld ⟨in ihrer⟩ Hauptsumme erstatten und deren fünften Teil darauf hinzufügen und ⟨es⟩ dem geben, gegenüber dem er schuldig geworden ist.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "Und sie sollen bekennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Sünde"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ihre Sünde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sie getan haben"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "und ⟨er⟩ soll erstatten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Schuld"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "seine Schuld"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "⟨in ihrer⟩ Hauptsumme"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "und deren fünften Teil"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "soll ⟨er⟩ hinzufügen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "und ⟨es⟩ geben"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "dem"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "gegenüber dem er schuldig geworden ist"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T20:30:50.093895951Z",
+  "model": "glm-5.2"
+}

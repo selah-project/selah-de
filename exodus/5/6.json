@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Paro befahl an jenem Tag ⟨את⟩ den Treibern im Volk und ⟨את⟩ seinen Aufsehern und sagte:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Und ⟨er⟩ befahl"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Treibern im Volk"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "den Treibern"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "im Volk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seinen Aufsehern"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "seinen Aufsehern"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    }
+  ],
+  "timestamp": "2026-08-06T09:44:51.665208306Z",
+  "model": "glm-5.2"
+}

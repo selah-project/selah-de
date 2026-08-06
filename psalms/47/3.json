@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Denn JHWH, der Höchste, ist furchtgebietend, ein großer König über der ganzen Erde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "der Höchste"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ist furchtgebietend"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ein König"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "großer"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "כל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:06.730214482Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Nur die Höhen wichen nicht; noch immer brachte das Volk Schlachtopfer und Rauchopfer dar auf den Höhen.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "die Höhen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "wichen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "noch immer"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "brachte Schlachtopfer dar"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "und Rauchopfer"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "auf den Höhen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:36:58.319246004Z",
+  "model": "glm-5.2"
+}

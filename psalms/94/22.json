@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "Und JHWH wurde mir zur Höhe, und mein Elohim zum Fels meiner Zuflucht.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֬י",
+      "gloss": "Und ⟨er⟩ wurde"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לִ֣י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לְמִשְׂגָּ֑ב",
+      "gloss": "zur Höhe"
+    },
+    {
+      "surface": "וֵ֝אלֹהַ֗י",
+      "gloss": "und mein Elohim"
+    },
+    {
+      "surface": "לְצ֥וּר",
+      "gloss": "zum Fels"
+    },
+    {
+      "surface": "מַחְסִֽי",
+      "gloss": "meiner Zuflucht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:04.997976410Z",
+  "model": "glm-5.2"
+}

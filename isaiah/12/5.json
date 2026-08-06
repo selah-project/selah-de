@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Spielt ⟨für⟩ JHWH, denn Erhabenes hat er getan; bekannt macht man dieses in der ganzen Erde.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Spielt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨für⟩ JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "Erhabenes"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hat er getan"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "bekannt macht man"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in der ganzen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T21:44:58.337748508Z",
+  "model": "glm-5.2"
+}

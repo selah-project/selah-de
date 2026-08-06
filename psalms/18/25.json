@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und JHWH vergilt mir nach meiner Gerechtigkeit, nach der Reinheit meiner Hände vor seinen Augen.",
+  "tokens": [
+    {
+      "surface": "וַיָּֽשֶׁב",
+      "gloss": "Und ⟨er⟩ vergilt"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לִ֣י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "כְצִדְקִ֑י",
+      "gloss": "nach meiner Gerechtigkeit"
+    },
+    {
+      "surface": "כְּבֹ֥ר",
+      "gloss": "nach der Reinheit"
+    },
+    {
+      "surface": "יָ֝דַ֗י",
+      "gloss": "meiner Hände"
+    },
+    {
+      "surface": "לְנֶ֣גֶד",
+      "gloss": "vor"
+    },
+    {
+      "surface": "עֵינָֽיו",
+      "gloss": "seinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:39.029339076Z",
+  "model": "glm-5.2"
+}

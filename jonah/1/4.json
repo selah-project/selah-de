@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und JHWH schleuderte einen großen Wind auf das Meer, und es entstand ein großer Sturm auf dem Meer, und das Schiff ⟨war im Begriff⟩ zerbrochen zu werden.",
+  "tokens": [
+    {
+      "surface": "וַֽיהוָ֗ה",
+      "gloss": "Und JHWH"
+    },
+    {
+      "surface": "הֵטִ֤יל",
+      "gloss": "schleuderte"
+    },
+    {
+      "surface": "רֽוּחַ",
+      "gloss": "einen Wind"
+    },
+    {
+      "surface": "גְּדוֹלָה֙",
+      "gloss": "großen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הַיָּ֔ם",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "und es entstand"
+    },
+    {
+      "surface": "סַֽעַר",
+      "gloss": "ein Sturm"
+    },
+    {
+      "surface": "גָּד֖וֹל",
+      "gloss": "großen"
+    },
+    {
+      "surface": "בַּיָּ֑ם",
+      "gloss": "auf dem Meer"
+    },
+    {
+      "surface": "וְהָ֣אֳנִיָּ֔ה",
+      "gloss": "und das Schiff"
+    },
+    {
+      "surface": "חִשְּׁבָ֖ה",
+      "gloss": "⟨war im Begriff⟩"
+    },
+    {
+      "surface": "לְהִשָּׁבֵֽר",
+      "gloss": "zerbrochen zu werden"
+    }
+  ],
+  "timestamp": "2026-08-06T04:00:57.036471737Z",
+  "model": "glm-5.2"
+}

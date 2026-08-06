@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Sagt ⟨von⟩ dem Gerechten, dass es gut ⟨ist⟩! Denn die Frucht ihrer Taten werden sie essen.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "sagt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨von⟩ dem Gerechten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "die Frucht"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ihrer Taten"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "werden sie essen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:43:13.756585907Z",
+  "model": "glm-5.2"
+}

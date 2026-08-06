@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und ich werde heiligen ⟨את⟩ das Zelt der Begegnung und ⟨את⟩ den Altar, und ⟨את⟩ Aharon und ⟨את⟩ seine Söhne werde ich heiligen, mir zu dienen als Kohen.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "Und ich werde heiligen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Zelt der Begegnung"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "das Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "werde ich heiligen"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "mir zu dienen als Kohen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:17.444755458Z",
+  "model": "glm-5.2"
+}

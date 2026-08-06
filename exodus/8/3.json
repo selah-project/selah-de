@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und die Beschwörer taten ebenso mit ihren Heimlichkeiten, und sie ließen die Frösche heraufkommen über ⟨את⟩ das Land Mizrajim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Und sie taten"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ebenso"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "die Beschwörer"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "mit ihren Heimlichkeiten"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "und sie ließen heraufkommen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Frösche"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "die Frösche"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T02:01:41.136716226Z",
+  "model": "glm-5.2"
+}

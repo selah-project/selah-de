@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Und Jisra'el brach auf mit allem, was ihm gehörte, und kam nach Be'er-Scheva und schlachtete Schlachtopfer ⟨für⟩ den Elohim seines Vaters Jizchak.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Und … brach auf"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mit allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm gehörte"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und kam"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "nach Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Scheva"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "und schlachtete"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "Schlachtopfer"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "⟨für⟩ den Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jizchak"
+    }
+  ],
+  "timestamp": "2026-08-06T20:07:19.662462033Z",
+  "model": "glm-5.2"
+}

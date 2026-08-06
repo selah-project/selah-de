@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "⟨Der⟩ die Berge gründet in seiner Kraft, umgürtet mit Macht.",
+  "tokens": [
+    {
+      "surface": "מֵכִ֣ין",
+      "gloss": "gründet"
+    },
+    {
+      "surface": "הָרִ֣ים",
+      "gloss": "die Berge"
+    },
+    {
+      "surface": "בְּכֹח֑וֹ",
+      "gloss": "in seiner Kraft"
+    },
+    {
+      "surface": "נֶ֝אְזָ֗ר",
+      "gloss": "umgürtet"
+    },
+    {
+      "surface": "בִּגְבוּרָֽה",
+      "gloss": "mit Macht"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:02.990142100Z",
+  "model": "glm-5.2"
+}

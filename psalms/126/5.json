@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 126,
+  "translation": "Die ⟨da⟩ säen in Tränen, mit Jubelruf werden sie ernten.",
+  "tokens": [
+    {
+      "surface": "הַזֹּרְעִים",
+      "gloss": "Die ⟨da⟩ säen"
+    },
+    {
+      "surface": "בְּדִמְעָה",
+      "gloss": "in Tränen"
+    },
+    {
+      "surface": "בְּרִנָּה",
+      "gloss": "mit Jubelruf"
+    },
+    {
+      "surface": "יִקְצֹרֽוּ",
+      "gloss": "werden sie ernten"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:52.035892669Z",
+  "model": "glm-5.2"
+}

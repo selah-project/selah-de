@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 10:9",
+  "book": "ezra",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und es versammelten sich alle Männer von Jehuda und Binyamin in Jeruschalajim innerhalb von drei Tagen. Es war der neunte Monat, am Zwanzigsten des Monats, und alles Volk saß auf dem Platz beim Haus des Elohim, zitternd wegen der Sache und wegen der Regengüsse.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Und es versammelten sich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Männer von"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "und Binyamin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "in Jeruschalajim"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "innerhalb von drei"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "Tagen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Es war ⟨der⟩"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Monat"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "neunte"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "am Zwanzigsten"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "und ⟨sie⟩ saßen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "auf dem Platz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beim Haus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "מרעידים",
+      "gloss": "zitternd"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "der Sache"
+    },
+    {
+      "surface": "ומהגשמים",
+      "gloss": "und wegen der Regengüsse"
+    }
+  ],
+  "timestamp": "2026-08-06T04:49:48.738620447Z",
+  "model": "glm-5.2"
+}

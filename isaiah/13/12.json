@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Ich werde ⟨den⟩ Sterblichen seltener machen als Feingold, und ⟨den⟩ Menschen als das Gelbgold von Ofir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Ich werde seltener machen"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨den⟩ Sterblichen"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "als Feingold"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "und ⟨den⟩ Menschen"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "als das Gelbgold"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "von Ofir"
+    }
+  ],
+  "timestamp": "2026-08-05T21:45:15.976293507Z",
+  "model": "glm-5.2"
+}

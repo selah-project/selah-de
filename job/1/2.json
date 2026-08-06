@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und es wurden ihm geboren sieben Söhne und drei Töchter.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "Und es wurden geboren"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "und drei"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Töchter"
+    }
+  ],
+  "timestamp": "2026-08-05T23:16:17.814701625Z",
+  "model": "glm-5.2"
+}

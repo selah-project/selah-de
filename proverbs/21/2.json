@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Jeder Weg eines Mannes ⟨ist⟩ gerade in seinen Augen, aber JHWH prüft die Herzen.",
+  "tokens": [
+    {
+      "surface": "כָּֽל",
+      "gloss": "Jeder"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "Weg"
+    },
+    {
+      "surface": "אִ֭ישׁ",
+      "gloss": "eines Mannes"
+    },
+    {
+      "surface": "יָשָׁ֣ר",
+      "gloss": "⟨ist⟩ gerade"
+    },
+    {
+      "surface": "בְּעֵינָ֑יו",
+      "gloss": "in seinen Augen"
+    },
+    {
+      "surface": "וְתֹכֵ֖ן",
+      "gloss": "aber JHWH prüft"
+    },
+    {
+      "surface": "לִבּ֣וֹת",
+      "gloss": "die Herzen"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH ⟨prüft⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:32.918657675Z",
+  "model": "glm-5.2"
+}

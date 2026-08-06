@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und du nimmst ⟨את⟩ den zweiten Widder, und Aharon und seine Söhne stützen ⟨את⟩ ihre Hände auf den Kopf des Widders.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "und du nimmst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den zweiten Widder"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "den Widder"
+    },
+    {
+      "surface": "השני",
+      "gloss": "zweiten"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "und stützen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Hände"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ihre Hände"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "den Kopf"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "des Widders"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:14.174375943Z",
+  "model": "glm-5.2"
+}

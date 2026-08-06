@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Chur zeugte ⟨את⟩ Uri, und Uri zeugte ⟨את⟩ Bezalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Und Chur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "Und Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bezalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Bezalel"
+    }
+  ],
+  "timestamp": "2026-08-05T23:46:36.734210549Z",
+  "model": "glm-5.2"
+}

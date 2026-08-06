@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Denn er wird mich bergen in seiner Hütte am Tag des Bösen, er wird mich verbergen im Verborgenen seines Zeltes, auf einen Felsen wird er mich erhöhen.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יִצְפְּנֵ֨נִי",
+      "gloss": "wird er mich bergen"
+    },
+    {
+      "surface": "בְּסֻכֹּה֮",
+      "gloss": "in seiner Hütte"
+    },
+    {
+      "surface": "בְּי֪וֹם",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "רָ֫עָ֥ה",
+      "gloss": "des Bösen"
+    },
+    {
+      "surface": "יַ֭סְתִּרֵנִי",
+      "gloss": "wird er mich verbergen"
+    },
+    {
+      "surface": "בְּסֵ֣תֶר",
+      "gloss": "im Verborgenen"
+    },
+    {
+      "surface": "אָהֳל֑וֹ",
+      "gloss": "seines Zeltes"
+    },
+    {
+      "surface": "בְּצ֗וּר",
+      "gloss": "auf einen Felsen"
+    },
+    {
+      "surface": "יְרוֹמְמֵֽנִי",
+      "gloss": "wird er mich erhöhen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:06.115081033Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Die ihr JHWH fürchtet, rühmt ihn! Aller Same Jaakows, ehrt ihn! Und scheut euch vor ihm, aller Same Jisraels!",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Die ihr fürchtet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "rühmt ihn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Aller"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "Same"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakows"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "ehrt ihn"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "Und scheut euch vor ihm"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "Same"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:45.391914305Z",
+  "model": "glm-5.2"
+}

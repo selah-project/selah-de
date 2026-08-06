@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Du hast Sterbliche reiten lassen über unser Haupt, wir sind gekommen durch Feuer und durch Wasser, und du hast uns herausgeführt ⟨in⟩ die Sättigung.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Du hast reiten lassen"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Sterbliche"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "über unser Haupt"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "wir sind gekommen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "durch Feuer"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "und durch Wasser"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "und du hast uns herausgeführt"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "⟨in⟩ die Sättigung"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:55.989404334Z",
+  "model": "glm-5.2"
+}

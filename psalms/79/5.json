@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 79,
+  "translation": "Bis wann, JHWH? Wirst du ⟨immerdar⟩ zürnen? Wird deine Eifersucht brennen wie Feuer?",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מָ֣ה",
+      "gloss": "wann"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תֶּאֱנַ֣ף",
+      "gloss": "wirst du zürnen"
+    },
+    {
+      "surface": "לָנֶ֑צַח",
+      "gloss": "immerdar"
+    },
+    {
+      "surface": "תִּבְעַ֥ר",
+      "gloss": "wird brennen"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אֵ֝֗שׁ",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "קִנְאָתֶֽךָ",
+      "gloss": "deine Eifersucht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:28.609972695Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Meine Gelübde will ich JHWH entrichten, ⟨bitte⟩, angesichts seines ganzen Volkes.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Meine Gelübde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "will ich entrichten"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "angesichts"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨bitte⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "seinem ganzen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:36.889700099Z",
+  "model": "glm-5.2"
+}

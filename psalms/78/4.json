@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Wir werden sie nicht verbergen vor ihren Kindern, ⟨sondern⟩ ⟨dem⟩ kommenden Geschlecht erzählend: die Rühmungen JHWHs und seine Stärke und seine Wunder, die er getan hat.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נְכַחֵד",
+      "gloss": "Wir werden verbergen"
+    },
+    {
+      "surface": "מִבְּנֵיהֶם",
+      "gloss": "vor ihren Kindern"
+    },
+    {
+      "surface": "לְדוֹר",
+      "gloss": "⟨dem⟩ Geschlecht"
+    },
+    {
+      "surface": "אַחֲרוֹן",
+      "gloss": "kommenden"
+    },
+    {
+      "surface": "מְסַפְּרִים",
+      "gloss": "⟨sondern⟩ erzählend"
+    },
+    {
+      "surface": "תְּהִלּוֹת",
+      "gloss": "die Rühmungen"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וֶעֱזוּזוֹ",
+      "gloss": "und seine Stärke"
+    },
+    {
+      "surface": "וְנִפְלְאוֹתָיו",
+      "gloss": "und seine Wunder"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "er getan hat"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:32.708253543Z",
+  "model": "glm-5.2"
+}

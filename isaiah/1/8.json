@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨die⟩ übriggebliebene Tochter Tzijon ⟨ist⟩ wie eine Laubhütte im Weinberg, wie eine Nachtlagerhütte im Gurkenfeld, wie eine belagerte Stadt.",
+  "tokens": [
+    {
+      "surface": "וְנוֹתְרָ֥ה",
+      "gloss": "und übriggebliebene"
+    },
+    {
+      "surface": "בַת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "צִיּ֖וֹן",
+      "gloss": "Tzijon"
+    },
+    {
+      "surface": "כְּסֻכָּ֣ה",
+      "gloss": "wie eine Laubhütte"
+    },
+    {
+      "surface": "בְכָ֑רֶם",
+      "gloss": "im Weinberg"
+    },
+    {
+      "surface": "כִּמְלוּנָ֥ה",
+      "gloss": "wie eine Nachtlagerhütte"
+    },
+    {
+      "surface": "בְמִקְשָׁ֖ה",
+      "gloss": "im Gurkenfeld"
+    },
+    {
+      "surface": "כְּעִ֥יר",
+      "gloss": "wie eine Stadt"
+    },
+    {
+      "surface": "נְצוּרָֽה",
+      "gloss": "belagerte"
+    }
+  ],
+  "timestamp": "2026-08-06T03:10:20.604333680Z",
+  "model": "glm-5.2"
+}

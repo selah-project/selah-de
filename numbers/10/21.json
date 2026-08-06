@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und die Kehatiter brachen auf, die Träger ⟨von⟩ dem Heiligtum, und ⟨die anderen⟩ richteten ⟨את⟩ das Mischkan auf, bis deren Ankunft.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "Und sie brachen auf"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "die Kehatiter"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "die Träger ⟨von⟩"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "dem Heiligtum"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "und ⟨die anderen⟩ richteten auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Mischkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "das Mischkan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "באם",
+      "gloss": "deren Ankunft"
+    }
+  ],
+  "timestamp": "2026-08-05T20:32:34.206864507Z",
+  "model": "glm-5.2"
+}

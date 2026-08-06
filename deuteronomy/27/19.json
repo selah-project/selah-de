@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Verflucht ⟨ist⟩, wer das Recht des Fremdlings, der Waise und der Witwe beugt. Und das ganze Volk ⟨soll⟩ sagen: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "wer beugt"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "das Recht"
+    },
+    {
+      "surface": "גר",
+      "gloss": "des Fremdlings"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "der Waise"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "und der Witwe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und sagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:29:33.346992153Z",
+  "model": "glm-5.2"
+}

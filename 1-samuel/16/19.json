@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und Schaul sandte Boten zu Jischai und sagte: „Sende zu mir ⟨את⟩ Dawid, deinen Sohn, der bei den Schafen ⟨ist⟩.“",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und sandte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "Boten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jischai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Sende"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "deinen Sohn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "bei den Schafen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:12:22.320914856Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Schelomo liebte ⟨את⟩ JHWH, zu gehen in den Ordnungen Dawids, seines Vaters; nur auf den Höhen ⟨opferte⟩ er — er schlachtete und ließ Räucherwerk aufsteigen.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Und liebte"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "zu gehen"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "in den Ordnungen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nur"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "auf den Höhen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "schlachtete er"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "und ließ Räucherwerk aufsteigen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:25:30.403662886Z",
+  "model": "glm-5.2"
+}

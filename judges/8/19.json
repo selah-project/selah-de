@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 8:19",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er sprach: „Meine Brüder, Söhne meiner Mutter, ⟨sind⟩ sie. ⟨So wahr⟩ JHWH lebt: hättest du sie am Leben gelassen, ⟨את⟩, dann hätte ich euch nicht getötet, ⟨אתכם⟩.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "meine Brüder"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "meiner Mutter"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "חי",
+      "gloss": "⟨So wahr⟩ … lebt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wenn \/ hättest du"
+    },
+    {
+      "surface": "החיתם",
+      "gloss": "am Leben gelassen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "hätte ich getötet"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "euch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:58:15.720756178Z",
+  "model": "glm-5.2"
+}

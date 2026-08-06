@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 142,
+  "translation": "Ich blickte ⟨zur⟩ Rechten und sah, und ⟨es ist⟩ niemand für mich da, ⟨der⟩ mich erkennt; verloren ⟨ist⟩ die Zuflucht vor mir, niemand ⟨ist⟩ da, ⟨der⟩ nach meiner Nefesch fragt.",
+  "tokens": [
+    {
+      "surface": "הַבֵּיט",
+      "gloss": "Ich blickte"
+    },
+    {
+      "surface": "יָמִין",
+      "gloss": "⟨zur⟩ Rechten"
+    },
+    {
+      "surface": "וּרְאֵה",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "und ⟨es ist⟩ niemand"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "für mich da"
+    },
+    {
+      "surface": "מַכִּיר",
+      "gloss": "⟨der⟩ mich erkennt"
+    },
+    {
+      "surface": "אָבַד",
+      "gloss": "verloren ⟨ist⟩"
+    },
+    {
+      "surface": "מָנוֹס",
+      "gloss": "die Zuflucht"
+    },
+    {
+      "surface": "מִמֶּנִּי",
+      "gloss": "vor mir"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "niemand"
+    },
+    {
+      "surface": "דּוֹרֵשׁ",
+      "gloss": "⟨der⟩ fragt"
+    },
+    {
+      "surface": "לְנַפְשִׁי",
+      "gloss": "nach meiner Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:57.894169389Z",
+  "model": "glm-5.2"
+}

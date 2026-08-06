@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 148,
+  "translation": "Und er stellte sie auf für immer, für ewig; eine Grenze gab er, und sie wird nicht überschritten.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲמִידֵ֣ם",
+      "gloss": "Und er stellte sie auf"
+    },
+    {
+      "surface": "לָעַ֣ד",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "לְעוֹלָ֑ם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "חָק",
+      "gloss": "eine Grenze"
+    },
+    {
+      "surface": "נָ֝תַ֗ן",
+      "gloss": "gab er"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יַעֲבֽוֹר",
+      "gloss": "wird sie überschritten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:46.600017913Z",
+  "model": "glm-5.2"
+}

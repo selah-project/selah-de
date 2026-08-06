@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 2:12",
+  "book": "zechariah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Denn so sprach JHWH der Heerscharen: Nach ⟨der⟩ Herrlichkeit hat er mich gesandt zu ⟨den⟩ Nationen, die euch ausplündern. Denn wer euch berührt, berührt ⟨die⟩ Pupille seines Auges.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כֹ֣ה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אָמַר֮",
+      "gloss": "sprach"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צְבָאוֹת֒",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "אַחַ֣ר",
+      "gloss": "Nach"
+    },
+    {
+      "surface": "כָּב֔וֹד",
+      "gloss": "⟨der⟩ Herrlichkeit"
+    },
+    {
+      "surface": "שְׁלָחַ֕נִי",
+      "gloss": "hat er mich gesandt"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הַגּוֹיִ֖ם",
+      "gloss": "⟨den⟩ Nationen"
+    },
+    {
+      "surface": "הַשֹּׁלְלִ֣ים",
+      "gloss": "die ausplündern"
+    },
+    {
+      "surface": "אֶתְכֶ֑ם",
+      "gloss": "euch",
+      "marks": "⟨את⟩ euch"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הַנֹּגֵ֣עַ",
+      "gloss": "wer berührt"
+    },
+    {
+      "surface": "בָּכֶ֔ם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "נֹגֵ֖עַ",
+      "gloss": "berührt"
+    },
+    {
+      "surface": "בְּבָבַ֥ת",
+      "gloss": "⟨die⟩ Pupille"
+    },
+    {
+      "surface": "עֵינֽוֹ",
+      "gloss": "seines Auges"
+    }
+  ],
+  "timestamp": "2026-08-06T10:28:22.923916137Z",
+  "model": "glm-5.2"
+}

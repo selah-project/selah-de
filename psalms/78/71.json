@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 78:71",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "von hinter den Säugenden holte er ihn, um Jaakow, sein Volk, zu hüten, und Jisra'el, sein Erbteil.",
+  "tokens": [
+    {
+      "surface": "מֵאַחַר",
+      "gloss": "von hinter"
+    },
+    {
+      "surface": "עָלוֹת",
+      "gloss": "den Säugenden"
+    },
+    {
+      "surface": "הֱבִיאוֹ",
+      "gloss": "holte er ihn"
+    },
+    {
+      "surface": "לִרְעוֹת",
+      "gloss": "um zu hüten"
+    },
+    {
+      "surface": "בְּיַעֲקֹב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "וּבְיִשְׂרָאֵל",
+      "gloss": "und Jisra'el"
+    },
+    {
+      "surface": "נַחֲלָתוֹ",
+      "gloss": "sein Erbteil"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:25.584177988Z",
+  "model": "glm-5.2"
+}

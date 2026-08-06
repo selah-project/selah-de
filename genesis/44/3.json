@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Der Morgen ⟨wurde⟩ hell, und die Männer wurden fortgeschickt, sie und ihre Esel.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "Der Morgen"
+    },
+    {
+      "surface": "אור",
+      "gloss": "hell wurde"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "und die Männer"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "fortgeschickt wurden"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sie"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "und ihre Esel"
+    }
+  ],
+  "timestamp": "2026-08-05T17:41:38.462862181Z",
+  "model": "glm-5.2"
+}

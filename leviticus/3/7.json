@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Wenn ⟨es⟩ ein Schaf ⟨ist⟩, das er als sein Korban (das Nahegebrachte) darbringt, dann bringt er ⟨את⟩ sein Korban (das Nahegebrachte) vor JHWH dar.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "כֶּ֥שֶׂב",
+      "gloss": "ein Schaf"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "⟨es⟩ ⟨ist⟩"
+    },
+    {
+      "surface": "מַקְרִ֖יב",
+      "gloss": "das er darbringt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sein Korban"
+    },
+    {
+      "surface": "קָרְבָּנ֑וֹ",
+      "gloss": "sein Korban"
+    },
+    {
+      "surface": "וְהִקְרִ֥יב",
+      "gloss": "dann bringt er dar"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩ ihn"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:23:53.749521175Z",
+  "model": "glm-5.2"
+}

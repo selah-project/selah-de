@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 100,
+  "translation": "Dient ⟨את⟩ JHWH mit Simcha, kommt vor sein Angesicht mit Renana!",
+  "tokens": [
+    {
+      "surface": "עִבְדוּ",
+      "gloss": "Dient"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בְּשִׂמְחָה",
+      "gloss": "mit Simcha"
+    },
+    {
+      "surface": "בֹּאוּ",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "לְפָנָיו",
+      "gloss": "vor sein Angesicht"
+    },
+    {
+      "surface": "בִּרְנָנָה",
+      "gloss": "mit Renana"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:29.898830675Z",
+  "model": "glm-5.2"
+}

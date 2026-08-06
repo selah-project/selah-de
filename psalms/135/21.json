@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Gesegnet ⟨sei⟩ JHWH von Zion, ⟨der⟩ wohnt in Jeruschalajim. Halleluja!",
+  "tokens": [
+    {
+      "surface": "בָּ֘רוּךְ",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מִצִּיּ֗וֹן",
+      "gloss": "von Zion"
+    },
+    {
+      "surface": "שֹׁ֘כֵ֤ן",
+      "gloss": "wohnt"
+    },
+    {
+      "surface": "יְֽרוּשָׁלִָ֗ם",
+      "gloss": "in Jeruschalajim"
+    },
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "lobt"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:58.764614074Z",
+  "model": "glm-5.2"
+}

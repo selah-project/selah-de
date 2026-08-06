@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "Einen Weinstock holtest du aus Mizrajim ⟨heraus⟩, du triebst Völker ⟨aus⟩ und pflanztest ⟨ihn⟩.",
+  "tokens": [
+    {
+      "surface": "גֶּ֭פֶן",
+      "gloss": "einen Weinstock"
+    },
+    {
+      "surface": "מִמִּצְרַ֣יִם",
+      "gloss": "aus Mizrajim"
+    },
+    {
+      "surface": "תַּסִּ֑יעַ",
+      "gloss": "holtest du heraus"
+    },
+    {
+      "surface": "תְּגָרֵ֥שׁ",
+      "gloss": "du triebst"
+    },
+    {
+      "surface": "גּ֝וֹיִ֗ם",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "וַתִּטָּעֶֽהָ",
+      "gloss": "und pflanztest"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:39.831397591Z",
+  "model": "glm-5.2"
+}

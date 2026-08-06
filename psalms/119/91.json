@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Nach deinen Rechtsbestimmungen stehen ⟨sie⟩ ⟨da⟩ am heutigen Tag, denn das Ganze ⟨sind⟩ deine Knechte.",
+  "tokens": [
+    {
+      "surface": "לְ֭מִשְׁפָּטֶיךָ",
+      "gloss": "Nach deinen Rechtsbestimmungen"
+    },
+    {
+      "surface": "עָמְד֣וּ",
+      "gloss": "stehen ⟨sie⟩ ⟨da⟩"
+    },
+    {
+      "surface": "הַיּ֑וֹם",
+      "gloss": "am heutigen Tag"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הַכֹּ֣ל",
+      "gloss": "das Ganze"
+    },
+    {
+      "surface": "עֲבָדֶֽיךָ",
+      "gloss": "deine Knechte"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:10.938086990Z",
+  "model": "glm-5.2"
+}

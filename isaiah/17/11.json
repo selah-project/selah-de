@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 17:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Am Tag deiner Pflanzung umgibst du ⟨sie⟩ mit Schutz, und am Morgen lässt du deinen Samen aufbrechen — ein Haufen ⟨ist⟩ die Ernte am Tag ⟨der⟩ Krankheit und unheilbarem Schmerz.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "נטעך",
+      "gloss": "deiner Pflanzung"
+    },
+    {
+      "surface": "תשגשגי",
+      "gloss": "umgibst du mit Schutz"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "und am Morgen"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "deinen Samen"
+    },
+    {
+      "surface": "תפריחי",
+      "gloss": "lässt du aufbrechen"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ein Haufen"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "die Ernte"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "⟨der⟩ Krankheit"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "und Schmerz"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "unheilbarem"
+    }
+  ],
+  "timestamp": "2026-08-06T01:42:46.742427268Z",
+  "model": "glm-5.2"
+}

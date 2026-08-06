@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Wenn ihr aber nicht auf die Stimme JHWHs hört und ⟨den⟩ Mund JHWHs trotzt, dann wird die Hand JHWHs gegen euch ⟨sein⟩ und gegen eure Väter.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Wenn aber"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ihr hört"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "und trotzt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Mund JHWHs"
+    },
+    {
+      "surface": "פי",
+      "gloss": "den Mund"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dann wird … ⟨sein⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "die Hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "gegen euch"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "und gegen eure Väter"
+    }
+  ],
+  "timestamp": "2026-08-05T21:09:38.101704841Z",
+  "model": "glm-5.2"
+}

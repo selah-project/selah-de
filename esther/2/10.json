@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Nicht hatte Ester ⟨את⟩ ihr Volk und ⟨את⟩ ihre Herkunft kundgetan, denn Mordechai hatte ihr geboten, ⟨dass⟩ sie nicht kundtun solle.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הִגִּידָה",
+      "gloss": "hatte kundgetan"
+    },
+    {
+      "surface": "אֶסְתֵּר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Volk"
+    },
+    {
+      "surface": "עַמָּהּ",
+      "gloss": "ihr Volk"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Herkunft"
+    },
+    {
+      "surface": "מוֹלַדְתָּהּ",
+      "gloss": "ihre Herkunft"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מָרְדְּכַי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "hatte geboten"
+    },
+    {
+      "surface": "עָלֶיהָ",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "dass"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַגִּיד",
+      "gloss": "sie kundtun solle"
+    }
+  ],
+  "timestamp": "2026-08-05T23:33:05.168602056Z",
+  "model": "glm-5.2"
+}

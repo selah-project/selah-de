@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und die Hand JHWHs wurde schwer über den Aschdoditen, und er verwüstete sie, und er schlug sie mit Beulen, ⟨את⟩ Aschdod und ⟨את⟩ sein Gebiet.",
+  "tokens": [
+    {
+      "surface": "וַתִּכְבַּ֧ד",
+      "gloss": "Und … wurde schwer"
+    },
+    {
+      "surface": "יַד",
+      "gloss": "die Hand"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "über"
+    },
+    {
+      "surface": "הָאַשְׁדּוֹדִ֖ים",
+      "gloss": "den Aschdoditen"
+    },
+    {
+      "surface": "וַיְשִׁמֵּ֑ם",
+      "gloss": "und er verwüstete"
+    },
+    {
+      "surface": "וַיַּ֤ךְ",
+      "gloss": "und er schlug"
+    },
+    {
+      "surface": "אֹתָם֙",
+      "gloss": "sie"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "mit Beulen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Aschdod"
+    },
+    {
+      "surface": "אַשְׁדּ֖וֹד",
+      "gloss": "Aschdod"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein Gebiet"
+    },
+    {
+      "surface": "גְּבוּלֶֽיהָ",
+      "gloss": "sein Gebiet"
+    }
+  ],
+  "timestamp": "2026-08-05T21:08:20.764705106Z",
+  "model": "glm-5.2"
+}

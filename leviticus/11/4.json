@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Außer ⟨את⟩ diesem sollt ihr nicht essen, von denen, die das Wiedergekäute heraufbringen, und von denen, die ⟨die⟩ Klaue spalten: ⟨את⟩ das Kamel — denn es ist ein Herbringer des Wiedergekäuten, aber ⟨bei⟩ der Klaue spaltet es nicht; unrein ist es für euch.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "außer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diesem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sollt ihr essen"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "von denen, die heraufbringen"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "das Wiedergekäute"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "und von denen, die spalten"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "die Klaue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Kamel"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "das Kamel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "Herbringer"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "des Wiedergekäuten"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es ist"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "aber die Klaue"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "spaltet"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist es"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:31.602646170Z",
+  "model": "glm-5.2"
+}

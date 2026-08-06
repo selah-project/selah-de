@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Bis wann, Elohim, wird der Bedränger schmähen, wird der Feind deinen Namen verhöhnen für immer?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wann"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "wird schmähen"
+    },
+    {
+      "surface": "צר",
+      "gloss": "der Bedränger"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "wird verhöhnen"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "der Feind"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "für immer"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:28.473117205Z",
+  "model": "glm-5.2"
+}

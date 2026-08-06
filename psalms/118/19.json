@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Öffnet mir die Tore ⟨der⟩ Gerechtigkeit! Ich will ⟨durch⟩ sie einziehen, ich will Jah danken.",
+  "tokens": [
+    {
+      "surface": "פִּתְחוּ",
+      "gloss": "Öffnet"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "שַׁעֲרֵי",
+      "gloss": "die Tore"
+    },
+    {
+      "surface": "צֶ֑דֶק",
+      "gloss": "Gerechtigkeit"
+    },
+    {
+      "surface": "אָֽבֹא",
+      "gloss": "ich will einziehen"
+    },
+    {
+      "surface": "בָ֝ם",
+      "gloss": "durch sie"
+    },
+    {
+      "surface": "אוֹדֶ֥ה",
+      "gloss": "ich will danken"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:35.101494972Z",
+  "model": "glm-5.2"
+}

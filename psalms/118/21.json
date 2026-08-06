@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Ich preise dich, denn du hast mich erhört und bist mir ⟨zur⟩ Rettung geworden.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ich preise dich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "du hast mich erhört"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "und bist geworden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "⟨zur⟩ Rettung"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:30.237660710Z",
+  "model": "glm-5.2"
+}

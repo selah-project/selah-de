@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und Mosche gebot ihnen und sprach: „Am Ende von sieben Jahren, zur festgesetzten Zeit, im Jahr der Schmita, beim Fest der Sukkot:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "und gebot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ihnen",
+      "marks": "sie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "am Ende"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "von sieben"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "zur festgesetzten Zeit"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "im Jahr"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "der Schmita"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "beim Fest"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "der Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-06T00:49:30.278189197Z",
+  "model": "glm-5.2"
+}

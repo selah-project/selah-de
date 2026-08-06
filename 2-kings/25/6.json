@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und sie griffen ⟨את⟩ den König, und sie brachten ihn hinauf zum König von Bawel, ⟨nach⟩ Ribla. Und sie verhandelten ⟨mit⟩ ihn ⟨das⟩ Gericht.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "und sie griffen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den König"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "und sie brachten hinauf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "von Bawel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Ribla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "und sie verhandelten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Gericht"
+    }
+  ],
+  "timestamp": "2026-08-06T03:10:15.372092496Z",
+  "model": "glm-5.2"
+}

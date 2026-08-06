@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 52,
+  "translation": "Für den Chormeister. Ein Maskil von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für den Chormeister"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Ein Maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:02.057173511Z",
+  "model": "glm-5.2"
+}

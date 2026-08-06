@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "„ Rede zu den Söhnen Jisraels, und sie sollen mir eine Teruma bringen — von jedem Mann, dessen Herz ihn freiwillig macht, sollt ihr meine Teruma nehmen. “",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "rede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "und sie sollen bringen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "eine Teruma"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "von"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jedem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dessen"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "freiwillig macht"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "Herz"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "sollt ihr nehmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Teruma"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "meine Teruma"
+    }
+  ],
+  "timestamp": "2026-08-05T20:12:17.789751464Z",
+  "model": "glm-5.2"
+}

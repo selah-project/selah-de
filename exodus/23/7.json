@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Von einer Lügensache halte dich fern, und ⟨den⟩ Schuldlosen und Gerechten töte nicht, denn ich rechne ⟨den⟩ Schuldigen nicht gerecht.",
+  "tokens": [
+    {
+      "surface": "מִדְּבַר",
+      "gloss": "von einer Sache"
+    },
+    {
+      "surface": "שֶׁקֶר",
+      "gloss": "Lüge"
+    },
+    {
+      "surface": "תִרְחָק",
+      "gloss": "halte dich fern"
+    },
+    {
+      "surface": "וְנָקִי",
+      "gloss": "und ⟨den⟩ Schuldlosen"
+    },
+    {
+      "surface": "וְצַדִּיק",
+      "gloss": "und Gerechten"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַהֲרֹג",
+      "gloss": "töte"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אַצְדִּיק",
+      "gloss": "rechne ich gerecht"
+    },
+    {
+      "surface": "רָשָׁע",
+      "gloss": "⟨den⟩ Schuldigen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:01.370771469Z",
+  "model": "glm-5.2"
+}

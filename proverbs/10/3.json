@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "JHWH lässt die Nefesch des Gerechten nicht hungern, aber ⟨das⟩ Begehren der Frevler stößt er weg.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יַרְעִ֣יב",
+      "gloss": "lässt hungern"
+    },
+    {
+      "surface": "יְהוָ֭ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "נֶ֣פֶשׁ",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "צַדִּ֑יק",
+      "gloss": "des Gerechten"
+    },
+    {
+      "surface": "וְהַוַּ֖ת",
+      "gloss": "aber ⟨das⟩ Begehren"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "יֶהְדֹּֽף",
+      "gloss": "stößt er weg"
+    }
+  ],
+  "timestamp": "2026-08-06T06:54:32.582940879Z",
+  "model": "glm-5.2"
+}

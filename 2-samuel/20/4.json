@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und der König sprach zu Amassa: Ruf mir ⟨את⟩ die Männer von Jehuda ⟨zusammen⟩ ⟨in⟩ drei Tagen, und du, bleib hier stehen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amassa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "ruf … zusammen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Männer von Jehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "bleib stehen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:42:57.338902783Z",
+  "model": "glm-5.2"
+}

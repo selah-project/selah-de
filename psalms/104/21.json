@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Die Junglöwen brüllen nach Beute und suchen ⟨von⟩ El ⟨ihr⟩ Essen.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "Die Junglöwen"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "brüllen"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "nach Beute"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "und suchen"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "⟨von⟩ El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "⟨ihr⟩ Essen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:16.873950524Z",
+  "model": "glm-5.2"
+}

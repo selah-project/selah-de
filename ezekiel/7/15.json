@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Draußen ⟨ist⟩ das Schwert, und innen Pest und Hunger. Wer auf dem Feld ⟨ist⟩, stirbt durch das Schwert, und wer in der Stadt ⟨ist⟩, Hunger und Pest werden ihn verzehren.",
+  "tokens": [
+    {
+      "surface": "הַחֶ֣רֶב",
+      "gloss": "das Schwert"
+    },
+    {
+      "surface": "בַּח֔וּץ",
+      "gloss": "draußen"
+    },
+    {
+      "surface": "וְהַדֶּ֥בֶר",
+      "gloss": "und ⟨die⟩ Pest"
+    },
+    {
+      "surface": "וְהָרָעָ֖ב",
+      "gloss": "und ⟨der⟩ Hunger"
+    },
+    {
+      "surface": "מִבָּ֑יִת",
+      "gloss": "innen"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "wer"
+    },
+    {
+      "surface": "בַּשָּׂדֶה֙",
+      "gloss": "auf dem Feld"
+    },
+    {
+      "surface": "בַּחֶ֣רֶב",
+      "gloss": "durch das Schwert"
+    },
+    {
+      "surface": "יָמ֔וּת",
+      "gloss": "stirbt"
+    },
+    {
+      "surface": "וַאֲשֶׁ֣ר",
+      "gloss": "und wer"
+    },
+    {
+      "surface": "בָּעִ֔יר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "רָעָ֥ב",
+      "gloss": "Hunger"
+    },
+    {
+      "surface": "וָדֶ֖בֶר",
+      "gloss": "und Pest"
+    },
+    {
+      "surface": "יֹאכֲלֶֽנּוּ",
+      "gloss": "werden ihn verzehren"
+    }
+  ],
+  "timestamp": "2026-08-06T09:02:14.189642742Z",
+  "model": "glm-5.2"
+}

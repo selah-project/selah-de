@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Sie erstatten mir Böses für Gutes — Beraubung meiner Nefesch.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Sie erstatten mir"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "für"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "Beraubung"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "meiner Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:02.056789955Z",
+  "model": "glm-5.2"
+}

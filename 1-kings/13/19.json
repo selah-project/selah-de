@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und er kehrte mit ihm zurück, und er aß Brot in seinem Haus, und er trank Wasser.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Und er kehrte zurück"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "und er aß"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in seinem Haus"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "und er trank"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T01:25:52.038663676Z",
+  "model": "glm-5.2"
+}

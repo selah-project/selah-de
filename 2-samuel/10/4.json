@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Da nahm Chanun ⟨את⟩ die Knechte Dawids und schor ⟨את⟩ die Hälfte ihrer Bärte ab und schnitt ⟨את⟩ ihre Gewänder in der Mitte ab bis zu ihren Hüften und entließ sie.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Da nahm"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Knechte Dawids"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die Knechte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "und schor ab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Hälfte ihrer Bärte"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "die Hälfte"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "ihrer Bärte"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "und schnitt ab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Gewänder"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ihre Gewänder"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "in der Mitte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "ihren Hüften"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "und entließ sie"
+    }
+  ],
+  "timestamp": "2026-08-06T05:45:06.401324162Z",
+  "model": "glm-5.2"
+}

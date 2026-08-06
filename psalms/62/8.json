@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Auf Elohim ⟨ruht⟩ meine Rettung und meine Hoheit; Fels meiner Stärke, meine Zuflucht ⟨ist⟩ in Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Auf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "meine Rettung"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "und meine Hoheit"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Fels"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "meiner Stärke"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "meine Zuflucht"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:44.780225660Z",
+  "model": "glm-5.2"
+}

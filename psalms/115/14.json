@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "JHWH fügt euch hinzu, euch und ⟨auch⟩ auf eure Kinder.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "fügt hinzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "eure Kinder"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:43.418069595Z",
+  "model": "glm-5.2"
+}

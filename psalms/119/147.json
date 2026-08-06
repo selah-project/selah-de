@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 147,
+  "ref": "psalms 119:147",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich kam der Morgendämmerung zuvor und schrie um Hilfe, ⟨auf⟩ deine Worte hoffte ich.",
+  "tokens": [
+    {
+      "surface": "קִדַּמְתִּי",
+      "gloss": "Ich kam zuvor"
+    },
+    {
+      "surface": "בַּנֶּשֶׁף",
+      "gloss": "der Morgendämmerung"
+    },
+    {
+      "surface": "וָאֲשַׁוֵּעָה",
+      "gloss": "und schrie um Hilfe"
+    },
+    {
+      "surface": "לדבריך",
+      "gloss": "⟨auf⟩ deine Worte"
+    },
+    {
+      "surface": "יִחַלְתִּי",
+      "gloss": "hoffte ich"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:33.194695959Z",
+  "model": "glm-5.2"
+}

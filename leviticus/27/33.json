@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 27:33",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Er soll nicht untersuchen zwischen gut und schlecht, und er soll es nicht eintauschen. Und wenn er es doch eintauscht, dann soll es ⟨selbst⟩ und sein Eintausch ⟨als⟩ heilig ⟨gelten⟩ — es soll nicht gelöst werden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "soll untersuchen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "und schlecht"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "soll er es eintauschen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "המר",
+      "gloss": "(er doch) eintauscht"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "er es"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dann soll sein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨selbst⟩"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "und sein Eintausch"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll ⟨als⟩ gelten"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "soll gelöst werden"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:39.440685800Z",
+  "model": "glm-5.2"
+}

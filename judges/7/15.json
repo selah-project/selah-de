@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 7:15",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und es geschah, als Gid'on ⟨את⟩ die Erzählung des Traumes und ⟨את⟩ seine Deutung hörte, da warf er sich nieder. Und er kehrte zurück zum Lager von Jisra'el und sagte: „Auf! Denn JHWH hat ⟨את⟩ das Lager von Midjan in eure Hand gegeben.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "als … hörte"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gid'on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erzählung"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "die Erzählung"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "des Traumes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Deutung"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "seine Deutung"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "da warf er sich nieder"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und er kehrte zurück"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "Lager"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Auf!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hat … gegeben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in eure Hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Lager"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "das Lager"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "von Midjan"
+    }
+  ],
+  "timestamp": "2026-08-06T09:56:09.622205248Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Versunken sind die Nationen in der Grube, die sie machten; im Netz, das sie verbargen, ist ihr Fuß gefangen.",
+  "tokens": [
+    {
+      "surface": "טָבְע֣וּ",
+      "gloss": "versunken sind"
+    },
+    {
+      "surface": "ג֭וֹיִם",
+      "gloss": "die Nationen"
+    },
+    {
+      "surface": "בְּשַׁ֣חַת",
+      "gloss": "in der Grube"
+    },
+    {
+      "surface": "עָשׂ֑וּ",
+      "gloss": "die sie machten"
+    },
+    {
+      "surface": "בְּרֶֽשֶׁת",
+      "gloss": "im Netz"
+    },
+    {
+      "surface": "ז֥וּ",
+      "gloss": "das"
+    },
+    {
+      "surface": "טָ֝מָ֗נוּ",
+      "gloss": "sie verbargen"
+    },
+    {
+      "surface": "נִלְכְּדָ֥ה",
+      "gloss": "ist gefangen"
+    },
+    {
+      "surface": "רַגְלָֽם",
+      "gloss": "ihr Fuß"
+    }
+  ],
+  "timestamp": "2026-08-06T09:13:11.446268983Z",
+  "model": "glm-5.2"
+}

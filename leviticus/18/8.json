@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Die Blöße der Frau deines Vaters sollst du nicht entblößen — die Blöße deines Vaters ⟨ist⟩ sie.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Die Blöße"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "der Frau"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "sollst du entblößen"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "die Blöße"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deines Vaters"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ist⟩ sie"
+    }
+  ],
+  "timestamp": "2026-08-06T02:12:44.865870651Z",
+  "model": "glm-5.2"
+}

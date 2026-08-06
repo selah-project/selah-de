@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und du sollst sie auf einen Korb legen und sie im Korb heranbringen, und ⟨את⟩ den Stier und ⟨את⟩ die zwei Widder.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Und du sollst legen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie (die Brote)"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "סל",
+      "gloss": "einen Korb"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einen"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "und du sollst heranbringen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie (die Brote)"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "im Korb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Stier"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "den Stier"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die zwei Widder"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die zwei"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "Widder"
+    }
+  ],
+  "timestamp": "2026-08-05T20:14:35.024298402Z",
+  "model": "glm-5.2"
+}

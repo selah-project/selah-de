@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ein Mann, der seine Beiwohnung einem Vieh gibt — Tod soll er getötet werden, und ⟨auch⟩ ⟨את⟩ das Vieh sollt ihr töten.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Und ein Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "seine Beiwohnung"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "einem Vieh"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Tod"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "soll er getötet werden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das Vieh"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "das Vieh"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "sollt ihr töten"
+    }
+  ],
+  "timestamp": "2026-08-06T19:27:35.082776268Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Du sollst das Rechtsverfahren deines Bedürftigen nicht beugen in seinem Streitfall.",
+  "tokens": [
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תַטֶּ֛ה",
+      "gloss": "sollst du beugen"
+    },
+    {
+      "surface": "מִשְׁפַּ֥ט",
+      "gloss": "das Rechtsverfahren"
+    },
+    {
+      "surface": "אֶבְיֹנְךָ֖",
+      "gloss": "deines Bedürftigen"
+    },
+    {
+      "surface": "בְּרִיבֽוֹ",
+      "gloss": "in seinem Streitfall"
+    }
+  ],
+  "timestamp": "2026-08-06T02:04:19.776173084Z",
+  "model": "glm-5.2"
+}

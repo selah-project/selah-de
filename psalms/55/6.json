@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Furcht und Zittern kommen über mich, und Entsetzen hat mich bedeckt.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Furcht"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "und Zittern"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kommen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "über mich"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "und ⟨es⟩ hat mich bedeckt"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "Entsetzen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:22.825673599Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und sie werden erschrocken ⟨sein⟩ und beschämt, wegen Kusch, ⟨ihrer⟩ Hoffnung, und wegen Mizrajim, ⟨ihrer⟩ Pracht.",
+  "tokens": [
+    {
+      "surface": "וְחַתּ֖וּ",
+      "gloss": "Und sie werden erschrocken ⟨sein⟩"
+    },
+    {
+      "surface": "וָבֹ֑שׁוּ",
+      "gloss": "und beschämt"
+    },
+    {
+      "surface": "מִכּוּשׁ֙",
+      "gloss": "wegen Kusch"
+    },
+    {
+      "surface": "מַבָּטָ֔ם",
+      "gloss": "⟨ihrer⟩ Hoffnung"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "und wegen"
+    },
+    {
+      "surface": "מִצְרַ֖יִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "תִּפְאַרְתָּֽם",
+      "gloss": "⟨ihrer⟩ Pracht"
+    }
+  ],
+  "timestamp": "2026-08-06T08:50:40.909019299Z",
+  "model": "glm-5.2"
+}

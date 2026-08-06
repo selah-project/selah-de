@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 138,
+  "translation": "Wenn ich gehe mitten im Bedrängnis, belebst du mich; gegen den Zorn meiner Feinde streckst du ⟨deine⟩ Hand aus, und deine Rechte rettet mich.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "אֵלֵ֤ךְ",
+      "gloss": "ich gehe"
+    },
+    {
+      "surface": "בְּקֶ֥רֶב",
+      "gloss": "mitten"
+    },
+    {
+      "surface": "צָרָ֗ה",
+      "gloss": "im Bedrängnis"
+    },
+    {
+      "surface": "תְּחַ֫יֵּ֥נִי",
+      "gloss": "belebst du mich"
+    },
+    {
+      "surface": "עַ֤ל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "אַ֣ף",
+      "gloss": "den Zorn"
+    },
+    {
+      "surface": "אֹ֭יְבַי",
+      "gloss": "meiner Feinde"
+    },
+    {
+      "surface": "תִּשְׁלַ֣ח",
+      "gloss": "streckst du aus"
+    },
+    {
+      "surface": "יָדֶ֑ךָ",
+      "gloss": "⟨deine⟩ Hand"
+    },
+    {
+      "surface": "וְת֖וֹשִׁיעֵ֣נִי",
+      "gloss": "und rettet mich"
+    },
+    {
+      "surface": "יְמִינֶֽךָ",
+      "gloss": "deine Rechte"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:21.945053315Z",
+  "model": "glm-5.2"
+}

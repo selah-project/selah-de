@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 108,
+  "translation": "In Elohim tun wir Tüchtiges, und ⟨er⟩ ⟨ist es⟩, der unsere Bedränger niedertritt.",
+  "tokens": [
+    {
+      "surface": "בֵּֽאלֹהִ֥ים",
+      "gloss": "In Elohim"
+    },
+    {
+      "surface": "נַעֲשֶׂה",
+      "gloss": "tun wir"
+    },
+    {
+      "surface": "חָ֑יִל",
+      "gloss": "Tüchtiges"
+    },
+    {
+      "surface": "וְ֝ה֗וּא",
+      "gloss": "und ⟨er⟩"
+    },
+    {
+      "surface": "יָב֥וּס",
+      "gloss": "⟨ist es⟩, ⟨der⟩ niedertritt"
+    },
+    {
+      "surface": "צָרֵֽינוּ",
+      "gloss": "unsere Bedränger"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:11.659271881Z",
+  "model": "glm-5.2"
+}

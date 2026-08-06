@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und ⟨er⟩ sprach: „Ich selbst werde all mein Erbarmen vor deinem Angesicht vorüberziehen lassen, und ich werde im Namen JHWHs vor dir ausrufen, und ich werde ⟨את⟩ den begnadigen, den ich begnadige, und ich werde ⟨את⟩ den mich-Erbarmenden erbarren.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "werde ich vorüberziehen lassen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "mein Erbarmen"
+    },
+    {
+      "surface": "על",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "deinem Angesicht"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "und ich werde ausrufen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "im Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "und ich werde begnadigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "ich begnadige"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "und ich werde erbarren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ich erbarre"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:46.001591822Z",
+  "model": "glm-5.2"
+}

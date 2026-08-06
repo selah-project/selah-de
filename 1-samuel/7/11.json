@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und die Männer Jisraels zogen aus von der Mizpa und jagten ⟨את⟩ die Pelischtim nach und schlugen sie bis unter Bet-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "und sie zogen aus"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "der Mizpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "und sie jagten nach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Pelischtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "und sie schlugen sie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-06T02:42:28.598753430Z",
+  "model": "glm-5.2"
+}

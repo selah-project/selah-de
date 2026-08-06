@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Hat vergessen ⟨er⟩ Gunst, ⟨der⟩ El? ⟨Oder⟩ hat er verschlossen im Zorn seine Erbarmungen? Sela.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "Hat vergessen"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "Gunst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨der⟩ El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨Oder⟩"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "hat er verschlossen"
+    },
+    {
+      "surface": "באף",
+      "gloss": "im Zorn"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "seine Erbarmungen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:50.082629679Z",
+  "model": "glm-5.2"
+}

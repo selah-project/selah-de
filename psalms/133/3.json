@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 133,
+  "translation": "Wie der Tau des Chermon, der hinabfließt auf die Berge Tzijons; denn dort hat JHWH ⟨את⟩ den Segen geboten: Leben bis in Ewigkeit.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "wie der Tau"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "des Chermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "der hinabfließt"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "die Berge"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzijons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hat geboten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Segen"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "den Segen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "Leben"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "in Ewigkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:09.631240080Z",
+  "model": "glm-5.2"
+}

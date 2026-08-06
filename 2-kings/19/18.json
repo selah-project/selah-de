@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "und haben ⟨את⟩ ihre Götzen ins Feuer geworfen, denn keine Elohim sind sie, sondern das Werk von Menschenhänden, Holz und Stein, und haben sie vernichtet.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "und haben geworfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Götzen"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ihre Götzen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ins Feuer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "keine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sind sie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨nur⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "das Werk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "von Händen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Menschen"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "Holz"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "und Stein"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "und haben sie vernichtet"
+    }
+  ],
+  "timestamp": "2026-08-06T01:36:53.134743169Z",
+  "model": "glm-5.2"
+}

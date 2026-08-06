@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 58,
+  "translation": "Mögen sie zerrinnen wie Wasser, mögen sie dahinfließen! ⟨Er⟩ spanne ⟨seinen⟩ Bogen — ⟨seine⟩ Pfeile, mögen sie ⟨wie⟩ abgebrochen ⟨dahinsinken⟩!",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "Mögen sie zerrinnen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wie"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "mögen sie dahinfließen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨für sich⟩"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "⟨Er⟩ spanne"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "⟨seinen⟩ Bogen — ⟨seine⟩ Pfeile"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "⟨wie⟩"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "abgebrochen ⟨dahinsinken⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:54.385620668Z",
+  "model": "glm-5.2"
+}

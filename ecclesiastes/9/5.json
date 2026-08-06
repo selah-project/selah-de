@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Denn die Lebenden wissen, dass sie sterben werden, und die Toten ⟨wissen⟩ nichts — ihnen ⟨bleibt⟩ kein Lohn mehr, denn ihr Gedächtnis ist vergessen.",
+  "tokens": [
+    {
+      "surface": "כִּ֧י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הַֽחַיִּ֛ים",
+      "gloss": "die Lebenden"
+    },
+    {
+      "surface": "יוֹדְעִ֖ים",
+      "gloss": "wissen"
+    },
+    {
+      "surface": "שֶׁיָּמֻ֑תוּ",
+      "gloss": "dass sie sterben werden"
+    },
+    {
+      "surface": "וְהַמֵּתִ֞ים",
+      "gloss": "und die Toten"
+    },
+    {
+      "surface": "אֵינָ֧ם",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יוֹדְעִ֣ים",
+      "gloss": "wissen"
+    },
+    {
+      "surface": "מְא֗וּמָה",
+      "gloss": "irgendetwas"
+    },
+    {
+      "surface": "וְאֵֽין",
+      "gloss": "und es gibt keinen"
+    },
+    {
+      "surface": "ע֤וֹד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "לָהֶם֙",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "שָׂכָ֔ר",
+      "gloss": "Lohn"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נִשְׁכַּ֖ח",
+      "gloss": "vergessen ist"
+    },
+    {
+      "surface": "זִכְרָֽם",
+      "gloss": "ihr Gedächtnis"
+    }
+  ],
+  "timestamp": "2026-08-06T09:28:22.832889085Z",
+  "model": "glm-5.2"
+}

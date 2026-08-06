@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Erzählt unter den Völkern ⟨את⟩ seine Herrlichkeit, unter allen Völkern seine Wunder!",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "erzählt"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "unter den Völkern"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Herrlichkeit"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "seine Herrlichkeit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "unter allen"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Völkern"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "seine Wunder"
+    }
+  ],
+  "timestamp": "2026-08-05T23:50:11.213947325Z",
+  "model": "glm-5.2"
+}

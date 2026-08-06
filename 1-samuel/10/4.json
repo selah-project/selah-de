@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und sie werden dich nach deinem Wohlergehen fragen und dir zwei Brote geben, und du wirst ⟨sie⟩ aus ihrer Hand annehmen.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "und sie werden fragen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dich"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nach deinem Wohlergehen"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "und werden geben"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brote"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "und du wirst annehmen"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "aus ihrer Hand"
+    }
+  ],
+  "timestamp": "2026-08-05T21:09:32.760491798Z",
+  "model": "glm-5.2"
+}

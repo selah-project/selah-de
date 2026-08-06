@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Adonai, durch sie lebt man, und bei allem darin ⟨ist⟩ das Leben meines Geistes. Du wirst mich heilen und mich leben lassen.",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֖י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עֲלֵיהֶ֣ם",
+      "gloss": "durch sie"
+    },
+    {
+      "surface": "יִֽחְי֑וּ",
+      "gloss": "lebt man"
+    },
+    {
+      "surface": "וּלְכָל",
+      "gloss": "und bei allem"
+    },
+    {
+      "surface": "בָּהֶן֙",
+      "gloss": "darin"
+    },
+    {
+      "surface": "חַיֵּ֣י",
+      "gloss": "⟨das⟩ Leben"
+    },
+    {
+      "surface": "רוּחִ֔י",
+      "gloss": "meines Geistes"
+    },
+    {
+      "surface": "וְתַחֲלִימֵ֖נִי",
+      "gloss": "du wirst mich heilen"
+    },
+    {
+      "surface": "וְהַחֲיֵֽנִי",
+      "gloss": "und mich leben lassen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:17:50.675788490Z",
+  "model": "glm-5.2"
+}

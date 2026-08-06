@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Seht unter den Nationen und schaut hin und staunt, staunt euch wundert! Denn ein Werk wirkt ⟨er⟩ in euren Tagen — ihr würdet es nicht glauben, wenn es erzählt würde.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Seht"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "unter den Nationen"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "und schaut hin"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "und staunt"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "staunt euch wundert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ein Werk"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "wirkt"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "in euren Tagen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "ihr würdet glauben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "es erzählt würde"
+    }
+  ],
+  "timestamp": "2026-08-06T15:59:37.519776716Z",
+  "model": "glm-5.2"
+}

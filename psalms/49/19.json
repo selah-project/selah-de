@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "denn seine Nefesch segnet ⟨ihn⟩ in seinem Leben, und man preist dich, weil du dir selbst Gutes tust.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "seine Nefesch"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "in seinem Leben"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "segnet ⟨ihn⟩"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "und man preist dich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "du Gutes tust"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir selbst"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:48.852261866Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 137,
+  "translation": "Wenn ich dich vergesse, Jeruschalajim — ⟨so⟩ vergesse meine Rechte!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ich dich vergesse"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergesse"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "meine Rechte"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:30.992436778Z",
+  "model": "glm-5.2"
+}

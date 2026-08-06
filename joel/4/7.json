@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "„Siehe, ich erwecke sie aus dem Ort, wohin ihr sie verkauft habt, dorthin, und ich werde euer Tun auf euer Haupt zurückwenden.“",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "siehe, ich"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "erwecke sie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "dem Ort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wohin"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ihr verkauft habt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "und ich werde zurückwenden"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "euer Tun"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "auf euer Haupt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:32:49.845500369Z",
+  "model": "glm-5.2"
+}

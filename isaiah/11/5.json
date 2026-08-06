@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨es wird sein⟩: Zedek ⟨ist⟩ der Gurt seiner Hüften, und die Treue der Gurt seiner Lenden.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "und ⟨es wird sein⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Zedek (Gerechtigkeit)"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "der Gurt"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "seiner Hüften"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "und die Treue"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "der Gurt"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "seiner Lenden"
+    }
+  ],
+  "timestamp": "2026-08-06T03:13:26.511395536Z",
+  "model": "glm-5.2"
+}

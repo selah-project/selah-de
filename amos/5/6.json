@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Sucht ⟨את⟩ JHWH, und lebt — damit nicht wie Feuer losbricht ⟨im⟩ Haus Josef und ⟨es⟩ frisst, und niemand ⟨da ist, der⟩ löscht für Beit-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Sucht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "und lebt"
+    },
+    {
+      "surface": "פן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "losbricht"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "wie Feuer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "und ⟨es⟩ frisst"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und niemand"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "löscht"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "für Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-06T09:09:21.174771381Z",
+  "model": "glm-5.2"
+}

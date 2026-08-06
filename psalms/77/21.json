@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Du hast geleitet wie eine Herde ⟨את⟩ dein Volk, durch die Hand von Mosche und von Aharon.",
+  "tokens": [
+    {
+      "surface": "נָחִ֣יתָ",
+      "gloss": "Du hast geleitet"
+    },
+    {
+      "surface": "כַצֹּ֣אן",
+      "gloss": "wie eine Herde"
+    },
+    {
+      "surface": "עַמֶּ֑ךָ",
+      "gloss": "dein Volk"
+    },
+    {
+      "surface": "בְּֽיַד",
+      "gloss": "durch die Hand von"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "וְאַהֲרֹֽן",
+      "gloss": "und von Aharon"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:14.728814751Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "Kein Unheil wird dir widerfahren, und keine Plage sich deinem Zelt nähern.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kein"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "wird widerfahren"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "und keine Plage"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "sich nähern"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "deinem Zelt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:12.003390469Z",
+  "model": "glm-5.2"
+}

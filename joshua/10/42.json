@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ⟨את⟩ alle diese Könige und ⟨את⟩ ihr Land nahm Jehoschua ein auf einmal, denn JHWH, Elohim Jisraels, kämpfte für Jisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle diese Könige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "diese Könige"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihr Land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ihr Land"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "nahm ein"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "auf einmal"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "einmal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kämpfte"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "für Jisrael"
+    }
+  ],
+  "timestamp": "2026-08-05T20:55:06.310732693Z",
+  "model": "glm-5.2"
+}

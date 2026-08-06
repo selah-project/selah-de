@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Einmal habe ich geschworen in meiner Heiligkeit: Wenn ich Dawid belügen würde —",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "einmal"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "habe ich geschworen"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "in meiner Heiligkeit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "belügen würde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:47.016012204Z",
+  "model": "glm-5.2"
+}

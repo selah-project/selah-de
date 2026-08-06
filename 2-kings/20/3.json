@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 20:3",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Ach doch, JHWH, gedenke doch ⟨את⟩ das, wie ich vor dir gewandelt bin in Emet und mit ungeteiltem Herzen, und das Gute in deinen Augen habe ich getan. Und Chiskijahu weinte mit großem Weinen.",
+  "tokens": [
+    {
+      "surface": "אָנָּה",
+      "gloss": "Ach doch"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "זְכָר",
+      "gloss": "gedenke"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "das, wie ich vor dir gewandelt bin"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "הִתְהַלַּכְתִּי",
+      "gloss": "ich gewandelt bin"
+    },
+    {
+      "surface": "לְפָנֶיךָ",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "בֶּאֱמֶת",
+      "gloss": "in Emet"
+    },
+    {
+      "surface": "וּבְלֵבָב",
+      "gloss": "und mit Herzen"
+    },
+    {
+      "surface": "שָׁלֵם",
+      "gloss": "ungeteiltem"
+    },
+    {
+      "surface": "וְהַטּוֹב",
+      "gloss": "und das Gute"
+    },
+    {
+      "surface": "בְּעֵינֶיךָ",
+      "gloss": "in deinen Augen"
+    },
+    {
+      "surface": "עָשִׂיתִי",
+      "gloss": "habe ich getan"
+    },
+    {
+      "surface": "וַיֵּבְךְּ",
+      "gloss": "und ⟨er⟩ weinte"
+    },
+    {
+      "surface": "חִזְקִיָּהוּ",
+      "gloss": "Chiskijahu"
+    },
+    {
+      "surface": "בְּכִי",
+      "gloss": "mit Weinen"
+    },
+    {
+      "surface": "גָדוֹל",
+      "gloss": "großem"
+    }
+  ],
+  "timestamp": "2026-08-06T21:17:55.856235359Z",
+  "model": "glm-5.2"
+}

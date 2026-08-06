@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Durch das Wort JHWHs wurden ⟨die⟩ Himmel gemacht, und durch den Ruach Seines Mundes all ihr Heer.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Durch ⟨das⟩ Wort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Himmel"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "wurden gemacht"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "und durch ⟨den⟩ Ruach"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "Seines Mundes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ihr Heer"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:21.813487373Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und Fensteröffnungen, drei Reihen, und Fenster gegenüber Fenster, drei Mal.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "Und Fensteröffnungen"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drei"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "Reihen"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "und Fenster"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "Fenster"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drei"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "Mal"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:32.979125262Z",
+  "model": "glm-5.2"
+}

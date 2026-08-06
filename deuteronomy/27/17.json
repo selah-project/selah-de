@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Verflucht ⟨ist⟩, wer die Grenze seines Nächsten verrückt. Und ⟨es soll⟩ sagen das ganze Volk: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "wer verrückt"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "die Grenze"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "seines Nächsten"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und ⟨es soll⟩ sagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:29:59.593175917Z",
+  "model": "glm-5.2"
+}

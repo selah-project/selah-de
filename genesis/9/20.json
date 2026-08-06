@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Noach, ein Mann des Ackerbodens, fing an und pflanzte einen Weinberg.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Und ⟨er⟩ fing an"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "des Ackerbodens"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "und pflanzte"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "einen Weinberg"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:24.111794111Z",
+  "model": "glm-5.2"
+}

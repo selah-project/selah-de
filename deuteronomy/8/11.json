@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Hüte dich — ⟨dass⟩ du nicht JHWH, deinen Elohim, vergisst, ⟨indem⟩ du ⟨daran denkst, nicht⟩ seine Mitzwot und seine Rechtsbestimmungen und seine Ordnungen zu bewahren, die ich dir heute gebiete!",
+  "tokens": [
+    {
+      "surface": "הִשָּׁמֶר",
+      "gloss": "Hüte dich"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "du"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "— dass nicht"
+    },
+    {
+      "surface": "תִּשְׁכַּח",
+      "gloss": "vergisst"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "לְבִלְתִּי",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שָׁמֹר",
+      "gloss": "zu bewahren"
+    },
+    {
+      "surface": "מִצְוֺתָיו",
+      "gloss": "seine Mitzwot"
+    },
+    {
+      "surface": "וּמִשְׁפָּטָיו",
+      "gloss": "und seine Rechtsbestimmungen"
+    },
+    {
+      "surface": "וְחֻקֹּתָיו",
+      "gloss": "und seine Ordnungen"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מְצַוְּךָ",
+      "gloss": "dir gebiete"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "heute"
+    }
+  ],
+  "timestamp": "2026-08-06T08:27:46.038877758Z",
+  "model": "glm-5.2"
+}

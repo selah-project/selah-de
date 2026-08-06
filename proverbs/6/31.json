@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ⟨wenn⟩ er gefunden wird, erstattet er siebenfach: ⟨את⟩ den ganzen Reichtum seines Hauses gibt er.",
+  "tokens": [
+    {
+      "surface": "וְנִמְצָא",
+      "gloss": "und ⟨wenn⟩ er gefunden wird"
+    },
+    {
+      "surface": "יְשַׁלֵּם",
+      "gloss": "erstattet er"
+    },
+    {
+      "surface": "שִׁבְעָתַיִם",
+      "gloss": "siebenfach"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den ganzen Reichtum"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "הוֹן",
+      "gloss": "Reichtum"
+    },
+    {
+      "surface": "בֵּיתוֹ",
+      "gloss": "seines Hauses"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "gibt er"
+    }
+  ],
+  "timestamp": "2026-08-06T04:26:28.451962719Z",
+  "model": "glm-5.2"
+}

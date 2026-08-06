@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Elohim segnete ⟨את⟩ Noach und ⟨את⟩ seine Söhne, und er sprach zu ihnen: „Seid fruchtbar und mehrt euch und füllt ⟨את⟩ die Erde.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Und er segnete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Seid fruchtbar"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "und mehrt euch"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "und füllt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:14.103448343Z",
+  "model": "glm-5.2"
+}

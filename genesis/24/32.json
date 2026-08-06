@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Da kam der Mann ins Haus, und ⟨er⟩ sattelte die Kamele ab und gab Stroh und Futter den Kamelen und Wasser, um seine Füße zu waschen und die Füße der Männer, die bei ihm waren.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Da kam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ins Haus"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "und ⟨er⟩ sattelte … ab"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "die Kamele"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "Stroh"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "und Futter"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "den Kamelen"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "und Wasser"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "um … zu waschen"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "seine Füße"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "und die Füße"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "der Männer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bei ihm waren"
+    }
+  ],
+  "timestamp": "2026-08-06T09:41:36.700159148Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er baute ⟨את⟩ Bet-Choron, das obere, und ⟨את⟩ Bet-Choron, das untere — befestigte Städte: Mauern, Torflügel und Riegel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Und er baute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "das obere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Bet-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "das untere"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Befestigung"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "Mauern"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "Torflügel"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "und Riegel"
+    }
+  ],
+  "timestamp": "2026-08-06T16:07:48.055163065Z",
+  "model": "glm-5.2"
+}

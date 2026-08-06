@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und wasche dich und salbe dich und lege dein Gewand auf dich und geh hinab zur Tenne — lass dich dem Mann nicht erkennen, bis er fertig ist zu essen und zu trinken.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "und wasche dich"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "und salbe dich"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "und lege"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "dein Gewand"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "und geh hinab"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "zur Tenne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "lass dich erkennen"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "dem Mann"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "er fertig ist"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "zu essen"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "und zu trinken"
+    }
+  ],
+  "timestamp": "2026-08-06T07:06:55.419597751Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und es geschah, als Dawid bei ⟨את⟩ Edom war, als Joaw, der Anführer des Heeres, hinaufzog, um ⟨את⟩ die Erschlagenen zu bestatten — da schlug er jeden Mann in Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "als … war"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "bei Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "als … hinaufzog"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "שר",
+      "gloss": "der Anführer"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "des Heeres"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "um zu bestatten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erschlagenen"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "die Erschlagenen"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "da schlug er"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "in Edom"
+    }
+  ],
+  "timestamp": "2026-08-06T02:59:32.125729627Z",
+  "model": "glm-5.2"
+}

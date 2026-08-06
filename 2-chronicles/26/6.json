@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und er zog aus und kämpfte gegen die Pelischtim und brach ⟨את⟩ die Mauer von Gat und ⟨את⟩ die Mauer von Jawne und ⟨את⟩ die Mauer von Aschdod, und er baute Städte in Aschdod und bei den Pelischtim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "und er zog aus"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "und kämpfte"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "gegen die Pelischtim"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "und brach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Mauer von Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "die Mauer von"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Mauer von Jawne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "die Mauer von"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Jawne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Mauer von Aschdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "die Mauer von"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Aschdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "und er baute"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "in Aschdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "und bei den Pelischtim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:59:41.461451340Z",
+  "model": "glm-5.2"
+}

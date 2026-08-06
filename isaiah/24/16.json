@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 24:16",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Vom Rande der Erde haben wir Lieder gehört: Pracht dem Gerechten. Und ⟨ich⟩ sagte: Mein Vergehen mir, mein Vergehen mir! Wehe mir! Treulose haben treulos gehandelt, und ⟨mit⟩ Treulosigkeit haben Treulose treulos gehandelt.",
+  "tokens": [
+    {
+      "surface": "מִכְּנַ֨ף",
+      "gloss": "Vom Rande"
+    },
+    {
+      "surface": "הָאָ֜רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "זְמִרֹ֤ת",
+      "gloss": "Lieder"
+    },
+    {
+      "surface": "שָׁמַ֨עְנוּ֙",
+      "gloss": "haben wir gehört"
+    },
+    {
+      "surface": "צְבִ֣י",
+      "gloss": "Pracht"
+    },
+    {
+      "surface": "לַצַּדִּ֔יק",
+      "gloss": "dem Gerechten"
+    },
+    {
+      "surface": "וָאֹמַ֛ר",
+      "gloss": "und ⟨ich⟩ sagte"
+    },
+    {
+      "surface": "רָזִי",
+      "gloss": "mein Vergehen"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "רָזִי",
+      "gloss": "mein Vergehen"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "א֣וֹי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בֹּגְדִ֣ים",
+      "gloss": "Treulose"
+    },
+    {
+      "surface": "בָּגָ֔דוּ",
+      "gloss": "haben treulos gehandelt"
+    },
+    {
+      "surface": "וּבֶ֥גֶד",
+      "gloss": "und ⟨mit⟩ Treulosigkeit"
+    },
+    {
+      "surface": "בּוֹגְדִ֖ים",
+      "gloss": "Treulose"
+    },
+    {
+      "surface": "בָּגָֽדוּ",
+      "gloss": "haben treulos gehandelt"
+    }
+  ],
+  "timestamp": "2026-08-05T21:48:15.068903140Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich habe erkannt, JHWH, dass gerecht ⟨sind⟩ deine Rechtsentscheide, und in Treue hast du mich gebeugt.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ich habe erkannt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "gerecht"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "deine Rechtsentscheide"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "und in Treue"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "hast du mich gebeugt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:18.901420274Z",
+  "model": "glm-5.2"
+}

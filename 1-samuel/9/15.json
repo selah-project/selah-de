@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und JHWH hatte ⟨את⟩ das Ohr Schmuëls enthüllt, einen Tag bevor Schaul kam, ⟨um zu sagen⟩:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Und JHWH"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "hatte enthüllt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Ohr"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Ohr"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuëls"
+    },
+    {
+      "surface": "יום",
+      "gloss": "einen Tag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "bevor"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kam"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨um zu sagen⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T02:42:43.747162545Z",
+  "model": "glm-5.2"
+}

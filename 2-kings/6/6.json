@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und der Mann des Elohim sprach: „Wohin fiel ⟨er⟩?\" Und ⟨er⟩ zeigte ihm ⟨את⟩ die Stelle, und er schnitt ein Holz und warf ⟨es⟩ dorthin, und das Eisen schwamm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Wohin"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "fiel"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "und ⟨er⟩ zeigte ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stelle"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "die Stelle"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "und er schnitt"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ein Holz"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "und ⟨er⟩ warf"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "und es schwamm"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "das Eisen"
+    }
+  ],
+  "timestamp": "2026-08-06T22:41:33.965612214Z",
+  "model": "glm-5.2"
+}

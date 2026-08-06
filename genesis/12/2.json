@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ich werde dich zu einem großen Volk machen, und ich werde dich segnen, und ich werde deinen Namen groß machen, und ⟨werde⟩ ⟨du⟩ ⟨eine⟩ Segnung sein.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "und ich werde dich machen"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "zu einem Volk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groß"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "und ich werde dich segnen"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "und ich werde groß machen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und ⟨sei⟩"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "eine Segnung"
+    }
+  ],
+  "timestamp": "2026-08-06T20:01:39.417972904Z",
+  "model": "glm-5.2"
+}

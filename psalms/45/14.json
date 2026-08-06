@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "All ⟨ihre⟩ Herrlichkeit ⟨ist die⟩ Tochter des Königs drinnen; in Goldgewebe ⟨ist⟩ ihr Gewand.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "⟨ihre⟩ Herrlichkeit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⟨ist die⟩ Tochter"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "drinnen"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "in Goldgewebe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "⟨ist⟩ ihr Gewand"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:55.280901204Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und er richtete ⟨את⟩ das Holz zu und zerlegte ⟨את⟩ den Stier und legte ⟨ihn⟩ auf das Holz.",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעֲרֹ֖ךְ",
+      "gloss": "und er richtete zu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Holz"
+    },
+    {
+      "surface": "הָֽעֵצִ֑ים",
+      "gloss": "das Holz"
+    },
+    {
+      "surface": "וַיְנַתַּח֙",
+      "gloss": "und zerlegte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Stier"
+    },
+    {
+      "surface": "הַפָּ֔ר",
+      "gloss": "den Stier"
+    },
+    {
+      "surface": "וַיָּ֖שֶׂם",
+      "gloss": "und legte"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הָעֵצִֽים",
+      "gloss": "das Holz"
+    }
+  ],
+  "timestamp": "2026-08-06T08:46:33.328208040Z",
+  "model": "glm-5.2"
+}

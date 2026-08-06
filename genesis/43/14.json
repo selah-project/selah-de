@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 43:14",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Und El Schaddai gebe euch Erbarmen vor dem Mann, und er sende euch ⟨את⟩ euren ⟨anderen⟩ Bruder ⟨und את⟩ Binjamin. Und ich — wie ich beraubt worden bin, bin ich beraubt.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "und El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Schaddai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gebe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "Erbarmen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dem Mann"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "und er sende"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "euren ⟨anderen⟩ Bruder"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "euren Bruder"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "⟨anderen⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨und את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "ich beraubt worden bin"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "bin ich beraubt"
+    }
+  ],
+  "timestamp": "2026-08-06T00:10:30.319490711Z",
+  "model": "glm-5.2"
+}

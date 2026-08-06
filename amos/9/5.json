@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Adonai JHWH der Heerscharen ⟨ist es⟩, der die Erde berührt, dass sie schmilzt, und alle ⟨die⟩ darin Wohnen trauern, und sie steigt ganz auf wie der Nil, und sinkt wie der Nil von Mizrajim.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Und Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "der berührt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "dass sie schmilzt"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "und trauern"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "die darin Wohnen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in ihr"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "und sie steigt auf"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "wie der Nil"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "und sinkt"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "wie der Nil"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "von Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T10:26:10.226380059Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Sei nicht übermäßig böse, und sei nicht töricht — warum solltest du sterben, ⟨und das⟩ nicht zu deiner Zeit?",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּרְשַׁע",
+      "gloss": "sei böse"
+    },
+    {
+      "surface": "הַרְבֵּה",
+      "gloss": "übermäßig"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תְּהִי",
+      "gloss": "sei"
+    },
+    {
+      "surface": "סָכָל",
+      "gloss": "töricht"
+    },
+    {
+      "surface": "לָמָּה",
+      "gloss": "warum"
+    },
+    {
+      "surface": "תָמוּת",
+      "gloss": "solltest du sterben"
+    },
+    {
+      "surface": "בְּלֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עִתֶּךָ",
+      "gloss": "zu deiner Zeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:48.770832133Z",
+  "model": "glm-5.2"
+}

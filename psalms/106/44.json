@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und er sah ihre Bedrängnis — ihnen zugewandt —, als er ⟨את⟩ ihr Schreien hörte.",
+  "tokens": [
+    {
+      "surface": "וַ֭יַּרְא",
+      "gloss": "Und er sah"
+    },
+    {
+      "surface": "בַּצַּ֣ר",
+      "gloss": "Bedrängnis"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "בְּ֝שָׁמְע֗וֹ",
+      "gloss": "als er hörte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Schreien"
+    },
+    {
+      "surface": "רִנָּתָֽם",
+      "gloss": "ihr Schreien"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:00.011114939Z",
+  "model": "glm-5.2"
+}

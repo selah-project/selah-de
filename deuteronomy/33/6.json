@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Es lebe Reuwen und sterbe nicht, und ⟨seine⟩ Männer seien eine Anzahl.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "es lebe"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuwen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "sterbe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨seine … seien⟩"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "eine Anzahl"
+    }
+  ],
+  "timestamp": "2026-08-06T00:49:03.509171206Z",
+  "model": "glm-5.2"
+}

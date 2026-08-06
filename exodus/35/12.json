@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "⟨את⟩ die Lade und ⟨את⟩ ihre Stangen, ⟨את⟩ die Kapporet und ⟨את⟩ den Vorhang des Schirmes —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Stangen"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ihre Stangen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "die Kapporet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Vorhang"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "den Vorhang"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "des Schirmes"
+    }
+  ],
+  "timestamp": "2026-08-05T20:17:15.309896913Z",
+  "model": "glm-5.2"
+}

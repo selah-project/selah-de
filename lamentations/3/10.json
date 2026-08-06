@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ein Bär, der auflauert, ⟨ist⟩ er mir ⟨geworden⟩, ein Löwe in Verstecken.",
+  "tokens": [
+    {
+      "surface": "דֹּ֣ב",
+      "gloss": "Ein Bär"
+    },
+    {
+      "surface": "אֹרֵ֥ב",
+      "gloss": "der auflauert"
+    },
+    {
+      "surface": "הוּא֙",
+      "gloss": "er"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ein Löwe"
+    },
+    {
+      "surface": "בְּמִסְתָּרִֽים",
+      "gloss": "in Verstecken"
+    }
+  ],
+  "timestamp": "2026-08-06T07:08:11.284938734Z",
+  "model": "glm-5.2"
+}

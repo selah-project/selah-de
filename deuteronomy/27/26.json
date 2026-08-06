@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Verflucht ⟨ist⟩, wer nicht aufrichtet ⟨את⟩ die Worte dieser Tora, um sie zu tun, und ganz ⟨das⟩ Volk soll sagen: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Verflucht"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "aufrichtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte dieser Tora"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "dieser Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "um zu tun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und ⟨soll⟩ sagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨das⟩ Volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-06T19:31:06.925798894Z",
+  "model": "glm-5.2"
+}

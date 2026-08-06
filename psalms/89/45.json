@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Du hast seinem Glanz ein Ende gemacht und seinen Thron zur Erde gestürzt.",
+  "tokens": [
+    {
+      "surface": "הִשְׁבַּ֥תָּ",
+      "gloss": "Du hast ein Ende gemacht"
+    },
+    {
+      "surface": "מִטְּהָר֑וֹ",
+      "gloss": "seinem Glanz"
+    },
+    {
+      "surface": "וְ֝כִסְא֗וֹ",
+      "gloss": "und seinen Thron"
+    },
+    {
+      "surface": "לָאָ֥רֶץ",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "מִגַּֽרְתָּה",
+      "gloss": "gestürzt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:43.681492169Z",
+  "model": "glm-5.2"
+}

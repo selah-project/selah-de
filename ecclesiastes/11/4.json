@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Wer auf den Wind achtet, wird nicht säen, und wer auf die Wolken schaut, wird nicht ernten.",
+  "tokens": [
+    {
+      "surface": "שֹׁמֵ֥ר",
+      "gloss": "Wer achtet auf"
+    },
+    {
+      "surface": "ר֖וּחַ",
+      "gloss": "den Wind"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִזְרָ֑ע",
+      "gloss": "wird säen"
+    },
+    {
+      "surface": "וְרֹאֶ֥ה",
+      "gloss": "und wer schaut auf"
+    },
+    {
+      "surface": "בֶעָבִ֖ים",
+      "gloss": "die Wolken"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִקְצֽוֹר",
+      "gloss": "wird ernten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:04.190957044Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Dawid ergriff ⟨את⟩ die Bergfestung Zion — das ist die Stadt Dawids.",
+  "tokens": [
+    {
+      "surface": "וַיִּלְכֹּ֣ד",
+      "gloss": "Und ergriff"
+    },
+    {
+      "surface": "דָּוִ֔ד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "die Bergfestung"
+    },
+    {
+      "surface": "מְצֻדַ֣ת",
+      "gloss": "Bergfestung"
+    },
+    {
+      "surface": "צִיּ֑וֹן",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "הִ֖יא",
+      "gloss": "das ist"
+    },
+    {
+      "surface": "עִ֥יר",
+      "gloss": "Stadt"
+    },
+    {
+      "surface": "דָּוִֽד",
+      "gloss": "Dawids"
+    }
+  ],
+  "timestamp": "2026-08-05T21:17:43.563159372Z",
+  "model": "glm-5.2"
+}

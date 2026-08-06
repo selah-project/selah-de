@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Nur ⟨um⟩ seine Hoheit willen ratschlagten sie, ihn zu stürzen; sie ergötzen sich an Lüge — mit ihrem Mund segnen sie, und in ihrem Inneren fluchen sie. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "seiner Hoheit"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "ratschlagten sie"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "zu stürzen"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "sie ergötzen sich"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "an Lüge"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mit ihrem Mund"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "segnen sie"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "und in ihrem Inneren"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "fluchen sie"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:44.779357402Z",
+  "model": "glm-5.2"
+}

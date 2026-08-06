@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ein Schekkez sollen sie euch sein, von ihrem Fleisch sollt ihr nicht essen, und ⟨את⟩ ihren Kadaver sollt ihr verabscheuen.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Und ein Schekkez"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sollen sie sein"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "von ihrem Fleisch"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sollt ihr essen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Kadaver"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ihren Kadaver"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "sollt ihr verabscheuen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:25:18.128775142Z",
+  "model": "glm-5.2"
+}

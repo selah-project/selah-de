@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "„Genug für euch, ⟨dies⟩ Bergland zu umkreisen — wendet euch ⟨nach⟩ Norden!",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Genug"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "סב",
+      "gloss": "umkreisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dies Bergland"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "das Bergland"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "wendet euch"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨für euch⟩"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "⟨nach⟩ Norden"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:16.216841474Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 21:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "dann soll es geschehen: an dem Tag, an dem er ⟨את⟩ seine Söhne das erben lässt, was ihm ⟨zugehören⟩ wird, darf er ⟨nicht⟩ den Sohn der Geliebten vor dem Sohn der Gehassten, dem Erstgeborenen, zum Erstgeborenen erklären.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֗ה",
+      "gloss": "dann soll es geschehen"
+    },
+    {
+      "surface": "בְּיוֹם֙",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "הַנְחִיל֣וֹ",
+      "gloss": "an dem er erben lässt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בָּנָ֔יו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "was ihm zugehören wird"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "was"
+    },
+    {
+      "surface": "יִהְיֶ֖ה",
+      "gloss": "⟨zugehören⟩ wird"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יוּכַ֗ל",
+      "gloss": "darf er"
+    },
+    {
+      "surface": "לְבַכֵּר֙",
+      "gloss": "zum Erstgeborenen erklären"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Sohn der Geliebten"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "den Sohn"
+    },
+    {
+      "surface": "הָ֣אֲהוּבָ֔ה",
+      "gloss": "der Geliebten"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "—"
+    },
+    {
+      "surface": "בֶן",
+      "gloss": "dem Sohn"
+    },
+    {
+      "surface": "הַשְּׂנוּאָ֖ה",
+      "gloss": "der Gehassten"
+    },
+    {
+      "surface": "הַבְּכֹֽר",
+      "gloss": "dem Erstgeborenen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:46:17.374822994Z",
+  "model": "glm-5.2"
+}

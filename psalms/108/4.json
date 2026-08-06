@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 108,
+  "translation": "Ich will dich preisen unter ⟨den⟩ Völkern, JHWH, und dir spielen unter den Nationen.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ich will dich preisen"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "unter ⟨den⟩ Völkern"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "und dir spielen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "unter"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "den Nationen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:29.439730639Z",
+  "model": "glm-5.2"
+}

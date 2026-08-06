@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Wenn du ⟨die⟩ Erde bearbeitest, wird sie nicht weiter ⟨ihre⟩ Kraft dir geben; unstet und flüchtig wirst du sein auf der Erde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "du bearbeitest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "weiter"
+    },
+    {
+      "surface": "תת",
+      "gloss": "wird geben"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "ihre Kraft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "נע",
+      "gloss": "unstet"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "und flüchtig"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wirst du sein"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T19:58:10.199640661Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Wenn sein Herr ihm eine Frau gibt und sie ihm Söhne oder Töchter gebiert, dann gehören die Frau und ihre Kinder ihrem Herrn, und er soll mit seinem Körper hinausgehen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sein Herr"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "eine Frau"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "und sie gebiert"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Töchter"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "und ihre Kinder"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨sollen⟩ gehören"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "ihrem Herrn"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und er"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soll hinausgehen"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "mit seinem Körper"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:27.125065265Z",
+  "model": "glm-5.2"
+}

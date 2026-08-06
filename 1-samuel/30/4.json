@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und Dawid und das Volk, das bei ihm war, erhoben ⟨את⟩ ihre Stimme und weinten, bis dass keine Kraft in ihnen war, zu weinen.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Und … erhoben"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "und das Volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bei ihm war"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Stimme"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ihre Stimme"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "und weinten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אין",
+      "gloss": "keine"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in ihnen"
+    },
+    {
+      "surface": "כח",
+      "gloss": "Kraft"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "war zu weinen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:16:41.766169795Z",
+  "model": "glm-5.2"
+}

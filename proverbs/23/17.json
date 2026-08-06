@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Dein Herz soll nicht eifern ⟨wegen⟩ der Sünder, sondern ⟨in⟩ der Furcht JHWHs den ganzen Tag.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "soll eifern"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dein Herz"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "⟨wegen⟩ der Sünder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "⟨in⟩ der Furcht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    }
+  ],
+  "timestamp": "2026-08-06T09:22:27.623328998Z",
+  "model": "glm-5.2"
+}

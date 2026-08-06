@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "um blinde Augen zu öffnen, um den Gefangenen aus dem Kerker herauszuführen, ⟨und⟩ die im Finstern sitzen, aus dem Gefängnis.",
+  "tokens": [
+    {
+      "surface": "לִפְקֹ֖חַ",
+      "gloss": "um zu öffnen"
+    },
+    {
+      "surface": "עֵינַ֣יִם",
+      "gloss": "Augen"
+    },
+    {
+      "surface": "עִוְר֑וֹת",
+      "gloss": "blinde"
+    },
+    {
+      "surface": "לְהוֹצִ֤יא",
+      "gloss": "um herauszuführen"
+    },
+    {
+      "surface": "מִמַּסְגֵּר֙",
+      "gloss": "aus dem Kerker"
+    },
+    {
+      "surface": "אַסִּ֔יר",
+      "gloss": "den Gefangenen"
+    },
+    {
+      "surface": "מִבֵּ֥ית",
+      "gloss": "aus ⟨dem⟩ Haus"
+    },
+    {
+      "surface": "כֶּ֖לֶא",
+      "gloss": "Gefängnis"
+    },
+    {
+      "surface": "יֹשְׁבֵ֥י",
+      "gloss": "die sitzen"
+    },
+    {
+      "surface": "חֹֽשֶׁךְ",
+      "gloss": "im Finstern"
+    }
+  ],
+  "timestamp": "2026-08-06T15:11:05.918342627Z",
+  "model": "glm-5.2"
+}

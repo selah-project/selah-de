@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "Ein Lied der Stufen. Gedenke, JHWH, für Dawid, ⟨את⟩ all seine Bedrückung.",
+  "tokens": [
+    {
+      "surface": "שִׁ֗יר",
+      "gloss": "Ein Lied"
+    },
+    {
+      "surface": "הַֽמַּ֫עֲל֥וֹת",
+      "gloss": "der Stufen"
+    },
+    {
+      "surface": "זְכוֹר",
+      "gloss": "Gedenke"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לְדָוִ֑ד",
+      "gloss": "für Dawid"
+    },
+    {
+      "surface": "אֵ֝ת",
+      "gloss": "⟨את⟩",
+      "marks": "all seine Bedrückung"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עֻנּוֹתֽוֹ",
+      "gloss": "seine Bedrückung"
+    }
+  ],
+  "timestamp": "2026-08-06T15:24:41.335746339Z",
+  "model": "glm-5.2"
+}

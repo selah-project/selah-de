@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "„Ich habe ⟨את⟩ das Murren der Söhne Jisra'els gehört. Rede zu ihnen und sag: ‚Zwischen den Abendzeiten werdet ihr Fleisch essen, und am Morgen werdet ihr an Brot satt werden, und ihr werdet erkennen, dass ich JHWH, euer Elohim, bin.'“",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ich habe gehört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Murren"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "das Murren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Rede"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "Zwischen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "den Abendzeiten"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "werdet ihr essen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "und am Morgen"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "werdet ihr satt werden"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "an Brot"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "und ihr werdet erkennen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:10:19.191625476Z",
+  "model": "glm-5.2"
+}

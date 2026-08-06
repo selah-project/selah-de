@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und sie werden bekennen ⟨את⟩ ihre Schuld und ⟨את⟩ die Schuld ihrer Väter in ihrer Treulosigkeit, mit der sie an mir treulos handelten, und auch dass sie mit mir in Widerspenstigkeit gegangen sind.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "Und sie werden bekennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Schuld"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ihre Schuld"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Schuld ihrer Väter"
+    },
+    {
+      "surface": "עון",
+      "gloss": "die Schuld"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ihrer Väter"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "in ihrer Treulosigkeit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mit der"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "sie treulos handelten"
+    },
+    {
+      "surface": "בי",
+      "gloss": "an mir"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dass"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "sie gegangen sind"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit mir"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "in Widerspenstigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T20:28:48.219211362Z",
+  "model": "glm-5.2"
+}

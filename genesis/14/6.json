@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "und ⟨את⟩ die Horiter auf ihrem Bergland Seir, bis El-Paran, das am Wüstenrand liegt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Horiter"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "die Horiter"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "auf ihrem Bergland"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "על",
+      "gloss": "am"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "Wüstenrand liegt"
+    }
+  ],
+  "timestamp": "2026-08-06T05:08:05.742694723Z",
+  "model": "glm-5.2"
+}

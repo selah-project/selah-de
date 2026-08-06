@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "außer ⟨von⟩ den Männern der Ṭarim und dem Handel der Rokhelim und allen Königen des Arav und den Paschim des Landes",
+  "tokens": [
+    {
+      "surface": "לְבַד֙",
+      "gloss": "außer"
+    },
+    {
+      "surface": "מֵאַנְשֵׁ֣י",
+      "gloss": "⟨von⟩ den Männern"
+    },
+    {
+      "surface": "הַתָּרִ֔ים",
+      "gloss": "der Ṭarim"
+    },
+    {
+      "surface": "וּמִסְחַ֖ר",
+      "gloss": "und ⟨dem⟩ Handel"
+    },
+    {
+      "surface": "הָרֹכְלִ֑ים",
+      "gloss": "der Rokhelim"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und allen"
+    },
+    {
+      "surface": "מַלְכֵ֥י",
+      "gloss": "Königen"
+    },
+    {
+      "surface": "הָעֶ֖רֶב",
+      "gloss": "des Arav"
+    },
+    {
+      "surface": "וּפַח֥וֹת",
+      "gloss": "und den Paschim"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "des Landes"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:10.497380164Z",
+  "model": "glm-5.2"
+}

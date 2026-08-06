@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 146,
+  "translation": "Wie glücklich ⟨ist⟩, ⟨der⟩ Hilfe ⟨hat⟩ im Gott Jaakows, ⟨dessen⟩ Hoffnung ⟨ruht⟩ auf JHWH, seinem Elohim —",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֗י",
+      "gloss": "Wie glücklich"
+    },
+    {
+      "surface": "שֶׁ֤אֵ֣ל",
+      "gloss": "⟨der⟩ Hilfe ⟨hat⟩ im"
+    },
+    {
+      "surface": "יַעֲקֹ֣ב",
+      "gloss": "Gott Jaakows"
+    },
+    {
+      "surface": "בְּעֶזְר֑וֹ",
+      "gloss": "⟨dessen⟩ Hilfe ⟨ruht⟩ auf"
+    },
+    {
+      "surface": "שִׂ֝בְר֗וֹ",
+      "gloss": "⟨dessen⟩ Hoffnung"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהָֽיו",
+      "gloss": "seinem Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T04:25:08.025500682Z",
+  "model": "glm-5.2"
+}

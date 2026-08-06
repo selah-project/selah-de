@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 7:27",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Der König trauert, und ⟨der⟩ Fürst zieht Verwüstung an, und die Hände des Volkes ⟨der⟩ Erde ersticken. Nach ihren Wegen werde ich sie behandeln, und nach ihren Rechtsbräuchen werde ich ⟨את⟩ sie richten — und sie werden erkennen, dass ich JHWH ⟨bin⟩.",
+  "tokens": [
+    {
+      "surface": "המלך",
+      "gloss": "Der König"
+    },
+    {
+      "surface": "יתאבל",
+      "gloss": "trauert"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "und ⟨der⟩ Fürst"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "zieht … an"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "Verwüstung"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "und die Hände"
+    },
+    {
+      "surface": "עם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨der⟩ Erde"
+    },
+    {
+      "surface": "תבהלנה",
+      "gloss": "ersticken"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "Nach ihren Wegen"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "werde ich sie behandeln"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "ובמשפטיהם",
+      "gloss": "und nach ihren Rechtsbräuchen"
+    },
+    {
+      "surface": "אשפטם",
+      "gloss": "werde ich richten"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "und sie werden erkennen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T22:17:22.862842422Z",
+  "model": "glm-5.2"
+}

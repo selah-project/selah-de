@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 144,
+  "translation": "Wohl dem Volk, dem so ⟨ist⟩! Wohl dem Volk, dessen Elohim JHWH ⟨ist⟩!",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֣י",
+      "gloss": "Wohl"
+    },
+    {
+      "surface": "הָ֭עָם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "שֶׁכָּ֣כָה",
+      "gloss": "dem so"
+    },
+    {
+      "surface": "לּ֑וֹ",
+      "gloss": "⟨ist⟩"
+    },
+    {
+      "surface": "אַֽשְׁרֵ֥י",
+      "gloss": "Wohl"
+    },
+    {
+      "surface": "הָ֝עָ֗ם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "שֶׁיֲהוָ֥ה",
+      "gloss": "dessen … JHWH"
+    },
+    {
+      "surface": "אֱלֹהָֽיו",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:56.759303694Z",
+  "model": "glm-5.2"
+}

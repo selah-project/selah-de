@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 21:5",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Im Alter von zweiunddreißig Jahren war Jehoram, als er ⟨die⟩ Königswürde erlangte, und acht Jahre regierte er in Jerusalem.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Im Alter von"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dreißig"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "und zwei"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "war Jehoram"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "als er ⟨die⟩ Königswürde erlangte"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "und acht"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regierte er"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusalem"
+    }
+  ],
+  "timestamp": "2026-08-06T10:47:30.158351200Z",
+  "model": "glm-5.2"
+}

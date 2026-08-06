@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "⟨Er⟩ liebt Zedaka und Mischpat; ⟨von⟩ dem Chessed JHWHs ⟨ist⟩ die Erde voll.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "⟨Er⟩ liebt"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "Zedaka"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "und Mischpat"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "voll"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:21.813310136Z",
+  "model": "glm-5.2"
+}

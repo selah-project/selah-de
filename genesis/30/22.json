@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und Elohim gedachte ⟨את⟩ Rachel, und Elohim erhörte sie, und er öffnete ⟨את⟩ ihren Mutterschoß.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Und gedachte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "und erhörte"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "und öffnete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Mutterschoß"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ihren Mutterschoß"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:36.765818929Z",
+  "model": "glm-5.2"
+}

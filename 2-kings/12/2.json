@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 12:2",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Ein Sohn von sieben Jahren ⟨war⟩ Jehoash bei seinem Königtum.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "von sieben"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "bei seinem Königtum"
+    }
+  ],
+  "timestamp": "2026-08-05T21:36:58.319069780Z",
+  "model": "glm-5.2"
+}

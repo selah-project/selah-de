@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Dem Chorleiter. Ein Mismor von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "dem Chorleiter"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ein Mismor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:47.875099448Z",
+  "model": "glm-5.2"
+}

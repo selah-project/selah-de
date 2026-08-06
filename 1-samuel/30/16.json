@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 30:16",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und ⟨er⟩ führte ihn hinab, und siehe, ⟨sie waren⟩ hingebreitet über das Gesicht der ganzen Erde, essend und trinkend und feiernd, wegen der ganzen großen Beute, die sie genommen hatten aus dem Land der Pelischtim und aus dem Land Jehuda.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣רִדֵ֔הוּ",
+      "gloss": "und ⟨er⟩ führte ihn hinab"
+    },
+    {
+      "surface": "וְהִנֵּ֥ה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "נְטֻשִׁ֖ים",
+      "gloss": "hingebreitet"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "das Gesicht"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "אֹכְלִ֤ים",
+      "gloss": "essend"
+    },
+    {
+      "surface": "וְשֹׁתִים֙",
+      "gloss": "und trinkend"
+    },
+    {
+      "surface": "וְחֹ֣גְגִ֔ים",
+      "gloss": "und feiernd"
+    },
+    {
+      "surface": "בְּכֹל֙",
+      "gloss": "wegen der ganzen"
+    },
+    {
+      "surface": "הַשָּׁלָ֣ל",
+      "gloss": "Beute"
+    },
+    {
+      "surface": "הַגָּד֔וֹל",
+      "gloss": "großen"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לָקְח֛וּ",
+      "gloss": "sie genommen hatten"
+    },
+    {
+      "surface": "מֵאֶ֥רֶץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "פְּלִשְׁתִּ֖ים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "וּמֵאֶ֥רֶץ",
+      "gloss": "und aus dem Land"
+    },
+    {
+      "surface": "יְהוּדָֽה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-08-06T22:38:23.361999600Z",
+  "model": "glm-5.2"
+}

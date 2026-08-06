@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 26:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und ich werde ⟨את⟩ deinen Samen mehren wie die Sterne des Himmels, und ich werde deinem Samen ⟨את⟩ all diese Länder geben, und es werden sich segnen in deinem Samen alle Völker der Erde.",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "und ich werde mehren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Samen"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "deinen Samen"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "wie die Sterne"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "und ich werde geben"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "deinem Samen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all diese Länder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "diese Länder"
+    },
+    {
+      "surface": "האל",
+      "gloss": "(hier: Endung von הארצת)"
+    },
+    {
+      "surface": "והתברכו",
+      "gloss": "und es werden sich segnen"
+    },
+    {
+      "surface": "בזרעך",
+      "gloss": "in deinem Samen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T17:35:41.740930335Z",
+  "model": "glm-5.2"
+}

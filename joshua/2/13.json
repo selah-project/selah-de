@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "und ⟨du⟩ sollst am Leben lassen ⟨את⟩ meinen Vater und ⟨את⟩ meine Mutter und ⟨את⟩ meine Brüder und ⟨את⟩ meine Schwestern und ⟨את⟩ alle, die ihnen gehören, und ihr sollt ⟨את⟩ unsere Nefesch vom Tod erretten.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "und ⟨du⟩ sollst am Leben lassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Vater"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meinen Vater"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "meine Mutter"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "meine Mutter"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "meine Brüder"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "meine Brüder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "meine Schwestern"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "meine Schwestern"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen gehören"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "und ihr sollst erretten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unsere Nefesch"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "unsere Nefesch"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "vom Tod"
+    }
+  ],
+  "timestamp": "2026-08-05T20:53:31.546217553Z",
+  "model": "glm-5.2"
+}

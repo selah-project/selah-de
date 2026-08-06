@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Sie blickten zu ihm und strahlten, und ihre Gesichter werden nicht beschämt ⟨werden⟩.",
+  "tokens": [
+    {
+      "surface": "הִבִּ֣יטוּ",
+      "gloss": "Sie blickten"
+    },
+    {
+      "surface": "אֵלָ֣יו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "וְנָהָ֑רוּ",
+      "gloss": "und strahlten"
+    },
+    {
+      "surface": "וּ֝פְנֵיהֶ֗ם",
+      "gloss": "und ihre Gesichter"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יֶחְפָּֽרוּ",
+      "gloss": "werden beschämt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:17.499412573Z",
+  "model": "glm-5.2"
+}

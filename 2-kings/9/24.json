@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Jehu füllte seine Hand mit dem Bogen und schlug ⟨את⟩ Jehoram zwischen seine Arme, und der Pfeil ging aus seinem Herzen, und er sank nieder in seinem Wagen.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Und Jehu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "füllte"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "mit dem Bogen"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "und schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "seine Arme"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "und ging aus"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "der Pfeil"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "aus seinem Herzen"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "und er sank nieder"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "in seinem Wagen"
+    }
+  ],
+  "timestamp": "2026-08-06T21:17:32.010395887Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und die Beamten des Paro sahen sie und priesen sie ⟨lobend⟩ vor Paro, und ⟨man⟩ brachte die Frau ⟨in⟩ das Haus des Paro.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "und sahen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "die Beamten"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "des Paro"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "und priesen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "und ⟨man⟩ brachte"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨in⟩ das Haus"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "des Paro"
+    }
+  ],
+  "timestamp": "2026-08-06T00:04:38.601128095Z",
+  "model": "glm-5.2"
+}

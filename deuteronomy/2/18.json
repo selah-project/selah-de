@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Du ziehst heute ⟨durch⟩ ⟨את⟩ die Grenze von Moaw, ⟨bei⟩ ⟨את⟩ Ar:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ziehst ⟨durch⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Grenze"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "die Grenze"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "von Moaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:10.854807032Z",
+  "model": "glm-5.2"
+}

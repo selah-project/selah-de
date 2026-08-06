@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 81,
+  "translation": "Ich bin JHWH, dein Elohim, der dich heraufgeführt hat aus dem Land Mizrajim. Weite deinen Mund, und ich will ihn füllen.",
+  "tokens": [
+    {
+      "surface": "אָנֹכִ֨י",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יְהֹוָ֗ה",
+      "gloss": "bin JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֗יךָ",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "הַֽ֭מַּעַלְךָ",
+      "gloss": "der dich heraufgeführt hat"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "הַרְחֶב",
+      "gloss": "Weite"
+    },
+    {
+      "surface": "פִּ֝֗יךָ",
+      "gloss": "deinen Mund"
+    },
+    {
+      "surface": "וַאֲמַלְאֵֽהוּ",
+      "gloss": "und ich will ihn füllen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:17:46.564488084Z",
+  "model": "glm-5.2"
+}

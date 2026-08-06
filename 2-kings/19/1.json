@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und es geschah, als der König Chiskijahu ⟨es⟩ hörte, da zerriss er ⟨את⟩ seine Kleider und hüllte sich in Sacktuch und ging in das Haus JHWHs.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "als … hörte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chiskijahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "da zerriss er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Kleider"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "und hüllte sich"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "in Sacktuch"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und ging"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in das Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T20:31:38.696545710Z",
+  "model": "glm-5.2"
+}

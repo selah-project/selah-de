@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Und sie gaben in meine Speise Galle, und für meinen Durst tränkten sie mich mit Essig.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Und sie gaben"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "in meine Speise"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Galle"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "und für meinen Durst"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "tränkten sie mich"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "mit Essig"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:17.911354927Z",
+  "model": "glm-5.2"
+}

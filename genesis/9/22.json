@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Cham, der Vater Kenaans, sah ⟨את⟩ die Blöße seines Vaters und berichtete es seinen zwei Brüdern draußen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Vater"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaans"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Blöße"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "die Blöße"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "und berichtete"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "seinen zwei"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "Brüdern"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "draußen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:33.403554697Z",
+  "model": "glm-5.2"
+}

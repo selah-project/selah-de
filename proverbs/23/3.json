@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Sehne dich nicht nach seinen Leckerbissen, denn ⟨es⟩ ⟨ist⟩ Brot der Lüge.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּתְאָו",
+      "gloss": "sehne dich"
+    },
+    {
+      "surface": "לְמַטְעַמּוֹתָיו",
+      "gloss": "nach seinen Leckerbissen"
+    },
+    {
+      "surface": "וְהוּא",
+      "gloss": "denn ⟨es⟩ ⟨ist⟩"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "כְּזָבִים",
+      "gloss": "der Lüge"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:23.186771538Z",
+  "model": "glm-5.2"
+}

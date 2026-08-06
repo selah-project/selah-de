@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und das Volk ruhte am siebten Tag.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "Und ruhte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "dem siebten"
+    }
+  ],
+  "timestamp": "2026-08-06T22:32:33.049225781Z",
+  "model": "glm-5.2"
+}

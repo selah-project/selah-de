@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Wird ⟨denn⟩ für ewig verstoßen Adonai, und wird er nie wieder Gefallen finden?",
+  "tokens": [
+    {
+      "surface": "הַֽ֭לְעוֹלָמִים",
+      "gloss": "Wird ⟨denn⟩ für ewig"
+    },
+    {
+      "surface": "יִזְנַ֥ח",
+      "gloss": "verstoßen"
+    },
+    {
+      "surface": "אֲדֹנָ֑י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יֹסִ֖יף",
+      "gloss": "wird er … hinzufügen"
+    },
+    {
+      "surface": "לִרְצ֣וֹת",
+      "gloss": "Gefallen finden"
+    },
+    {
+      "surface": "עֽוֹד",
+      "gloss": "nie wieder"
+    }
+  ],
+  "timestamp": "2026-08-06T19:52:03.842532445Z",
+  "model": "glm-5.2"
+}

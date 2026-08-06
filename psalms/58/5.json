@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 58,
+  "translation": "Ihre Giftigkeit ⟨ist⟩ wie die Giftigkeit einer Schlange, wie eine taube Viper, die ihr Ohr verschließt.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "Giftigkeit"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ihre"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "wie"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Giftigkeit"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "einer Schlange"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wie"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "eine Viper"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "taube"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "die verschließt"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ihr Ohr"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:54.385130999Z",
+  "model": "glm-5.2"
+}

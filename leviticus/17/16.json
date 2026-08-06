@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und wenn er sie nicht wäscht und sein Fleisch nicht badet, dann trägt er seine Schuld.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "er wäscht"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "sein Fleisch"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "badet"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "trägt"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "seine Schuld"
+    }
+  ],
+  "timestamp": "2026-08-05T20:24:59.373062511Z",
+  "model": "glm-5.2"
+}

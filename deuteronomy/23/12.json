@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und es soll geschehen: Beim Herannahen des Abends soll er sich im Wasser waschen, und beim Untergehen der Sonne soll er ⟨in⟩ die Mitte des Lagers kommen.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Und es soll geschehen"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "Beim Herannahen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "des Abends"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "soll er waschen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "und beim Untergehen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "soll er kommen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "die Mitte"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "des Lagers"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:42.382751254Z",
+  "model": "glm-5.2"
+}

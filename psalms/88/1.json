@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Ein Lied, ein Psalm der Söhne Korachs, dem Chorleiter, auf Machalat, zum Antworten, eine Unterweisung für Heiman, den Esrachiter.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ein Lied"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ein Psalm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachs"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "dem Chorleiter"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "zum Antworten"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "eine Unterweisung"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "für Heiman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "den Esrachiter"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:24.934088848Z",
+  "model": "glm-5.2"
+}

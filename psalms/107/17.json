@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Toren ⟨wegen⟩ ihres Abfalls Weges, und wegen ihrer Schuld quälen sie sich selbst.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Toren"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "wegen des Weges"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ihres Abfalls"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "und wegen ihrer Schuld"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "quälen sie sich"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:54.342973952Z",
+  "model": "glm-5.2"
+}

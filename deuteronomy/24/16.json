@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Väter sollen nicht sterben für ⟨wegen⟩ Söhne, und Söhne sollen nicht sterben für ⟨wegen⟩ Väter; jeder Mann soll in seiner Schuld sterben.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יוּמְתוּ",
+      "gloss": "sollen sterben"
+    },
+    {
+      "surface": "אָבוֹת",
+      "gloss": "Väter"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "für ⟨wegen⟩"
+    },
+    {
+      "surface": "בָּנִים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "וּבָנִים",
+      "gloss": "und Söhne"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יוּמְתוּ",
+      "gloss": "sollen sterben"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "für ⟨wegen⟩"
+    },
+    {
+      "surface": "אָבוֹת",
+      "gloss": "Väter"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "jeder Mann"
+    },
+    {
+      "surface": "בְּחֶטְאוֹ",
+      "gloss": "in seiner Schuld"
+    },
+    {
+      "surface": "יוּמָתוּ",
+      "gloss": "soll sterben"
+    }
+  ],
+  "timestamp": "2026-08-06T00:46:55.016378779Z",
+  "model": "glm-5.2"
+}

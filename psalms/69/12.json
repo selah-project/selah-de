@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Und ⟨ich⟩ gab mein Gewand ⟨als⟩ Sack, und ⟨ich⟩ wurde ihnen zum Sprichwort.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Und ich gab"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "mein Gewand"
+    },
+    {
+      "surface": "שק",
+      "gloss": "Sack"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "und ich wurde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "zum Sprichwort"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:17.886859874Z",
+  "model": "glm-5.2"
+}

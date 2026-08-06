@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "JHWH hat sich kundgetan, ⟨er hat⟩ Recht getan; im Werk seiner Hände bleibt der Rschiedene gefangen. Higgajon. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "hat sich kundgetan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Recht"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨er hat⟩ getan"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "im Werk"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "seiner Hände"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "bleibt gefangen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "der Rschiedene"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgajon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:34.047551353Z",
+  "model": "glm-5.2"
+}

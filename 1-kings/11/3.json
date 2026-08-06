@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und es geschah ihm ⟨so⟩: Frauen von Fürstenrang siebenhundert, und Pilegeschim dreihundert; und seine Frauen wandten ⟨את⟩ sein Herz ab.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "Frauen"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "von Fürstenrang"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "und Pilegeschim"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "und wandten ab"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "seine Frauen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Herz"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sein Herz"
+    }
+  ],
+  "timestamp": "2026-08-05T21:29:33.027683434Z",
+  "model": "glm-5.2"
+}

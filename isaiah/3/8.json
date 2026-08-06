@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Denn gestrauchelt ist Jeruschalajim, und Jehuda ist gefallen — denn ihre Zunge und ihre Taten ⟨sind⟩ gegen JHWH, zum Empören der Augen seiner Herrlichkeit.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כָשְׁלָה",
+      "gloss": "gestrauchelt ist"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֔ם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "וִיהוּדָה",
+      "gloss": "und Jehuda"
+    },
+    {
+      "surface": "נָפָל",
+      "gloss": "ist gefallen"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לְשׁוֹנָם",
+      "gloss": "ihre Zunge"
+    },
+    {
+      "surface": "וּמַעַלְלֵיהֶם",
+      "gloss": "und ihre Taten"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לַמְרוֹת",
+      "gloss": "zum Empören"
+    },
+    {
+      "surface": "עֵינֵי",
+      "gloss": "der Augen"
+    },
+    {
+      "surface": "כְּבוֹדוֹ",
+      "gloss": "seiner Herrlichkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T03:09:41.818916211Z",
+  "model": "glm-5.2"
+}

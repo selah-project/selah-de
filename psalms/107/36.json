@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Und ⟨er⟩ lässt dort Hungrige wohnen, und sie gründen eine Stadt ⟨zum⟩ Wohnsitz.",
+  "tokens": [
+    {
+      "surface": "וַיּ֣וֹשֶׁב",
+      "gloss": "und ⟨er⟩ lässt wohnen"
+    },
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "רְעֵבִ֑ים",
+      "gloss": "Hungrige"
+    },
+    {
+      "surface": "וַ֝יְכוֹנְנ֗וּ",
+      "gloss": "und sie gründen"
+    },
+    {
+      "surface": "עִ֣יר",
+      "gloss": "eine Stadt"
+    },
+    {
+      "surface": "מוֹשָֽׁב",
+      "gloss": "⟨zum⟩ Wohnsitz"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:22.619601949Z",
+  "model": "glm-5.2"
+}

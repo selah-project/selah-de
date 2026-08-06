@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Eine Frau, die Hurerei treibt, und eine Entweihte sollen sie nicht nehmen, und eine von ihrem Mann Verstoßene sollen sie nicht nehmen, denn ⟨er⟩ ⟨ist⟩ heilig ⟨für⟩ seinen Elohim.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "Eine Frau"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "die Hurerei treibt"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "und eine Entweihte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "sollen sie nehmen"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "und eine"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "Verstoßene"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "von ihrem Mann"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "sollen sie nehmen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "⟨für⟩ seinen Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T02:12:32.401092047Z",
+  "model": "glm-5.2"
+}

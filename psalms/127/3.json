@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 127,
+  "translation": "Siehe, ein Erbteil von JHWH ⟨sind⟩ Söhne, ein Lohn die Frucht des Leibes.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ein Erbteil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ein Lohn"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "Frucht"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "des Leibes"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:36.247397307Z",
+  "model": "glm-5.2"
+}

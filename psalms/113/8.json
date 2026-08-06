@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 113,
+  "translation": "um ⟨ihn⟩ sitzen zu lassen mit Edlen, mit den Edlen seines Volkes.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "um ⟨ihn⟩ sitzen zu lassen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "Edlen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "den Edlen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "seines Volkes"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:27.575586701Z",
+  "model": "glm-5.2"
+}

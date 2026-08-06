@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Ein Fremder ⟨bin⟩ ich geworden für meine Brüder und ein Fremdling für die Söhne meiner Mutter.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "Ein Fremder"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bin ich geworden"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "für meine Brüder"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "und ein Fremdling"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "für die Söhne"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "meiner Mutter"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:17.886450123Z",
+  "model": "glm-5.2"
+}

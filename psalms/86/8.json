@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 86,
+  "translation": "Keiner ist wie du unter den Elohim, Adonai, und nichts gleicht deinen Werken.",
+  "tokens": [
+    {
+      "surface": "אֵין",
+      "gloss": "Keiner ist"
+    },
+    {
+      "surface": "כָּמ֛וֹךָ",
+      "gloss": "wie du"
+    },
+    {
+      "surface": "בָּאֱלֹהִ֖ים",
+      "gloss": "unter den Elohim"
+    },
+    {
+      "surface": "אֲדֹנָ֗י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "und nichts gleicht"
+    },
+    {
+      "surface": "כְּמַעֲשֶֽׂיךָ",
+      "gloss": "deinen Werken"
+    }
+  ],
+  "timestamp": "2026-08-05T22:56:52.326700743Z",
+  "model": "glm-5.2"
+}

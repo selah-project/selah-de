@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 4:16",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Da war Daniel, dessen Name Belteschazzar ⟨ist⟩, eine Stunde lang erstarrt, und seine Gedanken erschreckten ihn. Der König antwortete und sprach: „Belteschazzar, der Traum und die Deutung sollen dich nicht erschrecken!‟ Belteschazzar antwortete und sprach: „Mein Herr, der Traum ⟨gelte⟩ denen, die dich hassen, und seine Deutung deinen Feinden!‟",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Da"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "די",
+      "gloss": "dessen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Name"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Belteschazzar"
+    },
+    {
+      "surface": "אשתומם",
+      "gloss": "war erstarrt"
+    },
+    {
+      "surface": "כשעה",
+      "gloss": "eine Stunde lang"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "eine"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "und seine Gedanken"
+    },
+    {
+      "surface": "יבהלנה",
+      "gloss": "erschreckten ihn"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "antwortete"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "der König"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Belteschazzar"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "der Traum"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "und die Deutung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יבהלך",
+      "gloss": "sollen dich erschrecken"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "antwortete"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Belteschazzar"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "Mein Herr"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "der Traum"
+    },
+    {
+      "surface": "לשנאיך",
+      "gloss": "denen, die dich hassen"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "und seine Deutung"
+    },
+    {
+      "surface": "לעריך",
+      "gloss": "deinen Feinden"
+    }
+  ],
+  "timestamp": "2026-08-06T07:12:46.154878635Z",
+  "model": "glm-5.2"
+}

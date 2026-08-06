@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 87,
+  "translation": "JHWH wird zählen, ⟨wenn⟩ er die Völker verzeichnet: „Dieser wurde dort geboren",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "wird zählen"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "im Verzeichnen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wurde geboren"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:07.700066833Z",
+  "model": "glm-5.2"
+}

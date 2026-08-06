@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Ich sah ⟨את⟩ alle Werke, die getan werden unter der Sonne, und siehe, das Ganze ⟨ist⟩ Hauch und ein Haschen nach Wind.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ich sah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Werke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "Werke"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "die getan werden"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "das Ganze"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hauch"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "und ein Haschen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nach Wind"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:46.618858467Z",
+  "model": "glm-5.2"
+}

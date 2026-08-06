@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Du ⟨bist⟩ nahe, JHWH, und all deine Mitzwot ⟨sind⟩ Emet.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nahe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "deine Mitzwot"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Emet"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:44.720491495Z",
+  "model": "glm-5.2"
+}

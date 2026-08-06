@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Und Paro sprach zu Josef, ⟨und sagte⟩: „Dein Vater und deine Brüder sind zu dir gekommen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und sagte⟩"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "dein Vater"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "und deine Brüder"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sind gekommen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    }
+  ],
+  "timestamp": "2026-08-05T20:03:57.132627768Z",
+  "model": "glm-5.2"
+}

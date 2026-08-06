@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 30:8",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und sie werden erkennen, dass ich JHWH bin, wenn ich Feuer in Mizrajim lege, und alle ihre Helfer zerschmettert werden.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Und sie werden erkennen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "wenn ich lege"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mizrajim"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "und zerschmettert werden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ihre Helfer"
+    }
+  ],
+  "timestamp": "2026-08-06T10:22:26.111439291Z",
+  "model": "glm-5.2"
+}

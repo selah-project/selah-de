@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Denn wer im Schahaq kann JHWH verglichen werden, wer ist JHWH gleich unter den Söhnen der Mächtigen?",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "בַּשַּׁחַק",
+      "gloss": "im Schahaq"
+    },
+    {
+      "surface": "יַעֲרֹךְ",
+      "gloss": "kann verglichen werden"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יִדְמֶה",
+      "gloss": "ist gleich"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בִּבְנֵי",
+      "gloss": "unter den Söhnen"
+    },
+    {
+      "surface": "אֵלִים",
+      "gloss": "der Mächtigen"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:53.478070729Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Ich werde dich einsichtig machen und dich unterweisen auf dem Weg, ⟨den⟩ du gehen sollst. Ich werde dich beraten, ⟨mit⟩ mein Auge ⟨auf⟩ dir ⟨ruhend⟩.",
+  "tokens": [
+    {
+      "surface": "אַשְׂכִּילְךָ",
+      "gloss": "Ich werde dich einsichtig machen"
+    },
+    {
+      "surface": "וְאוֹרְךָ",
+      "gloss": "und dich unterweisen"
+    },
+    {
+      "surface": "בְּדֶרֶךְ",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "זוּ",
+      "gloss": "⟨den⟩"
+    },
+    {
+      "surface": "תֵלֵךְ",
+      "gloss": "du gehen sollst"
+    },
+    {
+      "surface": "אִיעֲצָה",
+      "gloss": "Ich werde dich beraten"
+    },
+    {
+      "surface": "עָלֶיךָ",
+      "gloss": "⟨auf⟩ dir ⟨ruhend⟩"
+    },
+    {
+      "surface": "עֵינִי",
+      "gloss": "mein Auge"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:14.485752473Z",
+  "model": "glm-5.2"
+}

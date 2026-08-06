@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und das Herz Paros wurde stark, und ⟨er⟩ schickte ⟨את⟩ die Söhne Jisraels nicht fort, wie JHWH durch die Hand Mosches gesprochen hatte.",
+  "tokens": [
+    {
+      "surface": "וַֽיֶּחֱזַק֙",
+      "gloss": "Und … wurde stark"
+    },
+    {
+      "surface": "לֵ֣ב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "פַּרְעֹ֔ה",
+      "gloss": "Paros"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "שִׁלַּ֖ח",
+      "gloss": "schickte … fort"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "gesprochen hatte"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "durch die Hand"
+    },
+    {
+      "surface": "מֹשֶֽׁה",
+      "gloss": "Mosches"
+    }
+  ],
+  "timestamp": "2026-08-06T05:14:13.124668336Z",
+  "model": "glm-5.2"
+}

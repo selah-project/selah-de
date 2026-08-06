@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "und ⟨את⟩ die Töpfe und ⟨את⟩ die Schaufeln und ⟨את⟩ die Sprengschalen und ⟨את⟩ all ⟨die⟩ Geräte ⟨— diejenigen, die⟩ der Zelt-⟨bereich⟩, die der Meisterhiram für den König Schelomo ⟨für⟩ das Haus JHWHs ⟨machte⟩: poliertes Kupfer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Töpfe"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "die Töpfe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Schaufeln"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "die Schaufeln"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Sprengschalen"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "die Sprengschalen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all ⟨die⟩ Geräte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "⟨die⟩ Geräte"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "der Zelt-⟨bereich⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨die⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨machte⟩"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "der Meisterhiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "für den König"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "Kupfer"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "poliertes"
+    }
+  ],
+  "timestamp": "2026-08-06T01:24:10.541379678Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Micajahu aber sprach: „So wahr JHWH lebt — ⟨את⟩ was JHWH mir sagen wird, das werde ich sprechen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Micajahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "So wahr … lebt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "was JHWH mir sagen wird"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sagen wird"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "das",
+      "marks": "werde ich sprechen"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "werde ich sprechen"
+    }
+  ],
+  "timestamp": "2026-08-06T08:46:43.128235598Z",
+  "model": "glm-5.2"
+}

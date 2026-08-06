@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Denn ⟨die⟩ Männer des Landes, die vor euch waren, haben ⟨את⟩ alle diese Gräueltaten getan, und das Land wurde unrein.",
+  "tokens": [
+    {
+      "surface": "כִּ֚י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "alle diese Gräueltaten"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הַתּוֹעֵבֹ֣ת",
+      "gloss": "Gräueltaten"
+    },
+    {
+      "surface": "הָאֵ֔ל",
+      "gloss": "diese"
+    },
+    {
+      "surface": "עָשׂ֥וּ",
+      "gloss": "haben getan"
+    },
+    {
+      "surface": "אַנְשֵֽׁי",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לִפְנֵיכֶ֑ם",
+      "gloss": "vor euch waren"
+    },
+    {
+      "surface": "וַתִּטְמָ֖א",
+      "gloss": "und ⟨es⟩ wurde unrein"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "das Land"
+    }
+  ],
+  "timestamp": "2026-08-06T00:28:06.488174309Z",
+  "model": "glm-5.2"
+}

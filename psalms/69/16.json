@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Kein Wildbach von Wasser soll mich fortreißen, und die Tiefe soll mich nicht verschlingen, und die Grube soll nicht über mir ihren Mund verschließen!",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תִּשְׁטְפֵנִי",
+      "gloss": "soll mich fortreißen"
+    },
+    {
+      "surface": "שִׁבֹּלֶת",
+      "gloss": "Wildbach"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "von Wasser"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תִּבְלָעֵנִי",
+      "gloss": "soll verschlingen"
+    },
+    {
+      "surface": "מְצוּלָה",
+      "gloss": "die Tiefe"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תֶּאְטַר",
+      "gloss": "soll verschließen"
+    },
+    {
+      "surface": "עָלַי",
+      "gloss": "über mir"
+    },
+    {
+      "surface": "בְּאֵר",
+      "gloss": "die Grube"
+    },
+    {
+      "surface": "פִּיהָ",
+      "gloss": "ihren Mund"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:30.370467909Z",
+  "model": "glm-5.2"
+}

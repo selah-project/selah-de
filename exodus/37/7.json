@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und er machte zwei Keruwim aus Gold, aus getriebener Arbeit machte er ⟨את⟩ sie, von den beiden Enden der Kapporet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "und er machte"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "Keruwim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aus Gold"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "aus getriebener Arbeit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "machte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie (die Keruwim)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "von den beiden"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "Enden"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "der Kapporet"
+    }
+  ],
+  "timestamp": "2026-08-06T02:07:43.442798831Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Hat ⟨er⟩ ihn geschlagen wie ⟨die⟩ Schläge ⟨seines⟩ Schlagenden ⟨ihn⟩? Ist ⟨er⟩ erschlagen worden wie ⟨die⟩ Erschlagung seiner Erschlagenen ⟨wurde⟩?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "wie die Schläge"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "seines Schlagenden ⟨ihn⟩"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "hat ⟨er⟩ ihn geschlagen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ist"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "wie die Erschlagung"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "seiner Erschlagenen"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "erschlagen worden"
+    }
+  ],
+  "timestamp": "2026-08-06T05:59:23.606213229Z",
+  "model": "glm-5.2"
+}

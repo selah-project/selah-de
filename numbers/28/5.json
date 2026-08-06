@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 28:5",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "und ein Zehntel ⟨der⟩ Efa Feinmehl als Mincha, gemischt mit Öl aus gestoßenen ⟨Oliven⟩, ein Viertel ⟨des⟩ Hin.",
+  "tokens": [
+    {
+      "surface": "ועשירית",
+      "gloss": "und ein Zehntel"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "der Efa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "Feinmehl"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "als Mincha"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "gemischt"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mit Öl"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "aus gestoßenen"
+    },
+    {
+      "surface": "רביעת",
+      "gloss": "ein Viertel"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "des Hin"
+    }
+  ],
+  "timestamp": "2026-08-06T00:38:52.920570638Z",
+  "model": "glm-5.2"
+}

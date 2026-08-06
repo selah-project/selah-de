@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "JHWH, ⟨lass⟩ mich nicht schämen, denn ich habe dich angerufen; ⟨lass⟩ die Frevler sich schämen, ⟨lass⟩ sie verstummen zum Scheol!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "⟨lass⟩ mich schämen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ich habe dich angerufen"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "⟨lass⟩ sich schämen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die Frevler"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "⟨lass⟩ sie verstummen"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "zum Scheol"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:47.959818191Z",
+  "model": "glm-5.2"
+}

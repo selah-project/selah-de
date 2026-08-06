@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Denn ihr Besitz war zu groß, als dass sie zusammen wohnen konnten, und das Land ihrer Aufenthalte konnte sie ⟨nicht⟩ tragen, wegen ihres Viehs.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "היה",
+      "gloss": "war"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ihr Besitz"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zu groß"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "als dass sie wohnen konnten"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "konnte"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "ihrer Aufenthalte"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "tragen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ihres Viehs"
+    }
+  ],
+  "timestamp": "2026-08-05T20:01:55.447973167Z",
+  "model": "glm-5.2"
+}

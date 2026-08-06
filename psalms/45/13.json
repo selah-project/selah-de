@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Und ⟨die⟩ Tochter von Tsor ⟨kommt⟩ mit einer Gabe; ⟨dein⟩ Angesicht suchen die Reichen des Volkes.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "und ⟨die⟩ Tochter"
+    },
+    {
+      "surface": "צר",
+      "gloss": "von Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "mit einer Gabe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨dein⟩ Angesicht"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "suchen"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "die Reichen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "des Volkes"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:55.280704169Z",
+  "model": "glm-5.2"
+}

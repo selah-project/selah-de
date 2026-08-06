@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Iss nicht ⟨את⟩ das Brot eines bös Blicks, und begehre nicht seine Leckerbissen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "iss"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Brot"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bös"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Blicks"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "begehre"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "seine Leckerbissen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:35:43.872577983Z",
+  "model": "glm-5.2"
+}

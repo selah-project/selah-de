@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Söhne ⟨von⟩ Mann — bis wann, meine Herrlichkeit zur Schande! Liebt ihr ⟨das⟩ Nichtige, sucht ihr ⟨die⟩ Lüge? Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨von⟩ Mann"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wann"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "meine Herrlichkeit"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "zur Schande"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Liebt ihr"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "⟨das⟩ Nichtige"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "sucht ihr"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "⟨die⟩ Lüge"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T04:08:47.562901967Z",
+  "model": "glm-5.2"
+}

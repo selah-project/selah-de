@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und du sollst ⟨את⟩ diese Ordnung halten zu ihrer festgesetzten Zeit, von Tagen zu Tagen.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "und du sollst halten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Ordnung"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "die Ordnung"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "diese"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "zu ihrer festgesetzten Zeit"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "von Tagen"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "zu Tagen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:15:38.106027641Z",
+  "model": "glm-5.2"
+}

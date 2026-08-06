@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und Raw Schake kehrte zurück und fand ⟨את⟩ den König von Aschur, ⟨wie er⟩ gegen Libna kämpfte, denn er hatte gehört, dass er von Lachisch aufgebrochen ⟨war⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Und ⟨er⟩ kehrte zurück"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Raw"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Schake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "und ⟨er⟩ fand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den König"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "von Aschur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "⟨wie er⟩ kämpfte"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "er hatte gehört"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "er aufgebrochen"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "von Lachisch"
+    }
+  ],
+  "timestamp": "2026-08-05T21:50:27.028470662Z",
+  "model": "glm-5.2"
+}

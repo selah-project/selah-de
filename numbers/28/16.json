@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und im ersten Monat, am Vierzehnten des Monats, ⟨ist⟩ Pesach für JHWH.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "und im Monat"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "dem ersten"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "am Vierzehnten"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:38:48.519901452Z",
+  "model": "glm-5.2"
+}

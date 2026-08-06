@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und sie sagten: „Du hast uns nicht bedrückt und ⟨du⟩ hast uns nicht zerdrückt und du hast nichts aus der Hand irgendeines Mannes genommen.“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sie sagten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "Du hast uns bedrückt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "hast du uns zerdrückt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "hast du genommen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "irgendeines Mannes"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "⟨irgend⟩ etwas"
+    }
+  ],
+  "timestamp": "2026-08-06T01:05:39.826385548Z",
+  "model": "glm-5.2"
+}

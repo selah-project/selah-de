@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 53,
+  "translation": "Für den Chorleiter, auf Machalat, ein Maskil, von Dawid.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֥חַ",
+      "gloss": "Für den Chorleiter"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מָחֲלַ֗ת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "מַשְׂכִּ֥יל",
+      "gloss": "ein Maskil"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T20:39:51.291748788Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 64,
+  "translation": "Und sie ließen ⟨ihn⟩ straucheln durch ihre Zunge ⟨gegen⟩ sich; alle, die ⟨sie⟩ sahen, schütteln ⟨sich⟩.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "und sie ließen straucheln"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "⟨gegen⟩ sich"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "durch ihre Zunge"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "schütteln ⟨sich⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "die sahen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:05.931961616Z",
+  "model": "glm-5.2"
+}

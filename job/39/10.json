@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 39:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Wirst du den Reem binden mit seiner Fessel an die Furche, ⟨oder⟩ wird er Täler nach dir eggen?",
+  "tokens": [
+    {
+      "surface": "הֲֽתִקְשָׁר",
+      "gloss": "Wirst du … binden"
+    },
+    {
+      "surface": "רֵ֭ים",
+      "gloss": "den Reem"
+    },
+    {
+      "surface": "בְּתֶ֣לֶם",
+      "gloss": "an die Furche"
+    },
+    {
+      "surface": "עֲבֹת֑וֹ",
+      "gloss": "mit seiner Fessel"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "⟨oder⟩"
+    },
+    {
+      "surface": "יְשַׂדֵּ֖ד",
+      "gloss": "wird er … eggen"
+    },
+    {
+      "surface": "עֲמָקִ֣ים",
+      "gloss": "Täler"
+    },
+    {
+      "surface": "אַחֲרֶֽיךָ",
+      "gloss": "nach dir"
+    }
+  ],
+  "timestamp": "2026-08-05T23:24:29.064458521Z",
+  "model": "glm-5.2"
+}

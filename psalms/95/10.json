@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 95,
+  "translation": "Vierzig Jahre war ich angewidert ⟨bei⟩ dieser Generation, und sagte: ⟨Es ist⟩ ein Volk, das irre im Herzen, ⟨sie⟩ sind es. Und sie haben meine Wege nicht erkannt.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Vierzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "war ich angewidert"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "⟨bei⟩ dieser Generation"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "das irre"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "im Herzen"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨sie⟩ sind es"
+    },
+    {
+      "surface": "והם",
+      "gloss": "und ⟨sie⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "haben erkannt"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "meine Wege"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:24.715046697Z",
+  "model": "glm-5.2"
+}

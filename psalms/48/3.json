@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Schön ⟨an⟩ Erhabenheit, Freude der ganzen Erde, ⟨ist⟩ der Berg Tzijon, die Flanken des Nordens, die Stadt eines großen Königs.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Schön"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "Erhabenheit"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "Freude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "der ganzen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzijon"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "die Flanken"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "des Nordens"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eines Königs"
+    },
+    {
+      "surface": "רב",
+      "gloss": "großen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:17.510731717Z",
+  "model": "glm-5.2"
+}

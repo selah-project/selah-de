@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Sprich zu den Söhnen Jisraels und sage ihnen: Ein Mann, wenn er ein Gelübde außergewöhnlich ablegt — als deine Schätzung von Nefeschot ⟨gelten diese⟩ für JHWH.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sprich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "und sage"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "er außergewöhnlich legt"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ein Gelübde"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "als deine Schätzung"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "von Nefeschot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:57.935735489Z",
+  "model": "glm-5.2"
+}

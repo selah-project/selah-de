@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und Jaakow sagte: „Verkaufe ⟨mir⟩ heute ⟨את⟩ dein Erstgeburtsrecht ⟨an mich⟩.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "verkaufe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "heute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Erstgeburtsrecht"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "dein Erstgeburtsrecht"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T14:48:44.715658857Z",
+  "model": "glm-5.2"
+}

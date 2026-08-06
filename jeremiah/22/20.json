@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 22:20",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Steig hinauf ⟨auf⟩ den Libanon und schrei, und ⟨im⟩ Baschan ⟨gib⟩ deine Stimme! Und schrei von ⟨den⟩ Übergängen, denn zerschmettert sind alle, die dich lieben!",
+  "tokens": [
+    {
+      "surface": "עֲלִ֤י",
+      "gloss": "Steig hinauf"
+    },
+    {
+      "surface": "הַלְּבָנוֹן֙",
+      "gloss": "⟨auf⟩ den Libanon"
+    },
+    {
+      "surface": "וּֽצְעָ֔קִי",
+      "gloss": "und schrei"
+    },
+    {
+      "surface": "וּבַבָּשָׁ֖ן",
+      "gloss": "und ⟨im⟩ Baschan"
+    },
+    {
+      "surface": "תְּנִ֣י",
+      "gloss": "⟨gib⟩"
+    },
+    {
+      "surface": "קוֹלֵ֑ךְ",
+      "gloss": "deine Stimme"
+    },
+    {
+      "surface": "וְצַֽעֲקִי֙",
+      "gloss": "und schrei"
+    },
+    {
+      "surface": "מֵֽעֲבָרִ֔ים",
+      "gloss": "von ⟨den⟩ Übergängen"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נִשְׁבְּר֖וּ",
+      "gloss": "zerschmettert sind"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מְאַהֲבָֽיִךְ",
+      "gloss": "die dich lieben"
+    }
+  ],
+  "timestamp": "2026-08-06T06:10:12.764479002Z",
+  "model": "glm-5.2"
+}

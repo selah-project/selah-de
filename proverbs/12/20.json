@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Betrug ⟨ist⟩ im Herzen derer, die Böses planen, ⟨aber⟩ den Ratgebern von Schalom ⟨gehört⟩ Freude.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "Betrug"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "im Herzen"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "derer, die … planen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "⟨aber⟩ den Ratgebern"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "von Schalom"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "Freude"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:20.585437263Z",
+  "model": "glm-5.2"
+}

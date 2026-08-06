@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Denn du setzest ihn ⟨als⟩ Segnungen für ewig, du erfreust ihn mit Freude ⟨durch⟩ ⟨את⟩ dein Angesicht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "du setzest ihn"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "Segnungen"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "du erfreust ihn"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "mit Freude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dein Angesicht"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:51.778801523Z",
+  "model": "glm-5.2"
+}

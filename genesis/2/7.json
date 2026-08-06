@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und JHWH Elohim formte ⟨את⟩ den Menschen, Staub vom Ackerboden, und blies in seine Nasenlöcher den Odem des Lebens — und der Mensch wurde zu einer lebenden Nefesch.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "und formte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Menschen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "Staub"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dem Ackerboden"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "und blies"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "in seine Nasenlöcher"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "den Odem"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "des Lebens"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und wurde"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "zu einer Nefesch"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lebenden"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:19.305749928Z",
+  "model": "glm-5.2"
+}

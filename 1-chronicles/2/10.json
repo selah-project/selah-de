@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Ram zeugte ⟨את⟩ Amminadav, und Amminadav zeugte ⟨את⟩ Nachschon, Fürst der Söhne Jehudas.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Und Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "und Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachschon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachschon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "Fürst"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    }
+  ],
+  "timestamp": "2026-08-05T23:45:59.022065928Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨er⟩ sprach: „Bringe deine Hand zurück an deinen Busen.\" Und ⟨er⟩ brachte seine Hand zurück an seinen Busen und holte ⟨sie⟩ heraus aus seinem Busen, und siehe, sie war zurückgekehrt wie sein Fleisch.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Bringe zurück"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "deinen Busen"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Und ⟨er⟩ brachte ⟨sie⟩ zurück"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "seinen Busen"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "und ⟨er⟩ holte ⟨sie⟩ heraus"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "aus seinem Busen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "sie war zurückgekehrt"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "wie sein Fleisch"
+    }
+  ],
+  "timestamp": "2026-08-06T22:32:20.630364376Z",
+  "model": "glm-5.2"
+}

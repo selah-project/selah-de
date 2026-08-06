@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "„Dies, unser Brot — warm haben wir ⟨את⟩ es aus unseren Häusern mitgenommen am Tag unseres Ausziehens, zu euch zu gehen; und nun, siehe, ist es trocken geworden und ⟨ist⟩ krümelig.“",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "unser Brot"
+    },
+    {
+      "surface": "חם",
+      "gloss": "warm"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "haben wir mitgenommen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "es (unser Brot)"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "aus unseren Häusern"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "unseres Ausziehens"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "zu gehen"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "zu euch"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ist es trocken geworden"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und ⟨ist⟩"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "krümelig"
+    }
+  ],
+  "timestamp": "2026-08-06T00:52:24.097831729Z",
+  "model": "glm-5.2"
+}

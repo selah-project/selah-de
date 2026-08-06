@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Dem Chormeister. Ein Mizmor von Dawid. Elohim meines Lobpreises, ⟨schweige⟩ nicht!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dem Chormeister"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "meines Lobpreises"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "⟨schweige⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:48.645489330Z",
+  "model": "glm-5.2"
+}

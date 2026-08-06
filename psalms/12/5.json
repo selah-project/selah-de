@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "„Die sagten: Mit unserer Zunge werden wir mächtig sein, unsere Lippen ⟨sind⟩ bei uns — wer ist Herr über uns?“",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sagten"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "mit unserer Zunge"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "werden wir mächtig sein"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "unsere Lippen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "bei uns"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Herr"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "über uns"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:08.810770975Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 38:22",
+  "book": "job",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Bist du gekommen zu ⟨den⟩ Speichern ⟨des⟩ Schnees, und ⟨die⟩ Speicher ⟨des⟩ Hagels — siehst du sie?",
+  "tokens": [
+    {
+      "surface": "הֲ֭בָאתָ",
+      "gloss": "Bist du gekommen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אֹצְר֣וֹת",
+      "gloss": "Speichern"
+    },
+    {
+      "surface": "שָׁ֑לֶג",
+      "gloss": "⟨des⟩ Schnees"
+    },
+    {
+      "surface": "וְאֹצְר֖וֹת",
+      "gloss": "und ⟨die⟩ Speicher"
+    },
+    {
+      "surface": "בָּרָ֣ד",
+      "gloss": "⟨des⟩ Hagels"
+    },
+    {
+      "surface": "תִּרְאֶֽה",
+      "gloss": "siehst du sie"
+    }
+  ],
+  "timestamp": "2026-08-05T23:24:38.342834589Z",
+  "model": "glm-5.2"
+}

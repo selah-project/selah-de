@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Jehoschua sprach zu den Kohen, indem ⟨er⟩ sagte: „Hebt ⟨את⟩ die Lade der Brit auf und zieht vor dem Volk hinüber.“ Und sie hoben ⟨את⟩ die Lade der Brit auf und gingen vor dem Volk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoschua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "den Kohen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨er⟩ sagte"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "Hebt auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade der Brit"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "der Brit"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "und zieht hinüber"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "und sie hoben auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade der Brit"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "der Brit"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "und gingen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T00:50:54.635983013Z",
+  "model": "glm-5.2"
+}

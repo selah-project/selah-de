@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Ich will sagen zu Eloah: Verurteile mich nicht! Lass mich wissen, weswegen du mit mir rechtst!",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ich will sagen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "verurteile mich"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "lass mich wissen"
+    },
+    {
+      "surface": "על",
+      "gloss": "weswegen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "du mit mir rechtst"
+    }
+  ],
+  "timestamp": "2026-08-05T23:18:27.304908480Z",
+  "model": "glm-5.2"
+}

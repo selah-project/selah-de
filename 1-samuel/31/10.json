@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und sie legten ⟨את⟩ seine Waffenrüstung ins Haus der Aschtarot, und ⟨את⟩ seinen Leib hefteten sie an die Mauer von Bet-Schean.",
+  "tokens": [
+    {
+      "surface": "וַיָּשִׂימוּ",
+      "gloss": "und sie legten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seine Waffenrüstung"
+    },
+    {
+      "surface": "כֵּלָיו",
+      "gloss": "seine Waffenrüstung"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "ins Haus"
+    },
+    {
+      "surface": "עַשְׁתָּרוֹת",
+      "gloss": "der Aschtarot"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seinen Leib"
+    },
+    {
+      "surface": "גְּוִיָּתוֹ",
+      "gloss": "seinen Leib"
+    },
+    {
+      "surface": "תָּקְעוּ",
+      "gloss": "sie hefteten"
+    },
+    {
+      "surface": "בְּחוֹמַת",
+      "gloss": "an die Mauer von"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שָׁן",
+      "gloss": "Schean"
+    }
+  ],
+  "timestamp": "2026-08-06T15:04:00.258148391Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und die Frösche werden weichen von dir und von deinen Häusern und von deinen Knechten und von deinem Volk; nur im Strom sollen sie bleiben.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "und sie werden weichen"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "die Frösche"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "von dir"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "und von deinen Häusern"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "und von deinen Knechten"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "und von deinem Volk"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nur"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "im Strom"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "sollen sie bleiben"
+    }
+  ],
+  "timestamp": "2026-08-06T00:14:28.938458452Z",
+  "model": "glm-5.2"
+}

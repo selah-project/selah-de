@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ihr werdet suchen von dort ⟨את⟩ JHWH, deinen Elohim, und du wirst ⟨ihn⟩ finden, denn du wirst ihn suchen mit ganzem Herzen und mit ganzer Nefesch.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "Und ihr werdet suchen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinen Elohim"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "und du wirst finden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "du wirst ihn suchen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit ganzem"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "und mit ganzer"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T00:42:10.170031164Z",
+  "model": "glm-5.2"
+}

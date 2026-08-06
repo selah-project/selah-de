@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und JHWH antwortete ⟨את⟩ Ijjow aus dem Sturm und sprach:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Und antwortete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijjow"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijjow"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "aus"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "dem Sturm"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    }
+  ],
+  "timestamp": "2026-08-05T23:24:52.819724569Z",
+  "model": "glm-5.2"
+}

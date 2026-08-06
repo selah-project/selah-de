@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und du sollst ⟨את⟩ das Volk ringsum abgrenzen, ⟨und⟩ sagen: „Hütet euch, auf den Berg zu steigen und seine Grenze zu berühren — jeder, der den Berg berührt, wird sterben müssen.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "und du sollst abgrenzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sagen"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "hütet euch"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "zu steigen"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "auf den Berg"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "und zu berühren"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "seine Grenze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "der berührt"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "den Berg"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sterben"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wird müssen"
+    }
+  ],
+  "timestamp": "2026-08-06T20:13:04.267469200Z",
+  "model": "glm-5.2"
+}

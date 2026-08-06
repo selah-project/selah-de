@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Fürchte dich nicht, denn mit dir bin ich; blicke nicht ängstlich umher, denn ich bin dein Elohim; ich halte dich fest, ja, ich habe dir geholfen, ja, ich stütze dich mit der Rechten meiner Gerechtigkeit.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "fürchte dich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich bin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "blicke umher"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich bin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "ich halte dich fest"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "ich habe dir geholfen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "ich stütze dich"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "mit der Rechten"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "meiner Gerechtigkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T15:11:19.598175549Z",
+  "model": "glm-5.2"
+}

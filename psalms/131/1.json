@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 131,
+  "translation": "Ein Lied der Stufen. Von Dawid. JHWH, nicht hat sich erhoben mein Herz, und nicht haben sich gehoben meine Augen, und nicht bin ich gegangen in großen Dingen und in Dingen, die zu wunderbar für mich sind.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ein Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "der Stufen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Von Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "hat sich erhoben"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "haben sich gehoben"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "bin ich gegangen"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "in großen Dingen"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "und in Dingen, die zu wunderbar"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "für mich sind"
+    }
+  ],
+  "timestamp": "2026-08-06T10:34:20.743564256Z",
+  "model": "glm-5.2"
+}

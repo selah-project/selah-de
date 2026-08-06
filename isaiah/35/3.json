@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Stärkt erschlaffte Hände, und wankende Knie — richtet sie auf!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Stärkt"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "Hände"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "erschlaffte"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "und Knie"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "wankende"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "richtet sie auf"
+    }
+  ],
+  "timestamp": "2026-08-05T21:51:09.328375132Z",
+  "model": "glm-5.2"
+}

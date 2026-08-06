@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Zedek, Zedek sollst du nachjagen, damit du lebst und ⟨du⟩ das Land erbst, das JHWH, dein Elohim, dir gibt.",
+  "tokens": [
+    {
+      "surface": "צֶ֥דֶק",
+      "gloss": "Zedek"
+    },
+    {
+      "surface": "צֶ֖דֶק",
+      "gloss": "Zedek"
+    },
+    {
+      "surface": "תִּרְדֹּ֑ף",
+      "gloss": "sollst du nachjagen"
+    },
+    {
+      "surface": "לְמַ֤עַן",
+      "gloss": "damit"
+    },
+    {
+      "surface": "תִּֽחְיֶה֙",
+      "gloss": "du lebst"
+    },
+    {
+      "surface": "וְיָרַשְׁתָּ֣",
+      "gloss": "und ⟨du⟩ erbst"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "נֹתֵ֥ן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T02:24:45.317963724Z",
+  "model": "glm-5.2"
+}

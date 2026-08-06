@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Wie glücklich ⟨ist⟩ der Mensch, der nicht ging im Rat der Ruchlosen und auf dem Weg der Schuldigen nicht stand und im Sitz der Spötter nicht saß.",
+  "tokens": [
+    {
+      "surface": "אַ֥שְֽׁרֵי",
+      "gloss": "Wie glücklich"
+    },
+    {
+      "surface": "הָאִ֗ישׁ",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הָלַךְ֮",
+      "gloss": "ging"
+    },
+    {
+      "surface": "בַּעֲצַ֪ת",
+      "gloss": "im Rat"
+    },
+    {
+      "surface": "רְשָׁ֫עִ֥ים",
+      "gloss": "der Ruchlosen"
+    },
+    {
+      "surface": "וּבְדֶ֣רֶךְ",
+      "gloss": "und auf dem Weg"
+    },
+    {
+      "surface": "חַ֭טָּאִים",
+      "gloss": "der Schuldigen"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עָמָ֑ד",
+      "gloss": "stand"
+    },
+    {
+      "surface": "וּבְמוֹשַׁ֥ב",
+      "gloss": "und im Sitz"
+    },
+    {
+      "surface": "לֵ֝צִ֗ים",
+      "gloss": "der Spötter"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָשָֽׁב",
+      "gloss": "saß"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:16.069140519Z",
+  "model": "glm-5.2"
+}

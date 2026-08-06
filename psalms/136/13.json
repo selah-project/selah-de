@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "Dem, der das Schilfmeer in Teile zerschnitt, denn für ewig ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Dem, der zerschnitt"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Meer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Schilf"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "in Teile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:02.481455133Z",
+  "model": "glm-5.2"
+}

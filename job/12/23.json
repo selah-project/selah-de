@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 12:23",
+  "book": "job",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Er macht ⟨die⟩ Völker groß und vernichtet sie, breitet ⟨die⟩ Völker aus und führt sie ⟨wieder⟩ ein.",
+  "tokens": [
+    {
+      "surface": "מַשְׂגִּ֣יא",
+      "gloss": "Er macht groß"
+    },
+    {
+      "surface": "לַ֭גּוֹיִם",
+      "gloss": "⟨die⟩ Völker"
+    },
+    {
+      "surface": "וַֽיְאַבְּדֵ֑ם",
+      "gloss": "und vernichtet sie"
+    },
+    {
+      "surface": "שֹׁטֵ֥חַ",
+      "gloss": "breitet aus"
+    },
+    {
+      "surface": "לַ֝גּוֹיִ֗ם",
+      "gloss": "⟨die⟩ Völker"
+    },
+    {
+      "surface": "וַיַּנְחֵֽם",
+      "gloss": "und führt sie ⟨wieder⟩ ein"
+    }
+  ],
+  "timestamp": "2026-08-05T23:18:13.563673384Z",
+  "model": "glm-5.2"
+}

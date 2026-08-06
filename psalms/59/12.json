@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Töte ⟨sie⟩ nicht, damit mein Volk ⟨es nicht⟩ vergisst — lass sie schwanken ⟨in⟩ deiner Macht und bring ⟨sie⟩ hinab, unser Schild, Adonai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "Töte"
+    },
+    {
+      "surface": "פן",
+      "gloss": "damit … nicht"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "vergisst"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "lass sie schwanken"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "⟨in⟩ deiner Macht"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "und bring hinab"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "unser Schild"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:05.320979004Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und der Raubvogel kam herab auf die Kadaver, und Awraham ließ ⟨sie⟩ ⟨את⟩ umkehren.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Und ⟨er⟩ kam herab"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "der Raubvogel"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "die Kadaver"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨er⟩ ließ umkehren"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie — die Vögel"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awraham"
+    }
+  ],
+  "timestamp": "2026-08-06T00:04:26.518427493Z",
+  "model": "glm-5.2"
+}

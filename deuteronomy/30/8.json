@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und du wirst umkehren und hören auf die Stimme JHWHs, und du wirst ⟨את⟩ alle seine Gebote tun, die ich dir heute gebiete.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wirst umkehren"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "und hören"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "und du wirst tun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle seine Gebote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "seine Gebote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "dir gebiete"
+    },
+    {
+      "surface": "היום",
+      "gloss": "heute"
+    }
+  ],
+  "timestamp": "2026-08-05T20:50:56.155896904Z",
+  "model": "glm-5.2"
+}

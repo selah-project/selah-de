@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Mosche sprach zu Elohim: „Wer bin ich, dass ich zu Paro gehen und dass ich ⟨את⟩ die Söhne Jisraels aus Mizrajim herausführen sollte?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "bin ich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ich gehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "und dass"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "ich herausführen sollte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "aus Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T14:50:39.631853120Z",
+  "model": "glm-5.2"
+}

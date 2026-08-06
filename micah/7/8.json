@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Freue dich nicht über mich, ⟨du⟩ Feindin mir! Denn ich fiel — ich stand auf; denn ich sitze in Finsternis — JHWH ⟨ist⟩ ⟨ein⟩ Licht mir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "freue dich"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "⟨du⟩ Feindin mir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "ich fiel"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "ich stand auf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ich sitze"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "in Finsternis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨ein⟩ Licht"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T06:34:26.764967370Z",
+  "model": "glm-5.2"
+}

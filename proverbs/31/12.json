@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Sie erweist ihm Gutes und nicht Böses, alle Tage ihres Lebens.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "sie erweist ihm"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "ihres Lebens"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:52.552546997Z",
+  "model": "glm-5.2"
+}

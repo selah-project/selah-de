@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "und ⟨את⟩ die Straußen-Tochter und ⟨את⟩ den Nachtjäger und ⟨את⟩ die Möwe und ⟨את⟩ den Falken nach seiner Art:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Straußen-Tochter"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Tochter"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "die Strauße"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Nachtjäger"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "der Nachtjäger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Möwe"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "die Möwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Falken"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "der Falke"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nach seiner Art"
+    }
+  ],
+  "timestamp": "2026-08-06T00:44:19.199823159Z",
+  "model": "glm-5.2"
+}

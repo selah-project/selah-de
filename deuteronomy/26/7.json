@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und wir schrien zu JHWH, ⟨dem⟩ Elohim unserer Väter, und JHWH hörte ⟨את⟩ unsere Stimme und sah ⟨את⟩ unser Elend und ⟨את⟩ unsere Mühsal und ⟨את⟩ unseren Druck.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "Und wir schrien"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "unserer Väter"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "und hörte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unsere Stimme"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "unsere Stimme"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unser Elend"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "unser Elend"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "unsere Mühsal"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "unsere Mühsal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "unseren Druck"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "unseren Druck"
+    }
+  ],
+  "timestamp": "2026-08-06T00:47:16.073700258Z",
+  "model": "glm-5.2"
+}

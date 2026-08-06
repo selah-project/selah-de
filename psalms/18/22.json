@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Denn ich habe die Wege JHWHs bewahrt und bin nicht gottlos geworden, ⟨abgewichen⟩ von meinem Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "habe ich bewahrt"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "die Wege"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und bin nicht"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "gottlos geworden"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "von meinem Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:15.198470763Z",
+  "model": "glm-5.2"
+}

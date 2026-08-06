@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Verwüstet ⟨ist⟩ das Feld, trauert ⟨die⟩ Erde, denn verwüstet ⟨ist⟩ das Korn, vertrocknet ⟨der⟩ Most, verdorrt ⟨das› Öl.",
+  "tokens": [
+    {
+      "surface": "שֻׁדַּ֣ד",
+      "gloss": "verwüstet"
+    },
+    {
+      "surface": "שָׂדֶ֔ה",
+      "gloss": "das Feld"
+    },
+    {
+      "surface": "אָבְלָ֖ה",
+      "gloss": "trauert"
+    },
+    {
+      "surface": "אֲדָמָ֑ה",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שֻׁדַּ֣ד",
+      "gloss": "verwüstet"
+    },
+    {
+      "surface": "דָּגָ֔ן",
+      "gloss": "das Korn"
+    },
+    {
+      "surface": "הוֹבִ֥ישׁ",
+      "gloss": "vertrocknet"
+    },
+    {
+      "surface": "תִּיר֖וֹשׁ",
+      "gloss": "Most"
+    },
+    {
+      "surface": "אֻמְלַ֥ל",
+      "gloss": "verdorrt"
+    },
+    {
+      "surface": "יִצְהָֽר",
+      "gloss": "Öl"
+    }
+  ],
+  "timestamp": "2026-08-05T22:33:15.615510693Z",
+  "model": "glm-5.2"
+}

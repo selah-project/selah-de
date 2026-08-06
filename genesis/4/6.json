@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und JHWH sprach zu Kajin: „Warum bist du entbrannt, und warum sind deine Gesichtszüge gefallen?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "warum"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "bist du entbrannt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "und warum"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sind gefallen"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "deine Gesichtszüge"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:58.287213689Z",
+  "model": "glm-5.2"
+}

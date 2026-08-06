@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "als ⟨er⟩ ⟨seine⟩ Zeichen setzte in Mizrajim und ⟨seine⟩ Wunder im Feld von Zoan.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "als"
+    },
+    {
+      "surface": "שָׂ֣ם",
+      "gloss": "⟨er⟩ setzte"
+    },
+    {
+      "surface": "בְּמִצְרַ֭יִם",
+      "gloss": "in Mizrajim"
+    },
+    {
+      "surface": "אֹֽתֹתָ֑יו",
+      "gloss": "⟨seine⟩ Zeichen"
+    },
+    {
+      "surface": "וּ֝מֹּפְתָ֗יו",
+      "gloss": "und ⟨seine⟩ Wunder"
+    },
+    {
+      "surface": "בִּשְׂדֵה",
+      "gloss": "im Feld von"
+    },
+    {
+      "surface": "צֹֽעַן",
+      "gloss": "Zoan"
+    }
+  ],
+  "timestamp": "2026-08-06T04:16:59.531632828Z",
+  "model": "glm-5.2"
+}

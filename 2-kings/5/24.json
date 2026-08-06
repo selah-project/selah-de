@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ⟨er⟩ kam zum Ofel und nahm ⟨es⟩ aus ihrer Hand und deponierte ⟨es⟩ im Haus, und ⟨er⟩ entließ ⟨את⟩ die Männer, und sie gingen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "und ⟨er⟩ kam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "dem Ofel"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "und nahm"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "aus ihrer Hand"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "und deponierte"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "und ⟨er⟩ entließ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Männer"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "und sie gingen"
+    }
+  ],
+  "timestamp": "2026-08-06T22:41:32.332466695Z",
+  "model": "glm-5.2"
+}

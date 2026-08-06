@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und nun geh! Ich selbst werde mit deinem Mund sein, und ich werde dich lehren, was du reden sollst.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "geh!"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ich selbst"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "werde sein"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "deinem Mund"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "und ich werde dich lehren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "du reden sollst"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:22.097314706Z",
+  "model": "glm-5.2"
+}

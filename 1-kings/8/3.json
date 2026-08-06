@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und alle Ältesten Jisraels kamen, und die Kohen hoben ⟨את⟩ die Lade auf.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Und sie kamen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "Ältesten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "und sie hoben auf"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "die Lade"
+    }
+  ],
+  "timestamp": "2026-08-06T05:49:32.755378105Z",
+  "model": "glm-5.2"
+}

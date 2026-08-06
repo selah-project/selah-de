@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Er entriss mich meinem starken Feind, ⟨und⟩ ⟨denen⟩, die mich hassten, denn sie waren zu stark für mich.",
+  "tokens": [
+    {
+      "surface": "יַצִּילֵנִי",
+      "gloss": "Er entriss mich"
+    },
+    {
+      "surface": "מֵאֹיְבִי",
+      "gloss": "meinem Feind"
+    },
+    {
+      "surface": "עָז",
+      "gloss": "stark"
+    },
+    {
+      "surface": "מִשֹּׂנְאַי",
+      "gloss": "⟨denen⟩, die mich hassten"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אָמְצוּ",
+      "gloss": "sie waren zu stark"
+    },
+    {
+      "surface": "מִמֶּנִּי",
+      "gloss": "für mich"
+    }
+  ],
+  "timestamp": "2026-08-06T10:04:52.524705975Z",
+  "model": "glm-5.2"
+}

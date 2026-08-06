@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Elohim gedachte ⟨את⟩ Noach und ⟨את⟩ aller Lebewesen und ⟨את⟩ allem Vieh, das bei ihm in der Arche war, und Elohim ließ einen Wind über die Erde fahren, und die Wasser ließen nach.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Und gedachte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "aller Lebewesen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "Lebewesen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "allem Vieh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "Vieh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bei ihm"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "in der Arche"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "und ließ fahren"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "einen Wind"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "und ließen nach"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:28.388247379Z",
+  "model": "glm-5.2"
+}

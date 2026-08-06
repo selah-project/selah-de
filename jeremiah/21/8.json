@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und zu diesem Volk wirst du sagen: So hat JHWH gesprochen: Siehe, ich lege vor euch ⟨את⟩ den Weg des Lebens und ⟨את⟩ den Weg des Todes.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Und zu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "diesem Volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wirst du sagen"
+    },
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hat gesprochen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Siehe, ich"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "lege"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Weg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "des Lebens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Weg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "המות",
+      "gloss": "des Todes"
+    }
+  ],
+  "timestamp": "2026-08-05T22:03:49.892934194Z",
+  "model": "glm-5.2"
+}

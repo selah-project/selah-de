@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und das Volk des Landes nahm ⟨את⟩ Jehoachaz, den Sohn Joschijas, und machten ihn zum König anstelle seines Vaters in Jeruschalajim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Und sie nahmen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Joschijas"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "und machten ihn zum König"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anstelle"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-06T07:30:59.630115002Z",
+  "model": "glm-5.2"
+}

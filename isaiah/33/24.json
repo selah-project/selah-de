@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und ⟨kein⟩ Bewohner wird sagen: „Ich bin krank.\" Das Volk, das darin wohnt, ⟨wird⟩ ⟨die⟩ Schuld vergeben ⟨sein⟩.",
+  "tokens": [
+    {
+      "surface": "וּבַל",
+      "gloss": "Und ⟨kein⟩"
+    },
+    {
+      "surface": "יֹאמַר",
+      "gloss": "wird sagen"
+    },
+    {
+      "surface": "שָׁכֵן",
+      "gloss": "Bewohner"
+    },
+    {
+      "surface": "חָלִיתִי",
+      "gloss": "Ich bin krank"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "Das Volk"
+    },
+    {
+      "surface": "הַיֹּשֵׁב",
+      "gloss": "das … wohnt"
+    },
+    {
+      "surface": "בָּהּ",
+      "gloss": "darin"
+    },
+    {
+      "surface": "נְשׂוּא",
+      "gloss": "vergeben"
+    },
+    {
+      "surface": "עָוֺן",
+      "gloss": "Schuld"
+    }
+  ],
+  "timestamp": "2026-08-06T01:46:54.478131847Z",
+  "model": "glm-5.2"
+}

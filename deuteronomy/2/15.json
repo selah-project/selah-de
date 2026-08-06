@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Auch die Hand JHWHs war gegen sie, sie zu vernichten aus der Mitte des Lagers, bis sie vernichtet waren.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Auch"
+    },
+    {
+      "surface": "יד",
+      "gloss": "die Hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "war"
+    },
+    {
+      "surface": "בם",
+      "gloss": "gegen sie"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "sie zu vernichten"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "aus der Mitte"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "des Lagers"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "sie vernichtet waren"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:04.391489701Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "⟨Der⟩ König von Makkeda, ⟨der⟩ eine; ⟨der⟩ König von Bet-El, ⟨der⟩ eine.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "von Makkeda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "בית",
+      "gloss": "von Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einer"
+    }
+  ],
+  "timestamp": "2026-08-05T20:55:03.600337586Z",
+  "model": "glm-5.2"
+}

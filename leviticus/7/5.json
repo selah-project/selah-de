@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und der Kohen lässt sie in Rauch aufgehen ⟨את⟩, dem Altar ⟨zu⟩, ein Feueropfer für JHWH; ⟨es⟩ ⟨ist⟩ ein Schuldopfer, ⟨er⟩.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "und lässt in Rauch aufgehen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "sie (die Fettteile)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "dem Altar ⟨zu⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ein Feueropfer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ein Schuldopfer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:42.540095474Z",
+  "model": "glm-5.2"
+}

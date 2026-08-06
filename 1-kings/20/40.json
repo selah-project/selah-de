@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 20:40",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und ⟨es⟩ geschah: während dein Knecht hierhin und dorthin ⟨beschäftigt⟩ war, ⟨da⟩ war er nicht mehr. Und der König von Jisraël sprach zu ihm: „Genau so ⟨ist⟩ dein Urteil — du selbst hast es entschieden.“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ geschah"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "dein Knecht"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "während … ⟨beschäftigt⟩ war"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hierhin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und dorthin"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und ⟨da⟩ er"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nicht mehr war"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und … sprach"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisraël"
+    },
+    {
+      "surface": "כן",
+      "gloss": "genau so"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "dein Urteil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du selbst"
+    },
+    {
+      "surface": "חרצת",
+      "gloss": "hast es entschieden"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:45.459001001Z",
+  "model": "glm-5.2"
+}

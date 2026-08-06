@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Elohim begegnete Bilam, und er sprach zu ihm: „⟨את⟩ die sieben Altäre habe ich aufgestellt, und ich habe einen Stier und einen Widder auf dem Altar geopfert.“",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Und er begegnete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sieben Altäre"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "die sieben"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "Altäre"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "habe ich aufgestellt"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "und ich habe geopfert"
+    },
+    {
+      "surface": "פר",
+      "gloss": "einen Stier"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "und einen Widder"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "auf dem Altar"
+    }
+  ],
+  "timestamp": "2026-08-05T20:36:51.146697485Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ⟨sie⟩ werden ⟨את⟩ das Land Aschur weiden mit dem Schwert und ⟨את⟩ das Land Nimrods an seinen Toren. Und ⟨er⟩ wird retten aus Aschur, wenn ⟨er⟩ in unser Land kommt, und wenn ⟨er⟩ unsere Grenze betritt.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "und sie werden weiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land Aschur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aschur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mit dem Schwert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Land Nimrods"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrods"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "an seinen Toren"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "und er wird retten"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "aus Aschur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "er kommt"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "in unser Land"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "er betritt"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "unsere Grenze"
+    }
+  ],
+  "timestamp": "2026-08-05T22:37:43.202662268Z",
+  "model": "glm-5.2"
+}

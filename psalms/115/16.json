@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "⟨Den⟩ Himmel, ⟨die⟩ Himmel ⟨gehören⟩ JHWH, aber die Erde hat er den Menschenkindern gegeben.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "den Himmel"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Himmel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "aber die Erde"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hat er gegeben"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "den Menschenkindern"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Mensch"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:43.418301118Z",
+  "model": "glm-5.2"
+}

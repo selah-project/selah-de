@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und der König sagte zu ihm: „Wo ist er?“ Und Ziba sagte zum König: „Siehe, er ist im Haus Machirs, des Sohnes Ammiels, in Lo-Dewar.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist er"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Ziba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ist"
+    },
+    {
+      "surface": "בית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machirs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiels"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "in"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Dewar"
+    }
+  ],
+  "timestamp": "2026-08-06T08:41:55.759692159Z",
+  "model": "glm-5.2"
+}

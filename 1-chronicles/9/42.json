@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und Achas zeugte ⟨את⟩ Jaara, und Jaara zeugte ⟨את⟩ Alemet und ⟨את⟩ Asmawet und ⟨את⟩ Simri, und Simri zeugte ⟨את⟩ Motza.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Und Achas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaara"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Jaara"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "und Jaara"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Asmawet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Asmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Simri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Simri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "und Simri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motza"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motza"
+    }
+  ],
+  "timestamp": "2026-08-05T23:49:01.637104461Z",
+  "model": "glm-5.2"
+}

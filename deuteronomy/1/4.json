@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Nachdem er ⟨den⟩ Sichon geschlagen hatte, ⟨את⟩ den König der Emoriter, der in Cheschbon wohnte, und ⟨den⟩ Og, ⟨את⟩ den König des Baschan, der in Aschtarot wohnt, in Edre'i —",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Nachdem"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "er geschlagen hatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "der Emoriter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "wohnte"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "in Cheschbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "des Baschan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "wohnt"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "in Aschtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "in Edre'i"
+    }
+  ],
+  "timestamp": "2026-08-05T20:41:32.182134225Z",
+  "model": "glm-5.2"
+}

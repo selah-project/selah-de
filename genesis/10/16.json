@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "und ⟨את⟩ den Jebusi und ⟨את⟩ den Emori und ⟨את⟩ den Girgaschi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Jebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "den Jebusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "den Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Girgaschi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "den Girgaschi"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:42.894783234Z",
+  "model": "glm-5.2"
+}

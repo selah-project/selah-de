@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Meine Augen kamen den Nachtwachen zuvor, ⟨um⟩ nachzusinnen über dein Wort.",
+  "tokens": [
+    {
+      "surface": "קִדְמוּ",
+      "gloss": "kamen zuvor"
+    },
+    {
+      "surface": "עֵינַי",
+      "gloss": "Meine Augen"
+    },
+    {
+      "surface": "אַשְׁמֻרוֹת",
+      "gloss": "den Nachtwachen"
+    },
+    {
+      "surface": "לָשִׂיחַ",
+      "gloss": "⟨um⟩ nachzusinnen"
+    },
+    {
+      "surface": "בְּאִמְרָתֶךָ",
+      "gloss": "über dein Wort"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:33.194968802Z",
+  "model": "glm-5.2"
+}

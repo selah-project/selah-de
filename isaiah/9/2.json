@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 9:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Du ⟨hast⟩ das Volk zahlreich gemacht, die Freude ⟨hast⟩ du nicht groß gemacht. Sie freuten sich vor dir wie die Freude bei der Ernte, wie ⟨man⟩ sich freut beim Teilen der Beute.",
+  "tokens": [
+    {
+      "surface": "הִרְבִּיתָ",
+      "gloss": "Du ⟨hast⟩ zahlreich gemacht"
+    },
+    {
+      "surface": "הַגּוֹי",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הִגְדַּלְתָּ",
+      "gloss": "⟨hast⟩ du groß gemacht"
+    },
+    {
+      "surface": "הַשִּׂמְחָה",
+      "gloss": "die Freude"
+    },
+    {
+      "surface": "שָׂמְחוּ",
+      "gloss": "Sie freuten sich"
+    },
+    {
+      "surface": "לְפָנֶיךָ",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "כְּשִׂמְחַת",
+      "gloss": "wie die Freude"
+    },
+    {
+      "surface": "בַּקָּצִיר",
+      "gloss": "bei der Ernte"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יָגִילוּ",
+      "gloss": "sich freut"
+    },
+    {
+      "surface": "בְּחַלְּקָם",
+      "gloss": "beim Teilen"
+    },
+    {
+      "surface": "שָׁלָל",
+      "gloss": "der Beute"
+    }
+  ],
+  "timestamp": "2026-08-06T08:50:14.980523746Z",
+  "model": "glm-5.2"
+}

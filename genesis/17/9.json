@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und Elohim sprach zu Awraham: „Und du, ⟨du⟩ sollst ⟨את⟩ meine Brit bewahren, du und deine Nachkommenschaft nach dir, für ihre Generationen.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Brit"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "meine Brit"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "sollst ⟨du⟩ bewahren"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "und deine Nachkommenschaft"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "nach dir"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "für ihre Generationen"
+    }
+  ],
+  "timestamp": "2026-08-05T19:57:17.242553613Z",
+  "model": "glm-5.2"
+}

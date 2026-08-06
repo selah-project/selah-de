@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Hinten und vorne hast du mich umschlossen, und du legst auf mich deine Handfläche.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "Hinten"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "und vorne"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "hast du mich umschlossen"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "und du legst"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "auf mich"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "deine Handfläche"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:09.670070177Z",
+  "model": "glm-5.2"
+}

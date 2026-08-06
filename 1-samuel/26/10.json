@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und Dawid sprach: „So gewiss JHWH lebt — ⟨es sei fern⟩, ⟨dass⟩ JHWH ⟨ihn⟩ schlägt, oder sein Tag kommt und er stirbt, oder er in den Kampf hinabsteht und dahingerafft wird.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חי",
+      "gloss": "⟨so gewiss⟩ lebt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨es sei fern, dass⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "⟨ihn⟩ schlägt"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "sein Tag"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "und er stirbt"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in den Kampf"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "er hinabsteigt"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "und dahingerafft wird"
+    }
+  ],
+  "timestamp": "2026-08-06T01:11:12.857470049Z",
+  "model": "glm-5.2"
+}

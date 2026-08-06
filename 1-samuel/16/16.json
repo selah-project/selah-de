@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 16:16",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "„Sag doch, unser Herr, deinen Knechten vor dir: Sie sollen einen Mann suchen, der Kinnor zu spielen versteht. Und es soll geschehen: Wenn ⟨der⟩ böse Geist Elohim auf dir ist, soll er mit seiner Hand spielen, und es wird dir gut ergehen.“",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "sag"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "אדננו",
+      "gloss": "unser Herr"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "deinen Knechten"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vor dir"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "sie sollen suchen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "einen Mann"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "der versteht"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "zu spielen"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "Kinnor"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "und es soll geschehen"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "auf dir ist"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨der⟩ Geist"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "böser"
+    },
+    {
+      "surface": "ונגן",
+      "gloss": "soll er spielen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mit seiner Hand"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "und es wird gut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir ergehen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:12:06.786301759Z",
+  "model": "glm-5.2"
+}

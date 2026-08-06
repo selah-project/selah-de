@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Denn so wurde mir geboten im Wort JHWHs, ⟨zu sagen⟩: ‚Du sollst kein Brot essen und kein Wasser trinken, und du sollst nicht zurückkehren auf dem Weg, den du gegangen bist.‘",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כֵ֣ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "צִוָּ֣ה",
+      "gloss": "wurde geboten"
+    },
+    {
+      "surface": "אֹתִ֗י",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "בִּדְבַ֤ר",
+      "gloss": "im Wort"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "לֵאמֹ֔ר",
+      "gloss": "zu sagen"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תֹ֥אכַל",
+      "gloss": "sollst du essen"
+    },
+    {
+      "surface": "לֶ֖חֶם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תִשְׁתֶּה",
+      "gloss": "sollst du trinken"
+    },
+    {
+      "surface": "מָּ֑יִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תָשׁ֔וּב",
+      "gloss": "sollst du zurückkehren"
+    },
+    {
+      "surface": "בַּדֶּ֖רֶךְ",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "den"
+    },
+    {
+      "surface": "הָלָֽכְתָּ",
+      "gloss": "du gegangen bist"
+    }
+  ],
+  "timestamp": "2026-08-06T03:00:16.605813708Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Seine Fürsten zu fesseln nach seinem Belieben und seine Ältesten — er unterweist sie in Weisheit.",
+  "tokens": [
+    {
+      "surface": "לֶאְסֹר",
+      "gloss": "zu fesseln"
+    },
+    {
+      "surface": "שָׂרָיו",
+      "gloss": "Seine Fürsten"
+    },
+    {
+      "surface": "בְנַפְשׁוֹ",
+      "gloss": "nach seinem Belieben"
+    },
+    {
+      "surface": "וּזְקֵנָיו",
+      "gloss": "und seine Ältesten"
+    },
+    {
+      "surface": "יְחַכֵּם",
+      "gloss": "er unterweist sie in Weisheit"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:36.878030687Z",
+  "model": "glm-5.2"
+}

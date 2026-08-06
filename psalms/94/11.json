@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 94,
+  "translation": "JHWH kennt ⟨die⟩ Gedanken ⟨des⟩ Menschen, dass ⟨sie⟩ Hauch sind.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kennt"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "⟨die⟩ Gedanken"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨des⟩ Menschen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨sie⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hauch"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:18.045633428Z",
+  "model": "glm-5.2"
+}

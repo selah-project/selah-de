@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und Sara sah ⟨את⟩ den Sohn Hagars, der Mizriterin, den sie dem Awraham geboren hatte, lachen —",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "und sie sah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Sohn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den Sohn"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagars"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "der Mizriterin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "sie geboren hatte"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "dem Awraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "lachen"
+    }
+  ],
+  "timestamp": "2026-08-06T14:47:11.756007665Z",
+  "model": "glm-5.2"
+}

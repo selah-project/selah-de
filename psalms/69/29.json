@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Sie sollen ausgetilgt werden aus dem Buch der Lebendigen, und mit den Gerechten sollen sie nicht geschrieben werden.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "Sie sollen ausgetilgt werden"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "aus dem Buch"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "der Lebendigen"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "und mit"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "den Gerechten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "sollen sie geschrieben werden"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:05.955242122Z",
+  "model": "glm-5.2"
+}

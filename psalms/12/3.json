@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Trug reden sie, ein Mann ⟨את⟩ seinen Nächsten; Glätte-Lippen, mit Herz und Herz, reden sie.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Trug"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "reden sie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Nächsten"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "seinen Nächsten"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "Lippe"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "Glätte"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mit Herz"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "und Herz"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "reden sie"
+    }
+  ],
+  "timestamp": "2026-08-06T21:23:39.293243553Z",
+  "model": "glm-5.2"
+}

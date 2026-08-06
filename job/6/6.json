@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Wird Geschmackloses gegessen ohne Salz, oder gibt es Geschmack im Saft der Malve?",
+  "tokens": [
+    {
+      "surface": "הֲיֵאָכֵ֣ל",
+      "gloss": "Wird … gegessen"
+    },
+    {
+      "surface": "תָּ֭פֵל",
+      "gloss": "Geschmackloses"
+    },
+    {
+      "surface": "מִבְּלִי",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "מֶ֑לַח",
+      "gloss": "Salz"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "oder"
+    },
+    {
+      "surface": "יֶשׁ",
+      "gloss": "gibt es"
+    },
+    {
+      "surface": "טַ֝֗עַם",
+      "gloss": "Geschmack"
+    },
+    {
+      "surface": "בְּרִ֣יר",
+      "gloss": "im Saft"
+    },
+    {
+      "surface": "חַלָּמֽוּת",
+      "gloss": "der Malve"
+    }
+  ],
+  "timestamp": "2026-08-06T10:35:51.878588903Z",
+  "model": "glm-5.2"
+}

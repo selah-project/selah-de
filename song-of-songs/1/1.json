@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Das Lied der Lieder, das Schelomos ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "gloss": "Das Lied"
+    },
+    {
+      "surface": "הַשִּׁירִ֖ים",
+      "gloss": "der Lieder"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לִשְׁלֹמֹֽה",
+      "gloss": "Schelomos ⟨gehört⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:38:37.699820199Z",
+  "model": "glm-5.2"
+}

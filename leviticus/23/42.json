@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "In Sukkot sollt ihr wohnen, sieben Tage; jeder Einheimische in Jisra'el soll in Sukkot wohnen.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "In Sukkot"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "sollt ihr wohnen"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "Einheimische"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisra'el"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "soll wohnen"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "in Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-06T05:20:46.423700856Z",
+  "model": "glm-5.2"
+}

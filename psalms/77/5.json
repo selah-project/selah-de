@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Du hieltest fest die Wachen meiner Augen, ich ⟨war⟩ erschüttert und konnte nicht sprechen.",
+  "tokens": [
+    {
+      "surface": "אָ֭חַזְתָּ",
+      "gloss": "Du hieltest fest"
+    },
+    {
+      "surface": "שְׁמֻר֣וֹת",
+      "gloss": "die Wachen"
+    },
+    {
+      "surface": "עֵינָ֑י",
+      "gloss": "meiner Augen"
+    },
+    {
+      "surface": "נִ֝פְעַ֗מְתִּי",
+      "gloss": "ich ⟨war⟩ erschüttert"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אֲדַבֵּֽר",
+      "gloss": "konnte sprechen"
+    }
+  ],
+  "timestamp": "2026-08-06T19:52:03.841790711Z",
+  "model": "glm-5.2"
+}

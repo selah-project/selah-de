@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 54,
+  "translation": "Elohim, höre mein Gebet, neige ⟨dein⟩ Ohr zu den Worten meines Mundes!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "höre"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mein Gebet"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "neige ⟨dein⟩ Ohr"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "zu den Worten"
+    },
+    {
+      "surface": "פי",
+      "gloss": "meines Mundes"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:37.861731770Z",
+  "model": "glm-5.2"
+}

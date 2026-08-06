@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und wenn JHWH, dein Elohim, ⟨deine⟩ Grenze erweitert, wie er deinen Vätern geschworen hat, und dir ⟨את⟩ das ganze Land gibt, das er zu geben deinen Vätern gesprochen hat —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "erweitert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨deine⟩ Grenze"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "⟨deine⟩ Grenze"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "er geschworen hat"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "deinen Vätern"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "und gibt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "er gesprochen hat"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "zu geben"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "deinen Vätern"
+    }
+  ],
+  "timestamp": "2026-08-06T14:56:31.446167526Z",
+  "model": "glm-5.2"
+}

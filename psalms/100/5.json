@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 100,
+  "translation": "Denn gut ⟨ist⟩ JHWH; für immer ⟨währt⟩ sein Chessed, und bis Generation und Generation seine Emet.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "ט֣וֹב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "יְ֭הֹוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "חַסְדּ֑וֹ",
+      "gloss": "sein Chessed"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "und bis"
+    },
+    {
+      "surface": "דֹּ֥ר",
+      "gloss": "Generation"
+    },
+    {
+      "surface": "וָ֝דֹ֗ר",
+      "gloss": "und Generation"
+    },
+    {
+      "surface": "אֱמוּנָתֽוֹ",
+      "gloss": "seine Emet"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:16.868413498Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und Reuwen hörte ⟨es⟩, und ⟨er⟩ rettete ihn aus ihrer Hand, und ⟨er⟩ sprach: „Lasst uns ihn nicht schlagen — ⟨die⟩ Nefesch.\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "und ⟨er⟩ hörte"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuwen"
+    },
+    {
+      "surface": "ויצלהו",
+      "gloss": "und ⟨er⟩ rettete ihn"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "aus ihrer Hand"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "lasst uns schlagen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T20:06:00.637630407Z",
+  "model": "glm-5.2"
+}

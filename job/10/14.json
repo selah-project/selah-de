@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Wenn ich gesündigt habe, ⟨dann⟩ behütest du mich, und von meiner Schuld säuberst du mich nicht.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ich gesündigt habe"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "behütest du mich"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "und von meiner Schuld"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "säuberst du mich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:17:52.369196962Z",
+  "model": "glm-5.2"
+}

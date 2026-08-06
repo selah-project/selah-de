@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Wirst du ⟨sie⟩ ⟨את⟩ richten? Wirst du richten, Menschensohn? ⟨את⟩ die Gräuel ihrer Väter — lass sie ⟨das⟩ erkennen!",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Wirst du richten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨sie⟩"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "Wirst du richten"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Menschen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Gräuel"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "die Gräuel"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ihrer Väter"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "lass sie erkennen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:21:12.566789968Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "dann werde ich eure Regenregen geben ⟨in⟩ ihrer Zeit, und die Erde wird ihren Ertrag geben, und der Baum des Feldes wird seine Frucht geben.",
+  "tokens": [
+    {
+      "surface": "וְנָתַתִּ֥י",
+      "gloss": "dann werde ich geben"
+    },
+    {
+      "surface": "גִשְׁמֵיכֶ֖ם",
+      "gloss": "eure Regenregen"
+    },
+    {
+      "surface": "בְּעִתָּ֑ם",
+      "gloss": "⟨in⟩ ihrer Zeit"
+    },
+    {
+      "surface": "וְנָתְנָ֤ה",
+      "gloss": "und ⟨sie⟩ wird geben"
+    },
+    {
+      "surface": "הָאָ֨רֶץ֙",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "יְבוּלָ֔הּ",
+      "gloss": "ihren Ertrag"
+    },
+    {
+      "surface": "וְעֵ֥ץ",
+      "gloss": "und der Baum"
+    },
+    {
+      "surface": "הַשָּׂדֶ֖ה",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "יִתֵּ֥ן",
+      "gloss": "wird geben"
+    },
+    {
+      "surface": "פִּרְיֽוֹ",
+      "gloss": "seine Frucht"
+    }
+  ],
+  "timestamp": "2026-08-06T05:21:52.345471906Z",
+  "model": "glm-5.2"
+}

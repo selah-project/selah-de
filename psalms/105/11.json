@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "indem ⟨er⟩ sprach: „Dir gebe ich ⟨את⟩ das Land Kenaan, das Seil eures Erbteils.",
+  "tokens": [
+    {
+      "surface": "לֵאמֹ֗ר",
+      "gloss": "indem ⟨er⟩ sprach"
+    },
+    {
+      "surface": "לְךָ֗",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אֶתֵּ֥ן",
+      "gloss": "gebe ich"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Land Kenaan"
+    },
+    {
+      "surface": "אֶֽרֶץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "כְּנָ֑עַן",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חֶ֝֗בֶל",
+      "gloss": "das Seil"
+    },
+    {
+      "surface": "נַחֲלַתְכֶֽם",
+      "gloss": "eures Erbteils"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:57.595308401Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Wer ⟨ist⟩ dies, der König der Herrlichkeit? JHWH, stark und heldenhaft, JHWH, heldenhaft im Krieg.",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "הַכָּבוֹד",
+      "gloss": "der Herrlichkeit"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "עִזּוּז",
+      "gloss": "stark"
+    },
+    {
+      "surface": "וְגִבּוֹר",
+      "gloss": "und heldenhaft"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "גִּבּוֹר",
+      "gloss": "heldenhaft"
+    },
+    {
+      "surface": "מִלְחָמָה",
+      "gloss": "im Krieg"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:39.129448741Z",
+  "model": "glm-5.2"
+}

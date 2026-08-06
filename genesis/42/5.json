@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Und die Söhne Jisraels kamen, um Getreide zu kaufen, inmitten der Kommenden, denn ⟨es war⟩ Hungersnot im Land Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Und sie kamen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "um Getreide zu kaufen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "der Kommenden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨es war⟩"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "Hungersnot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-06T15:37:16.949431527Z",
+  "model": "glm-5.2"
+}

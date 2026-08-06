@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Jedes Gewimmel des Geflügels, das auf vieren geht — ein Gräuel ⟨ist⟩ es für euch.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Jedes"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "Gewimmel"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "des Geflügels"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "das geht"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vieren"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ein Gräuel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ist⟩ es"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    }
+  ],
+  "timestamp": "2026-08-06T05:19:19.772392357Z",
+  "model": "glm-5.2"
+}

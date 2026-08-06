@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und er gab ⟨את⟩ sie in Gewahrsam, in das Haus des Obersten der Leibwache, in das Haus des Gefängnisses, den Ort, wo Josséf gefangen war.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "und er gab"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "in Gewahrsam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in das Haus"
+    },
+    {
+      "surface": "שר",
+      "gloss": "des Obersten"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "der Leibwache"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "des Gefängnisses"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "den Ort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josséf"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "gefangen war"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-05T20:02:10.956401359Z",
+  "model": "glm-5.2"
+}

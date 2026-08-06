@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Nicht ⟨wird⟩ ein Mensch ⟨bestehen⟩ durch Ruchlosigkeit; aber ⟨die⟩ Wurzel der Gerechten ⟨wird⟩ nicht wanken.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "⟨wird⟩ ⟨bestehen⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ein Mensch"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "durch Ruchlosigkeit"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "aber ⟨die⟩ Wurzel"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "der Gerechten"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "⟨wird⟩ wanken"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:38.315871392Z",
+  "model": "glm-5.2"
+}

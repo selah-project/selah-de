@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und es wird geschehen: vom Bach wirst du trinken, und ⟨את⟩ die Raben habe ich befohlen, dich dort zu versorgen.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Und es wird geschehen"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "vom Bach"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "wirst du trinken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Raben"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "die Raben"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "habe ich befohlen"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "dich zu versorgen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-06T01:27:32.346269804Z",
+  "model": "glm-5.2"
+}

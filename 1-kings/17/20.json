@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und er rief zu JHWH und sagte: „JHWH, mein Elohim, hast du auch über die Witwe, bei der ich als Gast weile, Böses gebracht, um ⟨את⟩ ihren Sohn sterben zu lassen?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und er rief"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "hast du auch"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "die Witwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bei der"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "als Gast weile"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bei ihr"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "Böses gebracht"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "um sterben zu lassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Sohn"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ihren Sohn"
+    }
+  ],
+  "timestamp": "2026-08-06T21:16:10.102504060Z",
+  "model": "glm-5.2"
+}

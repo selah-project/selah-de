@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 123,
+  "translation": "Reichlich ist gesättigt worden unsere Nefesch ⟨von⟩ dem Spott der Sorglosen und ⟨von⟩ der Verachtung der Hochmütigen.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Reichlich"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ist gesättigt worden"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨von⟩"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "unsere Nefesch"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "⟨von⟩ dem Spott"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "der Sorglosen"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "und ⟨von⟩ der Verachtung"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "der Hochmütigen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:28.902816476Z",
+  "model": "glm-5.2"
+}

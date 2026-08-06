@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Sie verabscheuen mich, weichen fern von mir, und vor meinem Angesicht sparen sie nicht ⟨mit⟩ Speichel ⟨zu speien⟩.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "sie verabscheuen mich"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "weichen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fern von mir"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "und vor meinem Angesicht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "sparen sie"
+    },
+    {
+      "surface": "רק",
+      "gloss": "⟨mit⟩ Speichel ⟨zu speien⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T23:22:16.921019600Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und die Sache war gut in den Augen des Adonai, denn Schelomo hatte ⟨את⟩ diese Sache erbeten.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "und sie war gut"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in den Augen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "des Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "er hatte erbeten"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diese Sache"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diese"
+    }
+  ],
+  "timestamp": "2026-08-05T21:25:45.609527554Z",
+  "model": "glm-5.2"
+}

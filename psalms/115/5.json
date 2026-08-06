@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 115,
+  "translation": "Einen Mund haben sie, aber sie reden nicht — Augen haben sie, aber sie sehen nicht.",
+  "tokens": [
+    {
+      "surface": "פֶּֽה",
+      "gloss": "ein Mund"
+    },
+    {
+      "surface": "לָ֭הֶם",
+      "gloss": "haben sie"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "יְדַבֵּ֑רוּ",
+      "gloss": "sie reden"
+    },
+    {
+      "surface": "עֵינַ֥יִם",
+      "gloss": "Augen"
+    },
+    {
+      "surface": "לָ֝הֶ֗ם",
+      "gloss": "haben sie"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "יִרְאֽוּ",
+      "gloss": "sie sehen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:49:40.436680627Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Auch eure Kleinviehherden, auch eure Rinderherden nehmt, wie ihr gesprochen habt, und geht, und segnet ⟨את⟩ mich auch.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Auch"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "eure Kleinviehherden"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "eure Rinderherden"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "nehmt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "ihr gesprochen habt"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "und geht"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "und segnet"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mich",
+      "marks": "mich"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:40.262235207Z",
+  "model": "glm-5.2"
+}

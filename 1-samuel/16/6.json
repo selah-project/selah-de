@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und es geschah, bei ihrem Kommen, da sah er ⟨את⟩ Eliaw und sagte: „Gewiss, vor JHWH ⟨steht⟩ sein Maschiach.“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "bei ihrem Kommen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "da sah er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliaw"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliaw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Gewiss"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "sein Maschiach"
+    }
+  ],
+  "timestamp": "2026-08-06T22:37:22.498715611Z",
+  "model": "glm-5.2"
+}

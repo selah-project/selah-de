@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Eine Stimme ⟨eines⟩ Rufers: In der Wüste bahnt ⟨den⟩ Weg JHWHs, richtet ⟨in⟩ der Steppe eine Straße für unseren Elohim!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Stimme"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "eines Rufers"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "bahnt"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Weg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "richtet"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "in der Steppe"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "eine Straße"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "für unseren Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T19:44:38.826873739Z",
+  "model": "glm-5.2"
+}

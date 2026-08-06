@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 47,
+  "translation": "Er erwählt uns ⟨את⟩ unser Erbe, ⟨את⟩ die Hoheit Jaakows, den er liebte. Sela.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Er erwählt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unser Erbe"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "unser Erbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Hoheit Jaakows"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "die Hoheit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakows"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "er liebte"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:06.801688210Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Deine Hand sei mir zur Hilfe, denn ⟨deine⟩ Weisungen habe ich erwählt.",
+  "tokens": [
+    {
+      "surface": "תְּהִֽי",
+      "gloss": "sei"
+    },
+    {
+      "surface": "יָדְךָ֥",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "לְעָזְרֵ֑נִי",
+      "gloss": "mir zur Hilfe"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "פִקּוּדֶ֣יךָ",
+      "gloss": "⟨deine⟩ Weisungen"
+    },
+    {
+      "surface": "בָחָֽרְתִּי",
+      "gloss": "habe ich erwählt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:58.168612391Z",
+  "model": "glm-5.2"
+}

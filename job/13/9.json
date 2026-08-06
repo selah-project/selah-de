@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Ist es gut, dass er ⟨euch⟩ genau erforscht? Als ob man ⟨bei⟩ einem Sterblichen spottet, wollt ihr ⟨bei⟩ ihm spotten?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Ist es gut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "er genau erforscht"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "אם",
+      "gloss": "als ob"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "man spottet"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "⟨bei⟩ einem Sterblichen"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "wollt ihr spotten"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨bei⟩ ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T23:18:45.460347393Z",
+  "model": "glm-5.2"
+}

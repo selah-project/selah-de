@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Lass dich in deiner Ruach nicht schnell aufbrauchen zum Zorn, denn Zorn ruht im Schoß der Narren.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "lass dich schnell aufbrauchen"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "in deiner Ruach"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "zum Zorn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "Zorn"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "im Schoß"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "der Narren"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ruht"
+    }
+  ],
+  "timestamp": "2026-08-06T22:48:16.670878441Z",
+  "model": "glm-5.2"
+}

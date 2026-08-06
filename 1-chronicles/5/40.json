@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Asarja zeugte ⟨את⟩ Seraja, und Seraja zeugte ⟨את⟩ Jehozadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "und Asarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraja"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraja"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "und Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehozadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehozadak"
+    }
+  ],
+  "timestamp": "2026-08-06T04:53:56.716404194Z",
+  "model": "glm-5.2"
+}

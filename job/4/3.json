@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 4:3",
+  "book": "job",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Siehe, du hast viele zurechtgewiesen, und schlaffe Hände hast du gestärkt.",
+  "tokens": [
+    {
+      "surface": "הִ֭נֵּה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "יִסַּ֣רְתָּ",
+      "gloss": "hast du zurechtgewiesen"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "viele"
+    },
+    {
+      "surface": "וְיָדַ֖יִם",
+      "gloss": "und Hände"
+    },
+    {
+      "surface": "רָפ֣וֹת",
+      "gloss": "schlaffe"
+    },
+    {
+      "surface": "תְּחַזֵּֽק",
+      "gloss": "hast du gestärkt"
+    }
+  ],
+  "timestamp": "2026-08-06T09:22:57.164233780Z",
+  "model": "glm-5.2"
+}

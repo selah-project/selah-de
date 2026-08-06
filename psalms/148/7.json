@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 148,
+  "translation": "Lobt ⟨את⟩ JHWH von der Erde her, ihr Meerungetüme und all ⟨die⟩ Fluten,",
+  "tokens": [
+    {
+      "surface": "הַֽלְל֣וּ",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "תַּ֝נִּינִ֗ים",
+      "gloss": "ihr Meerungetüme"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "תְּהֹמֽוֹת",
+      "gloss": "⟨die⟩ Fluten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:46.600146034Z",
+  "model": "glm-5.2"
+}

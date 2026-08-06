@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 79,
+  "translation": "Und gib zurück unseren Nachbarn siebenfach in ihren Schoß ⟨die⟩ Schmach, die sie geschmäht haben, dich, Adonai.",
+  "tokens": [
+    {
+      "surface": "וְהָ֘שֵׁ֤ב",
+      "gloss": "und gib zurück"
+    },
+    {
+      "surface": "לִשְׁכֵנֵ֣ינוּ",
+      "gloss": "unseren Nachbarn"
+    },
+    {
+      "surface": "שִׁ֭בְעָתַיִם",
+      "gloss": "siebenfach"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "חֵיקָ֑ם",
+      "gloss": "ihren Schoß"
+    },
+    {
+      "surface": "חֶרְפָּ֘תָ֤ם",
+      "gloss": "Schmach"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "חֵרְפ֣וּךָ",
+      "gloss": "sie geschmäht haben, dich"
+    },
+    {
+      "surface": "אֲדֹנָֽי",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:12.697182729Z",
+  "model": "glm-5.2"
+}

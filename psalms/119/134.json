@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Löse mich aus ⟨aus⟩ der Bedrückung ⟨des⟩ Menschen, dann ⟨will⟩ ich deine Ordnungen bewahren.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "löse mich aus"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "⟨aus⟩ der Bedrückung"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨des⟩ Menschen"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "dann ⟨will⟩ ich bewahren"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "deine Ordnungen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:22.741937088Z",
+  "model": "glm-5.2"
+}

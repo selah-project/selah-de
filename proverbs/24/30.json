@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Am Feld eines Trägen kam ich vorbei und am Weinberg eines Menschen, dem das Herz fehlt.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "Feld"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eines"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "Trägen"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "kam ich vorbei"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und am"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "Weinberg"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "eines Menschen"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "fehlt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    }
+  ],
+  "timestamp": "2026-08-05T23:13:56.410552822Z",
+  "model": "glm-5.2"
+}

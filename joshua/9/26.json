@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨er⟩ tat ihnen so und rettete ⟨את⟩ sie aus der Hand der Söhne Jisraels, und sie töteten sie nicht.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und ⟨er⟩ tat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "und rettete"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "töteten sie"
+    }
+  ],
+  "timestamp": "2026-08-06T05:31:18.094275863Z",
+  "model": "glm-5.2"
+}

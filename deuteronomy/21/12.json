@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "dann sollst du sie ins Innere deines Hauses bringen, und sie soll ⟨את⟩ ihr Haupt scheren und ⟨את⟩ ihre Nägel machen.",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "dann sollst du bringen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "das Innere"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "deines Hauses"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "und sie soll scheren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Haupt"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "ihr Haupt"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "und ⟨soll⟩ machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Nägel"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "ihre Nägel"
+    }
+  ],
+  "timestamp": "2026-08-05T20:48:12.536002944Z",
+  "model": "glm-5.2"
+}

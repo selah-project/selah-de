@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 15:10",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und Schallum, der Sohn Jaweschs, verschwor sich gegen ihn und schlug ihn vor dem Volk und tötete ihn, und ⟨er⟩ wurde König an seiner Stelle.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "und verschwor sich"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "gegen ihn"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Schallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "der Sohn"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Jaweschs"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "und schlug ihn"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "vor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "und tötete ihn"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "und ⟨er⟩ wurde König"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seiner Stelle"
+    }
+  ],
+  "timestamp": "2026-08-06T01:35:07.371406437Z",
+  "model": "glm-5.2"
+}

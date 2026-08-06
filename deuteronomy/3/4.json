@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und wir eroberten ⟨את⟩ alle seine Städte zu jener Zeit; es war keine Stadt, die wir nicht von ihnen einnahmen: sechzig Städte, das ganze Gebiet von Argob, das Königreich Ogs in Baschan.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "Und wir eroberten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle seine Städte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "seine Städte"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "zu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jener Zeit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "war"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "eine Stadt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "wir einnahmen"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "von ihnen"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sechzig"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "(das ganze)"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "Gebiet"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "von Argob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "das Königreich"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogs"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "in Baschan"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:48.548996048Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Bei dir, JHWH, habe ich mich geborgen, ⟨lass⟩ mich niemals zuschanden werden; in deiner Gerechtigkeit rette mich.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "bei dir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "habe ich mich geborgen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨lass — nicht⟩"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ich zuschanden werde"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "niemals"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "in deiner Gerechtigkeit"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "rette mich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:59.263042265Z",
+  "model": "glm-5.2"
+}

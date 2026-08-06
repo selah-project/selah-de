@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und auch ich habe ⟨dich⟩ krank gemacht, ⟨dich⟩ zu schlagen — ⟨ich⟩ verwüste um deiner Sünden willen.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Und auch"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "habe krank gemacht"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "dich zu schlagen"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "verwüste"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "deiner Sünden willen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:37:49.428821161Z",
+  "model": "glm-5.2"
+}

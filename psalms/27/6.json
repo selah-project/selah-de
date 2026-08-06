@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und nun wird mein Haupt erhoben sein über meine Feinde rings um mich, und ich will opfern in seinem Zelt Schlachtopfer des Jubelschreis, ich will singen und ich will spielen für JHWH.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּ֨ה",
+      "gloss": "und nun"
+    },
+    {
+      "surface": "יָר֪וּם",
+      "gloss": "wird erhoben sein"
+    },
+    {
+      "surface": "רֹאשִׁ֡י",
+      "gloss": "mein Haupt"
+    },
+    {
+      "surface": "עַ֤ל",
+      "gloss": "über"
+    },
+    {
+      "surface": "אֹֽיְבַ֬י",
+      "gloss": "meine Feinde"
+    },
+    {
+      "surface": "סְֽבִיבוֹתַ֗י",
+      "gloss": "rings um mich"
+    },
+    {
+      "surface": "וְאֶזְבְּחָ֣ה",
+      "gloss": "und ich will opfern"
+    },
+    {
+      "surface": "בְ֭אָהֳל֑וֹ",
+      "gloss": "in seinem Zelt"
+    },
+    {
+      "surface": "זִבְחֵ֣י",
+      "gloss": "Schlachtopfer"
+    },
+    {
+      "surface": "תְרוּעָ֑ה",
+      "gloss": "des Jubelschreis"
+    },
+    {
+      "surface": "אָשִׁ֥ירָה",
+      "gloss": "ich will singen"
+    },
+    {
+      "surface": "וַ֝אֲזַמְּרָ֗ה",
+      "gloss": "und ich will spielen"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:06.115306945Z",
+  "model": "glm-5.2"
+}

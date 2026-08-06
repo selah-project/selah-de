@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und er setzte ⟨את⟩ das eine in Bet-El, und ⟨את⟩ das andere stellte er in Dan ⟨auf⟩.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "und er setzte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das eine"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "das eine"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das andere"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "das andere"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "stellte er"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "in Dan"
+    }
+  ],
+  "timestamp": "2026-08-05T21:29:39.931524221Z",
+  "model": "glm-5.2"
+}

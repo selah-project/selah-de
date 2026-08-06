@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 18:17",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und sie nahmen ⟨את⟩ Awschalom und warfen ihn in den Wald, ⟨in⟩ die große Grube, und errichteten über ihm einen sehr großen Steinhaufen. Und ganz Jisra'el floh, jeder ⟨Mann⟩ zu seinem Zelt.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Und sie nahmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awschalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awschalom"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "und sie warfen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn (Awschalom)"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "in den Wald"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨in⟩"
+    },
+    {
+      "surface": "הפחת",
+      "gloss": "die Grube"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "die große"
+    },
+    {
+      "surface": "ויצבו",
+      "gloss": "und sie errichteten"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "über ihm"
+    },
+    {
+      "surface": "גל",
+      "gloss": "einen Steinhaufen"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "von Steinen"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groß"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "floh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "zu seinem Zelt"
+    }
+  ],
+  "timestamp": "2026-08-06T19:40:20.297253714Z",
+  "model": "glm-5.2"
+}

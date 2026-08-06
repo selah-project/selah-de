@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und zwei Abteilungen bei euch, alle, die am Schabbat ⟨frei⟩ ausgehen, sollen ⟨את⟩ die Wache des Hauses des JHWH ⟨halten⟩ beim König.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "und zwei"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "Abteilungen"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "bei euch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "die ausgehen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "am Schabbat"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "sie sollen halten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wache"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "Wache"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "des JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    }
+  ],
+  "timestamp": "2026-08-06T05:55:09.952280810Z",
+  "model": "glm-5.2"
+}

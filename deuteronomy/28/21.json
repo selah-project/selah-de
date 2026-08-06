@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "JHWH wird ⟨an⟩ dir ⟨die⟩ Pest ankleben lassen — ⟨את⟩ ⟨die⟩ Seuche —, bis er dich vernichtet hat von der Erde weg, dahin du kommst, um sie in Besitz zu nehmen.",
+  "tokens": [
+    {
+      "surface": "יַדְבֵּ֧ק",
+      "gloss": "wird ankleben lassen"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בְּךָ֖",
+      "gloss": "an dir"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Seuche"
+    },
+    {
+      "surface": "הַדָּ֑בֶר",
+      "gloss": "die Seuche"
+    },
+    {
+      "surface": "עַ֚ד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "כַּלֹּת֣וֹ",
+      "gloss": "er vernichtet hat"
+    },
+    {
+      "surface": "אֹֽתְךָ֔",
+      "gloss": "dich"
+    },
+    {
+      "surface": "מֵעַל֙",
+      "gloss": "von … weg"
+    },
+    {
+      "surface": "הָֽאֲדָמָ֔ה",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בָא",
+      "gloss": "kommst"
+    },
+    {
+      "surface": "שָׁ֖מָּה",
+      "gloss": "dahin"
+    },
+    {
+      "surface": "לְרִשְׁתָּֽהּ",
+      "gloss": "um sie in Besitz zu nehmen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:47:31.630190750Z",
+  "model": "glm-5.2"
+}

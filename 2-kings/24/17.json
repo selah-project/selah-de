@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und der König von Bawel setzte ⟨את⟩ Matanja, seinen Onkel, an seiner Stelle ein und änderte ⟨את⟩ seinen Namen in Zidkijahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "und er setzte ein als König"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "von Bawel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanja"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanja"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "seinen Onkel"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "an seiner Stelle"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "und er änderte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Namen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "in Zidkijahu"
+    }
+  ],
+  "timestamp": "2026-08-06T01:38:25.095103968Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Und es geschah am zweiten Tag, ⟨dem⟩ der Tötung ⟨את⟩ Gedaljahus — und kein Mensch wusste ⟨davon⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dem zweiten"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "der Tötung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaljahus"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaljahus"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "und kein Mensch"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wusste"
+    }
+  ],
+  "timestamp": "2026-08-06T03:37:13.674763165Z",
+  "model": "glm-5.2"
+}

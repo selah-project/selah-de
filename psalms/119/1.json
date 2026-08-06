@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Wie glücklich sind die Untadeligen auf ⟨dem⟩ Weg, die gehen in der Tora JHWHs!",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֥י",
+      "gloss": "Wie glücklich sind"
+    },
+    {
+      "surface": "תְמִֽימֵי",
+      "gloss": "die Untadeligen"
+    },
+    {
+      "surface": "דָ֑רֶךְ",
+      "gloss": "auf Weg"
+    },
+    {
+      "surface": "הַֽ֝הֹלְכִ֗ים",
+      "gloss": "die gehen"
+    },
+    {
+      "surface": "בְּתוֹרַ֥ת",
+      "gloss": "in der Tora"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T16:02:13.118474267Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Besser, bei JHWH Zuflucht zu suchen, als beim Menschen zu vertrauen.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "besser"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "Zuflucht zu suchen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bei JHWH"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "als zu vertrauen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "beim Menschen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:48.851809775Z",
+  "model": "glm-5.2"
+}

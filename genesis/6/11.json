@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und die Erde verdarb vor Elohim, und ⟨die⟩ Erde war voll Gewalttat.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "Und verdarb"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "und war voll"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Gewalttat"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:31.792834006Z",
+  "model": "glm-5.2"
+}

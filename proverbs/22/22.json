@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Beraube nicht ⟨den⟩ Schwachen, denn schwach ⟨ist⟩ er, und zermalme nicht ⟨den⟩ Niedergedrückten im Tor!",
+  "tokens": [
+    {
+      "surface": "אַֽל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּגְזָל",
+      "gloss": "beraube"
+    },
+    {
+      "surface": "דָּ֭ל",
+      "gloss": "Schwachen"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "דַּ֣ל",
+      "gloss": "schwach"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "er"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תְּדַכֵּ֖א",
+      "gloss": "zermalme"
+    },
+    {
+      "surface": "עָנִ֣י",
+      "gloss": "Niedergedrückten"
+    },
+    {
+      "surface": "בַּשָּֽׁעַר",
+      "gloss": "im Tor"
+    }
+  ],
+  "timestamp": "2026-08-06T06:57:19.514975948Z",
+  "model": "glm-5.2"
+}

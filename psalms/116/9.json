@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 116,
+  "translation": "Ich werde wandeln vor dem Angesicht JHWHs in den Ländern der Lebenden.",
+  "tokens": [
+    {
+      "surface": "אֶ֭תְהַלֵּךְ",
+      "gloss": "Ich werde wandeln"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "vor dem Angesicht"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בְּ֝אַרְצ֗וֹת",
+      "gloss": "in den Ländern"
+    },
+    {
+      "surface": "הַֽחַיִּֽים",
+      "gloss": "der Lebenden"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:02.628357444Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Gedenke, Adonai, ⟨der⟩ Schmach deiner Knechte, ⟨die⟩ ich trage in meinem Gewandbausch — ⟨die⟩ all der vielen Völker!",
+  "tokens": [
+    {
+      "surface": "זְכֹ֣ר",
+      "gloss": "Gedenke"
+    },
+    {
+      "surface": "אֲ֭דֹנָי",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חֶרְפַּ֣ת",
+      "gloss": "Schmach"
+    },
+    {
+      "surface": "עֲבָדֶ֑יךָ",
+      "gloss": "deiner Knechte"
+    },
+    {
+      "surface": "שְׂאֵתִ֥י",
+      "gloss": "ich trage"
+    },
+    {
+      "surface": "בְ֝חֵיקִ֗י",
+      "gloss": "in meinem Gewandbausch"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "רַבִּ֥ים",
+      "gloss": "der vielen"
+    },
+    {
+      "surface": "עַמִּֽים",
+      "gloss": "Völker"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:42.053243647Z",
+  "model": "glm-5.2"
+}

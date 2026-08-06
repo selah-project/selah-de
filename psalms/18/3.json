@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "JHWH ⟨ist⟩ mein Fels und meine Festung und mein Retter, mein El, mein Fels — ⟨auf ihn⟩ vertraue ich —, mein Schild und das Horn meines Heils, meine Höhe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mein Fels"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "und meine Festung"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "und mein Retter"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mein El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mein Fels"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "vertraue ich"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨auf ihn⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mein Schild"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "und das Horn"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "meines Heils"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "meine Höhe"
+    }
+  ],
+  "timestamp": "2026-08-06T15:21:24.006777327Z",
+  "model": "glm-5.2"
+}

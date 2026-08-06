@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Schaul sprach: Gesegnet seid ihr ⟨von⟩ JHWH, denn ihr habt mich verschont.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "seid ihr"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨von⟩ JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "ihr habt verschont"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mich"
+    }
+  ],
+  "timestamp": "2026-08-06T02:46:29.433015699Z",
+  "model": "glm-5.2"
+}

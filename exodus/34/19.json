@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Jedes, das den Muttermund öffnet, ist ⟨für⟩ mich, und ganz dein Vieh, ⟨das⟩ Männliche, das den Muttermund öffnet, Rind und ⟨kleines⟩ Vieh.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "jedes"
+    },
+    {
+      "surface": "פֶּ֥טֶר",
+      "gloss": "das den Muttermund öffnet"
+    },
+    {
+      "surface": "רֶ֖חֶם",
+      "gloss": "(den Muttermund)"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "ist mir"
+    },
+    {
+      "surface": "וְכָֽל",
+      "gloss": "und ganz"
+    },
+    {
+      "surface": "מִקְנְךָ֙",
+      "gloss": "dein Vieh"
+    },
+    {
+      "surface": "תִּזָּכָ֔ר",
+      "gloss": "⟨das⟩ Männliche"
+    },
+    {
+      "surface": "פֶּ֖טֶר",
+      "gloss": "das den Muttermund öffnet"
+    },
+    {
+      "surface": "שׁ֥וֹר",
+      "gloss": "Rind"
+    },
+    {
+      "surface": "וָשֶֽׂה",
+      "gloss": "und ⟨kleines⟩ Vieh"
+    }
+  ],
+  "timestamp": "2026-08-06T00:21:12.071187450Z",
+  "model": "glm-5.2"
+}

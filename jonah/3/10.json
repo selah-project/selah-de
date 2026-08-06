@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Elohim sah ⟨את⟩ ihre Taten, dass sie umgekehrt waren von ihrem bösen Weg. Da ließ sich Elohim umstimmen über das Unheil, das er gesprochen hatte, ihnen anzutun, und tat es nicht.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֤רְא",
+      "gloss": "Und ⟨er⟩ sah"
+    },
+    {
+      "surface": "הָֽאֱלֹהִים֙",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Taten"
+    },
+    {
+      "surface": "מַ֣עֲשֵׂיהֶ֔ם",
+      "gloss": "ihre Taten"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "dass"
+    },
+    {
+      "surface": "שָׁ֖בוּ",
+      "gloss": "sie umgekehrt waren"
+    },
+    {
+      "surface": "מִדַּרְכָּ֣ם",
+      "gloss": "von ihrem"
+    },
+    {
+      "surface": "הָרָעָ֑ה",
+      "gloss": "bösen Weg"
+    },
+    {
+      "surface": "וַיִּנָּ֣חֶם",
+      "gloss": "Da ließ ⟨sich⟩ umstimmen"
+    },
+    {
+      "surface": "הָאֱלֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "הָרָעָ֛ה",
+      "gloss": "das Unheil"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "er gesprochen hatte"
+    },
+    {
+      "surface": "לַעֲשׂ֥וֹת",
+      "gloss": "anzutun"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "עָשָֽׂה",
+      "gloss": "tat ⟨es⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:00:47.518949865Z",
+  "model": "glm-5.2"
+}

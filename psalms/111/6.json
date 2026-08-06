@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 111,
+  "translation": "Die Kraft seiner Werkte verkündete er seinem Volk, um ihnen ⟨als⟩ Erbe ⟨das Land⟩ der Nationen zu geben.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "Die Kraft"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "seiner Werkte"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "verkündete er"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "seinem Volk"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "um zu geben"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "⟨als⟩ Erbe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "der Nationen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:20.392414308Z",
+  "model": "glm-5.2"
+}

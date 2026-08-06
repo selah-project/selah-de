@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "und JHWH hat euch nicht ⟨ein⟩ Herz gegeben, um zu erkennen, und Augen, um zu sehen, und Ohren, um zu hören, bis zu diesem Tag.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hat gegeben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herz"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "um zu erkennen"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "und Augen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "um zu sehen"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "und Ohren"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "um zu hören"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zum Tag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    }
+  ],
+  "timestamp": "2026-08-05T20:50:24.921335111Z",
+  "model": "glm-5.2"
+}

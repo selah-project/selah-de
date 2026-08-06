@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨die⟩ Versammlung der Völkerschaften wird dich umringen, und über ihr ⟨zur⟩ Höhe kehre zurück.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "und ⟨die⟩ Versammlung"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "der Völkerschaften"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "wird dich umringen"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "und über ihr"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "⟨zur⟩ Höhe"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "kehre zurück"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:47.790871195Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Da schrien sie zu JHWH in ⟨ihrer⟩ Bedrängnis, und aus ihren Engen rettete er sie.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Da schrien sie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in ⟨ihrer⟩ Bedrängnis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "aus ihren Engen"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "rettete er sie"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:53.487685966Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "Und sie werden Häuser bauen und ⟨darin⟩ wohnen, und Weinberge pflanzen und ⟨deren⟩ Frucht essen.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "und sie werden bauen"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "Häuser"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "und sie werden wohnen"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "und sie werden pflanzen"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "Weinberge"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "und sie werden essen"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "⟨deren⟩ Frucht"
+    }
+  ],
+  "timestamp": "2026-08-06T10:14:06.794522264Z",
+  "model": "glm-5.2"
+}

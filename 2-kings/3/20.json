@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und es geschah am Morgen, beim Aufsteigen ⟨der⟩ Mincha (Speisegabe), und siehe, Wasser kam den Weg von Edom her, und das Land füllte sich ⟨את⟩ des Wassers.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֤י",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "בַבֹּ֨קֶר֙",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "כַּעֲל֣וֹת",
+      "gloss": "beim Aufsteigen"
+    },
+    {
+      "surface": "הַמִּנְחָ֔ה",
+      "gloss": "⟨der⟩ Mincha (Speisegabe)"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "בָּאִ֖ים",
+      "gloss": "kam"
+    },
+    {
+      "surface": "מִדֶּ֣רֶךְ",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "אֱד֑וֹם",
+      "gloss": "von Edom her"
+    },
+    {
+      "surface": "וַתִּמָּלֵ֥א",
+      "gloss": "und ⟨es⟩ füllte sich"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "des Wassers"
+    },
+    {
+      "surface": "הַמָּֽיִם",
+      "gloss": "des Wassers"
+    }
+  ],
+  "timestamp": "2026-08-05T21:34:46.378779353Z",
+  "model": "glm-5.2"
+}

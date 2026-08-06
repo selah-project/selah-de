@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Bis wann fallt ihr ⟨über⟩ einen Mann ⟨an⟩, mordet ihr alle ihn ⟨wie⟩ eine geneigte Mauer, ⟨wie⟩ eine eingestürzte Umfriedung?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "wann"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "fallt ihr an"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨über⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "einen Mann"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "mordet ihr"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "wie eine Mauer"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "geneigte"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Umriedung"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "eingestürzte"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:35.936142221Z",
+  "model": "glm-5.2"
+}

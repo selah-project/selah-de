@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Bei alldem sündigten sie weiter und glaubten nicht an seine Wunderwerke.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Bei all"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dies(dem)"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "sündigten sie"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weiter"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨sie⟩ nicht"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "glaubten"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "an seine Wunderwerke"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:50.534126448Z",
+  "model": "glm-5.2"
+}

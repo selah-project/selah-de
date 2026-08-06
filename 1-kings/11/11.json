@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 11:11",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und JHWH sprach zu Schelomo: „Weil dies bei dir ⟨war⟩ und du meine Brit und meine Ordnungen, die ich dir geboten habe, nicht gehalten hast — reißen werde ich ⟨את⟩ das Königtum von dir weg und es deinem Knecht geben.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "zu Schelomo"
+    },
+    {
+      "surface": "יען",
+      "gloss": "weil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die (Relativpartikel)"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "war"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dies"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bei dir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "du gehalten hast"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "meine Brit"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "und meine Ordnungen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ich geboten habe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "reißen"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "werde ich reißen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Königtum"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "das Königtum"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "von dir weg"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "und werde es geben"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "deinem Knecht"
+    }
+  ],
+  "timestamp": "2026-08-06T21:15:52.265541092Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Nicht sollt ihr ⟨zusammen⟩ mit mir machen: Elohim aus Silber und Elohim aus Gold sollt ihr euch nicht machen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "sollt ihr machen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "mit mir"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim aus"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "und Elohim aus"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sollt ihr machen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    }
+  ],
+  "timestamp": "2026-08-06T02:05:12.702692736Z",
+  "model": "glm-5.2"
+}

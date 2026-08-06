@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ich wandte mich, ich, und sah ⟨את⟩ all die Unterdrückten, die unter der Sonne gemacht werden, und siehe: Tränen der Unterdrückten — und ⟨es ist⟩ keiner für sie da, ⟨der⟩ Tröstende, und aus der Hand ihrer Bedrücker ⟨kommt⟩ Kraft, und ⟨es ist⟩ keiner für sie da, ⟨der⟩ Tröstende.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Und ich wandte mich"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all die Unterdrückten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "die Unterdrückten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "gemacht werden"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "Tränen"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "der Unterdrückten"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es ist⟩ keiner"
+    },
+    {
+      "surface": "להם",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Tröstende"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "und aus der Hand"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "ihrer Bedrücker"
+    },
+    {
+      "surface": "כח",
+      "gloss": "Kraft"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es ist⟩ keiner"
+    },
+    {
+      "surface": "להם",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Tröstende"
+    }
+  ],
+  "timestamp": "2026-08-06T15:27:27.424059893Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Mosche nahm ⟨את⟩ das Salböl und salbte ⟨את⟩ den Mischkan und ⟨את⟩ alles, was in ihm war, und er heiligte ⟨את⟩ sie.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und Mosche nahm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Salböl"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "das Öl"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "der Salbung"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "und salbte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Mischkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "den Mischkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in ihm war"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "und er heiligte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "den Mischkan und alles in ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:57.898666040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Eli rief ⟨את⟩ Schmuël und sagte: „Schmuël, mein Sohn.“ Und ⟨er⟩ sagte: „Hier bin ich.“",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Und rief"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Schmuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mein Sohn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hier bin ich"
+    }
+  ],
+  "timestamp": "2026-08-06T05:37:55.024761821Z",
+  "model": "glm-5.2"
+}

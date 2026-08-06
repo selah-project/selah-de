@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Als sie Männer der Zahl waren, wie wenige, und Fremdlinge darin ⟨waren⟩.",
+  "tokens": [
+    {
+      "surface": "בִּֽ֭הְיוֹתָם",
+      "gloss": "als sie … waren"
+    },
+    {
+      "surface": "מְתֵ֣י",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "מִסְפָּ֑ר",
+      "gloss": "der Zahl"
+    },
+    {
+      "surface": "כִּ֝מְעַ֗ט",
+      "gloss": "wie wenige"
+    },
+    {
+      "surface": "וְגָרִ֥ים",
+      "gloss": "und Fremdlinge"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "darin"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:57.595488894Z",
+  "model": "glm-5.2"
+}

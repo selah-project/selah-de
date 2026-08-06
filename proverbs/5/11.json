@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 5:11",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "und du stöhnst am Ende, wenn verzehrt sind dein Fleisch und dein Leib,",
+  "tokens": [
+    {
+      "surface": "וְנָהַמְתָּ֥",
+      "gloss": "und du stöhnst"
+    },
+    {
+      "surface": "בְאַחֲרִיתֶ֑ךָ",
+      "gloss": "am Ende"
+    },
+    {
+      "surface": "בִּכְל֥וֹת",
+      "gloss": "wenn verzehrt sind"
+    },
+    {
+      "surface": "בְּשָׂרְךָ֗",
+      "gloss": "dein Fleisch"
+    },
+    {
+      "surface": "וּשְׁאֵרֶֽךָ",
+      "gloss": "und dein Leib"
+    }
+  ],
+  "timestamp": "2026-08-06T04:26:00.890219712Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Ich bin schlaflos gewesen, und so bin ich wie ein einsamer Vogel auf dem Dach.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "ich bin schlaflos gewesen"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "und so bin ich"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "wie ein Vogel"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "einsamer"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "גג",
+      "gloss": "dem Dach"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:46.577454755Z",
+  "model": "glm-5.2"
+}

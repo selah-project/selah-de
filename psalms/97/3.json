@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 97,
+  "translation": "Feuer geht vor ihm her und entflammt ringsum seine Bedränger.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "geht … her"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "und entflammt"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "seine Bedränger"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:41.153710106Z",
+  "model": "glm-5.2"
+}

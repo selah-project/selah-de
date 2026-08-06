@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "So ⟨ist⟩ ein Mann, der ⟨את⟩ seinen Nächsten täuscht, und sagt: „Habe ich nicht nur gescherzt?",
+  "tokens": [
+    {
+      "surface": "כֵּֽן",
+      "gloss": "So"
+    },
+    {
+      "surface": "אִ֭ישׁ",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "רִמָּ֣ה",
+      "gloss": "der täuscht"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Nächsten"
+    },
+    {
+      "surface": "רֵעֵ֑הוּ",
+      "gloss": "seinen Nächsten"
+    },
+    {
+      "surface": "וְ֝אָמַ֗ר",
+      "gloss": "und sagt"
+    },
+    {
+      "surface": "הֲֽלֹא",
+      "gloss": "Habe ich nicht"
+    },
+    {
+      "surface": "מְשַׂחֵ֥ק",
+      "gloss": "nur gescherzt"
+    },
+    {
+      "surface": "אָֽנִי",
+      "gloss": "ich"
+    }
+  ],
+  "timestamp": "2026-08-06T22:47:22.147893012Z",
+  "model": "glm-5.2"
+}

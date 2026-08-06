@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und jede Frau, weisen Herzens, spann mit ihren Händen, und sie brachten Gesponnenes: ⟨את⟩ das Violette und ⟨את⟩ das Purpur, ⟨את⟩ den Scharlachwurm und ⟨את⟩ das Byssus.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "und jede"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Frau"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "weise"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herzens"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "mit ihren Händen"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "spann"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "und sie brachten"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "Gesponnenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Violette"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "das Violette"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Purpur"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "das Purpur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Scharlachwurm"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "der Wurm"
+    },
+    {
+      "surface": "השני",
+      "gloss": "der Scharlach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Byssus"
+    },
+    {
+      "surface": "השש",
+      "gloss": "das Byssus"
+    }
+  ],
+  "timestamp": "2026-08-06T00:21:39.125582299Z",
+  "model": "glm-5.2"
+}

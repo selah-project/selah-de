@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Denn in Hebel kam er, und in Finsternis geht er, und in Finsternis wird sein Name bedeckt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "in Hebel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kam er"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "und in Finsternis"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "geht er"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "und in Finsternis"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sein Name"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "wird bedeckt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:14.324149025Z",
+  "model": "glm-5.2"
+}

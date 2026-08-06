@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 27:7",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und ⟨es war⟩ die Zahl der Tage, die Dawid im Gebiet der Pelischtim wohnte, ⟨ein⟩ Jahr und vier Monate.",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי֙",
+      "gloss": "und ⟨es war⟩"
+    },
+    {
+      "surface": "מִסְפַּ֣ר",
+      "gloss": "die Zahl"
+    },
+    {
+      "surface": "הַיָּמִ֔ים",
+      "gloss": "der Tage"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יָשַׁ֥ב",
+      "gloss": "wohnte"
+    },
+    {
+      "surface": "דָּוִ֖ד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בִּשְׂדֵ֣ה",
+      "gloss": "im Gebiet"
+    },
+    {
+      "surface": "פְלִשְׁתִּ֑ים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "יָמִ֖ים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "וְאַרְבָּעָ֥ה",
+      "gloss": "und vier"
+    },
+    {
+      "surface": "חֳדָשִֽׁים",
+      "gloss": "Monate"
+    }
+  ],
+  "timestamp": "2026-08-06T01:11:35.378986454Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "„Aber von der Frucht des Baumes, der inmitten des Gartens ⟨steht⟩, hat Elohim gesagt: Ihr sollt nicht davon essen und sollt ihn nicht berühren, damit ihr nicht sterbt.“",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Aber von der Frucht"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "des Baumes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "des Gartens"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hat gesagt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sollt ihr essen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "davon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "sollt ihr berühren"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "פן",
+      "gloss": "damit nicht"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ihr sterbt"
+    }
+  ],
+  "timestamp": "2026-08-06T01:51:55.963566682Z",
+  "model": "glm-5.2"
+}

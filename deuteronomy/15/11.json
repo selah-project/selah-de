@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Denn es wird nicht aufhören, ein Dürftiger aus der Mitte des Landes, deshalb gebiete ich dir, das sagt: Weit öffnen sollst du ⟨את⟩ deine Hand deinem Bruder, deinem Armen und deinem Dürftigen in deinem Land.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "wird aufhören"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ein Dürftiger"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "aus der Mitte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "על",
+      "gloss": "deshalb"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "gebiete ich dir"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "das sagt"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Weit öffnen"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "sollst du öffnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "deinem Bruder"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "deinem Armen"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "und deinem Dürftigen"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "in deinem Land"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:56.143637074Z",
+  "model": "glm-5.2"
+}

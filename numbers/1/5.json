@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und dies sind die Namen der Männer, die bei euch stehen werden: für Rewuwen, Elizur, Sohn des Schedeur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sind die Namen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "der Männer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stehen werden"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "bei euch"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "für Rewuwen"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elizur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "des Schedeur"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:55.624780162Z",
+  "model": "glm-5.2"
+}

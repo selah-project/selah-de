@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Hört doch ⟨את⟩, was JHWH sagt: Steh auf, streite ⟨mit⟩ den Bergen, und ⟨es sollen⟩ hören die Hügel ⟨deine⟩ Stimme!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hört"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagt"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "streite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨mit⟩",
+      "marks": "die Berge"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "den Bergen"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "und ⟨es sollen⟩ hören"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "die Hügel"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "⟨deine⟩ Stimme"
+    }
+  ],
+  "timestamp": "2026-08-06T04:03:28.155369600Z",
+  "model": "glm-5.2"
+}

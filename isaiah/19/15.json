@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und es wird für Mizrajim kein Werk geben, das Kopf oder Schwanz, Palmzweig oder Rohr ausführen könnte.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wird sein"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "für Mizrajim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ein Werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ausführen könnte"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Kopf"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "und Schwanz"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "Palmzweig"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "und Rohr"
+    }
+  ],
+  "timestamp": "2026-08-06T01:43:04.380932532Z",
+  "model": "glm-5.2"
+}

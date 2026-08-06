@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 144,
+  "translation": "JHWH, neige deine Himmel und fahre hinab, rühre die Berge ⟨an⟩, und sie werden rauchen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הט",
+      "gloss": "neige"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "deine Himmel"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "und fahre hinab"
+    },
+    {
+      "surface": "גע",
+      "gloss": "rühre"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "die Berge ⟨an⟩"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "und sie werden rauchen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:34.367188506Z",
+  "model": "glm-5.2"
+}

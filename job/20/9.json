@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Das Auge, das ihn erspähte, wird ⟨ihn⟩ nicht wieder sehen, und sein Ort wird ihn nicht mehr erblicken.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "Das Auge"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "das ihn erspähte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "wieder sehen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "wird erblicken"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "sein Ort"
+    }
+  ],
+  "timestamp": "2026-08-06T09:24:32.001853726Z",
+  "model": "glm-5.2"
+}

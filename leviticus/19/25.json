@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und im fünften Jahr werdet ihr ⟨את⟩ seine Frucht essen, um euch seinen Ertrag zu mehren — ich ⟨bin⟩ JHWH, euer Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "und im Jahr"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "dem fünften"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "werdet ihr essen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Frucht"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "seine Frucht"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "um zu mehren"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "seinen Ertrag"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:28:04.151287910Z",
+  "model": "glm-5.2"
+}

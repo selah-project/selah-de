@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 120,
+  "translation": "Geschärfte Pfeile ⟨des⟩ Helden, ⟨zusammen⟩ mit Glut des Retemstrauchs!",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Pfeile"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Helden"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "Geschärfte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zusammen mit"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "Glut"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "Retemstrauchs"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:07.471128825Z",
+  "model": "glm-5.2"
+}

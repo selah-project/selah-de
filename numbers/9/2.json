@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "„Und die Söhne Jisraels sollen ⟨את⟩ das Pesach machen zu seiner festgesetzten Zeit.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Und ⟨sie⟩ sollen machen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "das Pesach"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "zu seiner festgesetzten Zeit"
+    }
+  ],
+  "timestamp": "2026-08-05T20:31:31.503361477Z",
+  "model": "glm-5.2"
+}

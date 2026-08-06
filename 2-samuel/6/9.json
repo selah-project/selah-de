@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Dawid fürchtete ⟨an⟩ jenem Tag JHWH ⟨את⟩ und sagte: „Wie soll die Lade JHWHs zu mir kommen?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "und fürchtete"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "an Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "איך",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "soll kommen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-06T02:50:19.590620545Z",
+  "model": "glm-5.2"
+}

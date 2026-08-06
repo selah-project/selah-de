@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ich werde dich mir verloben in Emuna, und du wirst ⟨את⟩ JHWH erkennen.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "und ich werde dich verloben"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "in Emuna"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "und du wirst erkennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T22:30:28.075395405Z",
+  "model": "glm-5.2"
+}

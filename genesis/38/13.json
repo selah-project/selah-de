@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 38:13",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Und ⟨es wurde⟩ Tamar berichtet, ⟨und man⟩ sagte: „Siehe, dein Schwiegervater steigt hinauf nach Timna, um seine Schafherde zu scheren.“",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "und ⟨es wurde⟩ berichtet"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "der Tamar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und man⟩ sagte"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "חמיך",
+      "gloss": "dein Schwiegervater"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "steigt hinauf"
+    },
+    {
+      "surface": "תמנתה",
+      "gloss": "nach Timna"
+    },
+    {
+      "surface": "לגז",
+      "gloss": "um zu scheren"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "seine Schafherde"
+    }
+  ],
+  "timestamp": "2026-08-06T00:09:57.649098092Z",
+  "model": "glm-5.2"
+}

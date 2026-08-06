@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Es gibt ⟨einen⟩, der unbedacht losspricht — wie Schwertstichen —, ⟨aber⟩ die Zunge der Weisen ⟨ist⟩ Heilung.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Es gibt"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "der unbedacht losspricht"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "wie … Stichen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Schwert"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "⟨aber⟩ die Zunge"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "der Weisen"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "Heilung"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:20.585168187Z",
+  "model": "glm-5.2"
+}

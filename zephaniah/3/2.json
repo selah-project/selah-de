@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Nicht hörte sie ⟨auf⟩ die Stimme, nicht nahm sie Zurechtweisung an; auf JHWH vertraute sie nicht, ihrem Elohim näherte sie sich nicht.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hörte sie"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨auf⟩ die Stimme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "nahm sie … an"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "Zurechtweisung"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "auf JHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "vertraute sie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ihrem"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "näherte sie sich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:39:11.503773202Z",
+  "model": "glm-5.2"
+}

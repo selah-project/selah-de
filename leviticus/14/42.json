@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und sie sollen andere Steine nehmen und ⟨sie⟩ anstelle der Steine bringen, die ⟨entfernt wurden⟩, und er soll anderen Staub nehmen und ⟨את⟩ das Haus verputzen.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Und sie sollen nehmen"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "Steine"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "andere"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "und ⟨sie⟩ bringen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Stelle"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "der Steine"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "und Staub"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anderen"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "soll er nehmen"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "und verputzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    }
+  ],
+  "timestamp": "2026-08-05T20:24:16.373769778Z",
+  "model": "glm-5.2"
+}

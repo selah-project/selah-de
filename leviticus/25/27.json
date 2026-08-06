@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und ⟨er⟩ berechne ⟨את⟩ die Jahre seines Verkaufs und erstatte ⟨את⟩ den Überschuss dem Mann, der an ihn verkauft hat, und ⟨er⟩ kehre zurück zu seinem Besitztum.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "Und ⟨er⟩ berechne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Jahre seines Verkaufs"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die Jahre"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "seines Verkaufs"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "und ⟨er⟩ erstatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Überschuss"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "den Überschuss"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "dem Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "verkauft hat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "an ihn"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "und ⟨er⟩ kehre zurück"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "zu seinem Besitztum"
+    }
+  ],
+  "timestamp": "2026-08-06T05:21:25.759464770Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "in jenen Tagen, als der König Achaschwerosch auf dem Thron seiner Königsherrschaft saß, der in Schuschan, der Burg, ⟨ist⟩ —",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "jenen Tagen"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "als … saß"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achaschwerosch"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "dem Thron"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "seiner Königsherrschaft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "in Schuschan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "der Burg"
+    }
+  ],
+  "timestamp": "2026-08-05T23:32:35.967318039Z",
+  "model": "glm-5.2"
+}

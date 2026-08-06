@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Eine Fackel der Verachtung ⟨ist⟩ ⟨für⟩ die Sorglosen, bereit ⟨für⟩ die, deren Fuß wankt.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "Fackel"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "der Verachtung"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "⟨für⟩ die Sorglosen"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "⟨die Sorglosen⟩"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "bereit"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "⟨für⟩ die, deren"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "Fuß wankt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:17:52.096225396Z",
+  "model": "glm-5.2"
+}

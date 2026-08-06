@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "Von Dawid. Segne, meine Nefesch, ⟨את⟩ JHWH, und all mein Innerstes, ⟨seinen⟩ heiligen Namen.",
+  "tokens": [
+    {
+      "surface": "לְדָוִ֨ד",
+      "gloss": "Von Dawid"
+    },
+    {
+      "surface": "בָּרֲכִ֣י",
+      "gloss": "segne"
+    },
+    {
+      "surface": "נַ֭פְשִׁי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "קְ֝רָבַ֗י",
+      "gloss": "mein Innerstes"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seinen heiligen Namen"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "⟨seinen⟩ Namen"
+    },
+    {
+      "surface": "קָדְשֽׁוֹ",
+      "gloss": "heiligen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:25.632700482Z",
+  "model": "glm-5.2"
+}

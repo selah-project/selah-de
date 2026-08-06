@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "und ⟨את⟩ ihre zwei Söhne, ⟨von denen⟩ der Name des einen Gerschom, denn ⟨er⟩ sagte: „Ein Fremdling ⟨bin⟩ ich gewesen im Land der Fremde",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre zwei Söhne"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ihre Söhne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨von denen⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der Name"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "des einen"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerschom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagte"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ein Fremdling"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bin ich gewesen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "der Fremde"
+    }
+  ],
+  "timestamp": "2026-08-06T15:38:33.308991221Z",
+  "model": "glm-5.2"
+}

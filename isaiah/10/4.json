@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Nur ⟨dass man⟩ sich beugt unter ⟨den〉 Gefangenen, und unter ⟨den〉 Erschlagenen fällt. Bei all dem wandte sich sein Zorn nicht ab, und seine Hand ist noch ausgestreckt.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "nur"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "sich beugt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "⟨den⟩ Gefangenen"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "und unter"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "⟨den⟩ Erschlagenen"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "fällt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bei all"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wandte sich ab"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sein Zorn"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "und noch"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ist ausgestreckt"
+    }
+  ],
+  "timestamp": "2026-08-06T08:50:40.223630388Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Wer ⟨ist⟩ dieser Mensch, der JHWH fürchtet? ⟨Ihn⟩ wird ⟨er⟩ ⟨den⟩ Weg lehren, den ⟨er⟩ wählt.",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "זֶ֣ה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "הָ֭אִישׁ",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "יְרֵ֣א",
+      "gloss": "fürchtet"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "י֝וֹרֶ֗נּוּ",
+      "gloss": "⟨er⟩ wird ⟨ihn⟩ lehren"
+    },
+    {
+      "surface": "בְּדֶ֣רֶךְ",
+      "gloss": "⟨den⟩ Weg"
+    },
+    {
+      "surface": "יִבְחָֽר",
+      "gloss": "⟨er⟩ wählt"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:50.938514808Z",
+  "model": "glm-5.2"
+}

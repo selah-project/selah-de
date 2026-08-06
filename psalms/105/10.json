@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Und er richtete sie auf dem Jaakow zur Satzung, dem Jisra'el ⟨als⟩ Brit Olam:",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "Und er richtete sie auf"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "dem Jaakow"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "zur Satzung"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "dem Jisra'el"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨als⟩ Brit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:24.362585847Z",
+  "model": "glm-5.2"
+}

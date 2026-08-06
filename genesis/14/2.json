@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "sie führten Krieg ⟨gegen⟩ ⟨את⟩ Bera, König von Sedom, und ⟨gegen⟩ ⟨את⟩ Bir Scha, König von Amora, Schinab, König von Adma, und Schem Ewer, König von Zebojim, ⟨und⟩ ⟨gegen⟩ den König von Bela — das ist Zoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "sie führten"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "Krieg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "von Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Bir Scha"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Bir Scha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "von Amora"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Schinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "von Adma"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "und Schem Ewer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "von Zebojim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "und ⟨den⟩ König"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "von Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "das ist"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Zoar"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:59.027738554Z",
+  "model": "glm-5.2"
+}

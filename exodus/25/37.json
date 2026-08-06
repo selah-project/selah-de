@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und du sollst ⟨את⟩ ihre Lampen machen, sieben, und ⟨man⟩ soll ⟨את⟩ ihre Lampen aufsetzen, ⟨damit⟩ sie leuchten auf ⟨die⟩ Seite ihrer Vorderseite.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Und du sollst machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Lampen"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ihre Lampen"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "und ⟨man⟩ soll aufsetzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Lampen"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ihre Lampen"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "und ⟨damit⟩ sie leuchten"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨die⟩ Seite"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ihrer Vorderseite"
+    }
+  ],
+  "timestamp": "2026-08-05T20:12:32.003077804Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 7:16",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und nun habe ich ⟨את⟩ dieses Haus erwählt und ⟨es⟩ geheiligt, damit mein Name dort sei bis ewig; und meine Augen und mein Herz sollen dort sein alle Tage.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "habe ich … erwählt"
+    },
+    {
+      "surface": "והקדשתי",
+      "gloss": "und ⟨es⟩ geheiligt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "damit … sei"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mein Name"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewig"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "und … sollen … sein"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "und mein Herz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "Tage"
+    }
+  ],
+  "timestamp": "2026-08-06T07:25:53.740247002Z",
+  "model": "glm-5.2"
+}

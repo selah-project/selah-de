@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 18:37",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Du machst meinen Schritt weit unter mir, und meine Knöchel wankten nicht.",
+  "tokens": [
+    {
+      "surface": "תַּרְחִ֣יב",
+      "gloss": "Du machst weit"
+    },
+    {
+      "surface": "צַעֲדִ֣י",
+      "gloss": "meinen Schritt"
+    },
+    {
+      "surface": "תַחְתָּ֑י",
+      "gloss": "unter mir"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "מָ֝עֲד֗וּ",
+      "gloss": "wankten"
+    },
+    {
+      "surface": "קַרְסֻלָּֽי",
+      "gloss": "meine Knöchel"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:14.236408439Z",
+  "model": "glm-5.2"
+}

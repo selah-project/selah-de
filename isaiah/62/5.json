@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Denn wie ein Jüngling eine Jungfrau heiratet, ⟨so⟩ werden deine Söhne dich heiraten, und wie sich der Bräutigam über die Braut freut, ⟨so⟩ wird sich dein Elohim über dich freuen.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "יִבְעַ֤ל",
+      "gloss": "heiratet"
+    },
+    {
+      "surface": "בָּחוּר֙",
+      "gloss": "ein Jüngling"
+    },
+    {
+      "surface": "בְּתוּלָ֔ה",
+      "gloss": "eine Jungfrau"
+    },
+    {
+      "surface": "יִבְעָל֖וּךְ",
+      "gloss": "werden … dich heiraten"
+    },
+    {
+      "surface": "בָּנָ֑יִךְ",
+      "gloss": "deine Söhne"
+    },
+    {
+      "surface": "וּמְשׂ֤וֹשׂ",
+      "gloss": "und ⟨wie⟩ sich freut"
+    },
+    {
+      "surface": "חָתָן֙",
+      "gloss": "der Bräutigam"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "כַּלָּ֔ה",
+      "gloss": "die Braut"
+    },
+    {
+      "surface": "יָשִׂ֥ישׂ",
+      "gloss": "wird sich freuen"
+    },
+    {
+      "surface": "עָלַ֖יִךְ",
+      "gloss": "über dich"
+    },
+    {
+      "surface": "אֱלֹהָֽיִךְ",
+      "gloss": "dein Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T03:22:35.269808582Z",
+  "model": "glm-5.2"
+}

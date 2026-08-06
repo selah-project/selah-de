@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Als ich schwieg, vergingen meine Gebeine durch mein Stöhnen den ganzen Tag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Als"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ich schwieg"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "vergingen"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "meine Gebeine"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "durch mein Stöhnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:01.296048080Z",
+  "model": "glm-5.2"
+}

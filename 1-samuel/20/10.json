@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Dawid sprach zu Jehonatan: „Wer wird es mir mitteilen, oder was wird dein Vater dir antworten — ⟨ein⟩ Hartes?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "wird mitteilen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "wird er antworten ⟨dir⟩"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "dein Vater"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ein Hartes"
+    }
+  ],
+  "timestamp": "2026-08-06T22:37:39.448918367Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "„Ein ⟨jeglicher⟩ Mann, ⟨aus⟩ dem Haus Jisraels, der schlachtet ⟨einen⟩ Stier oder ein Schaf oder eine Ziege im Lager, oder der schlachtet außerhalb des Lagers —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨jeglicher⟩ Mann"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨aus⟩ dem Haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "schlachtet"
+    },
+    {
+      "surface": "שור",
+      "gloss": "⟨einen⟩ Stier"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ein Schaf"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "עז",
+      "gloss": "eine Ziege"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "im Lager"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "schlachtet"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "des Lagers"
+    }
+  ],
+  "timestamp": "2026-08-05T20:24:53.305618574Z",
+  "model": "glm-5.2"
+}

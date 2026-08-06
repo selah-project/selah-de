@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Mein Elohim — über mir, meine Nefesch, ⟨ist⟩ sie niedergebeugt; darum gedenke ich deiner, vom Land des Jarden und ⟨von⟩ den Chermonim, vom Berg Miz'ar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Mein Elohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "über mir"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "⟨ist⟩ sie niedergebeugt"
+    },
+    {
+      "surface": "על",
+      "gloss": "darum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "gedenke ich deiner"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "vom Land"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "des Jarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "und ⟨von⟩ den Chermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "vom Berg"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Miz'ar"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:37.478253044Z",
+  "model": "glm-5.2"
+}

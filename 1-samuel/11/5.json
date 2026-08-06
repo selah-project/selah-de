@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 11:5",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und siehe, Schaul kam hinter dem Rindervieh her vom Feld, und Schaul sagte: „Was ⟨hat⟩ das Volk, dass sie weinen?\" Und sie erzählten ihm ⟨את⟩ die Worte der Männer von Jawesch.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dem Rindervieh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨dem⟩ Feld"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨hat⟩ das Volk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "sie weinen"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "und sie erzählten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "der Männer"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "von Jawesch"
+    }
+  ],
+  "timestamp": "2026-08-06T22:36:51.932744019Z",
+  "model": "glm-5.2"
+}

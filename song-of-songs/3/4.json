@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Kaum war ich an ihnen vorübergegangen, da fand ich ⟨את⟩ den, den meine Nefesch liebt. Ich hielt ihn fest und ließ ihn nicht los, bis ich ihn gebracht hatte ins Haus meiner Mutter und in das Gemach derer, die mich empfing.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "war ich vorübergegangen"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "an ihnen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "fand ich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den, den meine Nefesch liebt"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "den … liebt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "ich hielt ihn fest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "ließ ich ihn los"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "ich ihn gebracht hatte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "meiner Mutter"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und in"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "das Gemach"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "derer, die mich empfing"
+    }
+  ],
+  "timestamp": "2026-08-06T07:05:50.434943170Z",
+  "model": "glm-5.2"
+}

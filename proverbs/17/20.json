@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Ein verdrehtes Herz wird nichts Gutes finden, und wer ⟨mit⟩ seiner Zunge gewendet ist, wird ins Böse fallen.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "Ein verdrehtes"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "wird finden"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "und ⟨der⟩ gewendet ist"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "⟨mit⟩ seiner Zunge"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "wird fallen"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ins Böse"
+    }
+  ],
+  "timestamp": "2026-08-06T19:52:41.726766245Z",
+  "model": "glm-5.2"
+}

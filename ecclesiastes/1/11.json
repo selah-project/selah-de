@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Kein Gedenken ⟨an⟩ die Ersten, und auch den Letzten, die sein werden, wird ⟨es⟩ bei denjenigen, die danach sein werden, kein Gedenken geben.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Kein"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "Gedenken"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "⟨an⟩ die Ersten"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "den Letzten"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "die sein werden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wird"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bei ihnen"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "Gedenken"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "denjenigen, die danach sein werden"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "⟨—⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:40:56.906816829Z",
+  "model": "glm-5.2"
+}

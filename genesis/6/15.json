@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und dies ⟨ist⟩, wie du sie ⟨את⟩ machen sollst: dreihundert Ellen die Länge der Arche, fünfzig Ellen ihre Breite und dreißig Ellen ihre Höhe.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du machen sollst"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie (die Arche)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "Länge"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "der Arche"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fünfzig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ihre Breite"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "und dreißig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ihre Höhe"
+    }
+  ],
+  "timestamp": "2026-08-05T19:54:51.781024773Z",
+  "model": "glm-5.2"
+}

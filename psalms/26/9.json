@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Sammle nicht mit Schuldigen meine Nefesch, und mit Männern des Blutes mein Leben!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "sammle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "Schuldigen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "und mit"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Männern"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "des Blutes"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mein Leben"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:17.797427891Z",
+  "model": "glm-5.2"
+}

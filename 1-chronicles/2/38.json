@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und Owed zeugte ⟨את⟩ Jehu, und Jehu zeugte ⟨את⟩ Asarja.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Und Owed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "und Jehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Asarja"
+    }
+  ],
+  "timestamp": "2026-08-05T23:46:32.803895645Z",
+  "model": "glm-5.2"
+}

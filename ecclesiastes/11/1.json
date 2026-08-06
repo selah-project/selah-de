@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Sende dein Brot aus auf die Fläche der Wasser, denn in der Menge der Tage wirst du es finden.",
+  "tokens": [
+    {
+      "surface": "שַׁלַּ֥ח",
+      "gloss": "Sende aus"
+    },
+    {
+      "surface": "לַחְמְךָ֖",
+      "gloss": "dein Brot"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "die Fläche"
+    },
+    {
+      "surface": "הַמָּ֑יִם",
+      "gloss": "der Wasser"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בְרֹ֥ב",
+      "gloss": "in der Menge"
+    },
+    {
+      "surface": "הַיָּמִ֖ים",
+      "gloss": "der Tage"
+    },
+    {
+      "surface": "תִּמְצָאֶֽנּוּ",
+      "gloss": "wirst du es finden"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:04.190306038Z",
+  "model": "glm-5.2"
+}

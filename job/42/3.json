@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "„Wer ⟨ist⟩ das, der Rat verbirgt ohne Erkenntnis? Ja, ich habe geredet und verstehe ⟨es⟩ nicht — Dinge, zu wunderbar für mich, und ich erkenne ⟨sie⟩ nicht.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "זה",
+      "gloss": "das"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "der verbirgt"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "Rat"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Erkenntnis"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ich habe geredet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "verstehe"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "Dinge, zu wunderbar"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "für mich"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "erkenne"
+    }
+  ],
+  "timestamp": "2026-08-05T23:25:32.131139859Z",
+  "model": "glm-5.2"
+}

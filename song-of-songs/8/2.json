@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Ich führte dich hin, brächte dich ins Haus meiner Mutter — du lehrtest mich —, gäbe dir zu trinken vom gewürzten Wein, vom Most meines Granatapfels.",
+  "tokens": [
+    {
+      "surface": "אֶנְהָֽגֲךָ֗",
+      "gloss": "Ich führte dich hin"
+    },
+    {
+      "surface": "אֲבִֽיאֲךָ֛",
+      "gloss": "brächte dich"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "אִמִּ֖י",
+      "gloss": "meiner Mutter"
+    },
+    {
+      "surface": "תְּלַמְּדֵ֑נִי",
+      "gloss": "du lehrtest mich"
+    },
+    {
+      "surface": "אַשְׁקְךָ֙",
+      "gloss": "gäbe dir zu trinken"
+    },
+    {
+      "surface": "מִיַּ֣יִן",
+      "gloss": "vom Wein"
+    },
+    {
+      "surface": "הָרֶ֔קַח",
+      "gloss": "gewürzten"
+    },
+    {
+      "surface": "מֵעֲסִ֖יס",
+      "gloss": "vom Most"
+    },
+    {
+      "surface": "רִמֹּנִֽי",
+      "gloss": "meines Granatapfels"
+    }
+  ],
+  "timestamp": "2026-08-06T10:38:57.671781848Z",
+  "model": "glm-5.2"
+}

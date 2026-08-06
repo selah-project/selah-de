@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 63,
+  "translation": "Und ich trat Völker nieder in meinem Zorn und berauschte sie in meiner Wut und brachte ihren Traubensaft zur Erde hinab.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "Und ich trat nieder"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "in meinem Zorn"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "und berauschte sie"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "in meiner Wut"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "und brachte hinab"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zur Erde"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "ihren Traubensaft"
+    }
+  ],
+  "timestamp": "2026-08-06T06:04:22.876366224Z",
+  "model": "glm-5.2"
+}

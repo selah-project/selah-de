@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und ich werde aussenden ⟨את⟩ die Hornisse vor dir her, und sie wird vertreiben ⟨את⟩ den Chiwwi, ⟨את⟩ den Kenaani und ⟨את⟩ den Chitti vor dir her.",
+  "tokens": [
+    {
+      "surface": "וְשָׁלַחְתִּ֥י",
+      "gloss": "Und ich werde aussenden"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Hornisse"
+    },
+    {
+      "surface": "הַצִּרְעָ֖ה",
+      "gloss": "die Hornisse"
+    },
+    {
+      "surface": "לְפָנֶ֑יךָ",
+      "gloss": "vor dir her"
+    },
+    {
+      "surface": "וְגֵרְשָׁ֗ה",
+      "gloss": "und sie wird vertreiben"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Chiwwi"
+    },
+    {
+      "surface": "הַחִוִּ֧י",
+      "gloss": "den Chiwwi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Kenaani"
+    },
+    {
+      "surface": "הַֽכְּנַעֲנִ֛י",
+      "gloss": "den Kenaani"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Chitti"
+    },
+    {
+      "surface": "הַחִתִּ֖י",
+      "gloss": "den Chitti"
+    },
+    {
+      "surface": "מִלְּפָנֶֽיךָ",
+      "gloss": "vor dir her"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:52.838826297Z",
+  "model": "glm-5.2"
+}

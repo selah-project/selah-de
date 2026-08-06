@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Und Josef sagte zu seinen Brüdern: „Ich bin Josef. Lebt mein Vater noch?“ Und seine Brüder konnten ⟨ihm⟩ nicht antworten, denn sie waren bestürzt vor seinem Angesicht.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seinen Brüdern"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ich ⟨bin⟩"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "Lebt … noch"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mein Vater"
+    },
+    {
+      "surface": "חי",
+      "gloss": "am Leben"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Und nicht"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "konnten"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "antworten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "sie waren bestürzt"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "vor seinem Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-06T09:43:54.075137514Z",
+  "model": "glm-5.2"
+}

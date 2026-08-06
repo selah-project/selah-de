@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 95,
+  "translation": "Dessen in seiner Hand die Tiefen der Erde ⟨sind⟩, und die Gipfel der Berge ihm ⟨gehören⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Dessen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in seiner Hand"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "die Tiefen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "und die Gipfel"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "der Berge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:40.432637399Z",
+  "model": "glm-5.2"
+}

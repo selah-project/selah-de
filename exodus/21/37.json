@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 21:37",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Wenn ein Mann ⟨einen⟩ Stier oder ⟨ein⟩ Kleintier stiehlt und ihn schlachtet oder ihn verkauft, fünf Stück Großvieh soll er erstatten unter dem Stier und vier Kleinvieh unter dem Kleintier.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "יִגְנֹֽב",
+      "gloss": "stiehlt"
+    },
+    {
+      "surface": "אִישׁ֙",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "שׁ֣וֹר",
+      "gloss": "⟨einen⟩ Stier"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "oder"
+    },
+    {
+      "surface": "שֶׂ֔ה",
+      "gloss": "⟨ein⟩ Kleintier"
+    },
+    {
+      "surface": "וּטְבָח֖וֹ",
+      "gloss": "und ihn schlachtet"
+    },
+    {
+      "surface": "א֣וֹ",
+      "gloss": "oder"
+    },
+    {
+      "surface": "מְכָר֑וֹ",
+      "gloss": "ihn verkauft"
+    },
+    {
+      "surface": "חֲמִשָּׁ֣ה",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "בָקָ֗ר",
+      "gloss": "Stück Großvieh"
+    },
+    {
+      "surface": "יְשַׁלֵּם֙",
+      "gloss": "soll er erstatten"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "הַשּׁ֔וֹר",
+      "gloss": "dem Stier"
+    },
+    {
+      "surface": "וְאַרְבַּע",
+      "gloss": "und vier"
+    },
+    {
+      "surface": "צֹ֖אן",
+      "gloss": "Kleinvieh"
+    },
+    {
+      "surface": "תַּ֥חַת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "הַשֶּֽׂה",
+      "gloss": "dem Kleintier"
+    }
+  ],
+  "timestamp": "2026-08-06T05:15:54.522721201Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Gerecht ⟨ist⟩ JHWH in all seinen Wegen, und chassid ⟨ist er⟩ in all seinen Werken.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Gerecht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in all"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "seinen Wegen"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "und chassid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in all"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "seinen Werken"
+    }
+  ],
+  "timestamp": "2026-08-06T06:53:25.182589931Z",
+  "model": "glm-5.2"
+}

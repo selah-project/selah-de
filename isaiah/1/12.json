@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "„Wenn ihr kommt, um mein Angesicht zu schauen — wer hat dies von eurer Hand gefordert, ⟨ihr⟩, der ihr meine Höfe zertretet?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "ihr kommt"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "um zu schauen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mein Angesicht"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "hat gefordert"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dies"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "von eurer Hand"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "⟨ihr⟩, der ihr zertretet"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "meine Höfe"
+    }
+  ],
+  "timestamp": "2026-08-05T21:41:47.590842736Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Wegen der Sünden Jarobeams, die er sündigte, und ⟨weil⟩ er ⟨את⟩ Jisraël sündigen ließ, durch seinen Zorn, mit dem er ⟨את⟩ JHWH, den Elohim Jisraëls, erzürnte.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Wegen"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "der Sünden"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeams"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "er sündigte"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "und ⟨weil⟩ er"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "sündigen ließ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "durch seinen Zorn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mit dem"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "er erzürnte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "den Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraëls"
+    }
+  ],
+  "timestamp": "2026-08-06T01:27:06.992163955Z",
+  "model": "glm-5.2"
+}

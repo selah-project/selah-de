@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "Denn du, JHWH, ⟨bist⟩ meine Zuflucht — ⟨den⟩ Eljon hast du zu deiner Wohnstätte gemacht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "meine Zuflucht"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "hast du gemacht"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "zu deiner Wohnstätte"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:12.003187481Z",
+  "model": "glm-5.2"
+}

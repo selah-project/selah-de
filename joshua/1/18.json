@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Jeder Mann, der deinem Mund ⟨את⟩ widerstrebt und nicht ⟨את⟩ deine Worte hört — auf alles, was du ihm befiehlst — ⟨der⟩ wird getötet werden. Nur: ⟨sei⟩ stark und ⟨sei⟩ mutig!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "widerstrebt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinem Mund"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "deinem Mund"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Worte"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "deine Worte"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "auf alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "du ihm befiehlst"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wird getötet werden"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nur"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "⟨sei⟩ stark"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "und ⟨sei⟩ mutig"
+    }
+  ],
+  "timestamp": "2026-08-06T02:28:05.667798622Z",
+  "model": "glm-5.2"
+}

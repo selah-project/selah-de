@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Wehe ⟨dem⟩, der ⟨mit⟩ ⟨את⟩ seinem Former streitet — ⟨ein⟩ Tonscherbe ⟨unter⟩ ⟨את⟩ den Tonscherben ⟨der⟩ Erde! Soll ⟨der⟩ Ton zu ⟨seinem⟩ Former sagen: „Was machst du?\" — und ⟨dein⟩ Werk: „Es hat keine Hände\"?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "streitet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinem Former"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "seinem Former"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Tonscherbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Tonscherben"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "den Tonscherben"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "Soll sagen"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "Ton"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "zu seinem Former"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "machst du"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "und dein Werk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Es hat keine"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "Hände"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T22:42:55.333158278Z",
+  "model": "glm-5.2"
+}

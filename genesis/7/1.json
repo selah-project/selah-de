@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und JHWH sprach zu Noach: Geh, du und dein ganzes Haus, in die Arche, denn ⟨את⟩ dich habe ich gerecht gesehen vor mir in dieser Generation.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "zu Noach"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und ganzes"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dein Haus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "die Arche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dich",
+      "marks": "dich"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "habe ich gesehen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "gerecht"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor mir"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "in dieser"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Generation"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:15.752324511Z",
+  "model": "glm-5.2"
+}

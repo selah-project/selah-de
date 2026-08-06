@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 137,
+  "translation": "An den Strömen Bawels — dort saßen wir, auch weinten wir, als wir ⟨את⟩ Tzijons gedachten.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "An"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "den Strömen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bawels"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "saßen wir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "weinten wir"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "als wir gedachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tziyons"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:04.937399986Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Die Zunge des Säuglings klebte an seinem Gaumen vor Durst; ⟨die⟩ Kleinen baten um Brot, ⟨aber⟩ ein Zerteilender ⟨war⟩ keiner für sie.",
+  "tokens": [
+    {
+      "surface": "דָּבַק",
+      "gloss": "klebte"
+    },
+    {
+      "surface": "לְשׁוֹן",
+      "gloss": "Die Zunge"
+    },
+    {
+      "surface": "יוֹנֵק",
+      "gloss": "des Säuglings"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "an"
+    },
+    {
+      "surface": "ח֛כּוֹ",
+      "gloss": "seinem Gaumen"
+    },
+    {
+      "surface": "בַּצָּמָא",
+      "gloss": "vor Durst"
+    },
+    {
+      "surface": "עוֹלָלִים",
+      "gloss": "⟨die⟩ Kleinen"
+    },
+    {
+      "surface": "שָׁאֲלוּ",
+      "gloss": "baten"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "um Brot"
+    },
+    {
+      "surface": "פֹּרֵשׂ",
+      "gloss": "ein Zerteilender"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "⟨war⟩ keiner"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "für sie"
+    }
+  ],
+  "timestamp": "2026-08-06T04:41:07.146187710Z",
+  "model": "glm-5.2"
+}

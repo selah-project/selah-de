@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und ⟨du sollst⟩ heilige Gewänder machen für Aharon, deinen Bruder, zur Ehre und zum Schmuck.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Und ⟨du sollst⟩ machen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "Gewänder"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "für Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "deinen Bruder"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "zur Ehre"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "und zum Schmuck"
+    }
+  ],
+  "timestamp": "2026-08-06T00:19:42.835768633Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 97,
+  "translation": "Zion hörte ⟨es⟩ und freute sich, und die Töchter Jehudas jauchzten um deiner Mischpatim willen, JHWH.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "hörte"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "und freute sich"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "und jauchzten"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "die Töchter"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um willen"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "deiner Mischpatim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:00.596484177Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Wer von Baasa in der Stadt stirbt, den werden die Hunde fressen, und wer von ihm auf dem Feld stirbt, den werden die Vögel des Himmels fressen.“",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Wer … stirbt"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "von Baasa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "den werden fressen"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "die Hunde"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "und wer … stirbt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "auf dem Feld"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "den werden fressen"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "die Vögel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des Himmels"
+    }
+  ],
+  "timestamp": "2026-08-05T21:30:44.661716972Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Ein Lügenzeuge wird nicht unbestraft bleiben, und ⟨wer⟩ Lügen ausstößt, wird nicht entkommen.",
+  "tokens": [
+    {
+      "surface": "עֵ֣ד",
+      "gloss": "Ein Zeuge"
+    },
+    {
+      "surface": "שְׁ֭קָרִים",
+      "gloss": "der Lügen"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִנָּקֶ֑ה",
+      "gloss": "wird unbestraft bleiben"
+    },
+    {
+      "surface": "וְיָפִ֥יחַ",
+      "gloss": "und ⟨wer⟩ ausstößt"
+    },
+    {
+      "surface": "כְּ֝זָבִ֗ים",
+      "gloss": "Lügen"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִמָּלֵֽט",
+      "gloss": "wird entkommen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:22:35.979350565Z",
+  "model": "glm-5.2"
+}

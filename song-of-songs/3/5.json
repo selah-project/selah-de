@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Ich beschwöre ⟨euch⟩, Töchter Jeruschalajims, bei den Gazellen oder bei den Hirschkühen des Feldes: Wenn ihr weckt und ⟨wenn⟩ ihr die Liebe weckt — ⟨wartet⟩ bis es ihr gefällt.",
+  "tokens": [
+    {
+      "surface": "הִשְׁבַּ֨עְתִּי",
+      "gloss": "Ich beschwöre"
+    },
+    {
+      "surface": "אֶתְכֶ֜ם",
+      "gloss": "⟨euch⟩"
+    },
+    {
+      "surface": "בְּנ֤וֹת",
+      "gloss": "Töchter"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֨ם֙",
+      "gloss": "Jeruschalajims"
+    },
+    {
+      "surface": "בִּצְבָא֔וֹת",
+      "gloss": "bei den Gazellen"
+    },
+    {
+      "surface": "א֖וֹ",
+      "gloss": "oder"
+    },
+    {
+      "surface": "בְּאַיְל֣וֹת",
+      "gloss": "bei den Hirschkühen"
+    },
+    {
+      "surface": "הַשָּׂדֶ֑ה",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תָּעִ֧ירוּ",
+      "gloss": "ihr weckt"
+    },
+    {
+      "surface": "וְֽאִם",
+      "gloss": "und ⟨wenn⟩"
+    },
+    {
+      "surface": "תְּעֽוֹרְר֛וּ",
+      "gloss": "ihr weckt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Liebe"
+    },
+    {
+      "surface": "הָאַהֲבָ֖ה",
+      "gloss": "die Liebe"
+    },
+    {
+      "surface": "עַ֥ד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "שֶׁתֶּחְפָּֽץ",
+      "gloss": "es ihr gefällt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:25:56.233822919Z",
+  "model": "glm-5.2"
+}

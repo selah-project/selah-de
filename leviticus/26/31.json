@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und ich werde ⟨את⟩ eure Städte zur Wüste machen und ⟨את⟩ eure Heiligtümer verwüsten, und ich werde den Duft eurer Wohlgerüche nicht riechen.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Und ich werde machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eure Städte"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "eure Städte"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "zur Wüste"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "und verwüsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eure Heiligtümer"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "eure Heiligtümer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "werde ich riechen"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "den Duft"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "eurer Wohlgerüche"
+    }
+  ],
+  "timestamp": "2026-08-05T20:28:52.840027206Z",
+  "model": "glm-5.2"
+}

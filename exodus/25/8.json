@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und sie sollen mir ein Heiligtum machen, und ich werde in ihrer Mitte wohnen.",
+  "tokens": [
+    {
+      "surface": "וְעָ֥שׂוּ",
+      "gloss": "Und sie sollen machen"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "מִקְדָּ֑שׁ",
+      "gloss": "ein Heiligtum"
+    },
+    {
+      "surface": "וְשָׁכַנְתִּ֖י",
+      "gloss": "und ich werde wohnen"
+    },
+    {
+      "surface": "בְּתוֹכָֽם",
+      "gloss": "in ihrer Mitte"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:47.765804683Z",
+  "model": "glm-5.2"
+}

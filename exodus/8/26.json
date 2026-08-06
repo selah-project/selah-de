@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Mosche ging von Paro hinaus und flehte zu JHWH.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "und ging hinaus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "von"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "und er flehte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T09:45:24.085434877Z",
+  "model": "glm-5.2"
+}

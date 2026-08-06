@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Gesegnet ⟨die⟩ Frucht deines Leibes und ⟨die⟩ Frucht deines Ackers und ⟨die⟩ Frucht deines Viehs, der Wurf deiner Rinder und ⟨die⟩ Würfe deiner Kleinviehherde.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "Frucht"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "deines Leibes"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "und ⟨die⟩ Frucht"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "deines Ackers"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "und ⟨die⟩ Frucht"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "deines Viehs"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "der Wurf"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "deiner Rinder"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "und ⟨die⟩ Würfe"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "deiner Kleinviehherde"
+    }
+  ],
+  "timestamp": "2026-08-06T08:30:30.485826418Z",
+  "model": "glm-5.2"
+}

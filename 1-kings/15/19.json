@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "„Eine Brit ⟨besteht⟩ zwischen mir und zwischen dir, zwischen meinem Vater und zwischen deinem Vater. Siehe, ich habe dir ein Bestechungsgeschenk geschickt, Silber und Gold. Geh, brich deine Brit mit Bascha, dem König von Jisra'el, damit er von mir abzieht.“",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "Eine Brit"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "zwischen mir"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "und zwischen dir"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meinem Vater"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "deinem Vater"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ich habe geschickt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ein Bestechungsgeschenk"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "und Gold"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "brich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Brit"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "deine Brit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bascha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "mit Bascha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "damit er abzieht"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "von mir"
+    }
+  ],
+  "timestamp": "2026-08-06T01:27:16.019050058Z",
+  "model": "glm-5.2"
+}

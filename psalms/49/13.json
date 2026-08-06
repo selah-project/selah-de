@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Und ⟨ein⟩ Mensch in ⟨seiner⟩ Würde bleibt nicht über Nacht — den Tieren gleichgemacht, sind sie dahin.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Und ⟨ein⟩ Mensch"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "in ⟨seiner⟩ Würde"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bleibt über Nacht"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "gleichgemacht"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "den Tieren"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "sind sie dahin"
+    }
+  ],
+  "timestamp": "2026-08-06T10:30:50.202142528Z",
+  "model": "glm-5.2"
+}

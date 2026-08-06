@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Denn nicht verachtet noch verabscheut er die Bedrängnis des Bedrückten, und nicht verbarg er sein Angesicht vor ihm, und als er zu ihm schrie, hörte er.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "verachtet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "noch"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "verabscheut"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "die Bedrängnis"
+    },
+    {
+      "surface": "עני",
+      "gloss": "des Bedrückten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "verbarg"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sein Angesicht"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "und als er schrie"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörte"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:12.877602958Z",
+  "model": "glm-5.2"
+}

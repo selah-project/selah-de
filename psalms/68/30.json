@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Von deinem Heiligtum ⟨über⟩ Jeruschalajim — dir werden Könige Geschenke bringen.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "von deinem Heiligtum"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨über⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "werden bringen"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "שי",
+      "gloss": "Geschenke"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:44.021326901Z",
+  "model": "glm-5.2"
+}

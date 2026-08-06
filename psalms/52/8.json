@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 52,
+  "translation": "Und ⟨die⟩ Gerechten werden sehen und sich fürchten und über ihn lachen.",
+  "tokens": [
+    {
+      "surface": "וְיִרְא֖וּ",
+      "gloss": "Und ⟨die⟩ werden sehen"
+    },
+    {
+      "surface": "צַדִּיקִ֥ים",
+      "gloss": "Gerechten"
+    },
+    {
+      "surface": "וְיִירָ֗אוּ",
+      "gloss": "und sich fürchten"
+    },
+    {
+      "surface": "וְעָלָ֥יו",
+      "gloss": "und über ihn"
+    },
+    {
+      "surface": "יִשְׂחָֽקוּ",
+      "gloss": "werden lachen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:43:10.883665302Z",
+  "model": "glm-5.2"
+}

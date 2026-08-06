@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Schmuël sprach zum Volk ⟨die⟩ Rechtssatzung ⟨von⟩ ⟨der⟩ Königsherrschaft, und er schrieb ⟨es⟩ in das Buch, und er legte ⟨es⟩ vor JHWH nieder. Und Schmuël entließ ⟨את⟩ das ganze Volk, jeder zu seinem Haus.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Rechtssatzung der Königsherrschaft"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Rechtssatzung"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "der Königsherrschaft"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "und er schrieb"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in das Buch"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "und er legte nieder"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "und er entließ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "zu seinem Haus"
+    }
+  ],
+  "timestamp": "2026-08-06T01:05:00.586304177Z",
+  "model": "glm-5.2"
+}

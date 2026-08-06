@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Ja, meine Schuld will ich ansagen, ich bin voll Sorge wegen meiner Sünde.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "עֲוֺנִ֥י",
+      "gloss": "meine Schuld"
+    },
+    {
+      "surface": "אַגִּ֑יד",
+      "gloss": "will ich ansagen"
+    },
+    {
+      "surface": "אֶ֝דְאַ֗ג",
+      "gloss": "ich bin voll Sorge"
+    },
+    {
+      "surface": "מֵֽחַטָּאתִֽי",
+      "gloss": "wegen meiner Sünde"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:53.310702098Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 80,
+  "translation": "Du räumtest ⟨den Boden⟩ vor ihr ⟨aus⟩, und sie trieb ihre Wurzeln ⟨tief⟩, und sie füllte das Land.",
+  "tokens": [
+    {
+      "surface": "פִּנִּ֥יתָ",
+      "gloss": "du räumtest aus"
+    },
+    {
+      "surface": "לְפָנֶ֑יהָ",
+      "gloss": "vor ihr"
+    },
+    {
+      "surface": "וַתַּשְׁרֵ֥שׁ",
+      "gloss": "und sie trieb"
+    },
+    {
+      "surface": "שָׁ֝רָשֶׁ֗יהָ",
+      "gloss": "ihre Wurzeln"
+    },
+    {
+      "surface": "וַתְּמַלֵּא",
+      "gloss": "und sie füllte"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "das Land"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:39.831556291Z",
+  "model": "glm-5.2"
+}

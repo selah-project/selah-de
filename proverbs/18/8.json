@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Die Worte eines Verleumders ⟨sind⟩ wie Leckerbissen, und sie steigen hinab in die Kammern des Bauches.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Die Worte"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "eines Verleumders"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "wie Leckerbissen"
+    },
+    {
+      "surface": "והם",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "steigen hinab"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "in die Kammern"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "des Bauches"
+    }
+  ],
+  "timestamp": "2026-08-06T04:28:43.858403833Z",
+  "model": "glm-5.2"
+}

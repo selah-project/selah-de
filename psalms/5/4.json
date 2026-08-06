@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "JHWH, ⟨am⟩ Morgen hörest du meine Stimme; ⟨am⟩ Morgen ordne ich ⟨es⟩ dir und spähe aus.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨am⟩ Morgen"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hörest du"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "meine Stimme"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨am⟩ Morgen"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "ordne ich"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "und spähe aus"
+    }
+  ],
+  "timestamp": "2026-08-06T15:21:56.009629209Z",
+  "model": "glm-5.2"
+}

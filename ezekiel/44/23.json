@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Und ⟨את⟩ mein Volk sollen sie lehren, ⟨zu unterscheiden⟩ zwischen Heiligem und Profanem, und zwischen Unreinem und Reinem sollen sie sie erkennen lassen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mein Volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "sollen sie lehren"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zwischen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Heiligem"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "und Profanem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "Unreinem"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "und Reinem"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "sollen sie sie erkennen lassen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:55:20.266257993Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Schickt aus eurer Mitte einen, dass er ⟨את⟩ euren Bruder hole, und ihr ⟨werdet⟩ festgenommen, und ⟨es sollen⟩ geprüft werden eure Worte, ob Emet ⟨ist⟩ bei euch; und wenn nicht — ⟨so wahr wie⟩ Paro lebt: denn Spione seid ihr!",
+  "tokens": [
+    {
+      "surface": "שִׁלְח֨וּ",
+      "gloss": "Schickt"
+    },
+    {
+      "surface": "מִכֶּ֣ם",
+      "gloss": "aus eurer Mitte"
+    },
+    {
+      "surface": "אֶחָד֮",
+      "gloss": "einen"
+    },
+    {
+      "surface": "וְיִקַּ֣ח",
+      "gloss": "dass er hole"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "euren Bruder"
+    },
+    {
+      "surface": "אֲחִיכֶם֒",
+      "gloss": "euren Bruder"
+    },
+    {
+      "surface": "וְאַתֶּם֙",
+      "gloss": "und ihr"
+    },
+    {
+      "surface": "הֵאָ֣סְר֔וּ",
+      "gloss": "⟨werdet⟩ festgenommen"
+    },
+    {
+      "surface": "וְיִבָּֽחֲנוּ֙",
+      "gloss": "und ⟨es sollen⟩ geprüft werden"
+    },
+    {
+      "surface": "דִּבְרֵיכֶ֔ם",
+      "gloss": "eure Worte"
+    },
+    {
+      "surface": "הַֽאֱמֶ֖ת",
+      "gloss": "ob Emet"
+    },
+    {
+      "surface": "אִתְּכֶ֑ם",
+      "gloss": "bei euch"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "לֹ֕א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "חֵ֣י",
+      "gloss": "⟨so wahr wie⟩ … lebt"
+    },
+    {
+      "surface": "פַרְעֹ֔ה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מְרַגְּלִ֖ים",
+      "gloss": "Spione"
+    },
+    {
+      "surface": "אַתֶּֽם",
+      "gloss": "seid ihr"
+    }
+  ],
+  "timestamp": "2026-08-06T21:06:25.903442884Z",
+  "model": "glm-5.2"
+}

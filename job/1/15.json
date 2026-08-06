@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "da fiel Schewa ein und nahm sie weg, und ⟨את⟩ die Knechte schlugen sie mit der Schärfe des Schwerts. Und ich entrann, nur ich allein, um dir zu berichten.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "da fiel ein"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Schewa"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "und nahm sie weg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Knechte"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "die Knechte"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "schlugen sie"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mit der Schärfe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "des Schwerts"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "und ich entrann"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nur"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "allein"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "um zu berichten"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-05T23:15:59.804351600Z",
+  "model": "glm-5.2"
+}

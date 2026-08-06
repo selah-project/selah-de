@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Denn wer ⟨ist es⟩, der ⟨sich⟩ zu allen Lebendigen gesellt — ⟨für den⟩ gibt es Hoffnung; denn ein lebender Hund ist besser als ein toter Löwe.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מִי֙",
+      "gloss": "wer"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "sich gesellt"
+    },
+    {
+      "surface": "אֶ֥ל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "הַחַיִּ֖ים",
+      "gloss": "Lebendigen"
+    },
+    {
+      "surface": "יֵ֣שׁ",
+      "gloss": "gibt es"
+    },
+    {
+      "surface": "בִּטָּח֑וֹן",
+      "gloss": "Hoffnung"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לְכֶ֤לֶב",
+      "gloss": "ein Hund"
+    },
+    {
+      "surface": "חַי֙",
+      "gloss": "lebender"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "ist"
+    },
+    {
+      "surface": "ט֔וֹב",
+      "gloss": "besser"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "als"
+    },
+    {
+      "surface": "הָאַרְיֵ֖ה",
+      "gloss": "ein Löwe"
+    },
+    {
+      "surface": "הַמֵּֽת",
+      "gloss": "toter"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:38.524835558Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und verschwägert euch mit uns — ⟨את⟩ euch: eure Töchter gebt uns, und ⟨את⟩ unsere Töchter nehmt euch.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "und verschwägert euch"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "eure Töchter"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "gebt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "unsere Töchter"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "unsere Töchter"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "nehmt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    }
+  ],
+  "timestamp": "2026-08-05T17:38:25.742890108Z",
+  "model": "glm-5.2"
+}

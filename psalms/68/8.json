@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Elohim, als du vor deinem Volk auszogst, als du durch die Einöde schrittst — Sela.",
+  "tokens": [
+    {
+      "surface": "אֱֽלֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּ׭צֵאתְךָ",
+      "gloss": "als du auszogst"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "עַמֶּ֑ךָ",
+      "gloss": "deinem Volk"
+    },
+    {
+      "surface": "בְּצַעְדְּךָ֖",
+      "gloss": "als du schrittest"
+    },
+    {
+      "surface": "בִֽישִׁימ֣וֹן",
+      "gloss": "durch die Einöde"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:24.963674289Z",
+  "model": "glm-5.2"
+}

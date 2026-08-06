@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und es geschah am Abend: Da nahm er ⟨את⟩ Lea, seine Tochter, und brachte ⟨את⟩ sie zu ihm, und er ging zu ihr ein.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "am Abend"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "und nahm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea, seine Tochter"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "seine Tochter"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und brachte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und er ging ein"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "zu ihr"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:41.151963466Z",
+  "model": "glm-5.2"
+}

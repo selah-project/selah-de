@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 131,
+  "translation": "Wenn nicht — so habe ich ⟨zwar⟩ verglichen und zur Ruhe gebracht meine Nefesch, wie ein entwöhntes Kind bei seiner Mutter, wie ein entwöhntes Kind bei mir ⟨ist⟩ meine Nefesch.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "so habe ich ⟨zwar⟩ verglichen"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "und zur Ruhe gebracht"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "wie ein entwähntes Kind"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bei"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "seiner Mutter"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "wie ein entwähntes Kind"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bei mir"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨ist⟩ meine Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T10:34:20.746066160Z",
+  "model": "glm-5.2"
+}

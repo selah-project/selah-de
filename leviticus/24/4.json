@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Auf der reinen Leuchter-Säule soll er ⟨את⟩ die Leuchten herrichten, vor JHWH, beständig.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Auf"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "der Leuchter-Säule"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "reinen"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "soll er herrichten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Leuchten"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "die Leuchten"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständig"
+    }
+  ],
+  "timestamp": "2026-08-05T20:27:22.841404717Z",
+  "model": "glm-5.2"
+}

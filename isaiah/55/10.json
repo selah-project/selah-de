@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Denn wie der Regen und der Schnee vom Himmel herabkommt und dorthin nicht zurückkehrt, außer ⟨dass⟩ er ⟨את⟩ die Erde getränkt und sie geboren und sprossen ließ und Samen dem Säenden gab und Brot dem Essenden —",
+  "tokens": [
+    {
+      "surface": "כִּ֡י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֣ר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יֵרֵד֩",
+      "gloss": "herabkommt"
+    },
+    {
+      "surface": "הַגֶּ֨שֶׁם",
+      "gloss": "der Regen"
+    },
+    {
+      "surface": "וְהַשֶּׁ֜לֶג",
+      "gloss": "und der Schnee"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הַשָּׁמַ֗יִם",
+      "gloss": "dem Himmel"
+    },
+    {
+      "surface": "וְשָׁ֨מָּה֙",
+      "gloss": "und dorthin"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָשׁ֔וּב",
+      "gloss": "zurückkehrt"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "(außer)"
+    },
+    {
+      "surface": "הִרְוָ֣ה",
+      "gloss": "(er getränkt hat)"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "וְהוֹלִידָ֖הּ",
+      "gloss": "und sie geboren hat"
+    },
+    {
+      "surface": "וְהִצְמִיחָ֑הּ",
+      "gloss": "und sie sprossen ließ"
+    },
+    {
+      "surface": "וְנָ֤תַן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "זֶ֨רַע֙",
+      "gloss": "Samen"
+    },
+    {
+      "surface": "לַזֹּרֵ֔עַ",
+      "gloss": "dem Säenden"
+    },
+    {
+      "surface": "וְלֶ֖חֶם",
+      "gloss": "und Brot"
+    },
+    {
+      "surface": "לָאֹכֵֽל",
+      "gloss": "dem Essenden"
+    }
+  ],
+  "timestamp": "2026-08-05T21:56:18.649902614Z",
+  "model": "glm-5.2"
+}

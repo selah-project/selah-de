@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und Jaakow hob seine Füße und ging ins Land der Söhne Qedems.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "und ⟨er⟩ hob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "seine Füße"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und ging"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ins Land"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Qedems"
+    }
+  ],
+  "timestamp": "2026-08-06T09:42:11.107299065Z",
+  "model": "glm-5.2"
+}

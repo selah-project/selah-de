@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ⟨der⟩ Fürst ⟨des⟩ Vaterhauses für die Sippen der Kehatiter ⟨war⟩ Elizafan, der Sohn Usiels.",
+  "tokens": [
+    {
+      "surface": "וּנְשִׂיא",
+      "gloss": "Und ⟨der⟩ Fürst"
+    },
+    {
+      "surface": "בֵֽית",
+      "gloss": "⟨des⟩ Hauses"
+    },
+    {
+      "surface": "אָב",
+      "gloss": "⟨des⟩ Vaters"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹת",
+      "gloss": "für die Sippen"
+    },
+    {
+      "surface": "הַקְּהָתִי",
+      "gloss": "der Kehatiter"
+    },
+    {
+      "surface": "אֱלִיצָפָן",
+      "gloss": "Elizafan"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "der Sohn"
+    },
+    {
+      "surface": "עֻזִּיאֵל",
+      "gloss": "Usiels"
+    }
+  ],
+  "timestamp": "2026-08-06T05:22:17.743576419Z",
+  "model": "glm-5.2"
+}

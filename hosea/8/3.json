@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Israel ⟨hat⟩ das Gute verworfen, ⟨der⟩ Feind ⟨wird⟩ ⟨es⟩ verfolgen.",
+  "tokens": [
+    {
+      "surface": "זָנַ֥ח",
+      "gloss": "verworfen"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "das Gute"
+    },
+    {
+      "surface": "אוֹיֵ֖ב",
+      "gloss": "⟨der⟩ Feind"
+    },
+    {
+      "surface": "יִרְדְּֽפוֹ",
+      "gloss": "⟨wird⟩ verfolgen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:25:23.263554854Z",
+  "model": "glm-5.2"
+}

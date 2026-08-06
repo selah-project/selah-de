@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Sehen ⟨werden⟩ die Demütigen, ⟨sie werden⟩ sich freuen — die Elohim Suchenden —, und ⟨euer⟩ Herz ⟨wird⟩ leben.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "sehen"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "die Demütigen"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "⟨sie werden⟩ sich freuen"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "die Suchenden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "und ⟨wird⟩ leben"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "⟨euer⟩ Herz"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:05.371076266Z",
+  "model": "glm-5.2"
+}

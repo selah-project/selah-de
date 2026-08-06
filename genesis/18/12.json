@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 18:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Da lachte Sara in ihrem Innern und sagte: „Nachdem ich verblüht bin, wurde mir ⟨wieder⟩ Lust — und mein Herr ist alt!",
+  "tokens": [
+    {
+      "surface": "ותצחק",
+      "gloss": "Da lachte"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in ihrem Innern"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Nachdem"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ich verblüht bin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wurde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "⟨wieder⟩ Lust"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "und mein Herr"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ist alt"
+    }
+  ],
+  "timestamp": "2026-08-06T00:05:35.035515228Z",
+  "model": "glm-5.2"
+}

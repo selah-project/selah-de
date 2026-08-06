@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "und er sagte: JHWH ist mein Fels und meine Festung und ⟨ist⟩ mir ⟨der⟩ Befreier.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ist mein Fels"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "und meine Festung"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "und ⟨mein⟩ Befreier"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T01:19:41.886972334Z",
+  "model": "glm-5.2"
+}

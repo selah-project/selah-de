@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Denommenen wird gegeben in die Höhen, ⟨in⟩ Vielen, und die Reichen im Niedrigen sitzen.",
+  "tokens": [
+    {
+      "surface": "נִתַּ֣ן",
+      "gloss": "wird gegeben"
+    },
+    {
+      "surface": "הַסֶּ֔כֶל",
+      "gloss": "den Nommenen"
+    },
+    {
+      "surface": "בַּמְּרוֹמִ֖ים",
+      "gloss": "in die Höhen"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "⟨in⟩ Vielen"
+    },
+    {
+      "surface": "וַעֲשִׁירִ֖ים",
+      "gloss": "und die Reichen"
+    },
+    {
+      "surface": "בַּשֵּׁ֥פֶל",
+      "gloss": "im Niedrigen"
+    },
+    {
+      "surface": "יֵשֵֽׁבוּ",
+      "gloss": "sitzen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:01.885054928Z",
+  "model": "glm-5.2"
+}

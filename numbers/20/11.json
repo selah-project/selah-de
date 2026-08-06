@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Mosche hob seine Hand und schlug ⟨את⟩ den Felsen mit seinem Stab, zweimal, und viel Wasser kam heraus, und die Versammlung trank, ⟨und⟩ ihr Vieh.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "und hob"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "und schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Felsen"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "den Felsen"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "mit seinem Stab"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "zweimal"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "und kam heraus"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "viel"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "und trank"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "die Versammlung"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "und ihr Vieh"
+    }
+  ],
+  "timestamp": "2026-08-06T02:19:55.585704002Z",
+  "model": "glm-5.2"
+}

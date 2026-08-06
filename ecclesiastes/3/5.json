@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Eine Zeit, Steine zu werfen, und eine Zeit, Steine zu sammeln; eine Zeit zu umarmen, und eine Zeit, sich vom Umarmen fernzuhalten.",
+  "tokens": [
+    {
+      "surface": "עֵת",
+      "gloss": "Eine Zeit"
+    },
+    {
+      "surface": "לְהַשְׁלִיךְ",
+      "gloss": "zu werfen"
+    },
+    {
+      "surface": "אֲבָנִים",
+      "gloss": "Steine"
+    },
+    {
+      "surface": "וְעֵת",
+      "gloss": "und eine Zeit"
+    },
+    {
+      "surface": "כְּנוֹס",
+      "gloss": "zu sammeln"
+    },
+    {
+      "surface": "אֲבָנִים",
+      "gloss": "Steine"
+    },
+    {
+      "surface": "עֵת",
+      "gloss": "eine Zeit"
+    },
+    {
+      "surface": "לַחֲבֹק",
+      "gloss": "zu umarmen"
+    },
+    {
+      "surface": "וְעֵת",
+      "gloss": "und eine Zeit"
+    },
+    {
+      "surface": "לִרְחֹק",
+      "gloss": "sich fernzuhalten"
+    },
+    {
+      "surface": "מֵחַבֵּק",
+      "gloss": "vom Umarmen"
+    }
+  ],
+  "timestamp": "2026-08-06T07:08:49.290442377Z",
+  "model": "glm-5.2"
+}

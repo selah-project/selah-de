@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ihr sollt ⟨את⟩ die Wache des Heiligtums und ⟨את⟩ die Wache des Altars halten, damit kein Zorn mehr über die Söhne Jisraels komme.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "und ihr sollt halten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Wache"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "Wache"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "des Heiligtums"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Wache"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "Wache"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "des Altars"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "Zorn"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-05T20:35:37.403196505Z",
+  "model": "glm-5.2"
+}

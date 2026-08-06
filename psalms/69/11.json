@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Und ⟨ich⟩ weinte — im Fasten meiner Nefesch, und ⟨es⟩ wurde mir zur Schmach.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "Und ich weinte"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "im Fasten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meiner Nefesch"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "und es wurde"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "zur Schmach"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:17.886750040Z",
+  "model": "glm-5.2"
+}

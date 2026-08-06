@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 1:9",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Adonijahu schlachtete Schafe und Rinder und Mastvieh bei dem Stein Sochelet, der bei En-Rogel ⟨ist⟩, und er rief ⟨את⟩ alle seine Brüder, die Söhne des Königs, und alle Männer von Jehuda, die Knechte des Königs.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Und schlachtete"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijahu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "Schafe"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "und Rinder"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "und Mastvieh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "dem Stein"
+    },
+    {
+      "surface": "הזחלת",
+      "gloss": "Sochelet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bei"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-Rogel"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "⟨En-Rogel⟩"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er rief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle seine Brüder, die Söhne des Königs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seine Brüder"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "und ⟨für⟩ alle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Männer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die Knechte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-05T21:24:47.485853692Z",
+  "model": "glm-5.2"
+}

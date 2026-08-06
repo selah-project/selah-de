@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "von den Elohim der Völker, die rings um euch her sind, den dir nahen oder den dir fernen, vom ⟨einen⟩ Ende der Erde bis zum ⟨anderen⟩ Ende der Erde —",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "von den Elohim"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "der Völker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "rings um euch her sind"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "den nahen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "או",
+      "gloss": "oder"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "den fernen"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "vom Ende"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zum Ende"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "Ende"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T20:14:40.056525960Z",
+  "model": "glm-5.2"
+}

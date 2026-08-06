@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Höre die Stimme meines Flehens, wenn ich zu dir schreie, beim Erheben meiner Hände zum Debir deines Heiligtums.",
+  "tokens": [
+    {
+      "surface": "שְׁמַ֤ע",
+      "gloss": "Höre"
+    },
+    {
+      "surface": "ק֣וֹל",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "תַּ֭חֲנוּנַי",
+      "gloss": "meines Flehens"
+    },
+    {
+      "surface": "בְּשַׁוְּעִ֣י",
+      "gloss": "wenn ich schreie"
+    },
+    {
+      "surface": "אֵלֶ֑יךָ",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "בְּנָשְׂאִ֥י",
+      "gloss": "beim Erheben"
+    },
+    {
+      "surface": "יָ֝דַ֗י",
+      "gloss": "meiner Hände"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zum"
+    },
+    {
+      "surface": "דְּבִ֥יר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "קָדְשֶֽׁךָ",
+      "gloss": "deines Heiligtums"
+    }
+  ],
+  "timestamp": "2026-08-06T10:30:03.955341111Z",
+  "model": "glm-5.2"
+}

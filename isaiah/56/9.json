@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 56,
+  "translation": "Alle Tiere des Feldes, kommt, ⟨um⟩ zu fressen, alle Tiere des Waldes!",
+  "tokens": [
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "חַיְת֣וֹ",
+      "gloss": "Tiere"
+    },
+    {
+      "surface": "שָׂדָ֑י",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "אֵתָ֕יוּ",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "לֶאֱכֹ֥ל",
+      "gloss": "⟨um⟩ zu fressen"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חַיְת֖וֹ",
+      "gloss": "Tiere"
+    },
+    {
+      "surface": "בַּיָּֽעַר",
+      "gloss": "des Waldes"
+    }
+  ],
+  "timestamp": "2026-08-05T21:57:08.789383268Z",
+  "model": "glm-5.2"
+}

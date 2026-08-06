@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 9:26",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨ein⟩ Schiff machte der König Schelomo in Ezjon-Gawer, das bei ⟨את⟩ Elot ⟨liegt⟩, am Ufer des Schilfmeers, im Land Edom.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Und ⟨ein⟩ Schiff"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "machte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "in Ezjon"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "-Gawer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elot"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "Elot"
+    },
+    {
+      "surface": "על",
+      "gloss": "am"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "Ufer"
+    },
+    {
+      "surface": "ים",
+      "gloss": "des Meeres"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "des Schilfs"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-06T02:58:21.382398247Z",
+  "model": "glm-5.2"
+}

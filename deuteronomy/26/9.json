@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und ⟨er⟩ brachte uns an diesen Ort und gab uns ⟨את⟩ dieses Land, ein Land, das von Milch und Honig fließt.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "und ⟨er⟩ brachte uns"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨den⟩ Ort"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨das⟩ Land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ein Land"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "das fließt von"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "Milch"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "und Honig"
+    }
+  ],
+  "timestamp": "2026-08-06T05:29:39.489057472Z",
+  "model": "glm-5.2"
+}

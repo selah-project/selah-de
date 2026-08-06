@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und am achten Tag wird das Fleisch seiner Vorhaut beschnitten.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Und am Tag"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "dem achten"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "wird beschnitten"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "seiner Vorhaut"
+    }
+  ],
+  "timestamp": "2026-08-06T02:10:45.737995452Z",
+  "model": "glm-5.2"
+}

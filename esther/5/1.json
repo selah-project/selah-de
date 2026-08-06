@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 5:1",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und es geschah am dritten Tag, da legte Ester ⟨die⟩ Königswürde an und trat in den inneren Hof des Hauses des Königs, gegenüber dem Haus des Königs. Und der König saß auf seinem Königsthron im Haus der Königsherrschaft, gegenüber dem Eingang des Hauses.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es geschah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "dem dritten"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "da legte an"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "Königswürde"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "und trat"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "in den Hof"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "der inneren"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dem Haus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "Und der König"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "saß"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "dem Thron"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "seiner Königsherrschaft"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "der Königsherrschaft"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dem Eingang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    }
+  ],
+  "timestamp": "2026-08-05T23:33:41.222999379Z",
+  "model": "glm-5.2"
+}

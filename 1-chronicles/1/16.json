@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "und ⟨את⟩ den Arwaditer und ⟨את⟩ den Zemariter und ⟨את⟩ den Chamatiter.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Arwaditer"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "den Arwaditer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Zemariter"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "den Zemariter"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Chamatiter"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "den Chamatiter"
+    }
+  ],
+  "timestamp": "2026-08-05T23:45:53.056136161Z",
+  "model": "glm-5.2"
+}

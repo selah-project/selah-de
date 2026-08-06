@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Steh auf, JHWH, tritt ihm entgegen, ⟨bringe⟩ ihn ⟨zum⟩ Sinken! Entrisse meine Nefesch dem Frevler ⟨durch⟩ dein Schwert!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "tritt entgegen"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "seinem Angesicht"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "bring ihn zum Sinken"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "entriss"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "dem Frevler"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "dein Schwert"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:32.777313628Z",
+  "model": "glm-5.2"
+}

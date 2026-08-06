@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und JHWH stärkte ⟨את⟩ das Herz von Paro, und er war nicht willens, sie ziehen zu lassen.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Und stärkte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Herz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "von Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "war willens"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "sie ziehen zu lassen"
+    }
+  ],
+  "timestamp": "2026-08-06T20:12:43.640079581Z",
+  "model": "glm-5.2"
+}

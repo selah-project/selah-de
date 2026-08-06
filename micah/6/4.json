@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Denn ich habe dich heraufgeführt aus dem Land Mizrajim, und aus dem Sklavenhaus habe ich dich losgekauft. Und ich sandte vor dir her ⟨את⟩ Mosche, ⟨את⟩ Aharon und ⟨את⟩ Mirjam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "habe ich dich heraufgeführt"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "und aus dem"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "Sklavenhaus"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "habe ich dich losgekauft"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "Und ich sandte"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vor dir her"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "und Mirjam"
+    }
+  ],
+  "timestamp": "2026-08-06T04:03:28.155747770Z",
+  "model": "glm-5.2"
+}

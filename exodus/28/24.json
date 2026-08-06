@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und ⟨du sollst⟩ ⟨את⟩ die zwei Geflechte aus dem Gold an die zwei Ringe geben, an die Enden des Choschen.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Und ⟨du sollst⟩ geben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die zwei Geflechte"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "die zwei"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "Geflechte"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "aus dem Gold"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "die zwei"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "Ringe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "die Enden"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "des Choschen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:57.954643473Z",
+  "model": "glm-5.2"
+}

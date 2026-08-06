@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Eine Tora soll ⟨sein⟩ für den Einheimischen und für den Fremdling, der in eurer Mitte lebt.",
+  "tokens": [
+    {
+      "surface": "תּוֹרָ֣ה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אַחַ֔ת",
+      "gloss": "eine"
+    },
+    {
+      "surface": "יִהְיֶ֖ה",
+      "gloss": "soll ⟨sein⟩"
+    },
+    {
+      "surface": "לָֽאֶזְרָ֑ח",
+      "gloss": "für den Einheimischen"
+    },
+    {
+      "surface": "וְלַגֵּ֖ר",
+      "gloss": "und für den Fremdling"
+    },
+    {
+      "surface": "הַגָּ֥ר",
+      "gloss": "der lebt"
+    },
+    {
+      "surface": "בְּתוֹכְכֶֽם",
+      "gloss": "in eurer Mitte"
+    }
+  ],
+  "timestamp": "2026-08-05T20:08:34.835190869Z",
+  "model": "glm-5.2"
+}

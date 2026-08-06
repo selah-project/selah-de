@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 11:24",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Es gibt ⟨den⟩, der ausstreut und ⟨doch⟩ noch vermehrt wird; und ⟨der⟩, der zurückhält, was recht ist, ⟨kommt⟩ nur zum Mangel.",
+  "tokens": [
+    {
+      "surface": "יֵ֥שׁ",
+      "gloss": "Es gibt"
+    },
+    {
+      "surface": "מְפַזֵּ֥ר",
+      "gloss": "⟨den,⟩ der ausstreut"
+    },
+    {
+      "surface": "וְנוֹסָ֖ף",
+      "gloss": "und ⟨doch⟩ vermehrt wird"
+    },
+    {
+      "surface": "ע֑וֹד",
+      "gloss": "noch"
+    },
+    {
+      "surface": "וְחֹשֵׂ֥ךְ",
+      "gloss": "und ⟨der,⟩ der zurückhält"
+    },
+    {
+      "surface": "מִן־",
+      "gloss": "—"
+    },
+    {
+      "surface": "יֹ֝שֶׁ֗ר",
+      "gloss": "was recht ist"
+    },
+    {
+      "surface": "אַ֣ךְ",
+      "gloss": "nur"
+    },
+    {
+      "surface": "לְמַחְסֽוֹר",
+      "gloss": "zum Mangel"
+    }
+  ],
+  "timestamp": "2026-08-06T06:55:28.921611300Z",
+  "model": "glm-5.2"
+}

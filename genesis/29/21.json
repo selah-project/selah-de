@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und Jaakow sprach zu Lawan: „Gib ⟨mir⟩ ⟨את⟩ meine Frau, denn meine Tage sind voll geworden, und ich will zu ihr eingehen.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawan"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "gib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Frau"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "meine Frau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "sind voll geworden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "meine Tage"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "und ich will eingehen"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "zu ihr"
+    }
+  ],
+  "timestamp": "2026-08-05T19:59:41.151623290Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Balak tat, wie Bilam gesprochen hatte, und Balak und Bilam opferten ⟨je⟩ einen Stier und einen Widder auf dem Altar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Und er tat"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gesprochen hatte"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "und sie opferten"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "und Bilam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "einen Stier"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "und einen Widder"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "auf dem Altar"
+    }
+  ],
+  "timestamp": "2026-08-05T20:36:51.146441323Z",
+  "model": "glm-5.2"
+}

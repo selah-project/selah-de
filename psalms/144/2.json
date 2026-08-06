@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 144,
+  "translation": "mein Chessed und meine Feste, meine Höhe und ⟨mein⟩ Befreier, mir ⟨ein⟩ Schild, und bei ihm suche ich Schutz, der mein Volk unter mich niederbeugt.",
+  "tokens": [
+    {
+      "surface": "חַסְדִּ֥י",
+      "gloss": "mein Chessed"
+    },
+    {
+      "surface": "וּמְצוּדָתִי֮",
+      "gloss": "und meine Feste"
+    },
+    {
+      "surface": "מִשְׂגַּבִּ֪י",
+      "gloss": "meine Höhe"
+    },
+    {
+      "surface": "וּֽמְפַלְטִ֫י",
+      "gloss": "und ⟨mein⟩ Befreier"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "מָ֭גִנִּי",
+      "gloss": "⟨ein⟩ Schild"
+    },
+    {
+      "surface": "וּב֣וֹ",
+      "gloss": "und bei ihm"
+    },
+    {
+      "surface": "חָסִ֑יתִי",
+      "gloss": "suche ich Schutz"
+    },
+    {
+      "surface": "הָרוֹדֵ֖ד",
+      "gloss": "der niederbeugt"
+    },
+    {
+      "surface": "עַמִּ֣י",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "תַחְתָּֽי",
+      "gloss": "unter mich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:28.048107546Z",
+  "model": "glm-5.2"
+}

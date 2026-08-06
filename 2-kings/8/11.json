@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨er⟩ stellte ⟨את⟩ sein Gesicht fest, bis ⟨er⟩ sich schämte, und der Mann Eloims weinte.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Und ⟨er⟩ stellte fest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Gesicht"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sein Gesicht"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "und ⟨er⟩ setzte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בש",
+      "gloss": "⟨er⟩ sich schämte"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "und weinte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloims"
+    }
+  ],
+  "timestamp": "2026-08-06T22:41:46.049655771Z",
+  "model": "glm-5.2"
+}

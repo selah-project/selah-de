@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und der Aufseher hob ⟨es⟩ auf: ⟨את⟩ ihre Speise und ⟨das⟩ Wein ⟨von⟩ ihrem Trank, und gab ihnen Saatgut.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֣י",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "הַמֶּלְצַ֗ר",
+      "gloss": "der Aufseher"
+    },
+    {
+      "surface": "נֹשֵׂאא֙",
+      "gloss": "hob auf"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Speise"
+    },
+    {
+      "surface": "פַּתְבָּגָ֔ם",
+      "gloss": "ihre Speise"
+    },
+    {
+      "surface": "וְיֵ֖ין",
+      "gloss": "und ⟨das⟩ Wein"
+    },
+    {
+      "surface": "מִשְׁתֵּיהֶ֑ם",
+      "gloss": "⟨von⟩ ihrem Trank"
+    },
+    {
+      "surface": "וְנֹתֵ֥ן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "זֵרְעֹנִֽים",
+      "gloss": "Saatgut"
+    }
+  ],
+  "timestamp": "2026-08-06T04:44:34.374031753Z",
+  "model": "glm-5.2"
+}

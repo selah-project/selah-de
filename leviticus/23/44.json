@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und Mosche verkündete ⟨את⟩ die Festzeiten JHWHs ⟨an⟩ die Söhne Jisra'els.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und er verkündete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Festzeiten JHWHs"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "die Festzeiten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨an⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:19.443591763Z",
+  "model": "glm-5.2"
+}

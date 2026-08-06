@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Mordechai erfuhr ⟨את⟩ alles, was geschehen war, und Mordechai zerriss ⟨את⟩ seine Kleider und legte Sack ⟨und⟩ Asche an und ging hinaus inmitten der Stadt und schrie einen großen und bitteren Schrei.",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "Und Mordechai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "erfuhr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "geschehen war"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "und zerriss"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Kleider"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "und legte an"
+    },
+    {
+      "surface": "שק",
+      "gloss": "Sack"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "und Asche"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "und ging hinaus"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "der Stadt"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "und schrie"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "einen Schrei"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "großen"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "und bitteren"
+    }
+  ],
+  "timestamp": "2026-08-05T23:32:46.943773276Z",
+  "model": "glm-5.2"
+}

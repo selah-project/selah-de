@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Ich aber, auf dich habe ich vertraut, JHWH; ich sagte: „Mein Elohim ⟨bist⟩ du.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֤י",
+      "gloss": "Ich aber"
+    },
+    {
+      "surface": "עָלֶ֣יךָ",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "בָטַ֣חְתִּי",
+      "gloss": "habe ich vertraut"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אָ֝מַ֗רְתִּי",
+      "gloss": "ich sagte"
+    },
+    {
+      "surface": "אֱלֹהַ֥י",
+      "gloss": "Mein Elohim"
+    },
+    {
+      "surface": "אָֽתָּה",
+      "gloss": "bist du"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:02.882763172Z",
+  "model": "glm-5.2"
+}

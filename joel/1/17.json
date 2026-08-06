@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joel 1:17",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Verdorrt sind die Körner unter ihren Schollen, verwüstet sind die Vorratshäuser, niedergerissen sind die Kornhäuser — denn das Getreide ist ausgedörrt.",
+  "tokens": [
+    {
+      "surface": "עָבְשׁ֣וּ",
+      "gloss": "Verdorrt sind"
+    },
+    {
+      "surface": "פְרֻד֗וֹת",
+      "gloss": "die Körner"
+    },
+    {
+      "surface": "תַּ֚חַת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "מֶגְרְפֹ֣תֵיהֶ֔ם",
+      "gloss": "ihren Schollen"
+    },
+    {
+      "surface": "נָשַׁ֨מּוּ֙",
+      "gloss": "verwüstet sind"
+    },
+    {
+      "surface": "אֹֽצָר֔וֹת",
+      "gloss": "die Vorratshäuser"
+    },
+    {
+      "surface": "נֶהֶרְס֖וּ",
+      "gloss": "niedergerissen sind"
+    },
+    {
+      "surface": "מַמְּגֻר֑וֹת",
+      "gloss": "die Kornhäuser"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הֹבִ֖ישׁ",
+      "gloss": "ist ausgedörrt"
+    },
+    {
+      "surface": "דָּגָֽן",
+      "gloss": "das Getreide"
+    }
+  ],
+  "timestamp": "2026-08-06T06:31:24.116657053Z",
+  "model": "glm-5.2"
+}

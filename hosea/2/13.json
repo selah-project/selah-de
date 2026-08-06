@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 2:13",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ich werde aufhören lassen all ihre Freude, ihr Fest, ihren Neumondstag und ihren Schabbat und all ihre festzeiten.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Und ich werde aufhören lassen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "משושה",
+      "gloss": "ihre Freude"
+    },
+    {
+      "surface": "חגה",
+      "gloss": "ihr Fest"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "ihren Neumondstag"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "und ihren Schabbat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und all"
+    },
+    {
+      "surface": "מועדה",
+      "gloss": "ihre festzeiten"
+    }
+  ],
+  "timestamp": "2026-08-06T15:58:30.601645830Z",
+  "model": "glm-5.2"
+}

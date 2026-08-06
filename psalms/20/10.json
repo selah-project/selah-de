@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "JHWH, rette! Der König antworte uns am Tag unseres Rufs.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "rette"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "er antworte uns"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "unseres Rufs"
+    }
+  ],
+  "timestamp": "2026-08-06T21:23:50.282096274Z",
+  "model": "glm-5.2"
+}

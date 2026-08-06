@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und ⟨ihr⟩ sagt: ‚Nicht abgewogen ist der Weg Adonais.‘ ⟨Jeder⟩ Mann nach seinen Wegen — ⟨ich⟩ werde ⟨את⟩ euch richten, Haus Jisraels.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "und ⟨ihr⟩ sagt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "abgewogen ist"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "der Weg"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonais"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨Jeder⟩ Mann"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "nach seinen Wegen"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "⟨ich⟩ werde richten"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "euch (Haus Jisraels)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T20:37:29.182048464Z",
+  "model": "glm-5.2"
+}

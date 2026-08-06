@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und er kam zu seinem Vater und sprach: „Mein Vater.\" Und er sprach: „Hier bin ich. Wer bist du, mein Sohn?\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und er kam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seinem Vater"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Mein Vater"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hier bin ich"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mein Sohn"
+    }
+  ],
+  "timestamp": "2026-08-06T22:30:49.008780560Z",
+  "model": "glm-5.2"
+}

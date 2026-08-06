@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨ich⟩ werde Gras geben auf deinem Feld für dein Vieh, und ⟨du⟩ wirst essen und satt werden.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "und ⟨ich⟩ werde geben"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "Gras"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "auf deinem Feld"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "für dein Vieh"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "und ⟨du⟩ wirst essen"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "und satt werden"
+    }
+  ],
+  "timestamp": "2026-08-06T14:55:50.359831688Z",
+  "model": "glm-5.2"
+}

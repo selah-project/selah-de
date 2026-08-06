@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und er trieb ⟨את⟩ den Menschen hinaus und ließ östlich von Gan Eden wohnen ⟨את⟩ die Keruwim und ⟨את⟩ die Flinten des Schwertes, das sich umwendet, um ⟨את⟩ den Weg zum Baum des Lebens zu bewachen.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "und er trieb hinaus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Menschen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "und ließ wohnen"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "östlich"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "von Gan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Keruwim"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "die Keruwim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Flinten"
+    },
+    {
+      "surface": "להט",
+      "gloss": "die Flinten"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "des Schwertes"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "das sich umwendet"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "um zu bewachen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Weg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "zum Baum"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "des Lebens"
+    }
+  ],
+  "timestamp": "2026-08-05T19:54:17.201504739Z",
+  "model": "glm-5.2"
+}

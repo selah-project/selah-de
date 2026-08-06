@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich habe geschworen und ⟨ich werde es bestätigen⟩, zu bewahren ⟨את⟩ die Rechtsbestimmungen deiner Gerechtigkeit.",
+  "tokens": [
+    {
+      "surface": "נִשְׁבַּ֥עְתִּי",
+      "gloss": "Ich habe geschworen"
+    },
+    {
+      "surface": "וָאֲקַיֵּ֑מָה",
+      "gloss": "und ⟨ich werde es bestätigen⟩"
+    },
+    {
+      "surface": "לִ֝שְׁמֹ֗ר",
+      "gloss": "zu bewahren"
+    },
+    {
+      "surface": "מִשְׁפְּטֵ֥י",
+      "gloss": "⟨את⟩ die Rechtsbestimmungen"
+    },
+    {
+      "surface": "צִדְקֶֽךָ",
+      "gloss": "deiner Gerechtigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:35.051291547Z",
+  "model": "glm-5.2"
+}

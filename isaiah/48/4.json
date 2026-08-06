@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 48,
+  "translation": "Aus meinem Wissen, dass du hart bist — und deine Sehne Eisen, dein Nacken, und deine Stirn ⟨ist⟩ Kupfer.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Aus meinem Wissen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hart"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "und ⟨deine⟩ Sehne"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "Eisen"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "dein Nacken"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "und deine Stirn"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "⟨ist⟩ Kupfer"
+    }
+  ],
+  "timestamp": "2026-08-05T21:54:26.887421464Z",
+  "model": "glm-5.2"
+}

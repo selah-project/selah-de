@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Heult! Denn nahe ist der Tag von JHWH; wie Verheerung von Schaddai kommt er.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Heult!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nahe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "der Tag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "wie Verheerung"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "von Schaddai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommt er"
+    }
+  ],
+  "timestamp": "2026-08-05T21:45:16.880194571Z",
+  "model": "glm-5.2"
+}

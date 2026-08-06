@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Denn die erschöpfte Nefesch habe ich getränkt, und jede verzehrende Nefesch habe ich gefüllt.",
+  "tokens": [
+    {
+      "surface": "כִּ֥י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הִרְוֵ֖יתִי",
+      "gloss": "habe ich getränkt"
+    },
+    {
+      "surface": "נֶ֣פֶשׁ",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "עֲיֵפָ֑ה",
+      "gloss": "erschöpfte"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und jede"
+    },
+    {
+      "surface": "נֶ֥פֶשׁ",
+      "gloss": "Nefesch"
+    },
+    {
+      "surface": "דָּאֲבָ֖ה",
+      "gloss": "verzehrende"
+    },
+    {
+      "surface": "מִלֵּֽאתִי",
+      "gloss": "habe ich gefüllt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:08:07.963576521Z",
+  "model": "glm-5.2"
+}

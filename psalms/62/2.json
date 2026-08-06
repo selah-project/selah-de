@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Nur auf Elohim ⟨ist⟩ still meine Nefesch, von ihm ⟨kommt⟩ meine Rettung.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "still"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "meine Rettung"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:35.935797637Z",
+  "model": "glm-5.2"
+}

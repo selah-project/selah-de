@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "und ⟨את⟩ alle Könige von Arab und ⟨את⟩ alle Könige der Vermischten, die in der Wüste wohnen",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Könige von Arab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Könige von"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Könige der Vermischten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "der Vermischten"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "die wohnen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    }
+  ],
+  "timestamp": "2026-08-05T22:05:03.641073571Z",
+  "model": "glm-5.2"
+}

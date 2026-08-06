@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Der Feind sagte: „Ich will nachjagen, ich will einholen, ich will die Beute verteilen, meine Nefesch soll sich an ihnen sättigen, ich will mein Schwert entblößen, meine Hand soll sie vernichten.“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sagte"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "der Feind"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "ich will nachjagen"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "ich will einholen"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "ich will verteilen"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Beute"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "sie wird sich füllen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "ich will entblößen"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "mein Schwert"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "sie wird sie vernichten"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "meine Hand"
+    }
+  ],
+  "timestamp": "2026-08-06T08:18:45.525322654Z",
+  "model": "glm-5.2"
+}

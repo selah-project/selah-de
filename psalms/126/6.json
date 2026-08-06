@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 126,
+  "translation": "Einhergehen, ⟨er⟩ geht und weinend trägt ⟨er⟩ den Samenbeutel; kommend kommt ⟨er⟩ mit Jubelruf, tragend ⟨seine⟩ Garben.",
+  "tokens": [
+    {
+      "surface": "הָלוֹךְ",
+      "gloss": "Einhergehen"
+    },
+    {
+      "surface": "יֵלֵךְ",
+      "gloss": "⟨er⟩ geht"
+    },
+    {
+      "surface": "וּבָכֹה",
+      "gloss": "und weinend"
+    },
+    {
+      "surface": "נֹשֵׂא",
+      "gloss": "trägt ⟨er⟩"
+    },
+    {
+      "surface": "מֶשֶׁךְ",
+      "gloss": "den Samenbeutel"
+    },
+    {
+      "surface": "הַזָּרַע",
+      "gloss": "⟨des Samens⟩"
+    },
+    {
+      "surface": "בֹּא",
+      "gloss": "kommend"
+    },
+    {
+      "surface": "יָבוֹא",
+      "gloss": "kommt ⟨er⟩"
+    },
+    {
+      "surface": "בְּרִנָּה",
+      "gloss": "mit Jubelruf"
+    },
+    {
+      "surface": "נֹשֵׂא",
+      "gloss": "tragend"
+    },
+    {
+      "surface": "אֲלֻמֹּתָיו",
+      "gloss": "⟨seine⟩ Garben"
+    }
+  ],
+  "timestamp": "2026-08-06T09:19:52.036150192Z",
+  "model": "glm-5.2"
+}

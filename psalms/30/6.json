@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Denn ein Augenblick ⟨ist⟩ in seinem Zorn, Leben ⟨ist⟩ in seinem Wohlgefallen; am Abend nächtigt Weinen, und am Morgen Jubel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ein Augenblick"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "in seinem Zorn"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "Leben"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "in seinem Wohlgefallen"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "am Abend"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "nächtigt"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "Weinen"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "und am Morgen"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "Jubel"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:52.924911092Z",
+  "model": "glm-5.2"
+}

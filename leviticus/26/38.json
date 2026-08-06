@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und ihr werdet zugrunde gehen unter den Völkern, und das Land eurer Feinde wird ⟨euch⟩, ⟨אתכם⟩, verzehren.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "Und ihr werdet zugrunde gehen"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "unter den Völkern"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "und sie wird verzehren"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "eurer Feinde"
+    }
+  ],
+  "timestamp": "2026-08-05T20:28:48.219023855Z",
+  "model": "glm-5.2"
+}

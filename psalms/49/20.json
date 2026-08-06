@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "⟨Er⟩ kommt bis zur Generation seiner Väter; bis in Ewigkeit werden sie ⟨das⟩ Licht nicht sehen.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "⟨er⟩ kommt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "דור",
+      "gloss": "zur Generation"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "seiner Väter"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "in Ewigkeit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "werden sie sehen"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨das⟩ Licht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:48.852420266Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Singt ihm, spielt ihm, sinnt nach all seinen Wundern!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Singt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spielt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "sinnt nach"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "seinen Wundern"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:38.912469046Z",
+  "model": "glm-5.2"
+}

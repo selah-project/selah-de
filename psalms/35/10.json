@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "All meine Gebeine werden sagen: „JHWH, wer ist wie du, der ⟨den⟩ Elenden rettet vom Stärkeren als er, und den Elenden und Bedürftigen von seinem Räuber!\"",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "All"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "meine Gebeine"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "werden sagen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ist wie du"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "der rettet"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨den⟩ Elenden"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "vom Stärkeren"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "als er"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "und ⟨den⟩ Elenden"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "und Bedürftigen"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "von seinem Räuber"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:02.056591647Z",
+  "model": "glm-5.2"
+}

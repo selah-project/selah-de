@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ich, Daniël, sah, und siehe, zwei andere standen ⟨da⟩, der eine hier am Ufer des Stromes und der andere dort am ⟨anderen⟩ Ufer des Stromes.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Und ich sah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniël"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andere"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "standen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "der eine"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "am Ufer"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "des Stromes"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "und der andere"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dort"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "am Ufer"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "des Stromes"
+    }
+  ],
+  "timestamp": "2026-08-06T09:30:13.433569258Z",
+  "model": "glm-5.2"
+}

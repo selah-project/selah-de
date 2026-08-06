@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und er soll schlachten ⟨את⟩ ⟨die⟩ eine ⟨der⟩ Vögel in ⟨ein⟩ irdenes Gerät über lebendigem Wasser.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "und er soll schlachten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den einen Vogel"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "den Vogel"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "die eine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "Gerät"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "irden"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lebendigem"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:09.587960211Z",
+  "model": "glm-5.2"
+}

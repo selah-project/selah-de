@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "der König von Eglon, einer; der König von Geser, einer;",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "עֶגְלוֹן֙",
+      "gloss": "von Eglon"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "einer"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "der König"
+    },
+    {
+      "surface": "גֶּ֖זֶר",
+      "gloss": "von Geser"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "einer"
+    }
+  ],
+  "timestamp": "2026-08-06T08:31:57.519858046Z",
+  "model": "glm-5.2"
+}

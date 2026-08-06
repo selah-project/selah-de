@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Durch deine Weisheit und durch deine Einsicht schafftest du dir Vermögen, und du machtest Gold und Silber in deinen Schatzkammern.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "Durch deine Weisheit"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "und durch deine Einsicht"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "schafftest du"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "Vermögen"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "und du machtest"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Gold"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "und Silber"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "in deinen Schatzkammern"
+    }
+  ],
+  "timestamp": "2026-08-06T09:05:15.302320680Z",
+  "model": "glm-5.2"
+}

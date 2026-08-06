@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 40:22",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "⟨Er⟩, der thront über dem Kreis der Erde, und ⟨deren⟩ Bewohner sind wie Heuschrecken; der den Himmel ausbreitet wie einen Schleier, und ihn spannt wie ein Zelt zum Wohnen.",
+  "tokens": [
+    {
+      "surface": "הישב",
+      "gloss": "⟨Er⟩, der thront"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "dem Kreis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "und ⟨deren⟩ Bewohner"
+    },
+    {
+      "surface": "כחגבים",
+      "gloss": "sind wie Heuschrecken"
+    },
+    {
+      "surface": "הנוטה",
+      "gloss": "der ausbreitet"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "wie einen Schleier"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "den Himmel"
+    },
+    {
+      "surface": "וימתחם",
+      "gloss": "und ihn spannt"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "wie ein Zelt"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "zum Wohnen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:11:55.591279604Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Sag zur Weisheit: „Meine Schwester ⟨bist⟩ ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sag"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "zur Weisheit"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Meine Schwester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Verwandte (dir bekannte)"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "und ⟨die⟩ Verwandte"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "zur Einsicht"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "rufe"
+    }
+  ],
+  "timestamp": "2026-08-06T22:47:10.198324200Z",
+  "model": "glm-5.2"
+}

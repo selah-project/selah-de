@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Wie Rauch vertrieben wird, ⟨so⟩ ⟨sollst du⟩ sie vertreiben; wie Wachs schmilzt vor dem Feuer, ⟨so⟩ sollen die Räscha umkommen vor dem Angesicht von Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Wie vertrieben wird"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Rauch"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "⟨sollst du⟩ vertreiben"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "Wie schmilzt"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "Wachs"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dem Feuer"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "sollen umkommen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die Räscha"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor dem Angesicht"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "von Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:11.963733113Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Jitro, der Schwiegervater des Mosche, nahm ⟨את⟩ Zippora, die Frau des Mosche, nach ihrer Entlassung —",
+  "tokens": [
+    {
+      "surface": "וַיִּקַּח",
+      "gloss": "Und ⟨er⟩ nahm"
+    },
+    {
+      "surface": "יִתְרוֹ",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "חֹתֵן",
+      "gloss": "Schwiegervater"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "des Mosche"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Zippora"
+    },
+    {
+      "surface": "צִפֹּרָה",
+      "gloss": "Zippora"
+    },
+    {
+      "surface": "אֵשֶׁת",
+      "gloss": "⟨die⟩ Frau"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "des Mosche"
+    },
+    {
+      "surface": "אַחַר",
+      "gloss": "nach"
+    },
+    {
+      "surface": "שִׁלּוּחֶיהָ",
+      "gloss": "ihrer Entlassung"
+    }
+  ],
+  "timestamp": "2026-08-06T05:16:30.344383479Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨er⟩ schlachtete ⟨es⟩, und Mosche sprengte ⟨את⟩ das Blut ringsum auf den Altar.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "und ⟨er⟩ schlachtete"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "und sprengte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Blut"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "das Blut"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    }
+  ],
+  "timestamp": "2026-08-06T09:47:39.860855502Z",
+  "model": "glm-5.2"
+}

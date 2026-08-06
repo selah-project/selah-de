@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Im Anfang schuf Elohim ⟨את⟩ ⟨die⟩ Himmel und ⟨את⟩ ⟨die⟩ Erde.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Im Anfang"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "schuf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Himmel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Himmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Erde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T15:34:44.264718975Z",
+  "model": "glm-5.2"
+}

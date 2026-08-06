@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Fürchte dich nicht, denn ich bin bei dir. Vom Osten bringe ich ⟨deine⟩ Nachkommenschaft, und vom Westen sammle ich dich.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תִּירָא",
+      "gloss": "fürchte dich"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אִתְּךָ",
+      "gloss": "bei dir"
+    },
+    {
+      "surface": "אָנִי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מִמִּזְרָח",
+      "gloss": "vom Osten"
+    },
+    {
+      "surface": "אָבִיא",
+      "gloss": "bringe ich"
+    },
+    {
+      "surface": "זַרְעֶךָ",
+      "gloss": "deine Nachkommenschaft"
+    },
+    {
+      "surface": "וּמִמַּעֲרָב",
+      "gloss": "und vom Westen"
+    },
+    {
+      "surface": "אֲקַבְּצֶךָּ",
+      "gloss": "sammle ich dich"
+    }
+  ],
+  "timestamp": "2026-08-06T01:49:37.608363144Z",
+  "model": "glm-5.2"
+}

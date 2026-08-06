@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und er rettete sie um seines Namens willen, um ⟨את⟩ seine Macht kundzutun.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "und er rettete sie"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seines Namens willen"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "um kundzutun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Macht"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "seine Macht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:02.227574857Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich klammere mich an deine Zeugnisse, JHWH; lass mich nicht zuschanden werden.",
+  "tokens": [
+    {
+      "surface": "דָּבַ֥קְתִּי",
+      "gloss": "ich klammere mich an"
+    },
+    {
+      "surface": "בְעֵֽדְוֺתֶ֑יךָ",
+      "gloss": "deine Zeugnisse"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תְּבִישֵֽׁנִי",
+      "gloss": "lass mich zuschanden werden"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:20.403028582Z",
+  "model": "glm-5.2"
+}

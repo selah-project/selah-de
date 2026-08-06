@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "Sie sollen JHWH Herrlichkeit geben und ⟨seine⟩ Lobpreisung auf den Inseln kundtun.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "sie sollen geben"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Herrlichkeit"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "und ⟨seine⟩ Lobpreisung"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "auf den Inseln"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "kundtun"
+    }
+  ],
+  "timestamp": "2026-08-06T06:01:09.450491066Z",
+  "model": "glm-5.2"
+}

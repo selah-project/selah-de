@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und ⟨את⟩ eure Felder und ⟨את⟩ eure Weinberge ⟨und⟩ eure Ölbäume, die besten, wird er nehmen und seinen Knechten geben.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eure Felder"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "eure Felder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eure Weinberge"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "eure Weinberge"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "⟨und⟩ eure Ölbäume"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "die besten"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "wird er nehmen"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "und geben"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "seinen Knechten"
+    }
+  ],
+  "timestamp": "2026-08-05T21:08:56.959601165Z",
+  "model": "glm-5.2"
+}

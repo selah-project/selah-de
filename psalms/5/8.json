@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Ich aber — in der Fülle deines Chessed ⟨werde⟩ ich dein Haus betreten, mich niederwerfen toward deinem heiligen Tempel, in deiner Furcht.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ich aber"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "in der Fülle"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "deines Chessed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "⟨werde⟩ ich betreten"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dein Haus"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "mich niederwerfen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toward"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "Tempel"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "deinem heiligen"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "in deiner Furcht"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:40.935966431Z",
+  "model": "glm-5.2"
+}

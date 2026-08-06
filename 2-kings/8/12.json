@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 8:12",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Chasael sagte: „Warum weint mein Herr?\" Und ⟨er⟩ sagte: „Weil ich ⟨את⟩ das kenne, was du den Söhnen Jisra'els an Bösem tun wirst: ihre Festungen wirst du in Brand stecken und ihre jungen Männer mit dem Schwert töten und ihre Kleinen zerschmettern und ihre Schwangeren aufschlitzen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chasael"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "weint"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Weil"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ich kenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was du den Söhnen Jisra'els an Bösem tun wirst"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du tun wirst"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "an Bösem"
+    },
+    {
+      "surface": "מבצריהם",
+      "gloss": "ihre Festungen"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "wirst du in Brand stecken"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in Feuer"
+    },
+    {
+      "surface": "ובחריהם",
+      "gloss": "und ihre jungen Männer"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mit dem Schwert"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "wirst du töten"
+    },
+    {
+      "surface": "ועלליהם",
+      "gloss": "und ihre Kleinen"
+    },
+    {
+      "surface": "תרטש",
+      "gloss": "wirst du zerschmettern"
+    },
+    {
+      "surface": "והרתיהם",
+      "gloss": "und ihre Schwangeren"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "wirst du aufschlitzen"
+    }
+  ],
+  "timestamp": "2026-08-06T22:41:53.644512716Z",
+  "model": "glm-5.2"
+}

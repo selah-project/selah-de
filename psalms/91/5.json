@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "Du wirst dich nicht fürchten vor dem Schrecken der Nacht, vor dem Pfeil, der am Tag fliegt,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wirst du dich fürchten"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "vor dem Schrecken"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "der Nacht"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "vor dem Pfeil"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "der fliegt"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "am Tag"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:10.263797152Z",
+  "model": "glm-5.2"
+}

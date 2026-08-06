@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Darum ⟨halte⟩ ich alle deine Bestimmungen ⟨für⟩ recht, jeden Weg der Lüge hasse ich.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "Darum (auf)"
+    },
+    {
+      "surface": "כֵּ֤ן",
+      "gloss": "(so)"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פִּקּוּדֵי",
+      "gloss": "deine Bestimmungen"
+    },
+    {
+      "surface": "כֹּ֣ל",
+      "gloss": "in jeder"
+    },
+    {
+      "surface": "יִשָּׁ֑רְתִּי",
+      "gloss": "⟨halte ich für⟩ recht"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "אֹ֖רַח",
+      "gloss": "Weg"
+    },
+    {
+      "surface": "שֶׁ֣קֶר",
+      "gloss": "der Lüge"
+    },
+    {
+      "surface": "שָׂנֵֽאתִי",
+      "gloss": "hasse ich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:34.267565110Z",
+  "model": "glm-5.2"
+}

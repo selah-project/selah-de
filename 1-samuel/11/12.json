@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und das Volk sprach zu Schmuël: „Wer ist der, der sagte: ‚Soll Schaul über uns König sein?‘ ⟨Gebt⟩ die Männer, damit wir sie töten!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨es⟩ sprach"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ist der, der sagte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "soll König sein"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "über uns"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "⟨Gebt⟩"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "damit wir sie töten"
+    }
+  ],
+  "timestamp": "2026-08-06T01:05:25.228844410Z",
+  "model": "glm-5.2"
+}

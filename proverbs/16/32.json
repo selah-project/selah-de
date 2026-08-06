@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Besser ⟨ist⟩ ein Langsamer des Zorns als ein Held, und ⟨wer⟩ über seine Ruach herrscht, als ⟨wer⟩ eine Stadt einnimmt.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ein Langsamer"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "des Zorns"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "als ein Held"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "und ⟨wer⟩ herrscht"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "über seine Ruach"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "als ⟨wer⟩ einnimmt"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "eine Stadt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:11:49.493170776Z",
+  "model": "glm-5.2"
+}

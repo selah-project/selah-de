@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 72,
+  "translation": "Er richtet ⟨die⟩ Gebeugten des Volkes, er rettet ⟨die⟩ Söhne des Bedürftigen, und ⟨er⟩ zermalmt ⟨den⟩ Bedrücker.",
+  "tokens": [
+    {
+      "surface": "יִשְׁפֹּ֤ט",
+      "gloss": "Er richtet"
+    },
+    {
+      "surface": "עֲֽנִיֵּי",
+      "gloss": "⟨die⟩ Gebeugten"
+    },
+    {
+      "surface": "עָ֗ם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "י֭וֹשִׁיעַ",
+      "gloss": "er rettet"
+    },
+    {
+      "surface": "לִבְנֵ֣י",
+      "gloss": "⟨die⟩ Söhne"
+    },
+    {
+      "surface": "אֶבְי֑וֹן",
+      "gloss": "des Bedürftigen"
+    },
+    {
+      "surface": "וִֽידַכֵּ֣א",
+      "gloss": "und ⟨er⟩ zermalmt"
+    },
+    {
+      "surface": "עוֹשֵֽׁק",
+      "gloss": "⟨den⟩ Bedrücker"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:25.269776517Z",
+  "model": "glm-5.2"
+}

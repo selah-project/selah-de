@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Mögen die Übermütigen beschämt werden, denn mit Lüge haben sie mich krummgemacht — ich sinne nach über deine Ordnungen.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mögen beschämt werden"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "die Übermütigen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mit Lüge"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "haben sie mich krummgemacht"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "sinne nach"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "über deine Ordnungen"
+    }
+  ],
+  "timestamp": "2026-08-06T15:23:58.974792630Z",
+  "model": "glm-5.2"
+}

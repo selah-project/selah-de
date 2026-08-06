@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Bringt Schlachtopfer ⟨der⟩ Zedek dar, und vertraut auf JHWH!",
+  "tokens": [
+    {
+      "surface": "זבחוּ",
+      "gloss": "Bringt … dar"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "Schlachtopfer"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨der⟩ Zedek"
+    },
+    {
+      "surface": "ובטחוּ",
+      "gloss": "und vertraut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T06:38:46.385452827Z",
+  "model": "glm-5.2"
+}

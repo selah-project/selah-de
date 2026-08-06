@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Besser, bei JHWH Zuflucht zu suchen, als zu vertrauen auf Edle.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "Zuflucht zu suchen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bei JHWH"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "als zu vertrauen"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "auf Edle"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:47.846549489Z",
+  "model": "glm-5.2"
+}

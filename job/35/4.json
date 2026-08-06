@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Ich ⟨will⟩ dir Worte erwidern und ⟨את⟩ deine Gefährten mit dir.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "⟨will⟩ dir erwidern"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "Worte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deine Gefährten"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "deine Gefährten"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mit dir"
+    }
+  ],
+  "timestamp": "2026-08-05T23:23:49.895977595Z",
+  "model": "glm-5.2"
+}

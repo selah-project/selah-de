@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Der Weizen aber und der Emmer wurden nicht geschlagen, denn spät sind sie.“",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "und der Weizen"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "und der Emmer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "wurden geschlagen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "spät"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sind sie"
+    }
+  ],
+  "timestamp": "2026-08-05T20:07:05.658070017Z",
+  "model": "glm-5.2"
+}

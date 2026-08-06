@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und die Söhne Jisraels wohnten inmitten des Kenaaniters, des Chititers und des Emoriters und des Perisiters und des Chiwiters und des Jebusiters.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֣י",
+      "gloss": "Und die Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "יָשְׁב֖וּ",
+      "gloss": "wohnten"
+    },
+    {
+      "surface": "בְּקֶ֣רֶב",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "הַֽכְּנַעֲנִ֑י",
+      "gloss": "des Kenaaniters"
+    },
+    {
+      "surface": "הַחִתִּ֤י",
+      "gloss": "des Chititers"
+    },
+    {
+      "surface": "וְהָֽאֱמֹרִי֙",
+      "gloss": "und des Emoriters"
+    },
+    {
+      "surface": "וְהַפְּרִזִּ֔י",
+      "gloss": "und des Perisiters"
+    },
+    {
+      "surface": "וְהַחִוִּ֖י",
+      "gloss": "und des Chiwiters"
+    },
+    {
+      "surface": "וְהַיְבוּסִֽי",
+      "gloss": "und des Jebusiters"
+    }
+  ],
+  "timestamp": "2026-08-06T00:56:01.411323457Z",
+  "model": "glm-5.2"
+}

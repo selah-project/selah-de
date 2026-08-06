@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Behüte mich wie ⟨den⟩ Augapfel, die Tochter des Auges; im Schatten deiner Flügel verbirg mich.",
+  "tokens": [
+    {
+      "surface": "שָׁ֭מְרֵנִי",
+      "gloss": "Behüte mich"
+    },
+    {
+      "surface": "כְּאִישׁ֣וֹן",
+      "gloss": "wie ⟨den⟩ Augapfel"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "die Tochter"
+    },
+    {
+      "surface": "עָ֑יִן",
+      "gloss": "des Auges"
+    },
+    {
+      "surface": "בְּצֵ֥ל",
+      "gloss": "im Schatten"
+    },
+    {
+      "surface": "כְּנָפֶ֗יךָ",
+      "gloss": "deiner Flügel"
+    },
+    {
+      "surface": "תַּסְתִּירֵֽנִי",
+      "gloss": "verbirg mich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:57.644743506Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Denn JHWH sah ⟨את⟩ das Elend Jisraels, ⟨dass es⟩ sehr bitter war, und ⟨es war⟩ nichts Eingesperrtes und nichts Verlassenes, und ⟨es war⟩ kein Helfer für Jisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Elend"
+    },
+    {
+      "surface": "עני",
+      "gloss": "das Elend"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "bitter war"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "und ⟨es war⟩ nichts"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "Eingesperrtes"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "und ⟨es war⟩ nichts"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "Verlassenes"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es war⟩ kein"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "Helfer"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "für Jisrael"
+    }
+  ],
+  "timestamp": "2026-08-05T21:38:14.390164895Z",
+  "model": "glm-5.2"
+}

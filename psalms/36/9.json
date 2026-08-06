@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Sie trinken sich satt vom Fett deines Hauses, und aus dem Bach deiner Wonnen tränkst du sie.",
+  "tokens": [
+    {
+      "surface": "יִ֭רְוְיֻן",
+      "gloss": "sie trinken sich satt"
+    },
+    {
+      "surface": "מִדֶּ֣שֶׁן",
+      "gloss": "vom Fett"
+    },
+    {
+      "surface": "בֵּיתֶ֑ךָ",
+      "gloss": "deines Hauses"
+    },
+    {
+      "surface": "וְנַ֖חַל",
+      "gloss": "und aus dem Bach"
+    },
+    {
+      "surface": "עֲדָנֶ֣יךָ",
+      "gloss": "deiner Wonnen"
+    },
+    {
+      "surface": "תַּשְׁקֵֽם",
+      "gloss": "tränkst du sie"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:37.384427587Z",
+  "model": "glm-5.2"
+}

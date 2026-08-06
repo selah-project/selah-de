@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 11:15",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und wenn du so an mir tust, dann töte mich doch, ⟨ich bitte⟩, wenn ich Chen gefunden habe in deinen Augen, und ⟨lass⟩ mich nicht ⟨mein⟩ Unglück sehn.",
+  "tokens": [
+    {
+      "surface": "וְאִ֝ם כָּ֣כָה",
+      "gloss": "Und wenn so"
+    },
+    {
+      "surface": "אַ֣תְּ",
+      "gloss": "du"
+    },
+    {
+      "surface": "עֹשֶׂ֣ה",
+      "gloss": "tust"
+    },
+    {
+      "surface": "לִּ֗י",
+      "gloss": "an mir"
+    },
+    {
+      "surface": "הָרְגֵ֤נִי",
+      "gloss": "töte mich"
+    },
+    {
+      "surface": "נָ֙א",
+      "gloss": "doch"
+    },
+    {
+      "surface": "הָרֹ֔ג",
+      "gloss": "⟨ich bitte⟩"
+    },
+    {
+      "surface": "אִם־מָצָ֥אתִי",
+      "gloss": "wenn ich gefunden habe"
+    },
+    {
+      "surface": "חֵ֖ן",
+      "gloss": "Chen"
+    },
+    {
+      "surface": "בְּעֵינֶ֑יךָ",
+      "gloss": "in deinen Augen"
+    },
+    {
+      "surface": "וְאַל־",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "אֶרְאֶ֖ה",
+      "gloss": "⟨lass⟩ mich sehn"
+    },
+    {
+      "surface": "בְּרָעָתִֽי",
+      "gloss": "mein Unglück"
+    }
+  ],
+  "timestamp": "2026-08-05T20:33:01.740453277Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "Er ließ erkennen seine Wege dem Mosche, den Söhnen Jisraels seine Taten.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Er ließ erkennen"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "seine Wege"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "dem Mosche"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "seine Taten"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:17.994913553Z",
+  "model": "glm-5.2"
+}

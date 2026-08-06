@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "der dich speist mit Man in der Wüste, das deine Väter nicht kannten — um dich zu demütigen und um dich zu prüfen, dir Gutes zu tun an deinem Ende.",
+  "tokens": [
+    {
+      "surface": "הַמַּֽאֲכִ֨לְךָ֥",
+      "gloss": "der dich speist"
+    },
+    {
+      "surface": "מָן֙",
+      "gloss": "mit Man"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֔ר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָדְע֖וּן",
+      "gloss": "kannten"
+    },
+    {
+      "surface": "אֲבֹתֶ֑יךָ",
+      "gloss": "deine Väter"
+    },
+    {
+      "surface": "לְמַ֣עַן",
+      "gloss": "um"
+    },
+    {
+      "surface": "עַנֹּֽתְךָ֗",
+      "gloss": "dich zu demütigen"
+    },
+    {
+      "surface": "וּלְמַ֨עַן֙",
+      "gloss": "und um"
+    },
+    {
+      "surface": "נַסֹּתֶ֔ךָ",
+      "gloss": "dich zu prüfen"
+    },
+    {
+      "surface": "לְהֵיטִֽבְךָ֖",
+      "gloss": "dir Gutes zu tun"
+    },
+    {
+      "surface": "בְּאַחֲרִיתֶֽךָ",
+      "gloss": "an deinem Ende"
+    }
+  ],
+  "timestamp": "2026-08-06T00:42:34.806160224Z",
+  "model": "glm-5.2"
+}

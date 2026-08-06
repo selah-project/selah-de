@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Ihr sollt kein Unrecht tun im Rechtsverfahren: im Längenmaß, im Gewicht und im Hohlmaß.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sollt ihr tun"
+    },
+    {
+      "surface": "עול",
+      "gloss": "Unrecht"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "im Rechtsverfahren"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "im Längenmaß"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "im Gewicht"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "und im Hohlmaß"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:28.782813306Z",
+  "model": "glm-5.2"
+}

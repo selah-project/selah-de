@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 89,
+  "translation": "Wer ⟨ist der⟩ Mann, ⟨der⟩ leben wird und den Tod nicht sehen wird? ⟨Wird er⟩ seine Nefesch entrinnen lassen aus der Hand des Scheol? Sela.",
+  "tokens": [
+    {
+      "surface": "מִ֤י",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "גֶ֣בֶר",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "יִֽ֭חְיֶה",
+      "gloss": "leben wird"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יִרְאֶה",
+      "gloss": "sehen wird"
+    },
+    {
+      "surface": "מָּ֑וֶת",
+      "gloss": "den Tod"
+    },
+    {
+      "surface": "יְמַלֵּ֨ט",
+      "gloss": "⟨Wird er⟩ entrinnen lassen"
+    },
+    {
+      "surface": "נַפְשׁ֖וֹ",
+      "gloss": "seine Nefesch"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "שְׁא֣וֹל",
+      "gloss": "des Scheol"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-06T04:18:42.052764229Z",
+  "model": "glm-5.2"
+}

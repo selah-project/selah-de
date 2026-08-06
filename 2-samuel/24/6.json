@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 24:6",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und sie kamen ⟨nach⟩ Gilad und ins Land Tachtim-Chodschi, und sie kamen ⟨nach⟩ Dan-Jaän und ringsum ⟨herum⟩ ⟨nach⟩ Zidon.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "und sie kamen"
+    },
+    {
+      "surface": "הגלעדה",
+      "gloss": "⟨nach⟩ Gilad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨nach⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ins Land"
+    },
+    {
+      "surface": "תחתים",
+      "gloss": "Tachtim"
+    },
+    {
+      "surface": "חדשי",
+      "gloss": "Chodschi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "und sie kamen"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "⟨nach⟩ Dan"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Jaän"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "und ringsum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨herum⟩ ⟨nach⟩"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Zidon"
+    }
+  ],
+  "timestamp": "2026-08-06T01:20:28.154299803Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "Dieser ⟨ist der⟩ Tag, den JHWH gemacht hat; lasst uns jauchzen und uns freuen in ihm.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dieser"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hat gemacht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "lasst uns jauchzen"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "und uns freuen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:30.238193332Z",
+  "model": "glm-5.2"
+}

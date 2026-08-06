@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und er richtete einen Altar für den Baal auf, im Haus des Baal, das er in Schomron gebaut hatte.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Und er richtete auf"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "einen Altar"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "für den Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "des Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "er gebaut hatte"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Schomron"
+    }
+  ],
+  "timestamp": "2026-08-06T03:01:17.638295730Z",
+  "model": "glm-5.2"
+}

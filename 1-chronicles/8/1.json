@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Binjamin zeugte ⟨את⟩ Bela, seinen Erstgeborenen; Aschbel den zweiten und Achrach den dritten.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Und Binjamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "seinen Erstgeborenen"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Aschbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den zweiten"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "und Achrach"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den dritten"
+    }
+  ],
+  "timestamp": "2026-08-06T07:20:24.053718113Z",
+  "model": "glm-5.2"
+}

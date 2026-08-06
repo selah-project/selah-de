@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Ich — ich grub ⟨und trank⟩ Wasser, und ich trocknete aus mit der Sohle meiner Schritte alle Ströme ⟨der⟩ Festung.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "ich grub"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "und ⟨ich⟩ trank"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "und ich trocknete aus"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "mit der Sohle"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "meiner Schritte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "Ströme"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "⟨der⟩ Festung"
+    }
+  ],
+  "timestamp": "2026-08-06T08:52:19.468629009Z",
+  "model": "glm-5.2"
+}

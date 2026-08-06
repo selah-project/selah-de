@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 93,
+  "translation": "Ströme hoben empor, JHWH, Ströme hoben ⟨ihr⟩ Stimme empor, Ströme werden ⟨ihre⟩ Brecher emporheben.",
+  "tokens": [
+    {
+      "surface": "נָשְׂאוּ",
+      "gloss": "hoben empor"
+    },
+    {
+      "surface": "נְהָרוֹת",
+      "gloss": "Ströme"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "נָשְׂאוּ",
+      "gloss": "hoben empor"
+    },
+    {
+      "surface": "נְהָרוֹת",
+      "gloss": "Ströme"
+    },
+    {
+      "surface": "קוֹלָם",
+      "gloss": "ihre Stimme"
+    },
+    {
+      "surface": "יִשְׂאוּ",
+      "gloss": "werden emporheben"
+    },
+    {
+      "surface": "נְהָרוֹת",
+      "gloss": "Ströme"
+    },
+    {
+      "surface": "דָּכְיָם",
+      "gloss": "Brecher"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:38.399782656Z",
+  "model": "glm-5.2"
+}

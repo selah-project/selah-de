@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Zedaka behütet den Weg des Lauteren, aber Ruchlosigkeit subvertiert die Sünde.",
+  "tokens": [
+    {
+      "surface": "צְ֭דָקָה",
+      "gloss": "Zedaka"
+    },
+    {
+      "surface": "תִּצֹּ֣ר",
+      "gloss": "behütet"
+    },
+    {
+      "surface": "תָּם",
+      "gloss": "des Lauteren"
+    },
+    {
+      "surface": "דָּ֑רֶךְ",
+      "gloss": "den Weg"
+    },
+    {
+      "surface": "וְ֝רִשְׁעָ֗ה",
+      "gloss": "aber Ruchlosigkeit"
+    },
+    {
+      "surface": "תְּסַלֵּ֥ף",
+      "gloss": "subvertiert"
+    },
+    {
+      "surface": "חַטָּֽאת",
+      "gloss": "die Sünde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:26:59.686093168Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 112,
+  "translation": "Vermögen und Reichtum ⟨sind⟩ in seinem Haus, und seine Zedaka steht für immer.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Vermögen"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "und Reichtum"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in seinem Haus"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "und seine Zedaka"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "steht"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "für immer"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:29.188029892Z",
+  "model": "glm-5.2"
+}

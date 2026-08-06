@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und die Männer Jisra'els sahen, dass ⟨es⟩ eng für sie ⟨war⟩, denn das Volk ⟨wurde⟩ bedrängt, und das Volk versteckte sich in den Höhlen und in den Dornbüschen und in den Felsen und in den Verstecken und in den Zisternen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Und die Männer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sahen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "צר",
+      "gloss": "eng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "bedrängt ⟨wurde⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "und versteckten sich"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "in den Höhlen"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "und in den Dornbüschen"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "und in den Felsen"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "und in den Verstecken"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "und in den Zisternen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:59:36.165663340Z",
+  "model": "glm-5.2"
+}

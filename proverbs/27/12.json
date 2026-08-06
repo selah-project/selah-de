@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Ein Kluger sah das Böse, ⟨er⟩ versteckte sich; die Einfältigen schritten hindurch, sie wurden bestraft.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ein Kluger"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "das Böse"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "⟨er⟩ versteckte sich"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "die Einfältigen"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "schritten hindurch"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "sie wurden bestraft"
+    }
+  ],
+  "timestamp": "2026-08-05T23:14:27.969928411Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Die Stimme JHWHs lässt Hirschkühe kreßen, und ⟨er⟩ entblößt die Wälder — und in seinem Tempel ⟨ruft⟩ alles: „Kabod!“",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Die Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "lässt kreßen"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Hirschkühe"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "und entblößt"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "die Wälder"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "und in seinem Tempel"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨ruft⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "„Kabod!“"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:41.778264429Z",
+  "model": "glm-5.2"
+}

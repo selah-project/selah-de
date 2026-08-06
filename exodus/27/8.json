@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Hohl, aus Brettern, sollst du ⟨es⟩ machen. So wie ⟨es⟩ dir gezeigt wurde auf dem Berg, so sollen sie ⟨es⟩ machen.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "hohl"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "aus Brettern"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sollst du machen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨es⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "gezeigt wurde"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "auf dem Berg"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "sollen sie machen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:17:10.949336242Z",
+  "model": "glm-5.2"
+}

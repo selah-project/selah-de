@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ihr antwortetet ⟨את⟩ mich und spracht: „Gut ⟨ist⟩ die Sache, die du geredet hast, zu tun.“",
+  "tokens": [
+    {
+      "surface": "וַֽתַּעֲנ֖וּ",
+      "gloss": "Und ihr antwortetet"
+    },
+    {
+      "surface": "אֹתִ֑י",
+      "gloss": "⟨את⟩",
+      "marks": "mich"
+    },
+    {
+      "surface": "וַתֹּ֣אמְר֔וּ",
+      "gloss": "und spracht"
+    },
+    {
+      "surface": "טֽוֹב",
+      "gloss": "Gut"
+    },
+    {
+      "surface": "הַדָּבָ֥ר",
+      "gloss": "⟨ist⟩ die Sache"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "דִּבַּ֖רְתָּ",
+      "gloss": "du geredet hast"
+    },
+    {
+      "surface": "לַעֲשֽׂוֹת",
+      "gloss": "zu tun"
+    }
+  ],
+  "timestamp": "2026-08-06T00:41:05.503132501Z",
+  "model": "glm-5.2"
+}

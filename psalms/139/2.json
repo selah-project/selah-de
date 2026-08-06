@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Du, du kennst mein Sitzen und mein Aufstehen; du verstehst mein Denken aus der Ferne.",
+  "tokens": [
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "יָדַעְתָּ֭",
+      "gloss": "du kennst"
+    },
+    {
+      "surface": "שִׁבְתִּ֣י",
+      "gloss": "mein Sitzen"
+    },
+    {
+      "surface": "וְקוּמִ֑י",
+      "gloss": "und mein Aufstehen"
+    },
+    {
+      "surface": "בַּנְתָּ֥ה",
+      "gloss": "du verstehst"
+    },
+    {
+      "surface": "לְרֵעִ֗י",
+      "gloss": "mein Denken"
+    },
+    {
+      "surface": "מֵרָח֗וֹק",
+      "gloss": "aus der Ferne"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:53.433249081Z",
+  "model": "glm-5.2"
+}

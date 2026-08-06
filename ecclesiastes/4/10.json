@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Denn wenn ⟨auch⟩ der Eine fällt, ⟨richtet⟩ ⟨er⟩ ⟨auf⟩ ⟨את⟩ seinen Gefährten; der Eine aber, der fällt, und ⟨es⟩ ⟨ist⟩ kein Zweiter ⟨da⟩, ihn aufzurichten —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "fällt"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "der Eine"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "⟨richtet⟩ ⟨auf⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Gefährten"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "seinen Gefährten"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "der Eine aber"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "—"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "der fällt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es⟩ ⟨ist⟩ ⟨da⟩ nicht"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ein Zweiter"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ihn aufzurichten"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:13.266032064Z",
+  "model": "glm-5.2"
+}

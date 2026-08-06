@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und er sprach zu ihm: „Geh mit mir ⟨ins⟩ Haus und iss Brot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "mit mir"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "⟨ins⟩ Haus"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "und iss"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    }
+  ],
+  "timestamp": "2026-08-06T01:25:46.854315455Z",
+  "model": "glm-5.2"
+}

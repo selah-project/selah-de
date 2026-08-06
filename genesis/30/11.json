@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und Lea sagte: „Glück gekommen!“ Und sie rief ⟨את⟩ seinen Namen Gad.",
+  "tokens": [
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "לֵאָה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בָּא גָד",
+      "gloss": "Glück gekommen!"
+    },
+    {
+      "surface": "וַתִּקְרָא",
+      "gloss": "Und sie rief"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Namen"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "גָּד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-08-06T01:56:24.103646277Z",
+  "model": "glm-5.2"
+}

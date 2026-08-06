@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und das Land soll euch nicht ausspeien, wenn ihr ⟨es⟩ ⟨את⟩ verunreinigt, so wie es ⟨את⟩ das Volk ausgespieen hat, das vor euch war.",
+  "tokens": [
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "Und ⟨es soll⟩ nicht"
+    },
+    {
+      "surface": "תָקִ֤יא",
+      "gloss": "ausspeien"
+    },
+    {
+      "surface": "הָאָ֨רֶץ֙",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אֶתְכֶ֔ם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "בְּטַֽמַּאֲכֶ֖ם",
+      "gloss": "wenn ihr verunreinigt"
+    },
+    {
+      "surface": "אֹתָ֑הּ",
+      "gloss": "⟨את⟩",
+      "marks": "⟨es⟩ — das Land"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "קָאָ֛ה",
+      "gloss": "es ausgespieen hat"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "הַגּ֖וֹי",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לִפְנֵיכֶֽם",
+      "gloss": "vor euch war"
+    }
+  ],
+  "timestamp": "2026-08-06T00:28:06.488376916Z",
+  "model": "glm-5.2"
+}

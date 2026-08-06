@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Glühender Zorn hat mich ergriffen wegen der Frevler, ⟨derer, die⟩ deine Tora verlassen.",
+  "tokens": [
+    {
+      "surface": "זַלְעָפָ֣ה",
+      "gloss": "Glühender Zorn"
+    },
+    {
+      "surface": "אֲ֭חָזַתְנִי",
+      "gloss": "hat mich ergriffen"
+    },
+    {
+      "surface": "מֵרְשָׁעִ֑ים",
+      "gloss": "wegen der Frevler"
+    },
+    {
+      "surface": "עֹ֝זְבֵ֗י",
+      "gloss": "⟨derer, die⟩ verlassen"
+    },
+    {
+      "surface": "תּוֹרָתֶֽךָ",
+      "gloss": "deine Tora"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:16.402246666Z",
+  "model": "glm-5.2"
+}

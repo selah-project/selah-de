@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und Schet lebte fünf Jahre und hundert Jahre, und er zeugte ⟨את⟩ Enosch.",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִי",
+      "gloss": "und lebte"
+    },
+    {
+      "surface": "שֵׁ֕ת",
+      "gloss": "Schet"
+    },
+    {
+      "surface": "חָמֵ֥שׁ",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "שָׁנִ֖ים",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "וּמְאַ֣ת",
+      "gloss": "und hundert"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "Jahr"
+    },
+    {
+      "surface": "וַיּ֖וֹלֶד",
+      "gloss": "und er zeugte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Enosch"
+    },
+    {
+      "surface": "אֱנֽוֹשׁ",
+      "gloss": "Enosch"
+    }
+  ],
+  "timestamp": "2026-08-05T19:54:27.191641365Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Wie das Wasser — das Gesicht ⟨zum⟩ Gesicht, so ⟨ist⟩ das Herz des Menschen zum Menschen.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "Wie das Wasser"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "das Gesicht"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "⟨zum⟩ Gesicht"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "zum Menschen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:31:08.262568191Z",
+  "model": "glm-5.2"
+}

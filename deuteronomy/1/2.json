@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Elf Tage ⟨von⟩ Chorew auf dem Weg des Berges Se'ir bis Kadesch-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Elf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(und zehn)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "⟨von⟩ Chorew"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "des Berges"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesch"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-05T20:41:32.181913674Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Ich will gedenken ⟨der⟩ Taten Jahs, denn ich will erinnern ⟨die⟩ Wunder von alters ⟨an⟩, ⟨die⟩ dein ⟨sind⟩.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Ich will gedenken"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "⟨der⟩ Taten"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ich will erinnern"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "von alters ⟨an⟩"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "⟨die⟩ Wunder ⟨die⟩ dein ⟨sind⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:50.082990807Z",
+  "model": "glm-5.2"
+}

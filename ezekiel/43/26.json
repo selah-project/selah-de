@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Sieben Tage sollen sie Sühne tun für den Altar, und sie sollen ihn reinigen; und ⟨so⟩ sollen sie ⟨seine⟩ Hände füllen.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "sollen sie Sühne tun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "und sie sollen reinigen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "und sie sollen füllen"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seine Hände"
+    }
+  ],
+  "timestamp": "2026-08-06T09:06:53.392746981Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Diese drei, ⟨sie waren⟩ die Söhne Noachs, und von diesen ⟨wurde⟩ ⟨die⟩ ganze Erde zerstreut.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Drei"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "בני",
+      "gloss": "waren die Söhne"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachs"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "und von diesen"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "wurde zerstreut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:24.111692051Z",
+  "model": "glm-5.2"
+}

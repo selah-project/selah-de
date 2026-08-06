@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Und ich, wie ein Tauber, höre ⟨ich⟩ nicht, und wie ein Stummer, ⟨der⟩ seinen Mund nicht öffnet.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "wie ein Tauber"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "höre ich"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "und wie ein Stummer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "öffnet"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "seinen Mund"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:32.659593885Z",
+  "model": "glm-5.2"
+}

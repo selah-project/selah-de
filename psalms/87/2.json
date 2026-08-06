@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 87,
+  "translation": "JHWH liebt die Tore Zions, mehr als alle Wohnungen Jaakows.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "liebt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "die Tore"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zions"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mehr als alle"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Wohnungen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakows"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:23.771441374Z",
+  "model": "glm-5.2"
+}

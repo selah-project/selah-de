@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und es wuschen daraus Mosche und Aharon und seine Söhne ⟨את⟩ ihre Hände und ⟨את⟩ ihre Füße.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "Und es wuschen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daraus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Hände"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ihre Hände"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Füße"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ihre Füße"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:04.041658433Z",
+  "model": "glm-5.2"
+}

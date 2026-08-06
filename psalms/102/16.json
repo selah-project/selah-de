@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Und ⟨es⟩ werden fürchten die Nationen ⟨את⟩ den Namen JHWHs, und alle Könige der Erde ⟨את⟩ deine Herrlichkeit.",
+  "tokens": [
+    {
+      "surface": "וְיִֽירְא֣וּ",
+      "gloss": "Und ⟨es⟩ werden fürchten"
+    },
+    {
+      "surface": "ג֭וֹיִם",
+      "gloss": "die Nationen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "den Namen"
+    },
+    {
+      "surface": "שֵׁ֣ם",
+      "gloss": "den Namen"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וְֽכָל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "מַלְכֵ֥י",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "הָ֝אָ֗רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "deine Herrlichkeit"
+    },
+    {
+      "surface": "כְּבוֹדֶֽךָ",
+      "gloss": "deine Herrlichkeit"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:16.976464316Z",
+  "model": "glm-5.2"
+}

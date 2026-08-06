@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und der Erlass des Königs, den er erlässt, wird in seinem ganzen Reich gehört werden — denn es ist groß —, und alle Frauen werden ihren Männern Ehre geben, vom Großen bis zum Kleinen.",
+  "tokens": [
+    {
+      "surface": "וְנִשְׁמַ֢ע",
+      "gloss": "und wird gehört werden"
+    },
+    {
+      "surface": "פִּתְגָ֨ם",
+      "gloss": "der Erlass"
+    },
+    {
+      "surface": "הַמֶּ֤לֶךְ",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "אֲשֶֽׁר",
+      "gloss": "den"
+    },
+    {
+      "surface": "יַעֲשֶׂ֣ה",
+      "gloss": "er erlässt"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "in seinem ganzen"
+    },
+    {
+      "surface": "מַלְכוּת֔וֹ",
+      "gloss": "Reich"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "רַבָּ֖ה",
+      "gloss": "groß"
+    },
+    {
+      "surface": "הִ֑יא",
+      "gloss": "es ist"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "הַנָּשִׁ֗ים",
+      "gloss": "Frauen"
+    },
+    {
+      "surface": "יִתְּנ֤וּ",
+      "gloss": "werden geben"
+    },
+    {
+      "surface": "יְקָר֙",
+      "gloss": "Ehre"
+    },
+    {
+      "surface": "לְבַעְלֵיהֶ֔ן",
+      "gloss": "ihren Männern"
+    },
+    {
+      "surface": "לְמִגָּד֖וֹל",
+      "gloss": "vom Großen"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "bis zum"
+    },
+    {
+      "surface": "קָטָֽן",
+      "gloss": "Kleinen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:43:47.527133157Z",
+  "model": "glm-5.2"
+}

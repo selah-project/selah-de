@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 45,
+  "translation": "Du hast gesagt: ‚Wehe mir jetzt! Denn JHWH hat Kummer hinzugefügt zu meinem Schmerz. Ich bin erschöpft in meinem Seufzen, und Ruhe habe ich nicht gefunden.‘",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Du hast gesagt"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jetzt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "hat hinzugefügt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "Kummer"
+    },
+    {
+      "surface": "על",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "meinem Schmerz"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ich bin erschöpft"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "in meinem Seufzen"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "und Ruhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "habe ich gefunden"
+    }
+  ],
+  "timestamp": "2026-08-06T03:39:16.166533473Z",
+  "model": "glm-5.2"
+}

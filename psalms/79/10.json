@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 79,
+  "translation": "Warum sollten die Völker sagen: „Wo ist ihr Elohim?“ ⟨Es⟩ soll ⟨unter⟩ den Völkern vor unseren Augen kundwerden ⟨die⟩ Rache für das Blut deiner Knechte, das vergossen ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sollten sagen"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Wo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ist ihr Elohim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "soll kundwerden"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "⟨unter⟩ den Völkern"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "vor unseren Augen"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "⟨die⟩ Rache"
+    },
+    {
+      "surface": "דם",
+      "gloss": "für das Blut"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "deiner Knechte"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "das vergossen ⟨ist⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T21:24:27.975418515Z",
+  "model": "glm-5.2"
+}

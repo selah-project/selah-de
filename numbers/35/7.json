@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Alle Städte, die ihr den Lewim geben werdet, ⟨sollen⟩ achtundvierzig Städte ⟨sein⟩, sie und ⟨את⟩ ihre Weideflächen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ihr geben werdet"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "den Lewim"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "vierzig"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "und acht"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "sie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Weideflächen"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ihre Weideflächen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:41:51.656433048Z",
+  "model": "glm-5.2"
+}

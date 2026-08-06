@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Sei mir gnädig, JHWH, denn ⟨ich bin⟩ dahingewelkt; heile mich, JHWH, denn erschrocken sind meine Gebeine.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Sei mir gnädig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "dahingewelkt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "heile mich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "erschrocken sind"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "meine Gebeine"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:37.253484546Z",
+  "model": "glm-5.2"
+}

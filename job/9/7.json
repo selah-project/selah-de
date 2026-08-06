@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "⟨Der⟩ zur Sonne spricht, und ⟨sie⟩ geht nicht auf, und ⟨die⟩ Sterne verschließt ⟨er⟩ —",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "⟨Der⟩ spricht"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "zur Sonne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨sie⟩ nicht"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "aufgeht"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "und"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "⟨die⟩ Sterne"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "verschließt ⟨er⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:33:28.091030302Z",
+  "model": "glm-5.2"
+}

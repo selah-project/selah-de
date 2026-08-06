@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und Ewer lebte, nachdem er ⟨את⟩ Peleg gezeugt hatte, dreißig Jahre und vierhundert Jahre, und zeugte Söhne und Töchter.",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִי",
+      "gloss": "und lebte"
+    },
+    {
+      "surface": "עֵ֗בֶר",
+      "gloss": "Ewer"
+    },
+    {
+      "surface": "אַחֲרֵי֙",
+      "gloss": "nachdem"
+    },
+    {
+      "surface": "הוֹלִיד֣וֹ",
+      "gloss": "er gezeugt hatte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פֶּ֔לֶג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֣ים",
+      "gloss": "dreißig"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "וְאַרְבַּ֥ע",
+      "gloss": "und vier"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "וַיּ֥וֹלֶד",
+      "gloss": "und zeugte"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "וּבָנֽוֹת",
+      "gloss": "und Töchter"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:43.915110885Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 20:24",
+  "book": "job",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Er flieht vor ⟨einer⟩ Waffe aus Eisen — ⟨aber⟩ ihn durchfährt ein Bogen aus Kupfer.",
+  "tokens": [
+    {
+      "surface": "יברח",
+      "gloss": "Er flieht"
+    },
+    {
+      "surface": "מנשק",
+      "gloss": "vor ⟨einer⟩ Waffe"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "aus Eisen"
+    },
+    {
+      "surface": "תחלפהו",
+      "gloss": "⟨aber⟩ ihn durchfährt"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ein Bogen"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "aus Kupfer"
+    }
+  ],
+  "timestamp": "2026-08-05T23:20:00.913318844Z",
+  "model": "glm-5.2"
+}

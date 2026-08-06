@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und es soll geschehen, wenn er ⟨sich⟩ an einem von diesen verschuldet, soll er bekennen, woran er gesündigt hat.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Und es soll geschehen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "er verschuldet"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "an einem"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "von diesen"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "soll er bekennen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woran"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "er gesündigt hat"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-06T14:52:09.688229207Z",
+  "model": "glm-5.2"
+}

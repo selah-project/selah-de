@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und ⟨את⟩ den Boden des Hauses überzog er mit Gold, im Inneren und im Äußeren.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Boden"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "den Boden"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "überzog er"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "mit Gold"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "im Inneren"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "und im Äußeren"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:13.542023512Z",
+  "model": "glm-5.2"
+}

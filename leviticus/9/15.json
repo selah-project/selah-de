@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und er brachte heran ⟨את⟩ das Korban des Volkes, und er nahm ⟨את⟩ den Ziegenbock des Chattat, der dem Volk ⟨gehörte⟩, und schlachtete ihn und entsündigte ihn wie ⟨den⟩ ersten.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "und er brachte heran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Korban"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "Korban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "und er nahm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Ziegenbock"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "den Ziegenbock"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "des Chattat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "und schlachtete ihn"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "und entsündigte ihn"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "wie ⟨den⟩ ersten"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:50.146231745Z",
+  "model": "glm-5.2"
+}

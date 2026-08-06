@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und ⟨es⟩ war in Jischurun ein König, beim Sich-Versammeln der Häupter des Volkes, vereint die Stämme Jisraels.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨es⟩ war"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "in Jischurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ein König"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "beim Sich-Versammeln"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "der Häupter"
+    },
+    {
+      "surface": "עם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "vereint"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "die Stämme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T00:49:03.508944651Z",
+  "model": "glm-5.2"
+}

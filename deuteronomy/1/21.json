@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 1:21",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Sieh, JHWH, dein Elohim, hat ⟨את⟩ das Land vor dich hingelegt. Zieh hinauf, nimm in Besitz, so wie JHWH, der Elohim deiner Väter, zu dir geredet hat. Fürchte dich nicht und erschlaffe nicht!",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Sieh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hat hingelegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "vor dich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Zieh hinauf"
+    },
+    {
+      "surface": "רש",
+      "gloss": "nimm in Besitz"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geredet hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "der Elohim"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "deiner Väter"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "Fürchte dich"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "erschlaffe"
+    }
+  ],
+  "timestamp": "2026-08-06T02:22:49.110285411Z",
+  "model": "glm-5.2"
+}

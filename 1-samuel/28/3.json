@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Und Schmu'el war gestorben, und ganz Jisra'el hatte um ihn getrauert, und sie hatten ihn in Rama, ⟨und⟩ in seiner Stadt, begraben. Und Schaul hatte die Geisterbeschwörer und ⟨את⟩ die Wahrsager aus dem Land entfernt.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Und Schmu'el"
+    },
+    {
+      "surface": "מת",
+      "gloss": "war gestorben"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "und hatte getrauert"
+    },
+    {
+      "surface": "לו",
+      "gloss": "um ihn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "und sie hatten ihn begraben"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "in Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "in seiner Stadt"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Und Schaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "hatte entfernt"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "die Geisterbeschwörer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Wahrsager"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "die Wahrsager"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "aus dem Land"
+    }
+  ],
+  "timestamp": "2026-08-06T01:11:44.382425971Z",
+  "model": "glm-5.2"
+}

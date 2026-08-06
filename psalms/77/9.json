@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Ist ⟨es⟩ zu Ende für immer, sein Chessed? Hat ⟨das⟩ Wort versagt für Generation ⟨und⟩ Generation?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "Ist ⟨es⟩ zu Ende"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Hat versagt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨das⟩ Wort"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "für Generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "⟨und⟩ Generation"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:50.082324781Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und von oben ⟨waren⟩ kostbare Steine, nach Maßen von Quadersteinen, und Zedernholz.",
+  "tokens": [
+    {
+      "surface": "וּמִלְמַ֗עְלָה",
+      "gloss": "und von oben"
+    },
+    {
+      "surface": "אֲבָנִ֧ים",
+      "gloss": "Steine"
+    },
+    {
+      "surface": "יְקָר֛וֹת",
+      "gloss": "kostbare"
+    },
+    {
+      "surface": "כְּמִדּ֥וֹת",
+      "gloss": "nach Maßen"
+    },
+    {
+      "surface": "גָּזִ֖ית",
+      "gloss": "von Quadersteinen"
+    },
+    {
+      "surface": "וָאָֽרֶז",
+      "gloss": "und Zedernholz"
+    }
+  ],
+  "timestamp": "2026-08-05T21:26:50.837911164Z",
+  "model": "glm-5.2"
+}

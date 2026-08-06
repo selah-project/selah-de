@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 15:10",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Geben sollst du ihm geben, und dein Herz soll nicht böse sein, wenn du ihm gibst, denn um dieser Sache willen wird JHWH, dein Elohim, dich segnen in all deinem Tun und in allem, was deine Hand darreicht.",
+  "tokens": [
+    {
+      "surface": "נתון",
+      "gloss": "Geben"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sollst du geben"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "soll sein böse"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dein Herz"
+    },
+    {
+      "surface": "בתתך",
+      "gloss": "wenn du gibst"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "der Sache"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "wird dich segnen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in all"
+    },
+    {
+      "surface": "מעשך",
+      "gloss": "deinem Tun"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "und in all"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "was darreicht"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:56.143516327Z",
+  "model": "glm-5.2"
+}

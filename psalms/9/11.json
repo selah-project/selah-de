@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨sie⟩ werden vertrauen auf dich, die deinen Namen Kennenden; denn nicht hast du verlassen, die dich Suchenden, JHWH.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "und ⟨sie⟩ werden vertrauen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "die … Kennenden"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "hast du verlassen"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "die dich Suchenden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:39.080204976Z",
+  "model": "glm-5.2"
+}

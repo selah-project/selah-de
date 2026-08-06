@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Ein Mal der Zaraat, wenn ⟨es⟩ an einem Menschen ist, und ⟨er⟩ soll zum Kohen gebracht werden.",
+  "tokens": [
+    {
+      "surface": "נֶ֣גַע",
+      "gloss": "Ein Mal"
+    },
+    {
+      "surface": "צָרַ֔עַת",
+      "gloss": "der Zaraat"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "תִהְיֶ֖ה",
+      "gloss": "es ist"
+    },
+    {
+      "surface": "בְּאָדָ֑ם",
+      "gloss": "an einem Menschen"
+    },
+    {
+      "surface": "וְהוּבָ֖א",
+      "gloss": "und ⟨er⟩ soll gebracht werden"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הַכֹּהֵֽן",
+      "gloss": "dem Kohen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:22:57.270122307Z",
+  "model": "glm-5.2"
+}

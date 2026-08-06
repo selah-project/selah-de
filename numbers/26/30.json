@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Diese waren die Söhne Gilads: zu Ieser ⟨die⟩ Sippe der Ieseriter; zu Chelek ⟨die⟩ Sippe der Chekiter.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Diese"
+    },
+    {
+      "surface": "בני",
+      "gloss": "waren die Söhne"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilads"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "zu Iezer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "Sippe"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "der Ieseriter"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "zu Chelek"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "Sippe"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "der Chekiter"
+    }
+  ],
+  "timestamp": "2026-08-05T20:38:28.261507266Z",
+  "model": "glm-5.2"
+}

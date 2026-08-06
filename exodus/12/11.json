@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und so sollt ihr ⟨es⟩ essen: eure Hüften gegürtet, eure Schuhe an euren Füßen und euer Stab in eurer Hand; und ihr sollt ⟨es⟩ essen in Eile — ein Pesach ⟨ist⟩ es für JHWH.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "und so"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sollt ihr essen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "es"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "eure Hüften"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "gegürtet"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "eure Schuhe"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "an euren Füßen"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "und euer Stab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in eurer Hand"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "und ihr sollt essen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "es"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "in Eile"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ein Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es ⟨ist⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T09:45:51.832605698Z",
+  "model": "glm-5.2"
+}

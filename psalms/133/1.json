@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 133,
+  "translation": "Ein Aufstiegslied, von Dawid. Siehe, wie gut und wie lieblich ⟨ist es⟩, Brüder ⟨zusammen⟩ zu wohnen, auch vereint.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "der Aufstiege"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "und wie"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "lieblich"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "wohnen"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "Brüder"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "vereint"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:09.630900996Z",
+  "model": "glm-5.2"
+}

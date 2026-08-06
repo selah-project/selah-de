@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "Lobt Jah! Denn gut ist es, unserem Elohim zu spielen; denn lieblich und angemessen ist Lob.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "zu spielen"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unserem Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "lieblich"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "angemessen"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "Lob"
+    }
+  ],
+  "timestamp": "2026-08-06T04:25:05.607866216Z",
+  "model": "glm-5.2"
+}

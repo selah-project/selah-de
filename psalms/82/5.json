@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 82,
+  "translation": "Sie wissen nicht und verstehen nichts, in Finsternis gehen sie umher, es wanken alle Grundfesten der Erde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָֽדְע֨וּ",
+      "gloss": "sie wissen"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "יָבִ֗ינוּ",
+      "gloss": "verstehen"
+    },
+    {
+      "surface": "בַּחֲשֵׁכָ֥ה",
+      "gloss": "in Finsternis"
+    },
+    {
+      "surface": "יִתְהַלָּ֑כוּ",
+      "gloss": "gehen sie umher"
+    },
+    {
+      "surface": "יִ֝מּ֗וֹטוּ",
+      "gloss": "es wanken"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מ֥וֹסְדֵי",
+      "gloss": "Grundfesten"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:51.373139785Z",
+  "model": "glm-5.2"
+}

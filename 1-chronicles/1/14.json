@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "und ⟨את⟩ den Jebusiter und ⟨את⟩ den Emoriter und ⟨את⟩ den Girgaschiter,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Jebusiter"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "den Jebusiter"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Emoriter"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "den Emoriter"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Girgaschiter"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "den Girgaschiter"
+    }
+  ],
+  "timestamp": "2026-08-05T23:45:53.055829671Z",
+  "model": "glm-5.2"
+}

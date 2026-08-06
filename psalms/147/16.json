@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "⟨Er⟩, der Schnee gibt wie Wolle, Reif wie Asche streut er.",
+  "tokens": [
+    {
+      "surface": "הַנֹּתֵ֣ן",
+      "gloss": "der gibt"
+    },
+    {
+      "surface": "שֶׁ֣לֶג",
+      "gloss": "Schnee"
+    },
+    {
+      "surface": "כַּצָּמֶר",
+      "gloss": "wie Wolle"
+    },
+    {
+      "surface": "כְּפ֗וֹר",
+      "gloss": "Reif"
+    },
+    {
+      "surface": "כָּאֵ֥פֶר",
+      "gloss": "wie Asche"
+    },
+    {
+      "surface": "יְפַזֵּֽר",
+      "gloss": "streut er"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:21.266327140Z",
+  "model": "glm-5.2"
+}

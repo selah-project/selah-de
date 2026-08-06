@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Hoffend habe ich auf JHWH gehofft, und ⟨er⟩ neigte sich zu mir und hörte mein Schreien.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "hoffend"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "habe ich gehofft"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "auf JHWH"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "und ⟨er⟩ neigte sich"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "und hörte"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "mein Schreien"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:21.114872839Z",
+  "model": "glm-5.2"
+}

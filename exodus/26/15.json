@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und du sollst ⟨את⟩ die Bretter für den Mischkan machen, aus Akazienholz, stehend.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Und du sollst machen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Bretter"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "die Bretter"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "für den Mischkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "aus Holz"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "von Akazien"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stehend"
+    }
+  ],
+  "timestamp": "2026-08-05T20:12:46.846864338Z",
+  "model": "glm-5.2"
+}

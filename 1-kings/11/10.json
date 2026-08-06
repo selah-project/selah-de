@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "und ⟨er⟩ hatte ihm geboten über diese Sache, nicht zu gehen hinter anderen Elohim — aber er bewahrte nicht ⟨את⟩ das, was JHWH geboten hatte.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "und ⟨er⟩ hatte geboten"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die Sache"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nicht zu"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "gehen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "anderen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewahrte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, was JHWH geboten hatte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T01:25:01.148241937Z",
+  "model": "glm-5.2"
+}

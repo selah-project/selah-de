@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Dem Chorleiter, auf Jedutun, für Asaf. Ein Mismor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Jedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "für Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ein Mismor"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:02.758448492Z",
+  "model": "glm-5.2"
+}

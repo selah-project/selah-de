@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Zur Mitte der Nacht stehe ich auf, um dir zu danken wegen ⟨der⟩ Rechtsentscheidungen ⟨deiner⟩ Gerechtigkeit.",
+  "tokens": [
+    {
+      "surface": "חֲצֽוֹת",
+      "gloss": "Zur Mitte"
+    },
+    {
+      "surface": "לַ֗יְלָה",
+      "gloss": "der Nacht"
+    },
+    {
+      "surface": "אָ֭קוּם",
+      "gloss": "stehe ich auf"
+    },
+    {
+      "surface": "לְהוֹד֣וֹת",
+      "gloss": "um zu danken"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "dir"
+    },
+    {
+      "surface": "עַ֝֗ל",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "מִשְׁפְּטֵ֥י",
+      "gloss": "⟨der⟩ Rechtsentscheidungen"
+    },
+    {
+      "surface": "צִדְקֶֽךָ",
+      "gloss": "⟨deiner⟩ Gerechtigkeit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:35.456614023Z",
+  "model": "glm-5.2"
+}

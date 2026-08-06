@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Er sandte unter sie ⟨die⟩ Stechmückenschwärme, und sie fraßen sie, und ⟨die⟩ Frösche, und sie richteten sie zugrunde.",
+  "tokens": [
+    {
+      "surface": "יְשַׁלַּ֬ח",
+      "gloss": "Er sandte"
+    },
+    {
+      "surface": "בָּהֶ֣ם",
+      "gloss": "unter sie"
+    },
+    {
+      "surface": "עָ֭רֹב",
+      "gloss": "Stechmückenschwärme"
+    },
+    {
+      "surface": "וַיֹּאכְלֵ֑ם",
+      "gloss": "und sie fraßen sie"
+    },
+    {
+      "surface": "וּ֝צְפַרְדֵּ֗עַ",
+      "gloss": "und Frösche"
+    },
+    {
+      "surface": "וַתַּשְׁחִיתֵֽם",
+      "gloss": "und sie richteten sie zugrunde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:31.422460387Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Nach allem, was ich dir zeige, ⟨die⟩ Bauform des Mischkan und ⟨את⟩ die Bauform all seiner Geräte — und so sollt ihr ⟨es⟩ machen.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "nach allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "zeige"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Bauform"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "Bauform"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "des Mischkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Bauform"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "Bauform"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "seiner Geräte"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "und so"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sollt ihr machen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:18:56.178984061Z",
+  "model": "glm-5.2"
+}

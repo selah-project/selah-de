@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Ein Maskil von Dawid. JHWH, wer wird in deinem Zelt weilen? Wer wird wohnen auf deinem heiligen Berg?",
+  "tokens": [
+    {
+      "surface": "מִזְמ֗וֹר",
+      "gloss": "Ein Maskil"
+    },
+    {
+      "surface": "לְדָ֫וִ֥ד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "יְ֭הֹוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יָג֣וּר",
+      "gloss": "wird weilen"
+    },
+    {
+      "surface": "בְּאָהֳלֶ֑ךָ",
+      "gloss": "in deinem Zelt"
+    },
+    {
+      "surface": "מִֽי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יִ֝שְׁכֹּ֗ן",
+      "gloss": "wird wohnen"
+    },
+    {
+      "surface": "בְּהַ֣ר",
+      "gloss": "auf ⟨deinem⟩ Berg"
+    },
+    {
+      "surface": "קָדְשֶֽׁךָ",
+      "gloss": "deinem heiligen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:02.210710819Z",
+  "model": "glm-5.2"
+}

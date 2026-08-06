@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 133,
+  "translation": "Wie das gute Öl auf das Haupt hinabfließt, das auf den Bart hinabfließt, den Bart Aharons, das hinabfließt auf den Saum seiner Gewänder.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "wie das Öl"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "das gute"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "das Haupt"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "hinabfließt"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "den Bart"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "Bart"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "das hinabfließt"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פי",
+      "gloss": "den Saum"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "seiner Gewänder"
+    }
+  ],
+  "timestamp": "2026-08-06T04:23:09.631130505Z",
+  "model": "glm-5.2"
+}

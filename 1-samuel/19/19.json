@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ⟨es wurde⟩ Schaul berichtet, indem man sagte: „Siehe, Dawid ⟨ist⟩ in Najot in Rama.“",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "und ⟨es wurde⟩ berichtet"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem man sagte"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "in Najot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "in Rama"
+    }
+  ],
+  "timestamp": "2026-08-06T01:08:51.696164567Z",
+  "model": "glm-5.2"
+}

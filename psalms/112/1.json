@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 112,
+  "translation": "Lobt Jah! Glücklich ⟨ist⟩ der Mann, der JHWH fürchtet, ⟨der⟩ in seinen Geboten große Freude hat.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Glücklich"
+    },
+    {
+      "surface": "איש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fürchtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "in seinen Geboten"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Freude hat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "große"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:29.187649939Z",
+  "model": "glm-5.2"
+}

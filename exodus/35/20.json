@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und hinaus gingen die gesamte Versammlung der Söhne Jisraels von vor Mosche.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Und hinaus gingen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die gesamte"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "von vor"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    }
+  ],
+  "timestamp": "2026-08-06T02:07:51.711942010Z",
+  "model": "glm-5.2"
+}

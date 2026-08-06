@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Siehe, ich sende einen Boten vor dich her, um dich zu bewahren auf dem Weg, und um dich zu bringen an den Ort, den ich bereitet habe.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֨ה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "אָנֹכִ֜י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "שֹׁלֵ֤חַ",
+      "gloss": "sende"
+    },
+    {
+      "surface": "מַלְאָךְ֙",
+      "gloss": "einen Boten"
+    },
+    {
+      "surface": "לְפָנֶ֔יךָ",
+      "gloss": "vor dich her"
+    },
+    {
+      "surface": "לִשְׁמָרְךָ֖",
+      "gloss": "um dich zu bewahren"
+    },
+    {
+      "surface": "בַּדָּ֑רֶךְ",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "וְלַהֲבִ֣יאֲךָ֔",
+      "gloss": "und um dich zu bringen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "an"
+    },
+    {
+      "surface": "הַמָּק֖וֹם",
+      "gloss": "den Ort"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "den"
+    },
+    {
+      "surface": "הֲכִנֹֽתִי",
+      "gloss": "ich bereitet habe"
+    }
+  ],
+  "timestamp": "2026-08-05T20:12:28.069007347Z",
+  "model": "glm-5.2"
+}

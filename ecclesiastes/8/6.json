@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Denn für jeden Wunsch gibt es eine Zeit und einen Rechtspruch, denn des Menschen Bosheit ist groß über ihm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "für jeden"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Wunsch"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gibt es"
+    },
+    {
+      "surface": "עת",
+      "gloss": "eine Zeit"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "und einen Rechtspruch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "Bosheit"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ist groß"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "über ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:12.579100130Z",
+  "model": "glm-5.2"
+}

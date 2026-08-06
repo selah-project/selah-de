@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 86,
+  "translation": "Behüte meine Nefesch, denn chassid bin ich. Rette deinen Knecht — du bist mein Elohim —, ⟨der⟩ dir vertraut.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Behüte"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "chassid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "bin ich"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Rette"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "deinen Knecht"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du bist"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mein Elohim"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "⟨der⟩ vertraut"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:07.035145857Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Ich sagte zu JHWH: „Adonai, du ⟨bist es⟩; mein Gutes — nicht ⟨ist es⟩ außer dir.“",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ich sagte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "zu JHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "mein Gutes"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "außer dir"
+    }
+  ],
+  "timestamp": "2026-08-06T04:09:33.341365131Z",
+  "model": "glm-5.2"
+}

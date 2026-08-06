@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und ⟨jedes⟩ Vieh, das ⟨einen⟩ Spalt in ⟨der⟩ Klaue hat und ⟨die⟩ Klaue ⟨in⟩ zwei Spalten spaltet und ⟨das⟩ Wiederkäuen hochbringt ⟨bei⟩ ⟨dem⟩ Vieh — ⟨את⟩ ⟨sie⟩ dürft ihr essen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "und ⟨jedes⟩"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "Vieh"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "das ⟨einen⟩ Spalt hat"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "in ⟨der⟩ Klaue"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "und spaltet"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "⟨die⟩ Klaue ⟨in⟩ einen Spalt"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zwei"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "Spalten"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "hochbringend"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "⟨das⟩ Wiederkäuen"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "⟨bei⟩ ⟨dem⟩ Vieh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dürft ihr essen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:25:56.411092713Z",
+  "model": "glm-5.2"
+}

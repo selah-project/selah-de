@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "Bis ich ⟨einen⟩ Ort finde für JHWH, Wohnungen für ⟨den⟩ Starken Jaakows.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "אֶמְצָ֣א",
+      "gloss": "ich finde"
+    },
+    {
+      "surface": "מָ֭קוֹם",
+      "gloss": "⟨einen⟩ Ort"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "מִ֝שְׁכָּנ֗וֹת",
+      "gloss": "Wohnungen"
+    },
+    {
+      "surface": "לַאֲבִ֥יר",
+      "gloss": "für ⟨den⟩ Starken"
+    },
+    {
+      "surface": "יַעֲקֹֽב",
+      "gloss": "Jaakows"
+    }
+  ],
+  "timestamp": "2026-08-06T06:51:23.705183812Z",
+  "model": "glm-5.2"
+}

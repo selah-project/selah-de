@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 112,
+  "translation": "Der Rascha wird ⟨es⟩ sehen und sich ärgern, ⟨er⟩ wird mit den Zähnen knirschen und ⟨ver⟩schwinden — die Begierde der Frevler wird vergehen.",
+  "tokens": [
+    {
+      "surface": "רָשָׁע",
+      "gloss": "Der Rascha"
+    },
+    {
+      "surface": "יִרְאֶה",
+      "gloss": "wird sehen"
+    },
+    {
+      "surface": "וְכָעַס",
+      "gloss": "und sich ärgern"
+    },
+    {
+      "surface": "שִׁנָּיו",
+      "gloss": "⟨mit⟩ seinen Zähnen"
+    },
+    {
+      "surface": "יַחֲרֹק",
+      "gloss": "wird knirschen"
+    },
+    {
+      "surface": "וְנָמֵס",
+      "gloss": "und schmelzen"
+    },
+    {
+      "surface": "תַּאֲוַת",
+      "gloss": "die Begierde"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "תֹּאבֵד",
+      "gloss": "wird vergehen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:03.430625807Z",
+  "model": "glm-5.2"
+}

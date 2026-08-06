@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Denn du hast uns geprüft, Elohim, du hast uns geläutert wie die Läuterung von Silber.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "du hast uns geprüft"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "du hast uns geläutert"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "wie die Läuterung"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "von Silber"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:55.988854519Z",
+  "model": "glm-5.2"
+}

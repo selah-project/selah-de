@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "⟨את⟩ die Zeltpflöcke des Mischkan und ⟨את⟩ die Zeltpflöcke des Vorhofs und ⟨את⟩ ihre Seile,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Zeltpflöcke"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "die Zeltpflöcke"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "des Mischkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Zeltpflöcke"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "die Zeltpflöcke"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "des Vorhofs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Seile"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "ihre Seile"
+    }
+  ],
+  "timestamp": "2026-08-06T05:17:50.809841472Z",
+  "model": "glm-5.2"
+}

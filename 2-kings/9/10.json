@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨את⟩ Isabel werden die Hunde fressen im Feldteil von Jisreel, und ⟨es gibt⟩ keinen, der ⟨sie⟩ begräbt. Und er öffnete die Tür und floh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Und ⟨את⟩"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isabel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "werden fressen"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "die Hunde"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "im Feldteil"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "von Jisreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es gibt⟩ keinen"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "der ⟨sie⟩ begräbt"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "Und er öffnete"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "die Tür"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "und floh"
+    }
+  ],
+  "timestamp": "2026-08-06T08:47:43.258233578Z",
+  "model": "glm-5.2"
+}

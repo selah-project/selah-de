@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "und sie wandelten von Volk zu Volk und von ⟨einem⟩ Königreich zu ⟨einem⟩ anderen Volk.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "und sie wandelten"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "von Volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "und von Königreich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨einem⟩ Volk"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "einem anderen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:50:32.101539063Z",
+  "model": "glm-5.2"
+}

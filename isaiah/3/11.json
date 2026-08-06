@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 3:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Wehe dem Frevler, ⟨es wird⟩ böse ⟨sein⟩! Denn die Tat seiner Hände wird ihm angetan.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "wehe"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "dem Frevler"
+    },
+    {
+      "surface": "רע",
+      "gloss": "böse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "die Tat"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "seiner Hände"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wird angetan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T21:43:13.756697175Z",
+  "model": "glm-5.2"
+}

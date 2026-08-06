@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und er nahm und gab ⟨את⟩ das Zeugnis in die Lade, und er legte ⟨את⟩ die Stangen auf die Lade, und er gab ⟨את⟩ die Kapporet auf die Lade, von oben her.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "und er nahm"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Zeugnis"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "das Zeugnis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "und er legte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stangen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "die Stangen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und er gab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "die Kapporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "von oben her"
+    }
+  ],
+  "timestamp": "2026-08-06T09:47:28.607158507Z",
+  "model": "glm-5.2"
+}

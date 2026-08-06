@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Kotz zeugte ⟨את⟩ Anub und ⟨את⟩ Tzowewa und die Sippen Acharchels, des Sohnes Harums.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Und Kotz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Tzowewa"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Tzowewa"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "und die Sippen"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Acharchels"
+    },
+    {
+      "surface": "בן",
+      "gloss": "des Sohnes"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harums"
+    }
+  ],
+  "timestamp": "2026-08-06T04:53:13.850730418Z",
+  "model": "glm-5.2"
+}

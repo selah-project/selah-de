@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 134,
+  "translation": "Erhebt eure Hände ⟨zum⟩ Heiligtum und preist ⟨את⟩ JHWH!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Erhebt"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "eure Hände"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨zum⟩ Heiligtum"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "und preist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:47.418200234Z",
+  "model": "glm-5.2"
+}

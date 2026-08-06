@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Eli hörte ⟨את⟩ die Stimme des Aufschreis und sagte: „Was ⟨bedeutet⟩ die Stimme dieses Lärms?\" Und der Mann eilte und kam und berichtete Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Und hörte"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stimme"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "des Aufschreis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die Stimme"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "des Lärms"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "Und der Mann"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "eilte"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "und kam"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "und berichtete"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-06T22:36:38.059763820Z",
+  "model": "glm-5.2"
+}

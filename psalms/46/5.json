@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Ein Strom — seine Kanäle erfreuen die Stadt Elohims, die heilige Wohnung des Höchsten.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "Strom"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "seine Kanäle"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "erfreuen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "die heilige"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Wohnung"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "des Höchsten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:13.746670573Z",
+  "model": "glm-5.2"
+}

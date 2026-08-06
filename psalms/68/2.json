@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Es stehe auf, Elohim, zerstreut werden seine Feinde, und es fliehen, die ihn hassen, vor seinem Angesicht.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Es stehe auf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "zerstreut werden"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "seine Feinde"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "und es fliehen"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "die ihn hassen"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "vor seinem Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:11.963625142Z",
+  "model": "glm-5.2"
+}

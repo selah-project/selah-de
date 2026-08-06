@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und ⟨einen⟩ Naschi, ⟨einen⟩ Naschi ⟨für jeden⟩ Stamm sollt ihr nehmen, um ⟨את⟩ das Land als Erbe zu geben.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "Und ⟨einen⟩ Naschi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨einen⟩"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "Naschi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨einen⟩"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "⟨für jeden⟩ Stamm"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "sollt ihr nehmen"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "um als Erbe zu geben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    }
+  ],
+  "timestamp": "2026-08-06T00:40:48.195096557Z",
+  "model": "glm-5.2"
+}

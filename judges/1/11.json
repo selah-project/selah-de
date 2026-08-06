@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und ⟨er⟩ zog von dort gegen die Bewohner von Dewir, und der Name von Dewir war früher Kirjat-Sefer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Und ⟨er⟩ zog"
+    },
+    {
+      "surface": "משם",
+      "gloss": "von dort"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "die Bewohner"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "von Dewir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "und der Name"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "von Dewir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "war früher"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "-Sefer"
+    }
+  ],
+  "timestamp": "2026-08-05T20:58:42.947234210Z",
+  "model": "glm-5.2"
+}

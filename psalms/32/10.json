@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Viele Schmerzen ⟨sind⟩ für den Rascha, aber wer auf JHWH vertraut — Chessed wird ihn umringen.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "viele"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "Schmerzen"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "für den Rascha"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "aber wer vertraut"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "auf JHWH"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "wird ihn umringen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:14:41.674509310Z",
+  "model": "glm-5.2"
+}

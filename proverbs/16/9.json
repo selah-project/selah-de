@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Das Herz eines Menschen plant seinen Weg, aber JHWH richtet seinen Schritt.",
+  "tokens": [
+    {
+      "surface": "לֵ֣ב",
+      "gloss": "Das Herz"
+    },
+    {
+      "surface": "אָ֭דָם",
+      "gloss": "eines Menschen"
+    },
+    {
+      "surface": "יְחַשֵּׁ֣ב",
+      "gloss": "plant"
+    },
+    {
+      "surface": "דַּרְכּ֑וֹ",
+      "gloss": "seinen Weg"
+    },
+    {
+      "surface": "וַֽ֝יהוָ֗ה",
+      "gloss": "aber JHWH"
+    },
+    {
+      "surface": "יָכִ֥ין",
+      "gloss": "richtet"
+    },
+    {
+      "surface": "צַעֲדֽוֹ",
+      "gloss": "seinen Schritt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:11:38.029238982Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Die Blöße deiner Schwiegertochter sollst du nicht aufdecken. ⟨Die⟩ Frau deines Sohnes ⟨ist⟩ sie — ihre Blöße sollst du nicht aufdecken.",
+  "tokens": [
+    {
+      "surface": "עֶרְוַ֥ת",
+      "gloss": "Die Blöße"
+    },
+    {
+      "surface": "כַּלָּֽתְךָ֖",
+      "gloss": "deiner Schwiegertochter"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תְגַלֵּ֑ה",
+      "gloss": "sollst du aufdecken"
+    },
+    {
+      "surface": "אֵ֤שֶׁת",
+      "gloss": "⟨Die⟩ Frau"
+    },
+    {
+      "surface": "בִּנְךָ֙",
+      "gloss": "deines Sohnes"
+    },
+    {
+      "surface": "הִ֔וא",
+      "gloss": "⟨ist⟩ sie"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תְגַלֶּ֖ה",
+      "gloss": "sollst du aufdecken"
+    },
+    {
+      "surface": "עֶרְוָתָֽהּ",
+      "gloss": "ihre Blöße"
+    }
+  ],
+  "timestamp": "2026-08-06T00:27:25.200701762Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und du wirst stolpern am Tag, und auch ein Nawi wird mit dir stolpern in der Nacht, und ich werde ⟨deine⟩ Mutter vernichten.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "und du wirst stolpern"
+    },
+    {
+      "surface": "היום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "und er wird stolpern"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ein Nawi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in der Nacht"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "und ich werde vernichten"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "deine Mutter"
+    }
+  ],
+  "timestamp": "2026-08-05T22:30:28.418517759Z",
+  "model": "glm-5.2"
+}

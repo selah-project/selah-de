@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und ⟨ich⟩ ⟨bin⟩ ein Wurm und kein Mann, ⟨ein⟩ Schimpf der Menschen und Verachteter ⟨des⟩ Volkes.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ein Wurm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und kein"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "Schimpf"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "der Menschen"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "und Verachteter"
+    },
+    {
+      "surface": "עם",
+      "gloss": "des Volkes"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:43.728068652Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Ein armer Mann, der Schwache bedrückt, ⟨ist wie⟩ ein niederpeitschender Regen, und ⟨es gibt⟩ kein Brot.",
+  "tokens": [
+    {
+      "surface": "גֶּ֣בֶר",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "רָ֭שׁ",
+      "gloss": "armer"
+    },
+    {
+      "surface": "וְעֹשֵׁ֣ק",
+      "gloss": "der bedrückt"
+    },
+    {
+      "surface": "דַּלִּ֑ים",
+      "gloss": "Schwache"
+    },
+    {
+      "surface": "מָטָ֥ר",
+      "gloss": "Regen"
+    },
+    {
+      "surface": "סֹ֝חֵ֗ף",
+      "gloss": "niederpeitschender"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "und ⟨es gibt⟩ nicht"
+    },
+    {
+      "surface": "לָֽחֶם",
+      "gloss": "Brot"
+    }
+  ],
+  "timestamp": "2026-08-05T23:15:03.497385544Z",
+  "model": "glm-5.2"
+}

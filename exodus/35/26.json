@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Und alle Frauen, deren Herz sie in Weisheit erhoben hatte, spannen ⟨את⟩ das Ziegenhaar.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "und alle"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "die Frauen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deren"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "erhoben hatte"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ihr Herz"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "sie",
+      "marks": "בחכמה"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "in Weisheit"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "spannen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Ziegenhaar"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "das Ziegenhaar"
+    }
+  ],
+  "timestamp": "2026-08-06T00:21:39.125782812Z",
+  "model": "glm-5.2"
+}

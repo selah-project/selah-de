@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "Dort will ich ein Horn für Dawid sprießen lassen, ⟨und⟩ ich habe eine Leuchte für meinen Maschiach bereitet.",
+  "tokens": [
+    {
+      "surface": "שָׁ֝ם",
+      "gloss": "Dort"
+    },
+    {
+      "surface": "אַצְמִ֣יחַ",
+      "gloss": "will ich sprießen lassen"
+    },
+    {
+      "surface": "קֶ֣רֶן",
+      "gloss": "ein Horn"
+    },
+    {
+      "surface": "לְדָוִ֑ד",
+      "gloss": "für Dawid"
+    },
+    {
+      "surface": "עָרַ֥כְתִּי",
+      "gloss": "ich habe bereitet"
+    },
+    {
+      "surface": "נֵ֝֗ר",
+      "gloss": "eine Leuchte"
+    },
+    {
+      "surface": "לִמְשִׁיחִֽי",
+      "gloss": "für meinen Maschiach"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:47.621742458Z",
+  "model": "glm-5.2"
+}

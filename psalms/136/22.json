@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 136,
+  "translation": "ein Erbteil für Jisra'el, seinen Knecht, denn für immer ⟨währt⟩ sein Chessed.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "⟨ein⟩ Erbteil"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "für Jisra'el"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "seinen Knecht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:02.796823120Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Heilung ⟨wird sie⟩ deinem Körper ⟨sein⟩ und Erquickung deinen Gebeinen.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "Heilung"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "⟨wird sie⟩ ⟨sein⟩"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "deinem Körper"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "und Erquickung"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "deinen Gebeinen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:08:44.226973379Z",
+  "model": "glm-5.2"
+}

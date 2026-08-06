@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ich gab dir ⟨את⟩ das Haus deines Herrn und ⟨את⟩ die Frauen deines Herrn in deinen Schoß, und ich gab dir ⟨את⟩ das Haus Jisra'els und Jehudahas; und wenn ⟨das zu⟩ wenig ⟨wäre⟩, hätte ich dir so viel und so viel hinzugefügt.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Und ich gab"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus deines Herrn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "deines Herrn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Frauen deines Herrn"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "die Frauen"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "deines Herrn"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "in deinen Schoß"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "und ich gab"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Haus Jisra'els und Jehudahas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "und Jehudahas"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wenig"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "hätte ich hinzugefügt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "so viel"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "und so viel"
+    }
+  ],
+  "timestamp": "2026-08-06T05:46:01.803315681Z",
+  "model": "glm-5.2"
+}

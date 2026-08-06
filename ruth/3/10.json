@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und er sprach: Gesegnet ⟨bist⟩ du ⟨את⟩ vor JHWH, meine Tochter. Du hast dein Chessed am Ende besser gemacht als am Anfang, ⟨dass⟩ du nicht den jungen Männern nachgehst, weder einem Armen noch einem Reichen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du (vor JHWH)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vor JHWH"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "meine Tochter"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "du hast besser gemacht"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "das letzte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "als"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "das erste"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "dass nicht"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "du gehst nach"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "den jungen Männern"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ein Armer"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "oder ob"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ein Reicher"
+    }
+  ],
+  "timestamp": "2026-08-06T20:42:22.028020106Z",
+  "model": "glm-5.2"
+}

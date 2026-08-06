@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und ⟨er⟩ lässt sie hüpfen wie ein Kalb — Lewanon und Sirjon, wie einen Sohn von Wildstieren.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "und lässt sie hüpfen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wie"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ein Kalb"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lewanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "und Sirjon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wie"
+    },
+    {
+      "surface": "בן",
+      "gloss": "einen Sohn"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "von Wildstieren"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:25.199543230Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Groß ⟨ist⟩ JHWH und sehr zu rühmen, und ⟨bei⟩ seiner Größe gibt es keine Erforschung.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Groß"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "und zu rühmen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sehr"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "und ⟨bei⟩ seiner Größe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gibt es keine"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "Erforschung"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:31.870088360Z",
+  "model": "glm-5.2"
+}

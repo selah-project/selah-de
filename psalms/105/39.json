@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Er breitete eine Wolke aus als Decke, und Feuer, ⟨um⟩ zu leuchten ⟨in der⟩ Nacht.",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "Er breitete aus"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "eine Wolke"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "als Decke"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "und Feuer"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "⟨um⟩ zu leuchten"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "⟨in der⟩ Nacht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:20.271877817Z",
+  "model": "glm-5.2"
+}

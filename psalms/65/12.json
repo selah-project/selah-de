@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "Du krönst ⟨das⟩ Jahr ⟨mit⟩ deiner Güte, und deine Sporen träufeln ⟨von⟩ Fett.",
+  "tokens": [
+    {
+      "surface": "עִ֭טַּרְתָּ",
+      "gloss": "Du krönst"
+    },
+    {
+      "surface": "שְׁנַ֣ת",
+      "gloss": "⟨das⟩ Jahr"
+    },
+    {
+      "surface": "טוֹבָתֶ֑ךָ",
+      "gloss": "⟨mit⟩ deiner Güte"
+    },
+    {
+      "surface": "וּ֝מַעְגָּלֶ֗יךָ",
+      "gloss": "und deine Sporen"
+    },
+    {
+      "surface": "יִרְעֲפ֥וּן",
+      "gloss": "träufeln"
+    },
+    {
+      "surface": "דָּֽשֶׁן",
+      "gloss": "⟨von⟩ Fett"
+    }
+  ],
+  "timestamp": "2026-08-06T06:44:17.336977746Z",
+  "model": "glm-5.2"
+}

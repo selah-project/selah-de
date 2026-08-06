@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Elohim bestimmte ⟨einen⟩ Wurm beim Aufgehen der Morgenröte am nächsten Tag, und ⟨er⟩ schlug ⟨את⟩ den Kikajon, und ⟨er⟩ verdorrte.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "Und bestimmte"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "⟨einen⟩ Wurm"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "beim Aufgehen"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "der Morgenröte"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "am nächsten Tag"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "und ⟨er⟩ schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Kikajon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "den Kikajon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "und ⟨er⟩ verdorrte"
+    }
+  ],
+  "timestamp": "2026-08-06T22:46:00.986795864Z",
+  "model": "glm-5.2"
+}

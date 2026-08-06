@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "dass er noch leben sollte für immer, ⟨dass er⟩ die Grube nicht ⟨wieder⟩ sehen sollte.",
+  "tokens": [
+    {
+      "surface": "וִיחִי",
+      "gloss": "dass er leben"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "noch"
+    },
+    {
+      "surface": "לָנֶצַח",
+      "gloss": "für immer"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יִרְאֶה",
+      "gloss": "⟨dass er⟩ sehen sollte"
+    },
+    {
+      "surface": "הַשָּׁחַת",
+      "gloss": "die Grube"
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:45.597318429Z",
+  "model": "glm-5.2"
+}

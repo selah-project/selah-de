@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 29:37",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Sieben Tage sollst du Sühnung tun am Altar, und du sollst ⟨ihn⟩ heiligen — und ⟨es⟩ soll der Altar ein Höchstheiliges ⟨sein⟩; alles, was den Altar berührt, wird geheiligt ⟨werden⟩.",
+  "tokens": [
+    {
+      "surface": "שִׁבְעַ֣ת",
+      "gloss": "Sieben"
+    },
+    {
+      "surface": "יָמִ֗ים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "תְּכַפֵּר֙",
+      "gloss": "sollst du Sühnung tun"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "an"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֔חַ",
+      "gloss": "dem Altar"
+    },
+    {
+      "surface": "וְקִדַּשְׁתָּ֖",
+      "gloss": "und du sollst heiligen"
+    },
+    {
+      "surface": "אֹת֑וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "וְהָיָ֤ה",
+      "gloss": "und ⟨es⟩ soll sein"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֨חַ֙",
+      "gloss": "der Altar"
+    },
+    {
+      "surface": "קֹ֣דֶשׁ",
+      "gloss": "Heiliges"
+    },
+    {
+      "surface": "קָֽדָשִׁ֔ים",
+      "gloss": "der Heiligkeiten"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "הַנֹּגֵ֥עַ",
+      "gloss": "was berührt"
+    },
+    {
+      "surface": "בַּמִּזְבֵּ֖חַ",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "יִקְדָּֽשׁ",
+      "gloss": "wird geheiligt"
+    }
+  ],
+  "timestamp": "2026-08-06T08:20:44.655856313Z",
+  "model": "glm-5.2"
+}

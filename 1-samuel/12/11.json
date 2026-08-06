@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und JHWH sandte ⟨את⟩ Jerubbaal und ⟨את⟩ Bedan und ⟨את⟩ Jiftach und ⟨את⟩ Schmuël, und ⟨er⟩ rettete ⟨את⟩euch aus der Hand eurer Feinde ringsum, und ihr wohntet in Sicherheit.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַח",
+      "gloss": "Und sandte"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaal"
+    },
+    {
+      "surface": "יְרֻבַּעַל",
+      "gloss": "Jerubbaal"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בְּדָן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Jiftach"
+    },
+    {
+      "surface": "יִפְתָּח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Schmuël"
+    },
+    {
+      "surface": "שְׁמוּאֵל",
+      "gloss": "Schmuël"
+    },
+    {
+      "surface": "וַיַּצֵּל",
+      "gloss": "und rettete"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩euch",
+      "marks": "euch"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "אֹיְבֵיכֶם",
+      "gloss": "eurer Feinde"
+    },
+    {
+      "surface": "מִסָּבִיב",
+      "gloss": "ringsum"
+    },
+    {
+      "surface": "וַתֵּשְׁבוּ",
+      "gloss": "und ihr wohntet"
+    },
+    {
+      "surface": "בֶּטַח",
+      "gloss": "in Sicherheit"
+    }
+  ],
+  "timestamp": "2026-08-06T20:23:54.291972027Z",
+  "model": "glm-5.2"
+}

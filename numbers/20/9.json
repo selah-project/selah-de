@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Mosche nahm ⟨את⟩ den Stab von vor JHWH, wie ⟨er⟩ ihm geboten hatte.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und nahm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Stab"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "den Stab"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "von vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "er ihm geboten hatte"
+    }
+  ],
+  "timestamp": "2026-08-06T00:36:55.453827293Z",
+  "model": "glm-5.2"
+}

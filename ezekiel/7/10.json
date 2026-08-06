@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Siehe der Tag, siehe er kommt, ausgegangen ist die Morgenröte, gesprosst hat die Rute, geblüht hat der Übermut.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "der Tag"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "ausgegangen ist"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "die Morgenröte"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "gesprosst hat"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "die Rute"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "geblüht hat"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "der Übermut"
+    }
+  ],
+  "timestamp": "2026-08-05T22:17:24.870345120Z",
+  "model": "glm-5.2"
+}

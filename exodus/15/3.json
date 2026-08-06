@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "JHWH ⟨ist ein⟩ Mann des Krieges, JHWH ⟨ist⟩ sein Name.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "des Krieges"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sein Name"
+    }
+  ],
+  "timestamp": "2026-08-06T05:15:19.444743896Z",
+  "model": "glm-5.2"
+}

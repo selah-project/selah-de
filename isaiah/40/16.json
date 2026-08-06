@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und der Libanon reicht nicht zum Entzünden, und sein Wild reicht nicht zur Ola.",
+  "tokens": [
+    {
+      "surface": "וּלְבָנ֕וֹן",
+      "gloss": "Und ⟨der⟩ Libanon"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "דֵּ֖י",
+      "gloss": "reicht"
+    },
+    {
+      "surface": "בָּעֵ֑ר",
+      "gloss": "zum Entzünden"
+    },
+    {
+      "surface": "וְחַיָּת֔וֹ",
+      "gloss": "und sein Wild"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "דֵּ֖י",
+      "gloss": "reicht"
+    },
+    {
+      "surface": "עוֹלָֽה",
+      "gloss": "zur Ola"
+    }
+  ],
+  "timestamp": "2026-08-06T01:48:14.131056740Z",
+  "model": "glm-5.2"
+}

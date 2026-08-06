@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 19:7",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und der Mann stand auf zu gehen, aber ⟨sein⟩ Schwiegervater drängte ihn, und er kehrte um und übernachtete dort.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Und ⟨er⟩ stand auf"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "zu gehen"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "aber ⟨er⟩ drängte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "⟨sein⟩ Schwiegervater"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨er⟩ kehrte um"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "und ⟨er⟩ übernachtete"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-06T20:23:12.030333644Z",
+  "model": "glm-5.2"
+}

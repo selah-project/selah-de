@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "⟨Der⟩ Einsichtige, ⟨der⟩ Gerechte, ⟨blickt⟩ auf ⟨das⟩ Haus ⟨des⟩ Frevlers — ⟨Elohim⟩ stürzt Frevler ins Unheil.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "⟨Der⟩ Einsichtige"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨der⟩ Gerechte"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "auf ⟨das⟩ Haus"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨des⟩ Frevlers"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "⟨Elohim⟩ stürzt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Frevler"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ins Unheil"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:26.357937033Z",
+  "model": "glm-5.2"
+}

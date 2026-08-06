@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Fürwahr, ein Ruach ⟨ist es⟩ im Menschen — aber der Atem Schaddais gibt ihnen Einsicht.",
+  "tokens": [
+    {
+      "surface": "אָ֭כֵן",
+      "gloss": "Fürwahr"
+    },
+    {
+      "surface": "רֽוּחַ",
+      "gloss": "ein Ruach"
+    },
+    {
+      "surface": "הִ֣יא",
+      "gloss": "⟨ist es⟩"
+    },
+    {
+      "surface": "בֶאֱנ֑וֹשׁ",
+      "gloss": "im Menschen"
+    },
+    {
+      "surface": "וְנִשְׁמַ֖ת",
+      "gloss": "aber der Atem"
+    },
+    {
+      "surface": "שַׁדַּ֣י",
+      "gloss": "Schaddais"
+    },
+    {
+      "surface": "תְּבִינֵֽם",
+      "gloss": "gibt ihnen Einsicht"
+    }
+  ],
+  "timestamp": "2026-08-06T07:04:16.570640658Z",
+  "model": "glm-5.2"
+}

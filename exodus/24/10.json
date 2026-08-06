@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und sie sahen ⟨את⟩ Elohim Jisraels, und unter seinen Füßen ⟨war⟩ wie das Werk von Saphirpflaster, und wie der Himmel selbst an Klarheit.",
+  "tokens": [
+    {
+      "surface": "וַיִּרְא֕וּ",
+      "gloss": "Und sie sahen"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Jisraels"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "וְתַ֣חַת",
+      "gloss": "und unter"
+    },
+    {
+      "surface": "רַגְלָ֗יו",
+      "gloss": "seinen Füßen"
+    },
+    {
+      "surface": "כְּמַעֲשֵׂה֙",
+      "gloss": "wie das Werk von"
+    },
+    {
+      "surface": "לִבְנַ֣ת",
+      "gloss": "Pflaster"
+    },
+    {
+      "surface": "הַסַּפִּ֔יר",
+      "gloss": "Saphir"
+    },
+    {
+      "surface": "וּכְעֶ֥צֶם",
+      "gloss": "und wie ⟨das Wesen⟩"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "לָטֹֽהַר",
+      "gloss": "an Klarheit"
+    }
+  ],
+  "timestamp": "2026-08-05T20:12:52.527539478Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 122,
+  "translation": "Um meiner Brüder und meiner Gefährten willen will ich nun sprechen: Schalom ⟨sei⟩ in dir.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Um … willen"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "meiner Brüder"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "und meiner Gefährten"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "will ich sprechen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨sei⟩ in dir"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:18.722597137Z",
+  "model": "glm-5.2"
+}

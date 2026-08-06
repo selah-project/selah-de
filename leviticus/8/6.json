@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Mosche brachte ⟨את⟩ Aharon und ⟨את⟩ seine Söhne heran und wusch sie im Wasser.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Und er brachte heran"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Söhne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "und wusch"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sie",
+      "marks": "Aharon und seine Söhne"
+    },
+    {
+      "surface": "במים",
+      "gloss": "im Wasser"
+    }
+  ],
+  "timestamp": "2026-08-05T20:21:18.982639228Z",
+  "model": "glm-5.2"
+}

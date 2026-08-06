@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Der Besitz eines Reichen ⟨ist⟩ die Stadt seiner Stärke, der Sturz der Armen ⟨ist⟩ ihre Armut.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Besitz"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "eines Reichen"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "seiner Stärke"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "der Sturz"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "der Armen"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "ihre Armut"
+    }
+  ],
+  "timestamp": "2026-08-05T23:10:17.098200155Z",
+  "model": "glm-5.2"
+}

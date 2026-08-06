@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und ⟨einen⟩ Stier oder ⟨ein⟩ Kleinvieh, ⟨das⟩ übergroß oder unterentwickelt ⟨ist⟩ — als Freiwillegabe darfst du ⟨es⟩ machen, aber ⟨als⟩ Gelübde wird es nicht angenommen.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "und ⟨einen⟩ Stier"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "oder ⟨ein⟩ Kleinvieh"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "übergroß"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "oder unterentwickelt"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "als Freiwillegabe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "darfst du machen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "es (den Stier \/ das Kleinvieh)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "aber ⟨als⟩ Gelübde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "wird angenommen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:13:13.174296320Z",
+  "model": "glm-5.2"
+}

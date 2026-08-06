@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und dem Aharon wurden geboren ⟨את⟩ Nadaw und ⟨את⟩ Awihu, ⟨את⟩ Elasar und ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Nadaw"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Awihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Awihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-08-06T00:38:41.299044281Z",
+  "model": "glm-5.2"
+}

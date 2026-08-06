@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 111,
+  "translation": "Groß sind die Werke JHWHs, erforscht von allen, die an ihnen Gefallen haben.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Groß"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "sind die Werke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "erforscht"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "von allen"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "die an ihnen Gefallen haben"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:53.179540260Z",
+  "model": "glm-5.2"
+}

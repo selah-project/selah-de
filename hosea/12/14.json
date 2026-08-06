@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und durch einen Nawi führte JHWH ⟨את⟩ Jisra'el herauf aus Mizrajim, und durch einen Nawi wurde ⟨er⟩ behütet.",
+  "tokens": [
+    {
+      "surface": "וּבְנָבִיא",
+      "gloss": "Und durch einen Nawi"
+    },
+    {
+      "surface": "הֶעֱלָה",
+      "gloss": "führte ⟨er⟩ herauf"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "מִמִּצְרָיִם",
+      "gloss": "aus Mizrajim"
+    },
+    {
+      "surface": "וּבְנָבִיא",
+      "gloss": "und durch einen Nawi"
+    },
+    {
+      "surface": "נִשְׁמָר",
+      "gloss": "wurde ⟨er⟩ behütet"
+    }
+  ],
+  "timestamp": "2026-08-06T09:08:24.043613737Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 143,
+  "translation": "Reiß mich heraus, JHWH, vor meinen Feinden; bei dir habe ich mich geborgen.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Reiß mich heraus"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "vor meinen Feinden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bei dir"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "habe ich mich geborgen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:18.911051732Z",
+  "model": "glm-5.2"
+}

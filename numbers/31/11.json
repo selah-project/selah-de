@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Und sie nahmen ⟨את⟩ all die Beute und ⟨את⟩ all die Erbeutung, an Menschen und an Vieh.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "und sie nahmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all die Beute"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "die Beute"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all die Erbeutung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "die Erbeutung"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "an Menschen"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "und an Vieh"
+    }
+  ],
+  "timestamp": "2026-08-05T20:39:59.880350602Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 8:26",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und die Erscheinung des Abends und des Morgens, die gesagt wurde — ⟨es ist⟩ Emet, ⟨das ist sie⟩. Und du, verschließe das Gesicht, denn ⟨es gilt⟩ vielen Tagen.",
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "und die Erscheinung"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "des Abends"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "und des Morgens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "gesagt wurde"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Emet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "das ist sie"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "סתם",
+      "gloss": "verschließe"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "das Gesicht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "⟨es gilt⟩ vielen Tagen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vielen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:40:53.586479935Z",
+  "model": "glm-5.2"
+}

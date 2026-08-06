@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und die Söhne Elis waren Söhne Belijals — sie kannten ⟨את⟩ JHWH nicht.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Und die Söhne"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "waren Söhne"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belijals"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sie kannten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T21:07:21.967107363Z",
+  "model": "glm-5.2"
+}

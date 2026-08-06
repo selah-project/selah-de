@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 60,
+  "translation": "Steh auf, leuchte! Denn ⟨dein⟩ Licht ist gekommen, und die Herrlichkeit JHWHs ist über dir aufgegangen.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Steh auf"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "leuchte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ist gekommen"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "⟨dein⟩ Licht"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "und die Herrlichkeit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "über dir"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ist aufgegangen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:22:11.827807747Z",
+  "model": "glm-5.2"
+}

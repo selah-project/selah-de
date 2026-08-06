@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 92,
+  "translation": "Denn siehe, deine Feinde, JHWH — denn siehe, deine Feinde gehen zugrunde; ⟨es⟩ zerstreuen sich alle Täter von Awen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "deine Feinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "deine Feinde"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "gehen zugrunde"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "zerstreuen sich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "Täter von"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:57:47.119219236Z",
+  "model": "glm-5.2"
+}

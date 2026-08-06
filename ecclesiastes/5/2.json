@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Denn der Traum kommt durch die Fülle der Mühe, und die Stimme des Toren durch die Fülle der Worte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "der Traum"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "durch die Fülle"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "der Mühe"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "und die Stimme"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "des Toren"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "durch die Fülle"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "der Worte"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:06.810368110Z",
+  "model": "glm-5.2"
+}

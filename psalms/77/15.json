@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Du bist ⟨der⟩ El, der Wunder tut; du hast unter den Völkern deine Stärke kundgetan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "האל",
+      "gloss": "bist ⟨der⟩ El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der tut"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "Wunder"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "du hast kundgetan"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "unter den Völkern"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "deine Stärke"
+    }
+  ],
+  "timestamp": "2026-08-05T22:54:48.841856757Z",
+  "model": "glm-5.2"
+}

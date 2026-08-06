@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und die Söhne Jisraels gingen und handelten; wie JHWH ⟨את⟩ Mosche und ⟨את⟩ Aharon befohlen hatte, so handelten sie.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "und sie gingen"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "und handelten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befohlen hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "und Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "handelten sie"
+    }
+  ],
+  "timestamp": "2026-08-06T08:18:06.893515910Z",
+  "model": "glm-5.2"
+}

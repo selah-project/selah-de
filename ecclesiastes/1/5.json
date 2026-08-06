@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und aufgeht die Sonne, und ⟨die Sonne⟩ kommt, und nach ihrem Ort lechzt aufgehend — sie dort.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "und aufgeht"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die Sonne"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "und ⟨die Sonne⟩ kommt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "—"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und nach"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ihrem Ort"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "lechzt"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "aufgehend"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:50.832843979Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 16:8",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Dankt JHWH, ruft an seinen Namen, macht kund unter den Völkern seine Taten!",
+  "tokens": [
+    {
+      "surface": "הוֹד֤וּ",
+      "gloss": "Dankt"
+    },
+    {
+      "surface": "לַֽיהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "קִרְא֣וּ",
+      "gloss": "ruft an"
+    },
+    {
+      "surface": "בִשְׁמ֔וֹ",
+      "gloss": "seinen Namen"
+    },
+    {
+      "surface": "הוֹדִ֥יעוּ",
+      "gloss": "macht kund"
+    },
+    {
+      "surface": "בָעַמִּ֖ים",
+      "gloss": "unter den Völkern"
+    },
+    {
+      "surface": "עֲלִילֹתָֽיו",
+      "gloss": "seine Taten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:56:24.752752858Z",
+  "model": "glm-5.2"
+}

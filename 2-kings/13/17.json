@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und er sagte: Öffne das Fenster nach Osten, und er öffnete ⟨es⟩. Und Elischá sagte: Schieß! Und er schoss. Und er sagte: ⟨Das ist⟩ der Pfeil der Rettung für JHWH und der Pfeil der Rettung gegen Aram, und du wirst ⟨את⟩ Aram schlagen in Afek, bis ⟨zum⟩ Ende.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Öffne"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "das Fenster"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "nach Osten"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "und er öffnete"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elischá"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "Schieß"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "und er schoss"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sagte"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "Pfeil"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "der Rettung"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "und ⟨der⟩ Pfeil"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "der Rettung"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "gegen Aram"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "und du wirst schlagen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "in Afek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "Ende"
+    }
+  ],
+  "timestamp": "2026-08-06T15:51:39.392218737Z",
+  "model": "glm-5.2"
+}

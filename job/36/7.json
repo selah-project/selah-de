@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 36:7",
+  "book": "job",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Er entzieht von ⟨dem⟩ Gerechten seine Augen nicht, und ⟨את⟩ Könige ⟨setzt er⟩ ⟨auf⟩ ⟨den⟩ Thron und lässt sie ⟨auf⟩ ⟨die⟩ Ewigkeit ⟨sitzen⟩, und sie ⟨werden⟩ erhöht.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "er entzieht"
+    },
+    {
+      "surface": "מצדיק",
+      "gloss": "von Gerechten"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "seine Augen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Könige"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "⟨auf⟩ Thron"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "und lässt sie sitzen"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨auf⟩ Ewigkeit"
+    },
+    {
+      "surface": "ויגבהו",
+      "gloss": "und sie sind erhöht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:24:00.163675742Z",
+  "model": "glm-5.2"
+}

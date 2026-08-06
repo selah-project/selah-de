@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 144,
+  "translation": "⟨Er,⟩ der Rettung gibt den Königen, ⟨er,⟩ der ⟨את⟩ Dawid, seinen Knecht, erlöst vom bösen Schwert.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "der gibt"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "Rettung"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "den Königen"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "der erlöst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "seinen Knecht"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "vom Schwert"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bösen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:56.804898002Z",
+  "model": "glm-5.2"
+}

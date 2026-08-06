@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Sie kehren zurück zum Abend, sie heulen wie ⟨der⟩ Hund, und sie umkreisen ⟨die⟩ Stadt.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "sie kehren zurück"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "zum Abend"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "sie heulen"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "wie ⟨der⟩ Hund"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "und sie umkreisen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨die⟩ Stadt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:48.676404734Z",
+  "model": "glm-5.2"
+}

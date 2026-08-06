@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und er ließ die Geweihten aus dem Land verschwinden, und er entfernte ⟨את⟩ alle Götzen, die seine Väter gemacht hatten.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "und er ließ verschwinden"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "die Geweihten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dem Land"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "und er entfernte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Götzen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "Götzen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gemacht hatten"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seine Väter"
+    }
+  ],
+  "timestamp": "2026-08-06T01:26:38.786710540Z",
+  "model": "glm-5.2"
+}

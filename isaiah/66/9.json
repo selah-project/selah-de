@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "„Bringe Ich ⟨ans Licht⟩ und lasse nicht gebären?“ spricht JHWH. „Oder bin Ich es, der gebären lässt, und halte ⟨es⟩ zurück?“ spricht dein Elohim.",
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "Bringe Ich"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "⟨ans Licht⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "lasse gebären"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Oder"
+    },
+    {
+      "surface": "אני",
+      "gloss": "bin Ich es"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "der gebären lässt"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "und halte ⟨es⟩ zurück"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dein Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T06:05:29.300358655Z",
+  "model": "glm-5.2"
+}

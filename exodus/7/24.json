@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und alle Mizrajim gruben rings um den Fluss ⟨herum⟩ nach Wasser zu trinken, denn sie konnten nicht vom Wasser des Flusses trinken.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "Und ⟨sie⟩ gruben"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "rings"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "um den Fluss"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nach Wasser"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "zu trinken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sie konnten"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "trinken"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "vom Wasser"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "des Flusses"
+    }
+  ],
+  "timestamp": "2026-08-06T14:50:20.781196732Z",
+  "model": "glm-5.2"
+}

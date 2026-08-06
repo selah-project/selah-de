@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und er sprach zu ihnen: „Kennt ihr ⟨את⟩ Lawan, den Sohn von Nachor?\" Und sie sagten: „Wir kennen ⟨ihn⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Kennt ihr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lawan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "von Nachor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sie sagten"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Wir kennen"
+    }
+  ],
+  "timestamp": "2026-08-06T22:30:53.756736223Z",
+  "model": "glm-5.2"
+}

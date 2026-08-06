@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und die Tage Adams nach seinem Zeugen ⟨את⟩ Schet waren achthundert Jahre, und er zeugte Söhne und Töchter.",
+  "tokens": [
+    {
+      "surface": "וַיִּֽהְי֣וּ",
+      "gloss": "Und ⟨es⟩ waren"
+    },
+    {
+      "surface": "יְמֵי",
+      "gloss": "die Tage"
+    },
+    {
+      "surface": "אָדָ֗ם",
+      "gloss": "Adams"
+    },
+    {
+      "surface": "אַֽחֲרֵי֙",
+      "gloss": "nach"
+    },
+    {
+      "surface": "הוֹלִיד֣וֹ",
+      "gloss": "seinem Zeugen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Schet"
+    },
+    {
+      "surface": "שֵׁ֔ת",
+      "gloss": "Schet"
+    },
+    {
+      "surface": "שְׁמֹנֶ֥ה",
+      "gloss": "acht"
+    },
+    {
+      "surface": "מֵאֹ֖ת",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "וַיּ֥וֹלֶד",
+      "gloss": "und er zeugte"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "וּבָנֽוֹת",
+      "gloss": "und Töchter"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:19.070937245Z",
+  "model": "glm-5.2"
+}

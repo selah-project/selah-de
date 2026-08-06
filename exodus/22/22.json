@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wenn du ihn gar bedrückst — ⟨dann⟩, ⟨ja⟩, wenn er schreit zu mir rufen wird, hörend werde ich hören sein Schreien,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "bedrücken"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "du bedrücken wirst"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨dann⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ja⟩ wenn"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "schreien"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "er rufen wird"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörend"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "werde ich hören"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "sein Schreien"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:50.801285934Z",
+  "model": "glm-5.2"
+}

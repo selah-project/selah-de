@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Von Zijon, vollkommen an Schönheit, strahlt Elohim auf.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Von Zijon"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "vollkommen an"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "Schönheit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "strahlt auf"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:46.763946674Z",
+  "model": "glm-5.2"
+}

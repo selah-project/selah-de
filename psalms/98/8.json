@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 98,
+  "translation": "Ströme sollen ⟨die⟩ Hände klatschen, Berge sollen zusammen jauchzen.",
+  "tokens": [
+    {
+      "surface": "נְהָר֥וֹת",
+      "gloss": "Ströme"
+    },
+    {
+      "surface": "יִמְחֲאוּ",
+      "gloss": "sollen klatschen"
+    },
+    {
+      "surface": "כָ֑ף",
+      "gloss": "⟨die⟩ Hände"
+    },
+    {
+      "surface": "יַ֝֗חַד",
+      "gloss": "zusammen"
+    },
+    {
+      "surface": "הָרִ֥ים",
+      "gloss": "Berge"
+    },
+    {
+      "surface": "יְרַנֵּֽנוּ",
+      "gloss": "sollen jauchzen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:00.259770215Z",
+  "model": "glm-5.2"
+}

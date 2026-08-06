@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "Für den Chorleiter. Ein Mismor. Von Dawid. Ein Schir.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für den Chorleiter"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mismor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Von Dawid"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Ein Schir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:02.150834230Z",
+  "model": "glm-5.2"
+}

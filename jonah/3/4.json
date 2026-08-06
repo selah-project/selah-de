@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Jona begann, in die Stadt hineinzugehen, eine Wegstrecke von einem Tag, und er rief aus und sagte: „Noch vierzig Tage, und Ninwe wird umgestürzt!",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "begann"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "hineinzugehen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die Stadt"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "eine Wegstrecke"
+    },
+    {
+      "surface": "יום",
+      "gloss": "von einem Tag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einem"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "und er rief aus"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Noch"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "vierzig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "und Ninwe"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "wird umgestürzt"
+    }
+  ],
+  "timestamp": "2026-08-06T09:10:22.046376548Z",
+  "model": "glm-5.2"
+}

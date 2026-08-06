@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und das Gold jenes Landes ⟨ist⟩ gut; dort ⟨ist⟩ der Bedolach und der Schoham-Stein.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Und das Gold"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ist gut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "der Bedolach"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "und der"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "Schoham-Stein"
+    }
+  ],
+  "timestamp": "2026-08-05T17:28:08.191640723Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Ist ⟨das⟩ euch ⟨die⟩ Frohlockende, deren Alter aus Tagen der Vorzeit ⟨stammt⟩? Ihre eigenen Füße brachten sie aus der Ferne, um zu siedeln.",
+  "tokens": [
+    {
+      "surface": "הֲזֹ֥את",
+      "gloss": "Ist ⟨das⟩"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "עַלִּיזָ֑ה",
+      "gloss": "⟨die⟩ Frohlockende"
+    },
+    {
+      "surface": "מִֽימֵי",
+      "gloss": "aus Tagen"
+    },
+    {
+      "surface": "קֶ֤דֶם",
+      "gloss": "der Vorzeit"
+    },
+    {
+      "surface": "קַדְמָתָהּ֙",
+      "gloss": "deren Alter"
+    },
+    {
+      "surface": "יֹבִל֣וּהָ",
+      "gloss": "brachten sie"
+    },
+    {
+      "surface": "רַגְלֶ֔יהָ",
+      "gloss": "ihre eigenen Füße"
+    },
+    {
+      "surface": "מֵֽרָח֖וֹק",
+      "gloss": "aus der Ferne"
+    },
+    {
+      "surface": "לָגֽוּר",
+      "gloss": "um zu siedeln"
+    }
+  ],
+  "timestamp": "2026-08-06T15:10:15.508227430Z",
+  "model": "glm-5.2"
+}

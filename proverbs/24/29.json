@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Sag nicht: „Wie er ⟨es⟩ mir getan hat, so will ich ⟨es⟩ ihm tun; ich will dem Mann vergelten nach seinem Tun.“",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sag"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "getan hat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "will ich tun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "will ich vergelten"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "dem Mann"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "nach seinem Tun"
+    }
+  ],
+  "timestamp": "2026-08-05T23:13:56.410356477Z",
+  "model": "glm-5.2"
+}

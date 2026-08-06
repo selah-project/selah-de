@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und nun, handelt! Denn JHWH hat zu Dawid gesprochen, ⟨um zu sagen⟩: „Durch die Hand Dawids, meines Knechtes, werde ich ⟨את⟩ mein Volk Jisrael retten aus der Hand der Pelischtim und aus der Hand aller ihrer Feinde.“",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "handelt!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hat gesprochen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨um zu sagen⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "Durch die Hand"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "meines Knechtes"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "werde ich retten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Volk Jisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "und aus der Hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aller"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ihrer Feinde"
+    }
+  ],
+  "timestamp": "2026-08-06T08:41:13.613208621Z",
+  "model": "glm-5.2"
+}

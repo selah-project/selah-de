@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "Er verkündet sein Wort Jaakow, seine Bestimmungen und seine Rechtsordnungen Jisra'el.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Er verkündet"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sein Wort"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "seine Bestimmungen"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "und seine Rechtsordnungen"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisra'el"
+    }
+  ],
+  "timestamp": "2026-08-06T15:24:45.615757169Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Warum, JHWH, verstößt du meine Nefesch, verbirgst dein Angesicht vor mir?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "verstößt du"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "verbirgst"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dein Angesicht"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "vor mir"
+    }
+  ],
+  "timestamp": "2026-08-06T06:47:08.532836344Z",
+  "model": "glm-5.2"
+}

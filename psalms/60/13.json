@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 60,
+  "translation": "Gib uns Hilfe gegen ⟨den⟩ Bedränger, denn nichtig ist ⟨die⟩ Rettung ⟨des⟩ Menschen.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Gib"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "Hilfe"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "gegen ⟨den⟩ Bedränger"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "denn nichtig ist"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "⟨die⟩ Rettung"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨des⟩ Menschen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:03.030667124Z",
+  "model": "glm-5.2"
+}

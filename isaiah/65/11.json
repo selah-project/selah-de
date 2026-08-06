@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "Und ihr, die ihr JHWH verlasst, ⟨die⟩ meinen heiligen Berg vergessen, ⟨die⟩ dem Gad einen Tisch bereitet und ⟨die⟩ für den Meni ⟨ein⟩ Gemisch füllt —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Und ihr"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "die ihr verlasst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "vergessen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen heiligen Berg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Berg"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "meinen heiligen"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "⟨die⟩ bereitet"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "dem Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "einen Tisch"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "und ⟨die⟩ füllt"
+    },
+    {
+      "surface": "למני",
+      "gloss": "für den Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "⟨ein⟩ Gemisch"
+    }
+  ],
+  "timestamp": "2026-08-06T06:05:00.130568486Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Mosche sagte: „Ich will doch abbiegen und ⟨את⟩ die große Erscheinung sehen, warum der Dornbusch nicht verbrennt.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und sagte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ich will abbiegen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "und sehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die große Erscheinung"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "die Erscheinung"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "die große"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "warum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "verbrennt"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "der Dornbusch"
+    }
+  ],
+  "timestamp": "2026-08-06T20:17:43.144786047Z",
+  "model": "glm-5.2"
+}

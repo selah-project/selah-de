@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Gesegnet bist du, JHWH; lehre mich deine Chuqim.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gesegnet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "lehre mich"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "deine Chuqim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:47.980619805Z",
+  "model": "glm-5.2"
+}

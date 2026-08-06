@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und der König wandte ⟨את⟩ sein Gesicht und segnete ⟨את⟩ die ganze Versammlung Jisra'els. Und die ganze Versammlung Jisra'els stand.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "und [er] wandte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Gesicht"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sein Gesicht"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "und [er] segnete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Versammlung Jisra'els"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "und die ganze"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stand"
+    }
+  ],
+  "timestamp": "2026-08-06T02:58:46.566426835Z",
+  "model": "glm-5.2"
+}

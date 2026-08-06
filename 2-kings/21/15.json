@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "wegen dem, dass sie ⟨את⟩ das Böse taten in meinen Augen und mir zürnten — von dem Tag an, an dem ihre Väter aus Mizrajim auszogen, bis zu diesem Tag.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dem, dass"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sie taten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Böse"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "das Böse"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in meinen Augen"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "und ⟨sie⟩ waren"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "zürnend"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dem Tag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "an dem"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "auszogen"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ihre Väter"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "aus Mizrajim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "diesem Tag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesem"
+    }
+  ],
+  "timestamp": "2026-08-05T21:40:45.482748600Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und die Kapitelle, die auf dem Kopf der Säulen ⟨sind⟩, ⟨waren⟩ Lilienarbeit in der Halle, vier Ellen.",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "Und die Kapitelle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "dem Kopf"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "der Säulen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "Arbeit"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "von Lilien"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "in der Halle"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "Ellen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:27:41.327593322Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "wegen der Stimme des Schmähers und Lästerers, vor dem Angesicht des Feindes und des Rächers.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "wegen der Stimme"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "des Schmähers"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "und des Lästerers"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor dem Angesicht"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "des Feindes"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "und des Rächers"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:11.182073178Z",
+  "model": "glm-5.2"
+}

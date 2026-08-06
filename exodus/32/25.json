@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und Mosche sah ⟨את⟩ das Volk, dass es entfesselt war, denn Aharon hatte es entfesselt zum Gespött unter ⟨ihren⟩ Widersachern.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֤רְא",
+      "gloss": "Und sah"
+    },
+    {
+      "surface": "מֹשֶׁה֙",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "הָעָ֔ם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "dass"
+    },
+    {
+      "surface": "פָרֻ֖עַ",
+      "gloss": "entfesselt"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "es war"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "פְרָעֹ֣ה",
+      "gloss": "hatte entfesselt"
+    },
+    {
+      "surface": "אַהֲרֹ֔ן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לְשִׁמְצָ֖ה",
+      "gloss": "zum Gespött"
+    },
+    {
+      "surface": "בְּקָמֵיהֶֽם",
+      "gloss": "unter ihren Widersachern"
+    }
+  ],
+  "timestamp": "2026-08-06T08:21:26.333163192Z",
+  "model": "glm-5.2"
+}

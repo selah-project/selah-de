@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim sprach: „Es sollen sich sammeln die Wasser unter dem Himmel an einen Ort, und es soll sichtbar werden ⟨die⟩ Trockene.\" Und es geschah so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "sie sollen sich sammeln"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die Wasser"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dem Himmel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "einen Ort"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einen"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "und es soll sichtbar werden"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "die Trockene"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-08-05T19:54:28.396420181Z",
+  "model": "glm-5.2"
+}

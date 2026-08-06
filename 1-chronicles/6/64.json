@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "und ⟨את⟩ Qedemot und ⟨את⟩ seine Weideflächen und ⟨את⟩ Mefaʿat und ⟨את⟩ seine Weideflächen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Qedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weideflächen"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "seine Weideflächen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Mefaʿat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaʿat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Weideflächen"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "seine Weideflächen"
+    }
+  ],
+  "timestamp": "2026-08-06T07:20:15.296573171Z",
+  "model": "glm-5.2"
+}

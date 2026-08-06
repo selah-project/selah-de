@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Von Dawid. Ein Maskil. Wie glücklich ⟨sind⟩ die, deren Auflehnung getragen, deren Sünde bedeckt ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Von Dawid"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Ein Maskil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Wie glücklich"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "getragen"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "Auflehnung"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "bedeckt"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "Sünde"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:01.295647206Z",
+  "model": "glm-5.2"
+}

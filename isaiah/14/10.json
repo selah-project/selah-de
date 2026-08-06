@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Alle sie werden antworten und zu dir sagen: „Auch du bist krank geworden wie wir, uns gleichgestellt bist du geworden.\"",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Alle sie"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "werden antworten"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "und sagen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Auch"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "bist krank geworden"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "wie wir"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "uns"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "gleichgestellt bist du geworden"
+    }
+  ],
+  "timestamp": "2026-08-06T08:50:07.548309547Z",
+  "model": "glm-5.2"
+}

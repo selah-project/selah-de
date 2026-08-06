@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 112,
+  "translation": "Im Finstern geht Licht auf für die Aufrechten — gnadenvoll und barmherzig und gerecht.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "geht auf"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "Im Finstern"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Licht"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "für die Aufrechten"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "gnadenvoll"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "und barmherzig"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "und gerecht"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:29.188151300Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Ein Sack nähte ich auf meine Haut, und wälzte im Staub mein Horn.",
+  "tokens": [
+    {
+      "surface": "שַׂ֣ק",
+      "gloss": "ein Sack"
+    },
+    {
+      "surface": "תָּ֭פַרְתִּי",
+      "gloss": "nähte ich"
+    },
+    {
+      "surface": "עֲלֵ֣י",
+      "gloss": "auf"
+    },
+    {
+      "surface": "גִלְדִּ֑י",
+      "gloss": "meine Haut"
+    },
+    {
+      "surface": "וְעֹלַ֖לְתִּי",
+      "gloss": "und wälzte"
+    },
+    {
+      "surface": "בֶעָפָ֣ר",
+      "gloss": "im Staub"
+    },
+    {
+      "surface": "קַרְנִֽי",
+      "gloss": "mein Horn"
+    }
+  ],
+  "timestamp": "2026-08-05T23:19:22.901155367Z",
+  "model": "glm-5.2"
+}

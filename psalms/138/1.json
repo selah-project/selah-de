@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 138,
+  "translation": "Von Dawid. Ich will dich preisen mit meinem ganzen Herzen; vor ⟨den⟩ Elohim will ich dir spielen.",
+  "tokens": [
+    {
+      "surface": "לְדָוִ֨ד",
+      "gloss": "Von Dawid"
+    },
+    {
+      "surface": "אוֹדְךָ֥",
+      "gloss": "ich will dich preisen"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "mit meinem ganzen"
+    },
+    {
+      "surface": "לִבִּ֑י",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "נֶ֖גֶד",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "⟨den⟩ Elohim"
+    },
+    {
+      "surface": "אֲזַמְּרֶֽךָּ",
+      "gloss": "will ich dir spielen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:40.589429115Z",
+  "model": "glm-5.2"
+}

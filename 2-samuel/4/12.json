@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 4:12",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Dawid befahl ⟨את⟩ den Burschen, und sie töteten sie; und sie hieben ⟨את⟩ ihre Hände und ⟨את⟩ ihre Füße ab und hängten ⟨sie⟩ auf an der Zisterne in Chevron. ⟨את⟩ Den Kopf von Isch-Boschet aber nahmen sie und bestatteten ⟨ihn⟩ im Grab Avners in Chevron.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Und ⟨er⟩ befahl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Burschen"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "den Burschen"
+    },
+    {
+      "surface": "ויהרגום",
+      "gloss": "und sie töteten sie"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "und sie hieben ab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Hände"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ihre Hände"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Füße"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ihre Füße"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "und ⟨sie⟩ hängten ⟨sie⟩ auf"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "der Zisterne"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "in Chevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Kopf von Isch-Boschet"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Den Kopf"
+    },
+    {
+      "surface": "איש",
+      "gloss": "von Isch"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boschet"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "aber ⟨sie⟩ nahmen"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "und bestatteten ⟨ihn⟩"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "im Grab"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avners"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "in Chevron"
+    }
+  ],
+  "timestamp": "2026-08-05T21:18:19.405011846Z",
+  "model": "glm-5.2"
+}

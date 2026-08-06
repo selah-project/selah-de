@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Er führt sie heraus aus Finsternis und Todesschatten, und ⟨ihre⟩ Fesseln zerreißt er.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "Er führt sie heraus"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "aus Finsternis"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "und Todesschatten"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "und ⟨ihre⟩ Fesseln"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "zerreißt er"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:26.162408326Z",
+  "model": "glm-5.2"
+}

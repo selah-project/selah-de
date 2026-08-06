@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Dreimal im Jahr sollst du mir ein Fest feiern.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "dreimal"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "⟨Fest⟩"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "sollst du … feiern"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "im Jahr"
+    }
+  ],
+  "timestamp": "2026-08-06T02:06:03.997028225Z",
+  "model": "glm-5.2"
+}

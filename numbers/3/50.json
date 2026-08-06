@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "von den Erstgeborenen der Söhne Jisraels nahm ⟨er⟩ ⟨את⟩ das Silber: fünf und sechzig und dreihundert und tausend, im Schekel des Heiligen —",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "von"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "den Erstgeborenen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nahm ⟨er⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Silber"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "das Silber"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fünf"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "und sechzig"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "und drei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundert"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "und tausend"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "im Schekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "des Heiligen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:31:45.594715002Z",
+  "model": "glm-5.2"
+}

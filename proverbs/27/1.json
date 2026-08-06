@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Rühme dich nicht des Tages von morgen, denn ⟨du⟩ weißt nicht, was ein Tag gebären wird.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "rühme dich"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "des Tages von"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "weißt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "gebären wird"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ein Tag"
+    }
+  ],
+  "timestamp": "2026-08-06T04:30:50.605798769Z",
+  "model": "glm-5.2"
+}

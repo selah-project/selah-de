@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 60,
+  "translation": "Du hast deinem Volk ⟨ein⟩ Hartes sehen lassen; du hast uns Wein des Taumels zu trinken gegeben.",
+  "tokens": [
+    {
+      "surface": "הִרְאִ֣יתָה",
+      "gloss": "Du hast sehen lassen"
+    },
+    {
+      "surface": "עַמְּךָ֣",
+      "gloss": "deinem Volk"
+    },
+    {
+      "surface": "קָשָׁ֑ה",
+      "gloss": "ein Hartes"
+    },
+    {
+      "surface": "הִ֝שְׁקִיתָ֗נוּ",
+      "gloss": "du hast uns zu trinken gegeben"
+    },
+    {
+      "surface": "יַ֣יִן",
+      "gloss": "Wein"
+    },
+    {
+      "surface": "תַּרְעֵלָֽה",
+      "gloss": "des Taumels"
+    }
+  ],
+  "timestamp": "2026-08-06T04:15:01.033303705Z",
+  "model": "glm-5.2"
+}

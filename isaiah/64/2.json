@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 64,
+  "translation": "Bei deinem Tun ⟨von⟩ Furchtbarem, das wir nicht erwarteten — da stiegst du ⟨herab⟩, vor deinem Angesicht bebten ⟨die⟩ Berge.",
+  "tokens": [
+    {
+      "surface": "בַּעֲשׂוֹתְךָ֥",
+      "gloss": "bei deinem Tun"
+    },
+    {
+      "surface": "נוֹרָא֖וֹת",
+      "gloss": "Furchtbares"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נְקַוֶּ֑ה",
+      "gloss": "wir erwarteten"
+    },
+    {
+      "surface": "יָרַ֕דְתָּ",
+      "gloss": "stiegst du herab"
+    },
+    {
+      "surface": "מִפָּנֶ֖יךָ",
+      "gloss": "vor deinem Angesicht"
+    },
+    {
+      "surface": "הָרִ֥ים",
+      "gloss": "Berge"
+    },
+    {
+      "surface": "נָזֹֽלּוּ",
+      "gloss": "bebten (flossen)"
+    }
+  ],
+  "timestamp": "2026-08-05T21:57:58.384776988Z",
+  "model": "glm-5.2"
+}

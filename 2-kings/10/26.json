@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und sie brachten ⟨את⟩ die Mazzebot des Hauses des Baal heraus und verbrannten sie.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Und sie brachten heraus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Mazzebot"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "die Mazzebot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "des Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "und verbrannten sie"
+    }
+  ],
+  "timestamp": "2026-08-06T03:06:34.936764520Z",
+  "model": "glm-5.2"
+}

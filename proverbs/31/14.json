@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Sie war wie ⟨die⟩ Handelsschiffe, vom fernen Ort bringt sie ⟨ihr⟩ Brot her.",
+  "tokens": [
+    {
+      "surface": "הָ֭יְתָה",
+      "gloss": "sie war"
+    },
+    {
+      "surface": "כָּאֳנִיּ֣וֹת",
+      "gloss": "wie ⟨die⟩ Schiffe"
+    },
+    {
+      "surface": "סוֹחֵ֑ר",
+      "gloss": "des Handels"
+    },
+    {
+      "surface": "מִ֝מֶּרְחָ֗ק",
+      "gloss": "vom fernen Ort"
+    },
+    {
+      "surface": "תָּבִ֥יא",
+      "gloss": "bringt sie her"
+    },
+    {
+      "surface": "לַחְמָֽהּ",
+      "gloss": "⟨ihr⟩ Brot"
+    }
+  ],
+  "timestamp": "2026-08-06T09:23:26.917659793Z",
+  "model": "glm-5.2"
+}

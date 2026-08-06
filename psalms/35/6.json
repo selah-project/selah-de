@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Möge ihr Weg Finsternis und Rutschglatt sein, und ⟨ein⟩ Bote JHWHs jagte ⟨sie⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Möge sein"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ihr Weg"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "Finsternis"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "und Rutschglatt"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "und ⟨ein⟩ Bote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "jagte ⟨sie⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:22.498697859Z",
+  "model": "glm-5.2"
+}

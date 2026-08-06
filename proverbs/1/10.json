@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Mein Sohn, wenn Verbrecher dich locken — willige nicht ein.",
+  "tokens": [
+    {
+      "surface": "בְּנִ֡י",
+      "gloss": "Mein Sohn"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "יְפַתּ֥וּךָ",
+      "gloss": "dich locken"
+    },
+    {
+      "surface": "חַ֝טָּאִ֗ים",
+      "gloss": "Verbrecher"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תֹּבֵֽא",
+      "gloss": "willige ein"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:26.179251394Z",
+  "model": "glm-5.2"
+}

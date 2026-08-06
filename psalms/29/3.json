@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Die Stimme JHWHs ⟨ist⟩ über den Wassern, El ⟨des⟩ Kabod hat gedonnert — JHWH über vielen Wassern.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Die Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "המים",
+      "gloss": "den Wassern"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "⟨des⟩ Kabod"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "hat gedonnert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wassern"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vielen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:27.470464249Z",
+  "model": "glm-5.2"
+}

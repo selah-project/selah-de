@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und Meonotai zeugte ⟨את⟩ Ofra. Und Seraja zeugte ⟨את⟩ Joab, den Vater des Tals der Handwerker; denn Handwerker waren sie.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "Und Meonotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofra"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofra"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "Und Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "den Vater"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "des Tals"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "der Handwerker"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Handwerker"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren sie"
+    }
+  ],
+  "timestamp": "2026-08-05T23:47:02.503267100Z",
+  "model": "glm-5.2"
+}

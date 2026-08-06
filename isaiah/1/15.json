@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 1:15",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und wenn ihr eure Hände ausbreitet, verhülle ich meine Augen vor euch. Auch wenn ihr ⟨euer⟩ Gebet häuft, höre ich nicht: Eure Hände sind voll Blut.",
+  "tokens": [
+    {
+      "surface": "ובפרשכם",
+      "gloss": "und wenn ihr ausbreitet"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "eure Hände"
+    },
+    {
+      "surface": "אעלים",
+      "gloss": "verhülle ich"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "vor euch"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "ihr häuft"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "Gebet"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "höre ich"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "eure Hände"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "sind voll"
+    }
+  ],
+  "timestamp": "2026-08-05T21:42:21.309681526Z",
+  "model": "glm-5.2"
+}

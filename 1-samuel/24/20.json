@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und wenn ⟨ein⟩ Mann ⟨את⟩ seinen Feind findet und ihn auf gutem Weg entlässt — JHWH wird dir Gutes vergelten für das, was du mir getan hast an diesem Tag.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "findet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨ein⟩ Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Feind"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "seinen Feind"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "und ihn entlässt"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "auf Weg"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gutem"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "wird dir vergelten"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "Gutes"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "für"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "diesen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das, was"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "du getan hast"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-06T01:10:15.712725688Z",
+  "model": "glm-5.2"
+}

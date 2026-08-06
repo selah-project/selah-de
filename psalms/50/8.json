@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Nicht über deine Schlachtopfer ⟨will⟩ ich dich zurechtweisen — deine Ola ⟨sind⟩ ständig vor mir.",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "זְ֭בָחֶיךָ",
+      "gloss": "deine Schlachtopfer"
+    },
+    {
+      "surface": "אוֹכִיחֶ֑ךָ",
+      "gloss": "ich dich zurechtweise"
+    },
+    {
+      "surface": "וְעוֹלֹתֶ֖יךָ",
+      "gloss": "und deine Ola"
+    },
+    {
+      "surface": "לְנֶגְדִּ֣י",
+      "gloss": "vor mir"
+    },
+    {
+      "surface": "תָמִֽיד",
+      "gloss": "ständig"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:59.935441505Z",
+  "model": "glm-5.2"
+}

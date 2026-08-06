@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 61,
+  "translation": "Für ⟨den⟩ Leiter, nach Saitenspiel. Von Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Für ⟨den⟩ Leiter"
+    },
+    {
+      "surface": "על",
+      "gloss": "nach"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "Saitenspiel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    }
+  ],
+  "timestamp": "2026-08-06T06:43:30.749435208Z",
+  "model": "glm-5.2"
+}

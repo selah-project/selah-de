@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und das Volk zog aus und plünderte ⟨את⟩ das Lager Arams. Und es wurde ⟨so⟩: ein Seá Feinmehl ⟨galt⟩ einen Schekel, und zwei Seá Gerste ⟨galten⟩ einen Schekel, nach dem Wort JHWHs.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Und das Volk zog aus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "und plünderte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Lager Arams"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "das Lager"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arams"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Und es wurde ⟨so⟩"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "ein Seá"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "Feinmehl"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "einen Schekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "und zwei Seá"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "Gerste"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "einen Schekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nach dem Wort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-05T21:36:30.233352122Z",
+  "model": "glm-5.2"
+}

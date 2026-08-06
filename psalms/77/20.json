@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Im Meer ⟨ist⟩ dein Weg, und deine Pfade in gewaltigen Wassern; und deine Spuren wurden nicht erkannt.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "im Meer"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "dein Weg"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "und deine Pfade"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in Wassern"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "gewaltigen"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "und deine Spuren"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "wurden erkannt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:28.352141087Z",
+  "model": "glm-5.2"
+}

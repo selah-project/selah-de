@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Hast du nicht gehört? Von fern her ⟨habe ich⟩ ⟨את⟩ sie gemacht, von Tagen der Vorzeit ⟨habe ich⟩ sie geformt. Jetzt habe ich sie herbeigebracht, ⟨damit⟩ es dazu komme, befestigte Städte zu verwüsten ⟨zu⟩ Trümmerhaufen.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hast du nicht"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "gehört?"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "von fern her"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "habe ich gemacht"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "von Tagen"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "der Vorzeit"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "habe ich sie geformt"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Jetzt"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "habe ich sie herbeigebracht"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "damit es dazu komme"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "zu verwüsten"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Trümmerhaufen"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "⌜in Trümmern⌝"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Städte"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "befestigte"
+    }
+  ],
+  "timestamp": "2026-08-06T05:56:20.609545311Z",
+  "model": "glm-5.2"
+}

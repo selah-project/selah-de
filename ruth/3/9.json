@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und er sprach: „Wer bist ⟨את⟩ du?\" Und sie sprach: „Ich bin Rut, deine Magd. ⟨So⟩ breite deine Flügel über deine Magd, denn du bist ⟨ein⟩ Goel.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sprach"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "und sie sprach"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "deine Magd"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "⟨so⟩ breite"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "deine Flügel"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "deine Magd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "Goel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    }
+  ],
+  "timestamp": "2026-08-06T22:48:01.979350434Z",
+  "model": "glm-5.2"
+}

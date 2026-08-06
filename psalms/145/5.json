@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Den Glanz der Hoheit deiner Majestät und die Worte deiner Wundertaten will ich betrachten.",
+  "tokens": [
+    {
+      "surface": "הֲדַר",
+      "gloss": "den Glanz"
+    },
+    {
+      "surface": "כְּב֣וֹד",
+      "gloss": "der Hoheit"
+    },
+    {
+      "surface": "הוֹדֶ֑ךָ",
+      "gloss": "deiner Majestät"
+    },
+    {
+      "surface": "וְדִבְרֵ֖י",
+      "gloss": "und die Worte"
+    },
+    {
+      "surface": "נִפְלְאוֹתֶ֣יךָ",
+      "gloss": "deiner Wundertaten"
+    },
+    {
+      "surface": "אָשִֽׂיחָה",
+      "gloss": "will ich betrachten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:04.049554269Z",
+  "model": "glm-5.2"
+}

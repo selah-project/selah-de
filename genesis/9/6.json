@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Wer ⟨das⟩ Blut des Menschen vergießt, durch den Menschen ⟨wird⟩ sein Blut vergossen; denn im Bild Elohim hat er ⟨את⟩ den Menschen gemacht.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Wer … vergießt"
+    },
+    {
+      "surface": "דם",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "durch den Menschen"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sein Blut"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "wird vergossen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "im Bild"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hat er gemacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Menschen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "den Menschen"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:18.688914726Z",
+  "model": "glm-5.2"
+}

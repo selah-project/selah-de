@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Aber ⟨את⟩ das Fleisch des Stieres und ⟨את⟩ sein Fell und ⟨את⟩ seinen Mist sollst du mit Feuer verbrennen außerhalb des Lagers; ⟨es⟩ ⟨ist⟩ ein Chattat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Aber ⟨את⟩",
+      "marks": "das Fleisch"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "des Stieres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein Fell"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "sein Fell"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seinen Mist"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "seinen Mist"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "sollst du verbrennen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mit Feuer"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "außerhalb"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "des Lagers"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ein Chattat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es ist"
+    }
+  ],
+  "timestamp": "2026-08-06T00:20:00.674997567Z",
+  "model": "glm-5.2"
+}

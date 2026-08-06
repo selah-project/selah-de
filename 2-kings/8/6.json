@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und der König fragte die Frau, und sie erzählte ⟨es⟩ ihm. Da gab ihr der König einen Eunuchen und sagte: „Gib ⟨את⟩ alles zurück, was ihr gehört, und ⟨את⟩ alle Erträge des Feldes, vom Tag an, an dem sie ⟨את⟩ das Land verließ, bis jetzt.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Und ⟨er⟩ fragte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "und sie erzählte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "Da gab"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "einen Eunuchen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "Gib zurück"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles, was ihr gehört"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ihr gehört"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "alle Erträge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "Erträge"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "vom Tag an"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "an dem sie verließ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jetzt"
+    }
+  ],
+  "timestamp": "2026-08-05T21:36:42.628789793Z",
+  "model": "glm-5.2"
+}

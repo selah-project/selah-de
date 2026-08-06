@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und sie sahen ⟨את⟩ ihn aus der Ferne, und bevor er zu ihnen näherte, da verschworen sie sich gegen ⟨את⟩ ihn, um ihn zu töten.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Und sie sahen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "aus der Ferne"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "und bevor"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "er näherkam"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "verschworen sie sich"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "um ihn zu töten"
+    }
+  ],
+  "timestamp": "2026-08-05T17:39:11.738517412Z",
+  "model": "glm-5.2"
+}

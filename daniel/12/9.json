@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und er sprach: „Geh hin, Danijel, denn ⟨die⟩ Worte sind verschlossen und versiegelt bis zur Zeit des Endes.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Geh hin"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danijel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "sind verschlossen"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "und versiegelt"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨die⟩ Worte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zur Zeit"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "des Endes"
+    }
+  ],
+  "timestamp": "2026-08-05T23:37:30.634473360Z",
+  "model": "glm-5.2"
+}

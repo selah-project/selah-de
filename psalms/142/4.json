@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 142,
+  "translation": "Wenn mein Geist in mir verschüttet wird, ⟨da⟩ kennst du meinen Pfad. Auf dem Weg, auf dem ich gehe, haben sie mir eine Falle versteckt.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Wenn verschüttet wird"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "über"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mein Geist"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "und ⟨da⟩ du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kennst"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "meinen Pfad"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "auf dem Weg"
+    },
+    {
+      "surface": "זו",
+      "gloss": "auf dem"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ich gehe"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "haben versteckt"
+    },
+    {
+      "surface": "פח",
+      "gloss": "eine Falle"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:56.681770439Z",
+  "model": "glm-5.2"
+}

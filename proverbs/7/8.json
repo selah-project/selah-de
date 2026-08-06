@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "vorbeigehend auf dem Markt bei ihrer Ecke, und den Weg zu ihrem Haus schritt er",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "vorbeigehend"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "auf dem Markt"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bei"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ihrer Ecke"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "und den Weg"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "zu ihrem Haus"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "schritt er"
+    }
+  ],
+  "timestamp": "2026-08-06T15:24:38.133691307Z",
+  "model": "glm-5.2"
+}

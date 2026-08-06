@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ihr sollt halten, ihr, ⟨את⟩ meine Ordnungen und ⟨את⟩ meine Rechtsbestimmungen, und ihr sollt nicht tun von all ⟨diesen⟩ Greueln, diesen, weder der Einheimische noch der Ger, der bei euch lebt.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "und ihr sollt halten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Ordnungen"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "meine Ordnungen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "meine Rechtsbestimmungen"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "meine Rechtsbestimmungen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sollt ihr tun"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "von all"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "den Greueln"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diesen"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "der Einheimische"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "und der Ger"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "der lebt"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "bei euch"
+    }
+  ],
+  "timestamp": "2026-08-06T02:12:19.823118914Z",
+  "model": "glm-5.2"
+}

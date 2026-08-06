@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und der König sandte, um zu rufen ⟨את⟩ Achimelech, den Sohn des Achitub, den Kohen, und ⟨את⟩ das ganze Haus seines Vaters, die Kohen, die in Nov waren; und sie kamen alle zum König.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Und ⟨er⟩ sandte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "um zu rufen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achimelech"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelech"
+    },
+    {
+      "surface": "בן",
+      "gloss": "den Sohn"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "des Achitub"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "den Kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das ganze Haus seines Vaters"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "seines Vaters"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die Kohen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "in Nov"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "und sie kamen"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    }
+  ],
+  "timestamp": "2026-08-06T05:41:40.039840175Z",
+  "model": "glm-5.2"
+}

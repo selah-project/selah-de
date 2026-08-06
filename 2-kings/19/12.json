@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Haben sie ⟨את⟩ sie gerettet, die Elohim der Nationen, die meine Väter vernichteten: ⟨את⟩ Gosan und ⟨את⟩ Haran und Rezef und die Söhne Edens, die in Telassar ⟨waren⟩?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Haben sie gerettet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie \/ die Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "der Nationen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "vernichteten"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "meine Väter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gosan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gosan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "und Rezef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "und die Söhne"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "in Telassar"
+    }
+  ],
+  "timestamp": "2026-08-06T08:49:11.345480831Z",
+  "model": "glm-5.2"
+}

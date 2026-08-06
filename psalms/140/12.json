@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 140,
+  "translation": "Ein Mann der Zunge — nicht ⟨wird er⟩ bestehn auf der Erde; ein Mann der Gewalttat — ⟨das⟩ Böse ⟨wird⟩ ihn jagen ⟨mit⟩ Schub um Schub.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "der Zunge"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "wird bestehn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "der Gewalttat"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "wird ihn jagen"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "Schub um Schub"
+    }
+  ],
+  "timestamp": "2026-08-06T04:24:34.441538311Z",
+  "model": "glm-5.2"
+}

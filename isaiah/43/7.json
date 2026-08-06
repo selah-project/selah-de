@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Jeder, der mit meinem Namen gerufen wird, und für meine Herrlichkeit — ihn habe ich geschaffen, ich habe ihn gebildet, ja, ihn habe ich gemacht.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Jeder"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "der gerufen wird"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "mit meinem Namen"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "und für meine Herrlichkeit"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ihn habe ich geschaffen"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "ich habe ihn gebildet"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "ihn habe ich gemacht"
+    }
+  ],
+  "timestamp": "2026-08-06T10:12:05.820370795Z",
+  "model": "glm-5.2"
+}

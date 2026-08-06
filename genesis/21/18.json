@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Steh auf, hebe ⟨את⟩ den Jungen auf und halte ⟨את⟩ deine Hand an ihm fest, denn zu einer großen Nation werde ich ihn machen.“",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "steh auf"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "hebe auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jungen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den Jungen"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "und halte fest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "בו",
+      "gloss": "an ihm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "zu einer Nation"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "großen"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "werde ich ihn machen"
+    }
+  ],
+  "timestamp": "2026-08-05T17:33:46.628420226Z",
+  "model": "glm-5.2"
+}

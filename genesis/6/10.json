@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Noach zeugte drei Söhne: ⟨את⟩ Schém, ⟨את⟩ Cham und ⟨את⟩ Jéfet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Und zeugte"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drei"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Schém"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Schém"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Jéfet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jéfet"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:31.792738780Z",
+  "model": "glm-5.2"
+}

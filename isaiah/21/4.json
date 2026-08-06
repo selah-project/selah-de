@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Mein Herz irrt umher, Schrecken hat mich erschreckt; ⟨את⟩ die Dämmerung meiner Sehnsucht hat er mir zum Zittern gemacht.",
+  "tokens": [
+    {
+      "surface": "תָּעָ֣ה",
+      "gloss": "irrt umher"
+    },
+    {
+      "surface": "לְבָבִ֔י",
+      "gloss": "Mein Herz"
+    },
+    {
+      "surface": "פַּלָּצ֖וּת",
+      "gloss": "Schrecken"
+    },
+    {
+      "surface": "בִּֽעֲתָ֑תְנִי",
+      "gloss": "hat mich erschreckt"
+    },
+    {
+      "surface": "אֵ֚ת",
+      "gloss": "⟨את⟩",
+      "marks": "die Dämmerung meiner Sehnsucht"
+    },
+    {
+      "surface": "נֶ֣שֶׁף",
+      "gloss": "die Dämmerung"
+    },
+    {
+      "surface": "חִשְׁקִ֔י",
+      "gloss": "meiner Sehnsucht"
+    },
+    {
+      "surface": "שָׂ֥ם",
+      "gloss": "hat er gemacht"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לַחֲרָדָֽה",
+      "gloss": "zum Zittern"
+    }
+  ],
+  "timestamp": "2026-08-05T21:47:25.199048860Z",
+  "model": "glm-5.2"
+}

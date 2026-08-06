@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Ich, ich bin es, der euch tröstet. Wer bist du, ⟨את⟩, dass du dich fürchtest vor dem sterbenden Menschen, und vor dem Menschensohn, der wie Gras dahinggegeben wird?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bin es"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "der euch tröstet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dass du dich fürchtest"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "bist du, dass du dich fürchtest"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "vor dem Menschen"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "der stirbt"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "und vor dem Sohn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "des Menschen"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "der wie Gras"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "dahinggegeben wird"
+    }
+  ],
+  "timestamp": "2026-08-05T21:55:32.756080495Z",
+  "model": "glm-5.2"
+}

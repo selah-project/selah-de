@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und Dawid tat, so wie Elohim ihm geboten hatte, und sie schlugen ⟨את⟩ ⟨das⟩ Lager der Pelischtim, von Givon bis Gasar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "und er tat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "gebioten hatte"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "und sie schlugen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lager der Pelischtim"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "Lager"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "von Givon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gasar"
+    }
+  ],
+  "timestamp": "2026-08-06T09:34:18.149288971Z",
+  "model": "glm-5.2"
+}

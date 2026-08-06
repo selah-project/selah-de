@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 128,
+  "translation": "Die Mühe deiner Hände, ja, ⟨die wirst du⟩ essen — glückselig ⟨bist du⟩, und ⟨es wird dir⟩ gut ⟨gehen⟩.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "die Mühe"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "deiner Hände"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wirst du essen"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "glückselig"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "und gut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-08-06T20:40:32.124396617Z",
+  "model": "glm-5.2"
+}

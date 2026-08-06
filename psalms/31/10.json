@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Sei mir gnädig, JHWH, denn ⟨ich bin⟩ in Bedrängnis; geschwunden vor Gram ⟨sind⟩ mein Auge, meine Nefesch und mein Leib.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "sei mir gnädig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "צר",
+      "gloss": "in Bedrängnis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "geschwunden"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "vor Gram"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mein Auge"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "und mein Leib"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:45.009839342Z",
+  "model": "glm-5.2"
+}

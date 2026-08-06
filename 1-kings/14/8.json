@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "und ⟨ich⟩ das Königtum ⟨את⟩ vom Haus Dawid abgerissen habe und es dir gegeben habe, und du nicht gewesen bist wie mein Knecht Dawid, der meine Gebote bewahrte und der mir nachfolgte mit seinem ganzen Herzen, um nur das Rechte zu tun in meinen Augen —",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "und ⟨ich⟩ abgerissen habe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Königtum"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "das Königtum"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "vom Haus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "und gegeben habe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "es dir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "היית",
+      "gloss": "du gewesen bist"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "wie mein Knecht"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewahrte"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "meine Gebote"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "und der"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nachfolgte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mit seinem ganzen"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "Herzen"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "um zu tun"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nur"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "das Rechte"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in meinen Augen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:26:47.554434851Z",
+  "model": "glm-5.2"
+}

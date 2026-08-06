@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und eine Frau, die irgendeinem Vieh naht, um es zu bespringen — ⟨dann⟩ sollst du ⟨את⟩ die Frau und ⟨את⟩ das Vieh töten; Tod sollen sie getötet werden, ihr Blut ⟨ist⟩ auf ihnen.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Und eine Frau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "naht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "irgendeinem"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "Vieh"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "um es zu bespringen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "damit"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "sollst du töten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Frau"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das Vieh"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "das Vieh"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Tod"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "sollen sie getötet werden"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ihr Blut"
+    },
+    {
+      "surface": "בם",
+      "gloss": "auf ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T19:27:35.083029684Z",
+  "model": "glm-5.2"
+}

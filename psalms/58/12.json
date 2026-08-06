@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 58,
+  "translation": "Und ⟨der⟩ Mensch sagt: „Fürwahr, ⟨es gibt⟩ Frucht für den Gerechten; fürwahr, ⟨es ist⟩ Elohim, der richtet auf der Erde.“",
+  "tokens": [
+    {
+      "surface": "וְיֹאמַ֣ר",
+      "gloss": "Und ⟨er⟩ sagt"
+    },
+    {
+      "surface": "אָ֭דָם",
+      "gloss": "⟨der⟩ Mensch"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "Fürwahr"
+    },
+    {
+      "surface": "פְּרִ֣י",
+      "gloss": "Frucht"
+    },
+    {
+      "surface": "לַצַּדִּ֑יק",
+      "gloss": "für den Gerechten"
+    },
+    {
+      "surface": "אַ֥ךְ",
+      "gloss": "fürwahr"
+    },
+    {
+      "surface": "יֵשׁ",
+      "gloss": "⟨es gibt⟩ \/ ⟨es ist⟩"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שֹׁפְטִ֥ים",
+      "gloss": "der richtet"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "auf der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:48.203643598Z",
+  "model": "glm-5.2"
+}

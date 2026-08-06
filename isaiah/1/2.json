@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Hört, ihr Himmel, und horch auf, du Erde, denn JHWH hat gesprochen: Söhne habe ich großgezogen und auferzogen, und sie sind von mir abgefallen.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hört"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ihr Himmel"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "und horch auf"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "du Erde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hat gesprochen"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "habe ich großgezogen"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "und auferzogen"
+    },
+    {
+      "surface": "והם",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "sind abgefallen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "von mir"
+    }
+  ],
+  "timestamp": "2026-08-06T15:51:54.967684588Z",
+  "model": "glm-5.2"
+}

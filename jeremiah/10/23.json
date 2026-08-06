@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 10:23",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Ich weiß, JHWH, dass nicht dem Menschen ⟨sein⟩ Weg ⟨gehört⟩; nicht ⟨einem⟩ Mann, der da geht, ⟨steht es zu⟩, ⟨את⟩ seinen Schritt zu richten.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ich weiß"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "dem Menschen"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "⟨sein⟩ Weg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨einem⟩ Mann"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "der da geht"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "⟨steht es zu⟩ zu richten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Schritt"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "seinen Schritt"
+    }
+  ],
+  "timestamp": "2026-08-05T22:01:59.315310798Z",
+  "model": "glm-5.2"
+}

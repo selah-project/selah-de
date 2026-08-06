@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Kusch zeugte ⟨את⟩ Nimrod. ⟨Er⟩ begann, ein Gibbor auf der Erde zu sein.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Und Kusch"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Er"
+    },
+    {
+      "surface": "החל",
+      "gloss": "begann"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "zu sein"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ein Gibbor"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "auf der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T00:03:56.278503941Z",
+  "model": "glm-5.2"
+}

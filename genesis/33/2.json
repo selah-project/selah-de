@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und er setzte ⟨את⟩ die Mägde und ⟨את⟩ ihre Kinder an erste Stelle, und ⟨את⟩ Lea und ⟨את⟩ ihre Kinder als letzte, und ⟨את⟩ Rachel und ⟨את⟩ Josef als letzte.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֧שֶׂם",
+      "gloss": "Und er setzte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Mägde"
+    },
+    {
+      "surface": "הַשְּׁפָח֛וֹת",
+      "gloss": "die Mägde"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Kinder"
+    },
+    {
+      "surface": "יַלְדֵיהֶ֖ן",
+      "gloss": "ihre Kinder"
+    },
+    {
+      "surface": "רִֽאשֹׁנָ֑ה",
+      "gloss": "an erste Stelle"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לֵאָ֤ה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וְיַלְדֶ֨יהָ֙",
+      "gloss": "und ihre Kinder"
+    },
+    {
+      "surface": "אַחֲרֹנִ֔ים",
+      "gloss": "als letzte"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רָחֵ֥ל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוֹסֵ֖ף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אַחֲרֹנִֽים",
+      "gloss": "als letzte"
+    }
+  ],
+  "timestamp": "2026-08-06T00:09:06.196942601Z",
+  "model": "glm-5.2"
+}

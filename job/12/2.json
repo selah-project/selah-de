@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Fürwahr, ⟨denn⟩ ihr ⟨seid⟩ das Volk, und mit euch wird Weisheit sterben!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Fürwahr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨denn⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "עם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "und mit euch"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "wird sterben"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Weisheit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:17:59.064734515Z",
+  "model": "glm-5.2"
+}

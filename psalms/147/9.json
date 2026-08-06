@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "⟨Er⟩ gibt dem Vieh ⟨seine⟩ Speise, den jungen Raben, die rufen.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "⟨Er⟩ gibt"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "dem Vieh"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "⟨seine⟩ Speise"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "den jungen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Raben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "rufen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:11.556832819Z",
+  "model": "glm-5.2"
+}

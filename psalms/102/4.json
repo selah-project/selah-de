@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Denn wie Rauch sind vergehend meine Tage, und meine Gebeine wie ein Feuerherd sind verbrannt.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "כָלוּ",
+      "gloss": "sind vergehend"
+    },
+    {
+      "surface": "בְעָשָׁן",
+      "gloss": "wie Rauch"
+    },
+    {
+      "surface": "יָמַי",
+      "gloss": "meine Tage"
+    },
+    {
+      "surface": "וְעַצְמוֹתַי",
+      "gloss": "und meine Gebeine"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "wie"
+    },
+    {
+      "surface": "קֵד",
+      "gloss": "ein Feuerherd"
+    },
+    {
+      "surface": "נִחָרוּ",
+      "gloss": "sind verbrannt"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:58.884345039Z",
+  "model": "glm-5.2"
+}

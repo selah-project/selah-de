@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und JHWH hörte auf Chiskijahu, und er heilte ⟨את⟩ das Volk.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Und … hörte auf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chiskijahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "und er heilte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T05:04:23.116087637Z",
+  "model": "glm-5.2"
+}

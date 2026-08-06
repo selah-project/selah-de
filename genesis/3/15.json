@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und Feindschaft lege ich zwischen dir und der Frau und zwischen deinem Samen und ihrem Samen. Er wird dir nach dem Kopf tasten, und du wirst ihm nach der Ferse tasten.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "und Feindschaft"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "lege ich"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "zwischen dir"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "der Frau"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "deinem Samen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "und zwischen"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "ihrem Samen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "wird dir … tasten"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "nach dem Kopf"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "wirst ihm … tasten"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nach der Ferse"
+    }
+  ],
+  "timestamp": "2026-08-06T09:40:13.102793646Z",
+  "model": "glm-5.2"
+}

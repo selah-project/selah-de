@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und JHWH sprach zu mir: „Fürchte ihn nicht, denn in deine Hand habe ich ⟨את⟩ ihn gegeben und ⟨את⟩ sein ganzes Volk und ⟨את⟩ sein Land; und du wirst ihm tun, wie du Sichon getan hast, dem König der Emoriter, der in Cheschbon wohnt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und … sprach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zu mir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "fürchte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in deine Hand"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "habe ich gegeben"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein ganzes Volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein Land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sein Land"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "und du wirst tun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "du getan hast"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "der Emoriter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "wohnt"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "in Cheschbon"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:48.548773474Z",
+  "model": "glm-5.2"
+}

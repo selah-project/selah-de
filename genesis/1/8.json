@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elohim nannte ⟨die⟩ Feste ‚Himmel‘. Und es ward Abend, und es ward Morgen: Tag zweiter.",
+  "tokens": [
+    {
+      "surface": "וַיִּקְרָ֥א",
+      "gloss": "Und nannte"
+    },
+    {
+      "surface": "אֱלֹהִ֛ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לָֽרָקִ֖יעַ",
+      "gloss": "⟨die⟩ Feste"
+    },
+    {
+      "surface": "שָׁמָ֑יִם",
+      "gloss": "Himmel"
+    },
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "Und es ward"
+    },
+    {
+      "surface": "עֶ֥רֶב",
+      "gloss": "Abend"
+    },
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "und es ward"
+    },
+    {
+      "surface": "בֹּ֖קֶר",
+      "gloss": "Morgen"
+    },
+    {
+      "surface": "י֥וֹם",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "שֵׁנִֽי",
+      "gloss": "zweiter"
+    }
+  ],
+  "timestamp": "2026-08-06T00:03:14.353119064Z",
+  "model": "glm-5.2"
+}

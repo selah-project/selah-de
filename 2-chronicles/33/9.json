@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 33:9",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und Menasche verführte ⟨את⟩ Jehuda und die Bewohner von Jeruschalajim, Böses zu tun, mehr als ⟨die⟩ Völker, die JHWH vor den Söhnen Jisraels ausgerottet hatte.",
+  "tokens": [
+    {
+      "surface": "ויתע",
+      "gloss": "und verführte"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "und Bewohner"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "von Jeruschalajim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zu tun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "Böses"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mehr als"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨die⟩ Völker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "ausgerottet hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T00:01:49.113197567Z",
+  "model": "glm-5.2"
+}

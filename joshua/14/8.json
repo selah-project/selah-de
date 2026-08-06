@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Und meine Brüder, die mit mir hinaufgezogen waren, ließen ⟨את⟩ das Herz des Volkes schmelzen; ich aber folgte JHWH, meinem Elohim, nach.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "Und meine Brüder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "hinaufgezogen waren"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit mir"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "ließen schmelzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Herz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "des Volkes"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ich aber"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "folgte ich … nach"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "… nach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "meinem Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:52:52.074897996Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "außer für sein Fleisch, das ihm nahe ⟨ist⟩: für seine Mutter und für seinen Vater und für seinen Sohn und für seine Tochter und für seinen Bruder.",
+  "tokens": [
+    {
+      "surface": "כִּ֚י",
+      "gloss": "außer"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "⟨wenn nicht⟩"
+    },
+    {
+      "surface": "לִשְׁאֵר֔וֹ",
+      "gloss": "für sein Fleisch"
+    },
+    {
+      "surface": "הַקָּרֹ֖ב",
+      "gloss": "das nahe"
+    },
+    {
+      "surface": "אֵלָ֑יו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לְאִמּ֣וֹ",
+      "gloss": "für seine Mutter"
+    },
+    {
+      "surface": "וּלְאָבִ֔יו",
+      "gloss": "und für seinen Vater"
+    },
+    {
+      "surface": "וְלִבְנ֥וֹ",
+      "gloss": "und für seinen Sohn"
+    },
+    {
+      "surface": "וּלְבִתּ֖וֹ",
+      "gloss": "und für seine Tochter"
+    },
+    {
+      "surface": "וּלְאָחִֽיו",
+      "gloss": "und für seinen Bruder"
+    }
+  ],
+  "timestamp": "2026-08-06T22:33:05.788958099Z",
+  "model": "glm-5.2"
+}

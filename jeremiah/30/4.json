@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Und dies sind ⟨die⟩ Worte, die JHWH zu Jisra'el und zu Jehuda geredet hat.",
+  "tokens": [
+    {
+      "surface": "וְאֵלֶּה",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "הַדְּבָרִים",
+      "gloss": "sind die Worte"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "geredet hat"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-08-06T06:12:00.237702047Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 68,
+  "translation": "Dem Chorleiter. Von Dawid. Ein Mismor, ein Schir.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dem Chorleiter"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "von Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ein Mismor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ein Schir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:11.963401264Z",
+  "model": "glm-5.2"
+}

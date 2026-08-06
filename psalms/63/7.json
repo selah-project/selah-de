@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 63,
+  "translation": "Wenn ich dein gedachte auf meinem Lager, in den Nachtwachen sinne ich über dich nach.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "זְכַרְתִּיךָ",
+      "gloss": "ich dein gedachte"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "יְצוּעָי",
+      "gloss": "meinem Lager"
+    },
+    {
+      "surface": "בְּאַשְׁמֻרוֹת",
+      "gloss": "in den Nachtwachen"
+    },
+    {
+      "surface": "אֶהְגֶּה",
+      "gloss": "sinne ich nach"
+    },
+    {
+      "surface": "בָּךְ",
+      "gloss": "über dich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:15.780188807Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "und sie sollen nicht werden wie ihre Väter, ein widerspenstiges und bitteres Geschlecht, ein Geschlecht, ⟨dessen⟩ Herz nicht bereit war, und ⟨dessen⟩ Ruach sich ⟨El⟩ gegenüber nicht als treu erwies ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sollen sie werden"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "wie ihre Väter"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ein Geschlecht"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "widerspenstiges"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "und bitteres"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Geschlecht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "bereitet ⟨war⟩"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "⟨dessen⟩ Herz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "sich … als treu erwies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "⟨dessen⟩ Ruach"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:24.530828139Z",
+  "model": "glm-5.2"
+}

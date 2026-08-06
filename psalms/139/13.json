@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 139,
+  "translation": "Denn du hast ⟨meine⟩ Nieren geschaffen, du hast mich umwoben im Leib meiner Mutter.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אַ֭תָּה",
+      "gloss": "du"
+    },
+    {
+      "surface": "קָנִ֣יתָ",
+      "gloss": "hast geschaffen"
+    },
+    {
+      "surface": "כִלְיֹתָ֑י",
+      "gloss": "⟨meine⟩ Nieren"
+    },
+    {
+      "surface": "תְּ֝סֻכֵּ֗נִי",
+      "gloss": "du hast mich umwoben"
+    },
+    {
+      "surface": "בְּבֶ֣טֶן",
+      "gloss": "im Leib"
+    },
+    {
+      "surface": "אִמִּֽי",
+      "gloss": "meiner Mutter"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:33.104229111Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und das Fett eines Verendens und das Fett eines Zerrissenen kann zu jeder Arbeit verarbeitet werden, aber essen — ⟨es⟩ sollt ihr nicht essen.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Und das Fett"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "eines Verendens"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "und das Fett"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "eines Zerrissenen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kann verarbeitet werden"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zu jeder"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "Arbeit"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "aber essen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "sollt ihr ⟨es⟩ essen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:53.988694651Z",
+  "model": "glm-5.2"
+}

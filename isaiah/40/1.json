@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Tröstet, tröstet mein Volk, spricht euer Elohim.",
+  "tokens": [
+    {
+      "surface": "נַחֲמ֥וּ",
+      "gloss": "Tröstet"
+    },
+    {
+      "surface": "נַחֲמ֖וּ",
+      "gloss": "tröstet"
+    },
+    {
+      "surface": "עַמִּ֑י",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "יֹאמַ֖ר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T10:11:52.212787877Z",
+  "model": "glm-5.2"
+}

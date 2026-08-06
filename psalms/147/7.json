@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "Singt JHWH im Dank! Spielt unserem Elohim ⟨auf⟩ der Leier!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Singt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "im Dank"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "Spielt"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "unserem Elohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "⟨auf⟩ der Leier"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:25.157662933Z",
+  "model": "glm-5.2"
+}

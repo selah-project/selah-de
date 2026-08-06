@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Mikal ließ ⟨את⟩ Dawid durch das Fenster hinab, und er ging und floh und entrann.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Und ließ hinab"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "durch"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "das Fenster"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und er ging"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "und floh"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "und entrann"
+    }
+  ],
+  "timestamp": "2026-08-06T08:38:58.206584904Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Hört ⟨את⟩ die Worte ⟨von⟩ dieser Brit, und sprecht ⟨sie⟩ zum Mann von Jehuda und zu ⟨den⟩ Bewohnern von Jeruschalajim:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "⟨von⟩ dieser Brit"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dieser"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "und sprecht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sie⟩ zum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨den⟩ Bewohnern"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "von Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-06T03:28:15.780428105Z",
+  "model": "glm-5.2"
+}

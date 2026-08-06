@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und du sollst deinem Sohn erzählen an jenem Tag, ⟨und⟩ sagen: „Wegen dies tat JHWH für mich bei meinem Auszug aus Mizrajim.“",
+  "tokens": [
+    {
+      "surface": "וְהִגַּדְתָּ֣",
+      "gloss": "Und du sollst erzählen"
+    },
+    {
+      "surface": "לְבִנְךָ֔",
+      "gloss": "deinem Sohn"
+    },
+    {
+      "surface": "בַּיּ֥וֹם",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "הַה֖וּא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "⟨und⟩ sagen"
+    },
+    {
+      "surface": "בַּעֲב֣וּר",
+      "gloss": "Wegen"
+    },
+    {
+      "surface": "זֶ֗ה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "עָשָׂ֤ה",
+      "gloss": "tat"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "für mich"
+    },
+    {
+      "surface": "בְּצֵאתִ֖י",
+      "gloss": "bei meinem Auszug"
+    },
+    {
+      "surface": "מִמִּצְרָֽיִם",
+      "gloss": "aus Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T20:18:04.466139527Z",
+  "model": "glm-5.2"
+}

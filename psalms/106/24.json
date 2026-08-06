@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und sie verachteten ⟨ das ⟩ Land der Begierde, ⟨ sie ⟩ glaubten seinem Wort nicht.",
+  "tokens": [
+    {
+      "surface": "וַֽ֭יִּמְאֲסוּ",
+      "gloss": "Und sie verachteten"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "חֶמְדָּ֑ה",
+      "gloss": "der Begierde"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "הֶ֝אֱמִ֗ינוּ",
+      "gloss": "glaubten"
+    },
+    {
+      "surface": "לִדְבָרֽוֹ",
+      "gloss": "seinem Wort"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:42.765266502Z",
+  "model": "glm-5.2"
+}

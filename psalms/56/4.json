@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 56,
+  "translation": "Am Tag, da ich mich fürchte, vertraue ich auf dich.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Am Tag"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "da ich mich fürchte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "vertraue ich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:38.855235447Z",
+  "model": "glm-5.2"
+}

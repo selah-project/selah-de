@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 12:5",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Denn mit Fußgängern bist du ⟨את⟩ gelaufen, und sie haben dich ermüdet — und wie willst du wetteifern mit ⟨את⟩ den Pferden? Und in einem Land des Schalom fühlst du dich sicher — und wie willst du es machen im stolzen Dickicht des Jardén?",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Fußgänger"
+    },
+    {
+      "surface": "רַגְלִ֥ים",
+      "gloss": "Fußgängern"
+    },
+    {
+      "surface": "רַצְתָּה֙",
+      "gloss": "bist du gelaufen"
+    },
+    {
+      "surface": "וַיַּלְא֔וּךָ",
+      "gloss": "und sie haben dich ermüdet"
+    },
+    {
+      "surface": "וְאֵ֥יךְ",
+      "gloss": "und wie"
+    },
+    {
+      "surface": "תְּתַֽחֲרֶ֖ה",
+      "gloss": "willst du wetteifern"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Pferde"
+    },
+    {
+      "surface": "הַסּוּסִ֑ים",
+      "gloss": "den Pferden"
+    },
+    {
+      "surface": "וּבְאֶ֤רֶץ",
+      "gloss": "Und in einem Land"
+    },
+    {
+      "surface": "שָׁלוֹם֙",
+      "gloss": "des Schalom"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בוֹטֵ֔חַ",
+      "gloss": "fühlst du dich sicher"
+    },
+    {
+      "surface": "וְאֵ֥יךְ",
+      "gloss": "und wie"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֖ה",
+      "gloss": "willst du es machen"
+    },
+    {
+      "surface": "בִּגְא֥וֹן",
+      "gloss": "im stolzen Dickicht"
+    },
+    {
+      "surface": "הַיַּרְדֵּֽן",
+      "gloss": "des Jardén"
+    }
+  ],
+  "timestamp": "2026-08-05T22:02:58.449039424Z",
+  "model": "glm-5.2"
+}

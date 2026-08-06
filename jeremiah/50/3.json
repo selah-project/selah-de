@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 50:3",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Denn ein Volk ist gegen sie heraufgezogen aus dem Norden. ⟨Er⟩ macht ihr Land zur Wüste, und niemand wird darin wohnen — vom Menschen bis zum Vieh: sie sind geflohen, sie haben sich davongemacht.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ist heraufgezogen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "gegen sie"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "aus dem Norden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Er⟩"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "macht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Land"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ihr Land"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "zur Wüste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wird ⟨sein⟩"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bewohner"
+    },
+    {
+      "surface": "בה",
+      "gloss": "darin"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "vom Menschen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "zum Vieh"
+    },
+    {
+      "surface": "נדו",
+      "gloss": "sie sind geflohen"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "sie haben sich davongemacht"
+    }
+  ],
+  "timestamp": "2026-08-05T22:14:04.366631423Z",
+  "model": "glm-5.2"
+}

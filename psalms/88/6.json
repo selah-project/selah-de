@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 88,
+  "translation": "Unter den Toten ⟨bin⟩ ich freigelassen, wie Erschlagene, die im Grab liegen, die du nicht mehr gedenkst — und sie sind durch deine Hand abgeschnitten.",
+  "tokens": [
+    {
+      "surface": "בַּמֵּתִ֗ים",
+      "gloss": "Unter den Toten"
+    },
+    {
+      "surface": "חָ֫פְשִׁ֥י",
+      "gloss": "ich freigelassen"
+    },
+    {
+      "surface": "כְּמ֤וֹ",
+      "gloss": "wie"
+    },
+    {
+      "surface": "חֲלָלִ֨ים",
+      "gloss": "Erschlagene"
+    },
+    {
+      "surface": "שֹׁ֥כְבֵי",
+      "gloss": "die … liegen"
+    },
+    {
+      "surface": "קֶ֗בֶר",
+      "gloss": "im Grab"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "זְכַרְתָּ֣ם",
+      "gloss": "du … gedenkst"
+    },
+    {
+      "surface": "ע֑וֹד",
+      "gloss": "mehr"
+    },
+    {
+      "surface": "וְ֝הֵ֗מָּה",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "מִיָּדְךָ֥",
+      "gloss": "durch deine Hand"
+    },
+    {
+      "surface": "נִגְזָֽרוּ",
+      "gloss": "sind abgeschnitten"
+    }
+  ],
+  "timestamp": "2026-08-06T09:18:41.704580675Z",
+  "model": "glm-5.2"
+}

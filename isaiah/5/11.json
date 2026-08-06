@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Wehe denen, die früh am Morgen aufstehen, Rauschtrank ⟨nach⟩zujagen; die sich hinhalten bis in die Dämmerung, Wein entflammt sie.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wehe"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "denen, die früh aufstehen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "am Morgen"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Rauschtrank"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "⟨nach⟩zujagen"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "die sich hinhalten bis"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "in die Dämmerung"
+    },
+    {
+      "surface": "יין",
+      "gloss": "Wein"
+    },
+    {
+      "surface": "ידליקם",
+      "gloss": "entflammt sie"
+    }
+  ],
+  "timestamp": "2026-08-05T21:43:28.539674013Z",
+  "model": "glm-5.2"
+}

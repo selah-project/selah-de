@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 38:14",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Wie eine Schwalbe, ⟨wie⟩ ein Kranich — so zwitschere ich, ich murmle wie eine Taube; meine Augen schmachten zur Höhe: Adonai, Bedrängnis ⟨ist⟩ mir — tritt ⟨du⟩ für mich ein!",
+  "tokens": [
+    {
+      "surface": "כְּס֤וּס",
+      "gloss": "wie ein Kranich"
+    },
+    {
+      "surface": "עָגוּר֙",
+      "gloss": "⟨wie⟩ eine Schwalbe"
+    },
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "אֲצַפְצֵ֔ף",
+      "gloss": "zwitschere ich"
+    },
+    {
+      "surface": "אֶהְגֶּ֖ה",
+      "gloss": "ich murmle"
+    },
+    {
+      "surface": "כַּיּוֹנָ֑ה",
+      "gloss": "wie eine Taube"
+    },
+    {
+      "surface": "דַּלּ֤וּ",
+      "gloss": "schmachten"
+    },
+    {
+      "surface": "עֵינַי֙",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "לַמָּר֔וֹם",
+      "gloss": "zur Höhe"
+    },
+    {
+      "surface": "אֲדֹנָ֖י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עָֽשְׁקָה",
+      "gloss": "Bedrängnis"
+    },
+    {
+      "surface": "לִּ֥י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "עָרְבֵֽנִי",
+      "gloss": "tritt für mich ein"
+    }
+  ],
+  "timestamp": "2026-08-06T01:47:57.872691654Z",
+  "model": "glm-5.2"
+}

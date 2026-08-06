@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Aber vom Baum der Erkenntnis von Gut und Böse sollst du nicht essen — denn an dem Tag, an dem du davon isst, sterben wirst du sterben.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "aber vom Baum"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "der Erkenntnis"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "von Gut"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "und Böse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sollst du essen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "davon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "an dem Tag"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "deines Essens"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "davon"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sterben"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "wirst du sterben"
+    }
+  ],
+  "timestamp": "2026-08-06T08:12:19.845047479Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Sonne und Mond haben sich verdunkelt, und die Sterne haben ihren Glanz zurückgezogen.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Sonne"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "und Mond"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "haben sich verdunkelt"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "und die Sterne"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "haben zurückgezogen"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "ihren Glanz"
+    }
+  ],
+  "timestamp": "2026-08-06T03:59:16.631276195Z",
+  "model": "glm-5.2"
+}

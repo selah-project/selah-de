@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und ich ging hinab zum Haus des Töpfers, und siehe, ⟨da war er⟩: er machte ⟨eine⟩ Arbeit auf den Steinen.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "Und ich ging hinab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zum Haus"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "des Töpfers"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "und siehe, ⟨da war er⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er machte"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "⟨eine⟩ Arbeit"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "den Steinen"
+    }
+  ],
+  "timestamp": "2026-08-06T03:28:43.172344381Z",
+  "model": "glm-5.2"
+}

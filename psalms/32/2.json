@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Wie glücklich ⟨ist⟩ der Mensch, dem JHWH ⟨keine⟩ Schuld zurechnet, und in dessen Ruach kein Trug ⟨ist⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Wie glücklich"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "לא",
+      "gloss": "keine"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "zurechnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ihm⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "Schuld"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es ist⟩ kein"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "in dessen Ruach"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "Trug"
+    }
+  ],
+  "timestamp": "2026-08-05T22:48:01.295916272Z",
+  "model": "glm-5.2"
+}

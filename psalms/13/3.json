@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Bis wann werde ich Ratschläge in meiner Nefesch legen, Kummer in meinem Herzen, täglich? Bis wann wird mein Feind über mich erhoben sein?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "wann"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "werde ich legen"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "Ratschläge"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "in meiner Nefesch"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "Kummer"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "in meinem Herzen"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "täglich"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Bis"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "wann"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "wird erhoben sein"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mein Feind"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "über mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:55.743460684Z",
+  "model": "glm-5.2"
+}

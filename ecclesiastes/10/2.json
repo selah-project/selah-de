@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Das Herz des Weisen ⟨neigt⟩ zu seiner Rechten, und das Herz des Toren zu seiner Linken.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Das Herz"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "des Weisen"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "zu seiner Rechten"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "und das Herz"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "des Toren"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "zu seiner Linken"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:22.276570509Z",
+  "model": "glm-5.2"
+}

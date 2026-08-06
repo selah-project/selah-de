@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 52,
+  "translation": "Und Nebusaradan, der Rab-Tabachim, nahm sie und führte sie zum König von Bawel, ⟨nach⟩ Ribla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "und nahm"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "Nebusaradan als Objekt des Nehmens — das Suffix verweist auf die Gefangenen aus V. 25"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebusaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "der Vorsteher"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "der Henker"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "und führte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "die Gefangenen als das geführte Objekt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "von Bawel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Ribla"
+    }
+  ],
+  "timestamp": "2026-08-05T22:15:23.629881670Z",
+  "model": "glm-5.2"
+}

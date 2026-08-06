@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Nicht sollst du dir machen ein Götzenbild, irgendeine Gestalt von allem, was in den Himmeln ist von oben, und was auf der Erde ist von unten, und was in den Wassern ist von unten zur Erde hin.",
+  "tokens": [
+    {
+      "surface": "לֹֽ֣א",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תַעֲשֶׂ֥ה",
+      "gloss": "sollst du machen"
+    },
+    {
+      "surface": "לְךָ֥",
+      "gloss": "dir"
+    },
+    {
+      "surface": "פֶ֨סֶל֙",
+      "gloss": "ein Götzenbild"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "irgendeine"
+    },
+    {
+      "surface": "תְּמוּנָ֔ה",
+      "gloss": "Gestalt"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "von allem, was"
+    },
+    {
+      "surface": "בַּשָּׁמַ֨יִם֙",
+      "gloss": "in den Himmeln"
+    },
+    {
+      "surface": "מִמַּ֔עַל",
+      "gloss": "von oben"
+    },
+    {
+      "surface": "וַאֲשֶׁ֥ר",
+      "gloss": "und was"
+    },
+    {
+      "surface": "בָּאָ֖רֶץ",
+      "gloss": "auf der Erde"
+    },
+    {
+      "surface": "מִתָּ֑חַת",
+      "gloss": "von unten"
+    },
+    {
+      "surface": "וַאֲשֶׁ֥ר",
+      "gloss": "und was"
+    },
+    {
+      "surface": "בַּמַּ֖יִם",
+      "gloss": "in den Wassern"
+    },
+    {
+      "surface": "מִתַּ֥חַת",
+      "gloss": "von unten"
+    },
+    {
+      "surface": "לָאָֽרֶץ",
+      "gloss": "zur Erde hin"
+    }
+  ],
+  "timestamp": "2026-08-06T15:41:46.487785910Z",
+  "model": "glm-5.2"
+}

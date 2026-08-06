@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Bilam erhob ⟨את⟩ seine Augen und sah ⟨את⟩ Jisra'el, wohnen nach seinen Stämmen, und ⟨es⟩ kam über ihn Ruach Elohim.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "und erhob"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Augen"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "seine Augen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "wohnen"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "nach seinen Stämmen"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "und ⟨es⟩ kam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "über ihn"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:37:49.139123728Z",
+  "model": "glm-5.2"
+}

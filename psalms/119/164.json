@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Siebenmal am Tag lobe ich dich wegen deiner gerechten Rechtsprechung.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "Siebenmal"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "lobe ich dich"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "deiner Rechtsprechung"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "gerechten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:53.193497570Z",
+  "model": "glm-5.2"
+}

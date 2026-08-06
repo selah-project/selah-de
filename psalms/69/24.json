@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Verfinstert seien ihre Augen vom Sehen, und ihre Lenden lass stets wanken.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "Verfinstert seien"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ihre Augen"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "vom Sehen"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "und ihre Lenden"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stets"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "lass wanken"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:17.911557242Z",
+  "model": "glm-5.2"
+}

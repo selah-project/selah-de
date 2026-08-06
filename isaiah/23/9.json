@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 23:9",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "JHWH der Heerscharen hat ⟨es⟩ beschlossen, um den Hochmut allen Glanzes zu entweihen, alle Geehrten der Erde gering zu machen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "יעצה",
+      "gloss": "hat ⟨es⟩ beschlossen"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "um zu entweihen"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "den Hochmut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "Glanzes"
+    },
+    {
+      "surface": "להקל",
+      "gloss": "gering zu machen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "Geehrten"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-06T10:10:09.341148090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Elohim hat ihren Weg verstanden, und ⟨er⟩ kennt ⟨את⟩ ihren Ort.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "hat verstanden"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "ihren Weg"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "und ⟨er⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kennt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihren Ort"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "ihren Ort"
+    }
+  ],
+  "timestamp": "2026-08-06T07:03:33.270042968Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Hört, ihr Fernen, was ich getan habe, und erkennt, ihr Nahen, meine Macht!",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֥וּ",
+      "gloss": "Hört"
+    },
+    {
+      "surface": "רְחוֹקִ֖ים",
+      "gloss": "ihr Fernen"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עָשִׂ֑יתִי",
+      "gloss": "ich getan habe"
+    },
+    {
+      "surface": "וּדְע֥וּ",
+      "gloss": "und erkennt"
+    },
+    {
+      "surface": "קְרוֹבִ֖ים",
+      "gloss": "ihr Nahen"
+    },
+    {
+      "surface": "גְּבֻרָתִֽי",
+      "gloss": "meine Macht"
+    }
+  ],
+  "timestamp": "2026-08-06T03:16:50.900472763Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und sie kam zu ihrer Schwiegermutter, und ⟨jene⟩ sagte: „Wer bist ⟨du⟩, ⟨את⟩ meine Tochter?\" Und sie erzählte ihr ⟨את⟩ alles, was der Mann für sie getan hatte.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "Und sie kam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "ihrer Schwiegermutter"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "und ⟨jene⟩ sagte"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Tochter"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "bist ⟨du⟩, meine Tochter"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "Und sie erzählte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ihr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "getan hatte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "für sie"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    }
+  ],
+  "timestamp": "2026-08-06T22:48:05.960435256Z",
+  "model": "glm-5.2"
+}

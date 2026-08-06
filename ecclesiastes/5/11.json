@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Süß ist der Schlaf des Arbeiters, ob er wenig oder viel isst; doch die Sättigung des Reichen lässt ihn nicht schlafen.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "Süß"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ist der Schlaf"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "des Arbeiters"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wenig"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "oder"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "viel"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "isst"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "doch die Sättigung"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "des Reichen"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "lässt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihn"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "schlafen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:09.068801914Z",
+  "model": "glm-5.2"
+}

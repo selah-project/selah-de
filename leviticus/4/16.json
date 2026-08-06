@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und der gesalbte Kohen bringt von dem Blut des Stieres ⟨hin⟩ein zum Zelt der Begegnung.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Und ⟨er⟩ bringt ⟨hin⟩ein"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "der gesalbte"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "von dem Blut"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "des Stieres"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "dem Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:03.730530940Z",
+  "model": "glm-5.2"
+}

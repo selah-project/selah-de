@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Und er stellte ⟨את⟩ das ganze Volk auf, jeden ⟨Mann⟩ mit seiner Waffe in seiner Hand, von der Schulter des Hauses rechts bis zur Schulter des Hauses links, beim Altar und beim Haus, rund um den König.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "und er stellte auf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das ganze Volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "das ganze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Volk"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "und jeder"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "seine Waffe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in seiner Hand"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "von der Schulter"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "rechts"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "⟨zur⟩ Schulter"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "links"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "beim Altar"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "und beim Haus"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rund"
+    }
+  ],
+  "timestamp": "2026-08-05T23:59:07.543370813Z",
+  "model": "glm-5.2"
+}

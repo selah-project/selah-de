@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Söhne von Asna, Söhne ⟨von⟩ Meunim, Söhne von Nefisim.",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "Söhne von"
+    },
+    {
+      "surface": "אַסְנָ֥ה",
+      "gloss": "Asna"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "⟨von⟩ Meunim"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "Söhne von"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "Nefisim"
+    }
+  ],
+  "timestamp": "2026-08-05T23:38:53.143543628Z",
+  "model": "glm-5.2"
+}

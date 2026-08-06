@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und Mosche tat ⟨es⟩; gemäß allem, was JHWH ihm geboten hatte, so tat er.",
+  "tokens": [
+    {
+      "surface": "ועש",
+      "gloss": "und ⟨er⟩ tat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gemäß allem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "ihn (Mosche)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tat er"
+    }
+  ],
+  "timestamp": "2026-08-05T20:18:27.539075892Z",
+  "model": "glm-5.2"
+}

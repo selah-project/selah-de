@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und die Söhne von Reuwen bauten ⟨את⟩ Cheschbon und ⟨את⟩ Elale und ⟨את⟩ Kirjatim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Und die Söhne von"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuwen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bauten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheschbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheschbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Kirjatim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kirjatim"
+    }
+  ],
+  "timestamp": "2026-08-06T14:55:28.372043409Z",
+  "model": "glm-5.2"
+}

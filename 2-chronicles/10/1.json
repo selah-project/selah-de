@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und Rechawam ging nach Schekem, denn nach Schekem war ganz Jisra'el gekommen, um ⟨ihn⟩ zum König zu machen — ⟨את⟩ ihn.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "und ging"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechawam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "nach Schekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "nach Schekem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "war gekommen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "um zum König zu machen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-06T07:25:33.680189999Z",
+  "model": "glm-5.2"
+}

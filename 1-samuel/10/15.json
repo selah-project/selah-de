@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und der Onkel Schauls sagte: „Berichte mir doch, was Schmuël zu euch gesagt hat.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "der Onkel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schauls"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Berichte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesagt hat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "zu euch"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuël"
+    }
+  ],
+  "timestamp": "2026-08-06T01:04:55.967625646Z",
+  "model": "glm-5.2"
+}

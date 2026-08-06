@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Anstelle meiner Liebe verklagen sie mich — und ich ⟨bin⟩ Tefila.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Anstelle"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "meiner Liebe"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "verklagen sie mich"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "⟨bin⟩ Tefila"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:48.645853843Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ich werde ⟨את⟩ eure Söhne und ⟨את⟩ eure Töchter in die Hand der Söhne Jehudas verkaufen, und sie werden sie an die Söhne Schewas verkaufen, an ein fernes Volk — denn JHWH hat gesprochen.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "und ich werde verkaufen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eure Söhne"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "eure Söhne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eure Töchter"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "eure Töchter"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die Hand"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "und sie werden sie verkaufen"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "an die Söhne Schewas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "fernes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hat gesprochen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:32:49.845590756Z",
+  "model": "glm-5.2"
+}

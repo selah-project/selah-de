@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Wer ⟨seinen⟩ Vater beraubt ⟨und⟩ ⟨seine⟩ Mutter verjagt — ⟨ein⟩ Sohn, ⟨der⟩ Schande bringt und Schmach.",
+  "tokens": [
+    {
+      "surface": "מְֽשַׁדֶּד",
+      "gloss": "beraubt"
+    },
+    {
+      "surface": "אָ֭ב",
+      "gloss": "Vater"
+    },
+    {
+      "surface": "יַבְרִ֣יחַ",
+      "gloss": "verjagt"
+    },
+    {
+      "surface": "אֵ֑ם",
+      "gloss": "Mutter"
+    },
+    {
+      "surface": "בֵּ֝֗ן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "מֵבִ֥ישׁ",
+      "gloss": "Schande bringt"
+    },
+    {
+      "surface": "וּמַחְפִּֽיר",
+      "gloss": "und Schmach"
+    }
+  ],
+  "timestamp": "2026-08-06T04:29:08.223224490Z",
+  "model": "glm-5.2"
+}

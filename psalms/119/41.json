@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Und es möge mir entgegenkommen dein Chessed, JHWH, deine Rettung nach deinem Wort.",
+  "tokens": [
+    {
+      "surface": "וִֽיבֹאֻ֣נִי",
+      "gloss": "und es möge mir entgegenkommen"
+    },
+    {
+      "surface": "חֲסָדֶ֣ךָ",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תְּ֝שׁוּעָתְךָ֗",
+      "gloss": "deine Rettung"
+    },
+    {
+      "surface": "כְּאִמְרָתֶֽךָ",
+      "gloss": "nach deinem Wort"
+    }
+  ],
+  "timestamp": "2026-08-06T04:21:45.669161460Z",
+  "model": "glm-5.2"
+}

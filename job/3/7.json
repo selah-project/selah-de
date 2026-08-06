@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Siehe, jene Nacht sei unfruchtbar, kein Jubelruf soll in sie kommen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "Nacht"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jene"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "sei"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "unfruchtbar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kein"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "soll kommen"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "Jubelruf"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in sie"
+    }
+  ],
+  "timestamp": "2026-08-06T04:32:13.734266590Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Dawid versammelte erneut ⟨את⟩ alle Ausgewählten in Jisra'el, dreißigtausend.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "und versammelte erneut"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "erneut"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Ausgewählten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "Ausgewählten"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisra'el"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dreißig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    }
+  ],
+  "timestamp": "2026-08-05T21:18:04.997119581Z",
+  "model": "glm-5.2"
+}

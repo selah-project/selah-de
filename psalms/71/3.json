@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "Sei mir ⟨als⟩ Fels ⟨und⟩ Wohnstatt, ⟨um⟩ stets ⟨zu dir⟩ zu kommen — du hast ⟨den Befehl⟩ gegeben, mich zu retten; denn mein Fels und meine Festung bist du.",
+  "tokens": [
+    {
+      "surface": "הֱיֵ֤ה",
+      "gloss": "Sei"
+    },
+    {
+      "surface": "לִ֨י",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לְצ֥וּר",
+      "gloss": "⟨als⟩ Fels"
+    },
+    {
+      "surface": "מָע֡וֹן",
+      "gloss": "⟨und⟩ Wohnstatt"
+    },
+    {
+      "surface": "לָב֗וֹא",
+      "gloss": "zu kommen"
+    },
+    {
+      "surface": "תָּמִ֗יד",
+      "gloss": "stets"
+    },
+    {
+      "surface": "צִוִּ֥יתָ",
+      "gloss": "hast ⟨den Befehl⟩ gegeben"
+    },
+    {
+      "surface": "לְהוֹשִׁיעֵ֑נִי",
+      "gloss": "mich zu rette"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "סַלְעִ֖י",
+      "gloss": "mein Fels"
+    },
+    {
+      "surface": "וּמְצוּדָתִ֣י",
+      "gloss": "und meine Festung"
+    },
+    {
+      "surface": "אָֽתָּה",
+      "gloss": "bist du"
+    }
+  ],
+  "timestamp": "2026-08-06T09:17:24.217641678Z",
+  "model": "glm-5.2"
+}

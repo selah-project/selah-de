@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und die Kohen brachten ⟨את⟩ die Lade des Brit von JHWH an ihren Ort, in den Debir des Hauses, in das Qodesch der Qodaschim, unter die Flügel der Kerubim.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Und ⟨sie⟩ brachten"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade des Brit von JHWH"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "des Brit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ihren Ort"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "den Debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "das Qodesch"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "der Qodaschim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unter"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "die Flügel"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "der Kerubim"
+    }
+  ],
+  "timestamp": "2026-08-06T01:23:37.051712760Z",
+  "model": "glm-5.2"
+}

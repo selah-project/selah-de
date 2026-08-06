@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und JHWH, unser Elohim, gab in unsere Hand auch ⟨את⟩ Og, den König von Baschan, und ⟨את⟩ sein ganzes Volk; und wir schlugen ihn, bis ⟨kein⟩ Entkommener ihm übrig blieb.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Und … gab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "unser Elohim"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "in unsere Hand"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "den König"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "von Baschan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein ganzes Volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sein Volk"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "und wir schlugen ihn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "⟨kein⟩"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "übrig blieb"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ein Entkommener"
+    }
+  ],
+  "timestamp": "2026-08-05T20:42:48.548882667Z",
+  "model": "glm-5.2"
+}

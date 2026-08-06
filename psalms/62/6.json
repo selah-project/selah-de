@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Nur ⟨auf⟩ Elohim ⟨hin⟩ schweigt meine Nefesch; denn von ihm ⟨kommt⟩ meine Hoffnung.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨auf⟩ Elohim ⟨hin⟩"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "schweigt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "meine Hoffnung"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:44.779714280Z",
+  "model": "glm-5.2"
+}

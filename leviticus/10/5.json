@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und sie traten heran und hoben sie auf in ihren Kutten ⟨hinaus⟩ nach draußen zum Lager, wie Mosche geredet hatte.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּקְרְב֗וּ",
+      "gloss": "Und sie traten heran"
+    },
+    {
+      "surface": "וַיִּשָּׂאֻם֙",
+      "gloss": "und hoben sie auf"
+    },
+    {
+      "surface": "בְּכֻתֳּנֹתָ֔ם",
+      "gloss": "in ihren Kutten"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "nach"
+    },
+    {
+      "surface": "מִח֖וּץ",
+      "gloss": "draußen"
+    },
+    {
+      "surface": "לַֽמַּחֲנֶ֑ה",
+      "gloss": "zum Lager"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֖ר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "geredet hatte"
+    },
+    {
+      "surface": "מֹשֶֽׁה",
+      "gloss": "Mosche"
+    }
+  ],
+  "timestamp": "2026-08-06T05:19:29.497879531Z",
+  "model": "glm-5.2"
+}

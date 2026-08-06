@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 130,
+  "translation": "Denn bei dir ⟨ist⟩ die Vergebung, damit man dich fürchte.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "עִמְּךָ֥",
+      "gloss": "bei dir"
+    },
+    {
+      "surface": "הַסְּלִיחָ֑ה",
+      "gloss": "die Vergebung"
+    },
+    {
+      "surface": "לְמַ֗עַן",
+      "gloss": "damit"
+    },
+    {
+      "surface": "תִּוָּרֵֽא",
+      "gloss": "man dich fürchte"
+    }
+  ],
+  "timestamp": "2026-08-06T06:51:13.532145638Z",
+  "model": "glm-5.2"
+}

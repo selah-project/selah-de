@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Darum werde ich ⟨ihre⟩ Frauen anderen geben und ⟨ihre⟩ Felder denen, die ⟨sie⟩ erben; denn vom Kleinen bis zum Großen, ⟨alle⟩ tragen Gewinn ab, vom Nawi bis zum Kohen, ⟨alle⟩ tun Trug.",
+  "tokens": [
+    {
+      "surface": "לָכֵן֩",
+      "gloss": "Darum"
+    },
+    {
+      "surface": "אֶתֵּ֨ן",
+      "gloss": "werde ich geben"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Frauen"
+    },
+    {
+      "surface": "נְשֵׁיהֶ֜ם",
+      "gloss": "⟨ihre⟩ Frauen"
+    },
+    {
+      "surface": "לַאֲחֵרִ֗ים",
+      "gloss": "anderen"
+    },
+    {
+      "surface": "שְׂדֽוֹתֵיהֶם֙",
+      "gloss": "⟨ihre⟩ Felder"
+    },
+    {
+      "surface": "לְי֣וֹרְשִׁ֔ים",
+      "gloss": "denen, die ⟨sie⟩ erben"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מִקָּטֹן֙",
+      "gloss": "vom Kleinen"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "גָּד֔וֹל",
+      "gloss": "zum Großen"
+    },
+    {
+      "surface": "כֻּלֹּ֖ה",
+      "gloss": "⟨alle⟩"
+    },
+    {
+      "surface": "בֹּצֵ֣עַ",
+      "gloss": "tragen Gewinn ab"
+    },
+    {
+      "surface": "בָּ֑צַע",
+      "gloss": "Gewinn"
+    },
+    {
+      "surface": "מִנָּבִיא֙",
+      "gloss": "vom Nawi"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "כֹּהֵ֔ן",
+      "gloss": "zum Kohen"
+    },
+    {
+      "surface": "כֻּלֹּ֖ה",
+      "gloss": "⟨alle⟩"
+    },
+    {
+      "surface": "עֹ֥שֶׂה",
+      "gloss": "tun"
+    },
+    {
+      "surface": "שָּֽׁקֶר",
+      "gloss": "Trug"
+    }
+  ],
+  "timestamp": "2026-08-06T06:07:21.646433874Z",
+  "model": "glm-5.2"
+}

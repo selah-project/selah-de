@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "und der Name des anderen Eliëser, denn ⟨der⟩ Elohim meines Vaters ⟨war⟩ meine Hilfe, und ⟨er⟩ rettete mich vom Schwert Paros",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "und der Name"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "des anderen"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliëser"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meines Vaters"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "meine Hilfe"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "und ⟨er⟩ rettete mich"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "vom Schwert"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paros"
+    }
+  ],
+  "timestamp": "2026-08-06T15:38:33.309221261Z",
+  "model": "glm-5.2"
+}

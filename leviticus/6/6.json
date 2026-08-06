@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Ein beständiges Feuer soll auf dem Altar brennen, ⟨es⟩ soll nicht erlöschen.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "beständig"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "soll brennen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dem Altar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "soll ⟨es⟩ erlöschen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:43.346523615Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und Schaul sprach: „Höre doch, Sohn des Achitub.“ Und ⟨jener⟩ sprach: „Hier bin ich, mein Adonai.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Höre"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "des Achitub"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨jener⟩ sprach"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hier bin ich"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Adonai"
+    }
+  ],
+  "timestamp": "2026-08-06T05:41:40.040071217Z",
+  "model": "glm-5.2"
+}

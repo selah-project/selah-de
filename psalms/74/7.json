@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 74,
+  "translation": "Sie schleuderten Feuer ⟨in⟩ dein Heiligtum; ⟨bis⟩ zur Erde entweihten sie ⟨die⟩ Wohnung deines Namens.",
+  "tokens": [
+    {
+      "surface": "שִׁלְח֣וּ",
+      "gloss": "sie schleuderten"
+    },
+    {
+      "surface": "בָ֭אֵשׁ",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "מִקְדָּשֶׁ֑ךָ",
+      "gloss": "dein Heiligtum"
+    },
+    {
+      "surface": "לָ֝אָ֗רֶץ",
+      "gloss": "bis zur Erde"
+    },
+    {
+      "surface": "חִלְּל֥וּ",
+      "gloss": "entweihten sie"
+    },
+    {
+      "surface": "מִֽשְׁכַּן",
+      "gloss": "⟨die⟩ Wohnung"
+    },
+    {
+      "surface": "שְׁמֶֽךָ",
+      "gloss": "deines Namens"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:47.278042065Z",
+  "model": "glm-5.2"
+}

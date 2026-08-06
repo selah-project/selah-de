@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "und ⟨die ganze⟩ Araba, ⟨die Region⟩ jenseits des Jardens, nach Osten, und bis zum Meer der Araba, unterhalb der Abhänge des Pisga.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "und ⟨die ganze⟩"
+    },
+    {
+      "surface": "הָ֨עֲרָבָ֜ה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "עֵ֤בֶר",
+      "gloss": "⟨die Region⟩ jenseits"
+    },
+    {
+      "surface": "הַיַּרְדֵּן֙",
+      "gloss": "des Jardens"
+    },
+    {
+      "surface": "מִזְרָ֔חָה",
+      "gloss": "nach Osten"
+    },
+    {
+      "surface": "וְעַ֖ד",
+      "gloss": "und bis"
+    },
+    {
+      "surface": "יָ֣ם",
+      "gloss": "zum Meer"
+    },
+    {
+      "surface": "הָעֲרָבָ֑ה",
+      "gloss": "der Araba"
+    },
+    {
+      "surface": "תַּ֖חַת",
+      "gloss": "unterhalb"
+    },
+    {
+      "surface": "אַשְׁדֹּ֥ת",
+      "gloss": "der Abhänge"
+    },
+    {
+      "surface": "הַפִּסְגָּֽה",
+      "gloss": "des Pisga"
+    }
+  ],
+  "timestamp": "2026-08-06T02:23:37.638422569Z",
+  "model": "glm-5.2"
+}

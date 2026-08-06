@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 3:15",
+  "book": "esther",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Die Läufer zogen aus, angetrieben ⟨durch⟩ das Wort des Königs, und ⟨die⟩ Anordnung wurde in Schuschan ⟨der⟩ Residenz gegeben. Und der König und Haman saßen, um zu trinken, ⟨aber⟩ die Stadt Schuschan war bestürzt.",
+  "tokens": [
+    {
+      "surface": "הָרָצִים",
+      "gloss": "Die Läufer"
+    },
+    {
+      "surface": "יָצְאוּ",
+      "gloss": "zogen aus"
+    },
+    {
+      "surface": "דְחוּפִים",
+      "gloss": "angetrieben"
+    },
+    {
+      "surface": "בִּדְבַר",
+      "gloss": "durch das Wort"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "וְהַדָּת",
+      "gloss": "und ⟨die⟩ Anordnung"
+    },
+    {
+      "surface": "נִתְּנָה",
+      "gloss": "wurde gegeben"
+    },
+    {
+      "surface": "בְּשׁוּשַׁן",
+      "gloss": "in Schuschan"
+    },
+    {
+      "surface": "הַבִּירָה",
+      "gloss": "⟨der⟩ Residenz"
+    },
+    {
+      "surface": "וְהַמֶּלֶךְ",
+      "gloss": "Und der König"
+    },
+    {
+      "surface": "וְהָמָן",
+      "gloss": "und Haman"
+    },
+    {
+      "surface": "יָשְׁבוּ",
+      "gloss": "saßen"
+    },
+    {
+      "surface": "לִשְׁתּוֹת",
+      "gloss": "um zu trinken"
+    },
+    {
+      "surface": "וְהָעִיר",
+      "gloss": "⟨aber⟩ die Stadt"
+    },
+    {
+      "surface": "שׁוּשָׁן",
+      "gloss": "Schuschan"
+    },
+    {
+      "surface": "נָבוֹכָה",
+      "gloss": "war bestürzt"
+    }
+  ],
+  "timestamp": "2026-08-06T07:11:09.512986160Z",
+  "model": "glm-5.2"
+}

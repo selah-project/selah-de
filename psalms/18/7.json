@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "In ⟨meiner⟩ Bedrängnis rief ich JHWH an, und zu meinem Elohim schrie ich. Er hörte aus seinem Tempel meine Stimme, und mein Schrei vor ihn kam, in seine Ohren.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "in Bedrängnis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "rief ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und zu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "meinem Elohim"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "schrie ich"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "er hörte"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "aus seinem Tempel"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "meine Stimme"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "und mein Schrei"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vor ihn"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kam"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "in seine Ohren"
+    }
+  ],
+  "timestamp": "2026-08-06T04:10:36.583441820Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und Chever zeugte ⟨את⟩ Jaflet und ⟨את⟩ Schomer und ⟨את⟩ Chotam und ⟨את⟩ Schua, ihre Schwester.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Und Chever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zeugte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Jaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Schomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Schomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Schua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Schua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ihre Schwester"
+    }
+  ],
+  "timestamp": "2026-08-06T07:20:31.646485205Z",
+  "model": "glm-5.2"
+}

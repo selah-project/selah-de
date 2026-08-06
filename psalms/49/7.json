@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Die sich verlassen auf ihre Wehrkraft, und im Überfluß ihres Reichtums rühmen sie sich —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "die sich verlassen"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ihre Wehrkraft"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "und im Überfluß"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ihres Reichtums"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "rühmen sie sich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:20.308453541Z",
+  "model": "glm-5.2"
+}

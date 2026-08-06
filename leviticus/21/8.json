@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und du sollst ihn heiligsprechen, denn ⟨er⟩ bringt ⟨את⟩ das Brot deines Elohim dar. Heilig soll er dir sein, denn heilig bin ich, JHWH, ⟨der⟩ euch heiligspricht.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "Und du sollst ihn heiligsprechen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Brot"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "das Brot"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deines Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "bringt dar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Heilig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll er sein"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "bin ich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "⟨der⟩ euch heiligspricht"
+    }
+  ],
+  "timestamp": "2026-08-06T02:12:32.401401462Z",
+  "model": "glm-5.2"
+}

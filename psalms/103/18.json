@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 103,
+  "translation": "für die, die seinen Brit bewahren, und die, die seine Pikudim gedenken, um sie zu tun —",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "für die, die bewahren"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "seinen Brit"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "und ⟨für⟩ die, die gedenken"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "seine Pikudim"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "um sie zu tun"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:14.173289511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und bei Chorew reiztet ihr ⟨את⟩ JHWH zum Zorn, und JHWH entbrannte in Zorn gegen euch, um euch zu vernichten ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "וּבְחֹרֵ֥ב",
+      "gloss": "Und bei Chorew"
+    },
+    {
+      "surface": "הִקְצַפְתֶּ֖ם",
+      "gloss": "reiztet ihr … zum Zorn"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וַיִּתְאַנַּ֣ף",
+      "gloss": "und … entbrannte in Zorn"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בָּכֶ֖ם",
+      "gloss": "gegen euch"
+    },
+    {
+      "surface": "לְהַשְׁמִ֥יד",
+      "gloss": "um zu vernichten"
+    },
+    {
+      "surface": "אֶתְכֶֽם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "euch"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:34.355240321Z",
+  "model": "glm-5.2"
+}

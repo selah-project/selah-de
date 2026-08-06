@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und du sollst zu ihm sprechen und ⟨את⟩ die Worte in seinen Mund legen. Und ich, ich werde mit deinem Mund sein und mit seinem Mund, und ich werde euch ⟨את⟩ zeigen, was ihr tun sollt.",
+  "tokens": [
+    {
+      "surface": "וְדִבַּרְתָּ",
+      "gloss": "Und du sollst sprechen"
+    },
+    {
+      "surface": "אֵלָיו",
+      "gloss": "zu ihm"
+    },
+    {
+      "surface": "וְשַׂמְתָּ",
+      "gloss": "und ⟨sollst⟩ legen"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "die Worte"
+    },
+    {
+      "surface": "הַדְּבָרִים",
+      "gloss": "die Worte"
+    },
+    {
+      "surface": "בְּפִיו",
+      "gloss": "in seinen Mund"
+    },
+    {
+      "surface": "וְאָנֹכִי",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "אֶהְיֶה",
+      "gloss": "ich werde sein"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "פִּיךָ",
+      "gloss": "deinem Mund"
+    },
+    {
+      "surface": "וְעִם",
+      "gloss": "und mit"
+    },
+    {
+      "surface": "פִּיהוּ",
+      "gloss": "seinem Mund"
+    },
+    {
+      "surface": "וְהוֹרֵיתִי",
+      "gloss": "und ich werde zeigen"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "was"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "was"
+    },
+    {
+      "surface": "תַּעֲשׂוּן",
+      "gloss": "ihr tun sollt"
+    }
+  ],
+  "timestamp": "2026-08-05T20:06:46.266347965Z",
+  "model": "glm-5.2"
+}

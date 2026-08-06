@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 30,
+  "translation": "Siehe, ich habe vor dich heute gelegt ⟨את⟩ das Leben und ⟨את⟩ das Gute, und ⟨את⟩ den Tod und ⟨את⟩ das Böse.",
+  "tokens": [
+    {
+      "surface": "רְאֵ֨ה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "נָתַ֤תִּי",
+      "gloss": "ich habe … gelegt"
+    },
+    {
+      "surface": "לְפָנֶ֨יךָ֙",
+      "gloss": "vor dich"
+    },
+    {
+      "surface": "הַיּ֔וֹם",
+      "gloss": "heute"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Leben"
+    },
+    {
+      "surface": "הַחַיִּ֖ים",
+      "gloss": "das Leben"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Gute"
+    },
+    {
+      "surface": "הַטּ֑וֹב",
+      "gloss": "das Gute"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Tod"
+    },
+    {
+      "surface": "הַמָּ֖וֶת",
+      "gloss": "den Tod"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Böse"
+    },
+    {
+      "surface": "הָרָֽע",
+      "gloss": "das Böse"
+    }
+  ],
+  "timestamp": "2026-08-06T05:30:24.901580836Z",
+  "model": "glm-5.2"
+}

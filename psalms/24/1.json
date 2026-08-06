@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Von Dawid. Ein Mismor. Dem JHWH ⟨gehört⟩ die Erde und ihre Fülle, die bewohnte Welt und die auf ihr Wohnenden.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Von Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ein Mismor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Dem JHWH"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "und ihre Fülle"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die bewohnte Welt"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "und die auf ihr Wohnenden"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in ihr"
+    }
+  ],
+  "timestamp": "2026-08-05T22:47:13.483837059Z",
+  "model": "glm-5.2"
+}

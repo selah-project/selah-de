@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Er wandte sich zum Gebet des Verzweifelten und hat ⟨את⟩ ihr Gebet nicht verachtet.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Er wandte sich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "dem Gebet"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "des Verzweifelten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und hat nicht"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "verachtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Gebet"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ihr Gebet"
+    }
+  ],
+  "timestamp": "2026-08-05T22:59:42.105491589Z",
+  "model": "glm-5.2"
+}

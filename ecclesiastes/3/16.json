@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und weiter sah ich unter der Sonne: am Ort des Rechts — dort ⟨ist⟩ die Bosheit, und am Ort der Gerechtigkeit — dort ⟨ist⟩ die Bosheit.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Und weiter"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "sah ich"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "am Ort"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "des Rechts"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dort"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "die Bosheit"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "und am Ort"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "der Gerechtigkeit"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dort"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "die Bosheit"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:26.906640753Z",
+  "model": "glm-5.2"
+}

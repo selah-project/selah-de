@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und To'u, der König von Chamat, hörte, dass Dawid ⟨את⟩ die ganze Streitmacht Hadad'esers, des Königs von Zowa, geschlagen hatte.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Und ⟨er⟩ hörte"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "To'u"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "von Chamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "geschlagen hatte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Streitmacht"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "Streitmacht"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadad'esers"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "von Zowa"
+    }
+  ],
+  "timestamp": "2026-08-05T23:50:24.824342339Z",
+  "model": "glm-5.2"
+}

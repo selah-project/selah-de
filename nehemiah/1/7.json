@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Ja, wir haben es an dir feierlich gepfändet und nicht bewahrt ⟨את⟩ die Mizwot und ⟨את⟩ die Chukkim und ⟨את⟩ die Mischpatim, die du geboten hast ⟨את⟩ Mosche, deinem Knecht.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "wir haben gepfändet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "an dir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "bewahrt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Mizwot"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "die Mizwot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Chukkim"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "die Chukkim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Mischpatim"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "die Mischpatim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "du geboten hast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "deinem Knecht"
+    }
+  ],
+  "timestamp": "2026-08-05T23:41:46.317244614Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 64,
+  "translation": "Höre, Elohim, meine Stimme in meinem Sicha, vor dem Schrecken des Feindes ⟨wirst du⟩ ⟨mein⟩ Leben bewahren.",
+  "tokens": [
+    {
+      "surface": "שְׁמַע",
+      "gloss": "Höre"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קוֹלִי",
+      "gloss": "meine Stimme"
+    },
+    {
+      "surface": "בְּשִׂיחִי",
+      "gloss": "in meinem Sicha"
+    },
+    {
+      "surface": "מִפַּחַד",
+      "gloss": "vor dem Schrecken"
+    },
+    {
+      "surface": "אוֹיֵב",
+      "gloss": "des Feindes"
+    },
+    {
+      "surface": "תִּצֹּר",
+      "gloss": "⟨wirst du⟩ bewahren"
+    },
+    {
+      "surface": "חַיָּי",
+      "gloss": "⟨mein⟩ Leben"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:04.261215432Z",
+  "model": "glm-5.2"
+}

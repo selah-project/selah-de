@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 12:24",
+  "book": "job",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Er entfernt ⟨das⟩ Herz ⟨der⟩ Häupter ⟨des⟩ Volkes ⟨des⟩ Landes und lässt sie irren in Wüste, kein Weg.",
+  "tokens": [
+    {
+      "surface": "מֵסִ֗יר",
+      "gloss": "Er entfernt"
+    },
+    {
+      "surface": "לֵ֭ב",
+      "gloss": "⟨das⟩ Herz"
+    },
+    {
+      "surface": "רָאשֵׁ֣י",
+      "gloss": "⟨der⟩ Häupter"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "⟨des⟩ Volkes"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "⟨des⟩ Landes"
+    },
+    {
+      "surface": "וַ֝יַּתְעֵ֗ם",
+      "gloss": "und lässt sie irren"
+    },
+    {
+      "surface": "בְּתֹ֣הוּ",
+      "gloss": "in Wüste"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "דָֽרֶךְ",
+      "gloss": "[ein] Weg"
+    }
+  ],
+  "timestamp": "2026-08-05T23:18:13.563755124Z",
+  "model": "glm-5.2"
+}

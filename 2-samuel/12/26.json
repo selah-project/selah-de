@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und Joaw kämpfte gegen Rabbat der Söhne Ammons, und er nahm ⟨את⟩ die Stadt des Königtums ein.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "und ⟨er⟩ kämpfte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "gegen Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "und er nahm ein"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Stadt des Königtums"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "die Stadt"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "des Königtums"
+    }
+  ],
+  "timestamp": "2026-08-06T05:45:25.313390545Z",
+  "model": "glm-5.2"
+}

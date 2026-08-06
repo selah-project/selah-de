@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Denn ruhen wird die Hand JHWHs auf ⟨diesem⟩ Berg, und zermalmt wird Moaw unter ihm, wie Stroh zermalmt wird im Wasser des Misthaufens.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "ruhen wird"
+    },
+    {
+      "surface": "יד",
+      "gloss": "die Hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "auf dem Berg"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨diesem⟩"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "und zermalmt wird"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaw"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "unter ihm"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "wie zermalmt wird"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "Stroh"
+    },
+    {
+      "surface": "במי",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "des Misthaufens"
+    }
+  ],
+  "timestamp": "2026-08-05T21:47:29.526029287Z",
+  "model": "glm-5.2"
+}

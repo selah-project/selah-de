@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Eisen — ⟨durch⟩ Eisen ⟨wird⟩ geschärft, und ein Mann schärft das Gesicht seines Gefährten.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "Eisen"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "durch Eisen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨wird⟩ geschärft"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "und ein Mann"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "schärft"
+    },
+    {
+      "surface": "פני",
+      "gloss": "das Gesicht"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "seines Gefährten"
+    }
+  ],
+  "timestamp": "2026-08-06T04:31:08.262203448Z",
+  "model": "glm-5.2"
+}

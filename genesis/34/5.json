@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und Jaakow hörte, dass ⟨er⟩ ⟨את⟩ Dina, seine Tochter, verunreinigt hatte — und seine Söhne waren ⟨bei⟩ ⟨את⟩ seinem Vieh auf dem Feld — und Jaakow schwieg, bis sie kamen.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Und Jaakow"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hörte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "verunreinigt hatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "seine Tochter"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "und seine Söhne"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨bei⟩",
+      "marks": "seinem Vieh — את hier als Präposition ‚bei\/mit‘, nicht als Objektmarker"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "seinem Vieh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "auf dem Feld"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "und Jaakow schwieg"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "באם",
+      "gloss": "sie kamen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:09:16.547375383Z",
+  "model": "glm-5.2"
+}

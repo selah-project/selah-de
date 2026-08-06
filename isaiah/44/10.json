@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "Wer hat ⟨sich⟩ einen Gott geformt und ein Götzenbild gegossen, das nicht nützt?",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "Wer"
+    },
+    {
+      "surface": "יָצַ֥ר",
+      "gloss": "hat geformt"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "einen Gott"
+    },
+    {
+      "surface": "וּפֶ֣סֶל",
+      "gloss": "und ein Götzenbild"
+    },
+    {
+      "surface": "נָסָ֑ךְ",
+      "gloss": "gegossen"
+    },
+    {
+      "surface": "לְבִלְתִּ֖י",
+      "gloss": "das nicht"
+    },
+    {
+      "surface": "הוֹעִֽיל",
+      "gloss": "nützt"
+    }
+  ],
+  "timestamp": "2026-08-05T21:53:48.176563050Z",
+  "model": "glm-5.2"
+}

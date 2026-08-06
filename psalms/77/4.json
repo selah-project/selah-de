@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 77,
+  "translation": "Ich denke an Elohim und stöhne; ich sinne nach, und es überwältigt ⟨mich⟩ ⟨meine⟩ Ruach. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Ich denke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "an Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "und stöhne"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ich sinne nach"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "und es überwältigt ⟨mich⟩"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "⟨meine⟩ Ruach"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:02.758900569Z",
+  "model": "glm-5.2"
+}

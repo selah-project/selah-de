@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ⟨er⟩ brachte den Brief zum König von Jisraël, ⟨der⟩ lautete: Und nun, beim Kommen dieses Briefes zu dir, siehe, ich habe ⟨את⟩ Naaman, meinen Knecht, zu dir gesandt, und du sollst ihn von seinem Aussatz sammeln.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und ⟨er⟩ brachte"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "den Brief"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨dem⟩ König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨der⟩ lautete"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "beim Kommen"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "des Briefes"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "habe ich gesandt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zu dir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman, meinen Knecht"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "meinen Knecht"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "und du sollst ihn sammeln"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "von seinem Aussatz"
+    }
+  ],
+  "timestamp": "2026-08-06T15:09:32.877344078Z",
+  "model": "glm-5.2"
+}

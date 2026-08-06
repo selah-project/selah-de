@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 40:20",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 40,
+  "translation": "Und das Tor, dessen Vorderseite Richtung Norden ⟨lag⟩, ⟨beim⟩ Hof, dem äußeren — ⟨er⟩ maß seine Länge und seine Breite.",
+  "tokens": [
+    {
+      "surface": "והשער",
+      "gloss": "und das Tor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dessen"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Vorderseite"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Richtung"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "Norden"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "⟨beim⟩ Hof"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "dem äußeren"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "⟨er⟩ maß"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "seine Länge"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "und seine Breite"
+    }
+  ],
+  "timestamp": "2026-08-06T03:54:15.114823546Z",
+  "model": "glm-5.2"
+}

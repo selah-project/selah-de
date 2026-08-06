@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und er schlachtete ⟨את⟩ die Ola, und die Söhne Aharons reichten ihm ⟨את⟩ das Blut dar, und er sprengte es ringsum auf den Altar.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "und er schlachtete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die Ola"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "und sie reichten dar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Blut"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "das Blut"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "und er sprengte es"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "den Altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringsum"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:55.590425703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "„Sprich zu den Söhnen Jisraels und sag: ⟨Kein⟩ Fett von Rind und Schaf und Ziege dürft ihr nicht essen.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Sprich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "den Söhnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨Kein⟩"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "Fett"
+    },
+    {
+      "surface": "שור",
+      "gloss": "von Rind"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "und Schaf"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "und Ziege"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dürft ihr essen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:53.988598633Z",
+  "model": "glm-5.2"
+}

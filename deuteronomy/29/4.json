@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und ich habe ⟨את⟩ euch vierzig Jahre in der Wüste geführt: eure Kleider sind nicht von euch abgenutzt worden, und dein Schuh ist nicht von deinem Fuß abgenutzt worden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "Und ich habe geführt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "vierzig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Jahre"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "sind abgenutzt worden"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "eure Kleider"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "von euch"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "und dein Schuh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "ist abgenutzt worden"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "deinem Fuß"
+    }
+  ],
+  "timestamp": "2026-08-05T20:50:24.921472800Z",
+  "model": "glm-5.2"
+}

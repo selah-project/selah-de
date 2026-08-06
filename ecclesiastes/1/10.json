@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Gibt es eine Sache, ⟨von der⟩ man sagen könnte: „Sieh das, das ist neu“? Längst ist es gewesen, für Äonen, die vor uns waren.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Gibt es"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eine Sache"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "⟨von der⟩ man sagen könnte"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Sieh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "das"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "neu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "das ist"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Längst"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ist es gewesen"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "für Äonen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waren"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "vor uns"
+    }
+  ],
+  "timestamp": "2026-08-06T04:40:56.906684970Z",
+  "model": "glm-5.2"
+}

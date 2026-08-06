@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Nicht sollt ihr ⟨auf⟩ ⟨dem⟩ Blut essen. Nicht sollt ihr Wahrsagung üben, und nicht sollt ihr Zauber wirken.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sollt ihr essen"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨auf⟩"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨dem⟩ Blut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "sollt ihr Wahrsagung üben"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "sollt ihr Zauber wirken"
+    }
+  ],
+  "timestamp": "2026-08-06T00:28:04.151492821Z",
+  "model": "glm-5.2"
+}

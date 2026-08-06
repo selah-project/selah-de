@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Und dies waren die Söhne von Oholibama, der Tochter Anas, der Tochter Zibons, ⟨der⟩ Frau Esaus; und sie gebar für Esau ⟨את⟩ Je'usch und ⟨את⟩ Ja'alam und ⟨את⟩ Korach.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Und dies"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne von"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "der Tochter"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anas"
+    },
+    {
+      "surface": "בת",
+      "gloss": "der Tochter"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Zibons"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨der⟩ Frau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaus"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "und sie gebar"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "für Esau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Je'usch"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Je'usch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Ja'alam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Ja'alam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-06T00:09:13.951436239Z",
+  "model": "glm-5.2"
+}

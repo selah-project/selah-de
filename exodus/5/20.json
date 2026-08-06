@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und sie trafen ⟨את⟩ Mosche und ⟨את⟩ Aharon, die dastanden, ihnen entgegen, beim Herausgehen ⟨von⟩ bei Paro.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּפְגְּעוּ֙",
+      "gloss": "und sie trafen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "מֹשֶׁ֣ה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "וְאֶֽת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אַהֲרֹ֔ן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נִצָּבִ֖ים",
+      "gloss": "die dastanden"
+    },
+    {
+      "surface": "לִקְרָאתָ֑ם",
+      "gloss": "ihnen entgegen"
+    },
+    {
+      "surface": "בְּצֵאתָ֖ם",
+      "gloss": "beim Herausgehen"
+    },
+    {
+      "surface": "מֵאֵ֥ת",
+      "gloss": "von bei"
+    },
+    {
+      "surface": "פַּרְעֹֽה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-08-06T00:13:41.406110058Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Hingezogene Hoffnung macht ⟨das⟩ Herz krank, ⟨aber⟩ ein Baum des Lebens ist Sehnsucht, ⟨die⟩ kommt.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "Hoffnung"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "Hingezogene"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "macht krank"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herz"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "⟨aber⟩ ein Baum"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "des Lebens"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ist Sehnsucht"
+    },
+    {
+      "surface": "באה",
+      "gloss": "⟹ kommt"
+    }
+  ],
+  "timestamp": "2026-08-06T15:24:56.404846512Z",
+  "model": "glm-5.2"
+}

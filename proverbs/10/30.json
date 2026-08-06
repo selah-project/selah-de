@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Der Gerechte, ⟨in⟩ Ewigkeit wird er nicht wanken, doch die Frevler werden das Land nicht bewohnen.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Der Gerechte"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨in⟩ Ewigkeit"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "wird wanken"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "doch die Frevler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "werden bewohnen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "das Land"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:38.177785652Z",
+  "model": "glm-5.2"
+}

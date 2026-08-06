@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und Jaakow sprach zu ihnen: „Meine Brüder, woher seid ihr?\" Und sie sagten: „Aus Charan sind wir.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zu ihnen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "meine Brüder"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "woher"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "seid ihr"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sie sagten"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "aus Charan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "sind wir"
+    }
+  ],
+  "timestamp": "2026-08-06T22:30:52.807886491Z",
+  "model": "glm-5.2"
+}

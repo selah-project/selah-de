@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Ohne Holz erlischt ⟨das⟩ Feuer, und ohne einen Verleumder verstummt ⟨der⟩ Streit.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "Holz"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "erlischt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "und ohne"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "einen Verleumder"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "verstummt"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "Streit"
+    }
+  ],
+  "timestamp": "2026-08-06T22:47:20.472331494Z",
+  "model": "glm-5.2"
+}

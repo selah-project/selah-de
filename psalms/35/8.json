@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 35,
+  "translation": "Möge ihn überfallen Verderben — ⟨er⟩ ⟨soll⟩ es nicht erkennen; und sein Netz, das er versteckte, möge ⟨ihn⟩ fangen; ins Verderben falle er selbst.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "Möge ihn überfallen"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "Verderben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "⟨er⟩ ⟨soll⟩ ⟨es⟩ erkennen"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "und sein Netz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "er versteckte"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "möge ⟨ihn⟩ fangen"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "ins Verderben"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "falle"
+    },
+    {
+      "surface": "בה",
+      "gloss": "er selbst ⟨hinein⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:22.498902519Z",
+  "model": "glm-5.2"
+}

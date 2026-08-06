@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "Denn sie verstehen nicht ⟨bei⟩ den Werken JHWHs und ⟨bei⟩ dem Tun seiner Hände — er wird sie niederreißen und sie nicht aufbauen.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יָבִ֡ינוּ",
+      "gloss": "verstehen sie"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨bei⟩"
+    },
+    {
+      "surface": "פְּעֻלֹּ֣ת",
+      "gloss": "den Werken"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "und ⟨bei⟩"
+    },
+    {
+      "surface": "מַעֲשֵׂ֣ה",
+      "gloss": "dem Tun"
+    },
+    {
+      "surface": "יָדָ֑יו",
+      "gloss": "seiner Hände"
+    },
+    {
+      "surface": "יֶ֝הֶרְסֵ֗ם",
+      "gloss": "er wird sie niederreißen"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יִבְנֵֽם",
+      "gloss": "sie aufbauen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:40:57.048680943Z",
+  "model": "glm-5.2"
+}

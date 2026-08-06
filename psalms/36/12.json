@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 36,
+  "translation": "Nicht ⟨möge⟩ ⟨mich⟩ treffen der Fuß des Hochmuts, und die Hand der Räscha — nicht ⟨möge sie mich⟩ fortstoßen!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "⟨möge⟩ ⟨mich⟩ treffen"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "der Fuß"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "des Hochmuts"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "und die Hand"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Räscha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "⟨möge sie mich⟩ fortstoßen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:39.634513564Z",
+  "model": "glm-5.2"
+}

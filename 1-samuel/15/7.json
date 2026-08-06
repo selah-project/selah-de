@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und Schaul schlug ⟨את⟩ Amalek von Chowila an, ⟨wenn⟩ man nach Schur kommt, das vor Mizrajim ⟨liegt⟩.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Und ⟨er⟩ schlug"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "von Chowila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "an, ⟨wenn⟩ man kommt"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nach Schur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "על",
+      "gloss": "vor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨dem Angesicht von⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T02:43:32.389474399Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "um vom Recht abzubiegen die Schwachen, und zu rauben das Recht der Elenden meines Volkes, um Witwen zu ihrer Beute zu machen und ⟨את⟩ die Waisen zu plündern.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "um abzubiegen"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "vom Recht"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "die Schwachen"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "und zu rauben"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "das Recht"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "der Elenden"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meines Volkes"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "um zu sein"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "Witwen"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "ihre Beute"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Waisen"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "die Waisen"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "zu plündern"
+    }
+  ],
+  "timestamp": "2026-08-06T05:58:23.646086975Z",
+  "model": "glm-5.2"
+}

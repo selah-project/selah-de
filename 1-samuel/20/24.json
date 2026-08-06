@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Dawid versteckte sich auf dem Feld. Und ⟨es kam⟩ der Neumond, und der König setzte sich zum Brot, um zu essen.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "Und versteckte sich"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "auf dem Feld"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Und ⟨es kam⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "der Neumond"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und setzte sich"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "der König"
+    },
+    {
+      "surface": "על",
+      "gloss": "zu"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "dem Brot"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "um zu essen"
+    }
+  ],
+  "timestamp": "2026-08-06T05:40:50.582748438Z",
+  "model": "glm-5.2"
+}

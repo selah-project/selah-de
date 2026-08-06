@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 141,
+  "translation": "Denn auf dich, JHWH, Adonai, ⟨sind⟩ meine ⟨Augen⟩ gerichtet, bei dir habe ich Zuflucht gesucht. Entblöße nicht meine Nefesch.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "bei dir"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "habe ich Zuflucht gesucht"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תער",
+      "gloss": "entblöße"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:59.282073869Z",
+  "model": "glm-5.2"
+}

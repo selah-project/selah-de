@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen — und in dir werden gesegnet werden alle Sippen des Erdbodens.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "und ich werde segnen"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "die dich segnen"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "und wer dich verachtet"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "den werde ich verfluchen"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "und sie werden gesegnet werden"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in dir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "Sippen"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "des Erdbodens"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:51.779170652Z",
+  "model": "glm-5.2"
+}

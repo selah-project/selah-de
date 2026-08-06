@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "Dir ⟨gilt⟩ stilles Harren ⟨als⟩ Tehilla, Elohim, in Zion, und dir wird ein Neder erfüllt.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Dir"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "stilles Harren"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "⟨als⟩ Tehilla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Zion"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "und dir"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "wird erfüllt"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ein Neder"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:02.151082325Z",
+  "model": "glm-5.2"
+}

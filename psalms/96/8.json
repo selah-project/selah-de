@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 96,
+  "translation": "Gebt JHWH die Ehre ⟨seines⟩ Namens, tragt ⟨ein⟩ Opfergabe ⟨dar⟩ und kommt in seine Höfe!",
+  "tokens": [
+    {
+      "surface": "הָב֣וּ",
+      "gloss": "Gebt"
+    },
+    {
+      "surface": "לַ֭יהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "כְּב֣וֹד",
+      "gloss": "die Ehre"
+    },
+    {
+      "surface": "שְׁמ֑וֹ",
+      "gloss": "⟨seines⟩ Namens"
+    },
+    {
+      "surface": "שְׂאֽוּ",
+      "gloss": "tragt"
+    },
+    {
+      "surface": "מִ֝נְחָ֗ה",
+      "gloss": "Opfergabe"
+    },
+    {
+      "surface": "וּבֹ֥אוּ",
+      "gloss": "und kommt"
+    },
+    {
+      "surface": "לְחַצְרוֹתָֽיו",
+      "gloss": "in seine Höfe"
+    }
+  ],
+  "timestamp": "2026-08-05T22:58:48.783320242Z",
+  "model": "glm-5.2"
+}

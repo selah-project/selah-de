@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Nicht sei ihm einer, der Chessed zieht, und ⟨nicht⟩ sei einer, der ⟨seinen⟩ Waisen Gunst erweist.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "יְהִי",
+      "gloss": "sei"
+    },
+    {
+      "surface": "ל֭וֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "מֹשֵׁ֣ךְ",
+      "gloss": "einer, der zieht"
+    },
+    {
+      "surface": "חֶ֑סֶד",
+      "gloss": "Chessed"
+    },
+    {
+      "surface": "וְֽאַל",
+      "gloss": "und ⟨nicht⟩"
+    },
+    {
+      "surface": "יְהִ֥י",
+      "gloss": "sei"
+    },
+    {
+      "surface": "חוֹנֵ֗ן",
+      "gloss": "einer, der Gunst erweist"
+    },
+    {
+      "surface": "לִיתוֹמָֽיו",
+      "gloss": "⟨seinen⟩ Waisen"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:54.392417310Z",
+  "model": "glm-5.2"
+}

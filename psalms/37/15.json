@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Ihr Schwert wird in ihr eigenes Herz kommen, und ihre Bogen werden zerbrochen werden.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "ihr Schwert"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wird kommen"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "in ihr Herz"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "und ihre Bogen"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "werden zerbrochen werden"
+    }
+  ],
+  "timestamp": "2026-08-06T06:41:23.465882451Z",
+  "model": "glm-5.2"
+}

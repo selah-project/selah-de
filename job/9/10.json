@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "⟨Er⟩ tut große Dinge, bis ⟨es⟩ kein Erforschen ⟨gibt⟩, und Wunderbares, bis ⟨es⟩ keine Zahl ⟨gibt⟩.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "⟨Er⟩ tut"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "große Dinge"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kein"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "Erforschen"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "und Wunderbares"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "keine"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "Zahl"
+    }
+  ],
+  "timestamp": "2026-08-06T04:33:20.603191545Z",
+  "model": "glm-5.2"
+}

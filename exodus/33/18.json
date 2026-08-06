@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und ⟨er⟩ sprach: „Lass mich doch ⟨את⟩ deine Kavod sehen!“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Lass mich sehen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "doch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Kavod"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "deine Kavod"
+    }
+  ],
+  "timestamp": "2026-08-05T20:15:46.001505533Z",
+  "model": "glm-5.2"
+}

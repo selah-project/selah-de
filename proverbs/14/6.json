@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Ein Spötter sucht Weisheit — und ⟨sie ist⟩ nicht da; ⟨aber⟩ Erkenntnis ⟨ist⟩ für den Einsichtigen leicht.",
+  "tokens": [
+    {
+      "surface": "בִּקֶּשׁ",
+      "gloss": "sucht"
+    },
+    {
+      "surface": "לֵץ",
+      "gloss": "ein Spötter"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "Weisheit"
+    },
+    {
+      "surface": "וָאָיִן",
+      "gloss": "— und ⟨sie ist⟩ nicht da"
+    },
+    {
+      "surface": "וְדַעַת",
+      "gloss": "⟨aber⟩ Erkenntnis"
+    },
+    {
+      "surface": "לְנָבוֹן",
+      "gloss": "für den Einsichtigen"
+    },
+    {
+      "surface": "נָקָל",
+      "gloss": "⟨ist⟩ leicht"
+    }
+  ],
+  "timestamp": "2026-08-06T10:34:39.381030382Z",
+  "model": "glm-5.2"
+}

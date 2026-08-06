@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Und ⟨את⟩ die Haut des Stiers und ⟨את⟩ sein ganzes Fleisch, über seinem Kopf und über seinen Beinen, und ⟨seine› Eingeweide und ⟨seinen› Kot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Haut"
+    },
+    {
+      "surface": "עור",
+      "gloss": "die Haut"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "des Stiers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "sein ganzes Fleisch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sein ganzes"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "Fleisch"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "seinem Kopf"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und über"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "seinen Beinen"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "und ⟨seine⟩ Eingeweide"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "und ⟨seinen⟩ Kot"
+    }
+  ],
+  "timestamp": "2026-08-06T02:09:12.700525757Z",
+  "model": "glm-5.2"
+}

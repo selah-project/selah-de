@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Nahe ⟨ist⟩ JHWH allen, die ihn rufen, allen, die ihn anrufen in Emet.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Nahe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "die ihn rufen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ihn anrufen"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in Emet"
+    }
+  ],
+  "timestamp": "2026-08-06T06:53:25.182772729Z",
+  "model": "glm-5.2"
+}

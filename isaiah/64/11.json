@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 64,
+  "translation": "Wirst du ⟨wegen⟩ dieser ⟨Dinge⟩ dich zurückhalten, JHWH, schweigen und uns veryielding sehr demütigen?",
+  "tokens": [
+    {
+      "surface": "הַעַל",
+      "gloss": "Wirst du ⟨wegen⟩"
+    },
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "dieser ⟨Dinge⟩"
+    },
+    {
+      "surface": "תִתְאַפַּק",
+      "gloss": "dich zurückhalten"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "תֶּחֱשֶׁה",
+      "gloss": "schweigen"
+    },
+    {
+      "surface": "וּתְעַנֵּנוּ",
+      "gloss": "und uns demütigen"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "veryielding"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "sehr"
+    }
+  ],
+  "timestamp": "2026-08-06T06:04:01.968092854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Sein Gleichnis ⟨ist⟩ wie ein Löwe, der lechzt danach zu zerreißen, und wie ein Junglöwe, der sitzt im Verborgenen.",
+  "tokens": [
+    {
+      "surface": "דִּמְיֹנ֗וֹ",
+      "gloss": "sein Gleichnis"
+    },
+    {
+      "surface": "כְּ֭אַרְיֵה",
+      "gloss": "wie ein Löwe"
+    },
+    {
+      "surface": "יִכְס֣וֹף",
+      "gloss": "lechzt"
+    },
+    {
+      "surface": "לִטְר֑וֹף",
+      "gloss": "darnach zu zerreißen"
+    },
+    {
+      "surface": "וְ֝כִכְפִ֗יר",
+      "gloss": "und wie ein Junglöwe"
+    },
+    {
+      "surface": "יֹשֵׁ֥ב",
+      "gloss": "der sitzt"
+    },
+    {
+      "surface": "בְּמִסְתָּרִֽים",
+      "gloss": "im Verborgenen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:56.937401434Z",
+  "model": "glm-5.2"
+}

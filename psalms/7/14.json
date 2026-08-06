@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und für ihn hat er ⟨die⟩ Werkzeuge des Todes bereitet, seine Pfeile macht er für ⟨die⟩ Brennenden.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Und für ihn"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hat er bereitet"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "Werkzeuge"
+    },
+    {
+      "surface": "מות",
+      "gloss": "des Todes"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "seine Pfeile"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "für ⟨die⟩ Brennenden"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "macht er"
+    }
+  ],
+  "timestamp": "2026-08-06T04:08:46.711218400Z",
+  "model": "glm-5.2"
+}

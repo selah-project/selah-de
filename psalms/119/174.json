@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 174,
+  "ref": "psalms 119:174",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Ich sehne mich nach deiner Rettung, JHWH, und deine Tora ist mein Verlangen.",
+  "tokens": [
+    {
+      "surface": "תָּאַ֣בְתִּי",
+      "gloss": "Ich sehne mich"
+    },
+    {
+      "surface": "לִֽישׁוּעָתְךָ֣",
+      "gloss": "nach deiner Rettung"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְ֝תֽוֹרָתְךָ֗",
+      "gloss": "und deine Tora"
+    },
+    {
+      "surface": "שַׁעֲשֻׁעָֽי",
+      "gloss": "ist mein Verlangen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:22:58.168825528Z",
+  "model": "glm-5.2"
+}

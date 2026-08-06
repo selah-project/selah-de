@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 15:25",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und der Kohen soll Sühne erwirken für die ganze Versammlung der Söhne Jisra'els, und es wird ihnen vergeben; denn ⟨es ist⟩ ein Versehen, und sie — sie haben ⟨את⟩ ihr Korban gebracht, ein Feueropfer für JHWH, und ihre Sündgabe vor JHWH, wegen ihres Versehens.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Und es soll Sühne erwirken"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "על",
+      "gloss": "für"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'els"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "und es wird vergeben"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "ein Versehen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es ist"
+    },
+    {
+      "surface": "והם",
+      "gloss": "und sie"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "haben gebracht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Korban"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "ihr Korban"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ein Feueropfer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "und ihre Sündgabe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "שגגתם",
+      "gloss": "ihres Versehens"
+    }
+  ],
+  "timestamp": "2026-08-06T00:35:32.856897833Z",
+  "model": "glm-5.2"
+}

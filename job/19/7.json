@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Siehe, ich schreie: Gewalt! — und werde nicht erhört, ich rufe um Hilfe, und ⟨es ist⟩ kein Recht ⟨da⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "ich schreie"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Gewalt!"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨werde⟩ nicht"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "erhört"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ich rufe um Hilfe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es ist⟩ kein"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Recht ⟨da⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T23:20:35.101079065Z",
+  "model": "glm-5.2"
+}

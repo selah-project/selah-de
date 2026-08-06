@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 17:16",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und ich werde sie segnen, und auch werde ich dir von ihr ⟨einen⟩ Sohn geben; und ich werde sie segnen, und sie wird zu Völkern ⟨werden⟩ — Könige von Völkern werden von ihr sein.",
+  "tokens": [
+    {
+      "surface": "וברכתי",
+      "gloss": "Und ich werde segnen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "und auch"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "werde ich geben"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "von ihr"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨einen⟩ Sohn"
+    },
+    {
+      "surface": "וברכתיה",
+      "gloss": "und ich werde sie segnen"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "und sie wird sein"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "zu Völkern"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Könige"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "von Völkern"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "von ihr"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "werden ⟨sie⟩ sein"
+    }
+  ],
+  "timestamp": "2026-08-06T05:08:27.368297428Z",
+  "model": "glm-5.2"
+}

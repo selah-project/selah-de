@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 13:13",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und Schmuel sprach zu Schaul: „Du hast töricht gehandelt. Du hast ⟨את⟩ das Gebot JHWHs, deines Elohim, das er dir geboten hat, nicht bewacht. Denn ⟨jetzt⟩ hätte JHWH ⟨את⟩ deine Königsherrschaft über Jisraël auf ewig gefestigt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Schmuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Schaul"
+    },
+    {
+      "surface": "נסכלת",
+      "gloss": "du hast töricht gehandelt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "du hast bewacht"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Gebot"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "Gebot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deines Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "er dir geboten hat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jetzt"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hätte gefestigt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deine Königsherrschaft"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "deine Königsherrschaft"
+    },
+    {
+      "surface": "אל",
+      "gloss": "über"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewig"
+    }
+  ],
+  "timestamp": "2026-08-06T02:42:10.127069643Z",
+  "model": "glm-5.2"
+}

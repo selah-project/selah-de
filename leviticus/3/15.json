@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und ⟨את⟩ die beiden Nieren und ⟨את⟩ das Fett, das auf ihnen ⟨ist⟩, das an den Lenden, und ⟨את⟩ den Lappen über der Leber — über den Nieren soll er ⟨es⟩ entfernen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die beiden Nieren"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "die beiden"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "Nieren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "das Fett"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "das Fett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "auf ihnen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "an"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "den Lenden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Lappen"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "den Lappen"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "der Leber"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "den Nieren"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "soll er entfernen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:24:01.178605930Z",
+  "model": "glm-5.2"
+}

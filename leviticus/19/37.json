@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ihr sollt halten ⟨את⟩ all meine Chuqot und ⟨את⟩ all meine Mischpatim, und ihr sollt sie tun — ich ⟨bin⟩ JHWH.",
+  "tokens": [
+    {
+      "surface": "וּשְׁמַרְתֶּ֤ם",
+      "gloss": "Und ihr sollt halten"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "all meine Chuqot"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חֻקֹּתַי֙",
+      "gloss": "meine Chuqot"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "all meine Mischpatim"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מִשְׁפָּטַ֔י",
+      "gloss": "meine Mischpatim"
+    },
+    {
+      "surface": "וַעֲשִׂיתֶ֖ם",
+      "gloss": "und ihr sollt tun"
+    },
+    {
+      "surface": "אֹתָ֑ם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "ich"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T20:24:46.444608057Z",
+  "model": "glm-5.2"
+}

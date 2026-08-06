@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Mit Zurechtweisungen über Schuld züchtigst du ⟨den⟩ Menschen, und ⟨wie⟩ eine Motte lässt du zerschmelzen, was er begehrt — surely: Hauch ist jeder Mensch. Sela.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "mit Zurechtweisungen"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "עון",
+      "gloss": "Schuld"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "züchtigst du"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Menschen"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "und lässt zerschmelzen"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "wie eine Motte"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "was er begehrt"
+    },
+    {
+      "surface": "אך",
+      "gloss": "surely"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hauch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Mensch"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T22:49:19.764332646Z",
+  "model": "glm-5.2"
+}

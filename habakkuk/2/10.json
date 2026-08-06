@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Du hast Schmach beschlossen für dein Haus, ⟨indem du⟩ Völker, viele, ausrotttest, und ⟨du⟩ hast ⟨deine⟩ Nefesch in Schuld gebracht.",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "Du hast … beschlossen"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Schmach"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "für dein Haus"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ausrotttest"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Völker"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vielen"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "und ⟨du⟩ hast … in Schuld gebracht"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "⟨deine⟩ Nefesch"
+    }
+  ],
+  "timestamp": "2026-08-05T22:38:46.063582695Z",
+  "model": "glm-5.2"
+}

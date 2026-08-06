@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 135,
+  "translation": "Lobt Jah, denn gut ⟨ist⟩ JHWH; singt ⟨zu⟩ seinem Namen, denn lieblich ⟨ist er⟩!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lobt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "singt"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "⟨zu⟩ seinem Namen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "lieblich"
+    }
+  ],
+  "timestamp": "2026-08-05T23:06:33.271257138Z",
+  "model": "glm-5.2"
+}

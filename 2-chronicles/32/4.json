@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und es versammelte sich ein zahlreiches Volk, und sie verstopften ⟨את⟩ alle Quellen und ⟨את⟩ den Bach, der durch das Land strömte, und sagten: „Warum sollten die Könige von Aschur kommen und viel Wasser finden?“",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Und es versammelte sich"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ein Volk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zahlreiches"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "und sie verstopften"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Quellen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "Quellen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Bach"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "den Bach"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "der strömte"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "durch"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagten"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Warum"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "sollten kommen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die Könige"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "von Aschur"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "und finden"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "viel"
+    }
+  ],
+  "timestamp": "2026-08-06T05:04:47.804472204Z",
+  "model": "glm-5.2"
+}

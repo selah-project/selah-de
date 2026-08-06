@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wenn du das Gewand deines Nächsten als Pfand nimmst, sollst du es ihm zurückgeben bis zum Untergang der Sonne —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "als Pfand nehmen"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "du nimmst … als Pfand"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "das Gewand"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "deines Nächsten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "בא",
+      "gloss": "zum Untergang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "der Sonne"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "sollst du es zurückgeben"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:43.459147988Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Denn er weiß nicht, was sein wird; denn wie es sein wird — wer wird es ihm verkünden?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "weiß nicht"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "er weiß"
+    },
+    {
+      "surface": "מה",
+      "gloss": "was"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sein wird"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "es sein wird"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wer"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "wird verkünden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T23:31:12.579188423Z",
+  "model": "glm-5.2"
+}

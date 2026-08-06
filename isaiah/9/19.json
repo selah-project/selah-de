@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨man⟩ reißt ⟨es⟩ weg zur Rechten und hungert, und ⟨man⟩ isst zur Linken und ⟨wird⟩ nicht satt — ⟨jeder⟩ isst das Fleisch seines eigenen Armes.",
+  "tokens": [
+    {
+      "surface": "וַיִּגְזֹ֤ר",
+      "gloss": "Und ⟨man⟩ reißt ⟨es⟩ weg"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "zur"
+    },
+    {
+      "surface": "יָמִין֙",
+      "gloss": "Rechten"
+    },
+    {
+      "surface": "וְרָעֵ֔ב",
+      "gloss": "und hungert"
+    },
+    {
+      "surface": "וַיֹּ֥אכַל",
+      "gloss": "und ⟨man⟩ isst"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "zur"
+    },
+    {
+      "surface": "שְׂמֹ֖אול",
+      "gloss": "Linken"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "und ⟨wird⟩ nicht"
+    },
+    {
+      "surface": "שָׂבֵ֑עוּ",
+      "gloss": "satt"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "⟨jeder⟩"
+    },
+    {
+      "surface": "בְּשַׂר",
+      "gloss": "das Fleisch"
+    },
+    {
+      "surface": "זְרֹע֖וֹ",
+      "gloss": "seines Armes"
+    },
+    {
+      "surface": "יֹאכֵֽלוּ",
+      "gloss": "isst"
+    }
+  ],
+  "timestamp": "2026-08-05T21:44:53.715619739Z",
+  "model": "glm-5.2"
+}

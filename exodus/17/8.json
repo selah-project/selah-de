@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Und Amalek kam und kämpfte mit Jisrael in Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und ⟨er⟩ kam"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "und ⟨er⟩ kämpfte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "in Refidim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:09:52.664901814Z",
+  "model": "glm-5.2"
+}

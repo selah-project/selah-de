@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Ich habe gehört ⟨die⟩ Schmach Moabs und die Lästerungen der Söhne Ammons, mit denen sie ⟨את⟩ mein Volk geschmäht und sich über sein Gebiet erhoben haben.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ich habe gehört"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "⟨die⟩ Schmach"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "und die Lästerungen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mit denen"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "sie geschmäht haben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mein Volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "und sich erhoben haben"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "sein Gebiet"
+    }
+  ],
+  "timestamp": "2026-08-06T06:35:44.617590868Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Und Chiskija gab ⟨את⟩ all ⟨das⟩ Silber, das ⟨sich⟩ gefunden ⟨im⟩ Haus JHWHs, und ⟨in⟩ den Vorratskammern ⟨im⟩ Haus des Königs.",
+  "tokens": [
+    {
+      "surface": "וַיִּתֵּן֙",
+      "gloss": "und gab"
+    },
+    {
+      "surface": "חִזְקִיָּ֔ה",
+      "gloss": "Chiskija"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "all das Silber"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הַכֶּ֖סֶף",
+      "gloss": "⟨das⟩ Silber"
+    },
+    {
+      "surface": "הַנִּמְצָ֣א",
+      "gloss": "das ⟨sich⟩ gefunden"
+    },
+    {
+      "surface": "בֵית",
+      "gloss": "⟨im⟩ Haus"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "וּבְאֹצְר֖וֹת",
+      "gloss": "und ⟨in⟩ den Vorratskammern"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "⟨im⟩ Haus"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "des Königs"
+    }
+  ],
+  "timestamp": "2026-08-06T01:35:40.573316857Z",
+  "model": "glm-5.2"
+}

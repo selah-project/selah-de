@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Was tut ihr am Tag des Festes, und am Tag des Festes JHWHs?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Was"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tut ihr"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "des Festes"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "und am Tag"
+    },
+    {
+      "surface": "חג",
+      "gloss": "des Festes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    }
+  ],
+  "timestamp": "2026-08-05T22:32:33.173046082Z",
+  "model": "glm-5.2"
+}

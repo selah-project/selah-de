@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Dies ⟨ist⟩ das Buch der Toldot von Adam. An dem Tag, an dem Elohim Adam erschuf, in der Ähnlichkeit Elohim machte er ⟨את⟩ ihn.",
+  "tokens": [
+    {
+      "surface": "זֶ֣ה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "סֵ֔פֶר",
+      "gloss": "Buch"
+    },
+    {
+      "surface": "תּוֹלְדֹ֖ת",
+      "gloss": "Toldot"
+    },
+    {
+      "surface": "אָדָ֑ם",
+      "gloss": "von Adam"
+    },
+    {
+      "surface": "בְּי֗וֹם",
+      "gloss": "An dem Tag"
+    },
+    {
+      "surface": "בְּרֹ֤א",
+      "gloss": "erschuf"
+    },
+    {
+      "surface": "אֱלֹהִים֙",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אָדָ֔ם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "בִּדְמ֥וּת",
+      "gloss": "in der Ähnlichkeit"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עָשָׂ֥ה",
+      "gloss": "machte"
+    },
+    {
+      "surface": "אֹתֽוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:19.070533776Z",
+  "model": "glm-5.2"
+}

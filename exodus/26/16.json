@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Zehn Ellen ⟨die⟩ Länge des Brettes, und eine Elle und eine halbe Elle ⟨die⟩ Breite des einen Brettes.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Zehn"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "Länge"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "des Brettes"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "und ⟨eine⟩ Elle"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "und ⟨eine⟩ halbe"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "Elle"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Breite"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "des Brettes"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "des einen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:12:46.846960066Z",
+  "model": "glm-5.2"
+}

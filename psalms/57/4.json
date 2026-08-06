@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 57,
+  "translation": "Er sende vom Himmel und rette mich, ⟨er⟩ schmähe ⟨den⟩, der nach mir schnappt. Sela. Elohim sende sein Chessed und seine Emet.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Er sende"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "vom Himmel"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "und rette mich"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "schmähe"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "der nach mir schnappt"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "Elohim sende"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sein Chessed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "und seine Emet"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:12.583473543Z",
+  "model": "glm-5.2"
+}

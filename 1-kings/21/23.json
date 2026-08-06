@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und auch über Isebel hatte JHWH ⟨ein⟩ Wort gesprochen, ⟨und⟩ gesagt: Die Hunde werden ⟨את⟩ Isebel fressen im Graben von Jisreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Und auch"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "über Isebel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hatte ⟨ein⟩ Wort gesprochen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und⟩ gesagt"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "Die Hunde"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "werden fressen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "im Graben"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "von Jisreel"
+    }
+  ],
+  "timestamp": "2026-08-06T01:29:52.155416824Z",
+  "model": "glm-5.2"
+}

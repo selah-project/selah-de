@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 38,
+  "translation": "Und Jehuda sah sie und hielt sie für eine Kultdienerin, denn sie hatte ihr Gesicht verhüllt.",
+  "tokens": [
+    {
+      "surface": "וַיִּרְאֶ֣הָ",
+      "gloss": "Und sah"
+    },
+    {
+      "surface": "יְהוּדָ֔ה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וַֽיַּחְשְׁבֶ֖הָ",
+      "gloss": "und hielt sie"
+    },
+    {
+      "surface": "לְזוֹנָ֑ה",
+      "gloss": "für eine Kultdienerin"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "כִּסְּתָ֖ה",
+      "gloss": "sie hatte verhüllt"
+    },
+    {
+      "surface": "פָּנֶֽיהָ",
+      "gloss": "ihr Gesicht"
+    }
+  ],
+  "timestamp": "2026-08-06T09:42:52.651112346Z",
+  "model": "glm-5.2"
+}

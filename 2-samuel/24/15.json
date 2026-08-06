@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und JHWH gab eine Seuche in Jisra'el, vom Morgen bis zur Zeit der Festversammlung, und aus dem Volk starben von Dan bis Be'er-Scheva siebzigtausend Mann.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Und gab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eine Seuche"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisra'el"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "vom Morgen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zur Zeit"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Festversammlung"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "und starben"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dem Volk"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "von Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Scheva"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "siebzig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    }
+  ],
+  "timestamp": "2026-08-06T20:28:03.548647658Z",
+  "model": "glm-5.2"
+}

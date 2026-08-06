@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Hast du ⟨dies⟩ gekannt von ehedem, seit ⟨dem Tag⟩, da ⟨der⟩ Mensch auf ⟨die⟩ Erde gesetzt wurde —",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "⟨dies⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Hast du gekannt"
+    },
+    {
+      "surface": "מני",
+      "gloss": "von"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ehedem"
+    },
+    {
+      "surface": "מני",
+      "gloss": "seit"
+    },
+    {
+      "surface": "שים",
+      "gloss": "gesetzt wurde"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨der⟩ Mensch"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨die⟩ Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T23:20:20.616330928Z",
+  "model": "glm-5.2"
+}

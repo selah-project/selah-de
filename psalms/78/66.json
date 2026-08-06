@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Und ⟨er⟩ schlug ⟨את⟩ seine Bedränger ⟨in⟩ den Rücken, Schande für ewig gab er ihnen.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Und ⟨er⟩ schlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Bedränger"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "seine Bedränger"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "⟨in⟩ den Rücken"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "Schande"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "für ewig"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gab"
+    },
+    {
+      "surface": "למו",
+      "gloss": "er ihnen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:18.103757563Z",
+  "model": "glm-5.2"
+}

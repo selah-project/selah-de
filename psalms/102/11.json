@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 102,
+  "translation": "Wegen deines Zorns und deines Grimmes; denn du hast mich emporgehoben und mich weggeworfen.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Wegen"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "deines Zorns"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "und deines Grimmes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "du hast mich emporgehoben"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "und mich weggeworfen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:37.279117173Z",
+  "model": "glm-5.2"
+}

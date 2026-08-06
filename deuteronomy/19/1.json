@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Wenn JHWH, dein Elohim, ⟨die⟩ Völker ausrotten wird, ⟨את⟩ die Völker, deren Land JHWH, dein Elohim, dir gibt, ⟨את⟩ ihr Land, und du wirst sie in Besitz nehmen und in ihren Städten und in ihren Häusern wohnen,",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "יַכְרִ֞ית",
+      "gloss": "ausrotten wird"
+    },
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֨יךָ֙",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Völker"
+    },
+    {
+      "surface": "הַגּוֹיִ֔ם",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "אֲשֶׁר֙",
+      "gloss": "deren"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֱלֹהֶ֔יךָ",
+      "gloss": "dein Elohim"
+    },
+    {
+      "surface": "נֹתֵ֥ן",
+      "gloss": "gibt"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ihr Land"
+    },
+    {
+      "surface": "אַרְצָ֑ם",
+      "gloss": "ihr Land"
+    },
+    {
+      "surface": "וִֽירִשְׁתָּ֕ם",
+      "gloss": "und du wirst sie in Besitz nehmen"
+    },
+    {
+      "surface": "וְיָשַׁבְתָּ֥",
+      "gloss": "und wohnen"
+    },
+    {
+      "surface": "בְעָרֵיהֶ֖ם",
+      "gloss": "in ihren Städten"
+    },
+    {
+      "surface": "וּבְבָתֵּיהֶֽם",
+      "gloss": "und in ihren Häusern"
+    }
+  ],
+  "timestamp": "2026-08-06T00:45:37.000657782Z",
+  "model": "glm-5.2"
+}

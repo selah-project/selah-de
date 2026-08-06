@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 49,
+  "translation": "Ich neige ⟨mein⟩ Ohr zum Maschal, ich öffne auf der Kinor mein Rätsel:",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "ich neige"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "zum Maschal"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "⟨mein⟩ Ohr"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ich öffne"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "auf der Kinor"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "mein Rätsel"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:20.308111653Z",
+  "model": "glm-5.2"
+}

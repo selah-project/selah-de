@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "Bevor ⟨sie⟩ sich wand im Gebären, gebar ⟨sie⟩ — bevor ⟨ihr⟩ Weh zu ⟨ihr⟩ kam, da brachte ⟨sie⟩ ⟨ein⟩ Knäblein zur Welt.",
+  "tokens": [
+    {
+      "surface": "בְּטֶ֥רֶם",
+      "gloss": "Bevor"
+    },
+    {
+      "surface": "תָּחִ֖יל",
+      "gloss": "⟨sie⟩ sich wand"
+    },
+    {
+      "surface": "יָלָ֑דָה",
+      "gloss": "gebar ⟨sie⟩"
+    },
+    {
+      "surface": "בְּטֶ֨רֶם",
+      "gloss": "bevor"
+    },
+    {
+      "surface": "יָב֥וֹא",
+      "gloss": "kam"
+    },
+    {
+      "surface": "חֵ֛בֶל",
+      "gloss": "⟨ihr⟩ Weh"
+    },
+    {
+      "surface": "לָ֖הּ",
+      "gloss": "zu ⟨ihr⟩"
+    },
+    {
+      "surface": "וְהִמְלִ֥יטָה",
+      "gloss": "da brachte ⟨sie⟩ … zur Welt"
+    },
+    {
+      "surface": "זָכָֽר",
+      "gloss": "⟨ein⟩ Knäblein"
+    }
+  ],
+  "timestamp": "2026-08-06T10:14:08.940122423Z",
+  "model": "glm-5.2"
+}

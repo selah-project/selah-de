@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und wenn ⟨dein⟩ Korban ein Mincha auf der Backplatte ⟨ist⟩: Feinmehl, gemischt mit Öl, ungesäuert soll es sein.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ein Mincha"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "der Backplatte"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "dein Korban"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "Feinmehl"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "gemischt"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mit Öl"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ungesäuert"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "soll es sein"
+    }
+  ],
+  "timestamp": "2026-08-05T20:19:18.258676217Z",
+  "model": "glm-5.2"
+}

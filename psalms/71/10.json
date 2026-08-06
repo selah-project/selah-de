@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 71,
+  "translation": "Denn meine Feinde haben über mich geredet, und die ⟨auf⟩ meine Nefesch lauern, beraten sich miteinander",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "haben … geredet"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "meine Feinde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "über mich"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "und die ⟨auf⟩ … lauern"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "beraten sich"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miteinander"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:26.950411494Z",
+  "model": "glm-5.2"
+}

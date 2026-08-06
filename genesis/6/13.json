@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Und Elohim sprach zu Noach: „Das Ende allen Fleisches ist vor mich gekommen, denn die Erde ist voll Gewalttat vor ihrem Angesicht, und siehe, ich verderbe sie ⟨zusammen mit⟩ ⟨את⟩ der Erde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "zu Noach"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "das Ende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "Fleisches"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ist gekommen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "voll ⟨ist⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Gewalttat"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "vor ihrem Angesicht"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "und siehe, ich"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "verderbe sie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Erde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "der Erde"
+    }
+  ],
+  "timestamp": "2026-08-05T19:54:51.780695449Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 3:14",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Kehrt um, abtrünnige Söhne — Spruch JHWHs —, denn ich bin euch ⟨der Mann⟩ geworden, und ich werde euch nehmen: einen aus einer Stadt und zwei aus einer Sippe, und ich werde euch bringen nach Tzijon.",
+  "tokens": [
+    {
+      "surface": "שׁוּבוּ",
+      "gloss": "kehrt um"
+    },
+    {
+      "surface": "בָנִים",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "שׁוֹבָבִים",
+      "gloss": "abtrünnige"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "Spruch"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "בָּעַלְתִּי",
+      "gloss": "bin ⟨der Mann⟩ geworden"
+    },
+    {
+      "surface": "בָּכֶם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "וְלָקַחְתִּי",
+      "gloss": "und ich werde nehmen"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch (Kollektiv: einen … zwei …)"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "einen"
+    },
+    {
+      "surface": "מֵעִיר",
+      "gloss": "aus einer Stadt"
+    },
+    {
+      "surface": "וּשְׁנַיִם",
+      "gloss": "und zwei"
+    },
+    {
+      "surface": "מִמִּשְׁפָּחָה",
+      "gloss": "aus einer Sippe"
+    },
+    {
+      "surface": "וְהֵבֵאתִי",
+      "gloss": "und ich werde bringen"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "nach Tzijon"
+    }
+  ],
+  "timestamp": "2026-08-06T06:06:17.338109246Z",
+  "model": "glm-5.2"
+}

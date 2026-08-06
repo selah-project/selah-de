@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und JHWH hat ⟨את⟩ sein Wort aufrechterhalten, das er geredet hatte. Und ich bin anstelle von Dawid, meines Vaters, aufgetreten und habe mich auf den Thron Jisraels gesetzt, so wie JHWH geredet hat, und ich habe das Haus gebaut für den Namen JHWHs, des Elohim Jisraels.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Und es hat aufrechterhalten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Wort"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sein Wort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "er geredet hatte"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "und ich bin aufgetreten"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "anstelle von"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "meines Vaters"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "und ich habe mich gesetzt"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "den Thron"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "geredet hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "und ich habe gebaut"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "das Haus"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "für den Namen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-06T05:49:31.616032237Z",
+  "model": "glm-5.2"
+}

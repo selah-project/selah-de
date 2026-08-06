@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 61,
+  "translation": "Höre, Elohim, mein Schreien; neige ⟨dein Ohr⟩ zu meinem Gebet.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Höre"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mein Schreien"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "neige ⟨dein Ohr⟩"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "zu meinem Gebet"
+    }
+  ],
+  "timestamp": "2026-08-06T06:43:30.749610451Z",
+  "model": "glm-5.2"
+}

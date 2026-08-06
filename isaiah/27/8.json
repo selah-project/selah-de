@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 27:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Maßvoll, beim Wegschicken ⟨von ihr⟩ reibst du ⟨mit ihr⟩; ⟨er⟩ räumt ⟨sie⟩ aus durch seinen rauen Wind am Tag des Ostwindes.",
+  "tokens": [
+    {
+      "surface": "בסאסאה",
+      "gloss": "Maßvoll"
+    },
+    {
+      "surface": "בשלחה",
+      "gloss": "beim Wegschicken ⟨von ihr⟩"
+    },
+    {
+      "surface": "תריבנה",
+      "gloss": "reibst du ⟨mit ihr⟩"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "räumt ⟨er⟩ aus"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "durch seinen"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "rauen Wind"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "am Tag"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "des Ostwindes"
+    }
+  ],
+  "timestamp": "2026-08-06T05:59:23.606459792Z",
+  "model": "glm-5.2"
+}

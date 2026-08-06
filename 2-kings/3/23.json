@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Und sie sagten: „Blut ⟨ist⟩ das! Sich vernichtet haben die Könige, und ⟨sie⟩ schlugen ein jeder ⟨את⟩ seinen Nächsten. Und nun — zur Beute, Moaw!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Und sie sagten"
+    },
+    {
+      "surface": "דם",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "זה",
+      "gloss": "das"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "Sich vernichtet"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "haben"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "die Könige"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "und ⟨sie⟩ schlugen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein jeder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seinen Nächsten"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "seinen Nächsten"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Und nun"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "zur Beute"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaw"
+    }
+  ],
+  "timestamp": "2026-08-06T15:51:17.830076741Z",
+  "model": "glm-5.2"
+}

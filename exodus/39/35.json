@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "⟨את⟩ die Lade ⟨der⟩ Zeugnis und ⟨את⟩ ihre Stangen und ⟨את⟩ die Kapporet",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "die Lade"
+    },
+    {
+      "surface": "אֲרֹ֥ן",
+      "gloss": "Lade"
+    },
+    {
+      "surface": "הָעֵדֻ֖ת",
+      "gloss": "⟨des⟩ Zeugnisses"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihre Stangen"
+    },
+    {
+      "surface": "בַּדָּ֑יו",
+      "gloss": "ihre Stangen"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Kapporet"
+    },
+    {
+      "surface": "הַכַּפֹּֽרֶת",
+      "gloss": "die Kapporet"
+    }
+  ],
+  "timestamp": "2026-08-06T14:51:34.740870315Z",
+  "model": "glm-5.2"
+}

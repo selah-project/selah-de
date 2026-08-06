@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 147,
+  "translation": "Er sendet ⟨את⟩ sein Wort und ⟨את⟩ läßt sie schmelzen; er läßt ⟨את⟩ seinen Wind wehen, ⟨את⟩ die Wasser fließen.",
+  "tokens": [
+    {
+      "surface": "יִשְׁלַ֣ח",
+      "gloss": "Er sendet"
+    },
+    {
+      "surface": "דְּבָר֣וֹ",
+      "gloss": "⟨את⟩ sein Wort"
+    },
+    {
+      "surface": "וְיַמְסֵ֑ם",
+      "gloss": "und ⟨את⟩ läßt sie schmelzen"
+    },
+    {
+      "surface": "יַשֵּׁ֥ב",
+      "gloss": "er läßt wehen"
+    },
+    {
+      "surface": "ר֝וּח֗וֹ",
+      "gloss": "⟨את⟩ seinen Wind"
+    },
+    {
+      "surface": "יִזְּל֖וּ",
+      "gloss": "⟨את⟩ fließen"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "⟨die⟩ Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T06:53:24.944595870Z",
+  "model": "glm-5.2"
+}

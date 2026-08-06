@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Da verleugnete Sara ⟨es⟩, ⟨und⟩ sagte: Nicht gelacht habe ich. Denn sie fürchtete ⟨sich⟩. ⟨Er⟩ aber sagte: Nicht, denn du hast gelacht.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "da verleugnete"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨und⟩ sagte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "gelacht habe ich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sie fürchtete ⟨sich⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨er⟩ aber sagte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "du hast gelacht"
+    }
+  ],
+  "timestamp": "2026-08-05T19:56:20.483778185Z",
+  "model": "glm-5.2"
+}

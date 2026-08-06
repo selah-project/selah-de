@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Weil JHWH nicht imstande war, ⟨את⟩ dieses Volk in das Land zu bringen, das er ihnen geschworen hat, ⟨daher⟩ hat er sie in der Wüste geschlachtet.'",
+  "tokens": [
+    {
+      "surface": "מִבִּלְתִּ֞י",
+      "gloss": "Weil"
+    },
+    {
+      "surface": "יְכֹ֣לֶת",
+      "gloss": "nicht imstande war"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "לְהָבִיא֙",
+      "gloss": "zu bringen"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dieses Volk"
+    },
+    {
+      "surface": "הָעָ֣ם",
+      "gloss": "⟨dieses⟩ Volk"
+    },
+    {
+      "surface": "הַזֶּ֔ה",
+      "gloss": "dieses"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "das"
+    },
+    {
+      "surface": "נִשְׁבַּ֣ע",
+      "gloss": "er geschworen hat"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "וַיִּשְׁחָטֵ֖ם",
+      "gloss": "hat er sie geschlachtet"
+    },
+    {
+      "surface": "בַּמִּדְבָּֽר",
+      "gloss": "in der Wüste"
+    }
+  ],
+  "timestamp": "2026-08-06T20:19:31.977995193Z",
+  "model": "glm-5.2"
+}

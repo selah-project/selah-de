@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 32:6",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 32,
+  "translation": "Und sie standen früh am nächsten Morgen auf, und sie brachten Olao-Pferde dar, und sie näherten Schelamim heran, und das Volk setzte sich, um zu essen, und sie tranken, und sie standen auf, um zu scherzen.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "Und sie standen früh auf"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "am nächsten Morgen"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "und sie brachten dar"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "Olao-Pferde"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "und sie näherten heran"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "Schelamim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "und ⟨es⟩ setzte sich"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "um zu essen"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "und sie tranken"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "und sie standen auf"
+    },
+    {
+      "surface": "לצחק",
+      "gloss": "um zu scherzen"
+    }
+  ],
+  "timestamp": "2026-08-06T20:18:38.772719150Z",
+  "model": "glm-5.2"
+}

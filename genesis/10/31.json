@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Dies ⟨sind⟩ die Söhne Schems, nach ihren Sippen, nach ihren Sprachen, in ihren Ländern, nach ihren Völkern.",
+  "tokens": [
+    {
+      "surface": "אֵ֣לֶּה",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "שֵׁ֔ם",
+      "gloss": "Schems"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹתָ֖ם",
+      "gloss": "nach ihren Sippen"
+    },
+    {
+      "surface": "לִלְשֹׁנֹתָ֑ם",
+      "gloss": "nach ihren Sprachen"
+    },
+    {
+      "surface": "בְּאַרְצֹתָ֖ם",
+      "gloss": "in ihren Ländern"
+    },
+    {
+      "surface": "לְגוֹיֵהֶֽם",
+      "gloss": "nach ihren Völkern"
+    }
+  ],
+  "timestamp": "2026-08-06T05:07:43.461457369Z",
+  "model": "glm-5.2"
+}

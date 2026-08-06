@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 42,
+  "translation": "JHWH hatte Gefallen — um seines Zedek willen — die Tora groß zu machen und sie herrlich zu erheben.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hatte Gefallen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "seines Zedek"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "groß zu machen"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "und herrlich zu erheben"
+    }
+  ],
+  "timestamp": "2026-08-06T08:52:51.288443563Z",
+  "model": "glm-5.2"
+}

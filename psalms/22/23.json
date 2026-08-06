@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Ich will deinen Namen erzählen, meinen Brüdern, inmitten der Versammlung will ich dich rühmen.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ich will erzählen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "deinen Namen"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "meinen Brüdern"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inmitten"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "der Versammlung"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "will ich dich rühmen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:45.391802947Z",
+  "model": "glm-5.2"
+}

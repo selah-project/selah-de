@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Aber das Volk, das hinter Omri war, wurde stärker als ⟨את⟩ das Volk, das hinter Tivni, dem Sohn Ginats, war; und Tivni starb, und Omri wurde König.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Aber … wurde stärker"
+    },
+    {
+      "surface": "העם",
+      "gloss": "das Volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "als ⟨das⟩ Volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hinter"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dem Sohn"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginats"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "war; und … starb"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "und … wurde König"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-06T03:00:16.479197992Z",
+  "model": "glm-5.2"
+}

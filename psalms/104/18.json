@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Die hohen Berge ⟨sind⟩ für ⟨die⟩ Steinböcke, die Felsen ⟨sind⟩ Zuflucht für ⟨die⟩ Klippschliefer.",
+  "tokens": [
+    {
+      "surface": "הָרִים",
+      "gloss": "Berge"
+    },
+    {
+      "surface": "הַגְּבֹהִים",
+      "gloss": "die hohen"
+    },
+    {
+      "surface": "לַיְּעֵלִים",
+      "gloss": "für ⟨die⟩ Steinböcke"
+    },
+    {
+      "surface": "סְלָעִים",
+      "gloss": "Felsen"
+    },
+    {
+      "surface": "מַחְסֶה",
+      "gloss": "Zuflucht"
+    },
+    {
+      "surface": "לַשְׁפַנִּים",
+      "gloss": "für ⟨die⟩ Klippschliefer"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:21.176012798Z",
+  "model": "glm-5.2"
+}

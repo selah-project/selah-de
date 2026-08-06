@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Und sie schrieen zu JHWH in ⟨ihrer⟩ Bedrängnis, ⟨die⟩ ⟨ihnen⟩ ⟨widerfuhr⟩, und aus ihren Engen rettete er sie.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Und sie schrieen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in Bedrängnis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "aus ihren Engen"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "rettete er sie"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:22.406569427Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 43,
+  "translation": "Und der Mann brachte ⟨את⟩ die Männer in das Haus Jossifs, und er gab Wasser, und sie wuschen ihre Füße, und er gab Futter ihren Eseln.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Und-brachte"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "der Mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Männer"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die Männer"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "in das Haus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jossifs"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und-(er)-gab"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "und-sie-wuschen"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ihre Füße"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und-(er)-gab"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "Futter"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "ihren Eseln"
+    }
+  ],
+  "timestamp": "2026-08-06T20:17:16.754414789Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und Esaw sagte: „Ich habe viel, mein Bruder. ⟨Es⟩ sei dir, was dir ⟨gehört⟩.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ich habe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "רב",
+      "gloss": "viel"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mein Bruder"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "⟨es⟩ sei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir ⟨gehört⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T00:09:03.217611143Z",
+  "model": "glm-5.2"
+}

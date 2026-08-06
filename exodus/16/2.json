@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und es murrte die ganze Versammlung der Söhne Jisraels über Mosche und über Aharon in der Wüste.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "Und es murrte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "Versammlung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "und über"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in der Wüste"
+    }
+  ],
+  "timestamp": "2026-08-06T02:03:45.726895811Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Nur er ⟨ist⟩ mein Fels und meine Rettung, meine Höhe — ⟨ich⟩ werde nicht wanken, viel.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mein Fels"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "und meine Rettung"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "meine Höhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "werde ich wanken"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "viel"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:35.935977519Z",
+  "model": "glm-5.2"
+}

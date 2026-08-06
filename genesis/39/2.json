@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 39,
+  "translation": "Und JHWH war ⟨את⟩ Josew, und ⟨er⟩ war ein Mann, dem Gelingen beschieden war, und ⟨er⟩ war im Haus seines Herrn, des Mizrajiters.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Und es war"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josew"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josew"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨er⟩ war"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ein Mann"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "dem Gelingen beschieden war"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "und ⟨er⟩ war"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "im Haus"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "seines Herrn"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "des Mizrajiters"
+    }
+  ],
+  "timestamp": "2026-08-05T20:02:28.872985222Z",
+  "model": "glm-5.2"
+}

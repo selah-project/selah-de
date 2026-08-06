@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und ⟨er hat⟩ dich herangebracht und ⟨את⟩ all deine Brüder, die Söhne Lewis, mit dir — und ihr sucht auch das Kohenamt?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Und ⟨er hat⟩ herangebracht"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dich",
+      "marks": "dich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ und",
+      "marks": "all deine Brüder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "deine Brüder"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewis"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "mit dir"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "und ihr sucht"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "das Kohenamt"
+    }
+  ],
+  "timestamp": "2026-08-06T05:24:34.416877271Z",
+  "model": "glm-5.2"
+}

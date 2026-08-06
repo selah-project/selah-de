@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 11,
+  "translation": "Und ⟨der⟩ König Schelomo liebte viele fremde Frauen, und ⟨את⟩ die Tochter des Paro — Moawiterinnen, Ammoniterinnen, Edomiterinnen, Tsidonierinnen, Chititerinnen.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Und ⟨der⟩ König"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liebte"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "Frauen"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "fremde"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "viele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Tochter"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die Tochter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "des Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moawiterinnen"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Ammoniterinnen"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomiterinnen"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Tsidonierinnen"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Chititerinnen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:29:33.027346525Z",
+  "model": "glm-5.2"
+}

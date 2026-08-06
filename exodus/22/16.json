@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wenn ihr Vater sich gänzlich weigert, sie ihm zu geben, soll er Silber darwägen nach ⟨der⟩ Heiratsgabe der Jungfrauen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "⟨sich⟩ weigert"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "gänzlich weigert"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ihr Vater"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "sie zu geben"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "Silber"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "soll ⟨er⟩ darwägen"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "nach ⟨der⟩ Heiratsgabe"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "der Jungfrauen"
+    }
+  ],
+  "timestamp": "2026-08-06T02:05:17.382694662Z",
+  "model": "glm-5.2"
+}

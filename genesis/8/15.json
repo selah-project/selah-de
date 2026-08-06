@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und Elohim sprach zu Noach und sagte:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und sprach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:53.724915325Z",
+  "model": "glm-5.2"
+}

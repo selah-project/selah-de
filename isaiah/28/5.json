@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "An jenem Tag wird JHWH der Zebaoth ⟨sein⟩ zur Krone des Glanzes und zum Diadem der Pracht für den Rest seines Volkes.",
+  "tokens": [
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "An ⟨dem⟩ Tag"
+    },
+    {
+      "surface": "הַה֗וּא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "יִֽהְיֶה֙",
+      "gloss": "wird ⟨sein⟩"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צְבָא֔וֹת",
+      "gloss": "der Zebaoth"
+    },
+    {
+      "surface": "לַעֲטֶ֣רֶת",
+      "gloss": "zur Krone"
+    },
+    {
+      "surface": "צְבִ֔י",
+      "gloss": "des Glanzes"
+    },
+    {
+      "surface": "וְלִצְפִירַ֖ת",
+      "gloss": "und zum Diadem"
+    },
+    {
+      "surface": "תִּפְאָרָ֑ה",
+      "gloss": "der Pracht"
+    },
+    {
+      "surface": "לִשְׁאָ֖ר",
+      "gloss": "für den Rest"
+    },
+    {
+      "surface": "עַמּֽוֹ",
+      "gloss": "seines Volkes"
+    }
+  ],
+  "timestamp": "2026-08-05T21:48:56.742979103Z",
+  "model": "glm-5.2"
+}

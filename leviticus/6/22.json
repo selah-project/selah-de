@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "Jeder Männliche unter den Kohen ⟨darf⟩ es essen. Es ist Höchstheiliges.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Männliche"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "unter den Kohen"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "darf essen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "es"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Heiliges"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "der Heiligkeiten"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es ist"
+    }
+  ],
+  "timestamp": "2026-08-05T20:19:55.076084205Z",
+  "model": "glm-5.2"
+}

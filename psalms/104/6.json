@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 104,
+  "translation": "Die Urflut — wie ein Gewand bedecktest du ⟨את⟩ sie; über Bergen standen Wasser.",
+  "tokens": [
+    {
+      "surface": "תְּ֭הוֹם",
+      "gloss": "die Urflut"
+    },
+    {
+      "surface": "כַּלְּב֣וּשׁ",
+      "gloss": "wie ein Gewand"
+    },
+    {
+      "surface": "כִּסִּית֑וֹ",
+      "gloss": "bedecktest du ⟨את⟩ sie",
+      "marks": "sie (die Urflut)"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "über"
+    },
+    {
+      "surface": "הָ֝רִ֗ים",
+      "gloss": "Bergen"
+    },
+    {
+      "surface": "יַֽעַמְדוּ",
+      "gloss": "standen"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T04:20:11.365695065Z",
+  "model": "glm-5.2"
+}

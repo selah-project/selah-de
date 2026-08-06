@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 44,
+  "translation": "⟨Er⟩ weidet Asche. ⟨Ein⟩ getäuschtes Herz hat ihn abgelenkt — und ⟨er⟩ rettet nicht ⟨את⟩ seine Nefesch und sagt nicht: „Ist ⟨es⟩ nicht Trug in meiner Rechten?“",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "weidet"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "Asche"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Herz"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "getäuschtes"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "hat ihn abgelenkt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "rettet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Nefesch"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "seine Nefesch"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sagt"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "Trug"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "in meiner Rechten"
+    }
+  ],
+  "timestamp": "2026-08-06T15:53:03.157122003Z",
+  "model": "glm-5.2"
+}

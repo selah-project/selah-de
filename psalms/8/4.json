@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Wenn ich sehe ⟨deine⟩ Himmel, das Werk deiner Finger, Mond und Sterne, die du bereitet hast —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ich sehe"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "⟨deine⟩ Himmel"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "das Werk"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "deiner Finger"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Mond"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "und Sterne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "du bereitet hast"
+    }
+  ],
+  "timestamp": "2026-08-06T09:13:19.055117909Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 67,
+  "translation": "Es sollen dich preisen, die Völker, Elohim; es sollen dich preisen, die Völker, alle miteinander.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Es sollen dich preisen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "es sollen dich preisen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alle miteinander"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:05.307105215Z",
+  "model": "glm-5.2"
+}

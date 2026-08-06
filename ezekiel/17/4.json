@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "⟨את⟩ Seine obersten Schößlinge brach ⟨er⟩ ab und ⟨brachte⟩ ihn ins Land Kenaan, in eine Stadt der Händler; ⟨dort⟩ setzte ⟨er⟩ ihn.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obersten Schößlinge"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "obersten"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "Schößlinge"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "brach ⟨er⟩ ab"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "und ⟨brachte⟩ ihn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ins"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in eine Stadt"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "der Händler"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨dort⟩ setzte ⟨er⟩ ⟨ihn⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T03:46:32.577679993Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 132,
+  "translation": "„Dies ⟨ist⟩ meine Ruhestatt für immer; hier will ich wohnen, denn ich habe ⟨sie⟩ begehrt.“",
+  "tokens": [
+    {
+      "surface": "זֹאת",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "מְנוּחָתִ֥י",
+      "gloss": "meine Ruhestatt"
+    },
+    {
+      "surface": "עֲדֵי",
+      "gloss": "für"
+    },
+    {
+      "surface": "עַ֑ד",
+      "gloss": "immer"
+    },
+    {
+      "surface": "פֹּֽה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "אֵ֝שֵׁ֗ב",
+      "gloss": "will ich wohnen"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אִוִּתִֽיהָ",
+      "gloss": "ich habe ⟨sie⟩ begehrt"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:13.957687425Z",
+  "model": "glm-5.2"
+}

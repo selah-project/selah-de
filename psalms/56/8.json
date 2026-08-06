@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 56,
+  "translation": "Wegen Unheil — ⟨sollten sie entrinnen⟩? ⟨Zermalme sie⟩ in Zorn, ⟨du⟩ Völker! Hinabstürzen lässt ⟨das⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Wegen"
+    },
+    {
+      "surface": "און",
+      "gloss": "Unheil"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "⟨sollten sie entrinnen⟩"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨ihnen⟩"
+    },
+    {
+      "surface": "באף",
+      "gloss": "⟨Zermalme sie⟩ in Zorn"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "⟨du⟩ Völker"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "Hinabstürzen lässt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨das⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:41.155215717Z",
+  "model": "glm-5.2"
+}

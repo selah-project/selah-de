@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 13:32",
+  "book": "joshua",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Das sind ⟨die Erbteile⟩, die Mosche als Erbteil verteilte in den Ebenen Moaws, jenseits des Jordan bei Jericho, nach Osten hin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Das sind"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "als Erbteil verteilte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "in den Ebenen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaws"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "jenseits"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "des Jordan"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "bei Jericho"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "nach Osten hin"
+    }
+  ],
+  "timestamp": "2026-08-05T20:56:34.219409390Z",
+  "model": "glm-5.2"
+}

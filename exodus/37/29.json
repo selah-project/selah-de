@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und er machte ⟨את⟩ das Öl der Salbung, Heiliges, und ⟨את⟩ das Räucherwerk der Gewürze, rein, Machwerk eines Salbenmischers.",
+  "tokens": [
+    {
+      "surface": "וַיַ֜עַשׂ",
+      "gloss": "Und er machte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Öl der Salbung"
+    },
+    {
+      "surface": "שֶׁ֤מֶן",
+      "gloss": "Öl"
+    },
+    {
+      "surface": "הַמִּשְׁחָה֙",
+      "gloss": "der Salbung"
+    },
+    {
+      "surface": "קֹ֔דֶשׁ",
+      "gloss": "Heiliges"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Räucherwerk der Gewürze"
+    },
+    {
+      "surface": "קְטֹ֥רֶת",
+      "gloss": "Räucherwerk"
+    },
+    {
+      "surface": "הַסַּמִּ֖ים",
+      "gloss": "der Gewürze"
+    },
+    {
+      "surface": "טָה֑וֹר",
+      "gloss": "rein"
+    },
+    {
+      "surface": "מַעֲשֵׂ֖ה",
+      "gloss": "Machwerk"
+    },
+    {
+      "surface": "רֹקֵֽחַ",
+      "gloss": "eines Salbenmischers"
+    }
+  ],
+  "timestamp": "2026-08-05T20:16:27.128894811Z",
+  "model": "glm-5.2"
+}

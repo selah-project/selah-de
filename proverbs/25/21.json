@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Wenn hungert, ⟨der⟩ dich hasst, speise ⟨ihn⟩ ⟨mit⟩ Brot, und wenn dürstet, ⟨ihn⟩, tränke ⟨ihn⟩ ⟨mit⟩ Wasser.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hungert"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "dich hasst"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "speise ⟨ihn⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "und wenn"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "dürstet"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "tränke ⟨ihn⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Wasser"
+    }
+  ],
+  "timestamp": "2026-08-06T09:22:23.387196178Z",
+  "model": "glm-5.2"
+}

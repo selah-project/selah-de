@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Am Neunten des Monats, und der Hunger wurde stark in der Stadt, und es gab kein Brot für das Volk des Landes.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Am Neunten"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "und es wurde stark"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "der Hunger"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "היה",
+      "gloss": "es gab"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "für das Volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "des Landes"
+    }
+  ],
+  "timestamp": "2026-08-05T21:42:13.634353423Z",
+  "model": "glm-5.2"
+}

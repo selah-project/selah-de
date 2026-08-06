@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Es fange ein Gläubiger alles ein, was er hat, und Fremde sollen seine Arbeit plündern.",
+  "tokens": [
+    {
+      "surface": "יְנַקֵּ֣שׁ",
+      "gloss": "fange ein"
+    },
+    {
+      "surface": "נ֭וֹשֶׁה",
+      "gloss": "ein Gläubiger"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "was"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "er hat"
+    },
+    {
+      "surface": "וְיָבֹ֖זּוּ",
+      "gloss": "und ⟨sie⟩ sollen plündern"
+    },
+    {
+      "surface": "זָרִ֣ים",
+      "gloss": "Fremde"
+    },
+    {
+      "surface": "יְגִיעֽוֹ",
+      "gloss": "seine Arbeit"
+    }
+  ],
+  "timestamp": "2026-08-06T16:01:54.392249482Z",
+  "model": "glm-5.2"
+}

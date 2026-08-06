@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "Und ⟨die⟩ Gebeine der Kohen verbrannte er auf ihren Altären, und er reinigte ⟨את⟩ Jehuda und ⟨את⟩ Jeruschalajim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "und ⟨die⟩ Gebeine"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "verbrannte er"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "ihren Altären"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "und er reinigte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Jeruschalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:02:08.286207280Z",
+  "model": "glm-5.2"
+}

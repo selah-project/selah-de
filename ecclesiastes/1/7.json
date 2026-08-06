@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Alle ⟨die⟩ Ströme gehen ⟨zum⟩ Meer, und ⟨das⟩ Meer ⟨ist⟩ nicht voll; ⟨zum⟩ Ort, wohin die Ströme gehen, dorthin kehren sie zurück, zu fließen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "⟨die⟩ Ströme"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "gehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zum⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Meer"
+    },
+    {
+      "surface": "והים",
+      "gloss": "und ⟨das⟩ Meer"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨ist⟩ nicht"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "voll"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zum⟩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "Ort"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "wohin die Ströme"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "gehen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dorthin"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "kehren zurück"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "zu fließen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:29:50.833190577Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und wenn ⟨es⟩ irgendein unreines Tier ⟨ist⟩, das man von ihm nicht als Korban (das Nahegebrachte) für JHWH darbringt, dann soll er ⟨את⟩ das Tier vor den Kohen stellen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Und wenn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "irgendein"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "Tier"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "unreines"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "man darbringt"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "von ihm"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "als Korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "dann soll er stellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das Tier"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "das Tier"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "vor"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "den Kohen"
+    }
+  ],
+  "timestamp": "2026-08-06T00:30:44.131552698Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 52,
+  "translation": "Ich werde dich preisen in Ewigkeit, denn du hast ⟨es⟩ getan; und ich hoffe auf deinen Namen, denn ⟨er⟩ ⟨ist⟩ gut, vor deinen Frommen.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ich werde dich preisen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "in Ewigkeit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "du hast ⟨es⟩ getan"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "und ich hoffe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "auf deinen Namen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨er⟩ ⟨ist⟩ gut"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "vor"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "deinen Frommen"
+    }
+  ],
+  "timestamp": "2026-08-05T22:50:51.449847148Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 84,
+  "translation": "Wie lieblich sind deine Wohnungen, JHWH Zewaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "lieblich"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "sind deine Wohnungen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Zewaot"
+    }
+  ],
+  "timestamp": "2026-08-06T06:46:41.145143420Z",
+  "model": "glm-5.2"
+}

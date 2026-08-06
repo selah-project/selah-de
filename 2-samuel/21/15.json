@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und es war wieder Krieg für die Pelischtim gegen ⟨את⟩ Jisra'el, und Dawid stieg hinab, und seine Knechte mit ihm, und sie kämpften gegen ⟨את⟩ die Pelischtim, und Dawid ermattete.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "und es war"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wieder"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "Krieg"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "für die Pelischtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "gegen ⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "und Dawid stieg hinab"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "und seine Knechte"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "und sie kämpften"
+    },
+    {
+      "surface": "את",
+      "gloss": "gegen ⟨את⟩",
+      "marks": "die Pelischtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "und Dawid ermattete"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-05T21:24:09.845501030Z",
+  "model": "glm-5.2"
+}

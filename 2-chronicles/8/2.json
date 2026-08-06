@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "was die Städte betrifft, die Churam dem Schelomo gegeben hatte — Schelomo baute sie aus, und er ließ ⟨die⟩ Söhne Jisraels dort wohnen.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "was die Städte betrifft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegeben hatte"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Churam"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "dem Schelomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "baute aus"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Schelomo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie",
+      "marks": "die Städte"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "und er ließ wohnen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Söhne Jisraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-08-05T23:55:13.118352772Z",
+  "model": "glm-5.2"
+}

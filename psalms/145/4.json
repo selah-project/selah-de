@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 145,
+  "translation": "Generation ⟨zu⟩ Generation wird ⟨man⟩ deine Taten rühmen und deine Machtteile kundtun.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Generation"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "⟨zu⟩ Generation"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "wird rühmen"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "deine Taten"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "und deine Machtteile"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "werden kundtun"
+    }
+  ],
+  "timestamp": "2026-08-06T09:20:31.870265977Z",
+  "model": "glm-5.2"
+}

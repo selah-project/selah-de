@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ich erhob ⟨את⟩ meine Augen und sah, und siehe, vier Hörner.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "und ich erhob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meine Augen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meine Augen"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "und sah"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "und siehe"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "Hörner"
+    }
+  ],
+  "timestamp": "2026-08-05T22:40:50.868203419Z",
+  "model": "glm-5.2"
+}

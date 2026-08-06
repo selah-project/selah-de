@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 56,
+  "translation": "Sei mir gnädig, Elohim, denn ⟨der sterbliche Mensch⟩ will mich verschlingen; den ganzen Tag kämpfend bedrängt er mich.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Sei mir gnädig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "will mich verschlingen"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨der sterbliche Mensch⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den ganzen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kämpfend"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "bedrängt er mich"
+    }
+  ],
+  "timestamp": "2026-08-05T22:51:38.855033712Z",
+  "model": "glm-5.2"
+}

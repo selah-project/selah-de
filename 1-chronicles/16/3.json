@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und er verteilte an ganz Jisra'el, vom Mann bis zur Frau, jedem Mann einen Fladen Brot und einen Anteil Fleisch und einen Rosinenkuchen.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "und er verteilte"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "an ganz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨Mann⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "vom Mann"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bis zur"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Frau"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "jedem Mann"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "einen Fladen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "und einen Anteil Fleisch"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "und einen Rosinenkuchen"
+    }
+  ],
+  "timestamp": "2026-08-06T07:21:57.055095181Z",
+  "model": "glm-5.2"
+}

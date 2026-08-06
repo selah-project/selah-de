@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 60,
+  "translation": "Als er ⟨mit⟩ Aram Naharajim und ⟨mit⟩ Aram Zowa stritt, und Joaw umkehrte und ⟨את⟩ Edom schlug im Tal Salz — zwölftausend.",
+  "tokens": [
+    {
+      "surface": "בְּהַצּוֹת֨וֹ",
+      "gloss": "Als er stritt"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Aram Naharajim"
+    },
+    {
+      "surface": "אֲרַ֣ם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נַהֲרַיִם֮",
+      "gloss": "Naharajim"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Aram Zowa"
+    },
+    {
+      "surface": "אֲרַ֪ם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צ֫וֹבָ֥ה",
+      "gloss": "Zowa"
+    },
+    {
+      "surface": "וַיָּ֤שָׁב",
+      "gloss": "und er kehrte um"
+    },
+    {
+      "surface": "יוֹאָ֗ב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "וַיַּ֣ךְ",
+      "gloss": "und er schlug"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אֱד֥וֹם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בְּגֵיא",
+      "gloss": "im Tal"
+    },
+    {
+      "surface": "מֶ֑לַח",
+      "gloss": "Salz"
+    },
+    {
+      "surface": "שְׁנֵ֖ים",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "עָשָׂ֣ר",
+      "gloss": "zwölf"
+    },
+    {
+      "surface": "אָֽלֶף",
+      "gloss": "tausend"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:12.642774381Z",
+  "model": "glm-5.2"
+}

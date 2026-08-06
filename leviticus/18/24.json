@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 18:24",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 18,
+  "translation": "Verunreinigt euch nicht durch all dies, denn durch all dies haben sich verunreinigt die Völker, die ich vor eurem Angesicht wegstoße.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "verunreinigt euch"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "durch all"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "durch all"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dies"
+    },
+    {
+      "surface": "נטמאו",
+      "gloss": "haben sich verunreinigt"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die Völker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "wegstoße"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "vor eurem Angesicht"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:24.902836089Z",
+  "model": "glm-5.2"
+}

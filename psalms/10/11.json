@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Er sprach in seinem Herzen: „El hat vergessen, ⟨er⟩ hat sein Angesicht verborgen, ⟨er⟩ wird niemals sehen.“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Er sprach"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in seinem Herzen"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "hat vergessen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "hat verborgen"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sein Angesicht"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wird ⟨er⟩ sehen"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "niemals"
+    }
+  ],
+  "timestamp": "2026-08-06T06:39:00.796835326Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Auf dich vertrauten unsere Väter — sie vertrauten, und du entrannst sie.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "auf dich"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "vertrauten"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "unsere Väter"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "sie vertrauten"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "und du entrannst sie"
+    }
+  ],
+  "timestamp": "2026-08-05T22:46:43.727696174Z",
+  "model": "glm-5.2"
+}

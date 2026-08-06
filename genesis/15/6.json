@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und er vertraute JHWH, und ⟨er⟩ rechnete es ⟨ihm⟩ als Zedaka an.",
+  "tokens": [
+    {
+      "surface": "וְהֶאֱמִ֖ן",
+      "gloss": "und er vertraute"
+    },
+    {
+      "surface": "בַּֽיהוָ֑ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וַיַּחְשְׁבֶ֥הָ",
+      "gloss": "und ⟨er⟩ rechnete ⟨es⟩ an"
+    },
+    {
+      "surface": "לּ֖וֹ",
+      "gloss": "⟨ihm⟩"
+    },
+    {
+      "surface": "צְדָקָֽה",
+      "gloss": "Zedaka (Gerechtigkeit)"
+    }
+  ],
+  "timestamp": "2026-08-06T15:35:01.449258837Z",
+  "model": "glm-5.2"
+}

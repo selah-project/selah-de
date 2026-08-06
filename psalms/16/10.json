@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Denn du wirst meine Nefesch nicht dem Scheol überlassen, nicht geben deinen Chasid ⟨davon⟩, die Grube zu schauen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "wirst … überlassen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "dem Scheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "geben"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "deinen Chasid"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "zu schauen"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "die Grube"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:24.267092584Z",
+  "model": "glm-5.2"
+}

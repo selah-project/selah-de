@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "Und Awraham war alt, gekommen in ⟨die⟩ Tagen, und JHWH hatte ⟨את⟩ Awraham gesegnet in allem.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Und Awraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "war alt"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekommen"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in ⟨den⟩ Tagen"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "und JHWH"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "hatte gesegnet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in allem"
+    }
+  ],
+  "timestamp": "2026-08-05T17:34:11.518609745Z",
+  "model": "glm-5.2"
+}

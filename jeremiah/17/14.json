@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 17:14",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Heile mich, JHWH, und ich werde geheilt werden; rette mich, und ich werde gerettet werden — denn du bist mein Lob.",
+  "tokens": [
+    {
+      "surface": "רפאני",
+      "gloss": "Heile mich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וארפא",
+      "gloss": "und ich werde geheilt werden"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "rette mich"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "und ich werde gerettet werden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "du bist mein Lob"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    }
+  ],
+  "timestamp": "2026-08-05T22:03:42.559976128Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 4,
+  "translation": "Dies ist der Dienst der Söhne Kehats im Zelt der Begegnung: das Heiligste der heiligen Dinge.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Dies"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ist der Dienst"
+    },
+    {
+      "surface": "בני",
+      "gloss": "der Söhne"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehats"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "im Zelt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "der Begegnung"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "das Heiligste"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "der heiligen Dinge"
+    }
+  ],
+  "timestamp": "2026-08-05T20:30:09.667861049Z",
+  "model": "glm-5.2"
+}

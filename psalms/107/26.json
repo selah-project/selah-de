@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 107,
+  "translation": "Sie steigen zum Himmel empor, sie fahren hinab zu den Fluten, ihre Nefesch schmilzt dahin in Not.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "sie steigen empor"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "zum Himmel"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "sie fahren hinab"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "zu den Fluten"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ihre Nefesch"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "in Not"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "schmilzt dahin"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:07.374014025Z",
+  "model": "glm-5.2"
+}

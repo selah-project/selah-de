@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Und ⟨er⟩ entfernte ⟨את⟩ die Decke von Jehuda, und ⟨du⟩ schautest an jenem Tag ⟨hin⟩ auf die Waffen des Hauses des Waldes.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Und ⟨er⟩ entfernte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Decke"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "Decke"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "von Jehuda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "und ⟨du⟩ schautest"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "an jenem Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨hin⟩ auf"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "die Waffen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "des Hauses"
+    },
+    {
+      "surface": "היער",
+      "gloss": "des Waldes"
+    }
+  ],
+  "timestamp": "2026-08-06T05:59:08.992047134Z",
+  "model": "glm-5.2"
+}

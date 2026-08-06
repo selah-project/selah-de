@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Damit das letzte Geschlecht es kennt, die Söhne, die geboren werden, ⟨dass⟩ sie aufstehen und es ihren Söhnen erzählen.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "damit"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sie kennen"
+    },
+    {
+      "surface": "דור",
+      "gloss": "⟨das⟩ Geschlecht"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "das letzte"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "die Söhne"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "die geboren werden"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "⟨dass⟩ sie aufstehen"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "und erzählen"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "es ihren Söhnen"
+    }
+  ],
+  "timestamp": "2026-08-06T06:45:54.859869292Z",
+  "model": "glm-5.2"
+}

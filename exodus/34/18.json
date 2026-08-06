@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 34:18",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 34,
+  "translation": "⟨את⟩ das Fest der Mazzot sollst du halten. Sieben Tage sollst du Mazzot essen, die ich dir geboten habe, zur festgesetzten Zeit, im Monat des Awib; denn im Monat des Awib bist du aus Mizrajim gezogen.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "das Fest der Mazzot"
+    },
+    {
+      "surface": "חַ֣ג",
+      "gloss": "Fest"
+    },
+    {
+      "surface": "הַמַּצּוֹת֮",
+      "gloss": "der Mazzot"
+    },
+    {
+      "surface": "תִּשְׁמֹר֒",
+      "gloss": "sollst du halten"
+    },
+    {
+      "surface": "שִׁבְעַ֨ת",
+      "gloss": "Sieben"
+    },
+    {
+      "surface": "יָמִ֜ים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "תֹּאכַ֤ל",
+      "gloss": "sollst du essen"
+    },
+    {
+      "surface": "מַצּוֹת֙",
+      "gloss": "Mazzot"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "die"
+    },
+    {
+      "surface": "צִוִּיתִ֔ךָ",
+      "gloss": "ich dir geboten habe"
+    },
+    {
+      "surface": "לְמוֹעֵ֖ד",
+      "gloss": "zur festgesetzten Zeit"
+    },
+    {
+      "surface": "חֹ֣דֶשׁ",
+      "gloss": "im Monat"
+    },
+    {
+      "surface": "הָאָבִ֑יב",
+      "gloss": "des Awib"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "denn"
+    },
+    {
+      "surface": "בְּחֹ֣דֶשׁ",
+      "gloss": "im Monat"
+    },
+    {
+      "surface": "הָֽאָבִ֔יב",
+      "gloss": "des Awib"
+    },
+    {
+      "surface": "יָצָ֖אתָ",
+      "gloss": "bist du gezogen"
+    },
+    {
+      "surface": "מִמִּצְרָֽיִם",
+      "gloss": "aus Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T00:21:06.654327094Z",
+  "model": "glm-5.2"
+}

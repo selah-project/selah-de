@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 65,
+  "translation": "Und ⟨es⟩ fürchteten sich die Bewohner der Enden vor deinen Zeichen, die Ausgänge des Morgens und des Abends lässt du jauchzen.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "und sie fürchteten sich"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die Bewohner"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "der Enden"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "vor deinen Zeichen"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "die Ausgänge"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "des Morgens"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "und des Abends"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "lässt du jauchzen"
+    }
+  ],
+  "timestamp": "2026-08-06T09:16:35.123988978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 97,
+  "translation": "JHWH ⟨ist⟩ König geworden — es juble die Erde, freuen sollen sich Inseln, viele.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ist König geworden"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "es juble"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "freuen sollen sich"
+    },
+    {
+      "surface": "איים",
+      "gloss": "Inseln"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "viele"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:41.153375441Z",
+  "model": "glm-5.2"
+}

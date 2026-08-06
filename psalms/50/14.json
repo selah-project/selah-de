@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Schlachtre Elohim ⟨ein⟩ Toda-Opfer, und erfülle ⟨dem⟩ El Eljon deine Gelübde!",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "schlachtre"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "⟨ein⟩ Toda-Opfer"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "und erfülle"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "⟨dem⟩ El Eljon"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "deine Gelübde"
+    }
+  ],
+  "timestamp": "2026-08-06T06:42:38.393531497Z",
+  "model": "glm-5.2"
+}

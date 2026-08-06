@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und deinen Weinberg sollst du nicht abbeernten, und die Nachlese deines Weinbergs sollst du nicht nachlesen — dem Armen und dem Fremdling sollst du sie ⟨אתם⟩ überlassen. Ich bin JHWH, euer Elohim.",
+  "tokens": [
+    {
+      "surface": "וְכַרְמְךָ֙",
+      "gloss": "Und deinen Weinberg"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תְעוֹלֵ֔ל",
+      "gloss": "sollst du abbeernten"
+    },
+    {
+      "surface": "וּפֶ֥רֶט",
+      "gloss": "und die Nachlese"
+    },
+    {
+      "surface": "כַּרְמְךָ֖",
+      "gloss": "deines Weinbergs"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תְלַקֵּ֑ט",
+      "gloss": "sollst du nachlesen"
+    },
+    {
+      "surface": "לֶֽעָנִ֤י",
+      "gloss": "dem Armen"
+    },
+    {
+      "surface": "וְלַגֵּר֙",
+      "gloss": "und dem Fremdling"
+    },
+    {
+      "surface": "תַּעֲזֹ֣ב",
+      "gloss": "sollst du überlassen"
+    },
+    {
+      "surface": "אֹתָ֔ם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sie (die Teile der Ernte)"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "Ich"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "bin JHWH"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "euer Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T20:25:41.739013203Z",
+  "model": "glm-5.2"
+}

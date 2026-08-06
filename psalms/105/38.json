@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Froh war Mizrajim bei ihrem Auszug, denn ihr Schrecken war auf sie gefallen.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Froh war"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "bei ihrem Auszug"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "war gefallen"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ihr Schrecken"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "auf sie"
+    }
+  ],
+  "timestamp": "2026-08-05T23:01:20.271614591Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "Tritt ⟨als Bürge⟩ ein für deinen Knecht zum Guten — die Überheblichen sollen mich nicht bedrücken.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "tritt ⟨als Bürge⟩ ein"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "für deinen Knecht"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "zum Guten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "sollen mich bedrücken"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "die Überheblichen"
+    }
+  ],
+  "timestamp": "2026-08-05T23:04:30.655401044Z",
+  "model": "glm-5.2"
+}

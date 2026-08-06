@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 31,
+  "translation": "Das Herz ihres Mannes vertraut auf sie, und ⟨an⟩ Beute wird es ihm nicht mangeln.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "vertraut"
+    },
+    {
+      "surface": "בה",
+      "gloss": "auf sie"
+    },
+    {
+      "surface": "לב",
+      "gloss": "das Herz"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ihres Mannes"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "und ⟨an⟩ Beute"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "wird es mangeln"
+    }
+  ],
+  "timestamp": "2026-08-06T06:58:52.552347967Z",
+  "model": "glm-5.2"
+}

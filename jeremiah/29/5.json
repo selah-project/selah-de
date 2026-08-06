@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Baut Häuser und wohnt ⟨darin⟩, und pflanzt Gärten und esst ⟨את⟩ ihre Frucht.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Baut"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "Häuser"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "und wohnt"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "und pflanzt"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "Gärten"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "und esst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihre Frucht"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ihre Frucht"
+    }
+  ],
+  "timestamp": "2026-08-06T08:58:27.852720588Z",
+  "model": "glm-5.2"
+}

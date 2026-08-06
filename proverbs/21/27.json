@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Das Schlachtopfer der Frevler ⟨ist⟩ Gräuel — erst recht, ⟨wenn⟩ er es in Ruchlosigkeit heranbringt.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Das Schlachtopfer"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "⟨ist⟩ Gräuel"
+    },
+    {
+      "surface": "אף",
+      "gloss": "erst recht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨wenn⟩"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "in Ruchlosigkeit"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "er es heranbringt"
+    }
+  ],
+  "timestamp": "2026-08-05T23:13:04.806711884Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und Dawid hörte es und sandte ⟨את⟩ Joaw und ⟨את⟩ die ganze Heerschar der Helden.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "und hörte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "und sandte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaw"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die ganze Heerschar der Helden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die ganze"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "Heerschar"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "der Helden"
+    }
+  ],
+  "timestamp": "2026-08-05T23:51:08.190366690Z",
+  "model": "glm-5.2"
+}

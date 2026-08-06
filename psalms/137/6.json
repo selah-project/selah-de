@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 137,
+  "translation": "Es klebe meine Zunge an meinem Gaumen, wenn ich dich nicht gedenke, wenn ich Jeruschalajim nicht ⟨את⟩ erhebe über das Haupt meiner Freude!",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Es klebe"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "meine Zunge"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "an meinem Gaumen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ich dich gedenke"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ich erhebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruschalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "über"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "das Haupt"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "meiner Freude"
+    }
+  ],
+  "timestamp": "2026-08-06T06:52:30.992622321Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 66,
+  "translation": "die meine Lippen geöffnet haben und mein Mund geredet hat in meiner Bedrängnis.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "die"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "geöffnet haben"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "meine Lippen"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "und geredet hat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mein Mund"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in Bedrängnis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-08-05T22:52:59.205515613Z",
+  "model": "glm-5.2"
+}

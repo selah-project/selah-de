@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Jehuda eroberte ⟨את⟩ Asa und ⟨את⟩ ihr Gebiet, und ⟨את⟩ Aschkelon und ⟨את⟩ ihr Gebiet, und ⟨את⟩ Ekron und ⟨את⟩ ihr Gebiet.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Und er eroberte"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asa"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihr Gebiet"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ihr Gebiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Aschkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aschkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihr Gebiet"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ihr Gebiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "ihr Gebiet"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ihr Gebiet"
+    }
+  ],
+  "timestamp": "2026-08-06T02:33:31.976036793Z",
+  "model": "glm-5.2"
+}

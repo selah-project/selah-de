@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 33:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 33,
+  "translation": "Und für Lewi sagte er: „Deine Tummim und deine Urim sind für deinen Frommen, den du bei Massa prüftest, den du bei den Wassern von Meriwa anfochtest!",
+  "tokens": [
+    {
+      "surface": "וללוי",
+      "gloss": "und für Lewi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagte er"
+    },
+    {
+      "surface": "תמיך",
+      "gloss": "deine Tummim"
+    },
+    {
+      "surface": "ואוריך",
+      "gloss": "und deine Urim"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "für ⟨den⟩ Mann"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "deinen Frommen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "נסיתו",
+      "gloss": "du prüftest"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "bei Massa"
+    },
+    {
+      "surface": "תריבהו",
+      "gloss": "du anfochtest"
+    },
+    {
+      "surface": "על",
+      "gloss": "bei"
+    },
+    {
+      "surface": "מי",
+      "gloss": "den Wassern"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "von Meriwa"
+    }
+  ],
+  "timestamp": "2026-08-06T02:29:00.382414698Z",
+  "model": "glm-5.2"
+}

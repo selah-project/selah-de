@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 78,
+  "translation": "Er spaltete ⟨das⟩ Meer und ließ sie hinübergehen, und ⟨er⟩ stellte Wasser auf wie einen Damm.",
+  "tokens": [
+    {
+      "surface": "בָּ֣קַע",
+      "gloss": "Er spaltete"
+    },
+    {
+      "surface": "יָ֭ם",
+      "gloss": "⟨das⟩ Meer"
+    },
+    {
+      "surface": "וַיַּֽעֲבִירֵ֑ם",
+      "gloss": "und ließ sie hinübergehen"
+    },
+    {
+      "surface": "וַֽיַּצֶּב",
+      "gloss": "und ⟨er⟩ stellte auf"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "Wasser"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "wie"
+    },
+    {
+      "surface": "נֵֽד",
+      "gloss": "einen Damm"
+    }
+  ],
+  "timestamp": "2026-08-05T22:55:32.990033418Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 23:6",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "„Höre uns, mein Herr! Ein Fürst Elohims bist du in unserer Mitte. Im auserlesensten unserer Gräber birg ⟨את⟩ deinen Toten. Keiner von uns wird dir sein Grab vorenthalten, vom Beerdigen deines Toten.“",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Höre uns"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mein Herr"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "Ein Fürst"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "bist du"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "in unserer Mitte"
+    },
+    {
+      "surface": "במבחר",
+      "gloss": "Im auserlesensten"
+    },
+    {
+      "surface": "קברינו",
+      "gloss": "unserer Gräber"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "birg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deinen Toten"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "deinen Toten"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Keiner"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "von uns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Grab"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "sein Grab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "wird vorenthalten"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "מקבר",
+      "gloss": "vom Beerdigen"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "deines Toten"
+    }
+  ],
+  "timestamp": "2026-08-06T09:41:14.565311469Z",
+  "model": "glm-5.2"
+}

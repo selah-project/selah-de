@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "Auf Löwe und Otter wirst du treten, Junglöwe und Schlange wirst du zertreten.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "שַׁ֣חַל",
+      "gloss": "Löwe"
+    },
+    {
+      "surface": "וָפֶ֣תֶן",
+      "gloss": "und Otter"
+    },
+    {
+      "surface": "תִּדְרֹ֑ךְ",
+      "gloss": "wirst du treten"
+    },
+    {
+      "surface": "תִּרְמֹ֖ס",
+      "gloss": "wirst du zertreten"
+    },
+    {
+      "surface": "כְּפִ֣יר",
+      "gloss": "Junglöwe"
+    },
+    {
+      "surface": "וְתַנִּֽין",
+      "gloss": "und Schlange"
+    }
+  ],
+  "timestamp": "2026-08-05T23:00:55.387323179Z",
+  "model": "glm-5.2"
+}

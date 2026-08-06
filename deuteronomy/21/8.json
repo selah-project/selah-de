@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 21:8",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Sühne ⟨für⟩ dein Volk Jisraël, das du gelöst hast, JHWH, und gib nicht unschuldiges Blut in die Mitte deines Volkes Jisraël, und ⟨es⟩ soll ihnen das Blut gesühnt werden.",
+  "tokens": [
+    {
+      "surface": "כַּפֵּר֩",
+      "gloss": "sühne"
+    },
+    {
+      "surface": "לְעַמְּךָ֨",
+      "gloss": "für dein Volk"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֤ל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "das"
+    },
+    {
+      "surface": "פָּדִ֨יתָ֙",
+      "gloss": "du gelöst hast"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "und nicht"
+    },
+    {
+      "surface": "תִּתֵּן֙",
+      "gloss": "gib"
+    },
+    {
+      "surface": "דָּ֣ם",
+      "gloss": "Blut"
+    },
+    {
+      "surface": "נָקִ֔י",
+      "gloss": "unschuldiges"
+    },
+    {
+      "surface": "בְּקֶ֖רֶב",
+      "gloss": "in die Mitte"
+    },
+    {
+      "surface": "עַמְּךָ֣",
+      "gloss": "deines Volkes"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וְנִכַּפֵּ֥ר",
+      "gloss": "und es soll gesühnt werden"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "ihnen"
+    },
+    {
+      "surface": "הַדָּֽם",
+      "gloss": "das Blut"
+    }
+  ],
+  "timestamp": "2026-08-06T00:46:37.356702118Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 58,
+  "translation": "Entfremdet sind die Frevler vom Mutterschoß, irren vom Bauch weg, Lügenredner.",
+  "tokens": [
+    {
+      "surface": "זֹ֣רוּ",
+      "gloss": "Entfremdet sind"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "die Frevler"
+    },
+    {
+      "surface": "מֵרָ֑חֶם",
+      "gloss": "vom Mutterschoß"
+    },
+    {
+      "surface": "תָּע֥וּ",
+      "gloss": "irren"
+    },
+    {
+      "surface": "מִ֝בֶּ֗טֶן",
+      "gloss": "vom Bauch"
+    },
+    {
+      "surface": "דֹּבְרֵ֥י",
+      "gloss": "Redner"
+    },
+    {
+      "surface": "כָזָֽב",
+      "gloss": "von Lügen"
+    }
+  ],
+  "timestamp": "2026-08-06T10:31:06.011496183Z",
+  "model": "glm-5.2"
+}

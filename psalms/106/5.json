@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "um zu sehen ⟨im⟩ Guten deiner Ausgewählten, um dich zu freuen ⟨an⟩ der Freude deiner Nationen, um zu rühmen mit deinem Erbbesitz.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "um zu sehen"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "⟨im⟩ Guten"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "deiner Ausgewählten"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "um sich zu freuen"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "⟨an⟩ der Freude"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "deiner Nationen"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "um zu rühmen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "deinem Erbbesitz"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:02.227195243Z",
+  "model": "glm-5.2"
+}

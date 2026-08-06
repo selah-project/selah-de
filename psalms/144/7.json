@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 144,
+  "translation": "Strecke deine Hände aus von der Höhe, reiß mich heraus und rette mich aus vielen Wassern, aus der Hand von Söhnen des Fremdseins.",
+  "tokens": [
+    {
+      "surface": "שְׁלַ֥ח",
+      "gloss": "Strecke aus"
+    },
+    {
+      "surface": "יָדֶ֗יךָ",
+      "gloss": "deine Hände"
+    },
+    {
+      "surface": "מִמָּ֫ר֥וֹם",
+      "gloss": "von der Höhe"
+    },
+    {
+      "surface": "פְּצֵ֣נִי",
+      "gloss": "reiß mich heraus"
+    },
+    {
+      "surface": "וְ֭הַצִּילֵנִי",
+      "gloss": "und rette mich"
+    },
+    {
+      "surface": "מִמַּ֣יִם",
+      "gloss": "aus Wassern"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "vielen"
+    },
+    {
+      "surface": "מִ֝יַּ֗ד",
+      "gloss": "aus der Hand"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "von Söhnen"
+    },
+    {
+      "surface": "נֵכָֽר",
+      "gloss": "des Fremdseins"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:44.628721735Z",
+  "model": "glm-5.2"
+}

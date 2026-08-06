@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 91,
+  "translation": "Denn seine Boten wird er dir befehlen, dich zu bewahren auf all deinen Wegen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "seine Boten"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "wird er befehlen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dir"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "dich zu bewahren"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "auf all"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "deinen Wegen"
+    }
+  ],
+  "timestamp": "2026-08-06T04:19:12.003501616Z",
+  "model": "glm-5.2"
+}

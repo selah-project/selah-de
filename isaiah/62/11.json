@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 62:11",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 62,
+  "translation": "Siehe, JHWH hat ⟨es⟩ hören lassen bis ans Ende der Erde: Sagt der Tochter Zion: Siehe, dein Heil kommt! Siehe, sein Lohn ⟨ist⟩ bei ihm und sein Werk ⟨geht⟩ vor ihm her.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֣ה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "הִשְׁמִ֨יעַ֙",
+      "gloss": "hat hören lassen"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "bis"
+    },
+    {
+      "surface": "קְצֵ֣ה",
+      "gloss": "ans Ende"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "der Erde"
+    },
+    {
+      "surface": "אִמְרוּ֙",
+      "gloss": "sagt"
+    },
+    {
+      "surface": "לְבַת",
+      "gloss": "der Tochter"
+    },
+    {
+      "surface": "צִיּ֔וֹן",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "יִשְׁעֵ֖ךְ",
+      "gloss": "dein Heil"
+    },
+    {
+      "surface": "בָּ֑א",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "הִנֵּ֤ה",
+      "gloss": "siehe"
+    },
+    {
+      "surface": "שְׂכָרוֹ֙",
+      "gloss": "sein Lohn"
+    },
+    {
+      "surface": "אִתּ֔וֹ",
+      "gloss": "bei ihm"
+    },
+    {
+      "surface": "וּפְעֻלָּת֖וֹ",
+      "gloss": "und sein Werk"
+    },
+    {
+      "surface": "לְפָנָֽיו",
+      "gloss": "vor ihm"
+    }
+  ],
+  "timestamp": "2026-08-05T21:57:42.134267156Z",
+  "model": "glm-5.2"
+}

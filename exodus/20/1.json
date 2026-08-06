@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 20,
+  "translation": "Und Elohim sprach ⟨את⟩ alle diese Worte, indem ⟨er⟩ sprach:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "und sprach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle diese Worte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨die⟩ Worte"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨er⟩ sprach"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:23.580754671Z",
+  "model": "glm-5.2"
+}

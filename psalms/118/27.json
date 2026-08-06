@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 118,
+  "translation": "El ⟨ist⟩ JHWH, und er leuchtete uns. Bindet ⟨die⟩ Festfeier mit Stricken ⟨bis⟩ zu den Hörnern des Altars!",
+  "tokens": [
+    {
+      "surface": "אֵ֤ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יְהוָה֮",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "וַיָּ֪אֶר",
+      "gloss": "und er leuchtete"
+    },
+    {
+      "surface": "לָ֥נוּ",
+      "gloss": "uns"
+    },
+    {
+      "surface": "אִסְרוּ",
+      "gloss": "bindet"
+    },
+    {
+      "surface": "חַ֥ג",
+      "gloss": "Festfeier"
+    },
+    {
+      "surface": "בַּעֲבֹתִ֑ים",
+      "gloss": "mit Stricken"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis zu"
+    },
+    {
+      "surface": "קַ֝רְנ֗וֹת",
+      "gloss": "den Hörnern"
+    },
+    {
+      "surface": "הַמִּזְבֵּֽחַ",
+      "gloss": "des Altars"
+    }
+  ],
+  "timestamp": "2026-08-06T06:50:02.494574703Z",
+  "model": "glm-5.2"
+}

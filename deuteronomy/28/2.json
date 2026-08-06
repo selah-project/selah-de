@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 28,
+  "translation": "und es werden über dich kommen all diese Segnungen und dich einholen, weil du auf die Stimme von JHWH, deinem Elohim, hörst.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "und es werden … kommen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "über dich"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "diese Segnungen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "und dich einholen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "du hörst"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "auf die Stimme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "von JHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "deinem Elohim"
+    }
+  ],
+  "timestamp": "2026-08-06T08:30:30.485600416Z",
+  "model": "glm-5.2"
+}

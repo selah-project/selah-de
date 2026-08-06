@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 14,
+  "translation": "Im zweiten Jahr von Joasch, Sohn Joachs, König von Jisra'el, wurde Amazja, Sohn Joaschs, König von Jehuda, König.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Im Jahr"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "zweiten"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "von Joasch"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Joachs"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "von Jisra'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wurde König"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amazja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaschs"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "König"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "von Jehuda"
+    }
+  ],
+  "timestamp": "2026-08-05T21:37:24.316834218Z",
+  "model": "glm-5.2"
+}

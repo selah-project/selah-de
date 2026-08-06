@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Lass hervorleuchten dein Chessed, ⟨du⟩ Retter derer, die bei dir Schutz suchen, ⟨vor⟩ denen, die sich aufrichten, ⟨durch⟩ deine Rechte.",
+  "tokens": [
+    {
+      "surface": "הַפְלֵ֣ה",
+      "gloss": "Lass hervorleuchten"
+    },
+    {
+      "surface": "חֲ֭סָדֶיךָ",
+      "gloss": "dein Chessed"
+    },
+    {
+      "surface": "מוֹשִׁ֣יעַ",
+      "gloss": "⟨du⟩ Retter"
+    },
+    {
+      "surface": "חוֹסִ֑ים",
+      "gloss": "die Schutz suchen"
+    },
+    {
+      "surface": "מִ֝מִּתְקוֹמְמִ֗ים",
+      "gloss": "⟨vor⟩ denen, die sich aufrichten"
+    },
+    {
+      "surface": "בִּֽימִינֶֽךָ",
+      "gloss": "⟨durch⟩ deine Rechte"
+    }
+  ],
+  "timestamp": "2026-08-05T22:45:57.644657247Z",
+  "model": "glm-5.2"
+}

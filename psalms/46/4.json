@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 46,
+  "translation": "Es brausen, es schäumen seine Wasser, Berge erbeben ⟨vor⟩ seinem Hochmut. Sela.",
+  "tokens": [
+    {
+      "surface": "יֶהֱמוּ",
+      "gloss": "Es brausen"
+    },
+    {
+      "surface": "יֶחְמְרוּ",
+      "gloss": "es schäumen"
+    },
+    {
+      "surface": "מֵימָיו",
+      "gloss": "seine Wasser"
+    },
+    {
+      "surface": "יִרְעֲשׁוּ",
+      "gloss": "erbeben"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "Berge"
+    },
+    {
+      "surface": "בְּגַאֲוָתוֹ",
+      "gloss": "⟨vor⟩ seinem Hochmut"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-06T04:13:18.001460121Z",
+  "model": "glm-5.2"
+}

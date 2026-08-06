@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und er demütigte dich und ließ dich hungern und speiste dich mit ⟨את⟩ dem Man, das du nicht kanntest und das deine Väter nicht kannten, um dich erkennen zu lassen: Dass nicht vom Brot allein der Mensch lebt, sondern von allem, was aus dem Mund JHWHs ausgeht, lebt der Mensch.",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "Und er demütigte dich"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "und ließ dich hungern"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "und speiste dich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem Man"
+    },
+    {
+      "surface": "המן",
+      "gloss": "mit dem Man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "du kanntest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "und ⟨das⟩ nicht"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "kannten"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "deine Väter"
+    },
+    {
+      "surface": "למען",
+      "gloss": "um"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "dich erkennen zu lassen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "על",
+      "gloss": "von"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "dem Brot"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "allein"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "lebt"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sondern"
+    },
+    {
+      "surface": "על",
+      "gloss": "von"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allem"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "was … ausgeht"
+    },
+    {
+      "surface": "פי",
+      "gloss": "aus dem Mund"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "lebt"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "der Mensch"
+    }
+  ],
+  "timestamp": "2026-08-05T20:44:10.954410512Z",
+  "model": "glm-5.2"
+}

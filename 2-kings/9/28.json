@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und seine Knechte ließen ihn ⟨את⟩ auf einen Wagen steigen nach Jeruschalajim, und sie begruben ihn ⟨את⟩ in seiner Grabstätte bei seinen Vätern in der Stadt Dawids.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "und sie ließen steigen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "seine Knechte"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "nach Jeruschalajim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "und sie begruben"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihn"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "in seiner Grabstätte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "seinen Vätern"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in der Stadt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawids"
+    }
+  ],
+  "timestamp": "2026-08-06T20:31:19.904754592Z",
+  "model": "glm-5.2"
+}

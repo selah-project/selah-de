@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Denn dein Knecht hat ein Gelübde gelobt, als ich in Geschur, in Aram, weilte, indem ⟨ich⟩ sagte: Wenn JHWH mich wirklich nach Jeruschalajim zurückbringt, dann will ich ⟨את⟩ JHWH dienen.“",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ein Gelübde"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "hat … gelobt"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "dein Knecht"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "als ich weilte"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "in Geschur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "in Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨ich⟩ sagte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "wirklich"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "zurückbringt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "nach Jeruschalajim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "dann will ich dienen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "JHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T21:20:26.250766740Z",
+  "model": "glm-5.2"
+}

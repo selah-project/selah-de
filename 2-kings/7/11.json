@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und ⟨die⟩ Torhüter riefen, und ⟨sie⟩ meldeten ⟨es⟩ dem Haus des Königs drinnen.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "und riefen"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "die Torhüter"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "und meldeten"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dem Haus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "des Königs"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "drinnen"
+    }
+  ],
+  "timestamp": "2026-08-06T01:33:39.635109672Z",
+  "model": "glm-5.2"
+}

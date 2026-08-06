@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und er nahm ihm ⟨את⟩ all diese ⟨Tiere⟩ und zerteilte sie ⟨את⟩ in der Mitte, und ⟨er⟩ legte ⟨jedes⟩ Stück seinem Genossen gegenüber; ⟨aber⟩ ⟨את⟩ den Vogel zerteilte er nicht.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Und er nahm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all diese Tiere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "und zerteilte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sie"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in der Mitte"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "und ⟨er⟩ legte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨jedes⟩ Stück"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "⟨dessen⟩ Hälfte"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "gegenüber"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "seinem Genossen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Vogel"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "den Vogel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "zerteilte"
+    }
+  ],
+  "timestamp": "2026-08-06T14:46:53.866560753Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 16,
+  "translation": "Und die Söhne Jisraels machten so, und sie lasen auf, ⟨wer⟩ viel ⟨sammelte⟩, und ⟨wer⟩ wenig.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲשׂוּ",
+      "gloss": "und sie machten"
+    },
+    {
+      "surface": "כֵ֖ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "Söhne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "וַיִּלְקְט֔וּ",
+      "gloss": "und sie lasen auf"
+    },
+    {
+      "surface": "הַמַּרְבֶּ֖ה",
+      "gloss": "der Viel⟨sammelnde⟩"
+    },
+    {
+      "surface": "וְהַמַּמְעִֽיט",
+      "gloss": "und der Wenig⟨sammelnde⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T02:03:10.887808301Z",
+  "model": "glm-5.2"
+}

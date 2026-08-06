@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 50,
+  "translation": "Er ruft ⟨die⟩ Himmel von oben und ⟨die⟩ Erde, um ⟨sein⟩ Volk zu richten.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Er ruft"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨die⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Himmel"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "von oben"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und ⟨die⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "um zu richten"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨sein⟩ Volk"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:46.764260886Z",
+  "model": "glm-5.2"
+}

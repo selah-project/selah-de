@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "Brüllt ein Löwe im Wald, und ⟨doch hat⟩ er keinen Raub? Gibt ein Junglöwe seine Stimme aus seiner Höhle, außer er hat gefangen?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Brüllt"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ein Löwe"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "im Wald"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "und ⟨doch hat⟩ er keinen Raub"
+    },
+    {
+      "surface": "אין",
+      "gloss": "keinen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "er"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Gibt"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ein Junglöwe"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "seine Stimme"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "aus seiner Höhle"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "außer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "er gefangen hat"
+    }
+  ],
+  "timestamp": "2026-08-05T22:35:23.231568388Z",
+  "model": "glm-5.2"
+}

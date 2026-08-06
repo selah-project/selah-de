@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ich — siehe, ich errichte ⟨את⟩ meinen Brit, mit euch und ⟨את⟩ eurem Samen nach euch.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Und ich"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "siehe, ich"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "errichte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meinen Brit"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "meinen Brit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "mit euch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "euren Samen"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "nach euch"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:34.741045378Z",
+  "model": "glm-5.2"
+}

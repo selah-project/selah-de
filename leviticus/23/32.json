@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 23,
+  "translation": "Schabbat-Schabbaton ist er für euch, und ihr sollt ⟨את⟩ eure Nefeschot demütigen; am Neunten des Monats, am Abend, vom Abend bis zum Abend sollt ihr ruhen, ⟨euren⟩ Schabbat.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Schabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Schabbaton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ist er"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "für euch"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "und ihr sollt demütigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eure Nefeschot"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "eure Nefeschot"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "am Neunten"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "des Monats"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "am Abend"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "vom Abend"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "zum Abend"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "sollt ihr ruhen"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Schabbat"
+    }
+  ],
+  "timestamp": "2026-08-06T00:29:28.239608722Z",
+  "model": "glm-5.2"
+}

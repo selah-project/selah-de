@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und die Demütigen werden ⟨die⟩ Erde erben und sich laben an der Fülle von Schalom.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "und die Demütigen"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "werden erben"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Erde"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "und sich laben"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "רב",
+      "gloss": "der Fülle"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "von Schalom"
+    }
+  ],
+  "timestamp": "2026-08-06T04:11:52.362798683Z",
+  "model": "glm-5.2"
+}

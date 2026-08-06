@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Und Noach ging hinein, seine Söhne, seine Frau und die Frauen seiner Söhne mit ihm, in die Arche, vor den Wassern der Flut.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֣בֹא",
+      "gloss": "Und ging hinein"
+    },
+    {
+      "surface": "נֹ֗חַ",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "וּבָנָיו",
+      "gloss": "seine Söhne"
+    },
+    {
+      "surface": "וְאִשְׁתּוֹ",
+      "gloss": "seine Frau"
+    },
+    {
+      "surface": "וּנְשֵֽׁי",
+      "gloss": "und die Frauen"
+    },
+    {
+      "surface": "בָנָיו",
+      "gloss": "seiner Söhne"
+    },
+    {
+      "surface": "אִתּוֹ",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הַתֵּבָ֑ה",
+      "gloss": "die Arche"
+    },
+    {
+      "surface": "מִפְּנֵ֖י",
+      "gloss": "vor"
+    },
+    {
+      "surface": "מֵ֥י",
+      "gloss": "den Wassern"
+    },
+    {
+      "surface": "הַמַּבּֽוּל",
+      "gloss": "der Flut"
+    }
+  ],
+  "timestamp": "2026-08-05T17:29:58.195944434Z",
+  "model": "glm-5.2"
+}

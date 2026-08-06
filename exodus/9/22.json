@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und JHWH sprach zu Mosche: „Strecke ⟨את⟩ deine Hand aus zum Himmel, damit Hagel sei auf ganz Mizrajim, auf den Menschen und auf das Vieh und auf alles Kraut des Feldes im Land Mizrajim.“",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֨אמֶר",
+      "gloss": "Und ⟨er⟩ sprach"
+    },
+    {
+      "surface": "יְהוָ֜ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Mosche"
+    },
+    {
+      "surface": "נְטֵ֤ה",
+      "gloss": "strecke aus"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "deine Hand"
+    },
+    {
+      "surface": "יָֽדְךָ֙",
+      "gloss": "deine Hand"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הַשָּׁמַ֔יִם",
+      "gloss": "den Himmel"
+    },
+    {
+      "surface": "וִיהִ֥י",
+      "gloss": "damit ⟨es⟩ sei"
+    },
+    {
+      "surface": "בָּרָ֖ד",
+      "gloss": "Hagel"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "auf ganz"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "⟨das Land⟩"
+    },
+    {
+      "surface": "מִצְרַ֑יִם",
+      "gloss": "Mizrajim"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הָאָדָ֣ם",
+      "gloss": "den Menschen"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "הַבְּהֵמָ֗ה",
+      "gloss": "das Vieh"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "und auf"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "עֵ֥שֶׂב",
+      "gloss": "Kraut"
+    },
+    {
+      "surface": "הַשָּׂדֶ֖ה",
+      "gloss": "des Feldes"
+    },
+    {
+      "surface": "בְּאֶ֥רֶץ",
+      "gloss": "im Land"
+    },
+    {
+      "surface": "מִצְרָֽיִם",
+      "gloss": "Mizrajim"
+    }
+  ],
+  "timestamp": "2026-08-06T20:09:50.987298378Z",
+  "model": "glm-5.2"
+}

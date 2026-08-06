@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "und ⟨את⟩ den Chiwi und ⟨את⟩ den Arki und ⟨את⟩ den Sini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Chiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "den Chiwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "den Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "den Sini"
+    }
+  ],
+  "timestamp": "2026-08-05T19:55:09.514295086Z",
+  "model": "glm-5.2"
+}

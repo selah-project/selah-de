@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und ihr ließt ⟨את⟩ die Nasiräer Wein trinken, und den Nawi gebietet ihr, indem ⟨ihr⟩ sprecht: ‚Sprecht nicht als Inspiration!‘",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "Und ihr ließt trinken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Nasiräer"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "die Nasiräer"
+    },
+    {
+      "surface": "יין",
+      "gloss": "Wein"
+    },
+    {
+      "surface": "ו",
+      "gloss": "und"
+    },
+    {
+      "surface": "על",
+      "gloss": "an"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "die Nawi"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "gebt ihr Befehl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "indem ⟨ihr⟩ sprecht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nicht"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "sprecht als Inspiration"
+    }
+  ],
+  "timestamp": "2026-08-06T09:09:00.872308279Z",
+  "model": "glm-5.2"
+}

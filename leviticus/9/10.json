@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Und ⟨את⟩ das Fett und ⟨את⟩ die Nieren und ⟨את⟩ den Lappen von der Leber, von der Sündgabe, ließ er auf dem Altar in Rauch aufgehen, so wie JHWH ⟨את⟩ Mosche geboten hatte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "das Fett"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "das Fett"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "die Nieren"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "die Nieren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "den Lappen"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "den Lappen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "der Leber"
+    },
+    {
+      "surface": "מן",
+      "gloss": "von"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "der Sündgabe"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "ließ er in Rauch aufgehen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "auf ⟨dem⟩ Altar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so wie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "geboten hatte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosche"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosche"
+    }
+  ],
+  "timestamp": "2026-08-05T20:20:55.590236292Z",
+  "model": "glm-5.2"
+}

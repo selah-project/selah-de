@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "JHWH ⟨ist⟩ gerecht in ihrer Mitte, ⟨er⟩ wird kein Unrecht tun; Morgen für Morgen lässt er ⟨את⟩ sein Recht ans Licht kommen, ⟨es⟩ fehlt nicht — aber der Frevler kennt keine Scham.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צַדִּיק֙",
+      "gloss": "gerecht"
+    },
+    {
+      "surface": "בְּקִרְבָּ֔הּ",
+      "gloss": "in ihrer Mitte"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "יַעֲשֶׂ֖ה",
+      "gloss": "wird tun"
+    },
+    {
+      "surface": "עַוְלָ֑ה",
+      "gloss": "Unrecht"
+    },
+    {
+      "surface": "בַּבֹּ֨קֶר",
+      "gloss": "Morgen"
+    },
+    {
+      "surface": "בַּבֹּ֜קֶר",
+      "gloss": "für Morgen"
+    },
+    {
+      "surface": "מִשְׁפָּט֨וֹ",
+      "gloss": "sein Recht"
+    },
+    {
+      "surface": "יִתֵּ֤ן",
+      "gloss": "lässt er ⟨את⟩"
+    },
+    {
+      "surface": "לָאוֹר֙",
+      "gloss": "ans Licht kommen"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "נֶעְדָּ֔ר",
+      "gloss": "fehlt ⟨es⟩"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "יוֹדֵ֥עַ",
+      "gloss": "kennt"
+    },
+    {
+      "surface": "עַוָּ֖ל",
+      "gloss": "der Frevler"
+    },
+    {
+      "surface": "בֹּֽשֶׁת",
+      "gloss": "Scham"
+    }
+  ],
+  "timestamp": "2026-08-06T09:11:39.194984411Z",
+  "model": "glm-5.2"
+}

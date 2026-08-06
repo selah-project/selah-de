@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 143,
+  "translation": "Lehre mich, deinen Willen zu tun, denn du bist mein Elohim; deine gute Ruach leite mich ins Land der Ebene.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Lehre mich"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zu tun"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "deinen Willen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "bist mein Elohim"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "deine Ruach"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gute"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "leite mich"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ins Land"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "der Ebene"
+    }
+  ],
+  "timestamp": "2026-08-05T23:07:18.911276211Z",
+  "model": "glm-5.2"
+}

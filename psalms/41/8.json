@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 41,
+  "translation": "Zusammen ⟨ gegen ⟩ mich flüstern alle, die mich hassen; ⟨ gegen ⟩ mir sinnen sie auf Böses ⟨ für ⟩ mich:",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Zusammen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨gegen⟩ mich"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "flüstern"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "die mich hassen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨gegen⟩ mir"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "sinnen sie"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "auf Böses"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨für⟩ mich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:12:55.998490228Z",
+  "model": "glm-5.2"
+}

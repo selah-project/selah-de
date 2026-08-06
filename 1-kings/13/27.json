@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "Und er sprach zu seinen Söhnen und sagte: „Sattelt mir ⟨את⟩ den Esel\", und sie sattelten ⟨ihn⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Und er sprach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seinen Söhnen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "und sagte"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Sattelt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Esel"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "den Esel"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "und sie sattelten ⟨ihn⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T22:40:24.394984206Z",
+  "model": "glm-5.2"
+}

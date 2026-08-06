@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Wenn du in deinem Herzen sagst: „Diese Völker sind zahlreicher als ich\", wie kann ich sie enteignen?\"",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Wenn"
+    },
+    {
+      "surface": "תֹאמַר֙",
+      "gloss": "du sagst"
+    },
+    {
+      "surface": "בִּלְבָ֣בְךָ֔",
+      "gloss": "in deinem Herzen"
+    },
+    {
+      "surface": "רַבִּ֛ים",
+      "gloss": "zahlreicher"
+    },
+    {
+      "surface": "הַגּוֹיִ֥ם",
+      "gloss": "⟨sind⟩ diese Völker"
+    },
+    {
+      "surface": "הָאֵ֖לֶּה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "מִמֶּ֑נִּי",
+      "gloss": "als ich"
+    },
+    {
+      "surface": "אֵיכָ֥ה",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אוּכַ֖ל",
+      "gloss": "kann ich"
+    },
+    {
+      "surface": "לְהוֹרִישָֽׁם",
+      "gloss": "sie enteignen"
+    }
+  ],
+  "timestamp": "2026-08-06T22:33:57.572148238Z",
+  "model": "glm-5.2"
+}

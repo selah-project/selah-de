@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und die Frau wurde schwanger und gebar ⟨einen⟩ Sohn. Und sie sah ihn, dass er schön war, und sie verbarg ihn drei Monate.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Und … wurde schwanger"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "und gebar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨einen⟩ Sohn"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "Und sie sah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihn",
+      "marks": "ihn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "schön"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er war"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "und sie verbarg ihn"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drei"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "Monate"
+    }
+  ],
+  "timestamp": "2026-08-06T14:49:43.853660619Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und es entbrannte der Zorn JHWHs gegen ⟨sein⟩ Volk, und ⟨er⟩ verabscheute ⟨את⟩ sein Erbe.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "und ⟨es⟩ entbrannte"
+    },
+    {
+      "surface": "אף",
+      "gloss": "der Zorn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWHs"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "gegen ⟨sein⟩ Volk"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "und ⟨er⟩ verabscheute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sein Erbe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sein Erbe"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:06.758057854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "Und ⟨jener⟩ Reichtum geht verloren durch ein böses Geschäft, und ⟨er⟩ zeugte einen Sohn — und ⟨es ist⟩ nichts in seiner Hand.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "und geht verloren"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "der Reichtum"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jener"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "durch Geschäft"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ein böses"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "und ⟨er⟩ zeugte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "einen Sohn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es ist⟩ nichts"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in seiner Hand"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "(nichts)"
+    }
+  ],
+  "timestamp": "2026-08-06T04:42:24.668779752Z",
+  "model": "glm-5.2"
+}

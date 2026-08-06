@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 55,
+  "translation": "Achte auf mich und antworte mir. Ich irre umher in meinem Reden und brumme.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Achte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "auf mich"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "und antworte mir"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "Ich irre umher"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "in meinem Reden"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "und brumme"
+    }
+  ],
+  "timestamp": "2026-08-06T09:15:50.097964145Z",
+  "model": "glm-5.2"
+}

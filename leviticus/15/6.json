@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 15:6",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "Und wer auf dem Gerät sitzt, auf dem ⟨der⟩ Saw sitzt, ⟨muss⟩ seine Kleider waschen und sich im Wasser baden, und ⟨er ist⟩ unrein bis zum Abend.",
+  "tokens": [
+    {
+      "surface": "וְהַיֹּשֵׁב֙",
+      "gloss": "Und der Sitzende"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "הַכְּלִ֔י",
+      "gloss": "dem Gerät"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "auf dem"
+    },
+    {
+      "surface": "יֵשֵׁ֥ב",
+      "gloss": "sitzt"
+    },
+    {
+      "surface": "עָלָ֖יו",
+      "gloss": "darauf"
+    },
+    {
+      "surface": "הַזָּ֑ב",
+      "gloss": "der Saw"
+    },
+    {
+      "surface": "יְכַבֵּ֧ס",
+      "gloss": "⟨muss⟩ waschen"
+    },
+    {
+      "surface": "בְּגָדָ֛יו",
+      "gloss": "seine Kleider"
+    },
+    {
+      "surface": "וְרָחַ֥ץ",
+      "gloss": "und baden"
+    },
+    {
+      "surface": "בַּמַּ֖יִם",
+      "gloss": "im Wasser"
+    },
+    {
+      "surface": "וְטָמֵ֥א",
+      "gloss": "und ⟨ist⟩ unrein"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "bis"
+    },
+    {
+      "surface": "הָעָֽרֶב",
+      "gloss": "zum Abend"
+    }
+  ],
+  "timestamp": "2026-08-06T02:11:52.837584231Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 2:6",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Denn du ⟨habst⟩ ⟨dein⟩ Volk verlassen, Haus Jaakows, weil sie sich vom Osten her füllten — und Weissager wie die Pelischtim — und mit Kindern von Fremden ⟨ihre⟩ Hände klatschen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "נטשתה",
+      "gloss": "⟨habst⟩ ⟨du⟩ verlassen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨dein⟩ Volk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakows"
+    },
+    {
+      "surface": "כי",
+      "gloss": "weil"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "sie sich füllten"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "vom Osten her"
+    },
+    {
+      "surface": "ועננים",
+      "gloss": "und Weissager"
+    },
+    {
+      "surface": "כפלשתים",
+      "gloss": "wie die Pelischtim"
+    },
+    {
+      "surface": "ובילדי",
+      "gloss": "und mit Kindern"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "von Fremden"
+    },
+    {
+      "surface": "ישפיקו",
+      "gloss": "⟨ihre Hände⟩ klatschen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:42:55.409523587Z",
+  "model": "glm-5.2"
+}

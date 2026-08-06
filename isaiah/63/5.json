@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 63,
+  "translation": "Und ich schaute, und ⟨es war⟩ kein Helfer, und ich erstarrte, und ⟨es war⟩ keiner, der stützt, und mein Arm rettete mir, und mein Zorn, er war es, der mich stützte.",
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "Und ich schaute"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es war⟩ kein"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "Helfer"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "und ich erstarrte"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "und ⟨es war⟩ keiner"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "der stützt"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "und rettete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mein Arm"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "und mein Zorn"
+    },
+    {
+      "surface": "היא",
+      "gloss": "er war es"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "der mich stützte"
+    }
+  ],
+  "timestamp": "2026-08-06T06:04:22.876069403Z",
+  "model": "glm-5.2"
+}

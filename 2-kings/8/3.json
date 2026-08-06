@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Und es geschah am Ende von sieben Jahren, und die Frau kehrte zurück aus dem Land der Pelischtim. Und sie ging hinaus, um zum König zu rufen wegen ihres Hauses und wegen ihres Feldes.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "und es geschah"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "vom Ende"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Jahren"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "und ⟨sie⟩ kehrte zurück"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die Frau"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "aus dem Land"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "der Pelischtim"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "und ⟨sie⟩ ging hinaus"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "um zu rufen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "dem König"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wegen"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ihres Hauses"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "und wegen"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ihres Feldes"
+    }
+  ],
+  "timestamp": "2026-08-06T01:33:37.121432847Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 51:15",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "⟨Er⟩, der die Erde gemacht hat in seiner Kraft, der die Welt bereitete in seiner Weisheit, und in seinem Verstand spannte er ⟨die⟩ Himmel aus.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "⟨Er⟩, der … gemacht hat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "in seiner Kraft"
+    },
+    {
+      "surface": "מכין",
+      "gloss": "der … bereitete"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die Welt"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "in seiner Weisheit"
+    },
+    {
+      "surface": "ובתבונתו",
+      "gloss": "und in seinem Verstand"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "spannte er … aus"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Himmel"
+    }
+  ],
+  "timestamp": "2026-08-05T22:14:39.829352019Z",
+  "model": "glm-5.2"
+}

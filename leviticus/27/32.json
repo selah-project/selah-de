@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 27,
+  "translation": "Und jeder Zehnte vom Rind und ⟨von⟩ der Kleinviehherde, alles, was unter dem Stab hindurchgeht, der Zehnte ⟨soll⟩ heilig sein für JHWH.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Und jeder"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "Zehnte"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "vom Rind"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "und ⟨von der⟩ Kleinviehherde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "hindurchgeht"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "dem Stab"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "der Zehnte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨soll⟩ sein"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    }
+  ],
+  "timestamp": "2026-08-06T00:30:43.496649659Z",
+  "model": "glm-5.2"
+}

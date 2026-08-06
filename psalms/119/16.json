@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 119,
+  "translation": "An deinen Ordnungen will ich mich ergötzen, dein Wort will ich nicht vergessen.",
+  "tokens": [
+    {
+      "surface": "בְּחֻקֹּתֶ֥יךָ",
+      "gloss": "An deinen Ordnungen"
+    },
+    {
+      "surface": "אֶֽשְׁתַּעֲשָׁ֑ע",
+      "gloss": "will ich mich ergötzen"
+    },
+    {
+      "surface": "לֹ֭א",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "אֶשְׁכַּ֣ח",
+      "gloss": "will ich … vergessen"
+    },
+    {
+      "surface": "דְּבָרֶֽיךָ",
+      "gloss": "dein Wort"
+    }
+  ],
+  "timestamp": "2026-08-05T23:03:50.294418319Z",
+  "model": "glm-5.2"
+}

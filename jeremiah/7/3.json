@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "So spricht JHWH der Heerscharen, ⟨der⟩ Elohim Jisraels: Macht gut eure Wege und eure Taten, dann ⟨werde⟩ ich ⟨euch⟩ wohnen lassen an diesem Ort.",
+  "tokens": [
+    {
+      "surface": "כֹּֽה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "צְבָאוֹת",
+      "gloss": "der Heerscharen"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "הֵיטִיבוּ",
+      "gloss": "Macht gut"
+    },
+    {
+      "surface": "דַרְכֵיכֶם",
+      "gloss": "eure Wege"
+    },
+    {
+      "surface": "וּמַעַלְלֵיכֶם",
+      "gloss": "und eure Taten"
+    },
+    {
+      "surface": "וַאֲשַׁכְּנָה",
+      "gloss": "dann ⟨werde⟩ ich ⟨euch⟩ wohnen lassen"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "euch"
+    },
+    {
+      "surface": "בַמָּקוֹם",
+      "gloss": "an"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "diesem Ort"
+    }
+  ],
+  "timestamp": "2026-08-06T10:14:57.626390571Z",
+  "model": "glm-5.2"
+}

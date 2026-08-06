@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Elohim sollst du nicht lästern, und einen Fürsten in deinem Volk sollst du nicht verfluchen.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "sollst du lästern"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "und einen Fürsten"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "in deinem Volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "sollst du verfluchen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:11:43.459493435Z",
+  "model": "glm-5.2"
+}

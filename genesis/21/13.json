@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 21,
+  "translation": "Und auch ⟨את⟩ den Sohn der Sklavin werde ich zu einem Volk machen, denn ⟨er ist⟩ dein Same.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Und auch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Sohn der Sklavin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Sohn"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "der Sklavin"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "zu einem Volk"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "werde ich ihn machen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "denn"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "dein Same"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er ist⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T17:33:31.322268240Z",
+  "model": "glm-5.2"
+}

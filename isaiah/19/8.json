@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Und ⟨es⟩ klagen die Fischer, und ⟨es⟩ trauern alle, die ⟨die⟩ Angel in ⟨den⟩ Strom werfen, und ⟨die⟩ ein Fischernetz auf der Wasserfläche ausbreiten, sie siechen dahin.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "und ⟨es⟩ klagen"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "die Fischer"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "und ⟨es⟩ trauern"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "die … werfen"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "in ⟨den⟩ Strom"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "⟨die⟩ Angel"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "und ⟨die⟩ … ausbreiten"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "ein Fischernetz"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "פני",
+      "gloss": "der Fläche"
+    },
+    {
+      "surface": "מים",
+      "gloss": "der Wasser"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "sie siechen dahin"
+    }
+  ],
+  "timestamp": "2026-08-05T21:46:23.716306261Z",
+  "model": "glm-5.2"
+}

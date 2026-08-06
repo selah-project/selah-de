@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 22,
+  "translation": "Wenn sein Besitzer mit ihm ⟨ist⟩, soll er nicht erstatten; wenn er ⟨ein⟩ Gemietetes ⟨ist⟩, kommt er ⟨auf⟩ seinen Lohn.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sein Besitzer"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mit ihm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "soll er erstatten"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ein Gemietetes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ist"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommt"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "auf seinen Lohn"
+    }
+  ],
+  "timestamp": "2026-08-06T05:16:00.995603017Z",
+  "model": "glm-5.2"
+}

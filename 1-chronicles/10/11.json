@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "de",
+  "chapter": 10,
+  "translation": "Und ⟨sie⟩ hörten, ganz Jawesch-Gilad, ⟨את⟩ alles, was die Pelischtim dem Schaul angetan hatten.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "und ⟨sie⟩ hörten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ganz"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jawesch"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sie getan hatten"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Pelischtim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "dem Schaul"
+    }
+  ],
+  "timestamp": "2026-08-06T04:55:15.239022707Z",
+  "model": "glm-5.2"
+}

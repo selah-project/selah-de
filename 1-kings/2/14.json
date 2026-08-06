@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "de",
+  "chapter": 2,
+  "translation": "Und er sagte: „Ein Wort ⟨hab ich⟩ an dich.“ Und sie sagte: „Sprich.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Und ⟨er⟩ sagte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ein Wort"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "an dich"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Und ⟨sie⟩ sagte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Sprich"
+    }
+  ],
+  "timestamp": "2026-08-06T05:48:52.056910229Z",
+  "model": "glm-5.2"
+}

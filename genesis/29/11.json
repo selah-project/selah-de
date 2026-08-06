@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Und Jaakow küsste Rachel und erhob ⟨את⟩ seine Stimme und weinte.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "und küsste"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakow"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "und erhob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seine Stimme"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "seine Stimme"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "und weinte"
+    }
+  ],
+  "timestamp": "2026-08-06T01:56:10.808475949Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 8,
+  "translation": "Vogel des Himmels und Fische des Meeres, ⟨der⟩ vorbeizieht auf den Pfaden der Meere.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "Vogel"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "des Himmels"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "und Fische"
+    },
+    {
+      "surface": "הים",
+      "gloss": "des Meeres"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨der⟩ vorbeizieht"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "auf den Pfaden"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "der Meere"
+    }
+  ],
+  "timestamp": "2026-08-05T22:44:13.137147939Z",
+  "model": "glm-5.2"
+}

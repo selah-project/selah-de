@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 3,
+  "translation": "An jenem Tag werde ich gegen Eli aufrichten ⟨את⟩ alles, was ich über sein Haus geredet habe — anfangend und vollendend.“",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "An Tag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jenem"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "werde ich aufrichten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ich geredet habe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "über"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sein Haus"
+    },
+    {
+      "surface": "החל",
+      "gloss": "anfangend"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "und vollendend"
+    }
+  ],
+  "timestamp": "2026-08-06T01:02:58.069195276Z",
+  "model": "glm-5.2"
+}

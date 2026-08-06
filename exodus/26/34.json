@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "de",
+  "chapter": 26,
+  "translation": "Und du sollst ⟨את⟩ die Kapporet auf die Lade ⟨der⟩ Zeugin geben, im Heiligen der Heiligen.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Und du sollst geben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "die Kapporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die Lade"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "⟨der⟩ Zeugin"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "im Heiligen"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "der Heiligen"
+    }
+  ],
+  "timestamp": "2026-08-05T20:13:13.837520693Z",
+  "model": "glm-5.2"
+}

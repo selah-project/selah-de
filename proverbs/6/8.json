@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 6,
+  "translation": "sie bereitet im Sommer ihr Brot zu, sie sammelt bei der Ernte ihre Nahrung.",
+  "tokens": [
+    {
+      "surface": "תָּכִ֣ין",
+      "gloss": "sie bereitet … zu"
+    },
+    {
+      "surface": "בַּקַּ֣יִץ",
+      "gloss": "im Sommer"
+    },
+    {
+      "surface": "לַחְמָ֑הּ",
+      "gloss": "ihr Brot"
+    },
+    {
+      "surface": "אָגְרָ֥ה",
+      "gloss": "sie sammelt"
+    },
+    {
+      "surface": "בַּ֝קָּצִ֗יר",
+      "gloss": "bei der Ernte"
+    },
+    {
+      "surface": "מַאֲכָלָֽהּ",
+      "gloss": "ihre Nahrung"
+    }
+  ],
+  "timestamp": "2026-08-06T10:33:46.150909937Z",
+  "model": "glm-5.2"
+}

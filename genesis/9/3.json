@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 9,
+  "translation": "Alles Getier, das lebt, soll euch zur Speise sein — wie das grüne Kraut habe ich euch ⟨את⟩ alles gegeben.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alles"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "Getier"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "es"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lebt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll … sein"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "zur Speise"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "wie das grüne"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "Kraut"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "habe ich … gegeben"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "euch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    }
+  ],
+  "timestamp": "2026-08-05T17:30:14.103821272Z",
+  "model": "glm-5.2"
+}

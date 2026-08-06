@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 25,
+  "translation": "Und im siebten Jahr soll ein Schabbat strenger Ruhe für das Land sein, ein Schabbat für JHWH: Dein Feld sollst du nicht besäen und deinen Weinberg sollst du nicht beschneiden.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Und im Jahr"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "dem siebten"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ein Schabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "strenger Ruhe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "für das Land"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ein Schabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "für JHWH"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "Dein Feld"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sollst du besäen"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "und deinen Weinberg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "sollst du beschneiden"
+    }
+  ],
+  "timestamp": "2026-08-05T20:26:55.041883103Z",
+  "model": "glm-5.2"
+}

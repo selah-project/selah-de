@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "de",
+  "chapter": 29,
+  "translation": "Am achten Tag soll ⟨ euch ⟩ eine Versammlung sein; jegliche Arbeit der Arbeit sollt ihr nicht tun.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Am Tag"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "dem achten"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "eine Versammlung"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "soll sein"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨euch⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jegliche"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "Arbeit"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "der Arbeit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sollt ihr tun"
+    }
+  ],
+  "timestamp": "2026-08-05T20:39:24.582556633Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 59,
+  "translation": "Ohne Schuld laufen sie ⟨sich⟩ her und richten ⟨sich⟩ her: wach auf, mir entgegen, und sieh!",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "ohne"
+    },
+    {
+      "surface": "עון",
+      "gloss": "Schuld"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "laufen sie"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "und richten ⟨sich⟩ her"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "wach auf"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "mir entgegen"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "und sieh"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:48.676044660Z",
+  "model": "glm-5.2"
+}

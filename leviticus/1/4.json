@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und er soll seine Hand auf den Kopf der Ola stützen, und ⟨es⟩ wird ihm angenommen zur Sühne über ihm.",
+  "tokens": [
+    {
+      "surface": "וְסָמַ֣ךְ",
+      "gloss": "Und er soll stützen"
+    },
+    {
+      "surface": "יָד֔וֹ",
+      "gloss": "seine Hand"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "auf"
+    },
+    {
+      "surface": "רֹ֣אשׁ",
+      "gloss": "den Kopf"
+    },
+    {
+      "surface": "הָעֹלָ֑ה",
+      "gloss": "der Ola"
+    },
+    {
+      "surface": "וְנִרְצָ֥ה",
+      "gloss": "und ⟨es⟩ wird angenommen"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "לְכַפֵּ֥ר",
+      "gloss": "zur Sühne"
+    },
+    {
+      "surface": "עָלָֽיו",
+      "gloss": "über ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T00:23:14.317168402Z",
+  "model": "glm-5.2"
+}

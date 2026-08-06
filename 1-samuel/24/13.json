@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "de",
+  "chapter": 24,
+  "translation": "JHWH ⟨soll⟩ richten zwischen mir und dir, und JHWH ⟨soll⟩ mich rächen von dir; aber meine Hand wird nicht an dir sein.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "⟨soll⟩ richten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "zwischen mir"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "und zwischen dir"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "und ⟨soll⟩ mich rächen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "von dir"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "und meine Hand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nicht"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wird sein"
+    },
+    {
+      "surface": "בך",
+      "gloss": "an dir"
+    }
+  ],
+  "timestamp": "2026-08-05T21:14:15.059401757Z",
+  "model": "glm-5.2"
+}

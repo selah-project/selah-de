@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "de",
+  "chapter": 37,
+  "translation": "Und er kehrte zurück zu seinen Brüdern und sagte: „Der Junge ⟨ist⟩ nicht da, und ich — wohin ⟨soll⟩ ich ⟨gehen⟩?“",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "und er kehrte zurück"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seinen Brüdern"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "und er sagte"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "der Junge"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ist nicht da"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "und ich"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "wohin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gehe"
+    }
+  ],
+  "timestamp": "2026-08-05T17:39:54.114591588Z",
+  "model": "glm-5.2"
+}

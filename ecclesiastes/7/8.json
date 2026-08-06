@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "de",
+  "chapter": 7,
+  "translation": "Besser ⟨ist⟩ das Ende einer Sache als ihr Anfang; besser ⟨ist⟩ Langmut des Ruach als Hochmut des Ruach.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "das Ende"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "einer Sache"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "als ihr Anfang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "besser"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "Langmut"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "des Ruach"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "als Hochmut"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "des Ruach"
+    }
+  ],
+  "timestamp": "2026-08-05T23:30:25.209515433Z",
+  "model": "glm-5.2"
+}

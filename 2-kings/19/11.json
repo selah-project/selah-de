@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "de",
+  "chapter": 19,
+  "translation": "Siehe, du hast ⟨את⟩ gehört, was die Könige von Aschschur allen Ländern getan haben, um sie dem Bann zu weihen, und du, solltest du gerettet werden?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Siehe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hast gehört"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "was (אשר)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "was"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "getan haben"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die Könige"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "von Aschschur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "allen"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "Ländern"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "um sie dem Bann zu weihen"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "und du"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "solltest gerettet werden"
+    }
+  ],
+  "timestamp": "2026-08-06T08:49:11.345313663Z",
+  "model": "glm-5.2"
+}

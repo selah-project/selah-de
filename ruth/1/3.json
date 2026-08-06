@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "de",
+  "chapter": 1,
+  "translation": "Und Elimelech, ⟨der⟩ Mann ⟨der⟩ Naomi, starb, und ⟨sie⟩ blieb übrig, sie und ihre zwei Söhne.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Und ⟨er⟩ starb"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelech"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mann"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomis"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "und ⟨sie⟩ blieb übrig"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sie"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "und ihre zwei"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "Söhne"
+    }
+  ],
+  "timestamp": "2026-08-05T23:27:07.558859336Z",
+  "model": "glm-5.2"
+}

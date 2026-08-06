@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 96,
+  "translation": "Es mögen sich freuen, die Himmel, und es möge jauchzen, die Erde, es möge brüllen, das Meer und ⟨seine⟩ Fülle.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Es mögen sich freuen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die Himmel"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "und es möge jauchzen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die Erde"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "es möge brüllen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "das Meer"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "und ⟨seine⟩ Fülle"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:04.024168339Z",
+  "model": "glm-5.2"
+}

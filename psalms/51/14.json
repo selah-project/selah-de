@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 51,
+  "translation": "Gib mir zurück die Freude ⟨über⟩ deine Rettung, und ⟨mit⟩ einem willigen Ruach stütze mich.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "gib zurück"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "die Freude"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "deine Rettung"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "und ⟨mit⟩ ⟨einem⟩ Ruach"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "willigen"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "stütze mich"
+    }
+  ],
+  "timestamp": "2026-08-06T04:14:27.006563417Z",
+  "model": "glm-5.2"
+}

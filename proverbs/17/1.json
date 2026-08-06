@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 17,
+  "translation": "Besser ein trockenes Bissen ⟨in⟩ Stille damit als ein Haus voll Schlachtopfer ⟨im⟩ Streit.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "besser"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ein Bissen"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "trocken"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "und Stille"
+    },
+    {
+      "surface": "בה",
+      "gloss": "damit"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "als ein Haus"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "voll"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "Schlachtopfer"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "Streit"
+    }
+  ],
+  "timestamp": "2026-08-06T19:52:42.092394422Z",
+  "model": "glm-5.2"
+}

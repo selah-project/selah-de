@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 53,
+  "translation": "Ein Tor spricht in seinem Herzen: „Kein Elohim.“ Sie haben ⟨sich⟩ verdorben und ⟨sich⟩ abscheulich gemacht ⟨mit⟩ Unrecht — es gibt keinen, der Gutes tut.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "spricht"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ein Tor"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in seinem Herzen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kein"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "sie haben verdorben"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "und abscheulich gemacht"
+    },
+    {
+      "surface": "עול",
+      "gloss": "Unrecht"
+    },
+    {
+      "surface": "אין",
+      "gloss": "es gibt keinen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der tut"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gutes"
+    }
+  ],
+  "timestamp": "2026-08-06T22:46:55.071985010Z",
+  "model": "glm-5.2"
+}

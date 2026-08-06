@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 105,
+  "translation": "Gedenkt seiner Wunderwerke, die er getan hat, seiner Zeichen und ⟨der⟩ Rechtsbestimmungen seines Mundes!",
+  "tokens": [
+    {
+      "surface": "זִכְרוּ",
+      "gloss": "Gedenkt"
+    },
+    {
+      "surface": "נִפְלְאוֹתָיו",
+      "gloss": "seiner Wunderwerke"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "die"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "er getan hat"
+    },
+    {
+      "surface": "מֹפְתָיו",
+      "gloss": "seiner Zeichen"
+    },
+    {
+      "surface": "וּמִשְׁפְּטֵי",
+      "gloss": "und ⟨der⟩ Rechtsbestimmungen"
+    },
+    {
+      "surface": "פִּיו",
+      "gloss": "seines Mundes"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:41.601228507Z",
+  "model": "glm-5.2"
+}

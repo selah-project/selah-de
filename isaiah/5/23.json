@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 5:23",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 5,
+  "translation": "die den Schuldigen gerecht sprechen um einer Bestechung willen, und die Gerechtigkeit der Gerechten von ihm wegnehmen.",
+  "tokens": [
+    {
+      "surface": "מַצְדִּיקֵי",
+      "gloss": "die gerecht sprechen"
+    },
+    {
+      "surface": "רָשָׁע",
+      "gloss": "den Schuldigen"
+    },
+    {
+      "surface": "עֵקֶב",
+      "gloss": "um … willen"
+    },
+    {
+      "surface": "שֹׁחַד",
+      "gloss": "einer Bestechung"
+    },
+    {
+      "surface": "וְצִדְקַת",
+      "gloss": "und ⟨die⟩ Gerechtigkeit"
+    },
+    {
+      "surface": "צַדִּיקִים",
+      "gloss": "der Gerechten"
+    },
+    {
+      "surface": "יָסִירוּ",
+      "gloss": "wegnehmen"
+    },
+    {
+      "surface": "מִמֶּנּוּ",
+      "gloss": "von ihm"
+    }
+  ],
+  "timestamp": "2026-08-06T01:40:29.189168103Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "de",
+  "chapter": 13,
+  "translation": "und der Kohen soll ⟨es⟩ anordnen, und sie sollen ⟨את⟩ waschen, worin der Neger ⟨ist⟩, und er soll ⟨es⟩ einschließen sieben Tage lang, ein zweites Mal.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "und soll ⟨es⟩ anordnen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "der Kohen"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "und sie sollen waschen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das, worin der Neger ist"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בו",
+      "gloss": "worin"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "der Neger"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "und er soll ⟨es⟩ einschließen"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sieben"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Tage"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ein zweites Mal"
+    }
+  ],
+  "timestamp": "2026-08-06T00:26:03.585390605Z",
+  "model": "glm-5.2"
+}

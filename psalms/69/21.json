@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 69,
+  "translation": "Schmach hat mein Herz gebrochen, und ⟨ich⟩ bin krank geworden; und ich hoffte auf ⟨ein⟩ Mitgefühl, aber ⟨es war⟩ nichts da; und auf Tröster, aber ich fand keine.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "Schmach"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "hat gebrochen"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mein Herz"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "und ⟨ich⟩ bin krank geworden"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "und ich hoffte"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "auf ⟨ein⟩ Mitgefühl"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aber ⟨es war⟩ nichts da"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "und auf Tröster"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aber nicht"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ich fand"
+    }
+  ],
+  "timestamp": "2026-08-05T22:53:17.911188010Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 109,
+  "translation": "Denn arm und bedürftig bin ich, und mein Herz ⟨ist⟩ verwundet in meiner Mitte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Denn"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "und bedürftig"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "bin ich"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "und mein Herz"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "verwundet"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "in meiner Mitte"
+    }
+  ],
+  "timestamp": "2026-08-05T23:02:37.470623136Z",
+  "model": "glm-5.2"
+}

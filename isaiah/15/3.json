@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "de",
+  "chapter": 15,
+  "translation": "In seinen Gassen gürteten ⟨sie⟩ Sack ⟨an⟩, auf seinen Dächern und auf seinen Plätzen heult alles, sinkt ⟨hinab⟩ ins Weinen.",
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "In seinen Gassen"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "gürteten"
+    },
+    {
+      "surface": "שק",
+      "gloss": "Sack"
+    },
+    {
+      "surface": "על",
+      "gloss": "auf"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "seinen Dächern"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "und auf seinen Plätzen"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "alles"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "heult"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sinkt hinab"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ins Weinen"
+    }
+  ],
+  "timestamp": "2026-08-05T21:46:45.552349201Z",
+  "model": "glm-5.2"
+}

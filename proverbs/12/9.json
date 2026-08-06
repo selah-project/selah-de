@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "de",
+  "chapter": 12,
+  "translation": "Besser ⟨ist⟩ ein Geringgeschätzter, der ⟨doch⟩ einen Knecht hat, als einer, der sich selbst ehrt und ⟨doch⟩ Brot entbehrt.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Besser"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ein Geringgeschätzter"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "und ⟨der⟩ einen Knecht hat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ihm"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "als sich-selbst-Ehrender"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "und entbehrend"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Brot"
+    }
+  ],
+  "timestamp": "2026-08-06T04:27:37.045256375Z",
+  "model": "glm-5.2"
+}

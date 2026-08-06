@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 106,
+  "translation": "Und ihre Feinde bedrückten sie, und sie wurden gebeugt unter ihre Hand.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "und ihre Feinde bedrückten sie"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": ""
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "und sie wurden gebeugt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "unter"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ihre Hand"
+    }
+  ],
+  "timestamp": "2026-08-06T06:48:58.491375266Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "de",
+  "chapter": 120,
+  "translation": "Lange schon wohnt ⟨bei⟩ ihnen meine Nefesch, bei dem, der Schalom hasst.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Lange"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "hat gewohnt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "bei ihnen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meine Nefesch"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bei"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "dem, der hasst"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Schalom"
+    }
+  ],
+  "timestamp": "2026-08-05T23:05:01.648002319Z",
+  "model": "glm-5.2"
+}
