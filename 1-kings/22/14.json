@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 22,
-  "translation": "Micajahu aber sprach: „So wahr JHWH lebt — ⟨את⟩ was JHWH mir sagen wird, das werde ich sprechen.“",
+  "translation": "Micajahu aber sprach: „So wahr JHWH lebt — ⟨את⟩ was JHWH mir sagen wird, ⟨את⟩ das werde ich sprechen.“",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "das",
+      "gloss": "⟨את⟩ das",
       "marks": "werde ich sprechen"
     },
     {
@@ -58,6 +58,6 @@
       "gloss": "werde ich sprechen"
     }
   ],
-  "timestamp": "2026-08-06T08:46:43.128235598Z",
+  "timestamp": "2026-08-24T21:30:50.318472886Z",
   "model": "glm-5.2"
 }

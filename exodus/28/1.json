@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 28,
-  "translation": "Und du, nahe ⟨zu⟩ dir ⟨את⟩ Aharon, deinen Bruder, und ⟨את⟩ seine Söhne mit ihm, aus der Mitte der Söhne Jisraels, um mir als Kohen zu dienen — Aharon, Nadaw und Awihu, Elasar und Itamar, Söhne Aharons.",
+  "translation": "Und du, nahe ⟨zu⟩ dir ⟨את⟩ Aharon, deinen Bruder, und ⟨את⟩ seine Söhne ⟨את⟩ mit ihm, aus der Mitte der Söhne Jisraels, um mir als Kohen zu dienen — Aharon, Nadaw und Awihu, Elasar und Itamar, Söhne Aharons.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "mit ihm"
+      "gloss": "⟨את⟩ mit ihm"
     },
     {
       "surface": "מתוך",
@@ -94,6 +94,6 @@
       "gloss": "Aharons"
     }
   ],
-  "timestamp": "2026-08-06T00:19:42.835486160Z",
+  "timestamp": "2026-08-24T21:30:49.586061180Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 18,
-  "translation": "Und zu den Lewim sollst du reden und zu ihnen sagen: Wenn ihr von den Söhnen Jisraels ⟨את⟩ den Zehnten nehmt, den ich euch von ihnen als euer Erbteil gegeben habe, dann sollt ihr davon eine Hebopfergabe für JHWH erheben — einen Zehnten vom Zehnten.",
+  "translation": "Und zu den Lewim sollst du reden und zu ihnen sagen: Wenn ihr von den Söhnen Jisraels ⟨את⟩ den Zehnten nehmt, den ich euch ⟨את⟩ von ihnen als euer Erbteil gegeben habe, dann sollt ihr davon eine Hebopfergabe für JHWH erheben — einen Zehnten vom Zehnten.",
   "tokens": [
     {
       "surface": "וְאֶל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מֵאֵת",
-      "gloss": "von"
+      "gloss": "⟨את⟩ von"
     },
     {
       "surface": "בְּנֵי",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מֵאִתָּם",
-      "gloss": "von ihnen"
+      "gloss": "⟨את⟩ von ihnen"
     },
     {
       "surface": "בְּנַחֲלַתְכֶם",
@@ -105,6 +105,6 @@
       "gloss": "dem Zehnten"
     }
   ],
-  "timestamp": "2026-08-06T02:18:39.941902872Z",
+  "timestamp": "2026-08-24T21:30:50.247699931Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 9,
-  "translation": "Und er erhob sein Gesicht zum ⟨das⟩ Fenster und sagte: „Wer ⟨ist⟩ mit mir, wer?“ Und zwei, drei Eunuchen blickten zu ihm hinab.",
+  "translation": "Und er erhob sein Gesicht zum ⟨das⟩ Fenster und sagte: „Wer ⟨את⟩ ⟨ist⟩ mit mir, wer?“ Und zwei, drei Eunuchen blickten zu ihm hinab.",
   "tokens": [
     {
       "surface": "וישא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨ist⟩ mit mir"
+      "gloss": "⟨את⟩ ⟨ist⟩ mit mir"
     },
     {
       "surface": "מי",
@@ -60,6 +60,6 @@
       "gloss": "Eunuchen"
     }
   ],
-  "timestamp": "2026-08-05T21:35:55.263172280Z",
+  "timestamp": "2026-08-24T21:30:49.947480277Z",
   "model": "glm-5.2"
 }

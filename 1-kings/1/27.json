@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 1,
-  "translation": "Ist von meinem Herrn, dem König, ⟨ausging⟩ dieses Wort, und ⟨du⟩ hast ⟨את⟩ deinen Knecht nicht wissen lassen, wer auf dem Thron meines Herrn, des Königs, nach ihm sitzen soll?",
+  "translation": "Ist ⟨את⟩ von meinem Herrn, dem König, ⟨ausging⟩ dieses Wort, und ⟨du⟩ hast ⟨את⟩ deinen Knecht nicht wissen lassen, wer auf dem Thron meines Herrn, des Königs, nach ihm sitzen soll?",
   "tokens": [
     {
       "surface": "אם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von"
+      "gloss": "⟨את⟩ von"
     },
     {
       "surface": "אדני",
@@ -81,6 +81,6 @@
       "gloss": "nach ihm"
     }
   ],
-  "timestamp": "2026-08-06T15:49:40.413373115Z",
+  "timestamp": "2026-08-24T21:30:50.334856742Z",
   "model": "glm-5.2"
 }

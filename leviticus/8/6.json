@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und Mosche brachte ⟨את⟩ Aharon und ⟨את⟩ seine Söhne heran und wusch sie im Wasser.",
+  "translation": "Und Mosche brachte ⟨את⟩ Aharon und ⟨את⟩ seine Söhne heran und wusch ⟨את⟩ sie im Wasser.",
   "tokens": [
     {
       "surface": "ויקרב",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sie",
+      "gloss": "⟨את⟩ sie",
       "marks": "Aharon und seine Söhne"
     },
     {
@@ -47,6 +47,6 @@
       "gloss": "im Wasser"
     }
   ],
-  "timestamp": "2026-08-05T20:21:18.982639228Z",
+  "timestamp": "2026-08-24T21:30:50.089146760Z",
   "model": "glm-5.2"
 }

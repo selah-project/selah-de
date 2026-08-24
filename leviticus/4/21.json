@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 4,
-  "translation": "Und er soll ⟨את⟩ den Stier hinausbringen, nach außerhalb des Lagers, und ihn verbrennen, so wie er den ersten Stier verbrannt hat — eine Chattat der Versammlung ist es.",
+  "translation": "Und er soll ⟨את⟩ den Stier hinausbringen, nach außerhalb des Lagers, und ⟨את⟩ ihn verbrennen, so wie er den ersten Stier verbrannt hat — eine Chattat der Versammlung ist es.",
   "tokens": [
     {
       "surface": "והוציא",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "כאשר",
@@ -74,6 +74,6 @@
       "gloss": "ist es"
     }
   ],
-  "timestamp": "2026-08-05T20:19:24.167302191Z",
+  "timestamp": "2026-08-24T21:30:50.061515679Z",
   "model": "glm-5.2"
 }

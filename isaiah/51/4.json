@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 51,
-  "translation": "Merkt auf mich, mein Volk, und mein Stamm, mir zu, hört! Denn Tora geht von mir aus, und mein Rechtspruch — den lasse ich als Licht für Völker ruhen.",
+  "translation": "Merkt auf mich, mein Volk, und mein Stamm, mir zu, hört! Denn Tora geht ⟨את⟩ von mir aus, und mein Rechtspruch — den lasse ich als Licht für Völker ruhen.",
   "tokens": [
     {
       "surface": "הַקְשִׁ֤יבוּ",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מֵאִתִּ֣י",
-      "gloss": "von mir"
+      "gloss": "⟨את⟩ von mir"
     },
     {
       "surface": "תֵצֵ֔א",
@@ -64,6 +64,6 @@
       "gloss": "den lasse ich ruhen"
     }
   ],
-  "timestamp": "2026-08-05T21:55:31.756970172Z",
+  "timestamp": "2026-08-24T21:30:50.144518305Z",
   "model": "glm-5.2"
 }

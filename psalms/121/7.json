@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 121,
-  "translation": "JHWH wird dein Ausgehen behüten und dein Eingehen, von nun an bis ⟨in⟩ Ewigkeit.",
+  "translation": "JHWH wird dein Ausgehen behüten und dein Eingehen, von nun an ⟨את⟩ bis ⟨in⟩ Ewigkeit.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "ועד",
-      "gloss": "bis"
+      "gloss": "⟨את⟩ bis"
     },
     {
       "surface": "עולם",
       "gloss": "Ewigkeit"
     }
   ],
-  "timestamp": "2026-08-05T23:05:19.097903894Z",
+  "timestamp": "2026-08-24T21:30:49.569967871Z",
   "model": "glm-5.2"
 }

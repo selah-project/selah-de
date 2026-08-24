@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 18,
-  "translation": "Und ihr sollt ⟨es⟩ essen an jedem Ort, ihr und ⟨eure⟩ Häuser; denn ⟨es ist⟩ euer Lohn als Tausch für eure Arbeit im Zelt der Begegnung.",
+  "translation": "Und ihr sollt ⟨את⟩ ⟨es⟩ essen an jedem Ort, ihr und ⟨eure⟩ Häuser; denn ⟨es ist⟩ euer Lohn als Tausch für eure Arbeit im Zelt der Begegnung.",
   "tokens": [
     {
       "surface": "ואכלתם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨es⟩"
+      "gloss": "⟨את⟩ ⟨es⟩"
     },
     {
       "surface": "בכל",
@@ -64,6 +64,6 @@
       "gloss": "der Begegnung"
     }
   ],
-  "timestamp": "2026-08-05T20:35:55.034916126Z",
+  "timestamp": "2026-08-24T21:30:50.248847781Z",
   "model": "glm-5.2"
 }

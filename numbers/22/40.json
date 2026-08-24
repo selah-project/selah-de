@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 22,
-  "translation": "Und Balak schlachtete Rinder und Schaf ⟨und⟩ sendete ⟨es⟩ an Bilam und an die Fürsten, die bei ihm waren.",
+  "translation": "Und Balak schlachtete Rinder und Schaf ⟨und⟩ sendete ⟨es⟩ an Bilam und an die Fürsten, die ⟨את⟩ bei ihm waren.",
   "tokens": [
     {
       "surface": "ויזבח",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bei ihm waren"
+      "gloss": "⟨את⟩ bei ihm waren"
     }
   ],
-  "timestamp": "2026-08-06T02:19:57.662720049Z",
+  "timestamp": "2026-08-24T21:30:50.211978806Z",
   "model": "glm-5.2"
 }

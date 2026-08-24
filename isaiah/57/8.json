@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 57,
-  "translation": "Und hinter die Tür und den Pfosten legtest du dein Erinnerungszeichen; denn von mir weg entblößtest du dich, stiegst hinauf, machtest dein Lager breit. Und du schnittest dir ⟨von⟩ ihnen ⟨einen⟩ Bund: ⟨ihr⟩ Lager liebtest du — die Hand, die du erblicktest.",
+  "translation": "Und hinter die Tür und den Pfosten legtest du dein Erinnerungszeichen; denn ⟨את⟩ von mir weg entblößtest du dich, stiegst hinauf, machtest dein Lager breit. Und du schnittest dir ⟨von⟩ ihnen ⟨einen⟩ Bund: ⟨ihr⟩ Lager liebtest du — die Hand, die du erblicktest.",
   "tokens": [
     {
       "surface": "וְאַחַ֤ר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מֵאִתִּ֞י",
-      "gloss": "von mir weg"
+      "gloss": "⟨את⟩ von mir weg"
     },
     {
       "surface": "גִּלִּ֣ית",
@@ -80,6 +80,6 @@
       "gloss": "die du erblicktest"
     }
   ],
-  "timestamp": "2026-08-06T03:21:58.770658532Z",
+  "timestamp": "2026-08-24T21:30:50.154069891Z",
   "model": "glm-5.2"
 }

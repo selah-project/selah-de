@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 20,
-  "translation": "Und auch ich hob meine Hand zu ihnen ⟨empor⟩ in der Wüste, ⟨um⟩ sie nicht in das Land zu bringen, das ich gegeben hatte — fließend von Milch und Honig, das die Zierde aller Länder ist.",
+  "translation": "Und auch ich hob meine Hand zu ihnen ⟨empor⟩ in der Wüste, ⟨um⟩ ⟨את⟩ sie nicht in das Land zu bringen, das ich gegeben hatte — fließend von Milch und Honig, das die Zierde aller Länder ist.",
   "tokens": [
     {
       "surface": "וגם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "אל",
@@ -88,6 +88,6 @@
       "gloss": "Länder"
     }
   ],
-  "timestamp": "2026-08-06T03:48:00.371754553Z",
+  "timestamp": "2026-08-24T21:30:49.860712546Z",
   "model": "glm-5.2"
 }

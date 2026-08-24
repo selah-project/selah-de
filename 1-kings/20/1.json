@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 20,
-  "translation": "Und Ben-Hadad, der König von Aram, sammelte ⟨את⟩ seine ganze Heeresmacht, und zweiunddreißig Könige ⟨waren⟩ mit ihm, und Pferd und Wagen; und er zog herauf und belagerte Schomeron und kämpfte gegen es.",
+  "translation": "Und Ben-Hadad, der König von Aram, sammelte ⟨את⟩ seine ganze Heeresmacht, und zweiunddreißig Könige ⟨waren⟩ ⟨את⟩ mit ihm, und Pferd und Wagen; und er zog herauf und belagerte Schomeron und kämpfte gegen es.",
   "tokens": [
     {
       "surface": "ובן",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "mit ihm"
+      "gloss": "⟨את⟩ mit ihm"
     },
     {
       "surface": "וסוס",
@@ -89,6 +89,6 @@
       "gloss": "gegen es"
     }
   ],
-  "timestamp": "2026-08-06T03:02:18.800715778Z",
+  "timestamp": "2026-08-24T21:30:50.309563813Z",
   "model": "glm-5.2"
 }

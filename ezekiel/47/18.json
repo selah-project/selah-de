@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 47,
-  "translation": "Und ⟨die⟩ Ostseite: zwischen Chawran und zwischen Damasek und zwischen dem Gil'ad und zwischen dem Land Jisra'el — ⟨der⟩ Jardan, von ⟨der⟩ Grenze; ⟨messet⟩ an das östliche Meer. Und ⟨das⟩ ist ⟨die⟩ Ostseite. Und ⟨את⟩ ⟨die⟩ Seite ⟨des>> Ostens.",
+  "translation": "Und die Ostseite: zwischen Chavran und Dammescek und dem Gil'ad und dem Land Israel ⟨ist⟩ der Jordan, von der Grenze bis zum östlichen Meer — messt ⟨את⟩ die Ostseite.",
   "tokens": [
     {
       "surface": "ופאת",
-      "gloss": "und Seite"
+      "gloss": "Und die Ostseite"
     },
     {
       "surface": "קדים",
-      "gloss": "Osten"
+      "gloss": "Ost-"
     },
     {
       "surface": "מבין",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "חורן",
-      "gloss": "Chawran"
+      "gloss": "Chavran"
     },
     {
       "surface": "ומבין",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "דמשק",
-      "gloss": "Damasek"
+      "gloss": "Dammescek"
     },
     {
       "surface": "ומבין",
@@ -45,50 +45,50 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "Land"
+      "gloss": "dem Land"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "הירדן",
-      "gloss": "der Jardan"
+      "gloss": "der Jordan"
     },
     {
       "surface": "מגבול",
-      "gloss": "von Grenze"
+      "gloss": "von der Grenze"
     },
     {
       "surface": "על",
-      "gloss": "an"
+      "gloss": "bis zu"
     },
     {
       "surface": "הים",
-      "gloss": "das Meer"
+      "gloss": "dem Meer"
     },
     {
       "surface": "הקדמוני",
-      "gloss": "das östliche"
+      "gloss": "dem östlichen"
     },
     {
       "surface": "תמדו",
-      "gloss": "messet"
+      "gloss": "messt"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "die Seite"
+      "marks": "die Ostseite"
     },
     {
       "surface": "פאת",
-      "gloss": "Seite"
+      "gloss": "Seite von"
     },
     {
       "surface": "קדימה",
-      "gloss": "des Ostens"
+      "gloss": "Osten"
     }
   ],
-  "timestamp": "2026-08-06T03:56:28.349214285Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:03.367852649Z",
+  "model": "glm-5.3"
 }

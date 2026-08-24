@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 2,
-  "translation": "Und Eli war sehr alt, und er hörte ⟨את⟩ alles, was seine Söhne ganz Jisraël antaten, und ⟨את⟩ das, dass sie bei den Frauen schliefen, die dienten am Eingang des Zeltes der Begegnung.",
+  "translation": "Und Eli war sehr alt, und er hörte ⟨את⟩ alles, was seine Söhne ganz Israel taten, und ⟨את⟩ was sie mit den Frauen taten, die dienten am Eingang des Zeltes der Begegnung.",
   "tokens": [
     {
       "surface": "ועלי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ושמע",
-      "gloss": "und ⟨er⟩ hörte"
+      "gloss": "und er hörte"
     },
     {
       "surface": "את",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "יעשון",
-      "gloss": "sie antaten"
+      "gloss": "taten"
     },
     {
       "surface": "בניו",
@@ -50,24 +50,25 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraël"
+      "gloss": "Israel"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨und את⟩",
-      "marks": "das, dass…"
+      "gloss": "und ⟨את⟩",
+      "marks": "was sie mit den Frauen taten"
     },
     {
       "surface": "אשר",
-      "gloss": "das"
+      "gloss": "was"
     },
     {
       "surface": "ישכבון",
-      "gloss": "sie schliefen"
+      "gloss": "sie beieinander lagen"
     },
     {
       "surface": "את",
-      "gloss": "bei"
+      "gloss": "⟨את⟩ bei",
+      "marks": "den Frauen"
     },
     {
       "surface": "הנשים",
@@ -90,6 +91,6 @@
       "gloss": "der Begegnung"
     }
   ],
-  "timestamp": "2026-08-05T21:07:50.863478282Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:09.735417050Z",
+  "model": "glm-5.3"
 }

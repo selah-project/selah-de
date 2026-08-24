@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 18,
-  "translation": "Nach der Praxis des Landes Mizrajim, in dem ihr gewohnt habt, sollt ihr ⟨es⟩ nicht tun, und nach der Praxis des Landes Kenaan, in das ich ⟨euch⟩ ⟨dorthin⟩ bringe, sollt ihr ⟨es⟩ nicht tun — und in ihren Satzungen sollt ihr nicht gehen.",
+  "translation": "Nach der Praxis des Landes Mizrajim, in dem ihr gewohnt habt, sollt ihr ⟨es⟩ nicht tun, und nach der Praxis des Landes Kenaan, in das ich ⟨את⟩ ⟨euch⟩ ⟨dorthin⟩ bringe, sollt ihr ⟨es⟩ nicht tun — und in ihren Satzungen sollt ihr nicht gehen.",
   "tokens": [
     {
       "surface": "כמעשה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨euch⟩",
+      "gloss": "⟨את⟩ ⟨euch⟩",
       "marks": "euch"
     },
     {
@@ -93,6 +93,6 @@
       "gloss": "sollt ihr gehen"
     }
   ],
-  "timestamp": "2026-08-05T20:24:50.493123504Z",
+  "timestamp": "2026-08-24T21:30:50.119229875Z",
   "model": "glm-5.2"
 }

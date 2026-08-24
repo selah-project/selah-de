@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 13,
-  "translation": "Und er kehrte mit ihm zurück, und er aß Brot in seinem Haus, und er trank Wasser.",
+  "translation": "Und er kehrte ⟨את⟩ mit ihm zurück, und er aß Brot in seinem Haus, und er trank Wasser.",
   "tokens": [
     {
       "surface": "וישב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "mit ihm"
+      "gloss": "⟨את⟩ mit ihm"
     },
     {
       "surface": "ויאכל",
@@ -36,6 +36,6 @@
       "gloss": "Wasser"
     }
   ],
-  "timestamp": "2026-08-06T01:25:52.038663676Z",
+  "timestamp": "2026-08-24T21:30:50.350102688Z",
   "model": "glm-5.2"
 }

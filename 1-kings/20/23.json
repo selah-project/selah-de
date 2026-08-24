@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 20,
-  "translation": "Und die Knechte des Königs von Aram sagten zu ihm: „Elohim der Berge sind ihre Elohim — darum wurden sie stärker als wir. Aber lasst uns mit ihnen auf der Ebene kämpfen — werden wir nicht stärker sein als sie?",
+  "translation": "Und die Knechte des Königs von Aram sagten zu ihm: „Elohim der Berge sind ihre Elohim — darum wurden sie stärker als wir. Aber lasst uns ⟨את⟩ mit ihnen auf der Ebene kämpfen — werden wir nicht stärker sein als sie?",
   "tokens": [
     {
       "surface": "ועבדי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "mit ihnen"
+      "gloss": "⟨את⟩ mit ihnen"
     },
     {
       "surface": "במישור",
@@ -88,6 +88,6 @@
       "gloss": "als sie"
     }
   ],
-  "timestamp": "2026-08-06T01:29:24.062160300Z",
+  "timestamp": "2026-08-24T21:30:50.308362720Z",
   "model": "glm-5.2"
 }

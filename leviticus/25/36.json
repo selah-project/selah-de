@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 25,
-  "translation": "Nimm nicht von ihm ⟨את⟩ Neschech und ⟨את⟩ Tarbit, und fürchte dich vor deinem Elohim, damit dein Bruder lebe mit dir.",
+  "translation": "Nimm nicht ⟨את⟩ von ihm ⟨את⟩ Neschech und ⟨את⟩ Tarbit, und fürchte dich vor deinem Elohim, damit dein Bruder lebe mit dir.",
   "tokens": [
     {
       "surface": "אל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "von ihm"
+      "gloss": "⟨את⟩ von ihm"
     },
     {
       "surface": "נשך",
@@ -48,6 +48,6 @@
       "gloss": "mit dir"
     }
   ],
-  "timestamp": "2026-08-06T09:49:33.293289826Z",
+  "timestamp": "2026-08-24T21:30:50.088025102Z",
   "model": "glm-5.2"
 }

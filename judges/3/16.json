@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "de",
   "chapter": 3,
-  "translation": "Und Ehud machte sich ein Schwert — ⟨und⟩ es hatte zwei Schneiden, eine Spanne lang — und er gürtete ⟨es⟩ unter seine Kleider, an seine rechte Hüfte.",
+  "translation": "Und Ehud machte sich ein Schwert — ⟨und⟩ es hatte zwei Schneiden, eine Spanne lang — und er gürtete ⟨את⟩ ⟨es⟩ unter seine Kleider, an seine rechte Hüfte.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨es⟩",
+      "gloss": "⟨את⟩ ⟨es⟩",
       "marks": "das Schwert"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "seiner rechten"
     }
   ],
-  "timestamp": "2026-08-06T05:33:42.721239009Z",
+  "timestamp": "2026-08-24T21:30:49.341722317Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 40,
-  "translation": "Und der Becher Paros war in meiner Hand, und ich nahm ⟨את⟩ die Trauben und presste sie in den Becher Paros, und ich gab ⟨את⟩ den Becher auf die Handfläche Paros.",
+  "translation": "Und der Becher Paros war in meiner Hand, und ich nahm ⟨את⟩ die Trauben und presste ⟨את⟩ sie in den Becher Paros, und ich gab ⟨את⟩ den Becher auf die Handfläche Paros.",
   "tokens": [
     {
       "surface": "וכוס",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "אל",
@@ -78,6 +78,6 @@
       "gloss": "Paros"
     }
   ],
-  "timestamp": "2026-08-05T17:40:32.770135336Z",
+  "timestamp": "2026-08-24T21:30:49.234237265Z",
   "model": "glm-5.2"
 }

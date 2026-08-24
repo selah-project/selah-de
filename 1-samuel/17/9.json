@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 17,
-  "translation": "Wenn er mit mir kämpfen kann und mich schlägt, dann werden wir euch zu Knechten sein; wenn aber ich kann ⟨gegen⟩ ihn und ihn schlage, dann werdet ihr uns zu Knechten sein und ⟨את⟩ uns dienen.",
+  "translation": "Wenn er ⟨את⟩ mit mir kämpfen kann und mich schlägt, dann werden wir euch zu Knechten sein; wenn aber ich kann ⟨gegen⟩ ihn und ihn schlage, dann werdet ihr uns zu Knechten sein und ⟨את⟩ uns dienen.",
   "tokens": [
     {
       "surface": "אם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mit mir"
+      "gloss": "⟨את⟩ mit mir"
     },
     {
       "surface": "והכני",
@@ -81,6 +81,6 @@
       "marks": "uns"
     }
   ],
-  "timestamp": "2026-08-06T05:40:52.079278768Z",
+  "timestamp": "2026-08-24T21:30:49.760868413Z",
   "model": "glm-5.2"
 }

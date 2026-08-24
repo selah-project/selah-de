@@ -5,46 +5,46 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 25,
-  "translation": "Und ⟨ihr⟩ sollt tun ⟨את⟩ meine Ordnungen und ⟨את⟩ meine Rechtsbestimmungen sollt ⟨ihr⟩ halten und tun ⟨אתם⟩, und ⟨ihr⟩ sollt wohnen auf der Erde in Sicherheit.",
+  "translation": "Und ihr sollt tun ⟨את⟩ meine Chuqqot und ⟨את⟩ meine Mischpatim sollt ihr bewahren und sie tun ⟨את⟩, und ihr werdet wohnen auf dem Land in Sicherheit.",
   "tokens": [
     {
       "surface": "ועשיתם",
-      "gloss": "und ⟨ihr⟩ sollt tun"
+      "gloss": "und ihr sollt tun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "meine Ordnungen"
+      "marks": "meine Chuqqot"
     },
     {
       "surface": "חקתי",
-      "gloss": "meine Ordnungen"
+      "gloss": "meine Chuqqot (Satzungen)"
     },
     {
       "surface": "ואת",
       "gloss": "und ⟨את⟩",
-      "marks": "meine Rechtsbestimmungen"
+      "marks": "meine Mischpatim"
     },
     {
       "surface": "משפטי",
-      "gloss": "meine Rechtsbestimmungen"
+      "gloss": "meine Mischpatim (Rechtsordnungen)"
     },
     {
       "surface": "תשמרו",
-      "gloss": "sollt ⟨ihr⟩ halten"
+      "gloss": "sollt ihr bewahren"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "und ⟨ihr⟩ sollt tun"
+      "gloss": "und tun"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "sie"
+      "gloss": "⟨את⟩ sie",
+      "marks": "(verweist auf Chuqqot und Mischpatim)"
     },
     {
       "surface": "וישבתם",
-      "gloss": "und ⟨ihr⟩ sollt wohnen"
+      "gloss": "und ihr werdet wohnen"
     },
     {
       "surface": "על",
@@ -52,13 +52,13 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "der Erde"
+      "gloss": "dem Land"
     },
     {
       "surface": "לבטח",
       "gloss": "in Sicherheit"
     }
   ],
-  "timestamp": "2026-08-06T00:29:43.121366666Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:19:29.502088599Z",
+  "model": "glm-5.3"
 }

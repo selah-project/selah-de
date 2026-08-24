@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 37,
-  "translation": "Und er hörte über Tirhaka, den König von Kusch, Folgendes: Er ist ausgezogen, um gegen dich zu kämpfen. Und ⟨als⟩ er ⟨es⟩ hörte, sandte er Boten zu Chiskijahu, um zu sagen:",
+  "translation": "Und er hörte über Tirhaka, den König von Kusch, Folgendes: Er ist ausgezogen, um ⟨את⟩ gegen dich zu kämpfen. Und ⟨als⟩ er ⟨es⟩ hörte, sandte er Boten zu Chiskijahu, um zu sagen:",
   "tokens": [
     {
       "surface": "וישמע",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "gegen dich"
+      "gloss": "⟨את⟩ gegen dich"
     },
     {
       "surface": "וישמע",
@@ -68,6 +68,6 @@
       "gloss": "um zu sagen"
     }
   ],
-  "timestamp": "2026-08-06T20:32:27.629731665Z",
+  "timestamp": "2026-08-24T21:30:50.157329220Z",
   "model": "glm-5.2"
 }

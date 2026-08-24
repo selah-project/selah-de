@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 3,
-  "translation": "Und es geschah am dritten Tag, als ich gebar, da gebar auch diese Frau, und wir waren zusammen; kein Fremder war bei uns im Haus, außer uns beiden im Haus.",
+  "translation": "Und es geschah am dritten Tag, als ich gebar, da gebar auch diese Frau, und wir waren zusammen; kein Fremder ⟨את⟩ war bei uns im Haus, außer uns beiden im Haus.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "war bei uns"
+      "gloss": "⟨את⟩ war bei uns"
     },
     {
       "surface": "בבית",
@@ -80,6 +80,6 @@
       "gloss": "im Haus"
     }
   ],
-  "timestamp": "2026-08-05T21:25:47.659406776Z",
+  "timestamp": "2026-08-24T21:30:50.310713767Z",
   "model": "glm-5.2"
 }

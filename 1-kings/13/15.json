@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 13,
-  "translation": "Und er sprach zu ihm: „Geh mit mir ⟨ins⟩ Haus und iss Brot.",
+  "translation": "Und er sprach zu ihm: „Geh ⟨את⟩ mit mir ⟨ins⟩ Haus und iss Brot.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mit mir"
+      "gloss": "⟨את⟩ mit mir"
     },
     {
       "surface": "הביתה",
@@ -36,6 +36,6 @@
       "gloss": "Brot"
     }
   ],
-  "timestamp": "2026-08-06T01:25:46.854315455Z",
+  "timestamp": "2026-08-24T21:30:50.349076356Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "de",
   "chapter": 7,
-  "translation": "Und der König stand auf in seinem Zorn vom Weinmahl ⟨in⟩ den Garten des Palastes, und Haman stand auf, ⟨um⟩ bei Ester, der Königin, um seine Nefesch zu flehen; denn er sah, dass das Böse vonseiten des Königs gegen ihn beschlossen war.",
+  "translation": "Und der König stand auf in seinem Zorn vom Weinmahl ⟨in⟩ den Garten des Palastes, und Haman stand auf, ⟨um⟩ bei Ester, der Königin, um seine Nefesch zu flehen; denn er sah, dass das Böse ⟨את⟩ vonseiten des Königs gegen ihn beschlossen war.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "מאת",
-      "gloss": "vonseiten"
+      "gloss": "⟨את⟩ vonseiten"
     },
     {
       "surface": "המלך",
       "gloss": "des Königs"
     }
   ],
-  "timestamp": "2026-08-06T04:44:00.347269856Z",
+  "timestamp": "2026-08-24T21:30:49.298193829Z",
   "model": "glm-5.2"
 }

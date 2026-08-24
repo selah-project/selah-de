@@ -5,79 +5,79 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 16,
-  "translation": "Und er soll ⟨את⟩ das Räucherwerk auf das Feuer geben vor JHWH, und die Wolke des Räucherwerks soll ⟨את⟩ die Kapporet bedecken, die auf ⟨der⟩ Zeugnis〈lade〉 ist, und er wird nicht sterben.",
+  "translation": "Und er legte ⟨את⟩ das Räucherwerk auf das Feuer vor JHWH, und die Wolke des Räucherwerks bedeckte ⟨את⟩ die Kapporet (die Deckplatte), die über ⟨der⟩ Edut (dem Zeugnis) ⟨ist⟩, und er wird nicht sterben.",
   "tokens": [
     {
-      "surface": "וְנָתַ֧ן",
-      "gloss": "und er soll geben"
+      "surface": "ונתן",
+      "gloss": "und er legte"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "das Räucherwerk"
     },
     {
-      "surface": "הַקְּטֹ֛רֶת",
+      "surface": "הקטרת",
       "gloss": "das Räucherwerk"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "auf"
     },
     {
-      "surface": "הָאֵ֖שׁ",
+      "surface": "האש",
       "gloss": "das Feuer"
     },
     {
-      "surface": "לִפְנֵ֣י",
+      "surface": "לפני",
       "gloss": "vor"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "JHWH"
     },
     {
-      "surface": "וְכִסָּ֣ה",
-      "gloss": "und sie soll bedecken"
+      "surface": "וכסה",
+      "gloss": "und bedeckte"
     },
     {
-      "surface": "עֲנַ֣ן",
+      "surface": "ענן",
       "gloss": "die Wolke"
     },
     {
-      "surface": "הַקְּטֹ֗רֶת",
+      "surface": "הקטרת",
       "gloss": "des Räucherwerks"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "die Kapporet"
     },
     {
-      "surface": "הַכַּפֹּ֛רֶת",
+      "surface": "הכפרת",
       "gloss": "die Kapporet"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "die"
     },
     {
-      "surface": "עַל",
-      "gloss": "auf"
+      "surface": "על",
+      "gloss": "über"
     },
     {
-      "surface": "הָעֵד֖וּת",
-      "gloss": "der Zeugnis〈lade〉"
+      "surface": "העדות",
+      "gloss": "dem Zeugnis"
     },
     {
-      "surface": "וְלֹ֥א",
+      "surface": "ולא",
       "gloss": "und nicht"
     },
     {
-      "surface": "יָמֽוּת",
+      "surface": "ימות",
       "gloss": "wird er sterben"
     }
   ],
-  "timestamp": "2026-08-06T21:07:49.294900006Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:19.972477468Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 12,
-  "translation": "„Die sagten: Mit unserer Zunge werden wir mächtig sein, unsere Lippen ⟨sind⟩ bei uns — wer ist Herr über uns?“",
+  "translation": "„Die sagten: Mit unserer Zunge werden wir mächtig sein, unsere Lippen ⟨sind⟩ ⟨את⟩ bei uns — wer ist Herr über uns?“",
   "tokens": [
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "bei uns"
+      "gloss": "⟨את⟩ bei uns"
     },
     {
       "surface": "מי",
@@ -44,6 +44,6 @@
       "gloss": "über uns"
     }
   ],
-  "timestamp": "2026-08-06T06:39:08.810770975Z",
+  "timestamp": "2026-08-24T21:30:49.566074826Z",
   "model": "glm-5.2"
 }

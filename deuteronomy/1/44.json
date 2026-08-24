@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 1,
-  "translation": "Und es zog aus, der Emori, ⟨der⟩ ⟨die⟩ in jenem Gebirge Wohnende, euch entgegen, und sie jagten ⟨אתכם⟩ — wie Bienen zu tun pflegen — und sie schlugen ⟨אתכם⟩ in Seïr bis nach Chorma.",
+  "translation": "Und der Emori, der in jenem Berg wohnte, zog aus, euch entgegen, und sie jagten ⟨את⟩ euch, wie Bienen es tun, und sie schlugen ⟨את⟩ euch in Seir, bis nach Horma.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "Und es zog aus"
+      "gloss": "und zog aus"
     },
     {
       "surface": "האמרי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הישב",
-      "gloss": "⟨der⟩ ⟨die⟩ Wohnende"
+      "gloss": "der wohnte"
     },
     {
       "surface": "בהר",
-      "gloss": "in dem Gebirge"
+      "gloss": "in jenem Berg"
     },
     {
       "surface": "ההוא",
@@ -37,8 +37,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch (Objekt der Verfolgung)"
+      "gloss": "⟨את⟩",
+      "marks": "euch"
     },
     {
       "surface": "כאשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "תעשינה",
-      "gloss": "zu tun pflegen"
+      "gloss": "es tun"
     },
     {
       "surface": "הדברים",
@@ -58,12 +58,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch (Objekt des Schlagens)"
+      "gloss": "⟨את⟩",
+      "marks": "euch"
     },
     {
       "surface": "בשעיר",
-      "gloss": "in Seïr"
+      "gloss": "in Seir"
     },
     {
       "surface": "עד",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "חרמה",
-      "gloss": "Chorma"
+      "gloss": "Horma"
     }
   ],
-  "timestamp": "2026-08-06T15:41:54.697725179Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:04.171888409Z",
+  "model": "glm-5.3"
 }

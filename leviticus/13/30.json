@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 13,
-  "translation": "und der Kohen sieht ⟨את⟩ den Nega, und siehe: ⟨sein⟩ Aussehen ist tiefer als ⟨die⟩ Haut, und in ⟨ihm⟩ ⟨ist⟩ gelbes, feines Haar, dann erklärt der Kohen ⟨ihn⟩ für unrein — ein Netek ist es; Zaraat des Kopfes oder des Bartes ist es.",
+  "translation": "und der Kohen sieht ⟨את⟩ den Nega, und siehe: ⟨sein⟩ Aussehen ist tiefer als ⟨die⟩ Haut, und in ⟨ihm⟩ ⟨ist⟩ gelbes, feines Haar, dann erklärt der Kohen ⟨את⟩ ⟨ihn⟩ für unrein — ein Netek ist es; Zaraat des Kopfes oder des Bartes ist es.",
   "tokens": [
     {
       "surface": "וראה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨ihn⟩"
+      "gloss": "⟨את⟩ ⟨ihn⟩"
     },
     {
       "surface": "הכהן",
@@ -101,6 +101,6 @@
       "gloss": "ist es"
     }
   ],
-  "timestamp": "2026-08-05T20:23:34.305049859Z",
+  "timestamp": "2026-08-24T21:30:50.111995821Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 41,
-  "translation": "Und es geschah am Morgen, da wurde seine Ruach verwirrt, und er sandte hin und rief ⟨את⟩ alle Wahrsager Mizrajims und ⟨את⟩ alle ihre Weisen, und Paro erzählte ihnen ⟨את⟩ seinen Traum. Aber da war keiner, der sie dem Paro deuten konnte.",
+  "translation": "Und es geschah am Morgen, da wurde seine Ruach verwirrt, und er sandte hin und rief ⟨את⟩ alle Wahrsager Mizrajims und ⟨את⟩ alle ihre Weisen, und Paro erzählte ihnen ⟨את⟩ seinen Traum. Aber da war keiner, der ⟨את⟩ sie dem Paro deuten konnte.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "sie",
+      "gloss": "⟨את⟩ sie",
       "marks": "ihn (Paro)"
     },
     {
@@ -100,6 +100,6 @@
       "gloss": "dem Paro"
     }
   ],
-  "timestamp": "2026-08-05T20:02:30.933724730Z",
+  "timestamp": "2026-08-24T21:30:49.154062027Z",
   "model": "glm-5.2"
 }

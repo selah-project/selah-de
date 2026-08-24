@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 24,
-  "translation": "Außerhalb des Vorhangs ⟨der⟩ Zeugnis-Lade, im Zelt der Begegnung, soll Aharon ⟨ihn⟩ herrichten, von Abend bis Morgen, vor JHWH, beständig — eine ewige Ordnung für eure Generationen.",
+  "translation": "Außerhalb des Vorhangs ⟨der⟩ Zeugnis-Lade, im Zelt der Begegnung, soll Aharon ⟨את⟩ ⟨ihn⟩ herrichten, von Abend bis Morgen, vor JHWH, beständig — eine ewige Ordnung für eure Generationen.",
   "tokens": [
     {
       "surface": "מחוץ",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨ihn⟩",
+      "gloss": "⟨את⟩ ⟨ihn⟩",
       "marks": "den Leuchten-Docht"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "für eure Generationen"
     }
   ],
-  "timestamp": "2026-08-05T20:27:22.841308899Z",
+  "timestamp": "2026-08-24T21:30:50.113386123Z",
   "model": "glm-5.2"
 }

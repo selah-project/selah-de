@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 79,
-  "translation": "Hilf uns, Elohim unseres Heils, um der Sache der Herrlichkeit deines Namens willen, und rette uns, und bedecke ⟨⟨die Sühne⟩⟩ über unsere Sünden, um deines Namens willen!",
+  "translation": "Hilf uns, Elohim unseres Jaschua, um der Sache der Herrlichkeit deines Namens willen, und rette uns und sühne unsere Sünden, um deines Namens willen.",
   "tokens": [
     {
       "surface": "עזרנו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ישענו",
-      "gloss": "unseres Heils"
+      "gloss": "unseres Jaschua (Heils)"
     },
     {
       "surface": "על",
-      "gloss": "um … willen"
+      "gloss": "um — willen"
     },
     {
       "surface": "דבר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וכפר",
-      "gloss": "und bedecke"
+      "gloss": "und sühne"
     },
     {
       "surface": "על",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "למען",
-      "gloss": "um … willen"
+      "gloss": "um — willen"
     },
     {
       "surface": "שמך",
       "gloss": "deines Namens"
     }
   ],
-  "timestamp": "2026-08-06T21:24:22.866432623Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:07.493667792Z",
+  "model": "glm-5.3"
 }

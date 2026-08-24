@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 28,
-  "translation": "Und es geschah in jenen Tagen, da sammelten die Pelischti ⟨את⟩ ihre Heerlager zum Heer, um gegen Jisrael zu kämpfen. Und Akisch sprach zu Dawid: „Wissend sollst du wissen, dass du mit mir ins Feldlager ausziehen wirst, du und deine Männer.“",
+  "translation": "Und es geschah in jenen Tagen, da sammelten die Pelischti ⟨את⟩ ihre Heerlager zum Heer, um gegen Jisrael zu kämpfen. Und Akisch sprach zu Dawid: „Wissend sollst du wissen, dass du ⟨את⟩ mit mir ins Feldlager ausziehen wirst, du und deine Männer.“",
   "tokens": [
     {
       "surface": "ויהי",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mit mir"
+      "gloss": "⟨את⟩ mit mir"
     },
     {
       "surface": "תצא",
@@ -97,6 +97,6 @@
       "gloss": "und deine Männer"
     }
   ],
-  "timestamp": "2026-08-06T02:48:12.219202488Z",
+  "timestamp": "2026-08-24T21:30:49.718001596Z",
   "model": "glm-5.2"
 }

@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 10,
-  "translation": "Soll sich ⟨die⟩ Axt rühmen über ⟨den⟩ Hauenden mit ihr, oder ⟨die〉 Säge sich groß tun über ⟨den⟩ Schwingenden ⟨sie⟩? Als ob ⟨ein⟩ Stab schwänge ⟨die, die⟩ ihn heben, und ⟨als ob⟩ ⟨ein〉 Stock höbe — ⟨als ob er⟩ nicht Holz ⟨wäre⟩!",
+  "translation": "Sollte ⟨sich⟩ die Axt rühmen über den, der sie führt? Oder die Säge sich groß tun über den, der sie bewegt? Wie wenn der Stab schwänge, ⟨את⟩ die ihn heben — wie wenn ein Stab sich erhöhte, ⟨als wäre er⟩ nicht Holz.",
   "tokens": [
     {
       "surface": "היתפאר",
-      "gloss": "Soll sich rühmen"
+      "gloss": "sollte rühmen"
     },
     {
       "surface": "הגרזן",
-      "gloss": "⟨die⟩ Axt"
+      "gloss": "die Axt"
     },
     {
       "surface": "על",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "החצב",
-      "gloss": "⟨den⟩ Hauenden"
+      "gloss": "den, der hackt"
     },
     {
       "surface": "בו",
-      "gloss": "mit ihr"
+      "gloss": "mit ihm"
     },
     {
       "surface": "אם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "המשור",
-      "gloss": "⟨die⟩ Säge"
+      "gloss": "die Säge"
     },
     {
       "surface": "על",
@@ -45,32 +45,32 @@
     },
     {
       "surface": "מניפו",
-      "gloss": "⟨den⟩ Schwingenden ⟨sie⟩"
+      "gloss": "den, der sie schwingt"
     },
     {
       "surface": "כהניף",
-      "gloss": "Als ob schwänge"
+      "gloss": "wie wenn schwänge"
     },
     {
       "surface": "שבט",
-      "gloss": "⟨ein⟩ Stab"
+      "gloss": "der Stab"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "die ihn Heben"
+      "marks": "die ihn heben"
     },
     {
       "surface": "מרימיו",
-      "gloss": "⟨die, die⟩ ihn heben"
+      "gloss": "die ihn heben"
     },
     {
       "surface": "כהרים",
-      "gloss": "und ⟨als ob⟩ höbe"
+      "gloss": "wie wenn erhöhte"
     },
     {
       "surface": "מטה",
-      "gloss": "⟨ein⟩ Stock"
+      "gloss": "ein Stab"
     },
     {
       "surface": "לא",
@@ -81,6 +81,6 @@
       "gloss": "Holz"
     }
   ],
-  "timestamp": "2026-08-05T21:44:48.454851939Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:19:43.575736764Z",
+  "model": "glm-5.3"
 }

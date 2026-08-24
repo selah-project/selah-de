@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 42,
-  "translation": "„Der Mann, der Herr des Landes, hat hart mit uns geredet, und er hat uns ⟨als⟩ Spähe ⟨את⟩ ⟨uns⟩ eingesetzt ⟨als⟩ Kundschafter des Landes.",
+  "translation": "„Der Mann, der Herr des Landes, hat hart ⟨את⟩ mit uns geredet, und er hat uns ⟨als⟩ Spähe ⟨את⟩ ⟨uns⟩ eingesetzt ⟨als⟩ Kundschafter des Landes.",
   "tokens": [
     {
       "surface": "דבר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "mit uns"
+      "gloss": "⟨את⟩ mit uns"
     },
     {
       "surface": "קשות",
@@ -54,6 +54,6 @@
       "gloss": "des Landes"
     }
   ],
-  "timestamp": "2026-08-05T17:41:43.070444168Z",
+  "timestamp": "2026-08-24T21:30:49.210048701Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 12,
-  "translation": "Und er verließ ⟨את⟩ den Rat der Ältesten, die ihn beraten hatten, und beriet sich mit den Jungen, die mit ihm aufgewachsen waren, ⟨denen⟩, die vor ihm standen.",
+  "translation": "Und er verließ ⟨את⟩ den Rat der Ältesten, die ihn beraten hatten, und beriet sich mit den Jungen, die ⟨את⟩ mit ihm aufgewachsen waren, ⟨denen⟩, die vor ihm standen.",
   "tokens": [
     {
       "surface": "ויעזב",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "mit ihm"
+      "gloss": "⟨את⟩ mit ihm"
     },
     {
       "surface": "אשר",
@@ -70,6 +70,6 @@
       "gloss": "vor ihm"
     }
   ],
-  "timestamp": "2026-08-06T10:06:02.757427733Z",
+  "timestamp": "2026-08-24T21:30:50.322968377Z",
   "model": "glm-5.2"
 }

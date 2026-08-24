@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "de",
   "chapter": 8,
-  "translation": "Reichtum und Ehre ⟨sind⟩ bei mir, bleibender Besitz und Zedaka.",
+  "translation": "Reichtum und Ehre ⟨sind⟩ ⟨את⟩ bei mir, bleibender Besitz und Zedaka.",
   "tokens": [
     {
       "surface": "עשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bei mir"
+      "gloss": "⟨את⟩ bei mir"
     },
     {
       "surface": "הון",
@@ -32,6 +32,6 @@
       "gloss": "und Zedaka"
     }
   ],
-  "timestamp": "2026-08-05T23:09:49.326738073Z",
+  "timestamp": "2026-08-24T21:30:49.319229311Z",
   "model": "glm-5.2"
 }

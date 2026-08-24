@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 12,
-  "translation": "Da rief der König Jehoasch Jehojada, den Kohen, und die Kohen und sprach zu ihnen: „Warum bessert ihr ⟨את⟩ die Risse des Hauses nicht aus? Und nun nehmt kein Silber mehr von euren Bekannten, sondern ⟨gebt⟩ es für die Risse des Hauses!",
+  "translation": "Da rief der König Jehoasch Jehojada, den Kohen, und die Kohen und sprach zu ihnen: „Warum bessert ihr ⟨את⟩ die Risse des Hauses nicht aus? Und nun nehmt kein Silber mehr ⟨את⟩ von euren Bekannten, sondern ⟨gebt⟩ es für die Risse des Hauses!",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von"
+      "gloss": "⟨את⟩ von"
     },
     {
       "surface": "מכריכם",
@@ -105,6 +105,6 @@
       "gloss": "⟨gebt⟩ es"
     }
   ],
-  "timestamp": "2026-08-06T10:09:19.625506623Z",
+  "timestamp": "2026-08-24T21:30:49.984246781Z",
   "model": "glm-5.2"
 }

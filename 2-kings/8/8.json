@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und der König sagte zu Chasá'el: „Nimm in deiner Hand eine Gabe und geh dem Mann Elohim entgegen, und befrage ⟨את⟩ JHWH durch ihn, ⟨und⟩ sag: Werde ich von dieser Krankheit leben?",
+  "translation": "Und der König sagte zu Chasá'el: „Nimm in deiner Hand eine Gabe und geh dem Mann Elohim entgegen, und befrage ⟨את⟩ JHWH ⟨את⟩ durch ihn, ⟨und⟩ sag: Werde ich von dieser Krankheit leben?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "מאותו",
-      "gloss": "durch ihn"
+      "gloss": "⟨את⟩ durch ihn"
     },
     {
       "surface": "לאמר",
@@ -85,6 +85,6 @@
       "gloss": "dieser"
     }
   ],
-  "timestamp": "2026-08-05T21:36:42.629008170Z",
+  "timestamp": "2026-08-24T21:30:50.011974139Z",
   "model": "glm-5.2"
 }

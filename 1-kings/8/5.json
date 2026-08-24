@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und der König Schelomo und die ganze Versammlung Jisraels, die sich bei ihm eingefunden hatte, ⟨waren⟩ mit ihm vor der Lade, opfernd Schaf und Rind, die man nicht zählen und nicht nummerieren konnte ⟨wegen⟩ der Menge.",
+  "translation": "Und der König Schelomo und die ganze Versammlung Jisraels, die sich bei ihm eingefunden hatte, ⟨waren⟩ ⟨את⟩ mit ihm vor der Lade, opfernd Schaf und Rind, die man nicht zählen und nicht nummerieren konnte ⟨wegen⟩ der Menge.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "mit ihm"
+      "gloss": "⟨את⟩ mit ihm"
     },
     {
       "surface": "לפני",
@@ -84,6 +84,6 @@
       "gloss": "⟨wegen⟩ der Menge"
     }
   ],
-  "timestamp": "2026-08-06T01:23:37.051468381Z",
+  "timestamp": "2026-08-24T21:30:50.341942938Z",
   "model": "glm-5.2"
 }

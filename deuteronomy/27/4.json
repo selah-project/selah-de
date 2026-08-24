@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 27,
-  "translation": "Und es soll geschehen: Bei eurem Überqueren ⟨את⟩ des Jardén sollt ihr ⟨את⟩ diese Steine aufrichten, die ich euch heute gebiete, auf dem Berg Ewal, und du sollst sie mit Kalk bestreichen.",
+  "translation": "Und es soll geschehen: Bei eurem Überqueren ⟨את⟩ des Jardén sollt ihr ⟨את⟩ diese Steine aufrichten, die ich ⟨את⟩ euch heute gebiete, auf dem Berg Ewal, und du sollst sie mit Kalk bestreichen.",
   "tokens": [
     {
       "surface": "וְהָיָה֮",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "אֶתְכֶ֛ם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "הַיּ֖וֹם",
@@ -83,6 +83,6 @@
       "gloss": "mit Kalk"
     }
   ],
-  "timestamp": "2026-08-05T20:50:33.145967204Z",
+  "timestamp": "2026-08-24T21:30:49.820095249Z",
   "model": "glm-5.2"
 }

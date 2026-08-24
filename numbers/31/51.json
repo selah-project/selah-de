@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 31,
-  "translation": "Und Mosche und Elasar, der Kohen, nahmen ⟨את⟩ das Gold von ihnen, jedes bearbeitete Gerät.",
+  "translation": "Und Mosche und Elasar, der Kohen, nahmen ⟨את⟩ das Gold ⟨את⟩ von ihnen, jedes bearbeitete Gerät.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "von ihnen"
+      "gloss": "⟨את⟩ von ihnen"
     },
     {
       "surface": "כל",
@@ -49,6 +49,6 @@
       "gloss": "bearbeitete"
     }
   ],
-  "timestamp": "2026-08-06T00:40:15.363062423Z",
+  "timestamp": "2026-08-24T21:30:50.236153744Z",
   "model": "glm-5.2"
 }

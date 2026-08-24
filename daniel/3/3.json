@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "de",
   "chapter": 3,
-  "translation": "Da versammelten sich ⟨die⟩ Statthalter, ⟨die⟩ Präfekten und ⟨die⟩ Gouverneure, ⟨die〉 Ober-Räte, ⟨die〉 Schatzmeister, ⟨die〉 Richter, ⟨die〉 Rechtsbevollmächtigten und alle Machtträger der Provinzen zur Einweihung des Standbildes, das Nebukadnezar, der König, aufgerichtet hatte, ⟨und⟩ sie standen ⟨da⟩ vor dem Standbild, das Nebukadnezar aufgerichtet hatte.",
+  "translation": "Da versammelten sich die Ahaschdarpanajim, die Seganim und die Pachawim, die AdarGazarim, die Gedabarim, die Detabarim, die Tiftajim und alle Schiltonim der Provinz zur Einweihung des Bildes, das Nebukadnezar, der König, aufgerichtet hatte; und sie stellten sich auf vor das Bild, das Nebukadnezar aufgerichtet hatte.",
   "tokens": [
     {
       "surface": "באדין",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "אחשדרפניא",
-      "gloss": "⟨die⟩ Statthalter"
+      "gloss": "die Ahaschdarpanajim"
     },
     {
       "surface": "סגניא",
-      "gloss": "⟨die⟩ Präfekten"
+      "gloss": "die Seganim"
     },
     {
       "surface": "ופחותא",
-      "gloss": "und ⟨die⟩ Gouverneure"
+      "gloss": "und die Pachawim"
     },
     {
       "surface": "אדרגזריא",
-      "gloss": "⟨die⟩ Ober-Räte"
+      "gloss": "die AdarGazarim"
     },
     {
       "surface": "גדבריא",
-      "gloss": "⟨die⟩ Schatzmeister"
+      "gloss": "die Gedabarim"
     },
     {
       "surface": "דתבריא",
-      "gloss": "⟨die⟩ Richter"
+      "gloss": "die Detabarim"
     },
     {
       "surface": "תפתיא",
-      "gloss": "⟨die⟩ Rechtsbevollmächtigten"
+      "gloss": "die Tiftajim"
     },
     {
       "surface": "וכל",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "שלטני",
-      "gloss": "Machtträger"
+      "gloss": "Schiltonim"
     },
     {
       "surface": "מדינתא",
-      "gloss": "der Provinzen"
+      "gloss": "der Provinz"
     },
     {
       "surface": "לחנכת",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "צלמא",
-      "gloss": "des Standbildes"
+      "gloss": "des Bildes"
     },
     {
       "surface": "די",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "וקאמין",
-      "gloss": "⟨und⟩ standen ⟨da⟩"
+      "gloss": "und sie stellten sich auf"
     },
     {
       "surface": "לקבל",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "צלמא",
-      "gloss": "dem Standbild"
+      "gloss": "das Bild"
     },
     {
       "surface": "די",
@@ -104,6 +104,6 @@
       "gloss": "Nebukadnezar"
     }
   ],
-  "timestamp": "2026-08-06T04:44:42.722087891Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:03:43.863959566Z",
+  "model": "glm-5.3"
 }

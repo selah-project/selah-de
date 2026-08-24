@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 27,
-  "translation": "Verflucht ⟨ist⟩, wer nicht aufrichtet ⟨את⟩ die Worte dieser Tora, um sie zu tun, und ganz ⟨das⟩ Volk soll sagen: Amen.",
+  "translation": "Verflucht ⟨ist⟩, wer nicht aufrichtet ⟨את⟩ die Worte dieser Tora, um ⟨את⟩ sie zu tun, und ganz ⟨das⟩ Volk soll sagen: Amen.",
   "tokens": [
     {
       "surface": "ארור",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "ואמר",
@@ -65,6 +65,6 @@
       "gloss": "Amen"
     }
   ],
-  "timestamp": "2026-08-06T19:31:06.925798894Z",
+  "timestamp": "2026-08-24T21:30:49.818746087Z",
   "model": "glm-5.2"
 }

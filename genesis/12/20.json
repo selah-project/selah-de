@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 12,
-  "translation": "Und Paro befahl Männern ⟨zu⟩ ⟨seinetwegen⟩, und sie schickten ihn weg ⟨samt⟩ ⟨את⟩ seiner Frau und ⟨samt⟩ ⟨את⟩ allem, was ihm gehörte.",
+  "translation": "Und Paro befahl Männern ⟨zu⟩ ⟨seinetwegen⟩, und sie schickten ⟨את⟩ ihn weg ⟨samt⟩ ⟨את⟩ seiner Frau und ⟨samt⟩ ⟨את⟩ allem, was ihm gehörte.",
   "tokens": [
     {
       "surface": "וַיְצַ֥ו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אֹת֛וּ",
-      "gloss": "ihn",
+      "gloss": "⟨את⟩ ihn",
       "marks": "ihn"
     },
     {
@@ -59,6 +59,6 @@
       "gloss": "ihm gehörte"
     }
   ],
-  "timestamp": "2026-08-06T20:11:10.022840971Z",
+  "timestamp": "2026-08-24T21:30:49.241954532Z",
   "model": "glm-5.2"
 }

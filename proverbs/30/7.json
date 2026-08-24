@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "de",
   "chapter": 30,
-  "translation": "Zwei Dinge habe ich von dir erbeten — enthalte sie mir nicht vor, bevor ich sterbe.",
+  "translation": "Zwei Dinge habe ich ⟨את⟩ von dir erbeten — enthalte sie mir nicht vor, bevor ich sterbe.",
   "tokens": [
     {
       "surface": "שְׁ֭תַּיִם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מֵאִתָּ֑ךְ",
-      "gloss": "von dir"
+      "gloss": "⟨את⟩ von dir"
     },
     {
       "surface": "אַל",
@@ -40,6 +40,6 @@
       "gloss": "ich sterbe"
     }
   ],
-  "timestamp": "2026-08-05T23:15:20.530893745Z",
+  "timestamp": "2026-08-24T21:30:49.306347898Z",
   "model": "glm-5.2"
 }

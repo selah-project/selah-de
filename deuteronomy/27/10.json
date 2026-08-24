@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 27,
-  "translation": "Und du sollst auf die Stimme JHWHs, deines Elohim, hören und seine Gebote und seine Ordnungen tun, die ich dir heute gebiete.",
+  "translation": "Und du wirst auf die Stimme JHWHs, deines Elohim, hören und ⟨את⟩ seine Gebote und ⟨את⟩ seine Chuqim halten, die ich dir heute gebiete.",
   "tokens": [
     {
       "surface": "ושמעת",
-      "gloss": "Und du sollst hören"
+      "gloss": "Und du wirst hören"
     },
     {
       "surface": "בקול",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "und ⟨du sollst⟩ tun"
+      "gloss": "und halten"
     },
     {
       "surface": "את",
@@ -38,12 +38,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨und את⟩",
-      "marks": "seine Ordnungen"
+      "gloss": "⟨את⟩",
+      "marks": "seine Chuqim"
     },
     {
       "surface": "חקיו",
-      "gloss": "seine Ordnungen"
+      "gloss": "seine Chuqim (Festbestimmungen)"
     },
     {
       "surface": "אשר",
@@ -62,6 +62,6 @@
       "gloss": "heute"
     }
   ],
-  "timestamp": "2026-08-05T20:49:34.653965438Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:41.210217046Z",
+  "model": "glm-5.3"
 }

@@ -5,47 +5,47 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 1,
-  "translation": "Und ich gebot euch zu jener Zeit ⟨אתכם⟩ alle ⟨את⟩ Worte, die ihr tun sollt.",
+  "translation": "Und ich gebot ⟨את⟩ ⟨אתכם⟩ euch zu jener Zeit ⟨את⟩ alle diese Worte, die ihr tun sollt.",
   "tokens": [
     {
-      "surface": "וָאֲצַוֶּ֥ה",
-      "gloss": "Und ich gebot"
+      "surface": "ואצוה",
+      "gloss": "und ich gebot"
     },
     {
-      "surface": "אֶתְכֶ֖ם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨אתכם⟩ euch",
+      "marks": "euch (Objekt von ‚gebot‘)"
     },
     {
-      "surface": "בָּעֵ֣ת",
-      "gloss": "zu jener Zeit"
+      "surface": "בעת",
+      "gloss": "zu der Zeit"
     },
     {
-      "surface": "הַהִ֑וא",
+      "surface": "ההוא",
       "gloss": "jener"
     },
     {
-      "surface": "אֵ֥ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alle Worte"
+      "marks": "alle diese Worte"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "alle"
     },
     {
-      "surface": "הַדְּבָרִ֖ים",
-      "gloss": "Worte"
+      "surface": "הדברים",
+      "gloss": "diese Worte"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "die"
     },
     {
-      "surface": "תַּעֲשֽׂוּן",
+      "surface": "תעשון",
       "gloss": "ihr tun sollt"
     }
   ],
-  "timestamp": "2026-08-06T00:41:23.919904788Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:30:49.821107614Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 2,
-  "translation": "Und die Söhne der Nawi, die in Jericho waren, nahten Elischа, und sie sprachen zu ihm: „Weißt du, dass heute JHWH ⟨את⟩ deinen Herrn von über deinem Kopf nimmt?\" Und er sagte: „Auch ich weiß es. Schweigt.",
+  "translation": "Da traten die Söhne der Nawijim, die in Jericho waren, zu Elischá und sprachen zu ihm: „Weißt du, dass heute JHWH ⟨את⟩ deinen Herrn von über deinem Haupt wegnehmen wird?“ Er sagte: „Auch ich weiß es. Schweigt.“",
   "tokens": [
     {
       "surface": "ויגשו",
-      "gloss": "und sie nahten"
+      "gloss": "da traten … zu"
     },
     {
       "surface": "בני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "der Nawi"
+      "gloss": "der Nawijm"
     },
     {
       "surface": "אשר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "Elischа"
+      "gloss": "Elischá"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "und sie sprachen"
+      "gloss": "und sprachen"
     },
     {
       "surface": "אליו",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "nimmt"
+      "gloss": "wegnehmen wird"
     },
     {
       "surface": "את",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ראשך",
-      "gloss": "deinem Kopf"
+      "gloss": "deinem Haupt"
     },
     {
       "surface": "ויאמר",
@@ -101,6 +101,6 @@
       "gloss": "schweigt"
     }
   ],
-  "timestamp": "2026-08-06T22:41:09.667703567Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:53.051246322Z",
+  "model": "glm-5.3"
 }

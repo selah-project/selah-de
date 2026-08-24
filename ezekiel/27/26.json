@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 27,
-  "translation": "In großen Wassern haben ⟨die⟩ dich Bringen, die Rudernden ⟨zu⟩ dir; ⟨der⟩ Ostwind, ⟨der⟩ dich zerschmettert hat, im Herzen der Meere.",
+  "translation": "In großen Wassern haben ⟨die⟩ ⟨את⟩ dich Bringen, die Rudernden ⟨zu⟩ dir; ⟨der⟩ Ostwind, ⟨der⟩ dich zerschmettert hat, im Herzen der Meere.",
   "tokens": [
     {
       "surface": "בְּמַ֤יִם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אֹתָ֑ךְ",
-      "gloss": "dich Bringen",
+      "gloss": "⟨את⟩ dich Bringen",
       "marks": "die Rudernden"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "Ostwind,"
     }
   ],
-  "timestamp": "2026-08-06T06:23:51.119774434Z",
+  "timestamp": "2026-08-24T21:30:49.892797366Z",
   "model": "glm-5.2"
 }

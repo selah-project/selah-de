@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 5,
-  "translation": "Und der Kohen nahm aus der Hand der Frau ⟨את⟩ das Achtopfer der Eifersucht und schwang ⟨את⟩ das Opfer vor JHWH, und er brachte es ⟨an⟩ den Altar.",
+  "translation": "Und der Kohen nahm aus der Hand der Frau ⟨את⟩ das Achtopfer der Eifersucht und schwang ⟨את⟩ das Opfer vor JHWH, und er brachte ⟨את⟩ es ⟨an⟩ den Altar.",
   "tokens": [
     {
       "surface": "ולקח",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "es",
+      "gloss": "⟨את⟩ es",
       "marks": "es (an den Altar)"
     },
     {
@@ -75,6 +75,6 @@
       "gloss": "den Altar"
     }
   ],
-  "timestamp": "2026-08-05T20:30:42.610184446Z",
+  "timestamp": "2026-08-24T21:30:50.170414250Z",
   "model": "glm-5.2"
 }

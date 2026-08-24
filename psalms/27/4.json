@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 27,
-  "translation": "Eines habe ich von JHWH erbeten, das suche ich: zu wohnen im Haus JHWHs alle Tage meines Lebens, um zu schauen die Lieblichkeit JHWHs und zu betrachten in seinem Tempel.",
+  "translation": "Eines habe ich ⟨את⟩ von JHWH erbeten, ⟨את⟩ das suche ich: zu wohnen im Haus JHWHs alle Tage meines Lebens, um zu schauen die Lieblichkeit JHWHs und zu betrachten in seinem Tempel.",
   "tokens": [
     {
       "surface": "אַחַ֤ת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מֵֽאֵת",
-      "gloss": "von"
+      "gloss": "⟨את⟩ von"
     },
     {
       "surface": "יְהוָה֮",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אוֹתָ֪הּ",
-      "gloss": "das"
+      "gloss": "⟨את⟩ das"
     },
     {
       "surface": "אֲבַ֫קֵּ֥שׁ",
@@ -76,6 +76,6 @@
       "gloss": "in seinem Tempel"
     }
   ],
-  "timestamp": "2026-08-05T22:47:21.272126341Z",
+  "timestamp": "2026-08-24T21:30:49.567444638Z",
   "model": "glm-5.2"
 }

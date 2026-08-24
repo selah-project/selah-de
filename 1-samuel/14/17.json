@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 14,
-  "translation": "Und Schaul sprach zu dem Volk, das bei ihm war: „Mustert doch und seht, wer von uns weggegangen ist.\" Und sie musterten, und siehe, Jehonatan ⟨war⟩ nicht ⟨da⟩ und ⟨auch⟩ sein Waffenträger nicht.",
+  "translation": "Und Schaul sprach zu dem Volk, das ⟨את⟩ bei ihm war: „Mustert doch und seht, wer von uns weggegangen ist.\" Und sie musterten, und siehe, Jehonatan ⟨war⟩ nicht ⟨da⟩ und ⟨auch⟩ sein Waffenträger nicht.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bei ihm"
+      "gloss": "⟨את⟩ bei ihm"
     },
     {
       "surface": "פקדו",
@@ -76,6 +76,6 @@
       "gloss": "seiner Waffen"
     }
   ],
-  "timestamp": "2026-08-06T22:37:07.142134510Z",
+  "timestamp": "2026-08-24T21:30:49.772197146Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 3,
-  "translation": "Und ⟨er⟩ sagte: „Gut. Ich ⟨will⟩ eine Brit mit dir schneiden — nur eine Sache erbitte ich von dir, ⟨nämlich⟩: Du sollst mein Gesicht nicht sehen, denn wenn nicht vor ⟨deinem⟩ Bringen ⟨von⟩ ⟨את⟩ Mikal, der Tochter Schauls, ⟨sollst du⟩ beim Kommen ⟨um⟩ mein Gesicht zu sehen ⟨mein Gesicht sehen⟩.“",
+  "translation": "Und ⟨er⟩ sagte: „Gut. Ich ⟨will⟩ eine Brit ⟨את⟩ mit dir schneiden — nur eine Sache erbitte ich ⟨את⟩ von dir, ⟨nämlich⟩: Du sollst mein Gesicht nicht sehen, denn wenn nicht vor ⟨deinem⟩ Bringen ⟨von⟩ ⟨את⟩ Mikal, der Tochter Schauls, ⟨sollst du⟩ beim Kommen ⟨um⟩ mein Gesicht zu sehen ⟨mein Gesicht sehen⟩.“",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "mit dir"
+      "gloss": "⟨את⟩ mit dir"
     },
     {
       "surface": "ברית",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "von dir"
+      "gloss": "⟨את⟩ von dir"
     },
     {
       "surface": "לאמר",
@@ -127,6 +127,6 @@
       "gloss": "mein Gesicht"
     }
   ],
-  "timestamp": "2026-08-05T21:17:15.084485772Z",
+  "timestamp": "2026-08-24T21:30:49.087809343Z",
   "model": "glm-5.2"
 }

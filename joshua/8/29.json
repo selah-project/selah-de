@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und ⟨את⟩ den König von Ai hängte er an das Holz bis zur Zeit des Abends. Und beim Untergang der Sonne gebot Jehoschua, und sie ließen ⟨את⟩ seinen Leichnam vom Holz herab, und sie warfen ihn zum Eingang des Stadttores, und sie richteten über ihm einen großen Steinhaufen auf, bis zu diesem Tag.",
+  "translation": "Und ⟨את⟩ den König von Ai hängte er an das Holz bis zur Zeit des Abends. Und beim Untergang der Sonne gebot Jehoschua, und sie ließen ⟨את⟩ seinen Leichnam vom Holz herab, und sie warfen ⟨את⟩ ihn zum Eingang des Stadttores, und sie richteten über ihm einen großen Steinhaufen auf, bis zu diesem Tag.",
   "tokens": [
     {
       "surface": "ואת",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "אל",
@@ -138,6 +138,6 @@
       "gloss": "diesem"
     }
   ],
-  "timestamp": "2026-08-05T20:54:33.239547367Z",
+  "timestamp": "2026-08-24T21:30:50.281765066Z",
   "model": "glm-5.2"
 }

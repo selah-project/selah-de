@@ -5,102 +5,102 @@
   "book": "jeremiah",
   "lang": "de",
   "chapter": 44,
-  "translation": "Weil ihr Räucherwerk gemacht habt und weil ihr gegen JHWH gesündigt habt und nicht gehört habt auf die Stimme JHWHs und in seiner Tora und in seinen Chuqqim und in seinen Edot nicht gegangen seid — darum hat ⟨euch⟩ ⟨dieses⟩ Unglück getroffen, ⟨אתכם⟩, das Böse, dieses, wie an diesem Tag.",
+  "translation": "Weil ihr Räucherwerk verbrannt habt und weil ihr gegen JHWH gesündigt habt und nicht gehört habt auf die Stimme JHWHs und in seiner Tora, in seinen Chuqqot und in seinen Edot nicht gegangen seid — darum hat euch dieses Unglück getroffen, wie an diesem Tag.",
   "tokens": [
     {
-      "surface": "מִפְּנֵי",
-      "gloss": "wegen"
+      "surface": "מפני",
+      "gloss": "Weil"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "dass"
+      "surface": "אשר",
+      "gloss": "—"
     },
     {
-      "surface": "קִטַּרְתֶּם",
-      "gloss": "ihr Räucherwerk gemacht habt"
+      "surface": "קטרתם",
+      "gloss": "ihr Räucherwerk verbrannt habt"
     },
     {
-      "surface": "וַאֲשֶׁר",
+      "surface": "ואשר",
       "gloss": "und weil"
     },
     {
-      "surface": "חֲטָאתֶם",
+      "surface": "חטאתם",
       "gloss": "ihr gesündigt habt"
     },
     {
-      "surface": "לַיהוָה",
+      "surface": "ליהוה",
       "gloss": "gegen JHWH"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "und nicht"
     },
     {
-      "surface": "שְׁמַעְתֶּם",
-      "gloss": "ihr gehört habt"
+      "surface": "שמעתם",
+      "gloss": "gehört habt"
     },
     {
-      "surface": "בְּקוֹל",
+      "surface": "בקול",
       "gloss": "auf die Stimme"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "JHWHs"
     },
     {
-      "surface": "וּבְתוֹרָתוֹ",
+      "surface": "ובתרתו",
       "gloss": "und in seiner Tora"
     },
     {
-      "surface": "וּבְחֻקֹּתָיו",
-      "gloss": "und in seinen Chuqqim"
+      "surface": "ובחקתיו",
+      "gloss": "in seinen Chuqqot"
     },
     {
-      "surface": "וּבְעֵדְוֺתָיו",
-      "gloss": "und in seinen Edot"
+      "surface": "ובעדותיו",
+      "gloss": "in seinen Edot"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "הֲלַכְתֶּם",
-      "gloss": "ihr gegangen seid"
+      "surface": "הלכתם",
+      "gloss": "gegangen seid"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כן",
       "gloss": "darum"
     },
     {
-      "surface": "כֵּן",
-      "gloss": "(so)"
-    },
-    {
-      "surface": "קָרָאת",
+      "surface": "קראת",
       "gloss": "hat getroffen"
     },
     {
-      "surface": "אֶתְכֶם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "das Böse, dieses"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch (als Objekt von ‚getroffen')"
     },
     {
-      "surface": "הָרָעָה",
-      "gloss": "das Böse"
+      "surface": "הרעה",
+      "gloss": "das Unglück (die Ra'a)"
     },
     {
-      "surface": "הַזֹּאת",
+      "surface": "הזאת",
       "gloss": "dieses"
     },
     {
-      "surface": "כַּיּוֹם",
+      "surface": "כיום",
       "gloss": "wie an diesem Tag"
     },
     {
-      "surface": "הַזֶּה",
-      "gloss": "diesem"
+      "surface": "הזה",
+      "gloss": "diesen"
     }
   ],
-  "timestamp": "2026-08-06T06:15:20.065662774Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:25.621935482Z",
+  "model": "glm-5.3"
 }

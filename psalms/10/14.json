@@ -5,69 +5,69 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 10,
-  "translation": "Du hast ⟨es⟩ gesehen, denn du schaust auf Mühsal und Verdruss, um ⟨es⟩ in deine Hand zu geben. Auf dich verlässt ⟨sich⟩ der Elende ⟨חלכה⟩, der Waise — du bist ⟨sein⟩ Helfer gewesen.",
+  "translation": "Du hast ⟨es⟩ gesehen; denn du schaust Mühsal und Verdruss, um ⟨es⟩ mit deiner Hand zu vergelten. Auf dich verlässt sich der Elende; dem Waisenkind bist du der Helfer ⟨gewesen⟩.",
   "tokens": [
     {
-      "surface": "רָאִ֡תָה",
+      "surface": "ראתה",
       "gloss": "du hast gesehen"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "denn"
     },
     {
-      "surface": "אַתָּ֤ה",
+      "surface": "אתה",
       "gloss": "du"
     },
     {
-      "surface": "עָ֘מָ֤ל",
+      "surface": "עמל",
       "gloss": "Mühsal"
     },
     {
-      "surface": "וָכַ֨עַס",
+      "surface": "וכעס",
       "gloss": "und Verdruss"
     },
     {
-      "surface": "תַּבִּיט֮",
-      "gloss": "schaust auf"
+      "surface": "תביט",
+      "gloss": "du schaust"
     },
     {
-      "surface": "לָתֵ֪ת",
-      "gloss": "um zu geben"
+      "surface": "לתת",
+      "gloss": "um zu vergelten"
     },
     {
-      "surface": "בְּיָ֫דֶ֥ךָ",
-      "gloss": "in deine Hand"
+      "surface": "בידך",
+      "gloss": "mit deiner Hand"
     },
     {
-      "surface": "עָ֭לֶיךָ",
+      "surface": "עליך",
       "gloss": "auf dich"
     },
     {
-      "surface": "יַעֲזֹ֣ב",
-      "gloss": "verlässt"
+      "surface": "יעזב",
+      "gloss": "verlässt sich"
     },
     {
-      "surface": "חֵלֶ֑כָה",
+      "surface": "חלכה",
       "gloss": "der Elende"
     },
     {
-      "surface": "יָ֝ת֗וֹם",
-      "gloss": "der Waise"
+      "surface": "יתום",
+      "gloss": "das Waisenkind"
     },
     {
-      "surface": "אַתָּ֤ה",
+      "surface": "אתה",
       "gloss": "du"
     },
     {
-      "surface": "הָיִ֬יתָ",
-      "gloss": "bist gewesen"
+      "surface": "היית",
+      "gloss": "bist ⟨gewesen⟩"
     },
     {
-      "surface": "עוֹזֵֽר",
-      "gloss": "Helfer"
+      "surface": "עוזר",
+      "gloss": "der Helfer"
     }
   ],
-  "timestamp": "2026-08-06T20:39:26.593719081Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:57.513378968Z",
+  "model": "glm-5.3"
 }

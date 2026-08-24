@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 1,
-  "translation": "Und ⟨er⟩ sprach: „Beim Gebären der Hebäerinnen ⟨werdet ihr⟩ ⟨את⟩ ⟨sie⟩ sehen auf den Gebärsteinen: Wenn ein Sohn er ⟨ist⟩, tötet ⟨ihn⟩, und wenn eine Tochter sie ⟨ist⟩, ⟨dann soll sie⟩ leben.",
+  "translation": "Und ⟨er⟩ sprach: „Beim Gebären der Hebäerinnen ⟨werdet ihr⟩ ⟨את⟩ ⟨sie⟩ sehen auf den Gebärsteinen: Wenn ein Sohn er ⟨ist⟩, tötet ⟨את⟩ ⟨ihn⟩, und wenn eine Tochter sie ⟨ist⟩, ⟨dann soll sie⟩ leben.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨ihn⟩"
+      "gloss": "⟨את⟩ ⟨ihn⟩"
     },
     {
       "surface": "ואם",
@@ -73,6 +73,6 @@
       "gloss": "⟨dann soll sie⟩ leben"
     }
   ],
-  "timestamp": "2026-08-06T00:12:08.282762022Z",
+  "timestamp": "2026-08-24T21:30:49.635799273Z",
   "model": "glm-5.2"
 }

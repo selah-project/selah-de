@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 22,
-  "translation": "Und der König von Jisra'el sagte zu Jehoschafat: „⟨Es ist⟩ noch ein Mann da, ⟨um⟩ ⟨את⟩ JHWH zu befragen durch ihn — aber ich hasse ihn, denn er sagt als Nawi über mich nichts Gutes, sondern nur Böses: Michajahu, der Sohn Jimlas.“ Und Jehoschafat sagte: „Der König soll nicht so reden.“",
+  "translation": "Und der König von Jisra'el sagte zu Jehoschafat: „⟨Es ist⟩ noch ein Mann da, ⟨um⟩ ⟨את⟩ JHWH zu befragen ⟨את⟩ durch ihn — aber ich hasse ihn, denn er sagt als Nawi über mich nichts Gutes, sondern nur Böses: Michajahu, der Sohn Jimlas.“ Und Jehoschafat sagte: „Der König soll nicht so reden.“",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "durch ihn"
+      "gloss": "⟨את⟩ durch ihn"
     },
     {
       "surface": "ואני",
@@ -133,6 +133,6 @@
       "gloss": "so"
     }
   ],
-  "timestamp": "2026-08-06T03:01:51.875822131Z",
+  "timestamp": "2026-08-24T21:30:50.317359714Z",
   "model": "glm-5.2"
 }

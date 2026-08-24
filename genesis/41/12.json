@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 41,
-  "translation": "Und ⟨da⟩ war bei uns ein Junge, ein Hebräer, ein Knecht des Obersten der Leibwache; und wir erzählten ihm ⟨⟨die Träume⟩⟩, und er deutete uns ⟨את⟩ unsere Träume, jeden nach seinem Traum; er deutete ⟨ihn⟩.",
+  "translation": "Und dort war mit uns ein Junge, ein Iwri, ein Knecht des Obersten der Köche; und wir erzählten ihm ⟨את⟩ unsere Träume, und er deutete sie uns, jedem nach seinem Traum deutete er.",
   "tokens": [
     {
       "surface": "ושם",
-      "gloss": "und ⟨da⟩"
+      "gloss": "und dort"
     },
     {
       "surface": "אתנו",
-      "gloss": "bei uns"
+      "gloss": "mit uns ⟨את⟩"
     },
     {
       "surface": "נער",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עברי",
-      "gloss": "ein Hebräer"
+      "gloss": "ein Iwri"
     },
     {
       "surface": "עבד",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הטבחים",
-      "gloss": "der Leibwache"
+      "gloss": "der Köche"
     },
     {
       "surface": "ונספר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "jeden"
+      "gloss": "jedem"
     },
     {
       "surface": "כחלמו",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "פתר",
-      "gloss": "er deutete ⟨ihn⟩"
+      "gloss": "deutete er"
     }
   ],
-  "timestamp": "2026-08-05T20:02:30.099402029Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:13.245428884Z",
+  "model": "glm-5.3"
 }

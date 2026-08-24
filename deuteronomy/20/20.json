@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 20,
-  "translation": "Nur ⟨einen⟩ Baum, von dem du weißt, dass er kein Ess-Baum ist, ⟨ihn⟩ sollst du verderben und fällen; und du sollst eine Belagerung ⟨gegen⟩ die Stadt bauen, die mit dir Krieg führt, bis du sie niedergestreckt ⟨hast⟩.",
+  "translation": "Nur ⟨einen⟩ Baum, von dem du weißt, dass er kein Ess-Baum ist, ⟨את⟩ ⟨ihn⟩ sollst du verderben und fällen; und du sollst eine Belagerung ⟨gegen⟩ die Stadt bauen, die mit dir Krieg führt, bis du sie niedergestreckt ⟨hast⟩.",
   "tokens": [
     {
       "surface": "רַ֞ק",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אֹת֥וֹ",
-      "gloss": "⟨ihn⟩",
+      "gloss": "⟨את⟩ ⟨ihn⟩",
       "marks": "ihn"
     },
     {
@@ -101,6 +101,6 @@
       "gloss": "du sie niedergestreckt ⟨hast⟩"
     }
   ],
-  "timestamp": "2026-08-06T09:53:45.660406043Z",
+  "timestamp": "2026-08-24T21:30:49.792502383Z",
   "model": "glm-5.2"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 4,
-  "translation": "Und ⟨mich⟩ gebot JHWH zu jener Zeit, euch Chukim (Bestimmungen) und Mischpatim (Rechtsordnungen) zu lehren, damit ihr sie tut in dem Land, in das ihr dorthin hinüberzieht, um es in Besitz zu nehmen.",
+  "translation": "Und ⟨mich⟩ gebot JHWH zu jener Zeit, ⟨את⟩ euch Chukim (Bestimmungen) und Mischpatim (Rechtsordnungen) zu lehren, damit ihr ⟨את⟩ sie tut in dem Land, in das ihr dorthin hinüberzieht, um es in Besitz zu nehmen.",
   "tokens": [
     {
       "surface": "ואתי",
-      "gloss": "und ⟨mich⟩"
+      "gloss": "⟨את⟩ und ⟨mich⟩"
     },
     {
       "surface": "צוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "חקים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "בארץ",
@@ -76,6 +76,6 @@
       "gloss": "um es in Besitz zu nehmen"
     }
   ],
-  "timestamp": "2026-08-05T20:42:48.895633857Z",
+  "timestamp": "2026-08-24T21:30:49.799030570Z",
   "model": "glm-5.2"
 }

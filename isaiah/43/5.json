@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 43,
-  "translation": "Fürchte dich nicht, denn ich bin bei dir. Vom Osten bringe ich ⟨deine⟩ Nachkommenschaft, und vom Westen sammle ich dich.",
+  "translation": "Fürchte dich nicht, denn ich bin ⟨את⟩ bei dir. Vom Osten bringe ich ⟨deine⟩ Nachkommenschaft, und vom Westen sammle ich dich.",
   "tokens": [
     {
       "surface": "אַל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אִתְּךָ",
-      "gloss": "bei dir"
+      "gloss": "⟨את⟩ bei dir"
     },
     {
       "surface": "אָנִי",
@@ -48,6 +48,6 @@
       "gloss": "sammle ich dich"
     }
   ],
-  "timestamp": "2026-08-06T01:49:37.608363144Z",
+  "timestamp": "2026-08-24T21:30:50.164772302Z",
   "model": "glm-5.2"
 }

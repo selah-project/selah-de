@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "de",
   "chapter": 10,
-  "translation": "Und er redete zu ihnen nach dem Rat der Jungen und sagte: „Mein Vater hat ⟨את⟩ euer Joch schwer gemacht, und ich werde noch darauf tun. Mein Vater hat euch mit Geißeln gezüchtigt, und ich ⟨werde⟩ mit Skorpionen ⟨⟨את⟩⟩.“",
+  "translation": "Und er redete zu ihnen nach dem Rat der Jungen und sprach: „Mein Vater hat ⟨את⟩ euer Joch schwer gemacht, und ich, ich werde darauf legen. Mein Vater hat euch mit Schlägen gezüchtigt, und ich — mit Skorpionen.“",
   "tokens": [
     {
       "surface": "וידבר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "und sagte"
+      "gloss": "und sprach"
     },
     {
       "surface": "אכביד",
-      "gloss": "habe ich schwer gemacht"
+      "gloss": "habe schwer gemacht"
     },
     {
       "surface": "את",
@@ -41,12 +41,16 @@
       "gloss": "euer Joch"
     },
     {
+      "surface": "וידבר",
+      "gloss": ""
+    },
+    {
       "surface": "ואני",
-      "gloss": "und ich"
+      "gloss": "und ich, ich"
     },
     {
       "surface": "אסיף",
-      "gloss": "werde noch tun"
+      "gloss": "werde hinzufügen"
     },
     {
       "surface": "עליו",
@@ -58,26 +62,21 @@
     },
     {
       "surface": "יסר",
-      "gloss": "hat gezüchtigt"
+      "gloss": "⟨את⟩ hat gezüchtigt"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "euch (mit Geißeln)"
+      "gloss": "euch"
     },
     {
       "surface": "בשוטים",
-      "gloss": "mit Geißeln"
-    },
-    {
-      "surface": "ואני",
-      "gloss": "und ich"
+      "gloss": "mit Schlägen"
     },
     {
       "surface": "בעקרבים",
       "gloss": "mit Skorpionen"
     }
   ],
-  "timestamp": "2026-08-06T21:27:39.965741508Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:13.309948033Z",
+  "model": "glm-5.3"
 }

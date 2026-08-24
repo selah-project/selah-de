@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 26,
-  "translation": "dann werde auch ich mit euch gehen im Grimm ⟨des⟩ Widerstands, und ich werde euch züchtigen, ⟨אתכם⟩, ja ich, siebenfach für eure Sünden.",
+  "translation": "dann werde ich mit euch gehen im Grimm der Widersetzlichkeit, und ich werde euch züchtigen, selbst ich, siebenfach über eure Sünden.",
   "tokens": [
     {
       "surface": "והלכתי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "קרי",
-      "gloss": "des Widerstands"
+      "gloss": "der Widersetzlichkeit"
     },
     {
       "surface": "ויסרתי",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "euch"
     },
     {
       "surface": "אף",
-      "gloss": "ja"
+      "gloss": "selbst"
     },
     {
       "surface": "אני",
@@ -42,17 +42,17 @@
     },
     {
       "surface": "שבע",
-      "gloss": " siebenfach"
+      "gloss": "siebenfach"
     },
     {
       "surface": "על",
-      "gloss": "für"
+      "gloss": "über"
     },
     {
       "surface": "חטאתיכם",
       "gloss": "eure Sünden"
     }
   ],
-  "timestamp": "2026-08-05T20:28:18.423389748Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:22.938692589Z",
+  "model": "glm-5.3"
 }

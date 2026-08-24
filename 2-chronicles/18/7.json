@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "de",
   "chapter": 18,
-  "translation": "Und der König von Jisra'el sagte zu Jehoschafat: „Noch ⟨ist da⟩ ein Mann, ⟨um⟩ ⟨את⟩ JHWH von ihm zu befragen, und ich hasse ihn, denn er weissagt nicht über mich zum Guten, denn alle seine Tage ⟨sind⟩ zum Bösen — ⟨das ist⟩ Michajahu, der Sohn Jimlas.\" Und Jehoschafat sagte: „Der König soll nicht so sprechen.\"",
+  "translation": "Und der König von Jisra'el sagte zu Jehoschafat: „Noch ⟨ist da⟩ ein Mann, ⟨um⟩ ⟨את⟩ JHWH ⟨את⟩ von ihm zu befragen, und ich hasse ihn, denn er weissagt nicht über mich zum Guten, denn alle seine Tage ⟨sind⟩ zum Bösen — ⟨das ist⟩ Michajahu, der Sohn Jimlas.\" Und Jehoschafat sagte: „Der König soll nicht so sprechen.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "von ihm"
+      "gloss": "⟨את⟩ von ihm"
     },
     {
       "surface": "ואני",
@@ -141,6 +141,6 @@
       "gloss": "so"
     }
   ],
-  "timestamp": "2026-08-06T22:49:51.887858159Z",
+  "timestamp": "2026-08-24T21:30:49.710816127Z",
   "model": "glm-5.2"
 }

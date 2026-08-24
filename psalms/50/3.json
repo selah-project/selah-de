@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 50,
-  "translation": "Es komme, unser Elohim, und ⟨er⟩ schweige nicht! Feuer ⟨⟨das⟩⟩ vor ihm her ⟨ist⟩, frisst, und um ihn herum tobt es heftig.",
+  "translation": "Unser Elohim kommt und wird nicht schweigen: Feuer vor ihm frisst, und um ihn herum tobt es gewaltig.",
   "tokens": [
     {
       "surface": "יבא",
-      "gloss": "Es komme"
+      "gloss": "kommt"
     },
     {
       "surface": "אלהינו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "und ⟨er⟩ schweige nicht"
+      "gloss": "und nicht"
     },
     {
       "surface": "יחרש",
-      "gloss": ""
+      "gloss": "wird schweigen"
     },
     {
       "surface": "אש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "vor ihm her"
+      "gloss": "vor ihm"
     },
     {
       "surface": "תאכל",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "נשערה",
-      "gloss": "tobt es"
+      "gloss": "tobt"
     },
     {
       "surface": "מאד",
-      "gloss": "heftig"
+      "gloss": "gewaltig"
     }
   ],
-  "timestamp": "2026-08-06T09:15:46.764112357Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:20.646897133Z",
+  "model": "glm-5.3"
 }

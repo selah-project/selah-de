@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "de",
   "chapter": 11,
-  "translation": "Und auf ⟨die⟩ Elohim seiner Väter wird er keine Rücksicht nehmen, und auf ⟨die⟩ Begehrung der Frauen und auf irgendeinen Eloah wird er keine Rücksicht nehmen, denn über ⟨das〉 Alles wird er sich großtun.",
+  "translation": "Und auf die Elohim seiner Väter wird er nicht achten, und auf die Begehrlichkeit der Frauen und auf jeden El wird er nicht achten; denn über alles wird er sich großtun.",
   "tokens": [
     {
       "surface": "ועל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "die Elohim"
     },
     {
       "surface": "אבתיו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "חמדת",
-      "gloss": "die Begehrung"
+      "gloss": "die Begehrlichkeit"
     },
     {
       "surface": "נשים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אלוה",
-      "gloss": "Eloah"
+      "gloss": "El"
     },
     {
       "surface": "לא",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "Alles"
+      "gloss": "alles"
     },
     {
       "surface": "יתגדל",
       "gloss": "wird er sich großtun"
     }
   ],
-  "timestamp": "2026-08-06T10:41:13.640473114Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:12.105689470Z",
+  "model": "glm-5.3"
 }

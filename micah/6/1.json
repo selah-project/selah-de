@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "de",
   "chapter": 6,
-  "translation": "Hört doch ⟨את⟩, was JHWH sagt: Steh auf, streite ⟨mit⟩ den Bergen, und ⟨es sollen⟩ hören die Hügel ⟨deine⟩ Stimme!",
+  "translation": "Hört doch ⟨את⟩, was JHWH sagt: Steh auf, streite ⟨את⟩ ⟨mit⟩ den Bergen, und ⟨es sollen⟩ hören die Hügel ⟨deine⟩ Stimme!",
   "tokens": [
     {
       "surface": "שמעו",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨mit⟩",
+      "gloss": "⟨את⟩ ⟨mit⟩",
       "marks": "die Berge"
     },
     {
@@ -62,6 +62,6 @@
       "gloss": "⟨deine⟩ Stimme"
     }
   ],
-  "timestamp": "2026-08-06T04:03:28.155369600Z",
+  "timestamp": "2026-08-24T21:30:49.546797053Z",
   "model": "glm-5.2"
 }

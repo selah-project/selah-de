@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 4,
-  "translation": "Und er stützt ⟨את⟩ seine Hand auf den Kopf der Chattat und schlachtet sie ⟨als⟩ Chattat an dem Ort, wo man ⟨את⟩ die Ola schlachtet.",
+  "translation": "Und er stützt ⟨את⟩ seine Hand auf den Kopf der Chattat und schlachtet ⟨את⟩ sie ⟨als⟩ Chattat an dem Ort, wo man ⟨את⟩ die Ola schlachtet.",
   "tokens": [
     {
       "surface": "וסמך",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "לחטאת",
@@ -66,6 +66,6 @@
       "gloss": "die Ola"
     }
   ],
-  "timestamp": "2026-08-06T08:20:46.977261283Z",
+  "timestamp": "2026-08-24T21:30:50.060295739Z",
   "model": "glm-5.2"
 }

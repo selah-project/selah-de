@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 31,
-  "translation": "Und er nahm ⟨את⟩ seine Brüder mit sich und jagte ihm hinterher, Weg von sieben Tagen, und ⟨er⟩ holte ihn ein im Berg Gilad.",
+  "translation": "Und er nahm ⟨את⟩ seine Brüder mit sich und jagte ihm hinterher, Weg von sieben Tagen, und ⟨er⟩ holte ⟨את⟩ ihn ein im Berg Gilad.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn",
+      "gloss": "⟨את⟩ ihn",
       "marks": "im Berg Gilad"
     },
     {
@@ -62,6 +62,6 @@
       "gloss": "Gilad"
     }
   ],
-  "timestamp": "2026-08-05T17:37:06.869141421Z",
+  "timestamp": "2026-08-24T21:30:49.292981239Z",
   "model": "glm-5.2"
 }

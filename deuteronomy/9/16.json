@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 9,
-  "translation": "Und ich sah, und siehe, ihr habt gesündigt gegen JHWH, euren Elohim, ihr habt euch ein gegossenes Kalb gemacht — schnell seid ihr abgebogen vom Weg, den JHWH euch geboten hat ⟨אתכם⟩.",
+  "translation": "Und ich sah, und siehe: ⟨ihr⟩ hattet gesündigt gegen JHWH, euren Elohim — ⟨ihr⟩ hattet euch gemacht ein Kalb, ein gegossenes Bild; ⟨ihr⟩ wart schnell abgewichen von dem Weg, den JHWH euch ⟨את⟩ geboten hatte.",
   "tokens": [
     {
       "surface": "וארא",
-      "gloss": "Und ich sah"
+      "gloss": "und ich sah"
     },
     {
       "surface": "והנה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "חטאתם",
-      "gloss": "ihr habt gesündigt"
+      "gloss": "hattet gesündigt"
     },
     {
       "surface": "ליהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עשיתם",
-      "gloss": "ihr habt gemacht"
+      "gloss": "hattet gemacht"
     },
     {
       "surface": "לכם",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "מסכה",
-      "gloss": "gegossenes"
+      "gloss": "ein gegossenes Bild"
     },
     {
       "surface": "סרתם",
-      "gloss": "seid ihr abgebogen"
+      "gloss": "wart abgewichen"
     },
     {
       "surface": "מהר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "geboten hat"
+      "gloss": "geboten"
     },
     {
       "surface": "יהוה",
@@ -73,10 +73,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ euch",
       "marks": "euch"
     }
   ],
-  "timestamp": "2026-08-06T00:42:48.876688398Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:21.841108029Z",
+  "model": "glm-5.3"
 }

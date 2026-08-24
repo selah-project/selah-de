@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "de",
   "chapter": 12,
-  "translation": "Und du, JHWH, du hast mich erkannt, du siehst mich und prüfst ⟨mein⟩ Herz ⟨im Umgang⟩ mit dir. Reiße sie los wie Schlachtvieh ⟨zum⟩ Schlachten, und heilige sie für den Tag des Niedermetzelns.",
+  "translation": "Und du, JHWH, du hast mich erkannt, du siehst mich und prüfst ⟨mein⟩ Herz ⟨im Umgang⟩ ⟨את⟩ mit dir. Reiße sie los wie Schlachtvieh ⟨zum⟩ Schlachten, und heilige sie für den Tag des Niedermetzelns.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "mit dir"
+      "gloss": "⟨את⟩ mit dir"
     },
     {
       "surface": "התקם",
@@ -60,6 +60,6 @@
       "gloss": "des Niedermetzelns"
     }
   ],
-  "timestamp": "2026-08-06T20:34:24.027845511Z",
+  "timestamp": "2026-08-24T21:30:49.506662157Z",
   "model": "glm-5.2"
 }

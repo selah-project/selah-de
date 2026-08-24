@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 18,
-  "translation": "Und Elia sagte: „So gewiss JHWH der Zwaoten lebt, vor dem ich stehe — heute werde ich ⟨ihm⟩ gezeigt werden.",
+  "translation": "Und Elia sagte: „So gewiss JHWH der Tzavaot lebt, vor dem ich stehe: Heute werde ich ⟨mir⟩ ihn zeigen.“",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Und ⟨er⟩ sagte"
+      "gloss": "Und … sagte"
     },
     {
       "surface": "אליהו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "(so gewiss) … lebt"
+      "gloss": "lebt"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "der Zwaoten"
+      "gloss": "der Tzavaot (Heerscharen)"
     },
     {
       "surface": "אשר",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "⟨dieser ist ausgelassen; בלפניו enthalten⟩"
+      "gloss": "vor ihm"
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "gewiss"
     },
     {
       "surface": "היום",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "אראה",
-      "gloss": "werde ich gezeigt werden"
+      "gloss": "werde ich mich zeigen"
     },
     {
       "surface": "אליו",
-      "gloss": "⟨ihm⟩"
+      "gloss": "ihm"
     }
   ],
-  "timestamp": "2026-08-06T10:06:39.206178993Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:52.411081827Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 26,
-  "translation": "Und ihr werdet zugrunde gehen unter den Völkern, und das Land eurer Feinde wird ⟨euch⟩, ⟨אתכם⟩, verzehren.",
+  "translation": "Und ihr werdet umkommen unter den Gojim, und das Land eurer Feinde wird euch ⟨את⟩ verzehren.",
   "tokens": [
     {
       "surface": "ואבדתם",
-      "gloss": "Und ihr werdet zugrunde gehen"
+      "gloss": "und ihr werdet umkommen"
     },
     {
       "surface": "בגוים",
-      "gloss": "unter den Völkern"
+      "gloss": "unter den Gojim"
     },
     {
       "surface": "ואכלה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "euch"
     },
     {
@@ -33,6 +33,6 @@
       "gloss": "eurer Feinde"
     }
   ],
-  "timestamp": "2026-08-05T20:28:48.219023855Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:02.194375711Z",
+  "model": "glm-5.3"
 }

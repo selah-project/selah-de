@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 17,
-  "translation": "Im neunten Jahr Hoscheas ergriff der König von Aschur ⟨את⟩ Schomron, und Aschur führte ⟨את⟩ Jisraël gefangen nach Aschur, und er ließ sie wohnen in Chalach und am Chawor, dem Fluss von Gosan, und in den Städten der Meder.",
+  "translation": "Im neunten Jahr Hoscheas ergriff der König von Aschur ⟨את⟩ Schomron, und Aschur führte ⟨את⟩ Jisraël gefangen nach Aschur, und er ließ ⟨את⟩ sie wohnen in Chalach und am Chawor, dem Fluss von Gosan, und in den Städten der Meder.",
   "tokens": [
     {
       "surface": "בשנת",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "בחלח",
@@ -90,6 +90,6 @@
       "gloss": "der Meder"
     }
   ],
-  "timestamp": "2026-08-06T03:09:18.357616096Z",
+  "timestamp": "2026-08-24T21:30:49.994632845Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 19,
-  "translation": "Wie ein Einheimischer unter euch soll euch der Ger sein, der bei euch lebt, und du sollst ihn lieben wie dich selbst, denn Gerim wart ihr im Land Mizrajim. Ich bin JHWH, euer Elohim.",
+  "translation": "Wie ein Einheimischer unter euch soll euch der Ger sein, der ⟨את⟩ bei euch lebt, und du sollst ihn lieben wie dich selbst, denn Gerim wart ihr im Land Mizrajim. Ich bin JHWH, euer Elohim.",
   "tokens": [
     {
       "surface": "כאזרח",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "bei euch"
+      "gloss": "⟨את⟩ bei euch"
     },
     {
       "surface": "ואהבת",
@@ -80,6 +80,6 @@
       "gloss": "euer Elohim"
     }
   ],
-  "timestamp": "2026-08-05T20:25:28.782695876Z",
+  "timestamp": "2026-08-24T21:30:50.103185220Z",
   "model": "glm-5.2"
 }

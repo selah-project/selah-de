@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "de",
   "chapter": 11,
-  "translation": "„So spricht JHWH: Ihr sollt nicht hinaufziehen und nicht kämpfen mit euren Brüdern. Kehrt um, jeder zu seinem Haus! Denn von mir aus ⟨ist⟩ diese Sache geschehen.“ Und sie hörten ⟨את⟩ die Worte JHWHs und kehrten um, loszuziehen gegen Jarawam.",
+  "translation": "„So spricht JHWH: Ihr sollt nicht hinaufziehen und nicht kämpfen mit euren Brüdern. Kehrt um, jeder zu seinem Haus! Denn ⟨את⟩ von mir aus ⟨ist⟩ diese Sache geschehen.“ Und sie hörten ⟨את⟩ die Worte JHWHs und kehrten um, loszuziehen gegen Jarawam.",
   "tokens": [
     {
       "surface": "כה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "von mir aus"
+      "gloss": "⟨את⟩ von mir aus"
     },
     {
       "surface": "נהיה",
@@ -109,6 +109,6 @@
       "gloss": "Jarawam"
     }
   ],
-  "timestamp": "2026-08-05T23:56:34.966534092Z",
+  "timestamp": "2026-08-24T21:30:49.696025098Z",
   "model": "glm-5.2"
 }

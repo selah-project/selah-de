@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 24,
-  "translation": "Und das Herz Dawids schlug ihn danach, dass er ⟨את⟩ das Volk gezählt hatte. Und Dawid sprach zu JHWH: „Ich habe sehr gesündigt in dem, was ich getan habe. Und nun, JHWH, lass doch ⟨die⟩ Schuld deines Knechts vorübergehen, denn ich habe sehr töricht gehandelt.“",
+  "translation": "Und das Herz Dawids schlug ⟨את⟩ ihn danach, dass er ⟨את⟩ das Volk gezählt hatte. Und Dawid sprach zu JHWH: „Ich habe sehr gesündigt in dem, was ich getan habe. Und nun, JHWH, lass doch ⟨die⟩ Schuld deines Knechts vorübergehen, denn ich habe sehr töricht gehandelt.“",
   "tokens": [
     {
       "surface": "ויך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "אחרי",
@@ -118,6 +118,6 @@
       "gloss": "sehr töricht"
     }
   ],
-  "timestamp": "2026-08-06T01:20:47.940139068Z",
+  "timestamp": "2026-08-24T21:30:49.134807750Z",
   "model": "glm-5.2"
 }

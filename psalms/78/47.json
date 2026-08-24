@@ -5,29 +5,29 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 78,
-  "translation": "Er erschlug mit Hagel ⟨ihre⟩ Reben und ⟨ihre⟩ Sykomoren mit ⟨dem〉 Schlossenregen.",
+  "translation": "Er tötete mit Hagel ⟨את⟩ ihre Weinstöcke und ihre Sykommoren mit Graupelschauer —",
   "tokens": [
     {
-      "surface": "יַהֲרֹ֣ג",
-      "gloss": "Er erschlug"
+      "surface": "יהרג",
+      "gloss": "Er tötete"
     },
     {
-      "surface": "בַּבָּרָ֣ד",
+      "surface": "בברד",
       "gloss": "mit Hagel"
     },
     {
-      "surface": "גַּפְנָ֑ם",
-      "gloss": "ihre Reben"
+      "surface": "גפנם",
+      "gloss": "ihre Weinstöcke"
     },
     {
-      "surface": "וְ֝שִׁקְמוֹתָ֗ם",
-      "gloss": "und ⟨ihre⟩ Sykomoren"
+      "surface": "ושקמותם",
+      "gloss": "und ihre Sykommoren"
     },
     {
-      "surface": "בַּֽחֲנָמַֽל",
-      "gloss": "mit Schlossenregen"
+      "surface": "בחנמל",
+      "gloss": "mit Graupelschauer"
     }
   ],
-  "timestamp": "2026-08-05T22:55:31.423002400Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:27.907418908Z",
+  "model": "glm-5.3"
 }

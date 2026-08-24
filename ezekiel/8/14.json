@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und er brachte mich zum Eingang des Tors des Hauses JHWHs, das ⟨auf⟩ der Nordseite ⟨liegt⟩, und siehe, dort saßen Frauen, die ⟨את⟩ den Tammus beweinten.",
+  "translation": "Und er brachte ⟨את⟩ mich zum Eingang des Tors des Hauses JHWHs, das ⟨auf⟩ der Nordseite ⟨liegt⟩, und siehe, dort saßen Frauen, die ⟨את⟩ den Tammus beweinten.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mich"
+      "gloss": "⟨את⟩ mich"
     },
     {
       "surface": "אל",
@@ -77,6 +77,6 @@
       "gloss": "den Tammus"
     }
   ],
-  "timestamp": "2026-08-06T03:42:56.378580699Z",
+  "timestamp": "2026-08-24T21:30:49.900550072Z",
   "model": "glm-5.2"
 }

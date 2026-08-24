@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 20,
-  "translation": "Ich ⟨bin⟩ JHWH, euer Elohim — in meinen Chuqqim geht, und ⟨את⟩ meine Mischpatim haltet, und tut sie.",
+  "translation": "Ich ⟨bin⟩ JHWH, euer Elohim — in meinen Chuqqim geht, und ⟨את⟩ meine Mischpatim haltet, und tut ⟨את⟩ sie.",
   "tokens": [
     {
       "surface": "אני",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "אותם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     }
   ],
-  "timestamp": "2026-08-06T06:21:43.627211306Z",
+  "timestamp": "2026-08-24T21:30:49.862137126Z",
   "model": "glm-5.2"
 }

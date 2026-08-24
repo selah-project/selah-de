@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 32,
-  "translation": "Rette mich doch aus der Hand meines Bruders, aus der Hand Essaws! Denn ich fürchte ihn, dass er nicht komme und mich schlage, ⟨die⟩ Mutter ⟨zusammen mit⟩ den Kindern.",
+  "translation": "Rette mich doch aus der Hand meines Bruders, aus der Hand Essaws! Denn ich fürchte ⟨את⟩ ihn, dass er nicht komme und mich schlage, ⟨die⟩ Mutter ⟨zusammen mit⟩ den Kindern.",
   "tokens": [
     {
       "surface": "הַצִּילֵ֥נִי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אֹת֔וֹ",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "פֶּ֖ן",
@@ -72,6 +72,6 @@
       "gloss": "den Kindern"
     }
   ],
-  "timestamp": "2026-08-06T00:09:31.019827517Z",
+  "timestamp": "2026-08-24T21:30:49.185013516Z",
   "model": "glm-5.2"
 }

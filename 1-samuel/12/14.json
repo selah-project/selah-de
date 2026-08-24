@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 12,
-  "translation": "Wenn ihr JHWH fürchtet und ⟨ihn⟩ dient und auf seine Stimme hört und ⟨nicht⟩ den Mund JHWHs trotzt, dann ⟨seid⟩ sowohl ihr als auch der König, der über euch regiert, ⟨Folger⟩ hinter JHWH, eurem Elohim:",
+  "translation": "Wenn ihr JHWH fürchtet und ⟨⟨את⟩ ihn⟩ dient und auf seine Stimme hört und ⟨nicht⟩ den Mund JHWHs trotzt, dann ⟨seid⟩ sowohl ihr als auch der König, der über euch regiert, ⟨Folger⟩ hinter JHWH, eurem Elohim:",
   "tokens": [
     {
       "surface": "אם",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "ושמעתם",
@@ -106,6 +106,6 @@
       "gloss": "eurem Elohim"
     }
   ],
-  "timestamp": "2026-08-05T21:09:38.101598472Z",
+  "timestamp": "2026-08-24T21:30:49.756504188Z",
   "model": "glm-5.2"
 }

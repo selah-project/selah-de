@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "de",
   "chapter": 2,
-  "translation": "Und sie saßen bei ihm auf ⟨der⟩ Erde, sieben Tage und sieben Nächte, und ⟨es war⟩ keiner, der ein Wort zu ihm sprach, denn sie sahen, dass der Schmerz sehr groß war.",
+  "translation": "Und sie saßen ⟨את⟩ bei ihm auf ⟨der⟩ Erde, sieben Tage und sieben Nächte, und ⟨es war⟩ keiner, der ein Wort zu ihm sprach, denn sie sahen, dass der Schmerz sehr groß war.",
   "tokens": [
     {
       "surface": "וַיֵּשְׁבוּ",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אִתּוֹ",
-      "gloss": "bei ihm"
+      "gloss": "⟨את⟩ bei ihm"
     },
     {
       "surface": "לָאָרֶץ",
@@ -76,6 +76,6 @@
       "gloss": "sehr"
     }
   ],
-  "timestamp": "2026-08-06T04:31:55.570501408Z",
+  "timestamp": "2026-08-24T21:30:49.672282214Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 24,
-  "translation": "Und ⟨du⟩ hast heute kundgetan ⟨את⟩ das, was du an mir Gutes getan hast: ⟨את⟩ das, wobei JHWH mich in deine Hand eingeschlossen hatte, und du mich nicht getötet hast.",
+  "translation": "Und ⟨du⟩ hast heute kundgetan ⟨את⟩ das, was du ⟨את⟩ an mir Gutes getan hast: ⟨את⟩ das, wobei JHWH mich in deine Hand eingeschlossen hatte, und du mich nicht getötet hast.",
   "tokens": [
     {
       "surface": "ואת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "an mir"
+      "gloss": "⟨את⟩ an mir"
     },
     {
       "surface": "טובה",
@@ -70,6 +70,6 @@
       "gloss": "du mich getötet hast"
     }
   ],
-  "timestamp": "2026-08-06T01:10:15.712519704Z",
+  "timestamp": "2026-08-24T21:30:49.775402119Z",
   "model": "glm-5.2"
 }

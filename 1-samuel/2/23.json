@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 2,
-  "translation": "Und er sagte zu ihnen: „Warum tut ihr ⟨solche⟩ Dinge wie diese, von denen ich ⟨את⟩ eure bösen Worte höre, ⟨die⟩ das ganze Volk ⟨redet⟩?",
+  "translation": "Und er sagte zu ihnen: „Warum tut ihr ⟨solche⟩ Dinge wie diese, ⟨את⟩ von denen ich ⟨את⟩ eure bösen Worte höre, ⟨die⟩ das ganze Volk ⟨redet⟩?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von"
+      "gloss": "⟨את⟩ von"
     },
     {
       "surface": "כל",
@@ -73,6 +73,6 @@
       "gloss": "⟨redet⟩"
     }
   ],
-  "timestamp": "2026-08-05T21:07:50.863592155Z",
+  "timestamp": "2026-08-24T21:30:49.759822923Z",
   "model": "glm-5.2"
 }

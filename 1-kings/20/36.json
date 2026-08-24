@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 20,
-  "translation": "Und ⟨er⟩ sprach zu ihm: „Weil du nicht gehört hast auf die Stimme JHWHs — siehe, du gehst von mir ⟨weg⟩, und der Löwe wird dich schlagen.\" Und er ging von ihm ⟨weg⟩, und der Löwe fand ihn und schlug ihn.",
+  "translation": "Und ⟨er⟩ sprach zu ihm: „Weil du nicht gehört hast auf die Stimme JHWHs — siehe, du gehst ⟨את⟩ von mir ⟨weg⟩, und der Löwe wird dich schlagen.\" Und er ging von ihm ⟨weg⟩, und der Löwe fand ihn und schlug ihn.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "von mir ⟨weg⟩"
+      "gloss": "⟨את⟩ von mir ⟨weg⟩"
     },
     {
       "surface": "והכך",
@@ -80,6 +80,6 @@
       "gloss": "und schlug ihn"
     }
   ],
-  "timestamp": "2026-08-06T22:40:42.904453664Z",
+  "timestamp": "2026-08-24T21:30:50.307143661Z",
   "model": "glm-5.2"
 }

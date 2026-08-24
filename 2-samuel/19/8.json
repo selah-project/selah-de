@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 19,
-  "translation": "Und jetzt: steh auf, geh hinaus und rede auf das Herz deiner Knechte! Denn bei JHWH habe ich geschworen: Wenn du nicht hinausgehst — ⟨dann⟩ bleibt kein Mann diese Nacht bei dir übernachten, und das wird für dich schlimmer sein als das ganze Unheil, das über dich gekommen ist, von deiner Jugend an bis jetzt.",
+  "translation": "Und jetzt: steh auf, geh hinaus und rede auf das Herz deiner Knechte! Denn bei JHWH habe ich geschworen: Wenn du nicht hinausgehst — ⟨dann⟩ bleibt kein Mann diese Nacht ⟨את⟩ bei dir übernachten, und das wird für dich schlimmer sein als das ganze Unheil, das über dich gekommen ist, von deiner Jugend an bis jetzt.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bei dir"
+      "gloss": "⟨את⟩ bei dir"
     },
     {
       "surface": "הלילה",
@@ -124,6 +124,6 @@
       "gloss": "jetzt"
     }
   ],
-  "timestamp": "2026-08-06T01:18:33.645310795Z",
+  "timestamp": "2026-08-24T21:30:49.116460103Z",
   "model": "glm-5.2"
 }

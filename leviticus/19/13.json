@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 19,
-  "translation": "Du sollst ⟨deinen⟩ Nächsten nicht bedrücken, ⟨und⟩ sollst nicht rauben. ⟨Du⟩ sollst ⟨das⟩ Entgelt ⟨eines⟩ Tagelöhners bei dir nicht übernachten bis ⟨zum⟩ Morgen.",
+  "translation": "Du sollst ⟨deinen⟩ Nächsten nicht bedrücken, ⟨und⟩ sollst nicht rauben. ⟨Du⟩ sollst ⟨das⟩ Entgelt ⟨eines⟩ Tagelöhners ⟨את⟩ bei dir nicht übernachten bis ⟨zum⟩ Morgen.",
   "tokens": [
     {
       "surface": "לֹֽא",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אִתְּךָ֖",
-      "gloss": "bei dir"
+      "gloss": "⟨את⟩ bei dir"
     },
     {
       "surface": "עַד",
@@ -61,6 +61,6 @@
       "gloss": "Morgen"
     }
   ],
-  "timestamp": "2026-08-06T14:53:49.685298962Z",
+  "timestamp": "2026-08-24T21:30:50.100004555Z",
   "model": "glm-5.2"
 }

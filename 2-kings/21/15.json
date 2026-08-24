@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 21,
-  "translation": "wegen dem, dass sie ⟨את⟩ das Böse taten in meinen Augen und mir zürnten — von dem Tag an, an dem ihre Väter aus Mizrajim auszogen, bis zu diesem Tag.",
+  "translation": "wegen dem, dass sie ⟨את⟩ das Böse taten in meinen Augen und ⟨את⟩ mir zürnten — von dem Tag an, an dem ihre Väter aus Mizrajim auszogen, bis zu diesem Tag.",
   "tokens": [
     {
       "surface": "יען",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mir"
+      "gloss": "⟨את⟩ mir"
     },
     {
       "surface": "מן",
@@ -81,6 +81,6 @@
       "gloss": "diesem"
     }
   ],
-  "timestamp": "2026-08-05T21:40:45.482748600Z",
+  "timestamp": "2026-08-24T21:30:49.949364142Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 16,
-  "translation": "Und die Erde öffnete ⟨את⟩ ihren Mund und verschlang sie und ⟨את⟩ ihre Häuser und ⟨את⟩ alle Menschen, die zu Korach gehörten, und ⟨את⟩ allen Besitz.",
+  "translation": "Und die Erde öffnete ⟨את⟩ ihren Mund und verschlang ⟨את⟩ sie und ⟨את⟩ ihre Häuser und ⟨את⟩ alle Menschen, die zu Korach gehörten, und ⟨את⟩ allen Besitz.",
   "tokens": [
     {
       "surface": "וַתִּפְתַּ֤ח",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אֹתָ֖ם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "וְאֶת",
@@ -76,6 +76,6 @@
       "gloss": "Besitz"
     }
   ],
-  "timestamp": "2026-08-06T00:35:48.252750132Z",
+  "timestamp": "2026-08-24T21:30:50.222837463Z",
   "model": "glm-5.2"
 }

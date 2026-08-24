@@ -5,11 +5,11 @@
   "book": "song-of-songs",
   "lang": "de",
   "chapter": 4,
-  "translation": "Mit mir vom Libanon, ⟨du⟩ Braut, mit mir vom Libanon komm! Schau herab vom Gipfel des Amana, vom Gipfel des Senir und des Chermon, aus den Höhlen der Löwen, von den Bergen der Panther!",
+  "translation": "⟨את⟩ Mit mir vom Libanon, ⟨du⟩ Braut, ⟨את⟩ mit mir vom Libanon komm! Schau herab vom Gipfel des Amana, vom Gipfel des Senir und des Chermon, aus den Höhlen der Löwen, von den Bergen der Panther!",
   "tokens": [
     {
       "surface": "אִתִּ֤י",
-      "gloss": "Mit mir"
+      "gloss": "⟨את⟩ Mit mir"
     },
     {
       "surface": "מִלְּבָנוֹן֙",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אִתִּ֖י",
-      "gloss": "mit mir"
+      "gloss": "⟨את⟩ mit mir"
     },
     {
       "surface": "מִלְּבָנ֣וֹן",
@@ -72,6 +72,6 @@
       "gloss": "der Panther"
     }
   ],
-  "timestamp": "2026-08-06T07:05:49.883531881Z",
+  "timestamp": "2026-08-24T21:30:49.654392149Z",
   "model": "glm-5.2"
 }

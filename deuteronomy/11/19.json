@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 11,
-  "translation": "Und ihr sollt sie ⟨euren⟩ Söhnen lehren, ⟨um⟩ ⟨davon⟩ zu reden, in deinem Haus ⟨zu sitzen⟩ und auf deinem Weg zu gehen und ⟨dich⟩ niederzulegen und aufzustehen —",
+  "translation": "Und ihr sollt ⟨את⟩ sie ⟨euren⟩ Söhnen lehren, ⟨um⟩ ⟨davon⟩ zu reden, in deinem Haus ⟨zu sitzen⟩ und auf deinem Weg zu gehen und ⟨dich⟩ niederzulegen und aufzustehen —",
   "tokens": [
     {
       "surface": "ולמדתם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "את",
@@ -57,6 +57,6 @@
       "gloss": "und in deinem Aufstehen"
     }
   ],
-  "timestamp": "2026-08-06T00:43:16.089407788Z",
+  "timestamp": "2026-08-24T21:30:49.805817953Z",
   "model": "glm-5.2"
 }

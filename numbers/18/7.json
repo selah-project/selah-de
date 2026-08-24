@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 18,
-  "translation": "Und du und deine Söhne mit dir sollt euer Priestertum behüten, für die gesamte Sache des Altars und für das Innere des Vorhangs; und ihr sollt dienen. ⟨Als⟩ Dienst der Gabe gebe ich euer Priestertum. Und der Fremde, der ⟨sich⟩ nähert, soll getötet werden.",
+  "translation": "Und du und deine Söhne ⟨את⟩ mit dir sollt euer Priestertum behüten, für die gesamte Sache des Altars und für das Innere des Vorhangs; und ihr sollt dienen. ⟨Als⟩ Dienst der Gabe gebe ich euer Priestertum. Und der Fremde, der ⟨sich⟩ nähert, soll getötet werden.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "mit dir"
+      "gloss": "⟨את⟩ mit dir"
     },
     {
       "surface": "תשמרו",
@@ -90,6 +90,6 @@
       "gloss": "soll getötet werden"
     }
   ],
-  "timestamp": "2026-08-05T20:35:37.403581198Z",
+  "timestamp": "2026-08-24T21:30:50.241070397Z",
   "model": "glm-5.2"
 }

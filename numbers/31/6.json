@@ -5,84 +5,83 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 31,
-  "translation": "Und Mosche sandte sie, tausend pro Stamm, zum Heer: ⟨אתם⟩ und ⟨את⟩ Pinchas, den Sohn Elasars, den Kohen, zum Heer, und die Geräte des Heiligen und die Schofare des Kampfrufs in seiner Hand.",
+  "translation": "Und Mosche sandte sie, tausend je Stamm, zum Heer ⟨את⟩ ⟨את׃ sie⟩ und ⟨את⟩ Pinchas, den Sohn Elasars, den Kohen, zum Heer — und die Geräte des Heiligen und die Schofarot des Kriegsrufs in seiner Hand.",
   "tokens": [
     {
-      "surface": "וַיִּשְׁלַח",
+      "surface": "וישלח",
       "gloss": "und sandte"
     },
     {
-      "surface": "אֹתָם",
-      "gloss": "⟨את⟩",
-      "marks": "sie"
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨את׃ sie⟩",
+      "marks": "sie (die Tausende je Stamm)"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "Mosche"
     },
     {
-      "surface": "אֶלֶף",
+      "surface": "אלף",
       "gloss": "tausend"
     },
     {
-      "surface": "לַמַּטֶּה",
-      "gloss": "pro Stamm"
+      "surface": "למטה",
+      "gloss": "je Stamm"
     },
     {
-      "surface": "לַצָּבָא",
+      "surface": "לצבא",
       "gloss": "zum Heer"
     },
     {
-      "surface": "אֹתָם",
-      "gloss": "⟨את⟩",
-      "marks": "sie (Truppen)"
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sie"
     },
     {
-      "surface": "וְאֵת",
-      "gloss": "⟨את⟩",
-      "marks": "Pinchas"
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "Pinchas, den Sohn Elasars, den Kohen"
     },
     {
-      "surface": "פִּינְחָס",
+      "surface": "פינחס",
       "gloss": "Pinchas"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "Sohn"
     },
     {
-      "surface": "אֶלְעָזָר",
-      "gloss": "Elasars"
+      "surface": "אלעזר",
+      "gloss": "Elasar"
     },
     {
-      "surface": "הַכֹּהֵן",
-      "gloss": "den Kohen"
+      "surface": "הכהן",
+      "gloss": "der Kohen"
     },
     {
-      "surface": "לַצָּבָא",
+      "surface": "לצבא",
       "gloss": "zum Heer"
     },
     {
-      "surface": "וּכְלֵי",
+      "surface": "וכלי",
       "gloss": "und die Geräte"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
+      "surface": "הקדש",
       "gloss": "des Heiligen"
     },
     {
-      "surface": "וַחֲצֹצְרוֹת",
-      "gloss": "und die Schofare"
+      "surface": "וחצצרות",
+      "gloss": "und die Trompeten"
     },
     {
-      "surface": "הַתְּרוּעָה",
-      "gloss": "des Kampfrufs"
+      "surface": "התרועה",
+      "gloss": "des Alarmrufs"
     },
     {
-      "surface": "בְּיָדוֹ",
+      "surface": "בידו",
       "gloss": "in seiner Hand"
     }
   ],
-  "timestamp": "2026-08-06T00:39:35.226309318Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:30:50.233356546Z",
+  "model": "glm-5.3"
 }

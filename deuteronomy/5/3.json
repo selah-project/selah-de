@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 5,
-  "translation": "Nicht ⟨mit⟩ ⟨את⟩ unseren Vätern hat JHWH ⟨את⟩ diese Brit geschlossen, sondern ⟨mit⟩ uns, wir, diese hier, heute, wir alle, Lebende.",
+  "translation": "Nicht ⟨mit⟩ ⟨את⟩ unseren Vätern hat JHWH ⟨את⟩ diese Brit geschlossen, sondern ⟨את⟩ ⟨mit⟩ uns, wir, diese hier, heute, wir alle, Lebende.",
   "tokens": [
     {
       "surface": "לא",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨mit⟩ uns"
+      "gloss": "⟨את⟩ ⟨mit⟩ uns"
     },
     {
       "surface": "אנחנו",
@@ -74,6 +74,6 @@
       "gloss": "Lebende"
     }
   ],
-  "timestamp": "2026-08-06T00:42:20.336412500Z",
+  "timestamp": "2026-08-24T21:30:49.783194232Z",
   "model": "glm-5.2"
 }

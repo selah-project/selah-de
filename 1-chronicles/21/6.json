@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "de",
   "chapter": 21,
-  "translation": "Und Lewi und Binjamin musterte er nicht in ihrer Mitte, denn das Wort des Königs war verabscheut ⟨bei⟩ Joaw.",
+  "translation": "Und Lewi und Binjamin musterte er nicht in ihrer Mitte, denn das Wort des Königs war verabscheut ⟨את⟩ ⟨bei⟩ Joaw.",
   "tokens": [
     {
       "surface": "ולוי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨bei⟩",
+      "gloss": "⟨את⟩ ⟨bei⟩",
       "marks": "Joaw"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "Joaw"
     }
   ],
-  "timestamp": "2026-08-05T23:51:39.385155344Z",
+  "timestamp": "2026-08-24T21:30:49.656658942Z",
   "model": "glm-5.2"
 }

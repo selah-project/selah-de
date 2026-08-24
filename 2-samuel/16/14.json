@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 16,
-  "translation": "Und ⟨es⟩ kam der König und das ganze Volk, das bei ihm war, erschöpft, und ⟨er⟩ erholte sich dort.",
+  "translation": "Und ⟨es⟩ kam der König und das ganze Volk, das ⟨את⟩ bei ihm war, erschöpft, und ⟨er⟩ erholte sich dort.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bei ihm war"
+      "gloss": "⟨את⟩ bei ihm war"
     },
     {
       "surface": "עיפים",
@@ -44,6 +44,6 @@
       "gloss": "dort"
     }
   ],
-  "timestamp": "2026-08-06T01:17:34.809657881Z",
+  "timestamp": "2026-08-24T21:30:49.125500621Z",
   "model": "glm-5.2"
 }

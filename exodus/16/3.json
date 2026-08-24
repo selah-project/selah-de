@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 16,
-  "translation": "Und die Söhne Jisraels sprachen zu ihnen: „Wer gäbe, dass wir gestorben wären durch die Hand JHWHs im Land Mizrajim, als wir am Fleischtopf saßen, als wir Brot aßen bis zur Sättigung! Denn ihr habt uns herausgeführt in diese Wüste, um ⟨את⟩ diese ganze Versammlung mit Hunger sterben zu lassen.“",
+  "translation": "Und die Söhne Jisraels sprachen zu ihnen: „Wer gäbe, dass wir gestorben wären durch die Hand JHWHs im Land Mizrajim, als wir am Fleischtopf saßen, als wir Brot aßen bis zur Sättigung! Denn ihr habt ⟨את⟩ uns herausgeführt in diese Wüste, um ⟨את⟩ diese ganze Versammlung mit Hunger sterben zu lassen.“",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "uns"
+      "gloss": "⟨את⟩ uns"
     },
     {
       "surface": "אל",
@@ -129,6 +129,6 @@
       "gloss": "mit Hunger"
     }
   ],
-  "timestamp": "2026-08-06T02:03:45.727143134Z",
+  "timestamp": "2026-08-24T21:30:49.639012993Z",
   "model": "glm-5.2"
 }

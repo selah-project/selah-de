@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und ⟨את⟩ den König von Ai griffen sie lebendig, und sie brachten ihn zu Jehoschua.",
+  "translation": "Und ⟨את⟩ den König von Ai griffen sie lebendig, und sie brachten ⟨את⟩ ihn zu Jehoschua.",
   "tokens": [
     {
       "surface": "וְאֶת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אֹת֖וֹ",
-      "gloss": "ihn",
+      "gloss": "⟨את⟩ ihn",
       "marks": "den König von Ai"
     },
     {
@@ -46,6 +46,6 @@
       "gloss": "Jehoschua"
     }
   ],
-  "timestamp": "2026-08-05T20:54:50.256859504Z",
+  "timestamp": "2026-08-24T21:30:50.284065223Z",
   "model": "glm-5.2"
 }

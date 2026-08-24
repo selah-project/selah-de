@@ -5,28 +5,27 @@
   "book": "jeremiah",
   "lang": "de",
   "chapter": 7,
-  "translation": "⟨dann⟩ werde ich ⟨אתכם⟩ euch wohnen lassen an diesem Ort, in dem Land, das ich euren Vätern gegeben habe, von immer her bis in Ewigkeit.",
+  "translation": "dann lasse ich ⟨את⟩ euch an diesem Ort wohnen, in dem Land, das ich euren Vätern gegeben habe, von Ewigkeit ⟨bis⟩ Ewigkeit.",
   "tokens": [
     {
       "surface": "ושכנתי",
-      "gloss": "⟨dann⟩ werde ich wohnen lassen"
+      "gloss": "lasse ich wohnen"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "במקום",
-      "gloss": "an ⟨dem⟩ Ort"
+      "gloss": "an diesem Ort"
     },
     {
       "surface": "הזה",
-      "gloss": "diesem"
+      "gloss": "dieser"
     },
     {
       "surface": "בארץ",
-      "gloss": "in ⟨dem⟩ Land"
+      "gloss": "in dem Land"
     },
     {
       "surface": "אשר",
@@ -46,7 +45,7 @@
     },
     {
       "surface": "עולם",
-      "gloss": "immer her"
+      "gloss": "Ewigkeit"
     },
     {
       "surface": "ועד",
@@ -54,9 +53,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "in Ewigkeit"
+      "gloss": "Ewigkeit"
     }
   ],
-  "timestamp": "2026-08-06T15:12:15.322358963Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:25:29.981339888Z",
+  "model": "glm-5.3"
 }

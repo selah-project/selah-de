@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 2,
-  "translation": "Und sie sagte: „Eine kleine Bitte bitte ich von dir — wende mein Angesicht nicht ab!“ Und der König sagte zu ihr: „Bitte, meine Mutter, denn ich werde ⟨dein⟩ Angesicht nicht abweisen.“",
+  "translation": "Und sie sagte: „Eine kleine Bitte bitte ich ⟨את⟩ von dir — wende mein Angesicht nicht ab!“ Und der König sagte zu ihr: „Bitte, meine Mutter, denn ich werde ⟨dein⟩ Angesicht nicht abweisen.“",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "von dir"
+      "gloss": "⟨את⟩ von dir"
     },
     {
       "surface": "אל",
@@ -94,6 +94,6 @@
       "gloss": "dein Angesicht"
     }
   ],
-  "timestamp": "2026-08-06T02:56:26.485980970Z",
+  "timestamp": "2026-08-24T21:30:50.329494891Z",
   "model": "glm-5.2"
 }

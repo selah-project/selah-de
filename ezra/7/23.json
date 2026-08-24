@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "de",
   "chapter": 7,
-  "translation": "Alles, was vom Befehl des Elohim des Himmels ⟨ist⟩, soll sorgfältig vollbracht werden für das Haus des Elohim des Himmels, damit nicht Zorn ⟨kommt⟩ über ⟨die〉 Königsherrschaft des Königs und seine Söhne.",
+  "translation": "Alles, was nach dem Befehl des Eloah des Himmels ⟨geschieht⟩, soll eilends für das Haus des Eloah des Himmels getan werden; denn warum sollte Zorn kommen über die Königsherrschaft des Königs und seine Söhne?",
   "tokens": [
     {
       "surface": "כל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "von"
+      "gloss": "nach"
     },
     {
       "surface": "טעם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "des Elohim"
+      "gloss": "Eloah"
     },
     {
       "surface": "שמיא",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "יתעבד",
-      "gloss": "soll vollbracht werden"
+      "gloss": "geschieht"
     },
     {
       "surface": "אדרזדא",
-      "gloss": "sorgfältig"
+      "gloss": "eilends"
     },
     {
       "surface": "לבית",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "des Elohim"
+      "gloss": "Eloah"
     },
     {
       "surface": "שמיא",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "די",
-      "gloss": "damit nicht"
+      "gloss": "denn"
     },
     {
       "surface": "למה",
-      "gloss": "damit nicht"
+      "gloss": "warum"
     },
     {
       "surface": "להוא",
-      "gloss": "⟨kommt⟩"
+      "gloss": "sein"
     },
     {
       "surface": "קצף",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "מלכות",
-      "gloss": "⟨die〉 Königsherrschaft"
+      "gloss": "Königsherrschaft"
     },
     {
       "surface": "מלכא",
@@ -84,6 +84,6 @@
       "gloss": "und seine Söhne"
     }
   ],
-  "timestamp": "2026-08-06T09:31:02.895934783Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:39.155874146Z",
+  "model": "glm-5.3"
 }

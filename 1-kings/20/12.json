@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 20,
-  "translation": "Und es geschah, beim Hören ⟨von⟩ ⟨את⟩ dem Wort, diesem — und ⟨er⟩ trank, ⟨er⟩ ⟨selbst⟩ und die Könige in den Hütten —, da sagte er zu seinen Knechten: „Stellt ⟨euch auf！“ Und sie stellten ⟨sich⟩ auf gegen die Stadt.",
+  "translation": "Und es geschah, als ⟨er⟩ ⟨את⟩ dieses Wort hörte — während er gerade trank, er und die Könige, in den Sukkot —, da sagte er zu seinen Knechten: „Stellt euch auf.“ Und sie stellten sich auf gegen die Stadt.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "כשמע",
-      "gloss": "beim Hören"
+      "gloss": "als ⟨er⟩ hörte"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "das Wort"
+      "marks": "dieses Wort"
     },
     {
       "surface": "הדבר",
-      "gloss": "das Wort"
+      "gloss": "dieses Wort"
     },
     {
       "surface": "הזה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "und ⟨er⟩"
+      "gloss": "während er"
     },
     {
       "surface": "שתה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨selbst⟩"
+      "gloss": "er"
     },
     {
       "surface": "והמלכים",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "בסכות",
-      "gloss": "in den Hütten"
+      "gloss": "in den Sukkot"
     },
     {
       "surface": "ויאמר",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "שימו",
-      "gloss": "Stellt"
+      "gloss": "„Stellt euch auf.“"
     },
     {
       "surface": "וישימו",
-      "gloss": "Und sie stellten"
+      "gloss": "Und sie stellten sich auf"
     },
     {
       "surface": "על",
@@ -77,6 +77,6 @@
       "gloss": "die Stadt"
     }
   ],
-  "timestamp": "2026-08-06T21:16:19.750035243Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:43.703566704Z",
+  "model": "glm-5.3"
 }

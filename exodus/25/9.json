@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 25,
-  "translation": "Nach allem, was ich dir zeige, ⟨die⟩ Bauform des Mischkan und ⟨את⟩ die Bauform all seiner Geräte — und so sollt ihr ⟨es⟩ machen.",
+  "translation": "Nach allem, was ich ⟨את⟩ dir zeige, ⟨die⟩ Bauform des Mischkan und ⟨את⟩ die Bauform all seiner Geräte — und so sollt ihr ⟨es⟩ machen.",
   "tokens": [
     {
       "surface": "ככל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אותך",
-      "gloss": "dir"
+      "gloss": "⟨את⟩ dir"
     },
     {
       "surface": "את",
@@ -66,6 +66,6 @@
       "gloss": "sollt ihr machen"
     }
   ],
-  "timestamp": "2026-08-06T00:18:56.178984061Z",
+  "timestamp": "2026-08-24T21:30:49.632438456Z",
   "model": "glm-5.2"
 }

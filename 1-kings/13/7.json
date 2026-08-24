@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 13,
-  "translation": "Und der König sprach zu dem Mann Elohim: „Komm mit mir ⟨ins⟩ Haus und iss, und ich werde dir ein Geschenk geben.“",
+  "translation": "Und der König sprach zu dem Mann Elohim: „Komm ⟨את⟩ mit mir ⟨ins⟩ Haus und iss, und ich werde dir ein Geschenk geben.“",
   "tokens": [
     {
       "surface": "וַיְדַבֵּר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אִתִּי",
-      "gloss": "mit mir"
+      "gloss": "⟨את⟩ mit mir"
     },
     {
       "surface": "הַבַּיְתָה",
@@ -56,6 +56,6 @@
       "gloss": "ein Geschenk"
     }
   ],
-  "timestamp": "2026-08-06T01:26:21.968500482Z",
+  "timestamp": "2026-08-24T21:30:50.346813381Z",
   "model": "glm-5.2"
 }

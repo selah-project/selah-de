@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 21,
-  "translation": "Und Akisch sprach zu seinen Knechten: „Seht, ihr seht ⟨einen⟩ Mann, der sich als wahnsinnig gebärdet. Warum bringt ihr ihn zu mir?",
+  "translation": "Und Akisch sprach zu seinen Knechten: „Seht, ihr seht ⟨einen⟩ Mann, der sich als wahnsinnig gebärdet. Warum bringt ihr ⟨את⟩ ihn zu mir?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "אלי",
       "gloss": "zu mir"
     }
   ],
-  "timestamp": "2026-08-05T21:14:01.764882073Z",
+  "timestamp": "2026-08-24T21:30:49.731182854Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und er sprach: „Meine Brüder, Söhne meiner Mutter, ⟨sind⟩ sie. ⟨So wahr⟩ JHWH lebt: hättest du sie am Leben gelassen, ⟨את⟩, dann hätte ich euch nicht getötet, ⟨אתכם⟩.“",
+  "translation": "Und er sprach: „Meine Brüder waren es, die Söhne meiner Mutter. So wahr JHWH lebt: hättet ihr ⟨את⟩ sie am Leben gelassen, ich hätte ⟨את⟩ euch nicht getötet.“",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אחי",
-      "gloss": "meine Brüder"
+      "gloss": "Meine Brüder"
     },
     {
       "surface": "בני",
-      "gloss": "Söhne"
+      "gloss": "die Söhne"
     },
     {
       "surface": "אמי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הם",
-      "gloss": "sie"
+      "gloss": "waren es"
     },
     {
       "surface": "חי",
-      "gloss": "⟨So wahr⟩ … lebt"
+      "gloss": "lebt"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "wenn \/ hättest du"
+      "gloss": "wenn"
     },
     {
       "surface": "החיתם",
-      "gloss": "am Leben gelassen"
+      "gloss": "hättet ihr am Leben gelassen"
     },
     {
       "surface": "אותם",
@@ -58,10 +58,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch"
+      "gloss": "⟨את⟩ euch"
     }
   ],
-  "timestamp": "2026-08-06T00:58:15.720756178Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:49.894791602Z",
+  "model": "glm-5.3"
 }

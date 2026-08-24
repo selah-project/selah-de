@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 34,
-  "translation": "„Diese Männer hier sind friedlich gesinnt bei uns, und sie sollen sich im Land niederlassen und ⟨es⟩ durchziehen, und das Land — siehe, ⟨es⟩ ist weiträumig vor ihnen. ⟨את⟩ ihre Töchter wollen wir uns zu Frauen nehmen, und ⟨את⟩ unsere Töchter wollen wir ihnen geben.“",
+  "translation": "„Diese Männer hier sind friedlich gesinnt ⟨את⟩ bei uns, und sie sollen sich im Land niederlassen und ⟨es⟩ durchziehen, und das Land — siehe, ⟨es⟩ ist weiträumig vor ihnen. ⟨את⟩ ihre Töchter wollen wir uns zu Frauen nehmen, und ⟨את⟩ unsere Töchter wollen wir ihnen geben.“",
   "tokens": [
     {
       "surface": "הָאֲנָשִׁ֨ים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אִתָּ֗נוּ",
-      "gloss": "bei uns"
+      "gloss": "⟨את⟩ bei uns"
     },
     {
       "surface": "וְיֵשְׁב֤וּ",
@@ -103,6 +103,6 @@
       "gloss": "ihnen"
     }
   ],
-  "timestamp": "2026-08-06T01:57:41.527273411Z",
+  "timestamp": "2026-08-24T21:30:49.195338380Z",
   "model": "glm-5.2"
 }

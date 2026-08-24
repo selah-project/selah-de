@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "de",
   "chapter": 43,
-  "translation": "⟨את⟩ Die Männer und ⟨את⟩ die Frauen und ⟨את⟩ die Kinder und ⟨את⟩ die Töchter des Königs und ⟨את⟩ die ganze Nefesch, die Newusaradan, der Oberste der Henker, bei Gedaljahu, dem Sohn Achikams, des Sohnes Schafans, gelassen hatte, und ⟨את⟩ Jirmejahu, den Nawi, und ⟨את⟩ Baruch, den Sohn Nerijahus.",
+  "translation": "⟨את⟩ Die Männer und ⟨את⟩ die Frauen und ⟨את⟩ die Kinder und ⟨את⟩ die Töchter des Königs und ⟨את⟩ die ganze Nefesch, die Newusaradan, der Oberste der Henker, ⟨את⟩ bei Gedaljahu, dem Sohn Achikams, des Sohnes Schafans, gelassen hatte, und ⟨את⟩ Jirmejahu, den Nawi, und ⟨את⟩ Baruch, den Sohn Nerijahus.",
   "tokens": [
     {
       "surface": "את",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "את",
-      "gloss": "bei"
+      "gloss": "⟨את⟩ bei"
     },
     {
       "surface": "גדליהו",
@@ -135,6 +135,6 @@
       "gloss": "Nerijahus"
     }
   ],
-  "timestamp": "2026-08-06T03:38:34.520200712Z",
+  "timestamp": "2026-08-24T21:30:49.540122841Z",
   "model": "glm-5.2"
 }

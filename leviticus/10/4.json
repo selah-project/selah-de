@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 10,
-  "translation": "Und Mosche rief zu Mischael und zu Elzafan, den Söhnen Usiels, des Onkels Aharons, und er sprach zu ihnen: „Tretet heran, tragt ⟨את⟩ eure Brüder von vor dem Heiligtum hinaus, ⟨nach⟩ draußen vor das Lager.“",
+  "translation": "Und Mosche rief zu Mischael und zu Elzafan, den Söhnen Usiels, des Onkels Aharons, und er sprach zu ihnen: „Tretet heran, tragt ⟨את⟩ eure Brüder ⟨את⟩ von vor dem Heiligtum hinaus, ⟨nach⟩ draußen vor das Lager.“",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von"
+      "gloss": "⟨את⟩ von"
     },
     {
       "surface": "פני",
@@ -97,6 +97,6 @@
       "gloss": "vor das Lager"
     }
   ],
-  "timestamp": "2026-08-05T20:21:46.664912797Z",
+  "timestamp": "2026-08-24T21:30:50.040414840Z",
   "model": "glm-5.2"
 }

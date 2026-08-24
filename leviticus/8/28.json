@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und Mosche nahm ⟨sie⟩ von ihren Händen und ließ auf dem Altar rauchen, auf der Ola. Einweihungsopfer ⟨sind sie⟩ zum beruhigenden Duft, ein Feueropfer ist es für JHWH.",
+  "translation": "Und Mosche nahm ⟨את⟩ ⟨sie⟩ von ihren Händen und ließ auf dem Altar rauchen, auf der Ola. Einweihungsopfer ⟨sind sie⟩ zum beruhigenden Duft, ein Feueropfer ist es für JHWH.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨sie⟩",
+      "gloss": "⟨את⟩ ⟨sie⟩",
       "marks": "von ihren Händen"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "für JHWH"
     }
   ],
-  "timestamp": "2026-08-05T20:22:07.158858234Z",
+  "timestamp": "2026-08-24T21:30:50.097839851Z",
   "model": "glm-5.2"
 }

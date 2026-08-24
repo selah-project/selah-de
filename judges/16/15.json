@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "de",
   "chapter": 16,
-  "translation": "Und sie sagte zu ihm: „Wie kannst du sagen: Ich liebe dich, aber dein Herz ⟨ist⟩ nicht bei mir? Schon drei Mal hast du mich getäuscht und mir nicht gesagt, worin deine Kraft groß ⟨ist⟩.“",
+  "translation": "Und sie sagte zu ihm: „Wie kannst du sagen: Ich liebe dich, aber dein Herz ⟨ist⟩ nicht ⟨את⟩ bei mir? Schon drei Mal hast du mich getäuscht und mir nicht gesagt, worin deine Kraft groß ⟨ist⟩.“",
   "tokens": [
     {
       "surface": "וַתֹּ֣אמֶר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אִתִּ֑י",
-      "gloss": "bei mir"
+      "gloss": "⟨את⟩ bei mir"
     },
     {
       "surface": "זֶ֣ה",
@@ -84,6 +84,6 @@
       "gloss": "groß"
     }
   ],
-  "timestamp": "2026-08-06T21:11:43.504121611Z",
+  "timestamp": "2026-08-24T21:30:49.377104330Z",
   "model": "glm-5.2"
 }

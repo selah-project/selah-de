@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 13,
-  "translation": "Und Awischalom gebot ⟨את⟩ seinen Burschen und sagte: „Seht doch, wenn das Herz Amnons vom Wein gut ist, und ich zu euch sage: Schlagt ⟨את⟩ Amnon, dann tötet ihn! Fürchtet euch nicht! Habe nicht ich selbst euch geboten? Seid stark und seid Söhne der Kraft!“",
+  "translation": "Und Awischalom gebot ⟨את⟩ seinen Burschen und sagte: „Seht doch, wenn das Herz Amnons vom Wein gut ist, und ich zu euch sage: Schlagt ⟨את⟩ Amnon, dann tötet ⟨את⟩ ihn! Fürchtet euch nicht! Habe nicht ich selbst euch geboten? Seid stark und seid Söhne der Kraft!“",
   "tokens": [
     {
       "surface": "ויצו",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "אל",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "חזקו",
@@ -126,6 +126,6 @@
       "gloss": "der Kraft"
     }
   ],
-  "timestamp": "2026-08-05T21:20:22.513572126Z",
+  "timestamp": "2026-08-24T21:30:49.129879685Z",
   "model": "glm-5.2"
 }

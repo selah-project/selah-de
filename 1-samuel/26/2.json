@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 26,
-  "translation": "Da erhob sich Schaul und zog hinab zur Wüste Sif, und mit ihm dreitausend Mann, Auserwählte Jisraels, um ⟨את⟩ Dawid zu suchen in der Wüste Sif.",
+  "translation": "Da erhob sich Schaul und zog hinab zur Wüste Sif, ⟨את⟩ und mit ihm dreitausend Mann, Auserwählte Jisraels, um ⟨את⟩ Dawid zu suchen in der Wüste Sif.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "und mit ihm"
+      "gloss": "⟨את⟩ und mit ihm"
     },
     {
       "surface": "שלשת",
@@ -77,6 +77,6 @@
       "gloss": "Sif"
     }
   ],
-  "timestamp": "2026-08-06T15:47:21.651659686Z",
+  "timestamp": "2026-08-24T21:30:49.740375229Z",
   "model": "glm-5.2"
 }

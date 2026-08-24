@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 16,
-  "translation": "Und er kaufte ⟨את⟩ den Berg Schomeron von Schemer für zwei Talente Silber, und er baute auf ⟨את⟩ den Berg, und er rief ⟨את⟩ den Namen der Stadt, die er gebaut hatte, nach dem Namen Schemers, des Herren des Berges: Schomeron.",
+  "translation": "Und er kaufte ⟨את⟩ den Berg Schomeron ⟨את⟩ von Schemer für zwei Talente Silber, und er baute auf ⟨את⟩ den Berg, und er rief ⟨את⟩ den Namen der Stadt, die er gebaut hatte, nach dem Namen Schemers, des Herren des Berges: Schomeron.",
   "tokens": [
     {
       "surface": "ויקן",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von"
+      "gloss": "⟨את⟩ von"
     },
     {
       "surface": "שמר",
@@ -103,6 +103,6 @@
       "gloss": "Schomeron"
     }
   ],
-  "timestamp": "2026-08-06T02:59:27.035810167Z",
+  "timestamp": "2026-08-24T21:30:50.344497783Z",
   "model": "glm-5.2"
 }

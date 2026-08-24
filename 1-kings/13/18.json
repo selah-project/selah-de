@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 13,
-  "translation": "Und er sagte zu ihm: „Auch ich bin ein Nawi wie du, und ein Mal’ach hat zu mir im Wort JHWHs geredet, ⟨der⟩ sagte: ,Bringe ihn mit dir zurück in dein Haus, und ⟨er⟩ soll Brot essen und Wasser trinken.‘“ ⟨Da⟩ log er ihm ⟨vor⟩.",
+  "translation": "Und er sagte zu ihm: „Auch ich bin ein Nawi wie du, und ein Mal’ach hat zu mir im Wort JHWHs geredet, ⟨der⟩ sagte: ,Bringe ihn ⟨את⟩ mit dir zurück in dein Haus, und ⟨er⟩ soll Brot essen und Wasser trinken.‘“ ⟨Da⟩ log er ihm ⟨vor⟩.",
   "tokens": [
     {
       "surface": "וַיֹּ֣אמֶר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אִתְּךָ֙",
-      "gloss": "mit dir"
+      "gloss": "⟨את⟩ mit dir"
     },
     {
       "surface": "אֶל",
@@ -96,6 +96,6 @@
       "gloss": "ihm"
     }
   ],
-  "timestamp": "2026-08-06T02:59:13.891672105Z",
+  "timestamp": "2026-08-24T21:30:50.347892316Z",
   "model": "glm-5.2"
 }

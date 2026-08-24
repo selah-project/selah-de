@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 36,
-  "translation": "Und ich werde reines Wasser über euch sprengen, und ihr werdet rein sein — von all euren Unreinheiten und von all euren Götzenbildern werde ich euch reinigen, ⟨אתכם⟩.",
+  "translation": "Und ich werde reines Wasser über euch sprengen, und ihr werdet rein sein; von all euren Unreinheiten und von all euren Götzenbildern werde ich euch reinigen ⟨אתכם⟩.",
   "tokens": [
     {
       "surface": "וזרקתי",
-      "gloss": "Und ich werde sprengen"
+      "gloss": "und ich werde sprengen"
     },
     {
       "surface": "עליכם",
@@ -49,10 +49,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "euch"
     }
   ],
-  "timestamp": "2026-08-06T15:18:57.871803852Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:21.559379461Z",
+  "model": "glm-5.3"
 }

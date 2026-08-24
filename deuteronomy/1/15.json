@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 1,
-  "translation": "Und ich nahm ⟨את⟩ die Häupter eurer Stämme, Männer, weise und bekannte, und ich setzte sie als Häupter über euch: Sare über Tausende und Sare über Hunderte und Sare über Fünfzig und Sare über Zehn und Schotrim für eure Stämme.",
+  "translation": "Und ich nahm ⟨את⟩ die Häupter eurer Stämme, Männer, weise und bekannte, und ich setzte ⟨את⟩ sie als Häupter über euch: Sare über Tausende und Sare über Hunderte und Sare über Fünfzig und Sare über Zehn und Schotrim für eure Stämme.",
   "tokens": [
     {
       "surface": "ואקח",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "ראשים",
@@ -93,6 +93,6 @@
       "gloss": "für eure Stämme"
     }
   ],
-  "timestamp": "2026-08-06T02:22:21.346705234Z",
+  "timestamp": "2026-08-24T21:30:49.822215686Z",
   "model": "glm-5.2"
 }

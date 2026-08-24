@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 29,
-  "translation": "Und Akisch rief Dawid und sagte zu ihm: „So wahr JHWH lebt — ⟨du bist⟩ aufrichtig, und ⟨es ist⟩ gut in meinen Augen dein Aus- und Eingehen mit mir im Lager; denn ich habe nichts Böses an dir gefunden vom Tag deines Kommens zu mir bis zu diesem Tag. Aber in den Augen der Seranim ⟨bist du⟩ nicht gut.“",
+  "translation": "Und Akisch rief Dawid und sagte zu ihm: „So wahr JHWH lebt — ⟨du bist⟩ aufrichtig, und ⟨es ist⟩ gut in meinen Augen dein Aus- und Eingehen ⟨את⟩ mit mir im Lager; denn ich habe nichts Böses an dir gefunden vom Tag deines Kommens zu mir bis zu diesem Tag. Aber in den Augen der Seranim ⟨bist du⟩ nicht gut.“",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mit mir"
+      "gloss": "⟨את⟩ mit mir"
     },
     {
       "surface": "במחנה",
@@ -140,6 +140,6 @@
       "gloss": "bist du"
     }
   ],
-  "timestamp": "2026-08-06T22:38:18.011220198Z",
+  "timestamp": "2026-08-24T21:30:49.750950692Z",
   "model": "glm-5.2"
 }

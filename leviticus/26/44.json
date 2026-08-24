@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 26,
-  "translation": "Und selbst dann, wenn sie im Land ihrer Feinde sein werden — ⟨ich⟩ habe sie nicht verworfen und ⟨ich⟩ habe sie nicht verabscheut, sie ganz zu vernichten, meinen Brit mit ihnen zu brechen; denn ich bin JHWH, ihr Elohim.",
+  "translation": "Und selbst dann, wenn sie im Land ihrer Feinde sein werden — ⟨ich⟩ habe sie nicht verworfen und ⟨ich⟩ habe sie nicht verabscheut, sie ganz zu vernichten, meinen Brit ⟨את⟩ mit ihnen zu brechen; denn ich bin JHWH, ihr Elohim.",
   "tokens": [
     {
       "surface": "ואף",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "mit ihnen"
+      "gloss": "⟨את⟩ mit ihnen"
     },
     {
       "surface": "כי",
@@ -80,6 +80,6 @@
       "gloss": "ihr Elohim"
     }
   ],
-  "timestamp": "2026-08-06T05:22:12.628741130Z",
+  "timestamp": "2026-08-24T21:30:50.074012201Z",
   "model": "glm-5.2"
 }

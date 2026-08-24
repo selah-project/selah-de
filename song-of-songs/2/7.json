@@ -5,16 +5,16 @@
   "book": "song-of-songs",
   "lang": "de",
   "chapter": 2,
-  "translation": "Ich beschwöre ⟨אתכם⟩, ihr Töchter Jeruschalajims, bei den Gazellen oder den Hirschkühen des Feldes: Wenn ihr weckt, und wenn ihr aufweckt ⟨את⟩ die Liebe, bis ⟨sie⟩ es will — ⟨tut es nicht⟩!",
+  "translation": "Ich habe euch geschwören, Töchter Jeruschalajims, bei den Gazellen oder bei den Hirschkühen des Feldes: Weckt nicht die Liebe auf und erregt sie nicht, bis es ihr gefällt.",
   "tokens": [
     {
       "surface": "השבעתי",
-      "gloss": "ich beschwöre"
+      "gloss": "Ich habe euch geschworen"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch (die Töchter Jeruschalajims)"
+      "gloss": "⟨את⟩ euch",
+      "marks": "Töchter Jeruschalajims"
     },
     {
       "surface": "בנות",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "באילות",
-      "gloss": "den Hirschkühen"
+      "gloss": "bei den Hirschkühen"
     },
     {
       "surface": "השדה",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "אם",
-      "gloss": "wenn"
+      "gloss": "nicht"
     },
     {
       "surface": "תעירו",
-      "gloss": "ihr weckt"
+      "gloss": "weckt auf"
     },
     {
       "surface": "ואם",
-      "gloss": "und wenn"
+      "gloss": "und nicht"
     },
     {
       "surface": "תעוררו",
-      "gloss": "ihr aufweckt"
+      "gloss": "erregt"
     },
     {
       "surface": "את",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "שתחפץ",
-      "gloss": "sie will"
+      "gloss": "es ihr gefällt"
     }
   ],
-  "timestamp": "2026-08-05T23:26:00.087671924Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:10.002265525Z",
+  "model": "glm-5.3"
 }

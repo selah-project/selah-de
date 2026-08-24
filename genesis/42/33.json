@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 42,
-  "translation": "Und ⟨er⟩ sprach zu uns, der Mann, der Herr des Landes: „DarAn werde ich erkennen, dass ⟨ihr⟩ aufrichtig ⟨seid⟩: Euren einen Bruder lasst bei mir, und ⟨את⟩ den Hunger eurer Häuser nehmt ⟨mit⟩ und geht.",
+  "translation": "Und ⟨er⟩ sprach zu uns, der Mann, der Herr des Landes: „DarAn werde ich erkennen, dass ⟨ihr⟩ aufrichtig ⟨seid⟩: Euren einen Bruder lasst ⟨את⟩ bei mir, und ⟨את⟩ den Hunger eurer Häuser nehmt ⟨mit⟩ und geht.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bei mir"
+      "gloss": "⟨את⟩ bei mir"
     },
     {
       "surface": "ואת",
@@ -85,6 +85,6 @@
       "gloss": "und geht"
     }
   ],
-  "timestamp": "2026-08-05T17:41:24.316416449Z",
+  "timestamp": "2026-08-24T21:30:49.204427774Z",
   "model": "glm-5.2"
 }

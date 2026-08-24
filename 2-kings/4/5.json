@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 4,
-  "translation": "Und sie ging von ihm weg und schloss die Tür hinter sich und hinter ihren Söhnen. Sie — ⟨sie⟩ brachten ⟨ihr⟩ ⟨die⟩ Gefäße heran, und sie goss ⟨ein⟩.",
+  "translation": "Und sie ging ⟨את⟩ von ihm weg und schloss die Tür hinter sich und hinter ihren Söhnen. Sie — ⟨sie⟩ brachten ⟨ihr⟩ ⟨die⟩ Gefäße heran, und sie goss ⟨ein⟩.",
   "tokens": [
     {
       "surface": "ותלך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "von ihm weg"
+      "gloss": "⟨את⟩ von ihm weg"
     },
     {
       "surface": "ותסגר",
@@ -56,6 +56,6 @@
       "gloss": "goss ⟨ein⟩"
     }
   ],
-  "timestamp": "2026-08-06T08:46:59.477379366Z",
+  "timestamp": "2026-08-24T21:30:49.959885410Z",
   "model": "glm-5.2"
 }

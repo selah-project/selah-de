@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 30,
-  "translation": "Und zwei Ringe aus Gold sollst du ihm machen, unterhalb seines Kranzes, an seinen beiden Seiten sollst du sie machen, an seinen beiden Schmalseiten; und sie sollen ⟨als› Häuser ⟨für› Stangen dienen, um ⟨את› ihn zu tragen — mit ihnen.",
+  "translation": "Und zwei goldene Ringe sollst du ihm machen, unterhalb seiner Krone, an seinen zwei Rippen; auf seinen zwei Seiten sollst du sie machen — und sie sollen ⟨zu⟩ Behausungen für die Stangen sein, um ⟨את⟩ ihn damit zu tragen.",
   "tokens": [
     {
       "surface": "ושתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "זהב",
-      "gloss": "aus Gold"
+      "gloss": "golden"
     },
     {
       "surface": "תעשה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לזרו",
-      "gloss": "seines Kranzes"
+      "gloss": "seiner Krone"
     },
     {
       "surface": "על",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "שתי",
-      "gloss": "beiden"
+      "gloss": "seinen zwei"
     },
     {
       "surface": "צלעתיו",
-      "gloss": "Seiten"
+      "gloss": "Rippen"
     },
     {
       "surface": "תעשה",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "על",
-      "gloss": "an"
+      "gloss": "auf"
     },
     {
       "surface": "שני",
-      "gloss": "seinen beiden"
+      "gloss": "seinen zwei"
     },
     {
       "surface": "צדיו",
-      "gloss": "Schmalseiten"
+      "gloss": "Seiten"
     },
     {
       "surface": "והיה",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "לבתים",
-      "gloss": "⟨als› Häuser"
+      "gloss": "⟨zu⟩ Behausungen"
     },
     {
       "surface": "לבדים",
-      "gloss": "⟨für› Stangen"
+      "gloss": "für die Stangen"
     },
     {
       "surface": "לשאת",
@@ -81,14 +81,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ihn",
-      "marks": "ihn (den Altar)"
+      "gloss": "⟨את⟩",
+      "marks": "ihn (den Räucheraltar)"
     },
     {
       "surface": "בהמה",
-      "gloss": "mit ihnen"
+      "gloss": "damit"
     }
   ],
-  "timestamp": "2026-08-05T20:14:24.075839183Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:05.620239253Z",
+  "model": "glm-5.3"
 }

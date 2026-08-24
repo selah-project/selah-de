@@ -5,69 +5,69 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 46,
-  "translation": "Und bis ⟨ins⟩ Greisenalter ⟨bin⟩ ich es, und bis ⟨ins〉 Ergrauen ⟨hinein〉 trage ich ⟨euch〉. Ich selbst habe ⟨es〉 gemacht, und ich selbst werde tragen, und ich selbst werde tragen und ⟨werde⟩ befreien.",
+  "translation": "Und bis ins Greisenalter bin ⟨ich⟩ es, und bis zum grauen Haar werde ich ⟨euch⟩ tragen; ich habe ⟨es⟩ getan, und ich werde tragen, ja, ich werde tragen und ⟨euch⟩ erretten.",
   "tokens": [
     {
-      "surface": "וְעַד",
-      "gloss": "Und bis"
-    },
-    {
-      "surface": "זִקְנָה",
-      "gloss": "Greisenalter"
-    },
-    {
-      "surface": "אֲנִ֣י",
-      "gloss": "ich"
-    },
-    {
-      "surface": "ה֔וּא",
-      "gloss": "es bin"
-    },
-    {
-      "surface": "וְעַד",
+      "surface": "ועד",
       "gloss": "und bis"
     },
     {
-      "surface": "שֵיבָ֖ה",
-      "gloss": "Ergrauen"
+      "surface": "זקנה",
+      "gloss": "Greisenalter"
     },
     {
-      "surface": "אֲנִ֣י",
+      "surface": "אני",
       "gloss": "ich"
     },
     {
-      "surface": "אֶסְבֹּ֑ל",
+      "surface": "הוא",
+      "gloss": "es (bin ich es)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "und bis"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "grauem Haar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ich"
+    },
+    {
+      "surface": "אסבל",
       "gloss": "werde tragen"
     },
     {
-      "surface": "אֲנִ֤י",
-      "gloss": "Ich"
+      "surface": "אני",
+      "gloss": "ich"
     },
     {
-      "surface": "עָשִׂ֨יתִי֙",
-      "gloss": "habe gemacht"
+      "surface": "עשיתי",
+      "gloss": "habe getan"
     },
     {
-      "surface": "וַאֲנִ֣י",
+      "surface": "ואני",
       "gloss": "und ich"
     },
     {
-      "surface": "אֶשָּׂ֔א",
+      "surface": "אשא",
+      "gloss": "werde tragen (heben)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja, ich"
+    },
+    {
+      "surface": "אסבל",
       "gloss": "werde tragen"
     },
     {
-      "surface": "וַאֲנִ֥י",
-      "gloss": "und ich"
-    },
-    {
-      "surface": "אֶסְבֹּ֖ל",
-      "gloss": "werde tragen"
-    },
-    {
-      "surface": "וְאַמֵּֽט",
-      "gloss": "und werde befreien"
+      "surface": "ואמלט",
+      "gloss": "und erretten"
     }
   ],
-  "timestamp": "2026-08-06T03:19:12.748192792Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:42.469648811Z",
+  "model": "glm-5.3"
 }

@@ -5,82 +5,82 @@
   "book": "jeremiah",
   "lang": "de",
   "chapter": 27,
-  "translation": "Warum wollt ihr sterben, du und dein Volk, durchs Schwert, durch den Hunger und durch die Seuche? Wie JHWH zu dem Volk gesprochen hat, das ⟨den⟩ König von Bawel nicht ⟨dienen wird⟩ — ⟨וְאֵת⟩",
+  "translation": "Warum wollt ihr sterben, du und dein Volk, durch das Schwert, durch den Hunger und durch die Seuche, wie JHWH ⟨את⟩ zu dem Volk gesprochen hat, das dem König von Bawel nicht dienen will?",
   "tokens": [
     {
-      "surface": "לָ֤מָּה",
+      "surface": "למה",
       "gloss": "Warum"
     },
     {
-      "surface": "תָ֨מוּתוּ֙",
-      "gloss": "wollt sterben"
+      "surface": "תמותו",
+      "gloss": "wollt ihr sterben"
     },
     {
-      "surface": "אַתָּ֣ה",
+      "surface": "אתה",
       "gloss": "du"
     },
     {
-      "surface": "וְעַמְּךָ֔",
+      "surface": "ועמך",
       "gloss": "und dein Volk"
     },
     {
-      "surface": "בַּחֶ֖רֶב",
-      "gloss": "durchs Schwert"
+      "surface": "בחרב",
+      "gloss": "durch das Schwert"
     },
     {
-      "surface": "בָּרָעָ֣ב",
+      "surface": "ברעב",
       "gloss": "durch den Hunger"
     },
     {
-      "surface": "וּבַדָּ֑בֶר",
+      "surface": "ובדבר",
       "gloss": "und durch die Seuche"
     },
     {
-      "surface": "כַּֽאֲשֶׁר֙",
+      "surface": "כאשר",
       "gloss": "wie"
     },
     {
-      "surface": "דִּבֶּ֣ר",
+      "surface": "דבר",
       "gloss": "gesprochen hat"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "JHWH"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "zu"
     },
     {
-      "surface": "הַגּ֕וֹי",
+      "surface": "הגוי",
       "gloss": "dem Volk"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "das"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "יַעֲבֹ֖ד",
-      "gloss": "dienen wird"
+      "surface": "יעבד",
+      "gloss": "dienen will"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "den König von Bawel"
+      "marks": "den König"
     },
     {
-      "surface": "מֶ֥לֶךְ",
-      "gloss": "⟨den⟩ König"
+      "surface": "מלך",
+      "gloss": "König"
     },
     {
-      "surface": "בָּבֶֽל",
+      "surface": "בבל",
       "gloss": "von Bawel"
     }
   ],
-  "timestamp": "2026-08-06T08:59:06.191648557Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:49.168988368Z",
+  "model": "glm-5.3"
 }

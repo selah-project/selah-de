@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 109,
-  "translation": "Denn Mund des Frevlers und Mund des Trugs haben sich gegen mich geöffnet, ⟨sie⟩ haben mit mir geredet — Zunge der Lüge.",
+  "translation": "Denn Mund des Frevlers und Mund des Trugs haben sich gegen mich geöffnet, ⟨sie⟩ haben ⟨את⟩ mit mir geredet — Zunge der Lüge.",
   "tokens": [
     {
       "surface": "כי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mit mir"
+      "gloss": "⟨את⟩ mit mir"
     },
     {
       "surface": "לשון",
@@ -52,6 +52,6 @@
       "gloss": "der Lüge"
     }
   ],
-  "timestamp": "2026-08-06T04:20:48.645666066Z",
+  "timestamp": "2026-08-24T21:30:49.564064734Z",
   "model": "glm-5.2"
 }

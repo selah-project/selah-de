@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "de",
   "chapter": 7,
-  "translation": "Und JHWH sprach zu Gid'on: Noch ⟨ist⟩ das Volk zu viel. Steig hinab ⟨mit⟩ ihnen zum Wasser, und ich will sie dort für dich läutern. Und es soll geschehen: Wem ich sagen werde: Dieser soll mit dir gehen — der soll mit dir gehen. Und jeder, dem ich sagen werde: Dieser soll nicht mit dir gehen — der soll nicht gehen.",
+  "translation": "Und JHWH sprach zu Gid'on: Noch ⟨ist⟩ das Volk zu viel. Steig hinab ⟨את⟩ ⟨mit⟩ ihnen zum Wasser, und ich will sie dort für dich läutern. Und es soll geschehen: Wem ich sagen werde: Dieser soll mit dir gehen — der soll mit dir gehen. Und jeder, dem ich sagen werde: Dieser soll nicht mit dir gehen — der soll nicht gehen.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨mit⟩ ihnen"
+      "gloss": "⟨את⟩ ⟨mit⟩ ihnen"
     },
     {
       "surface": "אל",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "mit dir gehen"
+      "gloss": "⟨את⟩ mit dir gehen"
     },
     {
       "surface": "הוא",
@@ -101,7 +101,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "mit dir gehen"
+      "gloss": "⟨את⟩ mit dir gehen"
     },
     {
       "surface": "וכל",
@@ -148,6 +148,6 @@
       "gloss": "soll gehen"
     }
   ],
-  "timestamp": "2026-08-05T21:02:54.903407018Z",
+  "timestamp": "2026-08-24T21:30:49.354118042Z",
   "model": "glm-5.2"
 }

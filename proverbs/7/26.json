@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "de",
   "chapter": 7,
-  "translation": "Denn viele Durchbohrte hat sie fallen lassen, und ⟨all⟩ ihre Erschlagenen — ⟨ein〉 gewaltiges Heer.",
+  "translation": "Denn viele Erschlagene hat sie zu Fall gebracht, und alle ihre Getöteten ⟨sind⟩ mächtig viele.",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "denn"
+      "surface": "כי",
+      "gloss": "Denn"
     },
     {
-      "surface": "רַבִּ֣ים",
+      "surface": "רבים",
       "gloss": "viele"
     },
     {
-      "surface": "חֲלָלִ֣ים",
-      "gloss": "Durchbohrte"
+      "surface": "חללים",
+      "gloss": "Erschlagene"
     },
     {
-      "surface": "הִפִּ֑ילָה",
-      "gloss": "hat sie fallen lassen"
+      "surface": "הפילה",
+      "gloss": "hat sie zu Fall gebracht"
     },
     {
-      "surface": "וַ֝עֲצֻמִ֗ים",
-      "gloss": "und gewaltiges Heer"
+      "surface": "ועצמים",
+      "gloss": "und mächtig viele"
     },
     {
-      "surface": "כָּל",
-      "gloss": "⟨all⟩"
+      "surface": "כל",
+      "gloss": "alle"
     },
     {
-      "surface": "הֲרֻגֶֽיהָ",
-      "gloss": "ihre Erschlagenen"
+      "surface": "הרגיה",
+      "gloss": "ihre Getöteten"
     }
   ],
-  "timestamp": "2026-08-06T19:52:41.899723643Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:02.752005214Z",
+  "model": "glm-5.3"
 }

@@ -5,62 +5,62 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 31,
-  "translation": "Und JHWH wird ihnen tun, wie er Sichon und Og, den Königen des Emori, und ihrem Land getan hat, die er vernichtete ⟨אתם⟩.",
+  "translation": "Und JHWH wird an ihnen tun, wie er an Sichon und Og getan hat, den Königen des Emori, und an ihrem Land, ⟨das⟩ er vernichtet ⟨את⟩ ⟨אתם⟩ hat.",
   "tokens": [
     {
-      "surface": "וְעָשָׂ֤ה",
-      "gloss": "und wird tun"
+      "surface": "ועשה",
+      "gloss": "und tun wird"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "JHWH"
     },
     {
-      "surface": "לָהֶ֔ם",
-      "gloss": "ihnen"
+      "surface": "להם",
+      "gloss": "an ihnen"
     },
     {
-      "surface": "כַּאֲשֶׁ֣ר",
+      "surface": "כאשר",
       "gloss": "wie"
     },
     {
-      "surface": "עָשָׂ֗ה",
-      "gloss": "er getan hat"
+      "surface": "עשה",
+      "gloss": "getan hat"
     },
     {
-      "surface": "לְסִיח֥וֹן",
-      "gloss": "Sichon"
+      "surface": "לסיחון",
+      "gloss": "an Sichon"
     },
     {
-      "surface": "וּלְע֛וֹג",
-      "gloss": "und Og"
+      "surface": "ולעוג",
+      "gloss": "und an Og"
     },
     {
-      "surface": "מַלְכֵ֥י",
+      "surface": "מלכי",
       "gloss": "den Königen"
     },
     {
-      "surface": "הָאֱמֹרִ֖י",
+      "surface": "האמרי",
       "gloss": "des Emori"
     },
     {
-      "surface": "וּלְאַרְצָ֑ם",
-      "gloss": "und ihrem Land"
+      "surface": "ולארצם",
+      "gloss": "und an ihrem Land"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "gloss": "die"
+      "surface": "אשר",
+      "gloss": "das"
     },
     {
-      "surface": "הִשְׁמִ֖יד",
-      "gloss": "er vernichtete"
+      "surface": "השמיד",
+      "gloss": "vernichtet hat"
     },
     {
-      "surface": "אֹתָֽם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sie (Sichon, Og und ihr Land)"
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "sie"
     }
   ],
-  "timestamp": "2026-08-06T00:49:37.394462880Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:30:49.833512778Z",
+  "model": "glm-5.3"
 }

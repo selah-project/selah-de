@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 109,
-  "translation": "Dies ⟨sei⟩ das Werk meiner Ankläger von seiten JHWHs, ⟨auch⟩ derer, die Böses reden gegen meine Nefesch.",
+  "translation": "Dies ⟨sei⟩ das Werk meiner Ankläger ⟨את⟩ von seiten JHWHs, ⟨auch⟩ derer, die Böses reden gegen meine Nefesch.",
   "tokens": [
     {
       "surface": "זאת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von seiten"
+      "gloss": "⟨את⟩ von seiten"
     },
     {
       "surface": "יהוה",
@@ -44,6 +44,6 @@
       "gloss": "meine Nefesch"
     }
   ],
-  "timestamp": "2026-08-06T06:49:25.318115513Z",
+  "timestamp": "2026-08-24T21:30:49.565073863Z",
   "model": "glm-5.2"
 }

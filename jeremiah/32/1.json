@@ -5,81 +5,82 @@
   "book": "jeremiah",
   "lang": "de",
   "chapter": 32,
-  "translation": "Das Wort, das zu Jirmejahau geschah, von ⟨מאת⟩ JHWH, im zehnten Jahr des Zidkijahu, des Königs von Jehudah — das ⟨ist⟩ das achzehnte Jahr von Nebukadrezar.",
+  "translation": "Das Wort, das von JHWH ⟨את⟩ an Jirmejahu erging, im zehnten Jahr des Zedekija, Königs von Jehuda — dieses ⟨ist⟩ das achtzehnte Jahr des Nebukadrezzar.",
   "tokens": [
     {
-      "surface": "הַדָּבָר",
+      "surface": "הדבר",
       "gloss": "das Wort"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "das"
     },
     {
-      "surface": "הָיָה",
-      "gloss": "geschah"
+      "surface": "היה",
+      "gloss": "erging"
     },
     {
-      "surface": "אֶל",
-      "gloss": "zu"
+      "surface": "אל",
+      "gloss": "an"
     },
     {
-      "surface": "יִרְמְיָהוּ",
-      "gloss": "Jirmejahau"
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
     },
     {
-      "surface": "מֵאֵת",
-      "gloss": "⟨מאת⟩"
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jirmejahu (von JHWH her)"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "JHWH"
     },
     {
-      "surface": "בְּשְׁנַת",
+      "surface": "בשנת",
       "gloss": "im Jahr"
     },
     {
-      "surface": "הָעֲשִׂרִית",
-      "gloss": "dem zehnten"
+      "surface": "העשרית",
+      "gloss": "des zehnten"
     },
     {
-      "surface": "לְצִדְקִיָּהוּ",
-      "gloss": "des Zidkijahu"
+      "surface": "לצדקיהו",
+      "gloss": "des Zedekija"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "Königs"
     },
     {
-      "surface": "יְהוּדָה",
-      "gloss": "von Jehudah"
+      "surface": "יהודה",
+      "gloss": "Jehuda"
     },
     {
-      "surface": "הִיא",
-      "gloss": "das ⟨ist⟩"
+      "surface": "היא",
+      "gloss": "dieses"
     },
     {
-      "surface": "הַשָּׁנָה",
-      "gloss": "das Jahr"
+      "surface": "השנה",
+      "gloss": "⟨ist⟩ das Jahr"
     },
     {
-      "surface": "שְׁמֹנֶה",
-      "gloss": "acht"
+      "surface": "שמנה",
+      "gloss": "achtzehnte"
     },
     {
-      "surface": "עֶשְׂרֵה",
-      "gloss": "zehn"
+      "surface": "עשרה",
+      "gloss": ""
     },
     {
-      "surface": "שָׁנָה",
+      "surface": "שנה",
       "gloss": "Jahr"
     },
     {
-      "surface": "לִנְבוּכַדְרֶאצַּר",
-      "gloss": "von Nebukadrezar"
+      "surface": "לנבוכדראצר",
+      "gloss": "des Nebukadrezzar"
     }
   ],
-  "timestamp": "2026-08-05T22:09:15.923495331Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:22.386029769Z",
+  "model": "glm-5.3"
 }

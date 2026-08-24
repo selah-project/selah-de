@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 43,
-  "translation": "Und Jehuda sagte zu Jisra'el, seinem Vater: Sende den Jungen mit mir, und ⟨lasst uns⟩ aufstehen und gehen, und ⟨lasst uns⟩ leben und nicht sterben, sowohl wir als auch du als auch unsere Kleinen.",
+  "translation": "Und Jehuda sagte zu Jisra'el, seinem Vater: Sende den Jungen ⟨את⟩ mit mir, und ⟨lasst uns⟩ aufstehen und gehen, und ⟨lasst uns⟩ leben und nicht sterben, sowohl wir als auch du als auch unsere Kleinen.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mit mir"
+      "gloss": "⟨את⟩ mit mir"
     },
     {
       "surface": "ונקומה",
@@ -84,6 +84,6 @@
       "gloss": "unsere Kleinen"
     }
   ],
-  "timestamp": "2026-08-06T00:11:10.965953743Z",
+  "timestamp": "2026-08-24T21:30:49.286086807Z",
   "model": "glm-5.2"
 }

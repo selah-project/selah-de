@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 17,
-  "translation": "Und wir kommen zu ihm an einem der Orte, wo er sich ⟨als anwesend⟩ erweist, und ⟨wir⟩ sind über ihm, wie der Tau auf die Erde fällt, und ⟨es⟩ wird nicht übrig bleiben an ihm und an allen Männern, die bei ihm ⟨sind⟩, auch nicht einer.",
+  "translation": "Und wir kommen zu ihm an einem der Orte, wo er sich ⟨als anwesend⟩ erweist, und ⟨wir⟩ sind über ihm, wie der Tau auf die Erde fällt, und ⟨es⟩ wird nicht übrig bleiben an ihm und an allen Männern, die ⟨את⟩ bei ihm ⟨sind⟩, auch nicht einer.",
   "tokens": [
     {
       "surface": "וּבָ֣אנוּ",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אִתּ֖וֹ",
-      "gloss": "bei ihm"
+      "gloss": "⟨את⟩ bei ihm"
     },
     {
       "surface": "גַּ֥ם",
@@ -100,6 +100,6 @@
       "gloss": "(nicht) einer"
     }
   ],
-  "timestamp": "2026-08-06T20:27:32.418676573Z",
+  "timestamp": "2026-08-24T21:30:49.112095256Z",
   "model": "glm-5.2"
 }

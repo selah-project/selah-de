@@ -5,98 +5,98 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 25,
-  "translation": "Wenn aber der Mann es nicht wünscht, ⟨את⟩ seine Schwägerin zu nehmen, soll seine Schwägerin zum Tor hinaufgehen, zu den Ältesten, und sagen: „Mein Schwager hat sich geweigert, ⟨פי־⟩ seinem Bruder ⟨פי־⟩ einen Namen aufzurichten in Jisra'el; mein Schwager will die Schwagerpflicht nicht erfüllen.“",
+  "translation": "Und wenn der Mann nicht willens ist, ⟨את⟩ seine Schwägerin zu nehmen, dann geht seine Schwägerin hinauf zum Tor zu den Ältesten und sagt: „Mein Schwager weigert sich, ⟨seinem⟩ Bruder einen Namen in Israel aufzurichten; er will die Pflicht des Schwagers an mir nicht erfüllen.”",
   "tokens": [
     {
-      "surface": "וְאִם",
-      "gloss": "Wenn aber"
+      "surface": "ואם",
+      "gloss": "Und wenn"
     },
     {
-      "surface": "לֹ֤א",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "יַחְפֹּץ֙",
-      "gloss": "wünscht"
+      "surface": "יחפץ",
+      "gloss": "willens ist"
     },
     {
-      "surface": "הָאִ֔ישׁ",
+      "surface": "האיש",
       "gloss": "der Mann"
     },
     {
-      "surface": "לָקַ֖חַת",
+      "surface": "לקחת",
       "gloss": "zu nehmen"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "seine Schwägerin"
     },
     {
-      "surface": "יְבִמְתּ֑וֹ",
+      "surface": "יבמתו",
       "gloss": "seine Schwägerin"
     },
     {
-      "surface": "וְעָלְתָה֩",
-      "gloss": "soll hinaufgehen"
+      "surface": "ועלתה",
+      "gloss": "dann geht hinauf"
     },
     {
-      "surface": "יְבִמְתּ֨וֹ",
+      "surface": "יבמתו",
       "gloss": "seine Schwägerin"
     },
     {
-      "surface": "הַשַּׁ֜עְרָה",
+      "surface": "השערה",
       "gloss": "zum Tor"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "zu"
     },
     {
-      "surface": "הַזְּקֵנִ֗ים",
+      "surface": "הזקנים",
       "gloss": "den Ältesten"
     },
     {
-      "surface": "וְאָֽמְרָה֙",
-      "gloss": "und sagen"
+      "surface": "ואמרה",
+      "gloss": "und sagt"
     },
     {
-      "surface": "מֵאֵ֨ין",
-      "gloss": "hat sich geweigert"
+      "surface": "מאין",
+      "gloss": "weigert sich"
     },
     {
-      "surface": "יְבָמִ֜י",
-      "gloss": "mein Schwager"
+      "surface": "יבמי",
+      "gloss": "Mein Schwager"
     },
     {
-      "surface": "לְהָקִ֨ים",
+      "surface": "להקים",
       "gloss": "aufzurichten"
     },
     {
-      "surface": "לְאָחִ֥יו",
-      "gloss": "seinem Bruder"
+      "surface": "לאחיו",
+      "gloss": "⟨seinem⟩ Bruder"
     },
     {
-      "surface": "שֵׁם֙",
+      "surface": "שם",
       "gloss": "einen Namen"
     },
     {
-      "surface": "בְּיִשְׂרָאֵ֔ל",
-      "gloss": "in Jisra'el"
+      "surface": "בישראל",
+      "gloss": "in Israel"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "אָבָ֖ה",
-      "gloss": "will"
+      "surface": "אבה",
+      "gloss": "will … erfüllen"
     },
     {
-      "surface": "יַבְּמִֽי",
-      "gloss": "mein Schwager die Schwagerpflicht ⟨erfüllen⟩"
+      "surface": "יבמי",
+      "gloss": "die Pflicht des Schwagers"
     }
   ],
-  "timestamp": "2026-08-06T08:30:28.048064662Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:11.040505719Z",
+  "model": "glm-5.3"
 }

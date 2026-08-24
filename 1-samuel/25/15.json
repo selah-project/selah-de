@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 25,
-  "translation": "Und die Männer waren sehr gut zu uns, und wir wurden nicht beschämt, und es fehlte uns an nichts alle Tage, die wir mit ihnen umhergingen, als wir auf dem Feld waren.",
+  "translation": "Und die Männer waren sehr gut zu uns, und wir wurden nicht beschämt, und es fehlte uns an nichts alle Tage, die wir ⟨את⟩ mit ihnen umhergingen, als wir auf dem Feld waren.",
   "tokens": [
     {
       "surface": "והאנשים",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "mit ihnen"
+      "gloss": "⟨את⟩ mit ihnen"
     },
     {
       "surface": "בהיותנו",
@@ -68,6 +68,6 @@
       "gloss": "auf dem Feld"
     }
   ],
-  "timestamp": "2026-08-06T05:42:04.437534408Z",
+  "timestamp": "2026-08-24T21:30:49.763231153Z",
   "model": "glm-5.2"
 }

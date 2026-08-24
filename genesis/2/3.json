@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 2,
-  "translation": "Und Elohim segnete ⟨את⟩ den siebten Tag, und er heiligte ihn; denn an ihm ruhte er von all seiner Arbeit, die Elohim geschaffen hatte, um ⟨sie⟩ zu machen.",
+  "translation": "Und Elohim segnete ⟨את⟩ den siebten Tag, und er heiligte ⟨את⟩ ihn; denn an ihm ruhte er von all seiner Arbeit, die Elohim geschaffen hatte, um ⟨sie⟩ zu machen.",
   "tokens": [
     {
       "surface": "וַיְבָ֤רֶךְ",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אֹת֑וֹ",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "כִּ֣י",
@@ -73,6 +73,6 @@
       "gloss": "um zu machen"
     }
   ],
-  "timestamp": "2026-08-06T01:51:02.540048472Z",
+  "timestamp": "2026-08-24T21:30:49.244103565Z",
   "model": "glm-5.2"
 }

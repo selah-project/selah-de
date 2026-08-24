@@ -5,77 +5,77 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 50,
-  "translation": "Und Adonai JHWH hilft mir, darum wurde ich nicht gedemütigt; darum hielt ich mein Gesicht wie einen Kiesel, und ich erkannte, dass ich nicht zuschanden werde.",
+  "translation": "Und Adonai JHWH hilft mir — darum wurde ich nicht beschämt; darum setzte ich mein Gesicht wie einen harten Stein, und ich weiß, dass ich nicht erröten werde.",
   "tokens": [
     {
-      "surface": "וַאדֹנָ֤י",
-      "gloss": "und Adonai"
+      "surface": "ואדני",
+      "gloss": "Und Adonai"
     },
     {
-      "surface": "יְהוִה֙",
+      "surface": "יהוה",
       "gloss": "JHWH"
     },
     {
-      "surface": "יַֽעֲזָר",
+      "surface": "יעזר",
       "gloss": "hilft"
     },
     {
-      "surface": "לִ֔י",
+      "surface": "לי",
       "gloss": "mir"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "darum"
     },
     {
-      "surface": "כֵּ֖ן",
-      "gloss": "〈darum⟩"
+      "surface": "כן",
+      "gloss": "darum"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "נִכְלָ֑מְתִּי",
-      "gloss": "wurde ich gedemütigt"
+      "surface": "נכלמתי",
+      "gloss": "wurde ich beschämt"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "darum"
     },
     {
-      "surface": "כֵּ֞ן",
-      "gloss": "〈darum⟩"
+      "surface": "כן",
+      "gloss": "darum"
     },
     {
-      "surface": "שַׂ֤מְתִּי",
-      "gloss": "hielt ich"
+      "surface": "שמתי",
+      "gloss": "setzte ich"
     },
     {
-      "surface": "פָנַי֙",
+      "surface": "פני",
       "gloss": "mein Gesicht"
     },
     {
-      "surface": "כַּֽחַלָּמִ֔ישׁ",
-      "gloss": "wie einen Kiesel"
+      "surface": "כחלמיש",
+      "gloss": "wie einen harten Stein"
     },
     {
-      "surface": "וָאֵדַ֖ע",
-      "gloss": "und ich erkannte"
+      "surface": "ואדע",
+      "gloss": "und ich weiß"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "dass"
     },
     {
-      "surface": "לֹ֥א",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "אֵבֽוֹשׁ",
-      "gloss": "ich zuschanden werde"
+      "surface": "אבוש",
+      "gloss": "ich erröten werde"
     }
   ],
-  "timestamp": "2026-08-05T21:54:58.607309201Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:03:05.455715692Z",
+  "model": "glm-5.3"
 }

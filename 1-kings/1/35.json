@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 1,
-  "translation": "Und ihr sollt hinter ihm heraufziehen, und ⟨er⟩ soll kommen und auf meinem Thron sitzen, und ⟨er⟩ wird König sein an meiner Stelle; und ihn habe ich beauftragt, Fürst zu sein über Jisra'el und über Jehudah.“",
+  "translation": "Und ihr sollt hinter ihm heraufziehen, und ⟨er⟩ soll kommen und auf meinem Thron sitzen, und ⟨er⟩ wird König sein an meiner Stelle; ⟨את⟩ und ihn habe ich beauftragt, Fürst zu sein über Jisra'el und über Jehudah.“",
   "tokens": [
     {
       "surface": "ועליתם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "und ihn"
+      "gloss": "⟨את⟩ und ihn"
     },
     {
       "surface": "צויתי",
@@ -76,6 +76,6 @@
       "gloss": "Jehudah"
     }
   ],
-  "timestamp": "2026-08-05T21:24:56.887744616Z",
+  "timestamp": "2026-08-24T21:30:50.335974924Z",
   "model": "glm-5.2"
 }

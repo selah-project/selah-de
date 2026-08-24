@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 10,
-  "translation": "Und ⟨את⟩ die Brust der Schwingung und ⟨את⟩ den Schenkel der Hebopfergabe sollt ihr an reiner Stätte essen, du und deine Söhne und deine Töchter mit dir; denn als dein Anteil und der Anteil deiner Söhne sind sie gegeben, von den Schlachtopfern der Schelamim der Söhne Jisraels.",
+  "translation": "Und ⟨את⟩ die Brust der Schwingung und ⟨את⟩ den Schenkel der Hebopfergabe sollt ihr an reiner Stätte essen, du und deine Söhne und deine Töchter ⟨את⟩ mit dir; denn als dein Anteil und der Anteil deiner Söhne sind sie gegeben, von den Schlachtopfern der Schelamim der Söhne Jisraels.",
   "tokens": [
     {
       "surface": "ואת",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "mit dir"
+      "gloss": "⟨את⟩ mit dir"
     },
     {
       "surface": "כי",
@@ -98,6 +98,6 @@
       "gloss": "Jisraels"
     }
   ],
-  "timestamp": "2026-08-05T20:21:47.324338908Z",
+  "timestamp": "2026-08-24T21:30:50.036374226Z",
   "model": "glm-5.2"
 }

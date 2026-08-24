@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "de",
   "chapter": 7,
-  "translation": "Und euch ⟨wird〉 bekannt gemacht, dass allen Kohen und Lewim, Sängern, Torhütern, Netinim und Dienern dieses Hauses des Elohim weder Steuer noch Zoll ⟨noch〉 Wegzoll auferlegt werden darf — ⟨man hat⟩ keine Befugnis, ⟨es〉 über sie zu erheben.",
+  "translation": "Und euch machen wir kund: Von allen Kohanim (Priestern) und Lewiim, Sängern, Torhütern, Netinim und Dienern des Hauses dieses Eloah ist es nicht erlaubt, Abgabe, Zins oder Zoll zu erheben.",
   "tokens": [
     {
       "surface": "ולכם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מהודעין",
-      "gloss": "⟨wird⟩ bekannt gemacht"
+      "gloss": "machen wir kund"
     },
     {
       "surface": "די",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "כהניא",
-      "gloss": "Kohen"
+      "gloss": "Kohanim"
     },
     {
       "surface": "ולויא",
-      "gloss": "und Lewim"
+      "gloss": "und Lewiim"
     },
     {
       "surface": "זמריא",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "Hauses"
+      "gloss": "des Hauses"
     },
     {
       "surface": "אלהא",
-      "gloss": "des Elohim"
+      "gloss": "Eloah"
     },
     {
       "surface": "דנה",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "מנדה",
-      "gloss": "Steuer"
+      "gloss": "Abgabe"
     },
     {
       "surface": "בלו",
-      "gloss": "Zoll"
+      "gloss": "Zins"
     },
     {
       "surface": "והלך",
-      "gloss": "⟨noch⟩ Wegzoll"
+      "gloss": "Zoll"
     },
     {
       "surface": "לא",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "שליט",
-      "gloss": "Befugnis"
+      "gloss": "erlaubt"
     },
     {
       "surface": "למרמא",
@@ -88,6 +88,6 @@
       "gloss": "über sie"
     }
   ],
-  "timestamp": "2026-08-06T09:31:02.896189431Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:39.156296164Z",
+  "model": "glm-5.3"
 }

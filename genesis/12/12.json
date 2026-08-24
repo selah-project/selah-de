@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 12,
-  "translation": "Und es wird geschehen, wenn die Mizrajer dich sehen und sagen: „Seine Frau ist diese“, dann werden sie mich töten und dich werden sie am Leben lassen.",
+  "translation": "Und es wird geschehen: Wenn die Mizrajim dich sehen und sagen: „Das ist seine Frau“, dann werden sie mich töten, aber ⟨את⟩ dich werden sie am Leben lassen.",
   "tokens": [
     {
       "surface": "והיה",
@@ -22,11 +22,11 @@
     {
       "surface": "אתך",
       "gloss": "⟨את⟩ dich",
-      "marks": "dich"
+      "marks": "dich (Objekt von „sehen“)"
     },
     {
       "surface": "המצרים",
-      "gloss": "die Mizrajer"
+      "gloss": "die Mizrajim"
     },
     {
       "surface": "ואמרו",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "אשתו",
-      "gloss": "Seine Frau"
+      "gloss": "seine Frau"
     },
     {
       "surface": "זאת",
-      "gloss": "ist diese"
+      "gloss": "das"
     },
     {
       "surface": "והרגו",
@@ -47,18 +47,18 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩ mich",
-      "marks": "mich"
+      "marks": "mich (Objekt von „töten“)"
     },
     {
       "surface": "ואתך",
-      "gloss": "⟨und את⟩ dich",
-      "marks": "dich"
+      "gloss": "⟨את⟩ dich",
+      "marks": "dich (Objekt von „am Leben lassen“)"
     },
     {
       "surface": "יחיו",
       "gloss": "werden sie am Leben lassen"
     }
   ],
-  "timestamp": "2026-08-06T00:04:36.332558170Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:33.635462965Z",
+  "model": "glm-5.3"
 }

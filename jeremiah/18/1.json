@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "de",
   "chapter": 18,
-  "translation": "Das Wort, das zu Jirmejahu geschah, von ⟨מאת⟩ JHWH, indem ⟨er sprach⟩:",
+  "translation": "Das Wort, das zu Jirmejahu gekommen ist ⟨von⟩ JHWH, das sagt:",
   "tokens": [
     {
       "surface": "הדבר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "geschah"
+      "gloss": "gekommen ist"
     },
     {
       "surface": "אל",
@@ -29,7 +29,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von ⟨מאת⟩"
+      "gloss": "⟨את⟩",
+      "marks": "JHWH (von JHWH her)"
     },
     {
       "surface": "יהוה",
@@ -37,9 +38,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "indem ⟨er sprach⟩"
+      "gloss": "das sagt"
     }
   ],
-  "timestamp": "2026-08-06T03:28:43.171847582Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:19.861841115Z",
+  "model": "glm-5.3"
 }

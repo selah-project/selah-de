@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 28,
-  "translation": "Und Dawid sprach zu Akisch: „Darum wirst du ⟨הַ⟩ erkennen, was dein Knecht tun wird.“ Und Akisch sprach zu Dawid: „Darum setze ich dich zum Wächter meines Hauptes für alle Tage.“",
+  "translation": "Und Dawid sprach zu Achisch: Darum wirst du ⟨את⟩ das wissen, was dein Knecht tun wird. Und Achisch sprach zu Dawid: Darum mache ich dich zum Wächter meines Hauptes alle Tage.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "und ⟨er⟩ sprach"
+      "gloss": "und sprach"
     },
     {
       "surface": "דוד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אכיש",
-      "gloss": "Akisch"
+      "gloss": "Achisch"
     },
     {
       "surface": "לכן",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "תדע",
-      "gloss": "wirst ⟨du⟩ erkennen"
+      "gloss": "wirst wissen"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "was dein Knecht tun wird"
+      "marks": "das, was dein Knecht tun wird"
     },
     {
       "surface": "אשר",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "und ⟨er⟩ sprach"
+      "gloss": "und sprach"
     },
     {
       "surface": "אכיש",
-      "gloss": "Akisch"
+      "gloss": "Achisch"
     },
     {
       "surface": "אל",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אשימך",
-      "gloss": "setze ich dich"
+      "gloss": "mache ich dich"
     },
     {
       "surface": "כל",
@@ -93,6 +93,6 @@
       "gloss": "Tage"
     }
   ],
-  "timestamp": "2026-08-06T02:48:12.219473278Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:09.062164136Z",
+  "model": "glm-5.3"
 }

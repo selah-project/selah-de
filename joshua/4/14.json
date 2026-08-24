@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "de",
   "chapter": 4,
-  "translation": "An jenem Tag machte JHWH ⟨את⟩ Jehoschua groß in den Augen von ganz Jisra'el, und sie fürchteten ihn, so wie sie ⟨את⟩ Mosche fürchteten alle Tage seines Lebens.",
+  "translation": "An jenem Tag machte JHWH ⟨את⟩ Jehoschua groß in den Augen von ganz Jisra'el, und sie fürchteten ⟨את⟩ ihn, so wie sie ⟨את⟩ Mosche fürchteten alle Tage seines Lebens.",
   "tokens": [
     {
       "surface": "בַּיּ֣וֹם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אֹת֔וֹ",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "כַּאֲשֶׁ֛ר",
@@ -82,6 +82,6 @@
       "gloss": "seines Lebens"
     }
   ],
-  "timestamp": "2026-08-06T00:50:44.733543362Z",
+  "timestamp": "2026-08-24T21:30:50.259031971Z",
   "model": "glm-5.2"
 }

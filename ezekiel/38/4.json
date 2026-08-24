@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 38,
-  "translation": "Und ich wende dich um und lege Haken in deine Kinnladen, und ich führe dich heraus ⟨וְאֶת⟩ dein ganzes Heer, Pferde und Reiter, bekleidet mit Prunk, sie alle, eine große Versammlung, die Schild und Tartsche hält, Schwerte ergreifend, sie alle.",
+  "translation": "Und ich wende dich um und lege Haken in deine Kinnladen, und ich führe dich heraus, ⟨את⟩ ⟨dich⟩ und ⟨את⟩ dein ganzes Heer, Pferde und Reiter, alle in Pracht gekleidet, eine zahlreiche Versammlung, mit Schild und Tartsche, Schwerter führend, alle sie.",
   "tokens": [
     {
       "surface": "ושובבתיך",
-      "gloss": "Und ich wende ⟨dich⟩ um"
+      "gloss": "und ich wende dich um"
     },
     {
       "surface": "ונתתי",
-      "gloss": "und lege"
+      "gloss": "und ich lege"
     },
     {
       "surface": "חחים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אותך",
-      "gloss": "dich"
+      "gloss": "⟨את⟩ ⟨dich⟩"
     },
     {
       "surface": "ואת",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "ganzes"
+      "gloss": "ganz"
     },
     {
       "surface": "חילך",
@@ -54,23 +54,23 @@
     },
     {
       "surface": "לבשי",
-      "gloss": "bekleidet mit"
+      "gloss": "gekleidet"
     },
     {
       "surface": "מכלול",
-      "gloss": "Prunk"
+      "gloss": "in Pracht"
     },
     {
       "surface": "כלם",
-      "gloss": "sie alle"
+      "gloss": "alle"
     },
     {
       "surface": "קהל",
-      "gloss": "eine Versammlung"
+      "gloss": "Versammlung"
     },
     {
       "surface": "רב",
-      "gloss": "große"
+      "gloss": "zahlreiche"
     },
     {
       "surface": "צנה",
@@ -82,17 +82,17 @@
     },
     {
       "surface": "תפשי",
-      "gloss": "die hält"
+      "gloss": "führend"
     },
     {
       "surface": "חרבות",
-      "gloss": "Schwerte"
+      "gloss": "Schwerter"
     },
     {
       "surface": "כלם",
-      "gloss": "sie alle"
+      "gloss": "alle sie"
     }
   ],
-  "timestamp": "2026-08-06T03:53:54.894919314Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:44.425482136Z",
+  "model": "glm-5.3"
 }

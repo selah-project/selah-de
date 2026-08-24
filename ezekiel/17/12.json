@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 17,
-  "translation": "Sprich doch zum Haus des Widerstands: Wisst ihr nicht, was diese ⟨Dinge⟩ sind? Sprich: Siehe, der König von Bawel kam nach Jeruschalajim und nahm ⟨את⟩ seinen König und ⟨את⟩ seine Oberen und brachte sie zu sich nach Bawel.",
+  "translation": "Sprich doch zum Haus des Widerstands: Wisst ihr nicht, was diese ⟨Dinge⟩ sind? Sprich: Siehe, der König von Bawel kam nach Jeruschalajim und nahm ⟨את⟩ seinen König und ⟨את⟩ seine Oberen und brachte ⟨את⟩ sie zu sich nach Bawel.",
   "tokens": [
     {
       "surface": "אמר",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "אליו",
@@ -102,6 +102,6 @@
       "gloss": "nach Bawel"
     }
   ],
-  "timestamp": "2026-08-05T22:20:34.430363817Z",
+  "timestamp": "2026-08-24T21:30:49.888293268Z",
   "model": "glm-5.2"
 }

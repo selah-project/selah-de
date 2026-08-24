@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 20,
-  "translation": "Und ihr werdet erkennen, dass ich JHWH bin, wenn ich ⟨mit⟩ euch handle um meines Namens willen — nicht nach euren bösen Wegen und nach euren verdorbenen Taten, Haus Jisraels —, ⟨ist⟩ der Ausspruch Adonais, JHWHs.",
+  "translation": "Und ihr werdet erkennen, dass ich JHWH bin, wenn ich ⟨את⟩ ⟨mit⟩ euch handle um meines Namens willen — nicht nach euren bösen Wegen und nach euren verdorbenen Taten, Haus Jisraels —, ⟨ist⟩ der Ausspruch Adonais, JHWHs.",
   "tokens": [
     {
       "surface": "וִֽידַעְתֶּם֙",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אִתְּכֶ֖ם",
-      "gloss": "⟨mit⟩ euch"
+      "gloss": "⟨את⟩ ⟨mit⟩ euch"
     },
     {
       "surface": "לְמַ֣עַן",
@@ -80,6 +80,6 @@
       "gloss": "JHWHs"
     }
   ],
-  "timestamp": "2026-08-05T22:21:28.960205246Z",
+  "timestamp": "2026-08-24T21:30:49.864104574Z",
   "model": "glm-5.2"
 }

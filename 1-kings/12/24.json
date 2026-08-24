@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 12,
-  "translation": "So spricht JHWH: Ihr sollt nicht hinaufziehen und nicht kämpfen gegen eure Brüder, die Söhne Jisraels. Kehrt um, jeder ⟨Mann⟩ zu seinem Haus; denn von mir aus ist diese Sache geschehen. Und sie hörten ⟨את⟩ das Wort JHWHs und kehrten um, zu gehen, nach dem Wort JHWHs.",
+  "translation": "So spricht JHWH: Ihr sollt nicht hinaufziehen und nicht kämpfen gegen eure Brüder, die Söhne Jisraels. Kehrt um, jeder ⟨Mann⟩ zu seinem Haus; denn ⟨את⟩ von mir aus ist diese Sache geschehen. Und sie hörten ⟨את⟩ das Wort JHWHs und kehrten um, zu gehen, nach dem Wort JHWHs.",
   "tokens": [
     {
       "surface": "כה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "von mir aus"
+      "gloss": "⟨את⟩ von mir aus"
     },
     {
       "surface": "נהיה",
@@ -117,6 +117,6 @@
       "gloss": "JHWHs"
     }
   ],
-  "timestamp": "2026-08-06T05:50:22.581557028Z",
+  "timestamp": "2026-08-24T21:30:50.324054586Z",
   "model": "glm-5.2"
 }

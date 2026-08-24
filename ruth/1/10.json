@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "de",
   "chapter": 1,
-  "translation": "Und sie sagten ⟨ihr⟩: „⟨Doch,⟩ mit dir werden wir zurückkehren, zu deinem Volk.“",
+  "translation": "Und sie sagten ⟨ihr⟩: „⟨Doch,⟩ ⟨את⟩ mit dir werden wir zurückkehren, zu deinem Volk.“",
   "tokens": [
     {
       "surface": "ותאמרנה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "mit dir"
+      "gloss": "⟨את⟩ mit dir"
     },
     {
       "surface": "נשוב",
@@ -32,6 +32,6 @@
       "gloss": "zu deinem Volk"
     }
   ],
-  "timestamp": "2026-08-06T04:38:57.613210273Z",
+  "timestamp": "2026-08-24T21:30:49.666384738Z",
   "model": "glm-5.2"
 }

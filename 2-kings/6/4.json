@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 6,
-  "translation": "Und er ging ⟨mit⟩ ihnen. Und sie kamen zum Jardén, und sie schlugen ⟨die⟩ Bäume.",
+  "translation": "Und er ging ⟨את⟩ ⟨mit⟩ ihnen. Und sie kamen zum Jardén, und sie schlugen ⟨die⟩ Bäume.",
   "tokens": [
     {
       "surface": "וילך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨mit⟩ ihnen"
+      "gloss": "⟨את⟩ ⟨mit⟩ ihnen"
     },
     {
       "surface": "ויבאו",
@@ -32,6 +32,6 @@
       "gloss": "die Bäume"
     }
   ],
-  "timestamp": "2026-08-05T21:34:32.383575345Z",
+  "timestamp": "2026-08-24T21:30:50.028175931Z",
   "model": "glm-5.2"
 }

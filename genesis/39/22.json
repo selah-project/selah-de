@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 39,
-  "translation": "Und der Vorsteher des Gefängnisses gab in die Hand Josesefs ⟨את⟩ alle Gefangenen, die im Gefängnis waren; und ⟨alles⟩, was ⟨man⟩ dort tat — er war ⟨der⟩ Täter.",
+  "translation": "Und der Vorsteher des Gefängnishauses gab in die Hand von Josef ⟨את⟩ alle Gefangenen, die im Gefängnishaus waren, und ⟨את⟩ alles, was man dort tat — er war es, der es tat.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Und ⟨er⟩ gab"
+      "gloss": "und gab"
     },
     {
       "surface": "שר",
-      "gloss": "der Vorsteher"
+      "gloss": "Vorsteher"
     },
     {
       "surface": "בית",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Josesefs"
+      "gloss": "von Josef"
     },
     {
       "surface": "את",
@@ -58,12 +58,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨und את⟩",
-      "marks": "alles"
+      "gloss": "und ⟨את⟩",
+      "marks": "alles, was man dort tat"
     },
     {
       "surface": "כל",
-      "gloss": "⟨alles⟩"
+      "gloss": "alles"
     },
     {
       "surface": "אשר",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "עשים",
-      "gloss": "sie ⟨dort⟩ taten"
+      "gloss": "man tat"
     },
     {
       "surface": "שם",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "Täter"
+      "gloss": "es tat"
     }
   ],
-  "timestamp": "2026-08-06T00:10:15.923704886Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:25.744112666Z",
+  "model": "glm-5.3"
 }

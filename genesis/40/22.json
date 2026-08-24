@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 40,
-  "translation": "Den Obersten der Bäcker aber hängte er auf, so wie Josef es ihnen gedeutet hatte.",
+  "translation": "Und ⟨את⟩ den Obersten der Bäcker ließ er hängen, so wie Josef es ihnen gedeutet hatte.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨und את⟩",
+      "gloss": "⟨את⟩",
       "marks": "den Obersten der Bäcker"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "surface": "תלה",
-      "gloss": "hängte er auf"
+      "gloss": "ließ er hängen"
     },
     {
       "surface": "כאשר",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "פתר",
-      "gloss": "es gedeutet hatte"
+      "gloss": "gedeutet"
     },
     {
       "surface": "להם",
@@ -41,6 +41,6 @@
       "gloss": "Josef"
     }
   ],
-  "timestamp": "2026-08-05T17:39:34.267889420Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:11.405194916Z",
+  "model": "glm-5.3"
 }

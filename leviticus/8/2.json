@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 8,
-  "translation": "Nimm ⟨את⟩ Aharon und ⟨את⟩ seine Söhne mit ihm, und ⟨את⟩ die Kleider, und ⟨את⟩ das Salböl, und ⟨את⟩ den Stier der Sünde, und ⟨את⟩ die beiden Widder, und ⟨את⟩ den Korb der Mazzen:",
+  "translation": "Nimm ⟨את⟩ Aharon und ⟨את⟩ seine Söhne ⟨את⟩ mit ihm, und ⟨את⟩ die Kleider, und ⟨את⟩ das Salböl, und ⟨את⟩ den Stier der Sünde, und ⟨את⟩ die beiden Widder, und ⟨את⟩ den Korb der Mazzen:",
   "tokens": [
     {
       "surface": "קַח",
@@ -31,7 +31,7 @@
     },
     {
       "surface": "אִתּוֹ",
-      "gloss": "mit ihm"
+      "gloss": "⟨את⟩ mit ihm"
     },
     {
       "surface": "וְאֵת",
@@ -95,6 +95,6 @@
       "gloss": "der Mazzen"
     }
   ],
-  "timestamp": "2026-08-06T00:24:25.541328834Z",
+  "timestamp": "2026-08-24T21:30:50.092750682Z",
   "model": "glm-5.2"
 }

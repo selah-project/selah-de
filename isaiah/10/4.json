@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 10,
-  "translation": "Nur ⟨dass man⟩ sich beugt unter ⟨den〉 Gefangenen, und unter ⟨den〉 Erschlagenen fällt. Bei all dem wandte sich sein Zorn nicht ab, und seine Hand ist noch ausgestreckt.",
+  "translation": "Nichts bleibt, als sich unter Gefangene zu beugen und unter ⟨die⟩ Erschlagenen zu fallen. Bei all diesem kehrte sein Zorn nicht um, und noch ⟨ist⟩ seine Hand ausgestreckt.",
   "tokens": [
     {
       "surface": "בלתי",
-      "gloss": "nur"
+      "gloss": "Nichts bleibt, als"
     },
     {
       "surface": "כרע",
-      "gloss": "sich beugt"
+      "gloss": "sich beugen"
     },
     {
       "surface": "תחת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אסיר",
-      "gloss": "⟨den⟩ Gefangenen"
+      "gloss": "Gefangene"
     },
     {
       "surface": "ותחת",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הרוגים",
-      "gloss": "⟨den⟩ Erschlagenen"
+      "gloss": "Erschlagene"
     },
     {
       "surface": "יפלו",
-      "gloss": "fällt"
+      "gloss": "zu fallen"
     },
     {
       "surface": "בכל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "dem"
+      "gloss": "diesem"
     },
     {
       "surface": "לא",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "שב",
-      "gloss": "wandte sich ab"
+      "gloss": "kehrte um"
     },
     {
       "surface": "אפו",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "נטויה",
-      "gloss": "ist ausgestreckt"
+      "gloss": "ausgestreckt"
     }
   ],
-  "timestamp": "2026-08-06T08:50:40.223630388Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:03:06.642268212Z",
+  "model": "glm-5.3"
 }

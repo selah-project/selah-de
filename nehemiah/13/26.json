@@ -5,19 +5,19 @@
   "book": "nehemiah",
   "lang": "de",
   "chapter": 13,
-  "translation": "Haben ⟨nicht⟩ wegen dieser Dinge Schelomo gesündigt, der König von Jisra'el? Und unter den vielen Völkern war kein König wie er, und geliebt von seinem Elohim war er, und Elohim hatte ihn zum König über ganz Jisra'el eingesetzt. Auch ⟨אתו⟩ haben die fremden Frauen zur Sünde verführt.",
+  "translation": "Hat nicht um dieser Dinge willen Schelomo, der König von Jisraël, gesündigt? Und unter den vielen Nationen gab es keinen König wie ihn, und geliebt von seinem Elohim war er, und Elohim setzte ihn zum König über ganz Jisraël — dennoch ⟨את⟩ ihn brachten die ausländischen Frauen zur Sünde.",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "haben ⟨nicht⟩"
+      "gloss": "Hat nicht"
     },
     {
       "surface": "על",
-      "gloss": "wegen"
+      "gloss": "um … willen"
     },
     {
       "surface": "אלה",
-      "gloss": "dieser"
+      "gloss": "dieser Dinge"
     },
     {
       "surface": "חטא",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "von Jisra'el"
+      "gloss": "von Jisraël"
     },
     {
       "surface": "ובגוים",
-      "gloss": "und unter den Völkern"
+      "gloss": "und unter den Nationen"
     },
     {
       "surface": "הרבים",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "nicht"
+      "gloss": "keinen"
     },
     {
       "surface": "היה",
-      "gloss": "war"
+      "gloss": "gab es"
     },
     {
       "surface": "מלך",
-      "gloss": "ein König"
+      "gloss": "König"
     },
     {
       "surface": "כמהו",
-      "gloss": "wie er"
+      "gloss": "wie ihn"
     },
     {
       "surface": "ואהוב",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ויתנהו",
-      "gloss": "und eingesetzt hatte ihn"
+      "gloss": "und setzte ihn"
     },
     {
       "surface": "אלהים",
@@ -93,20 +93,20 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisra'el"
+      "gloss": "Jisraël"
     },
     {
       "surface": "גם",
-      "gloss": "auch"
+      "gloss": "dennoch, selbst"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨אתו⟩",
-      "marks": "auch ihn"
+      "gloss": "⟨את⟩",
+      "marks": "ihn (Schelomo)"
     },
     {
       "surface": "החטיאו",
-      "gloss": "haben verführt"
+      "gloss": "brachten zur Sünde"
     },
     {
       "surface": "הנשים",
@@ -114,9 +114,9 @@
     },
     {
       "surface": "הנכריות",
-      "gloss": "die fremden"
+      "gloss": "die ausländischen"
     }
   ],
-  "timestamp": "2026-08-06T07:19:18.547818712Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:10.885445306Z",
+  "model": "glm-5.3"
 }

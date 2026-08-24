@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 74,
-  "translation": "Unsere Zeichen haben wir nicht gesehen, ⟨es⟩ ist ⟨kein⟩ Nawi mehr, und keiner ist bei uns, ⟨der⟩ weiß, bis wann.",
+  "translation": "Unsere Zeichen haben wir nicht gesehen, ⟨es⟩ ist ⟨kein⟩ Nawi mehr, und keiner ⟨את⟩ ist bei uns, ⟨der⟩ weiß, bis wann.",
   "tokens": [
     {
       "surface": "אותתינו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "ist bei uns"
+      "gloss": "⟨את⟩ ist bei uns"
     },
     {
       "surface": "ידע",
@@ -52,6 +52,6 @@
       "gloss": "wann"
     }
   ],
-  "timestamp": "2026-08-05T22:54:28.472797718Z",
+  "timestamp": "2026-08-24T21:30:49.549464527Z",
   "model": "glm-5.2"
 }

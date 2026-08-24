@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 109,
-  "translation": "Und du, JHWH, Adonai, handle an mir um deines Namens willen, denn gut ⟨ist⟩ dein Chessed — rette mich!",
+  "translation": "Und du, JHWH, Adonai, handle ⟨את⟩ an mir um deines Namens willen, denn gut ⟨ist⟩ dein Chessed — rette mich!",
   "tokens": [
     {
       "surface": "ואתה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "an mir"
+      "gloss": "⟨את⟩ an mir"
     },
     {
       "surface": "למען",
@@ -52,6 +52,6 @@
       "gloss": "rette mich"
     }
   ],
-  "timestamp": "2026-08-05T23:02:37.470412163Z",
+  "timestamp": "2026-08-24T21:30:49.563011699Z",
   "model": "glm-5.2"
 }

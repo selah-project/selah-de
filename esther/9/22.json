@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "de",
   "chapter": 9,
-  "translation": "wie die Tage, an denen die Judäer von ihren Feinden zur Ruhe kamen, und der Monat, der sich ihnen wandelte von Kummer zu Freude und von Trauer zu einem guten Tag, um sie zu Tagen von Gelage und Freude zu machen und zum Senden von Portionen, jeder an seinen Nächsten, und Gaben an die Bedürftigen.",
+  "translation": "wie die Tage, an denen die Judäer von ihren Feinden zur Ruhe kamen, und der Monat, der sich ihnen wandelte von Kummer zu Freude und von Trauer zu einem guten Tag, um ⟨את⟩ sie zu Tagen von Gelage und Freude zu machen und zum Senden von Portionen, jeder an seinen Nächsten, und Gaben an die Bedürftigen.",
   "tokens": [
     {
       "surface": "כַּיָּמִ֗ים",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אוֹתָ֗ם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "יְמֵי֙",
@@ -112,6 +112,6 @@
       "gloss": "an die Bedürftigen"
     }
   ],
-  "timestamp": "2026-08-06T04:46:10.886145138Z",
+  "timestamp": "2026-08-24T21:30:49.295749210Z",
   "model": "glm-5.2"
 }

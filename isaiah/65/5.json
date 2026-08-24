@@ -5,69 +5,69 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 65,
-  "translation": "die da sagen: „Halte dich fern, nahe dich mir nicht, denn ich habe dich für heilig erklärt\", note: \"diesContinuing in the same tone: „diese sind Rauch in meiner Nase, ein Feuer, das den ganzen Tag brennt.“",
+  "translation": "die da sagen: „Halte dich fern, komm mir nicht nahe, denn ich bin heiliger als du.“ Diese ⟨sind⟩ Rauch in meiner Nase, ein Feuer, das den ganzen Tag brennt.",
   "tokens": [
     {
-      "surface": "הָאֹֽמְרִים֙",
+      "surface": "האמרים",
       "gloss": "die da sagen"
     },
     {
-      "surface": "קְרַ֣ב",
-      "gloss": "halte dich fern"
+      "surface": "קרב",
+      "gloss": "komm nahe"
     },
     {
-      "surface": "אֵלֶ֔יךָ",
-      "gloss": "(weg) von dir"
+      "surface": "אליך",
+      "gloss": "zu dir"
     },
     {
-      "surface": "אַל",
+      "surface": "אל",
       "gloss": "nicht"
     },
     {
-      "surface": "תִּגַּשׁ",
-      "gloss": "nahe dich"
+      "surface": "תגש",
+      "gloss": "trat heran"
     },
     {
-      "surface": "בִּ֖י",
-      "gloss": "mir"
+      "surface": "בי",
+      "gloss": "an mich"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "gloss": "denn"
     },
     {
-      "surface": "קְדַשְׁתִּ֑יךָ",
-      "gloss": "ich habe dich für heilig erklärt"
+      "surface": "קדשתיך",
+      "gloss": "ich bin heiliger als du"
     },
     {
-      "surface": "אֵ֚לֶּה",
+      "surface": "אלה",
       "gloss": "diese"
     },
     {
-      "surface": "עָשָׁ֣ן",
+      "surface": "עשן",
       "gloss": "Rauch"
     },
     {
-      "surface": "בְּאַפִּ֔י",
+      "surface": "באפי",
       "gloss": "in meiner Nase"
     },
     {
-      "surface": "אֵ֥שׁ",
+      "surface": "אש",
       "gloss": "ein Feuer"
     },
     {
-      "surface": "יֹקֶ֖דֶת",
+      "surface": "יקדת",
       "gloss": "das brennt"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "den ganzen"
     },
     {
-      "surface": "הַיּֽוֹם",
+      "surface": "היום",
       "gloss": "Tag"
     }
   ],
-  "timestamp": "2026-08-06T22:43:28.092941502Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:51.723378208Z",
+  "model": "glm-5.3"
 }

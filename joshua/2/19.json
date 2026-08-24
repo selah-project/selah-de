@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "de",
   "chapter": 2,
-  "translation": "Und ⟨es⟩ wird sein: Jeder, der aus den Türen deines Hauses nach draußen hinausgeht — ⟨dessen⟩ Blut ⟨ist⟩ auf seinem Kopf, und wir ⟨sind⟩ rein. Und jeder, der mit dir im Haus ist — ⟨dessen⟩ Blut ⟨ist⟩ auf unserem Kopf, wenn eine Hand an ihm ⟨ist⟩.",
+  "translation": "Und ⟨es⟩ wird sein: Jeder, der aus den Türen deines Hauses nach draußen hinausgeht — ⟨dessen⟩ Blut ⟨ist⟩ auf seinem Kopf, und wir ⟨sind⟩ rein. Und jeder, der ⟨את⟩ mit dir im Haus ist — ⟨dessen⟩ Blut ⟨ist⟩ auf unserem Kopf, wenn eine Hand an ihm ⟨ist⟩.",
   "tokens": [
     {
       "surface": "והיה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "mit dir"
+      "gloss": "⟨את⟩ mit dir"
     },
     {
       "surface": "בבית",
@@ -96,6 +96,6 @@
       "gloss": "an ihm"
     }
   ],
-  "timestamp": "2026-08-05T20:53:33.748624239Z",
+  "timestamp": "2026-08-24T21:30:50.275770179Z",
   "model": "glm-5.2"
 }

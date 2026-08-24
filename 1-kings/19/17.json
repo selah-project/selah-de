@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 19,
-  "translation": "Und es wird geschehen: ⟨wer⟩ dem Schwert Chazaels entronnen ⟨ist⟩, den wird Jehu töten, und ⟨wer⟩ dem Schwert Jehus entronnen ⟨ist⟩, den wird Elischа töten.",
+  "translation": "Und es wird geschehen: Wer dem Schwert Chazaels entrinnt, den wird Jihu töten; und wer dem Schwert Jihus entrinnt, den wird Elischua töten.",
   "tokens": [
     {
       "surface": "והיה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "הנמלט",
-      "gloss": "der Entronnene"
+      "gloss": "Wer entrinnt"
     },
     {
       "surface": "מחרב",
-      "gloss": "vor dem Schwert"
+      "gloss": "dem Schwert"
     },
     {
       "surface": "חזאל",
-      "gloss": "Chazael"
+      "gloss": "Chazaels"
     },
     {
       "surface": "ימית",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "יהוא",
-      "gloss": "Jehu"
+      "gloss": "Jihu"
     },
     {
       "surface": "והנמלט",
-      "gloss": "und der Entronnene"
+      "gloss": "und wer entrinnt"
     },
     {
       "surface": "מחרב",
-      "gloss": "vor dem Schwert"
+      "gloss": "dem Schwert"
     },
     {
       "surface": "יהוא",
-      "gloss": "Jehu"
+      "gloss": "Jihus"
     },
     {
       "surface": "ימית",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "Elischa"
+      "gloss": "Elischua"
     }
   ],
-  "timestamp": "2026-08-06T01:28:45.299036649Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:41.859864195Z",
+  "model": "glm-5.3"
 }

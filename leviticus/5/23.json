@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 5,
-  "translation": "und es geschieht, wenn er gesündigt hat und schuldig geworden ist, dass er zurückgibt ⟨את⟩ das Geraubte, das er geraubt hat, oder ⟨את⟩ das Ausgepresste, das er ausgepresst hat, oder ⟨את⟩ das Hinterlegte, das ihm hinterlegt wurde, oder ⟨את⟩ das Verlorene, das er gefunden hat —",
+  "translation": "und es geschieht, wenn er gesündigt hat und schuldig geworden ist, dass er zurückgibt ⟨את⟩ das Geraubte, das er geraubt hat, oder ⟨את⟩ das Ausgepresste, das er ausgepresst hat, oder ⟨את⟩ das Hinterlegte, das ⟨את⟩ ihm hinterlegt wurde, oder ⟨את⟩ das Verlorene, das er gefunden hat —",
   "tokens": [
     {
       "surface": "והיה",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihm"
+      "gloss": "⟨את⟩ ihm"
     },
     {
       "surface": "או",
@@ -112,6 +112,6 @@
       "gloss": "er gefunden hat"
     }
   ],
-  "timestamp": "2026-08-05T20:19:34.961165789Z",
+  "timestamp": "2026-08-24T21:30:50.044652718Z",
   "model": "glm-5.2"
 }

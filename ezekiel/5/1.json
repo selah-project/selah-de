@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 5,
-  "translation": "Und du, Menschensohn, nimm dir eine scharfe Klinge, ⟨als⟩ Rasiermesser der Scherer, nimm sie dir, und führe sie über deinen Kopf und über deinen Bart, und nimm dir Waage〈gewichte〉 und teile sie.",
+  "translation": "Und du, Menschensohn, nimm dir ein scharfes Schwert — als Barbiermesser nimm es dir — und fahre damit über dein Haupt und über deinen Bart; dann nimm dir Waagen zum Abwiegen und teile ⟨das Haar⟩.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "⟨von⟩ Mensch"
+      "gloss": "Mensch"
     },
     {
       "surface": "קח",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "חרב",
-      "gloss": "⟨eine⟩ Klinge"
+      "gloss": "Schwert"
     },
     {
       "surface": "חדה",
-      "gloss": "scharfe"
+      "gloss": "scharfes"
     },
     {
       "surface": "תער",
-      "gloss": "Rasiermesser"
+      "gloss": "Barbiermesser"
     },
     {
       "surface": "הגלבים",
-      "gloss": "der Scherer"
+      "gloss": "des Barbiers"
     },
     {
       "surface": "תקחנה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "dir"
+      "gloss": "es dir"
     },
     {
       "surface": "והעברת",
-      "gloss": "und führe"
+      "gloss": "und fahre"
     },
     {
       "surface": "על",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ראשך",
-      "gloss": "deinen Kopf"
+      "gloss": "dein Haupt"
     },
     {
       "surface": "ועל",
@@ -81,17 +81,17 @@
     },
     {
       "surface": "מאזני",
-      "gloss": "Waage"
+      "gloss": "Waagen"
     },
     {
       "surface": "משקל",
-      "gloss": "Gewichte"
+      "gloss": "zum Abwiegen"
     },
     {
       "surface": "וחלקתם",
       "gloss": "und teile sie"
     }
   ],
-  "timestamp": "2026-08-06T09:01:54.991018376Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:28.365541740Z",
+  "model": "glm-5.3"
 }

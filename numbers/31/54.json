@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 31,
-  "translation": "Und Mosche nahm ⟨את⟩ das Gold, und Elasar der Kohen ⟨nahm es⟩ von den Befehlshabern der Tausende und der Hunderde, und sie brachten es zum Zelt der Begegnung, ein Gedächtnis für die Söhne Jisraels, vor JHWH.",
+  "translation": "Und Mosche nahm ⟨את⟩ das Gold, und Elasar der Kohen ⟨nahm es⟩ ⟨את⟩ von den Befehlshabern der Tausende und der Hunderde, und sie brachten es zum Zelt der Begegnung, ein Gedächtnis für die Söhne Jisraels, vor JHWH.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von"
+      "gloss": "⟨את⟩ von"
     },
     {
       "surface": "שרי",
@@ -90,6 +90,6 @@
       "gloss": "JHWH"
     }
   ],
-  "timestamp": "2026-08-06T00:40:13.801808190Z",
+  "timestamp": "2026-08-24T21:30:50.237746812Z",
   "model": "glm-5.2"
 }

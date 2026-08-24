@@ -5,66 +5,66 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 19,
-  "translation": "Und deinen Weinberg sollst du nicht abbeernten, und die Nachlese deines Weinbergs sollst du nicht nachlesen — dem Armen und dem Fremdling sollst du sie ⟨אתם⟩ überlassen. Ich bin JHWH, euer Elohim.",
+  "translation": "Und deinen Weinberg sollst du nicht absuchen, und die Nachlese deines Weinbergs sollst du nicht einsammeln — dem Armen und dem Fremdling sollst du sie ⟨את⟩ lassen. Ich ⟨bin⟩ JHWH, dein Elohim.",
   "tokens": [
     {
-      "surface": "וְכַרְמְךָ֙",
+      "surface": "וכרמך",
       "gloss": "Und deinen Weinberg"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "תְעוֹלֵ֔ל",
-      "gloss": "sollst du abbeernten"
+      "surface": "תעולל",
+      "gloss": "sollst du absuchen"
     },
     {
-      "surface": "וּפֶ֥רֶט",
+      "surface": "ופרט",
       "gloss": "und die Nachlese"
     },
     {
-      "surface": "כַּרְמְךָ֖",
+      "surface": "כרמך",
       "gloss": "deines Weinbergs"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "תְלַקֵּ֑ט",
-      "gloss": "sollst du nachlesen"
+      "surface": "תלקט",
+      "gloss": "sollst du einsammeln"
     },
     {
-      "surface": "לֶֽעָנִ֤י",
+      "surface": "לעני",
       "gloss": "dem Armen"
     },
     {
-      "surface": "וְלַגֵּר֙",
+      "surface": "ולגר",
       "gloss": "und dem Fremdling"
     },
     {
-      "surface": "תַּעֲזֹ֣ב",
-      "gloss": "sollst du überlassen"
+      "surface": "תעזב",
+      "gloss": "sollst du lassen"
     },
     {
-      "surface": "אֹתָ֔ם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sie (die Teile der Ernte)"
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
     },
     {
-      "surface": "אֲנִ֖י",
+      "surface": "אני",
       "gloss": "Ich"
     },
     {
-      "surface": "יְהוָ֥ה",
-      "gloss": "bin JHWH"
+      "surface": "יהוה",
+      "gloss": "JHWH"
     },
     {
-      "surface": "אֱלֹהֵיכֶֽם",
+      "surface": "אלהיכם",
       "gloss": "euer Elohim"
     }
   ],
-  "timestamp": "2026-08-05T20:25:41.739013203Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:10.858971754Z",
+  "model": "glm-5.3"
 }

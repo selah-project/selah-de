@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 23,
-  "translation": "Und er kam zu ihm, und siehe, er ⟨stand⟩ bei seiner Ola, und die Sare von Moaw ⟨waren⟩ bei ihm. Und Balak sprach zu ihm: „Was hat JHWH geredet?\"",
+  "translation": "Und er kam zu ihm, und siehe, er ⟨stand⟩ bei seiner Ola, und die Sare von Moaw ⟨waren⟩ ⟨את⟩ bei ihm. Und Balak sprach zu ihm: „Was hat JHWH geredet?\"",
   "tokens": [
     {
       "surface": "ויבא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bei ihm"
+      "gloss": "⟨את⟩ bei ihm"
     },
     {
       "surface": "ויאמר",
@@ -68,6 +68,6 @@
       "gloss": "JHWH"
     }
   ],
-  "timestamp": "2026-08-06T22:33:35.589033303Z",
+  "timestamp": "2026-08-24T21:30:50.209521682Z",
   "model": "glm-5.2"
 }

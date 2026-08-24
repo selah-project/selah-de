@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 10,
-  "translation": "Nicht so! Geht nun, ⟨ihr⟩ Männer, und dient ⟨את⟩ JHWH, denn das ist es, was ihr sucht. Und ⟨er⟩ trieb sie weg vom Angesicht des Paro.",
+  "translation": "Nicht so! Geht nun, ⟨ihr⟩ Männer, und dient ⟨את⟩ JHWH, denn ⟨את⟩ das ist es, was ihr sucht. Und ⟨er⟩ trieb ⟨את⟩ sie weg vom Angesicht des Paro.",
   "tokens": [
     {
       "surface": "לֹ֣א",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אֹתָ֖הּ",
-      "gloss": "das",
+      "gloss": "⟨את⟩ das",
       "marks": "ihr"
     },
     {
@@ -63,12 +63,12 @@
     },
     {
       "surface": "אֹתָ֔ם",
-      "gloss": "sie",
+      "gloss": "⟨את⟩ sie",
       "marks": "sie"
     },
     {
       "surface": "מֵאֵ֖ת",
-      "gloss": "weg von"
+      "gloss": "⟨את⟩ weg von"
     },
     {
       "surface": "פְּנֵ֥י",
@@ -79,6 +79,6 @@
       "gloss": "Paro"
     }
   ],
-  "timestamp": "2026-08-06T00:14:46.425310167Z",
+  "timestamp": "2026-08-24T21:30:49.575882351Z",
   "model": "glm-5.2"
 }

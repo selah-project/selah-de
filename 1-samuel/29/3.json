@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 29,
-  "translation": "Und die Fürsten der Pelischtim sagten: Was ⟨tun⟩ diese Hebräer ⟨hier⟩? Und Akisch sagte zu den Fürsten der Pelischtim: Ist das nicht Dawid, der Knecht Schauls, des Königs von Jisraël, der bei mir war, dies Tage oder dies Jahre, und ich habe in ihm nichts gefunden, vom Tag seines Kommens bis zu diesem Tag?",
+  "translation": "Und die Fürsten der Pelischtim sagten: Was ⟨tun⟩ diese Hebräer ⟨hier⟩? Und Akisch sagte zu den Fürsten der Pelischtim: Ist das nicht Dawid, der Knecht Schauls, des Königs von Jisraël, der ⟨את⟩ bei mir war, dies Tage oder dies Jahre, und ich habe in ihm nichts gefunden, vom Tag seines Kommens bis zu diesem Tag?",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bei mir"
+      "gloss": "⟨את⟩ bei mir"
     },
     {
       "surface": "זה",
@@ -148,6 +148,6 @@
       "gloss": "diesem"
     }
   ],
-  "timestamp": "2026-08-06T22:38:14.326799424Z",
+  "timestamp": "2026-08-24T21:30:49.749569297Z",
   "model": "glm-5.2"
 }

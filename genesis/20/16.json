@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 20,
-  "translation": "Und zu Sara sprach er: „Siehe, ich habe tausend Silber ⟨deinem⟩ Bruder gegeben. Siehe, es ⟨ist⟩ dir eine Augenbinde für alle, die bei dir sind.“ Und ⟨את⟩ alles ⟨wurde⟩ zurechtgewiesen.",
+  "translation": "Und zu Sara sprach er: „Siehe, ich habe tausend Silber ⟨deinem⟩ Bruder gegeben. Siehe, es ⟨ist⟩ dir eine Augenbinde für alle, die ⟨את⟩ bei dir sind.“ Und ⟨את⟩ alles ⟨wurde⟩ zurechtgewiesen.",
   "tokens": [
     {
       "surface": "ולשרה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bei dir sind"
+      "gloss": "⟨את⟩ bei dir sind"
     },
     {
       "surface": "ואת",
@@ -81,6 +81,6 @@
       "gloss": "und ⟨wurde⟩ zurechtgewiesen"
     }
   ],
-  "timestamp": "2026-08-06T00:05:42.840024804Z",
+  "timestamp": "2026-08-24T21:30:49.202832432Z",
   "model": "glm-5.2"
 }

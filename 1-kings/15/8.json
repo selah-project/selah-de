@@ -5,58 +5,58 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 15,
-  "translation": "Und Awijam legte sich zu seinen Vätern, und sie begruben ⟨את ihn⟩ in der Stadt Dawids, und Asa, sein Sohn, wurde König an seiner Stelle.",
+  "translation": "Und Awijam legte sich zu seinen Vätern, und man begrub ihn in der Stadt Dawids; und Asa, sein Sohn, wurde König an seiner Stelle.",
   "tokens": [
     {
-      "surface": "וַיִּשְׁכַּ֤ב",
-      "gloss": "Und er legte sich"
+      "surface": "וישכב",
+      "gloss": "legte sich"
     },
     {
-      "surface": "אֲבִיָּם֙",
+      "surface": "אבים",
       "gloss": "Awijam"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "zu"
     },
     {
-      "surface": "אֲבֹתָ֔יו",
+      "surface": "אבתיו",
       "gloss": "seinen Vätern"
     },
     {
-      "surface": "וַיִּקְבְּר֥וּ",
-      "gloss": "und sie begraben"
+      "surface": "ויקברו",
+      "gloss": "und man begrub"
     },
     {
-      "surface": "אֹת֖וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ihn"
+      "marks": "ihn (Awijam)"
     },
     {
-      "surface": "בְּעִ֣יר",
+      "surface": "בעיר",
       "gloss": "in der Stadt"
     },
     {
-      "surface": "דָּוִ֑ד",
+      "surface": "דוד",
       "gloss": "Dawids"
     },
     {
-      "surface": "וַיִּמְלֹ֛ךְ",
-      "gloss": "und er wurde König"
+      "surface": "וימלך",
+      "gloss": "und wurde König"
     },
     {
-      "surface": "אָסָ֥א",
+      "surface": "אסא",
       "gloss": "Asa"
     },
     {
-      "surface": "בְנ֖וֹ",
+      "surface": "בנו",
       "gloss": "sein Sohn"
     },
     {
-      "surface": "תַּחְתָּֽיו",
+      "surface": "תחתיו",
       "gloss": "an seiner Stelle"
     }
   ],
-  "timestamp": "2026-08-06T05:50:59.812149533Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:47.313393129Z",
+  "model": "glm-5.3"
 }

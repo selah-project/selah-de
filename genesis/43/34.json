@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 43,
-  "translation": "Und er hob Portionen ⟨hervor⟩ von ⟨מאת⟩ seinem Angesicht zu ihnen, und es wurde groß die Portion Binjamins gegenüber den Portionen aller — fünf Hände — und sie tranken und tranken sich ⟨in⟩ Fülle mit ihm.",
+  "translation": "Und er hob Portionen ⟨את⟩ vor seinem Angesicht zu ihnen empor, und die Portion Binjamins wurde größer als die Portionen aller anderen, fünf Handbreit, und sie tranken und wurden trunken mit ihm.",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "und er hob"
+      "gloss": "und er hob empor"
     },
     {
       "surface": "משאת",
@@ -17,11 +17,12 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨מאת⟩"
+      "gloss": "⟨את⟩",
+      "marks": "Portionen"
     },
     {
       "surface": "פניו",
-      "gloss": "von seinem Angesicht"
+      "gloss": "vor seinem Angesicht"
     },
     {
       "surface": "אלהם",
@@ -29,7 +30,7 @@
     },
     {
       "surface": "ותרב",
-      "gloss": "und es wurde groß"
+      "gloss": "und wurde größer"
     },
     {
       "surface": "משאת",
@@ -41,11 +42,11 @@
     },
     {
       "surface": "ממשאת",
-      "gloss": "gegenüber den Portionen"
+      "gloss": "als die Portionen"
     },
     {
       "surface": "כלם",
-      "gloss": "aller"
+      "gloss": "von allen"
     },
     {
       "surface": "חמש",
@@ -53,7 +54,7 @@
     },
     {
       "surface": "ידות",
-      "gloss": "Hände"
+      "gloss": "Handbreit"
     },
     {
       "surface": "וישתו",
@@ -61,13 +62,13 @@
     },
     {
       "surface": "וישכרו",
-      "gloss": "und tranken sich ⟨in⟩ Fülle"
+      "gloss": "wurden trunken"
     },
     {
       "surface": "עמו",
       "gloss": "mit ihm"
     }
   ],
-  "timestamp": "2026-08-05T17:40:54.137875426Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:12.730436672Z",
+  "model": "glm-5.3"
 }

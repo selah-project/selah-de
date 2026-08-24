@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 13,
-  "translation": "Und Mosche sandte sie aus, um ⟨את⟩ das Land Kenaan zu erkunden, und er sprach zu ihnen: „Zieht hier hinauf durch den Negew, und ihr werdet ⟨את⟩ den Berg hinaufsteigen.“",
+  "translation": "Und Mosche sandte ⟨את⟩ sie aus, um ⟨את⟩ das Land Kenaan zu erkunden, und er sprach zu ihnen: „Zieht hier hinauf durch den Negew, und ihr werdet ⟨את⟩ den Berg hinaufsteigen.“",
   "tokens": [
     {
       "surface": "וישלח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "משה",
@@ -70,6 +70,6 @@
       "gloss": "den Berg"
     }
   ],
-  "timestamp": "2026-08-05T20:33:30.540301090Z",
+  "timestamp": "2026-08-24T21:30:50.227455342Z",
   "model": "glm-5.2"
 }

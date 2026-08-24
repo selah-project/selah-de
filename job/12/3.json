@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "de",
   "chapter": 12,
-  "translation": "Auch mir ⟨gehört⟩ ein Herz wie euch, ich falle nicht hinter euch zurück, und ⟨bei⟩ ⟨wem⟩ gibt es ⟨nicht⟩ Solches wie diese Dinge?",
+  "translation": "Auch mir ⟨gehört⟩ ein Herz wie euch, ich falle nicht hinter euch zurück, ⟨את⟩ und ⟨bei⟩ ⟨wem⟩ gibt es ⟨nicht⟩ Solches wie diese Dinge?",
   "tokens": [
     {
       "surface": "גם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "und ⟨bei⟩"
+      "gloss": "⟨את⟩ und ⟨bei⟩"
     },
     {
       "surface": "מי",
@@ -60,6 +60,6 @@
       "gloss": "diese Dinge"
     }
   ],
-  "timestamp": "2026-08-05T23:17:59.064866563Z",
+  "timestamp": "2026-08-24T21:30:49.669742669Z",
   "model": "glm-5.2"
 }

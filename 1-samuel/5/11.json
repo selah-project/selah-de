@@ -5,133 +5,132 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 5,
-  "translation": "Und sie sandten hin und versammelten ⟨את⟩ alle Fürsten der Pelischtim, und sie sagten: „Sendet ⟨⟨את⟩⟩ die Lade des Elohim von Jisra'el zurück, und ⟨sie⟩ möge zurückkehren an ihren Ort, und ⟨er⟩ töte nicht mich ⟨את⟩ und ⟨את⟩ mein Volk.\" Denn ⟨es⟩ war eine Todesverwirrung in der ganzen Stadt, sehr schwer ⟨war⟩ die Hand des Elohim dort.",
+  "translation": "Da sandten sie hin und versammelten alle Serene der Pelischtim, und sie sprachen: „Schickt ⟨את⟩ die Lade des Elohim Israels zurück, damit sie an ihren Ort zurückkehrt und mich nicht tötet ⟨את⟩ mich und ⟨את⟩ mein Volk; denn es war eine Todesverwirrung in der ganzen Stadt, sehr schwer — die Hand Elohims war dort.“",
   "tokens": [
     {
-      "surface": "וַיִּשְׁלְחוּ",
-      "gloss": "Und sie sandten hin"
+      "surface": "וישלחו",
+      "gloss": "da sandten sie hin"
     },
     {
-      "surface": "וַיַּאַסְפוּ",
+      "surface": "ויאספו",
       "gloss": "und versammelten"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alle"
+      "marks": "alle Serene der Pelischtim"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "alle"
     },
     {
-      "surface": "סַרְנֵי",
-      "gloss": "Fürsten"
+      "surface": "סרני",
+      "gloss": "Serene (Fürsten)"
     },
     {
-      "surface": "פְּלִשְׁתִּים",
+      "surface": "פלשתים",
       "gloss": "der Pelischtim"
     },
     {
-      "surface": "וַיֹּאמְרוּ",
-      "gloss": "und sie sagten"
+      "surface": "ויאמרו",
+      "gloss": "und sie sprachen"
     },
     {
-      "surface": "שַׁלְּחוּ",
-      "gloss": "Sendet"
+      "surface": "שלחו",
+      "gloss": "schickt"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "die Lade"
+      "marks": "die Lade des Elohim Israels"
     },
     {
-      "surface": "אֲרוֹן",
+      "surface": "ארון",
       "gloss": "die Lade"
     },
     {
-      "surface": "אֱלֹהֵי",
+      "surface": "אלהי",
       "gloss": "des Elohim"
     },
     {
-      "surface": "יִשְׂרָאֵל",
-      "gloss": "von Jisra'el"
+      "surface": "ישראל",
+      "gloss": "Israels"
     },
     {
-      "surface": "וְיָשֹׁב",
-      "gloss": "und ⟨sie⟩ möge zurückkehren"
+      "surface": "וישב",
+      "gloss": "damit sie zurückkehrt"
     },
     {
-      "surface": "לִמְקֹמוֹ",
+      "surface": "למקמו",
       "gloss": "an ihren Ort"
     },
     {
-      "surface": "וְלֹא",
+      "surface": "ולא",
       "gloss": "und nicht"
     },
     {
-      "surface": "יָמִית",
-      "gloss": "⟨er⟩ töte"
+      "surface": "ימית",
+      "gloss": "tötet"
     },
     {
-      "surface": "אֹתִי",
-      "gloss": "⟨את⟩",
-      "marks": "mich"
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mich"
     },
     {
-      "surface": "וְאֶת",
-      "gloss": "⟨את⟩",
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mein Volk",
       "marks": "mein Volk"
     },
     {
-      "surface": "עַמִּי",
-      "gloss": "mein Volk"
+      "surface": "כי",
+      "gloss": "denn"
     },
     {
-      "surface": "כִּי",
-      "gloss": "Denn"
+      "surface": "היתה",
+      "gloss": "es war"
     },
     {
-      "surface": "הָיְתָה",
-      "gloss": "war"
-    },
-    {
-      "surface": "מְהוּמַת",
+      "surface": "מהומת",
       "gloss": "eine Verwirrung"
     },
     {
-      "surface": "מָוֶת",
-      "gloss": "(des) Todes"
+      "surface": "מות",
+      "gloss": "Todes-"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בכל",
       "gloss": "in der ganzen"
     },
     {
-      "surface": "הָעִיר",
+      "surface": "העיר",
       "gloss": "Stadt"
     },
     {
-      "surface": "כָּבְדָה",
-      "gloss": "sehr schwer"
+      "surface": "כבדה",
+      "gloss": "schwer"
     },
     {
-      "surface": "מְאֹד",
+      "surface": "מאד",
       "gloss": "sehr"
     },
     {
-      "surface": "יַד",
+      "surface": "יד",
       "gloss": "die Hand"
     },
     {
-      "surface": "הָאֱלֹהִים",
-      "gloss": "des Elohim"
+      "surface": "האלהים",
+      "gloss": "Elohims"
     },
     {
-      "surface": "שָׁם",
-      "gloss": "dort"
+      "surface": "שם",
+      "gloss": "war dort"
     }
   ],
-  "timestamp": "2026-08-06T22:36:49.380131018Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:13.258657539Z",
+  "model": "glm-5.3"
 }

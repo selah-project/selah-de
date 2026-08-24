@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 22,
-  "translation": "Und Schaul hörte, dass Dawid bekannt geworden ⟨war⟩ und die Männer, die bei ihm ⟨waren⟩. Und Schaul saß in Giv'a unter der Tamariske auf ⟨der⟩ Höhe, und sein Speer ⟨war⟩ in seiner Hand, und alle seine Knechte standen um ihn.",
+  "translation": "Und Schaul hörte, dass Dawid bekannt geworden ⟨war⟩ und die Männer, die ⟨את⟩ bei ihm ⟨waren⟩. Und Schaul saß in Giv'a unter der Tamariske auf ⟨der⟩ Höhe, und sein Speer ⟨war⟩ in seiner Hand, und alle seine Knechte standen um ihn.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bei ihm"
+      "gloss": "⟨את⟩ bei ihm"
     },
     {
       "surface": "ושאול",
@@ -88,6 +88,6 @@
       "gloss": "um ihn"
     }
   ],
-  "timestamp": "2026-08-05T21:13:51.569983896Z",
+  "timestamp": "2026-08-24T21:30:49.747186689Z",
   "model": "glm-5.2"
 }

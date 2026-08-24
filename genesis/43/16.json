@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 43,
-  "translation": "Und Josef sah sie, ⟨את⟩ Binjamin ⟨mit ihnen⟩, und er sprach zu ⟨dem, der⟩ über seinem Haus ⟨ist⟩: „Bring ⟨את⟩ die Männer ⟨ins⟩ Haus, und schlachte ein Schlachttier und bereite ⟨es⟩ zu, denn ⟨mit⟩ mir werden die Männer essen am Mittag.“",
+  "translation": "Und Josef sah sie, ⟨את⟩ Binjamin ⟨את⟩ ⟨mit ihnen⟩, und er sprach zu ⟨dem, der⟩ über seinem Haus ⟨ist⟩: „Bring ⟨את⟩ die Männer ⟨ins⟩ Haus, und schlachte ein Schlachttier und bereite ⟨es⟩ zu, denn ⟨את⟩ ⟨mit⟩ mir werden die Männer essen am Mittag.“",
   "tokens": [
     {
       "surface": "וירא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨mit ihnen⟩"
+      "gloss": "⟨את⟩ ⟨mit ihnen⟩"
     },
     {
       "surface": "את",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨mit⟩ mir"
+      "gloss": "⟨את⟩ ⟨mit⟩ mir"
     },
     {
       "surface": "יאכלו",
@@ -94,6 +94,6 @@
       "gloss": "am Mittag"
     }
   ],
-  "timestamp": "2026-08-06T05:12:40.864746093Z",
+  "timestamp": "2026-08-24T21:30:49.283799996Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 6,
-  "translation": "Und dies ist die Weisung, die Bestimmungen und die Rechtsordnungen, die JHWH, euer Elohim, ⟨mich⟩ beauftragt hat, euch zu lehren, ⟨um⟩ zu tun ⟨im⟩ Land, das ihr hinüberzieht, dorthin, um es in Besitz zu nehmen —",
+  "translation": "Und dies ist die Weisung, die Bestimmungen und die Rechtsordnungen, die JHWH, euer Elohim, ⟨mich⟩ beauftragt hat, ⟨את⟩ euch zu lehren, ⟨um⟩ zu tun ⟨im⟩ Land, das ihr hinüberzieht, dorthin, um es in Besitz zu nehmen —",
   "tokens": [
     {
       "surface": "וזאת",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "לעשות",
@@ -76,6 +76,6 @@
       "gloss": "um es in Besitz zu nehmen"
     }
   ],
-  "timestamp": "2026-08-05T20:44:19.823471713Z",
+  "timestamp": "2026-08-24T21:30:49.828364353Z",
   "model": "glm-5.2"
 }

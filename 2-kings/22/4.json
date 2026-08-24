@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 22,
-  "translation": "„Steige hinauf zu Chilkijahu, dem Kohen, dem Großen, und ⟨er⟩ soll ⟨את⟩ das Silber vollzählig machen, ⟨das⟩ ins Haus JHWHs gebracht worden ist, das die Hüter der Schwelle vom Volk gesammelt haben.",
+  "translation": "„Steige hinauf zu Chilkijahu, dem Kohen, dem Großen, und ⟨er⟩ soll ⟨את⟩ das Silber vollzählig machen, ⟨das⟩ ins Haus JHWHs gebracht worden ist, das die Hüter der Schwelle ⟨את⟩ vom Volk gesammelt haben.",
   "tokens": [
     {
       "surface": "עלה",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "מאת",
-      "gloss": "vom"
+      "gloss": "⟨את⟩ vom"
     },
     {
       "surface": "העם",
       "gloss": "Volk"
     }
   ],
-  "timestamp": "2026-08-06T01:37:08.100247059Z",
+  "timestamp": "2026-08-24T21:30:49.980212821Z",
   "model": "glm-5.2"
 }

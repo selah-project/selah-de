@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 59,
-  "translation": "Denn zahlreich sind unsere Abfälle, ⟨vor⟩ dir, und unsere Verfehlungen, sie antworten auf uns; denn unsere Abfälle sind bei uns, und unsere Schuld — wir kennen sie.",
+  "translation": "Denn zahlreich sind unsere Abfälle, ⟨vor⟩ dir, und unsere Verfehlungen, sie antworten auf uns; denn unsere Abfälle ⟨את⟩ sind bei uns, und unsere Schuld — wir kennen sie.",
   "tokens": [
     {
       "surface": "כי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "sind bei uns"
+      "gloss": "⟨את⟩ sind bei uns"
     },
     {
       "surface": "ועונתינו",
@@ -56,6 +56,6 @@
       "gloss": "wir kennen sie"
     }
   ],
-  "timestamp": "2026-08-05T21:56:19.324284890Z",
+  "timestamp": "2026-08-24T21:30:50.125883797Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 23,
-  "translation": "Denn sie haben Ehebruch gebrochen, und Blut ⟨ist⟩ an ihren Händen, und ⟨mit⟩ ihren Götzenlogen haben sie Ehebruch gebrochen, und auch ⟨את⟩ ihre Söhne, die sie mir geboren haben, haben sie ihnen durchgehen lassen zum Verzehren.",
+  "translation": "Denn sie haben Ehebruch gebrochen, und Blut ⟨ist⟩ an ihren Händen, ⟨את⟩ und ⟨mit⟩ ihren Götzenlogen haben sie Ehebruch gebrochen, und auch ⟨את⟩ ihre Söhne, die sie mir geboren haben, haben sie ihnen durchgehen lassen zum Verzehren.",
   "tokens": [
     {
       "surface": "כִּ֣י",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וְאֶת",
-      "gloss": "und ⟨mit⟩"
+      "gloss": "⟨את⟩ und ⟨mit⟩"
     },
     {
       "surface": "גִּלּֽוּלֵיהֶ֖ן",
@@ -73,6 +73,6 @@
       "gloss": "zum Verzehren"
     }
   ],
-  "timestamp": "2026-08-05T22:21:59.718047140Z",
+  "timestamp": "2026-08-24T21:30:49.875055661Z",
   "model": "glm-5.2"
 }

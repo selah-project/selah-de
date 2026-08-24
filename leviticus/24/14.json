@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 24,
-  "translation": "Führe ⟨את⟩ den Lästerer hinaus, nach draußen zum Lager, und alle, die es gehört haben, sollen ihre Hände auf seinen Kopf legen, und ⟨die⟩ ganze Versammlung soll ihn steinigen.",
+  "translation": "Führe ⟨את⟩ den Lästerer hinaus, nach draußen zum Lager, und alle, die es gehört haben, sollen ihre Hände auf seinen Kopf legen, und ⟨die⟩ ganze Versammlung soll ⟨את⟩ ihn steinigen.",
   "tokens": [
     {
       "surface": "הוֹצֵא",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "אֹתוֹ",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "כָּל",
@@ -78,6 +78,6 @@
       "gloss": "Versammlung"
     }
   ],
-  "timestamp": "2026-08-06T00:29:18.191455088Z",
+  "timestamp": "2026-08-24T21:30:50.115710067Z",
   "model": "glm-5.2"
 }

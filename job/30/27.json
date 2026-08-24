@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "de",
   "chapter": 30,
-  "translation": "Mein Inneres kochte und ⟨es⟩ ruhte nicht; ⟨es⟩ kam mir zuvor die Tage meines Elends.",
+  "translation": "Mein Inneres kocht und kommt nicht zur Ruhe; Tage meines Elends sind mir zuvorgekommen.",
   "tokens": [
     {
       "surface": "מעי",
@@ -13,29 +13,29 @@
     },
     {
       "surface": "רתחו",
-      "gloss": "kochte"
+      "gloss": "kochen"
     },
     {
       "surface": "ולא",
-      "gloss": "und ⟨es⟩ ruhte nicht"
+      "gloss": "und nicht"
     },
     {
       "surface": "דמו",
-      "gloss": "⟨leer — in Verbindung mit ולא als „und ruhte nicht\" aufgelöst⟩"
+      "gloss": "zur Ruhe kommen"
     },
     {
       "surface": "קדמני",
-      "gloss": "kam mir zuvor"
+      "gloss": "sind mir zuvorgekommen"
     },
     {
       "surface": "ימי",
-      "gloss": "die Tage"
+      "gloss": "Tage"
     },
     {
       "surface": "עני",
       "gloss": "meines Elends"
     }
   ],
-  "timestamp": "2026-08-06T04:36:22.781307175Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:12:53.806881871Z",
+  "model": "glm-5.3"
 }

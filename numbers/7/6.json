@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 7,
-  "translation": "Und Mosche nahm ⟨את⟩ die Wagen und ⟨את⟩ das Rindvieh, und er gab sie den Lewiim.",
+  "translation": "Und Mosche nahm ⟨את⟩ die Wagen und ⟨את⟩ das Rindvieh, und er gab ⟨את⟩ sie den Lewiim.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "אל",
@@ -50,6 +50,6 @@
       "gloss": "die Lewiim"
     }
   ],
-  "timestamp": "2026-08-06T00:33:06.703841927Z",
+  "timestamp": "2026-08-24T21:30:50.195353108Z",
   "model": "glm-5.2"
 }

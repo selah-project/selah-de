@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 8,
-  "translation": "„Geh aus der Arche heraus, du und deine Frau und deine Söhne und die Frauen deiner Söhne mit dir.",
+  "translation": "„Geh aus der Arche heraus, du und deine Frau und deine Söhne und die Frauen deiner Söhne ⟨את⟩ mit dir.",
   "tokens": [
     {
       "surface": "צא",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "אתך",
-      "gloss": "mit dir"
+      "gloss": "⟨את⟩ mit dir"
     }
   ],
-  "timestamp": "2026-08-05T17:29:53.725094966Z",
+  "timestamp": "2026-08-24T21:30:49.262273927Z",
   "model": "glm-5.2"
 }

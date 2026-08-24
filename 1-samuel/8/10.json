@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und Schmuël sprach ⟨את⟩ alle Worte JHWHs zu dem Volk, ⟨das⟩ von ihm einen König verlangte.",
+  "translation": "Und Schmuël sprach ⟨את⟩ alle Worte JHWHs zu dem Volk, ⟨das⟩ ⟨את⟩ von ihm einen König verlangte.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "von ihm"
+      "gloss": "⟨את⟩ von ihm"
     },
     {
       "surface": "מלך",
       "gloss": "einen König"
     }
   ],
-  "timestamp": "2026-08-06T02:41:29.566166638Z",
+  "timestamp": "2026-08-24T21:30:49.766555038Z",
   "model": "glm-5.2"
 }

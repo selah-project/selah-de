@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 4,
-  "translation": "Und lege ⟨gegen⟩ sie ⟨eine⟩ Belagerung ⟨an⟩, und baue gegen sie ⟨eine〉 Belagerungsmauer, und schütte gegen sie ⟨einen〉 Wall ⟨auf⟩, und stelle gegen sie Lager, und setze Belagerungsrämme ringsum.",
+  "translation": "Und lege gegen sie Belagerung an, und baue gegen sie einen Belagerungsturm, und schütte gegen sie ⟨einen⟩ Wall auf, und stelle gegen sie Lager, und setze gegen sie Widder ⟨als⟩ Rammen ringsum.",
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "Und lege"
+      "gloss": "und lege an"
     },
     {
       "surface": "עליה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "דיק",
-      "gloss": "eine Belagerungsmauer"
+      "gloss": "Belagerungsturm"
     },
     {
       "surface": "ושפכת",
-      "gloss": "und schütte"
+      "gloss": "und schütte auf"
     },
     {
       "surface": "עליה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "סללה",
-      "gloss": "einen Wall"
+      "gloss": "Wall"
     },
     {
       "surface": "ונתתה",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "כרים",
-      "gloss": "Belagerungsrämme"
+      "gloss": "Widder (Rammen)"
     },
     {
       "surface": "סביב",
       "gloss": "ringsum"
     }
   ],
-  "timestamp": "2026-08-05T22:17:06.467693312Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:35.680340118Z",
+  "model": "glm-5.3"
 }

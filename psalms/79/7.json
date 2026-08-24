@@ -5,39 +5,39 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 79,
-  "translation": "Denn sie haben ⟨את⟩ Jaakow gefressen und ⟨את⟩ seine Wohnstätte verwüstet.",
+  "translation": "Denn sie haben Jaakow aufgefressen und ⟨את⟩ seine Wohnung haben sie verwüstet.",
   "tokens": [
     {
-      "surface": "כִּ֭י",
-      "gloss": "denn"
+      "surface": "כי",
+      "gloss": "Denn"
     },
     {
-      "surface": "אָכַ֣ל",
-      "gloss": "sie haben gefressen"
+      "surface": "אכל",
+      "gloss": "haben aufgefressen"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "Jaakow"
     },
     {
-      "surface": "יַעֲקֹ֑ב",
+      "surface": "יעקב",
       "gloss": "Jaakow"
     },
     {
-      "surface": "וְֽאֶת",
-      "gloss": "⟨und את⟩",
-      "marks": "seine Wohnstätte"
+      "surface": "ואת",
+      "gloss": "und ⟨את⟩",
+      "marks": "seine Wohnung"
     },
     {
-      "surface": "נָוֵ֥הוּ",
-      "gloss": "seine Wohnstätte"
+      "surface": "נוהו",
+      "gloss": "seine Wohnung"
     },
     {
-      "surface": "הֵשַֽׁמּוּ",
-      "gloss": "verwüstet"
+      "surface": "השמו",
+      "gloss": "haben sie verwüstet"
     }
   ],
-  "timestamp": "2026-08-06T04:17:28.610343350Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:55.751096740Z",
+  "model": "glm-5.3"
 }

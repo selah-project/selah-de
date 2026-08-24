@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 17,
-  "translation": "Und ⟨ein〉 Helm aus Kupfer ⟨war⟩ auf seinem Kopf, und ein Schuppenpanzer — er ⟨war⟩ angelegt. Und das Gewicht des Panzers: fünftausend Schekel Kupfer.",
+  "translation": "Und ein Helm von Nechuschet ⟨war⟩ auf seinem Kopf, und einen Schuppenpanzer ⟨trug⟩ er am Leib; und das Gewicht des Panzers ⟨betrug⟩ fünftausend Schekel Nechuschet.",
   "tokens": [
     {
       "surface": "וכובע",
-      "gloss": "und ⟨ein⟩ Helm"
+      "gloss": "Und ein Helm"
     },
     {
       "surface": "נחשת",
-      "gloss": "aus Kupfer"
+      "gloss": "von Nechuschet"
     },
     {
       "surface": "על",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ושריון",
-      "gloss": "und ein Schuppenpanzer"
+      "gloss": "und einen Panzer"
     },
     {
       "surface": "קשקשים",
-      "gloss": "Schuppen"
+      "gloss": "von Schuppen"
     },
     {
       "surface": "הוא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לבוש",
-      "gloss": "angelegt"
+      "gloss": "⟨trug⟩ am Leib"
     },
     {
       "surface": "ומשקל",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "Kupfer"
+      "gloss": "Nechuschet"
     }
   ],
-  "timestamp": "2026-08-05T21:12:33.431244631Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:51.317507335Z",
+  "model": "glm-5.3"
 }

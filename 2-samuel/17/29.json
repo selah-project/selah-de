@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 17,
-  "translation": "und Honig und Dickmilch und Kleinvieh und Rindergerichte brachten sie für Dawid und für das Volk, das bei ihm war, zum Essen, ⟨denn⟩ sie sagten: Das Volk ⟨ist⟩ hungrig und erschöpft und durstig in der Wüste.",
+  "translation": "und Honig und Dickmilch und Kleinvieh und Rindergerichte brachten sie für Dawid und für das Volk, das ⟨את⟩ bei ihm war, zum Essen, ⟨denn⟩ sie sagten: Das Volk ⟨ist⟩ hungrig und erschöpft und durstig in der Wüste.",
   "tokens": [
     {
       "surface": "ודבש",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bei ihm war"
+      "gloss": "⟨את⟩ bei ihm war"
     },
     {
       "surface": "לאכול",
@@ -80,6 +80,6 @@
       "gloss": "in der Wüste"
     }
   ],
-  "timestamp": "2026-08-06T01:18:05.301858013Z",
+  "timestamp": "2026-08-24T21:30:49.108826258Z",
   "model": "glm-5.2"
 }

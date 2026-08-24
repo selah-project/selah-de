@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "de",
   "chapter": 1,
-  "translation": "Und ⟨sie⟩ sah, dass sie sich bereitete, mit ihr zu gehen, und ⟨sie⟩ hörte auf, zu ihr zu reden.",
+  "translation": "Und ⟨sie⟩ sah, dass sie sich bereitete, ⟨את⟩ mit ihr zu gehen, und ⟨sie⟩ hörte auf, zu ihr zu reden.",
   "tokens": [
     {
       "surface": "וַתֵּ֕רֶא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אִתָּ֑הּ",
-      "gloss": "mit ihr"
+      "gloss": "⟨את⟩ mit ihr"
     },
     {
       "surface": "וַתֶּחְדַּ֖ל",
@@ -44,6 +44,6 @@
       "gloss": "zu ihr"
     }
   ],
-  "timestamp": "2026-08-06T10:38:34.569619092Z",
+  "timestamp": "2026-08-24T21:30:49.665313939Z",
   "model": "glm-5.2"
 }

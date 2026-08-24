@@ -5,81 +5,83 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 18,
-  "translation": "Und dies ⟨soll⟩ das Recht der Kohanim ⟨sein⟩ von ⟨Seiten⟩ des Volkes, von ⟨Seiten⟩ derer, die das Schlachtopfer schlachten — ⟨egal〉 ob Rind, ob Kleinvieh: ⟨man⟩ ⟨soll⟩ dem Kohen ⟨geben⟩ den Vorderarm und die beiden Kinnbacken und den Magen.",
+  "translation": "Und dies soll das Recht der Kohanim sein von ⟨את⟩ dem Volk, von ⟨את⟩ denen, die ⟨das⟩ Schlachtopfer darbringen — sei es ein Rind, sei es ein Schaf: ⟨man⟩ soll dem Kohen die Schulter, die beiden Kinnladen und den Magen geben.",
   "tokens": [
     {
-      "surface": "וְזֶ֡ה",
+      "surface": "וזה",
       "gloss": "Und dies"
     },
     {
-      "surface": "יִהְיֶה֩",
-      "gloss": "⟨soll⟩ sein"
+      "surface": "יהיה",
+      "gloss": "soll sein"
     },
     {
-      "surface": "מִשְׁפַּ֨ט",
+      "surface": "משפט",
       "gloss": "das Recht"
     },
     {
-      "surface": "הַכֹּהֲנִ֜ים",
+      "surface": "הכהנים",
       "gloss": "der Kohanim"
     },
     {
-      "surface": "מֵאֵ֣ת",
-      "gloss": "von ⟨Seiten⟩"
+      "surface": "מאת",
+      "gloss": "von ⟨את⟩",
+      "marks": "dem Volk"
     },
     {
-      "surface": "הָעָ֗ם",
-      "gloss": "des Volkes"
+      "surface": "העם",
+      "gloss": "dem Volk"
     },
     {
-      "surface": "מֵאֵ֛ת",
-      "gloss": "von ⟨Seiten⟩"
+      "surface": "מאת",
+      "gloss": "von ⟨את⟩",
+      "marks": "denen, die das Schlachtopfer darbringen"
     },
     {
-      "surface": "זֹבְחֵ֥י",
-      "gloss": "derer, die schlachten"
+      "surface": "זבחי",
+      "gloss": "die darbringen"
     },
     {
-      "surface": "הַזֶּ֖בַח",
+      "surface": "הזבח",
       "gloss": "das Schlachtopfer"
     },
     {
-      "surface": "אִם",
-      "gloss": "⟨egal〉 ob"
+      "surface": "אם",
+      "gloss": "sei es"
     },
     {
-      "surface": "שׁ֣וֹר",
-      "gloss": "Rind"
+      "surface": "שור",
+      "gloss": "ein Rind"
     },
     {
-      "surface": "אִם",
-      "gloss": "ob"
+      "surface": "אם",
+      "gloss": "sei es"
     },
     {
-      "surface": "שֶׂ֑ה",
-      "gloss": "Kleinvieh"
+      "surface": "שה",
+      "gloss": "ein Schaf"
     },
     {
-      "surface": "וְנָתַן֙",
-      "gloss": "⟨man⟩ ⟨soll⟩ ⟨geben⟩"
+      "surface": "ונתן",
+      "gloss": "soll ⟨man⟩ geben"
     },
     {
-      "surface": "לַכֹּהֵ֔ן",
+      "surface": "לכהן",
       "gloss": "dem Kohen"
     },
     {
-      "surface": "הַזְּרֹ֥עַ",
-      "gloss": "den Vorderarm"
+      "surface": "הזרע",
+      "gloss": "die Schulter"
     },
     {
-      "surface": "וְהַלְּחָיַ֖יִם",
-      "gloss": "und die beiden Kinnbacken"
+      "surface": "והלחיים",
+      "gloss": "und die beiden Kinnladen"
     },
     {
-      "surface": "וְהַקֵּבָֽה",
+      "surface": "והקבה",
       "gloss": "und den Magen"
     }
   ],
-  "timestamp": "2026-08-05T20:47:23.046045170Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:22.144185985Z",
+  "model": "glm-5.3"
 }

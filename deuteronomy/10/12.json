@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 10,
-  "translation": "Und nun, Jisra'el, was fordert JHWH, dein Elohim, von dir, als nur dies: JHWH, deinen Elohim, zu fürchten, ⟨את⟩ JHWH, deinen Elohim; auf all seinen Wegen zu gehen und ihn zu lieben, und JHWH, deinen Elohim, zu dienen mit deinem ganzen Herzen und mit deiner ganzen Nefesch —",
+  "translation": "Und nun, Jisra'el, was fordert JHWH, dein Elohim, von dir, als nur dies: JHWH, deinen Elohim, zu fürchten, ⟨את⟩ JHWH, deinen Elohim; auf all seinen Wegen zu gehen und ⟨את⟩ ihn zu lieben, und JHWH, deinen Elohim, zu dienen mit deinem ganzen Herzen und mit deiner ganzen Nefesch —",
   "tokens": [
     {
       "surface": "וְעַתָּה",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אֹתוֹ",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "וְלַֽעֲבֹד",
@@ -114,6 +114,6 @@
       "gloss": "Nefesch"
     }
   ],
-  "timestamp": "2026-08-06T02:23:22.113822178Z",
+  "timestamp": "2026-08-24T21:30:49.781082472Z",
   "model": "glm-5.2"
 }

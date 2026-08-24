@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 8,
-  "translation": "⟨את⟩ JHWH der Heerscharen, ihn sollt ihr heiligen, und er ⟨ist⟩ eure Furcht, und er ⟨ist⟩ euer Schrecken.",
+  "translation": "⟨את⟩ JHWH der Heerscharen, ⟨את⟩ ihn sollt ihr heiligen, und er ⟨ist⟩ eure Furcht, und er ⟨ist⟩ euer Schrecken.",
   "tokens": [
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn",
+      "gloss": "⟨את⟩ ihn",
       "marks": "sollt ihr heiligen"
     },
     {
@@ -46,6 +46,6 @@
       "gloss": "euer Schrecken"
     }
   ],
-  "timestamp": "2026-08-06T01:40:31.092965928Z",
+  "timestamp": "2026-08-24T21:30:50.159369150Z",
   "model": "glm-5.2"
 }

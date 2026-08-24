@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 27,
-  "translation": "Hohl, aus Brettern, sollst du ⟨es⟩ machen. So wie ⟨es⟩ dir gezeigt wurde auf dem Berg, so sollen sie ⟨es⟩ machen.",
+  "translation": "Hohl, aus Brettern, sollst du ⟨es⟩ machen. So wie ⟨es⟩ ⟨את⟩ dir gezeigt wurde auf dem Berg, so sollen sie ⟨es⟩ machen.",
   "tokens": [
     {
       "surface": "נבוב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨es⟩"
+      "gloss": "⟨את⟩ ⟨es⟩"
     },
     {
       "surface": "כאשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "dir"
+      "gloss": "⟨את⟩ dir"
     },
     {
       "surface": "בהר",
@@ -48,6 +48,6 @@
       "gloss": "sollen sie machen"
     }
   ],
-  "timestamp": "2026-08-06T05:17:10.949336242Z",
+  "timestamp": "2026-08-24T21:30:49.624857485Z",
   "model": "glm-5.2"
 }

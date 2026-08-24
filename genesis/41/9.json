@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 41,
-  "translation": "Da sprach der Schenke ⟨zu⟩ Paro und sagte: „⟨את⟩ Paro — meine Verfehlungen bringe ich heute ⟨ans Licht⟩.“",
+  "translation": "Da sprach der Schenke ⟨את⟩ ⟨zu⟩ Paro und sagte: „⟨את⟩ Paro — meine Verfehlungen bringe ich heute ⟨ans Licht⟩.“",
   "tokens": [
     {
       "surface": "וידבר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨zu⟩",
+      "gloss": "⟨את⟩ ⟨zu⟩",
       "marks": "Paro"
     },
     {
@@ -54,6 +54,6 @@
       "gloss": "heute"
     }
   ],
-  "timestamp": "2026-08-05T20:02:30.098996415Z",
+  "timestamp": "2026-08-24T21:30:49.156448343Z",
   "model": "glm-5.2"
 }

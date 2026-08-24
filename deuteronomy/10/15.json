@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 10,
-  "translation": "Nur in deinen Vätern begehrte JHWH ⟨sie⟩ zu lieben, und er wählte ⟨את⟩ ihre Nachkommenschaft nach ihnen — euch aus allen Völkern, wie an diesem Tag.",
+  "translation": "Nur in deinen Vätern begehrte JHWH ⟨את⟩ ⟨sie⟩ zu lieben, und er wählte ⟨את⟩ ihre Nachkommenschaft nach ihnen — euch aus allen Völkern, wie an diesem Tag.",
   "tokens": [
     {
       "surface": "רַק",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אוֹתָם",
-      "gloss": "⟨sie⟩"
+      "gloss": "⟨את⟩ ⟨sie⟩"
     },
     {
       "surface": "וַיִּבְחַר",
@@ -64,6 +64,6 @@
       "gloss": "diesem"
     }
   ],
-  "timestamp": "2026-08-06T05:27:39.175011219Z",
+  "timestamp": "2026-08-24T21:30:49.782185093Z",
   "model": "glm-5.2"
 }

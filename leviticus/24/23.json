@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 24,
-  "translation": "Und Mosche sprach zu den Söhnen Jisra'els, und sie führten ⟨את⟩ den Lästerer hinaus nach draußen ⟨vom⟩ Lager, und sie steinigten ihn mit Steinen. Und die Söhne Jisra'els handelten so, wie JHWH ⟨dem⟩ Mosche geboten hatte.",
+  "translation": "Und Mosche sprach zu den Söhnen Jisra'els, und sie führten ⟨את⟩ den Lästerer hinaus nach draußen ⟨vom⟩ Lager, und sie steinigten ⟨את⟩ ihn mit Steinen. Und die Söhne Jisra'els handelten so, wie JHWH ⟨dem⟩ Mosche geboten hatte.",
   "tokens": [
     {
       "surface": "וַיְדַבֵּ֣ר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אֹת֖וֹ",
-      "gloss": "ihn",
+      "gloss": "⟨את⟩ ihn",
       "marks": "ihn (mit angehängtem את)"
     },
     {
@@ -99,6 +99,6 @@
       "gloss": "Mosche"
     }
   ],
-  "timestamp": "2026-08-06T00:29:20.163951483Z",
+  "timestamp": "2026-08-24T21:30:50.116873157Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 24,
-  "translation": "Und der Sohn der israelitischen Frau durchstieß ⟨את⟩ den Namen und fluchte. Und sie brachten ihn zu Mosche. Und der Name seiner Mutter ⟨war⟩ Schelomit, Tochter Dibris, zum Stamm Dan.",
+  "translation": "Und der Sohn der israelitischen Frau durchstieß ⟨את⟩ den Namen und fluchte. Und sie brachten ⟨את⟩ ihn zu Mosche. Und der Name seiner Mutter ⟨war⟩ Schelomit, Tochter Dibris, zum Stamm Dan.",
   "tokens": [
     {
       "surface": "ויקב",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "אל",
@@ -81,6 +81,6 @@
       "gloss": "Dan"
     }
   ],
-  "timestamp": "2026-08-06T22:33:05.269118860Z",
+  "timestamp": "2026-08-24T21:30:50.118011949Z",
   "model": "glm-5.2"
 }

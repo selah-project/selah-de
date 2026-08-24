@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 17,
-  "translation": "Da machte sich Dawid auf, und das ganze Volk, das bei ihm war, und sie überschritten ⟨את⟩ den Jardèn, bis zum Licht des Morgens, bis ⟨dass⟩ nicht einer fehlte, der nicht ⟨את⟩ den Jardèn überschritten hatte.",
+  "translation": "Da machte sich Dawid auf, und das ganze Volk, das ⟨את⟩ bei ihm war, und sie überschritten ⟨את⟩ den Jardèn, bis zum Licht des Morgens, bis ⟨dass⟩ nicht einer fehlte, der nicht ⟨את⟩ den Jardèn überschritten hatte.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bei ihm war"
+      "gloss": "⟨את⟩ bei ihm war"
     },
     {
       "surface": "ויעברו",
@@ -94,6 +94,6 @@
       "gloss": "den Jardèn"
     }
   ],
-  "timestamp": "2026-08-05T21:22:20.890497794Z",
+  "timestamp": "2026-08-24T21:30:49.110851790Z",
   "model": "glm-5.2"
 }

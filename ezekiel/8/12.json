@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und er sprach zu mir: „Hast du gesehen, Menschensohn? Was die Ältesten des Hauses Jisraels im Finstern tun, jeder in den Kammern seines Bildwerks? Denn sie sagen: ‚JHWH sieht uns nicht. JHWH hat ⟨את⟩ das Land verlassen.‘\"",
+  "translation": "Und er sprach zu mir: „Hast du gesehen, Menschensohn? Was die Ältesten des Hauses Jisraels im Finstern tun, jeder in den Kammern seines Bildwerks? Denn sie sagen: ‚JHWH sieht ⟨את⟩ uns nicht. JHWH hat ⟨את⟩ das Land verlassen.‘\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "uns"
+      "gloss": "⟨את⟩ uns"
     },
     {
       "surface": "עזב",
@@ -105,6 +105,6 @@
       "gloss": "das Land"
     }
   ],
-  "timestamp": "2026-08-06T03:43:07.183538858Z",
+  "timestamp": "2026-08-24T21:30:49.899162766Z",
   "model": "glm-5.2"
 }

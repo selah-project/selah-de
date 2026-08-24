@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "de",
   "chapter": 2,
-  "translation": "Ich schlug euch mit Brand und mit Vergilbung und mit Hagel, ⟨את⟩ all das Werk eurer Hände — und ⟨es war⟩ niemand von euch zu mir, Spruch JHWHs.",
+  "translation": "Ich schlug euch mit Brand und mit Vergilbung und mit Hagel, ⟨את⟩ all das Werk eurer Hände — und ⟨es war⟩ niemand ⟨את⟩ von euch zu mir, Spruch JHWHs.",
   "tokens": [
     {
       "surface": "הכיתי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "בשדפון",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "von euch"
+      "gloss": "⟨את⟩ von euch"
     },
     {
       "surface": "אלי",
@@ -65,6 +65,6 @@
       "gloss": "JHWHs"
     }
   ],
-  "timestamp": "2026-08-05T22:40:58.770188813Z",
+  "timestamp": "2026-08-24T21:30:49.323447922Z",
   "model": "glm-5.2"
 }

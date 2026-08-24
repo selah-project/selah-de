@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 16,
-  "translation": "Und ⟨את⟩ den bronzenen Altar, der vor JHWH war, brachte er von der Vorderseite des Hauses weg, zwischen den Altar und das Haus JHWH, und er stellte ihn an die Seite des Altars, nach Norden.",
+  "translation": "Und ⟨את⟩ den bronzenen Altar, der vor JHWH war, brachte er von der Vorderseite des Hauses weg, zwischen den Altar und das Haus JHWH, und er stellte ⟨את⟩ ihn an die Seite des Altars, nach Norden.",
   "tokens": [
     {
       "surface": "ואת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "weg von"
+      "gloss": "⟨את⟩ weg von"
     },
     {
       "surface": "פני",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "על",
@@ -92,6 +92,6 @@
       "gloss": "nach Norden"
     }
   ],
-  "timestamp": "2026-08-05T21:39:13.973891312Z",
+  "timestamp": "2026-08-24T21:30:50.020023845Z",
   "model": "glm-5.2"
 }

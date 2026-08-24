@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 20,
-  "translation": "Und ihr sollt halten ⟨את⟩ meine Ordnungen und ihr sollt sie tun. Ich bin JHWH, ⟨der⟩ euch heiligt.",
+  "translation": "Und ihr sollt halten ⟨את⟩ meine Ordnungen und ihr sollt ⟨את⟩ sie tun. Ich bin JHWH, ⟨der⟩ euch heiligt.",
   "tokens": [
     {
       "surface": "וּשְׁמַרְתֶּם֙",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אֹתָ֑ם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "אֲנִ֥י",
@@ -41,6 +41,6 @@
       "gloss": "⟨der⟩ euch heiligt"
     }
   ],
-  "timestamp": "2026-08-06T00:27:22.727963107Z",
+  "timestamp": "2026-08-24T21:30:50.051319205Z",
   "model": "glm-5.2"
 }

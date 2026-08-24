@@ -5,81 +5,81 @@
   "book": "joel",
   "lang": "de",
   "chapter": 2,
-  "translation": "Vor ihm ⟨her⟩ frißt Feuer, und hinter ihm ⟨her> lodert eine Flamme. Wie der Garten Eden ⟨ist⟩ die Erde vor ihm, und hinter ihm eine Wüste der Verödung — und auch eine Entkommenheit war ihm nicht.",
+  "translation": "Vor ihm her frißt Feuer ⟨das Land⟩, und hinter ihm leckt eine Flamme. Wie der Garten Eden ⟨ist⟩ das Land vor ihm, und hinter ihm eine Wüste der Verwüstung — und auch ein Entkommen gab es für ⟨das Land⟩ nicht.",
   "tokens": [
     {
-      "surface": "לְפָנָיו֙",
-      "gloss": "vor ihm ⟨her⟩"
-    },
-    {
-      "surface": "אָ֣כְלָה",
-      "gloss": "frißt"
-    },
-    {
-      "surface": "אֵ֔שׁ",
-      "gloss": "Feuer"
-    },
-    {
-      "surface": "וְאַחֲרָ֖יו",
-      "gloss": "und hinter ihm ⟨her⟩"
-    },
-    {
-      "surface": "תְּלַהֵ֣ט",
-      "gloss": "lodert"
-    },
-    {
-      "surface": "לֶֽהָבָ֑ה",
-      "gloss": "eine Flamme"
-    },
-    {
-      "surface": "כְּגַן",
-      "gloss": "wie der Garten"
-    },
-    {
-      "surface": "עֵ֨דֶן",
-      "gloss": "Eden"
-    },
-    {
-      "surface": "הָאָ֜רֶץ",
-      "gloss": "die Erde"
-    },
-    {
-      "surface": "לְפָנָ֗יו",
+      "surface": "לפניו",
       "gloss": "vor ihm"
     },
     {
-      "surface": "וְאַֽחֲרָיו֙",
+      "surface": "אכלה",
+      "gloss": "frißt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Feuer"
+    },
+    {
+      "surface": "ואחריו",
       "gloss": "und hinter ihm"
     },
     {
-      "surface": "מִדְבַּ֣ר",
+      "surface": "תלהט",
+      "gloss": "leckt"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "eine Flamme"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "wie der Garten"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "das Land"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vor ihm"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "und hinter ihm"
+    },
+    {
+      "surface": "מדבר",
       "gloss": "eine Wüste"
     },
     {
-      "surface": "שְׁמָמָ֔ה",
-      "gloss": "der Verödung"
+      "surface": "שממה",
+      "gloss": "der Verwüstung"
     },
     {
-      "surface": "וְגַם",
+      "surface": "וגם",
       "gloss": "und auch"
     },
     {
-      "surface": "פְּלֵיטָ֖ה",
-      "gloss": "eine Entkommenheit"
+      "surface": "פליטה",
+      "gloss": "ein Entkommen"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "הָ֥יְתָה",
-      "gloss": "war"
+      "surface": "היתה",
+      "gloss": "gab es"
     },
     {
-      "surface": "לּֽוֹ",
-      "gloss": "ihm"
+      "surface": "לו",
+      "gloss": "für ⟨das Land⟩"
     }
   ],
-  "timestamp": "2026-08-06T04:00:18.335244080Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:51.386551078Z",
+  "model": "glm-5.3"
 }

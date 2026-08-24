@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 7,
-  "translation": "Und die Fürsten brachten ⟨את⟩ die Einweihung des Altars dar, am Tag, da man ihn salbte, und die Fürsten brachten ihre Korban vor den Altar.",
+  "translation": "Und die Fürsten brachten ⟨את⟩ die Einweihung des Altars dar, am Tag, da man ⟨את⟩ ihn salbte, und die Fürsten brachten ihre Korban vor den Altar.",
   "tokens": [
     {
       "surface": "ויקריבו",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "ויקריבו",
@@ -66,6 +66,6 @@
       "gloss": "den Altar"
     }
   ],
-  "timestamp": "2026-08-05T20:31:26.160883360Z",
+  "timestamp": "2026-08-24T21:30:50.198863828Z",
   "model": "glm-5.2"
 }

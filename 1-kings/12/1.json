@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 12,
-  "translation": "Und Rechawam ging nach Schchem, denn nach Schchem war ganz Jisra'el gekommen, um ⟨ihn⟩ zum König zu machen.",
+  "translation": "Und Rechawam ging nach Schchem, denn nach Schchem war ganz Jisra'el gekommen, um ⟨את⟩ ⟨ihn⟩ zum König zu machen.",
   "tokens": [
     {
       "surface": "וילך",
@@ -45,10 +45,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨ihn⟩",
+      "gloss": "⟨את⟩ ⟨ihn⟩",
       "marks": "ihn"
     }
   ],
-  "timestamp": "2026-08-05T21:29:40.236817525Z",
+  "timestamp": "2026-08-24T21:30:50.326357650Z",
   "model": "glm-5.2"
 }

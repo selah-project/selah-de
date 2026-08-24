@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 31,
-  "translation": "Denn zu Ende gegangen in Kummer ⟨sind⟩ mein Leben und meine Jahre in Seufzen; gestrauchelt um meiner Schuld willen ⟨ist⟩ meine Kraft, und meine Gebeine ⟨sind〉 geschwunden.",
+  "translation": "Denn zu Ende gegangen ist in Kummer mein Leben, und meine Jahre ⟨sind es⟩ im Seufzen; wegen meiner Schuld wankt meine Kraft, und meine Gebeine sind vergangen.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "denn"
+      "gloss": "Denn"
     },
     {
       "surface": "כלו",
-      "gloss": "zu Ende gegangen"
+      "gloss": "zu Ende gegangen ist"
     },
     {
       "surface": "ביגון",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "באנחה",
-      "gloss": "in Seufzen"
+      "gloss": "im Seufzen"
     },
     {
       "surface": "כשל",
-      "gloss": "gestrauchelt"
+      "gloss": "wankt"
     },
     {
       "surface": "בעוני",
-      "gloss": "um meiner Schuld willen"
+      "gloss": "wegen meiner Schuld"
     },
     {
       "surface": "כחי",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "עששו",
-      "gloss": "geschwunden"
+      "gloss": "sind vergangen"
     }
   ],
-  "timestamp": "2026-08-05T22:47:45.009945149Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:57.050447321Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 37,
-  "translation": "Und ihr werdet erkennen, dass ich JHWH ⟨bin⟩, wenn ich ⟨eure⟩ Gräber öffne und euch aus euren Gräbern heraufführe, mein Volk.",
+  "translation": "Und ihr werdet erkennen, dass ich JHWH ⟨bin⟩, wenn ich ⟨eure⟩ Gräber öffne und ⟨את⟩ euch aus euren Gräbern heraufführe, mein Volk.",
   "tokens": [
     {
       "surface": "וִֽידַעְתֶּ֖ם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אֶתְכֶ֛ם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "מִקִּבְרֹתֵיכֶ֖ם",
@@ -53,6 +53,6 @@
       "gloss": "mein Volk"
     }
   ],
-  "timestamp": "2026-08-05T22:26:30.878987609Z",
+  "timestamp": "2026-08-24T21:30:49.883797938Z",
   "model": "glm-5.2"
 }

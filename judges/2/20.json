@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "de",
   "chapter": 2,
-  "translation": "Da entbrannte der Zorn JHWHs gegen Jisra'el, und er sprach: „Weil ⟨dieses⟩ Volk ⟨הגוי הזה⟩ meine Brit übertreten hat, die ich unseren Vätern geboten habe, und nicht auf meine Stimme gehört haben –",
+  "translation": "Und die Nase JHWHs entbrannte gegen Israel, und er sprach: Weil dies Volk ⟨את⟩ meinen Bund übertreten hat, den ich ihren Vätern geboten habe, und meiner Stimme nicht gehorcht haben,",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "Da entbrannte"
+      "gloss": "und entbrannte"
     },
     {
       "surface": "אף",
-      "gloss": "der Zorn"
+      "gloss": "die Nase"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "gegen Jisra'el"
+      "gloss": "gegen Israel"
     },
     {
       "surface": "ויאמר",
@@ -33,32 +33,32 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨dass⟩"
+      "gloss": "—"
     },
     {
       "surface": "עברו",
-      "gloss": "übertreten hat"
+      "gloss": "übertreten haben"
     },
     {
       "surface": "הגוי",
-      "gloss": "⟨dieses⟩ Volk"
+      "gloss": "dies Volk"
     },
     {
       "surface": "הזה",
-      "gloss": "⟨הגוי הזה⟩"
+      "gloss": "dies"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "meine Brit"
+      "marks": "meinen Bund"
     },
     {
       "surface": "בריתי",
-      "gloss": "meine Brit"
+      "gloss": "meinen Bund"
     },
     {
       "surface": "אשר",
-      "gloss": "die"
+      "gloss": "den"
     },
     {
       "surface": "צויתי",
@@ -67,25 +67,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "unseren Vätern"
+      "marks": "ihren Vätern"
     },
     {
       "surface": "אבותם",
-      "gloss": "unseren Vätern"
+      "gloss": "ihren Vätern"
     },
     {
-      "surface": "ולא",
+      "surface": "וloא",
       "gloss": "und nicht"
     },
     {
       "surface": "שמעו",
-      "gloss": "gehört haben"
+      "gloss": "gehorcht haben"
     },
     {
       "surface": "לקולי",
-      "gloss": "auf meine Stimme"
+      "gloss": "meiner Stimme"
     }
   ],
-  "timestamp": "2026-08-06T00:55:46.528754405Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:03:07.804464757Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 29,
-  "translation": "Von JHWH der Heerscharen ⟨wird sie> heimgesucht: mit Donner und mit Erdbeben und großem Getöse, Sturmwind und Wirbelsturm und Feuerflamme, ⟨die⟩ verzehrt.",
+  "translation": "Von JHWH Zevaot wirst du heimgesucht: mit Donner und mit Erdbeben und großem Getöse, Wirbelsturm und Unwetter und Feuerflamme, die frisst.",
   "tokens": [
     {
       "surface": "מעם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "der Heerscharen"
+      "gloss": "Zevaot"
     },
     {
       "surface": "תפקד",
-      "gloss": "⟨wird sie⟩ heimgesucht"
+      "gloss": "wirst du heimgesucht"
     },
     {
       "surface": "ברעם",
@@ -33,33 +33,33 @@
     },
     {
       "surface": "וקול",
-      "gloss": "und ⟨einem⟩ ⟨Getöse⟩"
+      "gloss": "und großem"
     },
     {
       "surface": "גדול",
-      "gloss": "großem"
+      "gloss": "Getöse"
     },
     {
       "surface": "סופה",
-      "gloss": "Sturmwind"
+      "gloss": "Wirbelsturm"
     },
     {
       "surface": "וסערה",
-      "gloss": "und Wirbelsturm"
+      "gloss": "und Unwetter"
     },
     {
       "surface": "ולהב",
-      "gloss": "und ⟨einer⟩ Flamme"
+      "gloss": "und Feuerflamme"
     },
     {
       "surface": "אש",
-      "gloss": "von Feuer"
+      "gloss": "Feuer"
     },
     {
       "surface": "אוכלה",
-      "gloss": "⟨die⟩ verzehrt"
+      "gloss": "die frisst"
     }
   ],
-  "timestamp": "2026-08-05T21:49:26.782604188Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:41.238210171Z",
+  "model": "glm-5.3"
 }

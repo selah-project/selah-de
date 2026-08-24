@@ -5,106 +5,106 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 20,
-  "translation": "Und Elohim sprach zu ihm im Traum: „Auch ich wusste, dass du in der Lauterkeit deines Herzens dies getan hast, und auch ich hielt dich zurück, ⟨dich⟩, vor der Sünde an mir. Darum ließ ich dich nicht zu, sie zu berühren.",
+  "translation": "Und Elohim sprach zu ihm im Traum: „Auch ich habe gewusst, dass du dies in Unsträflichkeit deines Herzens getan hast, und auch ich habe dich ⟨את⟩ davor bewahrt, gegen mich zu verfehlen; darum habe ich dich nicht zugelassen, sie zu berühren.“",
   "tokens": [
     {
-      "surface": "וַיֹּאמֶר֩",
-      "gloss": "Und … sprach"
+      "surface": "ויאמר",
+      "gloss": "und sprach"
     },
     {
-      "surface": "אֵלָ֨יו",
+      "surface": "אליו",
       "gloss": "zu ihm"
     },
     {
-      "surface": "הָֽאֱלֹהִ֜ים",
+      "surface": "האלהים",
       "gloss": "Elohim"
     },
     {
-      "surface": "בַּחֲלֹ֗ם",
+      "surface": "בחלם",
       "gloss": "im Traum"
     },
     {
-      "surface": "גַּ֣ם",
-      "gloss": "Auch"
-    },
-    {
-      "surface": "אָנֹכִ֤י",
-      "gloss": "ich"
-    },
-    {
-      "surface": "יָדַ֨עְתִּי֙",
-      "gloss": "wusste"
-    },
-    {
-      "surface": "כִּ֤י",
-      "gloss": "dass"
-    },
-    {
-      "surface": "בְתָם",
-      "gloss": "in der Lauterkeit"
-    },
-    {
-      "surface": "לְבָבְךָ֙",
-      "gloss": "deines Herzens"
-    },
-    {
-      "surface": "עָשִׂ֣יתָ",
-      "gloss": "du getan hast"
-    },
-    {
-      "surface": "זֹּ֔את",
-      "gloss": "dies"
-    },
-    {
-      "surface": "וָאֶחְשֹׂ֧ךְ",
-      "gloss": "und ich hielt zurück"
-    },
-    {
-      "surface": "גַּם",
+      "surface": "גם",
       "gloss": "auch"
     },
     {
-      "surface": "אָנֹכִ֛י",
+      "surface": "אנכי",
       "gloss": "ich"
     },
     {
-      "surface": "אֽוֹתְךָ֖",
+      "surface": "ידעתי",
+      "gloss": "habe gewusst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dass"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "in Unsträflichkeit"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "deines Herzens"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "du getan hast"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dies"
+    },
+    {
+      "surface": "ואחשך",
+      "gloss": "und ich habe bewahrt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "auch"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ich"
+    },
+    {
+      "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "dich (vor der Sünde)"
+      "marks": "dich — Objekt von מחטו (bewahrt davor zu verfehlen)"
     },
     {
-      "surface": "מֵחֲטוֹ",
-      "gloss": "vor der Sünde"
+      "surface": "מחטו",
+      "gloss": "zu verfehlen"
     },
     {
-      "surface": "לִ֑י",
-      "gloss": "an mir"
+      "surface": "לי",
+      "gloss": "gegen mich"
     },
     {
-      "surface": "עַל",
-      "gloss": "Darum"
+      "surface": "על",
+      "gloss": "darum"
     },
     {
-      "surface": "כֵּ֥ן",
-      "gloss": "（darum）"
+      "surface": "כן",
+      "gloss": "darum"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "נְתַתִּ֖יךָ",
-      "gloss": "ließ ich dich"
+      "surface": "נתתיך",
+      "gloss": "habe ich dich zugelassen"
     },
     {
-      "surface": "לִנְגֹּ֥עַ",
+      "surface": "לנגע",
       "gloss": "zu berühren"
     },
     {
-      "surface": "אֵלֶֽיהָ",
+      "surface": "אליה",
       "gloss": "sie"
     }
   ],
-  "timestamp": "2026-08-05T17:33:48.890338025Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:03:19.491528943Z",
+  "model": "glm-5.3"
 }

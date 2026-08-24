@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 3,
-  "translation": "Und du sollst ⟨את⟩ die Lewim Aharon und seinen Söhnen geben — gegeben, gegeben sind sie ihm von seiten der Söhne Jisraels.",
+  "translation": "Und du sollst ⟨את⟩ die Lewim Aharon und seinen Söhnen geben — gegeben, gegeben sind sie ihm ⟨את⟩ von seiten der Söhne Jisraels.",
   "tokens": [
     {
       "surface": "ונתתה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von seiten"
+      "gloss": "⟨את⟩ von seiten"
     },
     {
       "surface": "בני",
@@ -57,6 +57,6 @@
       "gloss": "Jisraels"
     }
   ],
-  "timestamp": "2026-08-06T00:31:22.692628023Z",
+  "timestamp": "2026-08-24T21:30:50.187884095Z",
   "model": "glm-5.2"
 }

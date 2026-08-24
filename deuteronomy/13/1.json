@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 13,
-  "translation": "⟨את⟩ das ganze Wort, das ich euch gebiete, ⟨das⟩ sollt ihr halten, zu tun; du sollst nichts dazutun darüber und nicht davontun davon.",
+  "translation": "⟨את⟩ das ganze Wort, das ich ⟨את⟩ euch gebiete, ⟨das⟩ sollt ihr halten, zu tun; du sollst nichts dazutun darüber und nicht davontun davon.",
   "tokens": [
     {
       "surface": "אֵ֣ת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אֶתְכֶ֔ם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "אֹת֥וֹ",
@@ -74,6 +74,6 @@
       "gloss": "davon"
     }
   ],
-  "timestamp": "2026-08-05T20:46:20.439042247Z",
+  "timestamp": "2026-08-24T21:30:49.825346575Z",
   "model": "glm-5.2"
 }

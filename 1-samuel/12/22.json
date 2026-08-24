@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 12,
-  "translation": "Denn JHWH wird ⟨את⟩ sein Volk nicht verlassen um seines großen Namens willen; denn es hat JHWH gefallen, euch ihm zum Volk zu machen.",
+  "translation": "Denn JHWH wird ⟨את⟩ sein Volk nicht verlassen um seines großen Namens willen; denn es hat JHWH gefallen, ⟨את⟩ euch ihm zum Volk zu machen.",
   "tokens": [
     {
       "surface": "כי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "לו",
@@ -73,6 +73,6 @@
       "gloss": "zum Volk"
     }
   ],
-  "timestamp": "2026-08-05T21:09:21.104622395Z",
+  "timestamp": "2026-08-24T21:30:49.755324125Z",
   "model": "glm-5.2"
 }

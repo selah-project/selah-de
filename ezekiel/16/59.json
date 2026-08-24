@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 16,
-  "translation": "Denn so spricht Adonai JHWH: Und ich werde ⟨mit⟩ dir tun, wie du getan hast — du, die ⟨einen⟩ Fluch verachtet hat, ⟨um⟩ ⟨die⟩ Brit zu brechen.",
+  "translation": "Denn so spricht Adonai JHWH: Und ich werde ⟨את⟩ ⟨mit⟩ dir tun, wie du getan hast — du, die ⟨einen⟩ Fluch verachtet hat, ⟨um⟩ ⟨die⟩ Brit zu brechen.",
   "tokens": [
     {
       "surface": "כִּי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אוֹתָךְ",
-      "gloss": "⟨mit⟩ dir"
+      "gloss": "⟨את⟩ ⟨mit⟩ dir"
     },
     {
       "surface": "כַּאֲשֶׁר",
@@ -64,6 +64,6 @@
       "gloss": ""
     }
   ],
-  "timestamp": "2026-08-06T09:03:30.446532228Z",
+  "timestamp": "2026-08-24T21:30:49.911012295Z",
   "model": "glm-5.2"
 }

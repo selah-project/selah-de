@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 3,
-  "translation": "Und er ging und sandte zu Jehoschafat, dem König von Jehuda, und ließ sagen: Der König von Moaw ist gegen mich abgefallen. Willst du mit mir nach Moaw in den Krieg ziehen? Und er sagte: Ich will hinaufziehen. Wie ich, so du; wie mein Volk, so dein Volk; wie meine Pferde, so deine Pferde.",
+  "translation": "Und er ging und sandte zu Jehoschafat, dem König von Jehuda, und ließ sagen: Der König von Moaw ist gegen mich abgefallen. Willst du ⟨את⟩ mit mir nach Moaw in den Krieg ziehen? Und er sagte: Ich will hinaufziehen. Wie ich, so du; wie mein Volk, so dein Volk; wie meine Pferde, so deine Pferde.",
   "tokens": [
     {
       "surface": "וילך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mit mir"
+      "gloss": "⟨את⟩ mit mir"
     },
     {
       "surface": "אל",
@@ -104,6 +104,6 @@
       "gloss": "so deine Pferde"
     }
   ],
-  "timestamp": "2026-08-06T19:41:18.252931679Z",
+  "timestamp": "2026-08-24T21:30:49.953193414Z",
   "model": "glm-5.2"
 }

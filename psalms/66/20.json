@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "de",
   "chapter": 66,
-  "translation": "Gesegnet ⟨sei⟩ Elohim, der mein Gebet nicht abwandte und ⟨auch nicht⟩ sein Chessed von mir.",
+  "translation": "Gesegnet ⟨sei⟩ Elohim, der mein Gebet nicht abwandte und ⟨auch nicht⟩ sein Chessed ⟨את⟩ von mir.",
   "tokens": [
     {
       "surface": "ברוך",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "von mir"
+      "gloss": "⟨את⟩ von mir"
     }
   ],
-  "timestamp": "2026-08-05T22:52:55.917861436Z",
+  "timestamp": "2026-08-24T21:30:49.570970708Z",
   "model": "glm-5.2"
 }

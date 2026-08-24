@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 23,
-  "translation": "Und Balak sprach zu ihm: „Geh doch mit mir an einen anderen Ort, von wo aus du ⟨sie⟩ siehst — nur seinen Rand wirst du sehen, und ⟨seine⟩ Ganzheit wirst du nicht sehen — und verfluche ihn mir von dort.“",
+  "translation": "Und Balak sprach zu ihm: „Geh doch ⟨את⟩ mit mir an einen anderen Ort, von wo aus du ⟨sie⟩ siehst — nur seinen Rand wirst du sehen, und ⟨seine⟩ Ganzheit wirst du nicht sehen — und verfluche ihn mir von dort.“",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mit mir"
+      "gloss": "⟨את⟩ mit mir"
     },
     {
       "surface": "אל",
@@ -92,6 +92,6 @@
       "gloss": "von dort"
     }
   ],
-  "timestamp": "2026-08-05T20:37:01.079077930Z",
+  "timestamp": "2026-08-24T21:30:50.210894190Z",
   "model": "glm-5.2"
 }

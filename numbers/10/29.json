@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 10,
-  "translation": "Und Mosche sprach zu Chobaw, dem Sohn Re'uels, dem Midjaniter, dem Schwiegervater von Mosche: „Wir brechen auf zu dem Ort, von dem JHWH gesagt hat: ⟨את⟩ ihn werde ich euch geben. Komm mit uns, und wir werden dir Gutes tun, denn JHWH hat Gutes über Jisra'el geredet.“",
+  "translation": "Und Mosche sprach zu Chobaw, dem Sohn Re'uels, dem Midjaniter, dem Schwiegervater von Mosche: „Wir brechen auf zu dem Ort, von dem JHWH gesagt hat: ⟨את⟩ ihn werde ich euch geben. Komm ⟨את⟩ mit uns, und wir werden dir Gutes tun, denn JHWH hat Gutes über Jisra'el geredet.“",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "mit uns"
+      "gloss": "⟨את⟩ mit uns"
     },
     {
       "surface": "והטבנו",
@@ -121,6 +121,6 @@
       "gloss": "Jisra'el"
     }
   ],
-  "timestamp": "2026-08-06T00:33:53.102558576Z",
+  "timestamp": "2026-08-24T21:30:50.168282120Z",
   "model": "glm-5.2"
 }

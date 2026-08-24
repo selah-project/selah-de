@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "de",
   "chapter": 17,
-  "translation": "Warum ⟨ist⟩ ⟨das⟩ ein Preis in der Hand des Toren, Weisheit zu kaufen — ⟨obwohl⟩ ⟨er⟩ ⟨kein⟩ Herz ⟨hat⟩?",
+  "translation": "Warum ⟨ist⟩ dies — ein Preis in der Hand des Toren, um Weisheit zu kaufen, und ⟨doch ist⟩ kein Herz da?",
   "tokens": [
     {
       "surface": "למה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "⟨das⟩"
+      "gloss": "dies"
     },
     {
       "surface": "מחיר",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "ולב",
-      "gloss": "und ⟨⟨ein⟩⟩ Herz"
+      "gloss": "und ⟨doch ist⟩ kein Herz"
     },
     {
       "surface": "אין",
-      "gloss": "⟨obwohl⟩ ⟨er⟩ ⟨kein⟩ … ⟨hat⟩"
+      "gloss": "ist nicht da"
     }
   ],
-  "timestamp": "2026-08-05T23:12:02.158110517Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:04.601619928Z",
+  "model": "glm-5.3"
 }

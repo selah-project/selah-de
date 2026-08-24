@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 33,
-  "translation": "Und du, Menschensohn — einen Wächter habe ich dich ⟨für⟩ das Haus Jisraels eingesetzt. Du wirst aus meinem Mund ein Wort hören, und du wirst sie warnen ⟨אתם⟩ von mir.",
+  "translation": "Und du, Menschensohn: Als Wächter habe ich dich dem Haus Jisraël gegeben, und du wirst aus Meinem Mund ein Wort hören und sie warnen von Mir ⟨את⟩.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "Menschen"
+      "gloss": "Mensch"
     },
     {
       "surface": "צפה",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "נתתיך",
-      "gloss": "habe ich dich eingesetzt"
+      "gloss": "habe ich dich gegeben"
     },
     {
       "surface": "לבית",
-      "gloss": "⟨für⟩ das Haus"
+      "gloss": "dem Haus"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraels"
+      "gloss": "Jisraël"
     },
     {
       "surface": "ושמעת",
-      "gloss": "Du wirst hören"
+      "gloss": "und du wirst hören"
     },
     {
       "surface": "מפי",
-      "gloss": "aus meinem Mund"
+      "gloss": "aus Meinem Mund"
     },
     {
       "surface": "דבר",
@@ -49,18 +49,18 @@
     },
     {
       "surface": "והזהרת",
-      "gloss": "und du wirst warnen"
+      "gloss": "und wirst warnen"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sie"
+      "gloss": "⟨את⟩",
+      "marks": "sie (das Haus Jisraël)"
     },
     {
       "surface": "ממני",
-      "gloss": "von mir"
+      "gloss": "von Mir"
     }
   ],
-  "timestamp": "2026-08-05T22:25:38.040587960Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:25.125440582Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 22,
-  "translation": "Und er sprach zu Jehoschafat: „Wirst du mit mir ziehen in den Krieg ⟨nach⟩ Ramot-Gilad?\" Und Jehoschafat sprach zum König von Jisra'el: „Wie ich, so du; wie mein Volk, so dein Volk; wie meine Pferde, so deine Pferde.\"",
+  "translation": "Und er sprach zu Jehoschafat: „Wirst du ⟨את⟩ mit mir ziehen in den Krieg ⟨nach⟩ Ramot-Gilad?\" Und Jehoschafat sprach zum König von Jisra'el: „Wie ich, so du; wie mein Volk, so dein Volk; wie meine Pferde, so deine Pferde.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mit mir"
+      "gloss": "⟨את⟩ mit mir"
     },
     {
       "surface": "למלחמה",
@@ -84,6 +84,6 @@
       "gloss": "so deine Pferde"
     }
   ],
-  "timestamp": "2026-08-06T01:29:54.499391967Z",
+  "timestamp": "2026-08-24T21:30:50.320750830Z",
   "model": "glm-5.2"
 }

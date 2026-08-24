@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "de",
   "chapter": 10,
-  "translation": "Und er sprach zu mir: „Daniel, du Mann der Begehrungen, versteh ⟨die⟩ Worte, die ich zu dir rede, und stell dich auf deinen Stand; denn jetzt bin ich zu dir gesandt.\" Und als er ⟨dieses⟩ Wort mit mir redete, stand ich ⟨הדבר⟩ zitternd da.",
+  "translation": "Und er sprach zu mir: „Daniël, Mann der Begehrensarten, versteh die Worte, die ich zu dir rede, und stell dich auf deinen Stand; denn jetzt bin ich zu dir gesandt.“ Und als er mit mir ⟨את⟩ dieses Wort redete, stand ich da, zitternd.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "דניאל",
-      "gloss": "Daniel"
+      "gloss": "Daniël"
     },
     {
       "surface": "איש",
-      "gloss": "du Mann"
+      "gloss": "Mann"
     },
     {
       "surface": "חמדות",
-      "gloss": "der Begehrungen"
+      "gloss": "der Begehrensarten"
     },
     {
       "surface": "הבן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בדברים",
-      "gloss": "⟨die⟩ Worte"
+      "gloss": "die Worte"
     },
     {
       "surface": "אשר",
@@ -52,8 +52,8 @@
       "gloss": "zu dir"
     },
     {
-      "surface": "ועמד",
-      "gloss": "und stell dich"
+      "surface": "וועמד",
+      "gloss": "und stell dich auf"
     },
     {
       "surface": "על",
@@ -90,15 +90,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "das Wort"
+      "marks": "dieses Wort (הדבר הזה)"
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨dieses⟩ Wort"
+      "gloss": "⟨das⟩ Wort"
     },
     {
       "surface": "הזה",
-      "gloss": "⟨dieses⟩"
+      "gloss": "dieses"
     },
     {
       "surface": "עמדתי",
@@ -109,6 +109,6 @@
       "gloss": "zitternd"
     }
   ],
-  "timestamp": "2026-08-06T22:48:37.151348296Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:25:42.671442831Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 42,
-  "translation": "Schickt aus eurer Mitte einen, dass er ⟨את⟩ euren Bruder hole, und ihr ⟨werdet⟩ festgenommen, und ⟨es sollen⟩ geprüft werden eure Worte, ob Emet ⟨ist⟩ bei euch; und wenn nicht — ⟨so wahr wie⟩ Paro lebt: denn Spione seid ihr!",
+  "translation": "Schickt aus eurer Mitte einen, dass er ⟨את⟩ euren Bruder hole, und ihr ⟨werdet⟩ festgenommen, und ⟨es sollen⟩ geprüft werden eure Worte, ob Emet ⟨ist⟩ ⟨את⟩ bei euch; und wenn nicht — ⟨so wahr wie⟩ Paro lebt: denn Spione seid ihr!",
   "tokens": [
     {
       "surface": "שִׁלְח֨וּ",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אִתְּכֶ֑ם",
-      "gloss": "bei euch"
+      "gloss": "⟨את⟩ bei euch"
     },
     {
       "surface": "וְאִם",
@@ -85,6 +85,6 @@
       "gloss": "seid ihr"
     }
   ],
-  "timestamp": "2026-08-06T21:06:25.903442884Z",
+  "timestamp": "2026-08-24T21:30:49.205541788Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 39,
-  "translation": "Der Vorsteher des Gefängnishauses sah ⟨sich⟩ ⟨את⟩ gar keine Sache ⟨mehr⟩ an, ⟨die⟩ in seiner Hand ⟨war⟩, weil JHWH mit ihm war; und was er tat, JHWH ließ es gelingen.",
+  "translation": "Der Vorsteher des Gefängnishauses sah ⟨sich⟩ ⟨את⟩ gar keine Sache ⟨mehr⟩ an, ⟨die⟩ in seiner Hand ⟨war⟩, weil JHWH ⟨את⟩ mit ihm war; und was er tat, JHWH ließ es gelingen.",
   "tokens": [
     {
       "surface": "אֵ֣ין",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אִתּ֑וֹ",
-      "gloss": "mit ihm"
+      "gloss": "⟨את⟩ mit ihm"
     },
     {
       "surface": "וַֽאֲשֶׁ֥ר",
@@ -77,6 +77,6 @@
       "gloss": "ließ gelingen"
     }
   ],
-  "timestamp": "2026-08-06T01:57:29.449287754Z",
+  "timestamp": "2026-08-24T21:30:49.214637013Z",
   "model": "glm-5.2"
 }

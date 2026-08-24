@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 24,
-  "translation": "Hüte dich bei ⟨einem⟩ Mal der Zaraat, sehr achtsam zu sein und zu tun — nach allem, was euch die Kohen, die Lewijim, lehren; wie ich ihnen geboten habe, sollt ihr achten, zu tun.",
+  "translation": "Hüte dich bei ⟨einem⟩ Mal der Zaraat, sehr achtsam zu sein und zu tun — nach allem, was ⟨את⟩ euch die Kohen, die Lewijim, lehren; wie ich ihnen geboten habe, sollt ihr achten, zu tun.",
   "tokens": [
     {
       "surface": "השמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "הכהנים",
@@ -72,6 +72,6 @@
       "gloss": "zu tun"
     }
   ],
-  "timestamp": "2026-08-06T14:57:11.760408773Z",
+  "timestamp": "2026-08-24T21:30:49.826378829Z",
   "model": "glm-5.2"
 }

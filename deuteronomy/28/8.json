@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 28,
-  "translation": "JHWH wird ⟨mit dir⟩ ⟨die⟩ Segnung gebieten in deinen Vorrathäusern und in allem, was deine Hand aussendet, und ⟨er⟩ wird dich segnen auf der Erde, die JHWH, dein Elohim, dir gibt.",
+  "translation": "JHWH wird ⟨את⟩ ⟨mit dir⟩ ⟨die⟩ Segnung gebieten in deinen Vorrathäusern und in allem, was deine Hand aussendet, und ⟨er⟩ wird dich segnen auf der Erde, die JHWH, dein Elohim, dir gibt.",
   "tokens": [
     {
       "surface": "יְצַו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אִתְּךָ",
-      "gloss": "⟨mit dir⟩"
+      "gloss": "⟨את⟩ ⟨mit dir⟩"
     },
     {
       "surface": "אֶת",
@@ -73,6 +73,6 @@
       "gloss": "dir"
     }
   ],
-  "timestamp": "2026-08-06T00:47:24.902431536Z",
+  "timestamp": "2026-08-24T21:30:49.787275064Z",
   "model": "glm-5.2"
 }

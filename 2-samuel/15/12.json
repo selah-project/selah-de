@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 15,
-  "translation": "Und Awischalom sandte ⟨um zu holen⟩ ⟨את⟩ Achitofel, den Giloni, den Ratgeber Dawids, aus seiner Stadt, aus Gilo, beim Schlachten ⟨את⟩ der Schlachtopfer. Und ⟨es war⟩ die Verschwörung stark, und das Volk ging und wurde zahlreicher ⟨mit⟩ Awischalom.",
+  "translation": "Und Awischalom sandte ⟨um zu holen⟩ ⟨את⟩ Achitofel, den Giloni, den Ratgeber Dawids, aus seiner Stadt, aus Gilo, beim Schlachten ⟨את⟩ der Schlachtopfer. Und ⟨es war⟩ die Verschwörung stark, und das Volk ging und wurde zahlreicher ⟨את⟩ ⟨mit⟩ Awischalom.",
   "tokens": [
     {
       "surface": "ושלח",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨mit⟩",
+      "gloss": "⟨את⟩ ⟨mit⟩",
       "marks": "Awischalom"
     },
     {
@@ -91,6 +91,6 @@
       "gloss": "Awischalom"
     }
   ],
-  "timestamp": "2026-08-06T10:04:24.536774752Z",
+  "timestamp": "2026-08-24T21:30:49.098340781Z",
   "model": "glm-5.2"
 }

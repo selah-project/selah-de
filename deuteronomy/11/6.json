@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 11,
-  "translation": "und was ⟨er⟩ dem Datán und dem Awiram tat, den Söhnen des Elíaw, des Sohnes von Re'uwen — die die Erde ihren Mund öffnete und sie verschlang, ⟨וְאֵת⟩ ihre Häuser und ⟨וְאֵת⟩ ihre Zelte und ⟨וְאֵת⟩ alles Bestehende, das unter ihren Füßen war, inmitten von ganz Jisra'el: —",
+  "translation": "und was er tat an Datán und Awiram, den Söhnen Eljaws, des Sohnes Reuwens — ⟨wie⟩ die Erde ihren Mund aufriss und sie verschlang ⟨את⟩, und ⟨את⟩ ihre Häuser und ⟨את⟩ ihre Zelte und ⟨את⟩ den ganzen lebenden Besitz, der zu ihren Füßen ⟨war⟩, mitten in ganz Jisraél.",
   "tokens": [
     {
       "surface": "ואשר",
@@ -13,39 +13,39 @@
     },
     {
       "surface": "עשה",
-      "gloss": "tat"
+      "gloss": "er tat"
     },
     {
       "surface": "לדתן",
-      "gloss": "dem Datán"
+      "gloss": "an Datán"
     },
     {
       "surface": "ולאבירם",
-      "gloss": "und dem Awiram"
+      "gloss": "und an Awiram"
     },
     {
       "surface": "בני",
-      "gloss": "den Söhnen"
+      "gloss": "Söhne"
     },
     {
       "surface": "אליאב",
-      "gloss": "des Elíaw"
+      "gloss": "Eljaw"
     },
     {
       "surface": "בן",
-      "gloss": "des Sohnes"
+      "gloss": "Sohn"
     },
     {
       "surface": "ראובן",
-      "gloss": "von Re'uwen"
+      "gloss": "Reuwen"
     },
     {
       "surface": "אשר",
-      "gloss": "die"
+      "gloss": "als"
     },
     {
       "surface": "פצתה",
-      "gloss": "öffnete"
+      "gloss": "aufriss"
     },
     {
       "surface": "הארץ",
@@ -54,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ihren Mund"
+      "marks": "ihren Mund (פיה)"
     },
     {
       "surface": "פיה",
@@ -62,12 +62,12 @@
     },
     {
       "surface": "ותבלעם",
-      "gloss": "und verschlang sie"
+      "gloss": "und sie verschlang"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨וְאֵת⟩",
-      "marks": "ihre Häuser"
+      "gloss": "⟨את⟩",
+      "marks": "ihre Häuser (בתיהם)"
     },
     {
       "surface": "בתיהם",
@@ -75,8 +75,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨וְאֵת⟩",
-      "marks": "ihre Zelte"
+      "gloss": "⟨את⟩",
+      "marks": "ihre Zelte (אהליהם)"
     },
     {
       "surface": "אהליהם",
@@ -84,28 +84,28 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨וְאֵת⟩",
-      "marks": "alles Bestehende"
+      "gloss": "⟨את⟩",
+      "marks": "den ganzen lebenden Besitz (כל היקום)"
     },
     {
       "surface": "כל",
-      "gloss": "alles"
+      "gloss": "den ganzen"
     },
     {
       "surface": "היקום",
-      "gloss": "Bestehende"
+      "gloss": "lebenden Besitz"
     },
     {
       "surface": "אשר",
-      "gloss": "das"
+      "gloss": "der"
     },
     {
       "surface": "ברגליהם",
-      "gloss": "unter ihren Füßen"
+      "gloss": "zu ihren Füßen"
     },
     {
       "surface": "בקרב",
-      "gloss": "inmitten von"
+      "gloss": "mitten in"
     },
     {
       "surface": "כל",
@@ -113,9 +113,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisra'el"
+      "gloss": "Jisraél"
     }
   ],
-  "timestamp": "2026-08-06T00:43:34.744182903Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:17.810740851Z",
+  "model": "glm-5.3"
 }

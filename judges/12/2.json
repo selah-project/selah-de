@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "de",
   "chapter": 12,
-  "translation": "Und Jiftach sagte zu ihnen: „Ich, mein Volk und die Söhne Ammons ⟨waren⟩ ein Mann der Rechtsache, in heftigem Streit. Und ich rief ⟨אתכם⟩ euch, und ihr habt mich nicht gerettet, ⟨אותי⟩ mich aus ihrer Hand.“",
+  "translation": "Jiftach sagte zu ihnen: Ein Mann des Rechtsstreits war ich, ich und mein Volk, mit den Söhnen Ammon, heftig; und ich rief ⟨את⟩ euch um Hilfe, doch ihr habt ⟨את⟩ mich nicht gerettet aus ihrer Hand.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "und er sagte"
+      "gloss": "sagte"
     },
     {
       "surface": "יפתח",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "ein Mann"
+      "gloss": "Ein Mann"
     },
     {
       "surface": "ריב",
-      "gloss": "der Rechtsache"
+      "gloss": "des Rechtsstreits"
     },
     {
       "surface": "הייתי",
-      "gloss": "war ich"
+      "gloss": "war"
     },
     {
       "surface": "אני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ובני",
-      "gloss": "und die Söhne"
+      "gloss": "mit den Söhnen"
     },
     {
       "surface": "עמון",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מאד",
-      "gloss": "sehr"
+      "gloss": "heftig"
     },
     {
       "surface": "ואזעק",
@@ -57,12 +57,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "euch"
     },
     {
       "surface": "ולא",
-      "gloss": "und nicht"
+      "gloss": "doch nicht"
     },
     {
       "surface": "הושעתם",
@@ -70,14 +70,13 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨אותי⟩",
-      "marks": "mich"
+      "gloss": "⟨את⟩ mich"
     },
     {
       "surface": "מידם",
       "gloss": "aus ihrer Hand"
     }
   ],
-  "timestamp": "2026-08-06T02:38:37.852400202Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:10:12.208338990Z",
+  "model": "glm-5.3"
 }

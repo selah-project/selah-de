@@ -5,58 +5,58 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 22,
-  "translation": "Nur ⟨soll⟩ das Silber, das in ihre Hand gegeben wurde, nicht mit ihnen verrechnet werden ⟨את־sie⟩, denn in Treue handeln sie.",
+  "translation": "Doch ⟨mit⟩ ihnen ⟨braucht⟩ das Silber, das in ihre Hand gegeben wird, nicht verrechnet zu werden — denn in Treue handeln ⟨sie⟩.",
   "tokens": [
     {
-      "surface": "אַךְ",
-      "gloss": "Nur"
+      "surface": "אך",
+      "gloss": "Doch"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "יֵחָשֵׁב",
-      "gloss": "⟨soll⟩ verrechnet werden"
+      "surface": "יחשב",
+      "gloss": "verrechnet zu werden"
     },
     {
-      "surface": "אִתָּם",
-      "gloss": "⟨את־sie⟩",
-      "marks": "das Silber"
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mit ihnen"
     },
     {
-      "surface": "הַכֶּסֶף",
+      "surface": "הכסף",
       "gloss": "das Silber"
     },
     {
-      "surface": "הַנִּתָּן",
-      "gloss": "das gegeben wurde"
+      "surface": "הנתן",
+      "gloss": "das gegeben wird"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "in"
     },
     {
-      "surface": "יָדָם",
+      "surface": "ידם",
       "gloss": "ihre Hand"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "denn"
     },
     {
-      "surface": "בֶּאֱמוּנָה",
+      "surface": "באמונה",
       "gloss": "in Treue"
     },
     {
-      "surface": "הֵם",
+      "surface": "הם",
       "gloss": "sie"
     },
     {
-      "surface": "עֹשִׂים",
+      "surface": "עשים",
       "gloss": "handeln"
     }
   ],
-  "timestamp": "2026-08-06T20:31:51.279169556Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:05.093740616Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 43,
-  "translation": "Und El Schaddai gebe euch Erbarmen vor dem Mann, und er sende euch ⟨את⟩ euren ⟨anderen⟩ Bruder ⟨und את⟩ Binjamin. Und ich — wie ich beraubt worden bin, bin ich beraubt.",
+  "translation": "Und El Schaddai gebe euch Erbarmen vor dem Mann, sodass er euch ⟨את⟩ euren anderen Bruder und ⟨את⟩ Binjamins freigibt. Und ich — wie ich beraubt worden bin, bin ich beraubt.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "und El"
+      "gloss": "Und El"
     },
     {
       "surface": "שדי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ושלח",
-      "gloss": "und er sende"
+      "gloss": "sodass er freigibt"
     },
     {
       "surface": "לכם",
@@ -46,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "euren ⟨anderen⟩ Bruder"
+      "marks": "euren anderen Bruder"
     },
     {
       "surface": "אחיכם",
@@ -54,20 +54,20 @@
     },
     {
       "surface": "אחר",
-      "gloss": "⟨anderen⟩"
+      "gloss": "anderen"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨und את⟩",
-      "marks": "Binjamin"
+      "gloss": "und ⟨את⟩",
+      "marks": "Binjamins"
     },
     {
       "surface": "בנימין",
-      "gloss": "Binjamin"
+      "gloss": "Binjamins"
     },
     {
       "surface": "ואני",
-      "gloss": "und ich"
+      "gloss": "Und ich"
     },
     {
       "surface": "כאשר",
@@ -82,6 +82,6 @@
       "gloss": "bin ich beraubt"
     }
   ],
-  "timestamp": "2026-08-06T00:10:30.319490711Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:27.236638002Z",
+  "model": "glm-5.3"
 }

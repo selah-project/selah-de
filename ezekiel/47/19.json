@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 47,
-  "translation": "Und ⟨die⟩ Südseite südwärts: von Tamar bis zu ⟨den⟩ Wassern von Meribot-Kadesch, ein Flussbett zum großen Meer. Und ⟨das⟩ ist ⟨die⟩ Südseite südwärts. Und ⟨את⟩ ⟨die>> Seite ⟨des>> Südens südwärts.",
+  "translation": "Und die Südseite südwärts: von Tamar bis zu den Wassern von Meriwot-Qadesch, ⟨ein⟩ Bach zum großen Meer — und ⟨את⟩ die Südseite südwärts.",
   "tokens": [
     {
       "surface": "ופאת",
-      "gloss": "und Seite"
+      "gloss": "Und die Südseite"
     },
     {
       "surface": "נגב",
-      "gloss": "Negev"
+      "gloss": "Süd-"
     },
     {
       "surface": "תימנה",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "מי",
-      "gloss": "Wasser"
+      "gloss": "den Wassern"
     },
     {
       "surface": "מריבות",
-      "gloss": "von Meribot"
+      "gloss": "von Meriwot (Streit)"
     },
     {
       "surface": "קדש",
-      "gloss": "Kadesch"
+      "gloss": "Qadesch"
     },
     {
       "surface": "נחלה",
-      "gloss": "Flussbett"
+      "gloss": "ein Bach"
     },
     {
       "surface": "אל",
@@ -58,21 +58,21 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "die Seite"
+      "marks": "die Südseite"
     },
     {
       "surface": "פאת",
-      "gloss": "Seite"
+      "gloss": "Seite von"
     },
     {
       "surface": "תימנה",
-      "gloss": "des Südens"
+      "gloss": "Süden"
     },
     {
       "surface": "נגבה",
       "gloss": "südwärts"
     }
   ],
-  "timestamp": "2026-08-06T03:56:28.349359629Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:03.368615166Z",
+  "model": "glm-5.3"
 }

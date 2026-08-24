@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 1,
-  "translation": "Und Adonijahu hörte es, und alle Geladenen, die bei ihm waren, und ⟨sie⟩ hatten ⟨zu⟩ Ende gegessen. Und Joab hörte ⟨את⟩ den Schall des Schofar, und er sagte: „Warum ⟨ist⟩ der Schall der Stadt in Aufruhr?“",
+  "translation": "Und Adonijahu hörte es, und alle Geladenen, die ⟨את⟩ bei ihm waren, und ⟨sie⟩ hatten ⟨zu⟩ Ende gegessen. Und Joab hörte ⟨את⟩ den Schall des Schofar, und er sagte: „Warum ⟨ist⟩ der Schall der Stadt in Aufruhr?“",
   "tokens": [
     {
       "surface": "וישמע",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "bei ihm waren"
+      "gloss": "⟨את⟩ bei ihm waren"
     },
     {
       "surface": "והם",
@@ -85,6 +85,6 @@
       "gloss": "ist in Aufruhr"
     }
   ],
-  "timestamp": "2026-08-06T02:55:59.419344603Z",
+  "timestamp": "2026-08-24T21:30:50.332803606Z",
   "model": "glm-5.2"
 }

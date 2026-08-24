@@ -5,82 +5,82 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 4,
-  "translation": "Sieh, ich habe ⟨אתכם⟩ belehrt — Bestimmungen und Rechtsordnungen, so wie JHWH, mein Elohim, mir geboten hat, ⟨sie⟩ so zu tun im Inneren des Landes, das ihr dorthin zieht, um ⟨es⟩ in Besitz zu nehmen.",
+  "translation": "Sieh, ich habe euch ⟨את⟩ Chuqim und Mischpatim gelehrt, wie JHWH, mein Elohim, mir geboten hat, so zu tun inmitten der Erde, in die ihr dorthin zieht, um sie zu besitzen.",
   "tokens": [
     {
-      "surface": "רְאֵה",
+      "surface": "ראה",
       "gloss": "Sieh"
     },
     {
-      "surface": "לִמַּדְתִּי",
-      "gloss": "habe ich belehrt"
+      "surface": "למדתי",
+      "gloss": "ich habe … gelehrt"
     },
     {
-      "surface": "אֶתְכֶם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch (als Objekt der Belehrung)"
+      "surface": "אתכם",
+      "gloss": "euch ⟨את⟩",
+      "marks": "Chuqim und Mischpatim"
     },
     {
-      "surface": "חֻקִּים",
-      "gloss": "Bestimmungen"
+      "surface": "חקים",
+      "gloss": "Chuqim"
     },
     {
-      "surface": "וּמִשְׁפָּטִים",
-      "gloss": "und Rechtsordnungen"
+      "surface": "ומשפטים",
+      "gloss": "und Mischpatim"
     },
     {
-      "surface": "כַּאֲשֶׁר",
-      "gloss": "so wie"
+      "surface": "כאשר",
+      "gloss": "wie"
     },
     {
-      "surface": "צִוַּנִי",
+      "surface": "צוני",
       "gloss": "mir geboten hat"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "JHWH"
     },
     {
-      "surface": "אֱלֹהַי",
+      "surface": "אלהי",
       "gloss": "mein Elohim"
     },
     {
-      "surface": "לַעֲשׂוֹת",
+      "surface": "לעשות",
       "gloss": "zu tun"
     },
     {
-      "surface": "כֵּן",
+      "surface": "כן",
       "gloss": "so"
     },
     {
-      "surface": "בְּקֶרֶב",
-      "gloss": "im Inneren"
+      "surface": "בקרב",
+      "gloss": "inmitten"
     },
     {
-      "surface": "הָאָרֶץ",
-      "gloss": "des Landes"
+      "surface": "הארץ",
+      "gloss": "der Erde"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "das"
+      "surface": "אשר",
+      "gloss": "die"
     },
     {
-      "surface": "אַתֶּם",
+      "surface": "אתם",
       "gloss": "ihr"
     },
     {
-      "surface": "בָּאִים",
+      "surface": "באים",
       "gloss": "zieht"
     },
     {
-      "surface": "שָׁמָּה",
+      "surface": "שמה",
       "gloss": "dorthin"
     },
     {
-      "surface": "לְרִשְׁתָּהּ",
-      "gloss": "um ⟨es⟩ in Besitz zu nehmen"
+      "surface": "לרשתה",
+      "gloss": "um sie zu besitzen"
     }
   ],
-  "timestamp": "2026-08-06T08:28:26.062109117Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:03:14.945496908Z",
+  "model": "glm-5.3"
 }

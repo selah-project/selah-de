@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "de",
   "chapter": 11,
-  "translation": "die ich ⟨euren⟩ Vätern gebot an dem Tag, als ich ⟨sie⟩ herausführen ließ aus dem Land Mizrajim, aus dem Eisenschmelzofen, ⟨und sprach⟩: Hört auf meine Stimme und tut sie nach allem, was ich euch gebiete, und ihr werdet mir zum Volk ⟨sein⟩, und ich werde euch zum Elohim ⟨sein⟩.",
+  "translation": "die ich ⟨euren⟩ Vätern gebot an dem Tag, als ich ⟨את⟩ ⟨sie⟩ herausführen ließ aus dem Land Mizrajim, aus dem Eisenschmelzofen, ⟨und sprach⟩: Hört auf meine Stimme und tut sie nach allem, was ich euch gebiete, und ihr werdet mir zum Volk ⟨sein⟩, und ich werde euch zum Elohim ⟨sein⟩.",
   "tokens": [
     {
       "surface": "אשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨sie⟩"
+      "gloss": "⟨את⟩ ⟨sie⟩"
     },
     {
       "surface": "מארץ",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "ככל",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "והייתם",
@@ -117,6 +117,6 @@
       "gloss": "zum Elohim ⟨sein⟩"
     }
   ],
-  "timestamp": "2026-08-06T03:28:15.780716458Z",
+  "timestamp": "2026-08-24T21:30:49.487196508Z",
   "model": "glm-5.2"
 }

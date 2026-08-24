@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 4,
-  "translation": "Und sie sagte: „Habe ich ⟨um⟩ einen Sohn gebeten von ⟨bei⟩ ⟨את⟩ meinem Herrn? Habe ich nicht gesagt: ‚Täusche ⟨את⟩ mich nicht‘?“",
+  "translation": "Und sie sagte: „Habe ich ⟨um⟩ einen Sohn gebeten ⟨את⟩ von ⟨bei⟩ meinem Herrn? Habe ich nicht gesagt: ‚Täusche ⟨את⟩ mich nicht‘?“",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von ⟨bei⟩"
+      "gloss": "⟨את⟩ von ⟨bei⟩"
     },
     {
       "surface": "אדני",
-      "gloss": "⟨את⟩ meinem Herrn"
+      "gloss": "meinem Herrn"
     },
     {
       "surface": "הלא",
@@ -48,6 +48,6 @@
       "gloss": "⟨את⟩ mich"
     }
   ],
-  "timestamp": "2026-08-06T01:31:49.618963355Z",
+  "timestamp": "2026-08-24T21:30:49.961404414Z",
   "model": "glm-5.2"
 }

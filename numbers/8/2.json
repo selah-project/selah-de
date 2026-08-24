@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 8,
-  "translation": "„Sprich zu Aharon und sag zu ihm: Wenn du ⟨את⟩ die Lampen aufrichtest, gegenüber der Vorderseite ⟨der⟩ Menora sollen die sieben Lampen leuchten.“",
+  "translation": "Rede mit Aharon und sag zu ihm: Wenn du ⟨את⟩ die Lampen emporsteigen lässt, sollen die sieben Lampen leuchten, der Fläche der Mischkan-Leuchter zugewandt.",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "Sprich"
+      "gloss": "Rede"
     },
     {
       "surface": "אל",
-      "gloss": "zu"
+      "gloss": "mit"
     },
     {
       "surface": "אהרן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בהעלתך",
-      "gloss": "Wenn du … aufrichtest"
+      "gloss": "wenn du emporsteigen lässt"
     },
     {
       "surface": "את",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "gegenüber"
+      "gloss": "der … zugewandt"
     },
     {
       "surface": "מול",
-      "gloss": "<eingeschmolzen>"
+      "gloss": "der Fläche … zugewandt"
     },
     {
       "surface": "פני",
-      "gloss": "der Vorderseite"
+      "gloss": "der Fläche"
     },
     {
       "surface": "המנורה",
-      "gloss": "⟨der⟩ Menora"
+      "gloss": "der Leuchter"
     },
     {
       "surface": "יאירו",
@@ -69,6 +69,6 @@
       "gloss": "Lampen"
     }
   ],
-  "timestamp": "2026-08-06T02:16:06.692458123Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:28.409699178Z",
+  "model": "glm-5.3"
 }

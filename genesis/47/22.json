@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 47,
-  "translation": "Nur den Ackerboden der Kohen kaufte er nicht, denn ⟨es war⟩ eine Zuweisung für die Kohen seitens Paros, und sie aßen ⟨את⟩ ihre Zuweisung, die Paro ihnen gegeben hatte; darum verkauften sie ⟨את⟩ ihren Ackerboden nicht.",
+  "translation": "Nur den Ackerboden der Kohen kaufte er nicht, denn ⟨es war⟩ eine Zuweisung für die Kohen ⟨את⟩ seitens Paros, und sie aßen ⟨את⟩ ihre Zuweisung, die Paro ihnen gegeben hatte; darum verkauften sie ⟨את⟩ ihren Ackerboden nicht.",
   "tokens": [
     {
       "surface": "רק",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "seitens"
+      "gloss": "⟨את⟩ seitens"
     },
     {
       "surface": "פרעה",
@@ -102,6 +102,6 @@
       "gloss": "ihren Ackerboden"
     }
   ],
-  "timestamp": "2026-08-06T01:59:32.253019333Z",
+  "timestamp": "2026-08-24T21:30:49.180533244Z",
   "model": "glm-5.2"
 }

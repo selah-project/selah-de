@@ -5,92 +5,92 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 43,
-  "translation": "Und ⟨wenn⟩ sie ⟨die⟩ Tage vollendet haben, wird es am achten Tag und ⟨darüber⟩ hinaus ⟨sein⟩: die Kohen werden auf dem Altar ⟨את⟩ eure Olaw-Opfer und ⟨את⟩ eure Schelam-Opfer bereiten, und ich werde ⟨euch⟩ annehmen — <<Ausspruch>> Adonais, JHWH.",
+  "translation": "Und sie werden die Tage vollenden, und es wird geschehen: Am achten Tag und weiterhin werden die Kohanim auf dem Altar eure Olot und eure Schelamim bereiten, und ich werde euch Wohlgefallen schenken — Spruch Adonais, JHWH.",
   "tokens": [
     {
-      "surface": "וִֽיכַלּ֖וּ",
-      "gloss": "Und sie werden vollenden"
+      "surface": "ויכלו",
+      "gloss": "und sie werden vollenden"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "die Tage"
     },
     {
-      "surface": "הַיָּמִ֑ים",
+      "surface": "הימים",
       "gloss": "die Tage"
     },
     {
-      "surface": "וְהָיָה֩",
-      "gloss": "und es wird sein"
+      "surface": "והיה",
+      "gloss": "und es wird geschehen"
     },
     {
-      "surface": "בַיּ֨וֹם",
+      "surface": "ביום",
       "gloss": "am Tag"
     },
     {
-      "surface": "הַשְּׁמִינִ֜י",
+      "surface": "השמיני",
       "gloss": "dem achten"
     },
     {
-      "surface": "וָהָ֗לְאָה",
-      "gloss": "und darüber hinaus"
+      "surface": "והלאה",
+      "gloss": "und weiterhin"
     },
     {
-      "surface": "יַעֲשׂ֨וּ",
+      "surface": "יעשו",
       "gloss": "werden sie bereiten"
     },
     {
-      "surface": "הַכֹּהֲנִ֤ים",
-      "gloss": "die Kohen"
+      "surface": "הכהנים",
+      "gloss": "die Kohanim"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "auf"
     },
     {
-      "surface": "הַמִּזְבֵּ֨חַ֙",
+      "surface": "המזבח",
       "gloss": "dem Altar"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eure Olaw-Opfer"
+      "marks": "eure Olot"
     },
     {
-      "surface": "עוֹלֽוֹתֵיכֶם֙",
-      "gloss": "eure Olaw-Opfer"
+      "surface": "עולותיכם",
+      "gloss": "eure Olot"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "und ⟨את⟩",
-      "marks": "eure Schelam-Opfer"
+      "marks": "eure Schelamim"
     },
     {
-      "surface": "שַׁלְמֵיכֶ֔ם",
-      "gloss": "eure Schelam-Opfer"
+      "surface": "שלמיכם",
+      "gloss": "eure Schelamim"
     },
     {
-      "surface": "וְרָצִ֣אתִי",
-      "gloss": "und ich werde annehmen"
+      "surface": "ורצאתי",
+      "gloss": "und ich werde Wohlgefallen schenken"
     },
     {
-      "surface": "אֶתְכֶ֔ם",
-      "gloss": "euch"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨euch⟩"
     },
     {
-      "surface": "נְאֻ֖ם",
-      "gloss": "Ausspruch"
+      "surface": "נאם",
+      "gloss": "Spruch"
     },
     {
-      "surface": "אֲדֹנָ֥י",
+      "surface": "אדני",
       "gloss": "Adonais"
     },
     {
-      "surface": "יְהֹוִֽה",
+      "surface": "יהוה",
       "gloss": "JHWH"
     }
   ],
-  "timestamp": "2026-08-06T15:18:18.677597668Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:55.989943589Z",
+  "model": "glm-5.3"
 }

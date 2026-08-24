@@ -5,62 +5,62 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 1,
-  "translation": "Euer Land ⟨ist⟩ Verwüstung, eure Städte ⟨sind⟩ mit Feuer verbrannt; euren Acker — Fremde fressen ⟨את ihn⟩ vor euch, ⟨und⟩ ⟨er ist⟩ Verwüstung wie eine Umkehrung von Fremden.",
+  "translation": "Euer Land ⟨ist⟩ Verwüstung, eure Städte sind mit Feuer verbrannt; euren Boden — Fremde fressen ihn vor euren Augen ⟨את⟩ auf, und ⟨er ist⟩ Verwüstung, wie von Fremden umgewälzt.",
   "tokens": [
     {
-      "surface": "אַרְצְכֶ֣ם",
-      "gloss": "euer Land"
+      "surface": "ארצכם",
+      "gloss": "Euer Land"
     },
     {
-      "surface": "שְׁמָמָ֔ה",
+      "surface": "שממה",
       "gloss": "Verwüstung"
     },
     {
-      "surface": "עָרֵיכֶ֖ם",
+      "surface": "עריכם",
       "gloss": "eure Städte"
     },
     {
-      "surface": "שְׂרֻפ֣וֹת",
+      "surface": "שרפות",
       "gloss": "verbrannt"
     },
     {
-      "surface": "אֵ֑שׁ",
+      "surface": "אש",
       "gloss": "mit Feuer"
     },
     {
-      "surface": "אַדְמַתְכֶ֗ם",
-      "gloss": "euren Acker"
+      "surface": "אדמתכם",
+      "gloss": "euren Boden"
     },
     {
-      "surface": "לְנֶגְדְּכֶם֙",
-      "gloss": "vor euch"
+      "surface": "לנגדכם",
+      "gloss": "vor euren Augen"
     },
     {
-      "surface": "זָרִים֙",
+      "surface": "זרים",
       "gloss": "Fremde"
     },
     {
-      "surface": "אֹכְלִ֣ים",
-      "gloss": "fressen"
+      "surface": "אכלים",
+      "gloss": "fressen auf"
     },
     {
-      "surface": "אֹתָ֔הּ",
-      "gloss": "⟨את ihn⟩",
-      "marks": "euren Acker"
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ihn (euren Boden)"
     },
     {
-      "surface": "וּשְׁמָמָ֖ה",
-      "gloss": "und Verwüstung"
+      "surface": "ושממה",
+      "gloss": "und ⟨ist⟩ Verwüstung"
     },
     {
-      "surface": "כְּמַהְפֵּכַ֥ת",
-      "gloss": "wie eine Umkehrung"
+      "surface": "כמהפכת",
+      "gloss": "wie umgewälzt"
     },
     {
-      "surface": "זָרִֽים",
+      "surface": "זרים",
       "gloss": "von Fremden"
     }
   ],
-  "timestamp": "2026-08-06T03:10:20.604196131Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:03:06.420743017Z",
+  "model": "glm-5.3"
 }

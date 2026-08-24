@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 31,
-  "translation": "Und ich, siehe, ich habe ihm gegeben ⟨als Gefährten⟩ ⟨את⟩ Aholijaw, den Sohn Achisamachs, vom Stamm Dan, und in das Herz jedes Weisen habe ich Weisheit gegeben, und sie werden ⟨את⟩ alles ausführen, was ich dir geboten habe.",
+  "translation": "Und ich, siehe, ich habe ⟨את⟩ ihm gegeben ⟨als Gefährten⟩ ⟨את⟩ Aholijaw, den Sohn Achisamachs, vom Stamm Dan, und in das Herz jedes Weisen habe ich Weisheit gegeben, und sie werden ⟨את⟩ alles ausführen, was ich dir geboten habe.",
   "tokens": [
     {
       "surface": "ואני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihm"
+      "gloss": "⟨את⟩ ihm"
     },
     {
       "surface": "את",
@@ -94,6 +94,6 @@
       "gloss": "ich dir geboten habe"
     }
   ],
-  "timestamp": "2026-08-05T20:15:22.044334701Z",
+  "timestamp": "2026-08-24T21:30:49.645817429Z",
   "model": "glm-5.2"
 }

@@ -5,102 +5,102 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 32,
-  "translation": "Darum essen die Söhne Jisraels ⟨את⟩ die Sehne ⟨הנשה⟩, die auf der Pfanne des Oberschenkels ⟨liegt⟩, bis auf diesen Tag, denn er berührte die Pfanne des Oberschenkels Jaakows, ⟨an⟩ der Sehne ⟨הנשה⟩.",
+  "translation": "Darum essen die Kinder Jisraels nicht ⟨את⟩ die Sehne הנשה, die auf der Hohlhand der Hüfte liegt, bis zum heutigen Tag — denn er rührte die Hohlhand der Hüfte Jaakows, an der Sehne הנשה.",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
+      "gloss": "Darum"
+    },
+    {
+      "surface": "כן",
       "gloss": "darum"
     },
     {
-      "surface": "כֵּן",
-      "gloss": "darum"
-    },
-    {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "nicht"
     },
     {
-      "surface": "יֹאכְלוּ",
+      "surface": "יאכלו",
       "gloss": "essen"
     },
     {
-      "surface": "בְנֵי",
-      "gloss": "die Söhne"
+      "surface": "בני",
+      "gloss": "die Kinder"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "Jisraels"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "die Sehne"
+      "marks": "die Sehne הנשה"
     },
     {
-      "surface": "גִּיד",
-      "gloss": "Sehne"
+      "surface": "גיד",
+      "gloss": "die Sehne"
     },
     {
-      "surface": "הַנָּשֶׁה",
-      "gloss": "⟨die verschrumpfte⟩"
+      "surface": "הנשה",
+      "gloss": "הנשה"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "die"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "auf"
     },
     {
-      "surface": "כַּף",
-      "gloss": "der Pfanne"
+      "surface": "כף",
+      "gloss": "der Hohlhand"
     },
     {
-      "surface": "הַיָּרֵךְ",
-      "gloss": "des Oberschenkels"
+      "surface": "הירך",
+      "gloss": "der Hüfte"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "bis"
     },
     {
-      "surface": "הַיּוֹם",
-      "gloss": "auf den Tag"
+      "surface": "היום",
+      "gloss": "zum heutigen Tag"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "diesen"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "denn"
     },
     {
-      "surface": "נָגַע",
-      "gloss": "er berührte"
+      "surface": "נגע",
+      "gloss": "rührte"
     },
     {
-      "surface": "בְּכַף",
-      "gloss": "die Pfanne"
+      "surface": "בכף",
+      "gloss": "die Hohlhand"
     },
     {
-      "surface": "יֶרֶךְ",
-      "gloss": "des Oberschenkels"
+      "surface": "ירך",
+      "gloss": "der Hüfte"
     },
     {
-      "surface": "יַעֲקֹב",
+      "surface": "יעקב",
       "gloss": "Jaakows"
     },
     {
-      "surface": "בְּגִיד",
-      "gloss": "⟨an⟩ der Sehne"
+      "surface": "בגיד",
+      "gloss": "an der Sehne"
     },
     {
-      "surface": "הַנָּשֶׁה",
-      "gloss": "⟨die verschrumpfte⟩"
+      "surface": "הנשה",
+      "gloss": "הנשה"
     }
   ],
-  "timestamp": "2026-08-05T17:36:47.847843868Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:03:22.709666516Z",
+  "model": "glm-5.3"
 }

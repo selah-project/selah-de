@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 22,
-  "translation": "Und der König von Aram hatte ⟨את⟩ die Obersten der Streitwagen, die ihm gehörten — zweiunddreißig — geboten, indem er sagte: „Nicht sollt ihr kämpfen ⟨mit⟩ Kleinem und ⟨mit⟩ Großem, sondern ⟨mit⟩ dem König von Jisra'el allein.“",
+  "translation": "Und der König von Aram hatte ⟨את⟩ die Obersten der Streitwagen, die ihm gehörten — zweiunddreißig — geboten, indem er sagte: „Nicht sollt ihr kämpfen ⟨mit⟩ Kleinem ⟨את⟩ und ⟨mit⟩ Großem, sondern ⟨mit⟩ dem König von Jisra'el allein.“",
   "tokens": [
     {
       "surface": "ומלך",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨mit⟩",
+      "gloss": "⟨את⟩ ⟨mit⟩",
       "marks": "Kleinem"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "und ⟨mit⟩"
+      "gloss": "⟨את⟩ und ⟨mit⟩"
     },
     {
       "surface": "גדול",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨mit⟩",
+      "gloss": "⟨את⟩ ⟨mit⟩",
       "marks": "dem König von Jisra'el"
     },
     {
@@ -103,6 +103,6 @@
       "gloss": "allein"
     }
   ],
-  "timestamp": "2026-08-05T21:33:09.453155296Z",
+  "timestamp": "2026-08-24T21:30:50.321884803Z",
   "model": "glm-5.2"
 }

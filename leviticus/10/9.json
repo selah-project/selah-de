@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 10,
-  "translation": "Wein und Rauschtrank sollst du nicht trinken, du und deine Söhne mit dir, bei eurem Kommen ins Zelt der Begegnung, und ihr werdet nicht sterben — ⟨eine⟩ ewige Satzung für eure Generationen.",
+  "translation": "Wein und Rauschtrank sollst du nicht trinken, du und deine Söhne ⟨את⟩ mit dir, bei eurem Kommen ins Zelt der Begegnung, und ihr werdet nicht sterben — ⟨eine⟩ ewige Satzung für eure Generationen.",
   "tokens": [
     {
       "surface": "יין",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "mit dir"
+      "gloss": "⟨את⟩ mit dir"
     },
     {
       "surface": "בבאכם",
@@ -72,6 +72,6 @@
       "gloss": "für eure Generationen"
     }
   ],
-  "timestamp": "2026-08-06T05:19:10.768004842Z",
+  "timestamp": "2026-08-24T21:30:50.037774849Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 24,
-  "translation": "Und es geschah danach, da schlug ⟨das⟩ Herz ⟨des⟩ Dawid ihn, wegen ⟨des⟩ Saumes, den er von dem abgeschnitten hatte, der Schaul gehörte —",
+  "translation": "Und es geschah danach, da schlug ⟨das⟩ Herz ⟨des⟩ Dawid ⟨את⟩ ihn, wegen ⟨des⟩ Saumes, den er von dem abgeschnitten hatte, der Schaul gehörte —",
   "tokens": [
     {
       "surface": "ויהי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "על",
@@ -65,6 +65,6 @@
       "gloss": "Schaul gehörte"
     }
   ],
-  "timestamp": "2026-08-06T01:10:28.232723376Z",
+  "timestamp": "2026-08-24T21:30:49.774389714Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 54,
-  "translation": "Siehe, ⟨wenn⟩ sich auch eine Schar zusammenrottet — ⟨so ist es⟩ nicht von mir. Wer ⟨immer⟩ sich wider dich rotten wird, ⟨der⟩ wird wegen dir fallen.",
+  "translation": "Siehe, ⟨wenn⟩ sich auch eine Schar zusammenrottet — ⟨so ist es⟩ nicht von mir. Wer ⟨immer⟩ sich ⟨את⟩ wider dich rotten wird, ⟨der⟩ wird wegen dir fallen.",
   "tokens": [
     {
       "surface": "הן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מאותי",
-      "gloss": "nicht ⟨von⟩ mir"
+      "gloss": "⟨את⟩ nicht ⟨von⟩ mir"
     },
     {
       "surface": "מי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "wider dich"
+      "gloss": "⟨את⟩ wider dich"
     },
     {
       "surface": "עליך",
@@ -48,6 +48,6 @@
       "gloss": "wird fallen"
     }
   ],
-  "timestamp": "2026-08-06T03:21:21.179093279Z",
+  "timestamp": "2026-08-24T21:30:50.136192671Z",
   "model": "glm-5.2"
 }

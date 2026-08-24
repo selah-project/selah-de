@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 16,
-  "translation": "Und Feuer ging aus von JHWH ⟨וְאֵשׁ יָצְאָה מֵאֵת יְהוָה⟩ und verzehrte ⟨את⟩ die zweihundertfünfzig Männer, die das Räucherwerk Darzubringenden.",
+  "translation": "Und Feuer ging aus von JHWH ⟨מאת⟩, und es verzehrte ⟨את⟩ die Fünfzig und Zweihundert Mann, die Darbringenden des Räucherwerks.",
   "tokens": [
     {
       "surface": "ואש",
@@ -17,7 +17,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von"
+      "gloss": "⟨את⟩",
+      "marks": "von JHWH"
     },
     {
       "surface": "יהוה",
@@ -30,29 +31,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "die zweihundertfünfzig Männer"
+      "marks": "die Fünfzig und Zweihundert Mann"
     },
     {
       "surface": "החמשים",
-      "gloss": "die fünfzig"
+      "gloss": "die Fünfzig"
     },
     {
       "surface": "ומאתים",
-      "gloss": "und zweihundert"
+      "gloss": "und Zweihundert"
     },
     {
       "surface": "איש",
-      "gloss": "Männer"
+      "gloss": "Mann"
     },
     {
       "surface": "מקריבי",
-      "gloss": "die Darzubringenden"
+      "gloss": "die Darbringenden"
     },
     {
       "surface": "הקטרת",
       "gloss": "des Räucherwerks"
     }
   ],
-  "timestamp": "2026-08-05T20:34:43.781716303Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:30.576388287Z",
+  "model": "glm-5.3"
 }

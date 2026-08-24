@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 32,
-  "translation": "Dafür, dass ihr an mir treulos gehandelt habt inmitten der Söhne Jisraels, bei den Wassern von Meriwat-Kadesch, in der Wüste Zin, dafür, dass ihr mich nicht geheiligt habt inmitten der Söhne Jisraels.",
+  "translation": "Dafür, dass ihr an mir treulos gehandelt habt inmitten der Söhne Jisraels, bei den Wassern von Meriwat-Kadesch, in der Wüste Zin, dafür, dass ihr ⟨את⟩ mich nicht geheiligt habt inmitten der Söhne Jisraels.",
   "tokens": [
     {
       "surface": "על",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אותי",
-      "gloss": "mich"
+      "gloss": "⟨את⟩ mich"
     },
     {
       "surface": "בתוך",
@@ -88,6 +88,6 @@
       "gloss": "Jisraels"
     }
   ],
-  "timestamp": "2026-08-05T20:51:45.206011379Z",
+  "timestamp": "2026-08-24T21:30:49.789361455Z",
   "model": "glm-5.2"
 }

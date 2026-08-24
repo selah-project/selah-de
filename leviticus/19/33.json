@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 19,
-  "translation": "Und wenn ein Ger bei dir in eurem Land als Fremder lebt, sollt ihr ihn nicht bedrücken.",
+  "translation": "Und wenn ein Ger ⟨את⟩ bei dir in eurem Land als Fremder lebt, sollt ihr ihn nicht bedrücken.",
   "tokens": [
     {
       "surface": "וכי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bei dir"
+      "gloss": "⟨את⟩ bei dir"
     },
     {
       "surface": "גר",
@@ -41,6 +41,6 @@
       "marks": "ihn"
     }
   ],
-  "timestamp": "2026-08-05T20:25:28.782501575Z",
+  "timestamp": "2026-08-24T21:30:50.098939627Z",
   "model": "glm-5.2"
 }

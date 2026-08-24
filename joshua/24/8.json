@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "de",
   "chapter": 24,
-  "translation": "Und ich brachte euch ins Land des Emori, das jenseits des Jardens wohnt, und sie kämpften mit euch, und ich gab sie in eure Hand, und ihr nahmt ⟨את⟩ ihr Land in Besitz, und ich vertilgte sie aus eurem Angesicht.",
+  "translation": "Und ich brachte euch ins Land des Emori, das jenseits des Jardens wohnt, und sie kämpften ⟨את⟩ mit euch, und ich gab sie in eure Hand, und ihr nahmt ⟨את⟩ ihr Land in Besitz, und ich vertilgte sie aus eurem Angesicht.",
   "tokens": [
     {
       "surface": "ואבאה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "אל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "mit euch"
+      "gloss": "⟨את⟩ mit euch"
     },
     {
       "surface": "ואתן",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "בידכם",
@@ -81,6 +81,6 @@
       "gloss": "aus eurem Angesicht"
     }
   ],
-  "timestamp": "2026-08-05T20:59:33.532872670Z",
+  "timestamp": "2026-08-24T21:30:50.293475103Z",
   "model": "glm-5.2"
 }

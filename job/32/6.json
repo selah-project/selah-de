@@ -5,82 +5,82 @@
   "book": "job",
   "lang": "de",
   "chapter": 32,
-  "translation": "Und Elihu, der Sohn Barachels, des Busiters, antwortete und sprach: „Jung bin ich an Tagen, und ihr seid Betagte; darum hielt ich zurück und fürchtete mich, ⟨euch⟩ mein Wissen mitzuteilen ⟨אתךֶם⟩.",
+  "translation": "Und Eljihu, Sohn des Barachel, der Busiter, antwortete und sprach: Jung bin ich an Tagen, und ihr seid Hochbetagte; darum schlich ich ⟨mich zurück⟩ und fürchtete mich, euch mein Wissen kundzutun.",
   "tokens": [
     {
-      "surface": "וַיַּ֤עַן",
-      "gloss": "Und antwortete"
+      "surface": "ויען",
+      "gloss": "und antwortete"
     },
     {
-      "surface": "אֱלִיה֖וּא",
-      "gloss": "Elihu"
+      "surface": "אליהוא",
+      "gloss": "Eljihu"
     },
     {
-      "surface": "בֶן",
+      "surface": "בן",
       "gloss": "Sohn"
     },
     {
-      "surface": "בַּֽרַכְאֵ֥ל",
+      "surface": "ברכאל",
       "gloss": "Barachels"
     },
     {
-      "surface": "הַבּוּזִ֗י",
-      "gloss": "des Busiters"
+      "surface": "הבוזי",
+      "gloss": "der Busiter"
     },
     {
-      "surface": "וַיֹּ֫אמַ֥ר",
+      "surface": "ויאמר",
       "gloss": "und sprach"
     },
     {
-      "surface": "צָ֘עִ֤יר",
-      "gloss": "Jung"
+      "surface": "צעיר",
+      "gloss": "jung"
     },
     {
-      "surface": "אֲנִ֣י",
+      "surface": "אני",
       "gloss": "bin ich"
     },
     {
-      "surface": "לְ֭יָמִים",
+      "surface": "לימים",
       "gloss": "an Tagen"
     },
     {
-      "surface": "וְאַתֶּ֣ם",
+      "surface": "ואתם",
       "gloss": "und ihr"
     },
     {
-      "surface": "יְשִׁישִׁ֑ים",
-      "gloss": "Betagte"
+      "surface": "ישישים",
+      "gloss": "seid Hochbetagte"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
+      "gloss": "darum (על־כן)"
+    },
+    {
+      "surface": "כן",
       "gloss": "darum"
     },
     {
-      "surface": "כֵּ֖ן",
-      "gloss": "[ebenso]"
+      "surface": "זחלתי",
+      "gloss": "schlich ich ⟨mich zurück⟩"
     },
     {
-      "surface": "זָחַ֥לְתִּי",
-      "gloss": "hielt ich zurück"
-    },
-    {
-      "surface": "וָֽאִירָ֓א",
+      "surface": "ואירא",
       "gloss": "und fürchtete mich"
     },
     {
-      "surface": "מֵחַוֺּ֖ת",
-      "gloss": "mitzuteilen"
+      "surface": "מחות",
+      "gloss": "kundzutun"
     },
     {
-      "surface": "דֵּעִ֣י",
+      "surface": "דעי",
       "gloss": "mein Wissen"
     },
     {
-      "surface": "אֶתְכֶֽם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch — Objektpronomen, nicht der reine DOM"
     }
   ],
-  "timestamp": "2026-08-06T15:26:40.933618726Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:03:07.534237212Z",
+  "model": "glm-5.3"
 }

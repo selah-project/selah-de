@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und er legte ⟨את⟩ das Ganze auf die Hände Aharons und auf die Hände seiner Söhne und Schwang ⟨sie⟩ als Schwingung vor JHWH.",
+  "translation": "Und er legte ⟨את⟩ das Ganze auf die Hände Aharons und auf die Hände seiner Söhne und Schwang ⟨את⟩ ⟨sie⟩ als Schwingung vor JHWH.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨sie⟩",
+      "gloss": "⟨את⟩ ⟨sie⟩",
       "marks": "als Schwingung"
     },
     {
@@ -66,6 +66,6 @@
       "gloss": "JHWH"
     }
   ],
-  "timestamp": "2026-08-05T20:22:07.158735474Z",
+  "timestamp": "2026-08-24T21:30:50.090293878Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "de",
   "chapter": 11,
-  "translation": "Und ich habe nicht gegen dich gesündigt, und du tust mir Böses, ⟨indem⟩ du gegen mich kämpfst. JHWH, der Richter, ⟨soll⟩ heute richten zwischen den Söhnen Jisra'els und zwischen den Söhnen Ammons.",
+  "translation": "Und ich habe nicht gegen dich gesündigt, und du tust ⟨את⟩ mir Böses, ⟨indem⟩ du gegen mich kämpfst. JHWH, der Richter, ⟨soll⟩ heute richten zwischen den Söhnen Jisra'els und zwischen den Söhnen Ammons.",
   "tokens": [
     {
       "surface": "ואנכי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "mir"
+      "gloss": "⟨את⟩ mir"
     },
     {
       "surface": "רעה",
@@ -88,6 +88,6 @@
       "gloss": "Ammons"
     }
   ],
-  "timestamp": "2026-08-06T09:57:11.423377932Z",
+  "timestamp": "2026-08-24T21:30:49.355700228Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 12,
-  "translation": "Und ⟨es gefiel⟩ den Kohen ⟨zu⟩, kein Silber mehr von dem Volk zu nehmen und ⟨zu⟩ verzichten darauf, ⟨את⟩ den Riss des Hauses auszubessern.",
+  "translation": "Und ⟨es gefiel⟩ den Kohen ⟨zu⟩, kein Silber mehr ⟨את⟩ von dem Volk zu nehmen und ⟨zu⟩ verzichten darauf, ⟨את⟩ den Riss des Hauses auszubessern.",
   "tokens": [
     {
       "surface": "ויאתו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von"
+      "gloss": "⟨את⟩ von"
     },
     {
       "surface": "העם",
@@ -57,6 +57,6 @@
       "gloss": "des Hauses"
     }
   ],
-  "timestamp": "2026-08-06T01:34:47.783358417Z",
+  "timestamp": "2026-08-24T21:30:49.986152509Z",
   "model": "glm-5.2"
 }

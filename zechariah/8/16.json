@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "de",
   "chapter": 8,
-  "translation": "Dies sind die Dinge, die ihr tun sollt: Redet Emet (Wahrheit), ein Mann ⟨mit⟩ seinem Nächsten, Emet und das Recht des Schalom — richtet in euren Toren!",
+  "translation": "Dies sind die Dinge, die ihr tun sollt: Redet Emet (Wahrheit), ein Mann ⟨את⟩ ⟨mit⟩ seinem Nächsten, Emet und das Recht des Schalom — richtet in euren Toren!",
   "tokens": [
     {
       "surface": "אלה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨mit⟩",
+      "gloss": "⟨את⟩ ⟨mit⟩",
       "marks": "seinem Nächsten"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "in euren Toren"
     }
   ],
-  "timestamp": "2026-08-06T09:12:34.149439215Z",
+  "timestamp": "2026-08-24T21:30:49.392013809Z",
   "model": "glm-5.2"
 }

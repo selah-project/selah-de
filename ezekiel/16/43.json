@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 16,
-  "translation": "Weil du nicht die Tage deiner Jugend gedacht hast und mich mit all diesen Dingen aufgeregt hast — siehe, auch ich, siehe, deinen Weg auf den Kopf habe ich gegeben, Spruch Adonai JHWHs. Und ⟨ich⟩ habe ⟨es⟩ nicht getan, ⟨וְלֹא עָשִׂיתִי⟩ ⟨את⟩ die Schandtat über all deinen Gräueln.",
+  "translation": "Weil du nicht gedacht hast an ⟨את⟩ die Tage deiner Jugend und du mich aufgewühlt hast mit all diesen Dingen — siehe, auch ich: deinen Weg auf dein Haupt habe ich gelegt, Spruch von Adonai JHWH, und ⟨hast⟩ nicht getan ⟨du⟩ ⟨את⟩ die Schandtat über all deinen Gräueln?",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "weil"
+      "gloss": "Weil"
     },
     {
       "surface": "אשר",
-      "gloss": "dass"
+      "gloss": "⟨—⟩"
     },
     {
       "surface": "לא",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "זכרתי",
-      "gloss": "du gedacht hast"
+      "gloss": "gedacht hast"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "die Tage"
+      "marks": "die Tage deiner Jugend"
     },
     {
       "surface": "ימי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ותרגזי",
-      "gloss": "und du aufgeregt hast"
+      "gloss": "und du aufgewühlt hast"
     },
     {
       "surface": "לי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "und auch"
+      "gloss": "auch"
     },
     {
       "surface": "אני",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "בראש",
-      "gloss": "auf den Kopf"
+      "gloss": "auf dein Haupt"
     },
     {
       "surface": "נתתי",
-      "gloss": "habe ich gegeben"
+      "gloss": "habe ich gelegt"
     },
     {
       "surface": "נאם",
@@ -86,15 +86,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "JHWHs"
+      "gloss": "JHWH"
     },
     {
       "surface": "ולא",
-      "gloss": "und ⟨ich⟩ nicht"
+      "gloss": "und nicht"
     },
     {
       "surface": "עשיתי",
-      "gloss": "habe ⟨ich⟩ getan"
+      "gloss": "getan"
     },
     {
       "surface": "את",
@@ -118,6 +118,6 @@
       "gloss": "deinen Gräueln"
     }
   ],
-  "timestamp": "2026-08-06T15:17:38.605126315Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:46.591840113Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 11,
-  "translation": "Und Elohim erweckte ihm ⟨einen⟩ Widersacher: ⟨את⟩ Reson, den Sohn Eljadas, der vor seinem Herrn Hadad-Eser, dem König von Tzowa, geflohen war.",
+  "translation": "Und Elohim erweckte ihm ⟨einen⟩ Widersacher: ⟨את⟩ Reson, den Sohn Eljadas, der ⟨את⟩ vor seinem Herrn Hadad-Eser, dem König von Tzowa, geflohen war.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "vor"
+      "gloss": "⟨את⟩ vor"
     },
     {
       "surface": "הדדעזר",
@@ -69,6 +69,6 @@
       "gloss": "seinem Herrn"
     }
   ],
-  "timestamp": "2026-08-06T01:25:32.308722141Z",
+  "timestamp": "2026-08-24T21:30:50.313076697Z",
   "model": "glm-5.2"
 }

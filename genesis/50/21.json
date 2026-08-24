@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 50,
-  "translation": "Und nun, fürchtet euch nicht. Ich, ich werde ⟨euch⟩ versorgen, euch und ⟨את⟩ eure Kleinen. Und er tröstete sie und redete auf ihr Herz.",
+  "translation": "Und nun, fürchtet euch nicht. Ich, ich werde ⟨את⟩ ⟨euch⟩ versorgen, euch und ⟨את⟩ eure Kleinen. Und er tröstete ⟨את⟩ sie und redete auf ihr Herz.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨euch⟩"
+      "gloss": "⟨את⟩ ⟨euch⟩"
     },
     {
       "surface": "ואת",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "וידבר",
@@ -61,6 +61,6 @@
       "gloss": "ihr Herz"
     }
   ],
-  "timestamp": "2026-08-06T05:13:44.865049808Z",
+  "timestamp": "2026-08-24T21:30:49.165718610Z",
   "model": "glm-5.2"
 }

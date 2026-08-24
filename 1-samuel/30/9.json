@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 30,
-  "translation": "Und Dawid ging, er und sechshundert Mann, die bei ihm waren, und sie kamen bis zum Bach HaBesor; und die Übriggebliebenen blieben stehen.",
+  "translation": "Und Dawid ging, er und sechshundert Mann, die ⟨את⟩ bei ihm waren, und sie kamen bis zum Bach HaBesor; und die Übriggebliebenen blieben stehen.",
   "tokens": [
     {
       "surface": "וַיֵּ֣לֶךְ",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אִתּ֔וֹ",
-      "gloss": "bei ihm waren"
+      "gloss": "⟨את⟩ bei ihm waren"
     },
     {
       "surface": "וַיָּבֹ֖אוּ",
@@ -64,6 +64,6 @@
       "gloss": "blieben stehen"
     }
   ],
-  "timestamp": "2026-08-06T02:48:48.691220358Z",
+  "timestamp": "2026-08-24T21:30:49.722042781Z",
   "model": "glm-5.2"
 }

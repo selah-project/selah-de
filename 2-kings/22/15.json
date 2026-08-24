@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 22,
-  "translation": "Und sie sagte zu ihnen: So spricht JHWH, Elohim von Jisra'el: Sagt ⟨zu⟩ dem Mann, der ⟨euch⟩ zu mir gesandt ⟨hat⟩",
+  "translation": "Und sie sagte zu ihnen: So spricht JHWH, Elohim von Jisra'el: Sagt ⟨zu⟩ dem Mann, der ⟨את⟩ ⟨euch⟩ zu mir gesandt ⟨hat⟩",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨euch⟩",
+      "gloss": "⟨את⟩ ⟨euch⟩",
       "marks": "אלי — ‚zu mir' (als Ziel der Aussendung)"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "zu mir"
     }
   ],
-  "timestamp": "2026-08-06T01:37:41.592842433Z",
+  "timestamp": "2026-08-24T21:30:49.978412368Z",
   "model": "glm-5.2"
 }

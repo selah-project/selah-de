@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 15,
-  "translation": "Und Asarja legte sich zu seinen Vätern, und sie begruben ihn bei seinen Vätern in der Stadt Dawids. Und Jotam, sein Sohn, wurde König an seiner Stelle.",
+  "translation": "Und Asarja legte sich zu seinen Vätern, und sie begruben ⟨את⟩ ihn bei seinen Vätern in der Stadt Dawids. Und Jotam, sein Sohn, wurde König an seiner Stelle.",
   "tokens": [
     {
       "surface": "וישכב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "עם",
@@ -64,6 +64,6 @@
       "gloss": "an seiner Stelle"
     }
   ],
-  "timestamp": "2026-08-05T21:38:37.801233045Z",
+  "timestamp": "2026-08-24T21:30:49.968843528Z",
   "model": "glm-5.2"
 }

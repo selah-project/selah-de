@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "de",
   "chapter": 10,
-  "translation": "Und ihr habt ⟨mich⟩ verlassen und ⟨fremde⟩ Elohim gedient — deshalb werde ich ⟨euch⟩ nicht weiter retten.",
+  "translation": "Und ihr habt ⟨את⟩ ⟨mich⟩ verlassen und ⟨fremde⟩ Elohim gedient — deshalb werde ich ⟨⟨את⟩ euch⟩ nicht weiter retten.",
   "tokens": [
     {
       "surface": "ואתם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨mich⟩",
+      "gloss": "⟨את⟩ ⟨mich⟩",
       "marks": "mich"
     },
     {
@@ -50,9 +50,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     }
   ],
-  "timestamp": "2026-08-06T08:34:56.284442131Z",
+  "timestamp": "2026-08-24T21:30:49.328048007Z",
   "model": "glm-5.2"
 }

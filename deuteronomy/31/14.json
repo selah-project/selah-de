@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 31,
-  "translation": "Und JHWH sprach zu Mosche: Siehe, deine Tage haben sich genaht zum Sterben. Ruf ⟨את⟩ Jehoschuа, und stellt euch auf im Zelt der Begegnung, und ich werde ihn beauftragen. Und Mosche ging, und Jehoschuа, und sie stellten sich auf im Zelt der Begegnung.",
+  "translation": "Und JHWH sprach zu Mosche: Sieh, deine Tage nahen sich dem Sterben. Ruf Jehoschua, und stellt euch ins Zelt der Begegnung, damit ich ihn beauftrage. Da gingen Mosche und Jehoschua und stellten sich ins Zelt der Begegnung.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הן",
-      "gloss": "Siehe"
+      "gloss": "Sieh"
     },
     {
       "surface": "קרבו",
-      "gloss": "haben sich genaht"
+      "gloss": "nahen sich"
     },
     {
       "surface": "ימיך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "למות",
-      "gloss": "zum Sterben"
+      "gloss": "dem Sterben"
     },
     {
       "surface": "קרא",
@@ -46,19 +46,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehoschuа"
+      "marks": "Jehoschua"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehoschuа"
+      "gloss": "Jehoschua"
     },
     {
       "surface": "והתיצבו",
-      "gloss": "und stellt euch auf"
+      "gloss": "und stellt euch"
     },
     {
       "surface": "באהל",
-      "gloss": "im Zelt"
+      "gloss": "ins Zelt"
     },
     {
       "surface": "מועד",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "ואצונו",
-      "gloss": "und ich werde ihn beauftragen"
+      "gloss": "damit ich ihn beauftrage"
     },
     {
       "surface": "וילך",
-      "gloss": "Und ging"
+      "gloss": "Da gingen"
     },
     {
       "surface": "משה",
@@ -78,21 +78,21 @@
     },
     {
       "surface": "ויהושע",
-      "gloss": "und Jehoschuа"
+      "gloss": "und Jehoschua"
     },
     {
       "surface": "ויתיצבו",
-      "gloss": "und sie stellten sich auf"
+      "gloss": "und stellten sich"
     },
     {
       "surface": "באהל",
-      "gloss": "im Zelt"
+      "gloss": "ins Zelt"
     },
     {
       "surface": "מועד",
       "gloss": "der Begegnung"
     }
   ],
-  "timestamp": "2026-08-06T15:42:49.947755328Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:00.611591333Z",
+  "model": "glm-5.3"
 }

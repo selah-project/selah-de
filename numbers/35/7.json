@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 35,
-  "translation": "Alle Städte, die ihr den Lewim geben werdet, ⟨sollen⟩ achtundvierzig Städte ⟨sein⟩, sie und ⟨את⟩ ihre Weideflächen.",
+  "translation": "Alle Städte, die ihr den Lewim geben werdet, ⟨sollen⟩ achtundvierzig Städte ⟨sein⟩, ⟨את⟩ sie und ⟨את⟩ ihre Weideflächen.",
   "tokens": [
     {
       "surface": "כל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתהן",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "ואת",
@@ -53,6 +53,6 @@
       "gloss": "ihre Weideflächen"
     }
   ],
-  "timestamp": "2026-08-05T20:41:51.656433048Z",
+  "timestamp": "2026-08-24T21:30:50.171432417Z",
   "model": "glm-5.2"
 }

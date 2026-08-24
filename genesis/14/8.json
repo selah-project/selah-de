@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 14,
-  "translation": "Und es zog aus der König von Sedom und der König von Amora und der König von Adma und der König von Zebojim und der König von Bela, das ⟨ist⟩ Tzoar, und sie ordneten sich mit ihnen zur Schlacht im Tal der Siddim.",
+  "translation": "Und es zog aus der König von Sedom und der König von Amora und der König von Adma und der König von Zebojim und der König von Bela, das ⟨ist⟩ Tzoar, und sie ordneten ⟨את⟩ sich mit ihnen zur Schlacht im Tal der Siddim.",
   "tokens": [
     {
       "surface": "וַיֵּצֵ֨א",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אִתָּם֙",
-      "gloss": "sich mit ihnen"
+      "gloss": "⟨את⟩ sich mit ihnen"
     },
     {
       "surface": "מִלְחָמָ֔ה",
@@ -80,6 +80,6 @@
       "gloss": "der Siddim"
     }
   ],
-  "timestamp": "2026-08-06T08:12:52.798790134Z",
+  "timestamp": "2026-08-24T21:30:49.273185175Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 33,
-  "translation": "Und JHWH sprach: „Siehe, ⟨es ist⟩ ein Ort bei mir, und du sollst stehen auf dem Felsen.",
+  "translation": "Und JHWH sprach: „Siehe, ⟨es ist⟩ ein Ort ⟨את⟩ bei mir, und du sollst stehen auf dem Felsen.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "bei mir"
+      "gloss": "⟨את⟩ bei mir"
     },
     {
       "surface": "ונצבת",
@@ -40,6 +40,6 @@
       "gloss": "dem Felsen"
     }
   ],
-  "timestamp": "2026-08-05T20:15:03.160622367Z",
+  "timestamp": "2026-08-24T21:30:49.595225380Z",
   "model": "glm-5.2"
 }

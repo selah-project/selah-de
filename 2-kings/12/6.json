@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 12,
-  "translation": "Die Kohen sollen ⟨es⟩ sich nehmen, jeder von seinem Bekannten, und sie sollen ⟨את⟩ die Brüche des Hauses ausbessern, überall wo ⟨dort⟩ ein Bruch gefunden wird.",
+  "translation": "Die Kohen sollen ⟨es⟩ sich nehmen, jeder ⟨את⟩ von seinem Bekannten, und sie sollen ⟨את⟩ die Brüche des Hauses ausbessern, überall wo ⟨dort⟩ ein Bruch gefunden wird.",
   "tokens": [
     {
       "surface": "יקחו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von"
+      "gloss": "⟨את⟩ von"
     },
     {
       "surface": "מכרו",
@@ -73,6 +73,6 @@
       "gloss": "ein Bruch"
     }
   ],
-  "timestamp": "2026-08-06T10:09:30.216755496Z",
+  "timestamp": "2026-08-24T21:30:49.982199817Z",
   "model": "glm-5.2"
 }

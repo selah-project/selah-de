@@ -5,87 +5,87 @@
   "book": "haggai",
   "lang": "de",
   "chapter": 2,
-  "translation": "Wer ⟨ist⟩ unter euch, der Übriggebliebene, der ⟨dieses⟩ Haus ⟨את⟩ in seiner ersten Herrlichkeit gesehen hat? Und was seht ihr ⟨אתו⟩ jetzt? Ist es nicht wie nichts in euren Augen?",
+  "translation": "Wer von euch, ⟨der⟩ Übriggebliebene, hat ⟨את⟩ dieses Haus in seiner ersten Herrlichkeit gesehen? Und wie seht ihr ⟨⟨את⟩ ihn⟩ es jetzt? Ist es nicht, ihm verglichen, wie nichts in euren Augen?",
   "tokens": [
     {
-      "surface": "מִ֤י",
+      "surface": "מי",
       "gloss": "Wer"
     },
     {
-      "surface": "בָכֶם֙",
-      "gloss": "unter euch"
+      "surface": "בכם",
+      "gloss": "von euch"
     },
     {
-      "surface": "הַנִּשְׁאָ֔ר",
-      "gloss": "der Übriggebliebene"
+      "surface": "הנשאר",
+      "gloss": "⟨der⟩ Übriggebliebene"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
+      "surface": "אשר",
       "gloss": "der"
     },
     {
-      "surface": "רָאָה֙",
+      "surface": "ראה",
       "gloss": "gesehen hat"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨dieses⟩ Haus"
+      "marks": "dieses Haus"
     },
     {
-      "surface": "הַבַּ֣יִת",
-      "gloss": "⟨dieses⟩ Haus"
+      "surface": "הבית",
+      "gloss": "Haus"
     },
     {
-      "surface": "הַזֶּ֔ה",
+      "surface": "הזה",
       "gloss": "dieses"
     },
     {
-      "surface": "בִּכְבוֹד֖וֹ",
+      "surface": "בכבודו",
       "gloss": "in seiner Herrlichkeit"
     },
     {
-      "surface": "הָרִאשׁ֑וֹן",
-      "gloss": "ersten"
+      "surface": "הראשון",
+      "gloss": "erste"
     },
     {
-      "surface": "וּמָ֨ה",
-      "gloss": "Und was"
+      "surface": "ומה",
+      "gloss": "Und wie"
     },
     {
-      "surface": "אַתֶּ֜ם",
+      "surface": "אתם",
       "gloss": "ihr"
     },
     {
-      "surface": "רֹאִ֤ים",
+      "surface": "ראים",
       "gloss": "seht"
     },
     {
-      "surface": "אֹתוֹ֙",
-      "gloss": "⟨אתו⟩",
-      "marks": "es"
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ihn",
+      "marks": "es (das Haus)"
     },
     {
-      "surface": "עַ֔תָּה",
+      "surface": "עתה",
       "gloss": "jetzt"
     },
     {
-      "surface": "הֲל֥וֹא",
-      "gloss": "Ist ⟨es⟩ nicht"
+      "surface": "הלוא",
+      "gloss": "Ist es nicht"
     },
     {
-      "surface": "כָמֹ֛הוּ",
-      "gloss": "wie es"
+      "surface": "כמהו",
+      "gloss": "ihm verglichen"
     },
     {
-      "surface": "כְּאַ֖יִן",
+      "surface": "כאין",
       "gloss": "wie nichts"
     },
     {
-      "surface": "בְּעֵינֵיכֶֽם",
+      "surface": "בעיניכם",
       "gloss": "in euren Augen"
     }
   ],
-  "timestamp": "2026-08-06T04:05:15.232977673Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:02:54.485506978Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 6,
-  "translation": "„Dieses Haus, das du baust — wenn du in meinen Ordnungen gehst und ⟨את⟩ meine Rechtsbestimmungen tust und ⟨את⟩ all meine Gebote hältst, in ihnen zu gehen, dann werde ich ⟨את⟩ mein Wort mit dir bestätigen, das ich zu Dawid, deinem Vater, geredet habe.",
+  "translation": "„Dieses Haus, das du baust — wenn du in meinen Ordnungen gehst und ⟨את⟩ meine Rechtsbestimmungen tust und ⟨את⟩ all meine Gebote hältst, in ihnen zu gehen, dann werde ich ⟨את⟩ mein Wort ⟨את⟩ mit dir bestätigen, das ich zu Dawid, deinem Vater, geredet habe.",
   "tokens": [
     {
       "surface": "הבית",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "mit dir"
+      "gloss": "⟨את⟩ mit dir"
     },
     {
       "surface": "אשר",
@@ -115,6 +115,6 @@
       "gloss": "deinem Vater"
     }
   ],
-  "timestamp": "2026-08-05T21:26:25.881640923Z",
+  "timestamp": "2026-08-24T21:30:50.352220761Z",
   "model": "glm-5.2"
 }

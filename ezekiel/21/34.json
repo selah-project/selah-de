@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 21,
-  "translation": "Während ⟨man⟩ dir Nichtigkeit schaut, während ⟨man⟩ dir Lüge wahrsagt, um dich ⟨zu⟩ den Hälsen der Erschlagenen ⟨der⟩ Frevler zu legen, deren Tag gekommen ist, zur Zeit ⟨der⟩ Schuld, ⟨das⟩ Ende —",
+  "translation": "Während ⟨man⟩ dir Nichtigkeit schaut, während ⟨man⟩ dir Lüge wahrsagt, um ⟨את⟩ dich ⟨zu⟩ den Hälsen der Erschlagenen ⟨der⟩ Frevler zu legen, deren Tag gekommen ist, zur Zeit ⟨der⟩ Schuld, ⟨das⟩ Ende —",
   "tokens": [
     {
       "surface": "בחזות",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אותך",
-      "gloss": "dich"
+      "gloss": "⟨את⟩ dich"
     },
     {
       "surface": "אל",
@@ -80,6 +80,6 @@
       "gloss": "⟨das⟩ Ende"
     }
   ],
-  "timestamp": "2026-08-05T22:22:02.443802367Z",
+  "timestamp": "2026-08-24T21:30:49.853052441Z",
   "model": "glm-5.2"
 }

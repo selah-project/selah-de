@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 24,
-  "translation": "Und der König sagte zu Arawna: „Nein, denn kaufen werde ich ⟨es⟩ von dir kaufen für einen Preis, und ich werde JHWH, meinem Elohim, keine Olot umsonst hinaufsteigen lassen.“ Und David kaufte ⟨את⟩ die Tenne und ⟨את⟩ das Rindvieh für Silber, fünfzig Schekel.",
+  "translation": "Und der König sagte zu Arawna: „Nein, denn kaufen werde ich ⟨es⟩ ⟨את⟩ von dir kaufen für einen Preis, und ich werde JHWH, meinem Elohim, keine Olot umsonst hinaufsteigen lassen.“ Und David kaufte ⟨את⟩ die Tenne und ⟨את⟩ das Rindvieh für Silber, fünfzig Schekel.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מאותך",
-      "gloss": "von dir"
+      "gloss": "⟨את⟩ von dir"
     },
     {
       "surface": "במחיר",
@@ -110,6 +110,6 @@
       "gloss": "fünfzig"
     }
   ],
-  "timestamp": "2026-08-06T01:20:52.808172213Z",
+  "timestamp": "2026-08-24T21:30:49.133386828Z",
   "model": "glm-5.2"
 }

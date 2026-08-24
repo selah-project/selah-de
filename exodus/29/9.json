@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 29,
-  "translation": "Und du gürte ⟨אתם⟩ ⟨mit⟩ dem Gürtel Aharon und seine Söhne, und du binde ihnen Kopfbedeckungen auf, und ⟨es⟩ soll ihnen ⟨die⟩ Kehuna sein, als ewige Satzung, und du fülle die Hand Aharons und die Hand seiner Söhne.",
+  "translation": "Und du gürte sie ⟨את⟩ mit dem Gürtel, Aharon und seine Söhne, und binde ihnen die Mützen um; und ⟨es⟩ wird ihnen ⟨die⟩ Kehuna sein als ewige Satzung — und du füllst ⟨die⟩ Hand Aharons und ⟨die⟩ Hand seiner Söhne.",
   "tokens": [
     {
       "surface": "וחגרת",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "den Gürtel"
+      "gloss": "⟨את⟩",
+      "marks": "mit dem Gürtel"
     },
     {
       "surface": "אבנט",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "וחבשת",
-      "gloss": "und du binde auf"
+      "gloss": "und binde um"
     },
     {
       "surface": "להם",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "מגבעת",
-      "gloss": "Kopfbedeckungen"
+      "gloss": "Mützen"
     },
     {
       "surface": "והיתה",
-      "gloss": "und ⟨es⟩ soll sein"
+      "gloss": "und ⟨es⟩ wird sein"
     },
     {
       "surface": "להם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "כהנה",
-      "gloss": "Kehuna"
+      "gloss": "Kehuna (Priestertum)"
     },
     {
       "surface": "לחקת",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "ומלאת",
-      "gloss": "und du fülle"
+      "gloss": "und du füllst"
     },
     {
       "surface": "יד",
-      "gloss": "die Hand"
+      "gloss": "Hand"
     },
     {
       "surface": "אהרן",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "ויד",
-      "gloss": "und die Hand"
+      "gloss": "und ⟨die⟩ Hand"
     },
     {
       "surface": "בניו",
       "gloss": "seiner Söhne"
     }
   ],
-  "timestamp": "2026-08-05T20:13:35.698044640Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:03:26.168151326Z",
+  "model": "glm-5.3"
 }

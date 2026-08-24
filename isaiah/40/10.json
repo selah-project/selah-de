@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 40,
-  "translation": "Siehe, Adonai JHWH kommt mit Kraft, und sein Arm herrscht für ihn. Siehe, sein Lohn ⟨ist⟩ bei ihm und sein Werk ⟨geht⟩ vor ihm her: ⟨wie ⟨את⟩ seinen Lohn, so ⟨את⟩ sein Werk⟩.",
+  "translation": "Siehe, Adonai JHWH kommt mit Kraft, und sein Arm herrscht für ihn. Siehe, sein Lohn ⟨ist⟩ ⟨את⟩ bei ihm und sein Werk ⟨geht⟩ vor ihm her: ⟨wie ⟨את⟩ seinen Lohn, so ⟨את⟩ sein Werk⟩.",
   "tokens": [
     {
       "surface": "הִנֵּ֨ה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אִתּ֔וֹ",
-      "gloss": "bei ihm"
+      "gloss": "⟨את⟩ bei ihm"
     },
     {
       "surface": "וּפְעֻלָּת֖וֹ",
@@ -60,6 +60,6 @@
       "gloss": "vor ihm"
     }
   ],
-  "timestamp": "2026-08-05T21:52:08.668007550Z",
+  "timestamp": "2026-08-24T21:30:50.149708882Z",
   "model": "glm-5.2"
 }

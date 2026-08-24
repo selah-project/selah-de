@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "de",
   "chapter": 25,
-  "translation": "Und ⟨was⟩ seine Speise ⟨betrifft⟩, eine tägliche Speise wurde ihm gegeben, seiten des Königs, das Wort eines Tages an seinem Tag, alle Tage seines Lebens.",
+  "translation": "Und ⟨was⟩ seine Speise ⟨betrifft⟩, eine tägliche Speise wurde ihm gegeben, ⟨את⟩ seiten des Königs, das Wort eines Tages an seinem Tag, alle Tage seines Lebens.",
   "tokens": [
     {
       "surface": "וארחתו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "seiten"
+      "gloss": "⟨את⟩ seiten"
     },
     {
       "surface": "המלך",
@@ -60,6 +60,6 @@
       "gloss": "seines Lebens"
     }
   ],
-  "timestamp": "2026-08-06T01:38:57.012883256Z",
+  "timestamp": "2026-08-24T21:30:50.008189395Z",
   "model": "glm-5.2"
 }

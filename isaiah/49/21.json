@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "de",
   "chapter": 49,
-  "translation": "Und du wirst in deinem Herzen sagen: Wer hat mir ⟨את⟩ diese geboren? Und ich ⟨bin⟩ der Kinder Beraubte und Vereinsamte, Verbannte und Weggeführte. Und diese — wer hat ⟨sie⟩ großgezogen? Siehe, ich ⟨war〉 allein übriggeblieben, diese — wo sind sie?",
+  "translation": "Und du wirst in deinem Herzen sagen: Wer hat mir ⟨את⟩ diese geboren? Ich war kinderlos beraubt und vereinsamt, verschleppt ins Exil und verstoßen — und diese, wer hat sie großgezogen? Sieh, ich blieb allein zurück; diese — wo sind sie?",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "Und du wirst sagen"
+      "gloss": "und du wirst sagen"
     },
     {
       "surface": "בלבבך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מי",
-      "gloss": "Wer"
+      "gloss": "wer"
     },
     {
       "surface": "ילד",
@@ -38,27 +38,27 @@
     },
     {
       "surface": "ואני",
-      "gloss": "Und ich"
+      "gloss": "und ich"
     },
     {
       "surface": "שכולה",
-      "gloss": "der Kinder Beraubte"
+      "gloss": "kinderlos beraubt"
     },
     {
       "surface": "וגלמודה",
-      "gloss": "und Vereinsamte"
+      "gloss": "und vereinsamt"
     },
     {
       "surface": "גלה",
-      "gloss": "Verbannte"
+      "gloss": "verschleppt ins Exil"
     },
     {
       "surface": "וסורה",
-      "gloss": "und Weggeführte"
+      "gloss": "und verstoßen"
     },
     {
       "surface": "ואלה",
-      "gloss": "Und diese"
+      "gloss": "und diese"
     },
     {
       "surface": "מי",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "הן",
-      "gloss": "Siehe"
+      "gloss": "sieh"
     },
     {
       "surface": "אני",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "נשארתי",
-      "gloss": "bin übriggeblieben"
+      "gloss": "blieb zurück"
     },
     {
       "surface": "לבדי",
@@ -97,6 +97,6 @@
       "gloss": "sind sie"
     }
   ],
-  "timestamp": "2026-08-06T06:03:20.388617321Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:48.077707283Z",
+  "model": "glm-5.3"
 }

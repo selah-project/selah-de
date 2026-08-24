@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "de",
   "chapter": 4,
-  "translation": "Und er soll ⟨את⟩ den ganzen Stier hinausbringen, nach draußen zum Lager, an einen reinen Ort, an die Schütte der Asche, und ihn verbrennen auf Holz, im Feuer; an der Schütte der Asche soll er verbrannt werden.",
+  "translation": "Und er soll ⟨את⟩ den ganzen Stier hinausbringen, nach draußen zum Lager, an einen reinen Ort, an die Schütte der Asche, und ⟨את⟩ ihn verbrennen auf Holz, im Feuer; an der Schütte der Asche soll er verbrannt werden.",
   "tokens": [
     {
       "surface": "והוציא",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn",
+      "gloss": "⟨את⟩ ihn",
       "marks": "den ganzen Stier"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "soll er verbrannt werden"
     }
   ],
-  "timestamp": "2026-08-06T02:09:12.700669408Z",
+  "timestamp": "2026-08-24T21:30:50.062842438Z",
   "model": "glm-5.2"
 }

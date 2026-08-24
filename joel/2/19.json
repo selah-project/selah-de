@@ -5,7 +5,7 @@
   "book": "joel",
   "lang": "de",
   "chapter": 2,
-  "translation": "Und JHWH antwortete und sprach zu seinem Volk: Siehe, ich sende euch ⟨את⟩ das Getreide und ⟨את⟩ den Most und ⟨את⟩ das Öl, und ihr werdet daran satt werden, und ich werde euch nicht mehr zur Schande unter den Nationen geben.",
+  "translation": "Und JHWH antwortete und sprach zu seinem Volk: Siehe, ich sende euch ⟨את⟩ das Getreide und ⟨את⟩ den Most und ⟨את⟩ das Öl, und ihr werdet ⟨את⟩ daran satt werden, und ich werde euch nicht mehr zur Schande unter den Nationen geben.",
   "tokens": [
     {
       "surface": "ויען",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "daran"
+      "gloss": "⟨את⟩ daran"
     },
     {
       "surface": "ולא",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "euch"
+      "gloss": "⟨את⟩ euch"
     },
     {
       "surface": "עוד",
@@ -85,6 +85,6 @@
       "gloss": "unter den Nationen"
     }
   ],
-  "timestamp": "2026-08-06T15:58:57.263676552Z",
+  "timestamp": "2026-08-24T21:30:49.655533176Z",
   "model": "glm-5.2"
 }

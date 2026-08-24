@@ -5,59 +5,59 @@
   "book": "song-of-songs",
   "lang": "de",
   "chapter": 8,
-  "translation": "Ich beschwöre ⟨אתכם⟩ euch, Töchter Jeruschalajims: Was weckt ihr auf, und was ruft ihr wach ⟨את⟩ die Liebe, bis es ihr gefällt?",
+  "translation": "Ich habe ⟨את⟩ euch beschworen, Töchter Jeruschalajims: Weckt nicht die Liebe auf und erweckt sie nicht, ⟨את⟩, bis es ihr gefällt.",
   "tokens": [
     {
-      "surface": "הִשְׁבַּ֥עְתִּי",
-      "gloss": "Ich beschwöre"
+      "surface": "השבעתי",
+      "gloss": "Ich habe euch beschworen"
     },
     {
-      "surface": "אֶתְכֶ֖ם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch (Töchter)"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch",
+      "marks": "Töchter Jeruschalajims"
     },
     {
-      "surface": "בְּנ֣וֹת",
+      "surface": "בנות",
       "gloss": "Töchter"
     },
     {
-      "surface": "יְרוּשָׁלִָ֑ם",
-      "gloss": "Jeruschalajims"
+      "surface": "ירושלם",
+      "gloss": "Jeruschalajim"
     },
     {
-      "surface": "מַה",
-      "gloss": "Was"
+      "surface": "מה",
+      "gloss": "nicht (wie-könnt-ihr)"
     },
     {
-      "surface": "תָּעִ֧ירוּ",
-      "gloss": "weckt ihr auf"
+      "surface": "תעירו",
+      "gloss": "weckt auf"
     },
     {
-      "surface": "וּֽמַה",
-      "gloss": "und was"
+      "surface": "ומה",
+      "gloss": "und nicht"
     },
     {
-      "surface": "תְּעֹֽרְר֛וּ",
-      "gloss": "ruft ihr wach"
+      "surface": "תעררו",
+      "gloss": "erweckt"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "die Liebe"
     },
     {
-      "surface": "הָאַהֲבָ֖ה",
+      "surface": "האהבה",
       "gloss": "die Liebe"
     },
     {
-      "surface": "עַ֥ד",
+      "surface": "עד",
       "gloss": "bis"
     },
     {
-      "surface": "שֶׁתֶּחְפָּֽץ",
+      "surface": "שתחפץ",
       "gloss": "es ihr gefällt"
     }
   ],
-  "timestamp": "2026-08-06T07:07:24.385733786Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:13:35.922215004Z",
+  "model": "glm-5.3"
 }

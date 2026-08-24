@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "de",
   "chapter": 13,
-  "translation": "Nur aus Hochmut entsteht Streit, doch ⟨bei⟩ ⟨den⟩ Ratsuchenden ⟨ist⟩ Weisheit.",
+  "translation": "Nur aus Hochmut entsteht Streit, ⟨את⟩ doch ⟨bei⟩ ⟨den⟩ Ratsuchenden ⟨ist⟩ Weisheit.",
   "tokens": [
     {
       "surface": "רק",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "doch ⟨bei⟩",
+      "gloss": "⟨את⟩ doch ⟨bei⟩",
       "marks": "⟨den⟩ Ratsuchenden"
     },
     {
@@ -37,6 +37,6 @@
       "gloss": "Weisheit"
     }
   ],
-  "timestamp": "2026-08-06T10:34:49.569988852Z",
+  "timestamp": "2026-08-24T21:30:49.321214234Z",
   "model": "glm-5.2"
 }

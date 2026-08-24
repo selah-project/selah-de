@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 20,
-  "translation": "Denn alle Tage, an denen der Sohn Jischajs auf der Erde lebt, wirst du nicht bestehen, du und dein Königtum. Und nun, sende hin und nimm ⟨ihn⟩ zu mir, denn ein Sohn des Todes ist er.",
+  "translation": "Denn alle Tage, an denen der Sohn Jischajs auf der Erde lebt, wirst du nicht bestehen, du und dein Königtum. Und nun, sende hin und nimm ⟨את⟩ ⟨ihn⟩ zu mir, denn ein Sohn des Todes ist er.",
   "tokens": [
     {
       "surface": "כי",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨ihn⟩",
+      "gloss": "⟨את⟩ ⟨ihn⟩",
       "marks": "ihn (Dawid)"
     },
     {
@@ -97,6 +97,6 @@
       "gloss": "ist er"
     }
   ],
-  "timestamp": "2026-08-05T21:14:00.253519241Z",
+  "timestamp": "2026-08-24T21:30:49.733883032Z",
   "model": "glm-5.2"
 }

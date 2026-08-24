@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 13,
-  "translation": "Und Awischalom sprach: „Wenn nicht, so möge doch mein Bruder Amnon mit uns gehen.“ Und der König sprach zu ihm: „Warum sollte er mit dir gehen?“",
+  "translation": "Und Awischalom sprach: „Wenn nicht, so möge doch mein Bruder Amnon ⟨את⟩ mit uns gehen.“ Und der König sprach zu ihm: „Warum sollte er mit dir gehen?“",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "mit uns"
+      "gloss": "⟨את⟩ mit uns"
     },
     {
       "surface": "אמנון",
@@ -64,6 +64,6 @@
       "gloss": "mit dir"
     }
   ],
-  "timestamp": "2026-08-05T21:20:22.513332899Z",
+  "timestamp": "2026-08-24T21:30:49.128828815Z",
   "model": "glm-5.2"
 }

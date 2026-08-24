@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 22,
-  "translation": "Und Dawid ging von dort nach Mizpe in Moab, und er sagte zum König von Moab: „Lass doch meinen Vater und meine Mutter bei euch herauskommen, bis ich erkenne, was Elohim mir tun wird.“",
+  "translation": "Und Dawid ging von dort nach Mizpe in Moab, und er sagte zum König von Moab: „Lass doch meinen Vater und meine Mutter ⟨את⟩ bei euch herauskommen, bis ich erkenne, was Elohim mir tun wird.“",
   "tokens": [
     {
       "surface": "וילך",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "bei euch"
+      "gloss": "⟨את⟩ bei euch"
     },
     {
       "surface": "עד",
@@ -92,6 +92,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-06T08:38:46.780000805Z",
+  "timestamp": "2026-08-24T21:30:49.746064940Z",
   "model": "glm-5.2"
 }

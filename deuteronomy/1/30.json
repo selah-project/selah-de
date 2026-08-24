@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 1,
-  "translation": "JHWH, euer Elohim, der vor euch hergeht, ⟨er⟩ wird für euch kämpfen, gemäß allem, was er mit euch in Mizrajim vor euren Augen getan hat.",
+  "translation": "JHWH, euer Elohim, der vor euch hergeht, ⟨er⟩ wird für euch kämpfen, gemäß allem, was er ⟨את⟩ mit euch in Mizrajim vor euren Augen getan hat.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "mit euch"
+      "gloss": "⟨את⟩ mit euch"
     },
     {
       "surface": "במצרים",
@@ -60,6 +60,6 @@
       "gloss": "vor euren Augen"
     }
   ],
-  "timestamp": "2026-08-05T20:42:04.488752423Z",
+  "timestamp": "2026-08-24T21:30:49.823280724Z",
   "model": "glm-5.2"
 }

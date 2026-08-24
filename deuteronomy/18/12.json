@@ -5,66 +5,66 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 18,
-  "translation": "Denn ein Gräuel für JHWH ist jeder, der ⟨diese⟩ Dinge tut, und wegen dieser Gräuel treibt JHWH, dein Elohim, ⟨אתם⟩ sie vor dir hinaus.",
+  "translation": "Denn ein Gräuel für JHWH ist jeder, der diese Dinge tut, und wegen dieser Gräuel vertreibt JHWH, dein Elohim, ⟨את⟩ sie vor dir her.",
   "tokens": [
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "Denn"
     },
     {
-      "surface": "תוֹעֲבַ֥ת",
+      "surface": "תועבת",
       "gloss": "ein Gräuel"
     },
     {
-      "surface": "יְהוָ֖ה",
-      "gloss": "für JHWH"
-    },
-    {
-      "surface": "כָּל",
-      "gloss": "jeder"
-    },
-    {
-      "surface": "עֹ֣שֵׂה",
-      "gloss": "der tut"
-    },
-    {
-      "surface": "אֵ֑לֶּה",
-      "gloss": "diese Dinge"
-    },
-    {
-      "surface": "וּבִגְלַל֙",
-      "gloss": "und wegen"
-    },
-    {
-      "surface": "הַתּוֹעֵבֹ֣ת",
-      "gloss": "dieser Gräuel"
-    },
-    {
-      "surface": "הָאֵ֔לֶּה",
-      "gloss": "diese"
-    },
-    {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "JHWH"
     },
     {
-      "surface": "אֱלֹהֶ֔יךָ",
+      "surface": "כל",
+      "gloss": "jeder"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der … tut"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "diese Dinge"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "und wegen"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "dieser Gräuel"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "diese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "JHWH"
+    },
+    {
+      "surface": "אלהיך",
       "gloss": "dein Elohim"
     },
     {
-      "surface": "מוֹרִ֥ישׁ",
-      "gloss": "treibt hinaus"
+      "surface": "מוריש",
+      "gloss": "vertreibt … her"
     },
     {
-      "surface": "אוֹתָ֖ם",
-      "gloss": "⟨אתם⟩",
-      "marks": "sie (die Völker)"
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sie"
     },
     {
-      "surface": "מִפָּנֶֽיךָ",
+      "surface": "מפניך",
       "gloss": "vor dir"
     }
   ],
-  "timestamp": "2026-08-05T20:46:56.037698843Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:48.796528989Z",
+  "model": "glm-5.3"
 }

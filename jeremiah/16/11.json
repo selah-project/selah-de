@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "de",
   "chapter": 16,
-  "translation": "Und du sollst zu ihnen sagen: Weil eure Väter mich verlassen haben — Spruch JHWHs — und anderen Elohim nachgegangen sind und ihnen gedient und sich vor ihnen niedergeworfen haben, mich aber verlassen und meine Tora nicht gehalten haben.",
+  "translation": "Und du sollst zu ihnen sagen: Weil eure Väter mich verlassen haben — Spruch JHWHs — und anderen Elohim nachgegangen sind und ihnen gedient und sich vor ihnen niedergeworfen haben, ⟨את⟩ mich aber verlassen und meine Tora nicht gehalten haben.",
   "tokens": [
     {
       "surface": "וְאָמַרְתָּ",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אוֹתִי",
-      "gloss": "mich"
+      "gloss": "⟨את⟩ mich"
     },
     {
       "surface": "נְאֻם",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "וְאֹתִי",
-      "gloss": "mich aber"
+      "gloss": "⟨את⟩ mich aber"
     },
     {
       "surface": "עָזָבוּ",
@@ -97,6 +97,6 @@
       "gloss": "gehalten haben"
     }
   ],
-  "timestamp": "2026-08-05T22:04:04.359909469Z",
+  "timestamp": "2026-08-24T21:30:49.533806538Z",
   "model": "glm-5.2"
 }

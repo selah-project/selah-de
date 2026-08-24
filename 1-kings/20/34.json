@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 20,
-  "translation": "Und ⟨er⟩ sprach zu ihm: „Die Städte, die mein Vater von ⟨מֵאֵת⟩ deinem Vater genommen hat, werde ich zurückgeben, und ⟨du⟩ sollst dir Märkte aufrichten in Dammeśek, so wie mein Vater ⟨sie⟩ in Schomron aufrichtete. Und ich, ⟨in⟩ einer Brit werde ich dich fortschicken.\" Und er schnitt ihm ⟨eine⟩ Brit, und er schickte ihn fort.",
+  "translation": "Und er sprach zu ihm: „Die Städte, die mein Vater von deinem Vater genommen hat, werde ich zurückgeben; und Straßen sollst du dir in Damaschek einrichten, wie mein Vater ⟨sie⟩ in Schomron eingerichtet hat. Und ich — mit einem Brit werde ich dich entlassen.“ Da schloss er mit ihm ⟨einen⟩ Brit und entließ ihn.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "und ⟨er⟩ sprach"
+      "gloss": "Und er sprach"
     },
     {
       "surface": "אליו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הערים",
-      "gloss": "die Städte"
+      "gloss": "Die Städte"
     },
     {
       "surface": "אשר",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨מֵאֵת⟩",
-      "marks": "deinem Vater"
+      "gloss": "⟨את⟩",
+      "marks": "dein Vater (אביך)"
     },
     {
       "surface": "אביך",
-      "gloss": "deinem Vater"
+      "gloss": "von deinem Vater"
     },
     {
       "surface": "אשיב",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "וחוצות",
-      "gloss": "und Märkte"
+      "gloss": "und Straßen"
     },
     {
       "surface": "תשים",
-      "gloss": "sollst ⟨du⟩ aufrichten"
+      "gloss": "sollst du einrichten"
     },
     {
       "surface": "לך",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "בדמשק",
-      "gloss": "in Dammeśek"
+      "gloss": "in Damaschek"
     },
     {
       "surface": "כאשר",
-      "gloss": "so wie"
+      "gloss": "wie"
     },
     {
       "surface": "שם",
-      "gloss": "aufrichtete"
+      "gloss": "eingerichtet hat"
     },
     {
       "surface": "אבי",
@@ -82,29 +82,29 @@
     },
     {
       "surface": "בברית",
-      "gloss": "⟨in⟩ einer Brit"
+      "gloss": "mit einem Brit"
     },
     {
       "surface": "אשלחך",
-      "gloss": "werde ich dich fortschicken"
+      "gloss": "werde ich dich entlassen"
     },
     {
       "surface": "ויכרת",
-      "gloss": "und er schnitt"
+      "gloss": "Da schloss"
     },
     {
       "surface": "לו",
-      "gloss": "ihm"
+      "gloss": "mit ihm"
     },
     {
       "surface": "ברית",
-      "gloss": "⟨eine⟩ Brit"
+      "gloss": "einen Brit"
     },
     {
       "surface": "וישלחהו",
-      "gloss": "und er schickte ihn fort"
+      "gloss": "und entließ ihn"
     }
   ],
-  "timestamp": "2026-08-06T22:40:41.016328575Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:03:20.138813432Z",
+  "model": "glm-5.3"
 }

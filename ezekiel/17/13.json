@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 17,
-  "translation": "Und er nahm vom Samen der Königsherrschaft und schloss mit ihm ⟨einen⟩ Brit (Bund), und er brachte ihn in einen Eid, und ⟨את⟩ die Mächtigen des Landes nahm er weg.",
+  "translation": "Und er nahm vom Samen der Königsherrschaft und schloss ⟨את⟩ mit ihm ⟨einen⟩ Brit (Bund), und er brachte ihn in einen Eid, und ⟨את⟩ die Mächtigen des Landes nahm er weg.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "mit ihm"
+      "gloss": "⟨את⟩ mit ihm"
     },
     {
       "surface": "ברית",
@@ -62,6 +62,6 @@
       "gloss": "nahm er weg"
     }
   ],
-  "timestamp": "2026-08-05T22:21:21.095283355Z",
+  "timestamp": "2026-08-24T21:30:49.889545993Z",
   "model": "glm-5.2"
 }

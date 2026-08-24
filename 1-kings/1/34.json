@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "de",
   "chapter": 1,
-  "translation": "Und Zadok der Kohen und Natan der Nawi sollen ihn dort salben zum König über Jisra'el, und ihr sollt in das Schofar stoßen und rufen: ‚Es lebe der König Schelomo!‘",
+  "translation": "Und Zadok der Kohen und Natan der Nawi sollen ⟨את⟩ ihn dort salben zum König über Jisra'el, und ihr sollt in das Schofar stoßen und rufen: ‚Es lebe der König Schelomo!‘",
   "tokens": [
     {
       "surface": "ומשח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn"
+      "gloss": "⟨את⟩ ihn"
     },
     {
       "surface": "שם",
@@ -72,6 +72,6 @@
       "gloss": "Schelomo"
     }
   ],
-  "timestamp": "2026-08-05T21:24:56.887569574Z",
+  "timestamp": "2026-08-24T21:30:50.338777081Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 1,
-  "translation": "Aber wie man ⟨ihn⟩ bedrückte, so mehrte er sich und so brach er aus. Und sie empörten sich vor den Söhnen Jisraels.",
+  "translation": "Aber wie man ⟨⟨את⟩ ihn⟩ bedrückte, so mehrte er sich und so brach er aus. Und sie empörten sich vor den Söhnen Jisraels.",
   "tokens": [
     {
       "surface": "וכאשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "ihn",
+      "gloss": "⟨את⟩ ihn",
       "marks": "ihn"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "Jisraels"
     }
   ],
-  "timestamp": "2026-08-05T20:04:23.098986117Z",
+  "timestamp": "2026-08-24T21:30:49.636873619Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "de",
   "chapter": 2,
-  "translation": "Und ⟨ich⟩ — ich führte euch herauf aus dem Land Mizrajim und leitete euch ⟨אתכם⟩ ⟨durch⟩ die Wüste vierzig Jahre, um ⟨את⟩ das Land des Emori in Besitz zu nehmen.",
+  "translation": "Und ich, ich führte euch hinauf aus dem Land Mizrajim (Ägypten) und ließ euch vierzig Jahre durch die Wüste gehen, um ⟨את⟩ das Land des Emori einzunehmen.",
   "tokens": [
     {
       "surface": "ואנכי",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "העליתי",
-      "gloss": "führte ich herauf"
+      "gloss": "führte ich hinauf"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch (von Mizrajim herauf)"
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch"
     },
     {
       "surface": "מארץ",
@@ -26,20 +26,20 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mizrajim"
+      "gloss": "Mizrajim (Ägypten)"
     },
     {
       "surface": "ואולך",
-      "gloss": "und leitete"
+      "gloss": "und ließ ich gehen"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch (durch die Wüste)"
+      "gloss": "⟨את⟩ euch",
+      "marks": "euch"
     },
     {
       "surface": "במדבר",
-      "gloss": "in der Wüste"
+      "gloss": "durch die Wüste"
     },
     {
       "surface": "ארבעים",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "um … in Besitz zu nehmen"
+      "gloss": "um einzunehmen"
     },
     {
       "surface": "את",
@@ -67,6 +67,6 @@
       "gloss": "des Emori"
     }
   ],
-  "timestamp": "2026-08-06T06:31:27.750132987Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:01:20.500761074Z",
+  "model": "glm-5.3"
 }

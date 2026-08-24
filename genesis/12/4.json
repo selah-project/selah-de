@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "de",
   "chapter": 12,
-  "translation": "Und Awram ging, wie JHWH zu ihm geredet hatte, und Lot ging mit ihm; und Awram ⟨war⟩ ein Sohn von fünf und siebzig Jahren, als er aus Charan auszog.",
+  "translation": "Und Awram ging, wie JHWH zu ihm geredet hatte, und Lot ging ⟨את⟩ mit ihm; und Awram ⟨war⟩ ein Sohn von fünf und siebzig Jahren, als er aus Charan auszog.",
   "tokens": [
     {
       "surface": "וילך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "mit ihm"
+      "gloss": "⟨את⟩ mit ihm"
     },
     {
       "surface": "לוט",
@@ -76,6 +76,6 @@
       "gloss": "aus Charan"
     }
   ],
-  "timestamp": "2026-08-06T05:07:51.779533172Z",
+  "timestamp": "2026-08-24T21:30:49.243109165Z",
   "model": "glm-5.2"
 }

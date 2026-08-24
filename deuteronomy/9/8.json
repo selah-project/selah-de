@@ -5,47 +5,46 @@
   "book": "deuteronomy",
   "lang": "de",
   "chapter": 9,
-  "translation": "Und bei Chorew reiztet ihr ⟨את⟩ JHWH zum Zorn, und JHWH entbrannte in Zorn gegen euch, um euch zu vernichten ⟨אתכם⟩.",
+  "translation": "Auch am Chorew erzürntet ihr ⟨את⟩ JHWH, und JHWH wurde zornig auf euch, um euch zu vernichten.",
   "tokens": [
     {
-      "surface": "וּבְחֹרֵ֥ב",
-      "gloss": "Und bei Chorew"
+      "surface": "ובחרב",
+      "gloss": "Auch am Chorew"
     },
     {
-      "surface": "הִקְצַפְתֶּ֖ם",
-      "gloss": "reiztet ihr … zum Zorn"
+      "surface": "הקצפתם",
+      "gloss": "erzürntet ihr"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "JHWH"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "JHWH"
     },
     {
-      "surface": "וַיִּתְאַנַּ֣ף",
-      "gloss": "und … entbrannte in Zorn"
+      "surface": "ויתאנף",
+      "gloss": "und wurde zornig"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "gloss": "JHWH"
     },
     {
-      "surface": "בָּכֶ֖ם",
-      "gloss": "gegen euch"
+      "surface": "בכם",
+      "gloss": "auf euch"
     },
     {
-      "surface": "לְהַשְׁמִ֥יד",
+      "surface": "להשמיד",
       "gloss": "um zu vernichten"
     },
     {
-      "surface": "אֶתְכֶֽם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "euch"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ euch"
     }
   ],
-  "timestamp": "2026-08-05T20:44:34.355240321Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:00:12.881644825Z",
+  "model": "glm-5.3"
 }

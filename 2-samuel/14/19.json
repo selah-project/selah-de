@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "de",
   "chapter": 14,
-  "translation": "Und der König sagte: „Ist die Hand Joabs bei dir in all ⟨diesem⟩?“ Und die Frau antwortete und sagte: „⟨So wahr⟩ deine Nefesch lebt, mein Herr, der König — es ist ⟨kein⟩ Mann, ⟨der⟩ zur Rechten und zur Linken ⟨abzuweichen⟩ von all dem, was mein Herr, der König, geredet hat. Denn dein Knecht, Joab, er hat mir geboten, und er hat ⟨es⟩ in den Mund deiner Magd gelegt: ⟨את⟩ all diese Worte.“",
+  "translation": "Und der König sagte: „Ist die Hand Joabs ⟨את⟩ bei dir in all ⟨diesem⟩?“ Und die Frau antwortete und sagte: „⟨So wahr⟩ deine Nefesch lebt, mein Herr, der König — es ist ⟨kein⟩ Mann, ⟨der⟩ zur Rechten und zur Linken ⟨abzuweichen⟩ von all dem, was mein Herr, der König, geredet hat. Denn dein Knecht, Joab, er hat mir geboten, und er hat ⟨es⟩ in den Mund deiner Magd gelegt: ⟨את⟩ all diese Worte.“",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "bei dir"
+      "gloss": "⟨את⟩ bei dir"
     },
     {
       "surface": "בכל",
@@ -153,6 +153,6 @@
       "gloss": "diese"
     }
   ],
-  "timestamp": "2026-08-06T02:52:58.323544221Z",
+  "timestamp": "2026-08-24T21:30:49.126671095Z",
   "model": "glm-5.2"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "de",
   "chapter": 28,
-  "translation": "Und du sollst sie bekleiden, ⟨את⟩ Aharon, deinen Bruder, und ⟨את⟩ seine Söhne mit ihm, und du sollst sie salben und du sollst ⟨את⟩ ihre Hand füllen und sie heiligen, und sie sollen mir als Kohen dienen.",
+  "translation": "Und du sollst sie bekleiden, ⟨את⟩ Aharon, deinen Bruder, und ⟨את⟩ seine Söhne ⟨את⟩ mit ihm, und du sollst sie salben und du sollst ⟨את⟩ ihre Hand füllen und sie heiligen, und sie sollen mir als Kohen dienen.",
   "tokens": [
     {
       "surface": "וְהִלְבַּשְׁתָּ",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אֹתָם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "אֶת",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "אִתּוֹ",
-      "gloss": "mit ihm"
+      "gloss": "⟨את⟩ mit ihm"
     },
     {
       "surface": "וּמָשַׁחְתָּ",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "אֹתָם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "וּמִלֵּאתָ",
@@ -68,7 +68,7 @@
     },
     {
       "surface": "אֹתָם",
-      "gloss": "sie"
+      "gloss": "⟨את⟩ sie"
     },
     {
       "surface": "וְכִהֲנוּ",
@@ -79,6 +79,6 @@
       "gloss": "mir"
     }
   ],
-  "timestamp": "2026-08-05T20:13:46.943227419Z",
+  "timestamp": "2026-08-24T21:30:49.581971661Z",
   "model": "glm-5.2"
 }

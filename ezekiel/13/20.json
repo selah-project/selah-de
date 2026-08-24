@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "de",
   "chapter": 13,
-  "translation": "Darum, so spricht Adonai JHWH: Siehe, ich ⟨bin⟩ gegen eure Polster, mit denen ihr dort die Nefeschot ⟨einfangt⟩, ⟨die⟩ auffliegen, und ich werde sie von euren Armen abreißen, und ich werde die Nefeschot gehen lassen, die ihr ⟨einfangt⟩ — ⟨את⟩ Nefeschot ⟨die⟩ auffliegen.",
+  "translation": "Darum, so spricht Adonai JHWH: Siehe, ich ⟨bin⟩ gegen eure Polster, mit denen ihr dort die Nefeschot ⟨einfangt⟩, ⟨die⟩ auffliegen, und ich werde ⟨את⟩ sie von euren Armen abreißen, und ich werde die Nefeschot gehen lassen, die ihr ⟨einfangt⟩ — ⟨את⟩ Nefeschot ⟨die⟩ auffliegen.",
   "tokens": [
     {
       "surface": "לכן",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sie",
+      "gloss": "⟨את⟩ sie",
       "marks": "von euren Armen"
     },
     {
@@ -124,6 +124,6 @@
       "gloss": "⟨die⟩ auffliegen"
     }
   ],
-  "timestamp": "2026-08-06T15:57:06.883704735Z",
+  "timestamp": "2026-08-24T21:30:49.923771639Z",
   "model": "glm-5.2"
 }

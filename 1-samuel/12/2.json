@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "de",
   "chapter": 12,
-  "translation": "Und nun, seht, der König schreitet vor euch einher, und ich bin alt und grau geworden, und meine Söhne, seht, ⟨sie⟩ sind bei euch; und ich bin vor euch einhergeschritten von meiner Jugend an bis zu diesem Tag.",
+  "translation": "Und nun, seht, der König schreitet vor euch einher, und ich bin alt und grau geworden, und meine Söhne, seht, ⟨sie⟩ ⟨את⟩ sind bei euch; und ich bin vor euch einhergeschritten von meiner Jugend an bis zu diesem Tag.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "sind bei euch"
+      "gloss": "⟨את⟩ sind bei euch"
     },
     {
       "surface": "ואני",
@@ -80,6 +80,6 @@
       "gloss": "diesem"
     }
   ],
-  "timestamp": "2026-08-06T01:05:45.297259098Z",
+  "timestamp": "2026-08-24T21:30:49.754176306Z",
   "model": "glm-5.2"
 }

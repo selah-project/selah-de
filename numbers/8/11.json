@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "de",
   "chapter": 8,
-  "translation": "Und Aharon soll ⟨die⟩ Lewim als Schwingopfer vor JHWH schwingen, von ⟨den⟩ Söhnen Jisraels, und sie sollen dem Dienst des JHWH dienen.",
+  "translation": "Und Aharon soll ⟨die⟩ Lewim als Schwingopfer vor JHWH schwingen, ⟨את⟩ von ⟨den⟩ Söhnen Jisraels, und sie sollen dem Dienst des JHWH dienen.",
   "tokens": [
     {
       "surface": "והניף",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "von"
+      "gloss": "⟨את⟩ von"
     },
     {
       "surface": "בני",
@@ -70,6 +70,6 @@
       "gloss": "des JHWH"
     }
   ],
-  "timestamp": "2026-08-05T20:31:54.734793517Z",
+  "timestamp": "2026-08-24T21:30:50.221619636Z",
   "model": "glm-5.2"
 }
