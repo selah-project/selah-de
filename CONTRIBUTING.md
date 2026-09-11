@@ -40,3 +40,8 @@ Die Dateien liegen unter `<buch>/<kapitel>/<vers>.json`.
 - Bewahren Sie die Konventionen der Winkelklammern, der
   Gottesnamen und von `⟨את⟩`.
 - Vermeiden Sie reine Formänderungen und sachfremde Korrekturen.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
