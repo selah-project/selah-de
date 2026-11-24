@@ -14,7 +14,7 @@ Ihnen vorliegt, und unterscheiden Sie Gewissheit von Vorschlag.
   Ersatz klar sind.
 - Für Fehler der Anwendung oder private Fragen zu Sicherheit,
   Konten oder persönlichen Daten nutzen Sie
-  [den Selah-Support](https://selahproject.com/support).
+  [den Selah-Support](https://s33k3r.com/learn/support).
 
 ## Was anzugeben ist
 
